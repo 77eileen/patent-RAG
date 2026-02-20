@@ -1,0 +1,1398 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2013.08.19",
+      "applicationFlag": "",
+      "applicationNumber": "10-2015-7002891",
+      "claimCount": "21",
+      "examinerName": "정의준",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "암 치료제",
+      "inventionTitleEng": "AGENT FOR TREATING CANCER",
+      "openDate": "2015.03.11",
+      "openNumber": "10-2015-0027302",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2015.02.03",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2016.10.17",
+      "publicationNumber": "",
+      "registerDate": "2016.10.11",
+      "registerNumber": "10-1667169-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2015.02.03"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/713"
+      },
+      {
+        "ipcDate": "(2026.01.01)",
+        "ipcNumber": "C12Q 1/6886"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "[과제] 암 치료제, 특히 암 세포 증식 억제제, 암 전이 억제 또는 예방제, 상기 제제를 이용한 의약, 암 치료의 효과를 판정하는 방법, 암 치료의 예후를 예측하는 방법, 암의 증식 억제 작용을 갖는 물질의 스크리닝 방법, 및 암의 전이 저해 작용을 갖는 물질의 스크리닝 방법의 제공. [해결수단] 적어도 서열번호 1 또는 2와 70% 이상의 서열 동일성을 갖는 뉴클레오티드 서열로 이루어지는 핵산으로서, 단백질 발현 억제 활성을 보이는 핵산을 함유하는 의약."
+    }
+  },
+  "claims": {
+    "application_number": "1020157002891",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20150203",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 25,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "적어도 이하를 함유하는 것을 특징으로 하는 암 치료를 위한 의약:\n(1) 서열번호 1 또는 서열번호 2로 나타내어지는 뉴클레오티드 서열을 포함하는 핵산, \n(2) 서열번호 1 또는 서열번호 2와 70% 이상의 서열 동일성을 갖는 뉴클레오티드 서열을 포함하는 핵산으로서, 단백질 발현 억제 활성을 나타내는 핵산, 또는\n(3) 상기 (1) 또는 (2)의 뉴클레오티드 서열 및 이 뉴클레오티드 서열과 상보적인 서열을 포함하고, 이에 따라 쇄 중의 전부 또는 일부에 이중쇄 구조를 형성하는 단일쇄 또는 이중쇄의 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 핵산이 이중쇄의 핵산인 의약.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 핵산이 서열번호 1로 나타내어지는 뉴클레오티드 서열 또는 그 부분 서열을 포함하는 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 핵산이 서열번호 2로 나타내어지는 뉴클레오티드 서열 또는 그 부분 서열을 포함하는 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 핵산이 miR582의 뉴클레오티드 서열을 포함하고, 또 단백질 발현 억제 활성을 나타내는 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 핵산이 miR582 및 그 전구체로 이루어진 군에서 선택되는 적어도 하나의 핵산인 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 핵산이 miR582인 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 핵산이 수식된 핵산인 의약.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 암이, miR582의 발현이 감소하고 있는 암인 의약.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 암이 방광암인 의약.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 암이 등급 2 이상의 방광암인 의약.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 기재한 핵산을 함유하는, 암의 전이를 억제 또는 예방하기 위한 의약.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 경요도적으로 포유동물에게 투여되는 의약.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 기재한 의약의 치료 효과를 예측하는 방법으로서, 제1항 내지 제13항 중 어느 한 항에 기재한 의약의 투여 전에 암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 기재한 의약의 치료 효과를 예측하는 방법으로서, 암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 기재한 의약의 치료 효과를 판정하는 방법으로서, 암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 기재한 의약의 치료 효과를 판정하는 방법으로서, 암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "암 치료의 예후를 판정하는 방법으로서, 암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "암 치료의 예후를 판정하는 방법으로서, 암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항 또는 제15항에 있어서, 암이 방광암인 방법.",
+          "refers_to": [
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 또는 제17항에 있어서, 암이 방광암인 방법.",
+          "refers_to": [
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항 또는 제19항에 있어서, 암이 방광암인 방법.",
+          "refers_to": [
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 1 또는 서열번호 2에 기재한 핵산을 특이적으로 검출할 수 있는 핵산 프로브를 포함하는, 제1항 내지 제13항 중 어느 한 항에 기재한 의약의 효과를 판정하기 위한 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 (1)~(3)의 공정을 포함하는, 암의 증식을 억제할 수 있는 물질을 탐색하는 방법:\n(1) 피검 물질과 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현을 측정할 수 있는 세포를 접촉시키는 공정, \n(2) 피검 물질을 접촉시킨 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 측정하여, 그 발현량을 피검 물질을 접촉시키지 않은 대조 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량과 비교하는 공정, 및\n(3) 상기 (2)의 비교 결과에 기초하여, 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 상승 제어하는 피검 물질을, 암의 증식을 저해할 수 있는 물질로서 선택하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 (1)~(3)의 공정을 포함하는, 암의 전이 또는 암 세포의 침윤능을 저해할 수 있는 물질을 탐색하는 방법:\n(1) 피검 물질과 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현을 측정할 수 있는 세포를 접촉시키는 공정, \n(2) 피검 물질을 접촉시킨 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 측정하여, 그 발현량을 피검 물질을 접촉시키지 않은 대조 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산 발현량과 비교하는 공정, 및\n(3) 상기 (2)의 비교 결과에 기초하여, 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 상승 제어하는 피검 물질을, 암의 전이 또는 암 세포의 침윤능을 저해할 수 있는 물질로서 선택하는 공정.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20160330",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 27,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "적어도 이하를 함유하는 것을 특징으로 하는 방광암 치료를 위한 의약:(1) 서열번호 1 또는 서열번호 2로 나타내어지는 뉴클레오티드 서열을 포함하는 핵산, 또는(2) 상기 (1)의 뉴클레오티드 서열 및 이 뉴클레오티드 서열과 상보적인 서열을 포함하고, 이에 따라 쇄 중의 전부 또는 일부에 이중쇄 구조를 형성하는 단일쇄 또는 이중쇄의 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 핵산이 이중쇄의 핵산인 의약.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 핵산이 서열번호 1로 나타내어지는 뉴클레오티드 서열을 포함하는 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 핵산이 서열번호 2로 나타내어지는 뉴클레오티드 서열을 포함하는 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 핵산이 miR582의 뉴클레오티드 서열을 포함하고, 또 단백질 발현 억제 활성을 나타내는 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 핵산이 miR582 및 그 전구체로 이루어진 군에서 선택되는 적어도 하나의 핵산이며, 상기 전구체는 pri-miR582 또는 pre-miR582인 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 핵산이 miR582인 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 핵산이 수식된 핵산인 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 방광암이, miR582의 발현이 감소하고 있는 방광암인 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 방광암이 등급 2 이상의 방광암인 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 기재한 핵산을 함유하는, 방광암의 전이를 억제 또는 예방하기 위한 의약.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 경요도적으로 포유동물에게 투여되는 의약.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 예측하는 방법으로서, 제1항 또는 제2항에 기재한 의약의 투여 전에 방광암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 예측하는 방법으로서, 방광암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 판정하는 방법으로서, 방광암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 판정하는 방법으로서, 방광암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "방광암 치료의 예후를 판정하는 방법으로서, 방광암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "방광암 치료의 예후를 판정하는 방법으로서, 방광암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 1 또는 서열번호 2에 기재한 핵산을 특이적으로 검출할 수 있는 핵산 프로브를 포함하는, 제1항 또는 제2항에 기재한 의약의 효과를 판정하기 위한 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 (1)~(3)의 공정을 포함하는, 방광암의 증식을 억제할 수 있는 물질을 탐색하는 방법:(1) 피검 물질과 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현을 측정할 수 있는 세포를 접촉시키는 공정, (2) 피검 물질을 접촉시킨 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 측정하여, 그 발현량을 피검 물질을 접촉시키지 않은 대조 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량과 비교하는 공정, 및(3) 상기 (2)의 비교 결과에 기초하여, 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 상승 제어하는 피검 물질을, 방광암의 증식을 저해할 수 있는 물질로서 선택하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 (1)~(3)의 공정을 포함하는, 방광암의 전이 또는 방광암 세포의 침윤능을 저해할 수 있는 물질을 탐색하는 방법:(1) 피검 물질과 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현을 측정할 수 있는 세포를 접촉시키는 공정, (2) 피검 물질을 접촉시킨 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 측정하여, 그 발현량을 피검 물질을 접촉시키지 않은 대조 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산 발현량과 비교하는 공정, 및(3) 상기 (2)의 비교 결과에 기초하여, 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 상승 제어하는 피검 물질을, 방광암의 전이 또는 방광암 세포의 침윤능을 저해할 수 있는 물질로서 선택하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20150203",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "적어도 이하를 함유하는 것을 특징으로 하는 암 치료를 위한 의약:\n(1) 서열번호 1 또는 서열번호 2로 나타내어지는 뉴클레오티드 서열을 포함하는 핵산, \n(2) 서열번호 1 또는 서열번호 2와 70% 이상의 서열 동일성을 갖는 뉴클레오티드 서열을 포함하는 핵산으로서, 단백질 발현 억제 활성을 나타내는 핵산, 또는\n(3) 상기 (1) 또는 (2)의 뉴클레오티드 서열 및 이 뉴클레오티드 서열과 상보적인 서열을 포함하고, 이에 따라 쇄 중의 전부 또는 일부에 이중쇄 구조를 형성하는 단일쇄 또는 이중쇄의 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 핵산이 이중쇄의 핵산인 의약.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 핵산이 서열번호 1로 나타내어지는 뉴클레오티드 서열 또는 그 부분 서열을 포함하는 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 핵산이 서열번호 2로 나타내어지는 뉴클레오티드 서열 또는 그 부분 서열을 포함하는 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 핵산이 miR582의 뉴클레오티드 서열을 포함하고, 또 단백질 발현 억제 활성을 나타내는 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 핵산이 miR582 및 그 전구체로 이루어진 군에서 선택되는 적어도 하나의 핵산인 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 핵산이 miR582인 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 핵산이 수식된 핵산인 의약.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 암이, miR582의 발현이 감소하고 있는 암인 의약.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 암이 방광암인 의약.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 암이 등급 2 이상의 방광암인 의약.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 기재한 핵산을 함유하는, 암의 전이를 억제 또는 예방하기 위한 의약.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 경요도적으로 포유동물에게 투여되는 의약.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 기재한 의약의 치료 효과를 예측하는 방법으로서, 제1항 내지 제13항 중 어느 한 항에 기재한 의약의 투여 전에 암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 기재한 의약의 치료 효과를 예측하는 방법으로서, 암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 기재한 의약의 치료 효과를 판정하는 방법으로서, 암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 기재한 의약의 치료 효과를 판정하는 방법으로서, 암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "암 치료의 예후를 판정하는 방법으로서, 암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "암 치료의 예후를 판정하는 방법으로서, 암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항 또는 제15항에 있어서, 암이 방광암인 방법.",
+            "refers_to": [
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항 또는 제17항에 있어서, 암이 방광암인 방법.",
+            "refers_to": [
+              16,
+              17
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항 또는 제19항에 있어서, 암이 방광암인 방법.",
+            "refers_to": [
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 1 또는 서열번호 2에 기재한 핵산을 특이적으로 검출할 수 있는 핵산 프로브를 포함하는, 제1항 내지 제13항 중 어느 한 항에 기재한 의약의 효과를 판정하기 위한 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 (1)~(3)의 공정을 포함하는, 암의 증식을 억제할 수 있는 물질을 탐색하는 방법:\n(1) 피검 물질과 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현을 측정할 수 있는 세포를 접촉시키는 공정, \n(2) 피검 물질을 접촉시킨 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 측정하여, 그 발현량을 피검 물질을 접촉시키지 않은 대조 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량과 비교하는 공정, 및\n(3) 상기 (2)의 비교 결과에 기초하여, 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 상승 제어하는 피검 물질을, 암의 증식을 저해할 수 있는 물질로서 선택하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 (1)~(3)의 공정을 포함하는, 암의 전이 또는 암 세포의 침윤능을 저해할 수 있는 물질을 탐색하는 방법:\n(1) 피검 물질과 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현을 측정할 수 있는 세포를 접촉시키는 공정, \n(2) 피검 물질을 접촉시킨 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 측정하여, 그 발현량을 피검 물질을 접촉시키지 않은 대조 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산 발현량과 비교하는 공정, 및\n(3) 상기 (2)의 비교 결과에 기초하여, 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 상승 제어하는 피검 물질을, 암의 전이 또는 암 세포의 침윤능을 저해할 수 있는 물질로서 선택하는 공정.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20150203",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 핵산이 수식된 핵산인 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 암이, miR582의 발현이 감소하고 있는 암인 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 암이 방광암인 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 암이 등급 2 이상의 방광암인 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 기재한 핵산을 함유하는, 암의 전이를 억제 또는 예방하기 위한 의약.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 경요도적으로 포유동물에게 투여되는 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 예측하는 방법으로서, 제1항 또는 제2항에 기재한 의약의 투여 전에 암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 예측하는 방법으로서, 암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 판정하는 방법으로서, 암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 판정하는 방법으로서, 암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항 있어서, 암이 방광암인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항 있어서, 암이 방광암인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 1 또는 서열번호 2에 기재한 핵산을 특이적으로 검출할 수 있는 핵산 프로브를 포함하는, 제1항 또는 제2항에 기재한 의약의 효과를 판정하기 위한 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 암이 방광암인 방법.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 암이 방광암인 방법.",
+            "refers_to": [
+              17
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20160330",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 21,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "적어도 이하를 함유하는 것을 특징으로 하는 방광암 치료를 위한 의약:\n(1) 서열번호 1 또는 서열번호 2로 나타내어지는 뉴클레오티드 서열을 포함하는 핵산, 또는\n(2) 상기 (1)의 뉴클레오티드 서열 및 이 뉴클레오티드 서열과 상보적인 서열을 포함하고, 이에 따라 쇄 중의 전부 또는 일부에 이중쇄 구조를 형성하는 단일쇄 또는 이중쇄의 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 핵산이 서열번호 1로 나타내어지는 뉴클레오티드 서열을 포함하는 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 핵산이 서열번호 2로 나타내어지는 뉴클레오티드 서열을 포함하는 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 핵산이 miR582 및 그 전구체로 이루어진 군에서 선택되는 적어도 하나의 핵산이며, 상기 전구체는 pri-miR582 또는 pre-miR582인 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 방광암이, miR582의 발현이 감소하고 있는 방광암인 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 방광암이 등급 2 이상의 방광암인 의약.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 기재한 핵산을 함유하는, 방광암의 전이를 억제 또는 예방하기 위한 의약.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 예측하는 방법으로서, 제1항 또는 제2항에 기재한 의약의 투여 전에 방광암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 예측하는 방법으로서, 방광암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 판정하는 방법으로서, 방광암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 기재한 의약의 치료 효과를 판정하는 방법으로서, 방광암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "방광암 치료의 예후를 판정하는 방법으로서, 방광암에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현 레벨 또는 농도를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "방광암 치료의 예후를 판정하는 방법으로서, 방광암에 있어서의 miR582의 게놈의 카피수를 측정하는 공정을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 (1)~(3)의 공정을 포함하는, 방광암의 증식을 억제할 수 있는 물질을 탐색하는 방법:\n(1) 피검 물질과 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현을 측정할 수 있는 세포를 접촉시키는 공정, \n(2) 피검 물질을 접촉시킨 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 측정하여, 그 발현량을 피검 물질을 접촉시키지 않은 대조 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량과 비교하는 공정, 및\n(3) 상기 (2)의 비교 결과에 기초하여, 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 상승 제어하는 피검 물질을, 방광암의 증식을 저해할 수 있는 물질로서 선택하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 (1)~(3)의 공정을 포함하는, 방광암의 전이 또는 방광암 세포의 침윤능을 저해할 수 있는 물질을 탐색하는 방법:\n(1) 피검 물질과 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현을 측정할 수 있는 세포를 접촉시키는 공정, \n(2) 피검 물질을 접촉시킨 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 측정하여, 그 발현량을 피검 물질을 접촉시키지 않은 대조 세포에 있어서의 서열번호 1 또는 서열번호 2에 기재한 핵산 발현량과 비교하는 공정, 및\n(3) 상기 (2)의 비교 결과에 기초하여, 서열번호 1 또는 서열번호 2에 기재한 핵산의 발현량을 상승 제어하는 피검 물질을, 방광암의 전이 또는 방광암 세포의 침윤능을 저해할 수 있는 물질로서 선택하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 25,
+      "after_claim_count": 21,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2014.02.27",
+      "internationOpenNumber": "WO2014030602",
+      "internationalApplicationDate": "2013.08.19",
+      "internationalApplicationNumber": "PCT/JP2013/072064"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "일본국 도쿄도 추오쿠 츠키지 *-*-*",
+        "code": "520100462970",
+        "country": "일본",
+        "engName": "NATIONAL CANCER CENTER",
+        "name": "국립연구개발법인 고쿠리츠간켄큐센터"
+      },
+      {
+        "address": "일본 도쿄도 치요다쿠 유라쿠쵸 *-*-*",
+        "code": "520030402977",
+        "country": "일본",
+        "engName": "ASAHI KASEI PHARMA CORPORATION",
+        "name": "아사히 가세이 파마 가부시키가이샤"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "일본국 ******* 도쿄도 추오쿠...",
+        "code": "",
+        "country": "일본",
+        "engName": "OCHIYA, Takahiro",
+        "name": "오치야 다카히로"
+      },
+      {
+        "address": "일본국 ******* 도쿄도 추오쿠...",
+        "code": "",
+        "country": "일본",
+        "engName": "TAKESHITA, Fumitaka",
+        "name": "다케시타 후미타카"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001573",
+        "country": "대한민국",
+        "engName": "Kim Jin Hoe",
+        "name": "김진회"
+      },
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001580",
+        "country": "대한민국",
+        "engName": "Kim Tae Hong",
+        "name": "김태홍"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "일본",
+      "priorityApplicationDate": "2012.08.20",
+      "priorityApplicationNumber": "JP-P-2012-181915"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "JP2009532392 A",
+      "examinerQuotationFlag": "Y"
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2015.02.03",
+        "receiptNumber": "1-1-2015-0114363-64"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2015.02.03",
+        "receiptNumber": "1-1-2015-0115222-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2015.02.03",
+        "receiptNumber": "1-1-2015-0115229-22"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2015.02.06",
+        "receiptNumber": "1-5-2015-0029694-82"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2015.07.10",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2015.08.26",
+        "receiptNumber": "4-1-2015-5113864-34"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2015.09.10",
+        "receiptNumber": "9-6-2016-0005307-43"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2016.01.15",
+        "receiptNumber": "9-5-2016-0038307-37"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2016.03.10",
+        "receiptNumber": "1-1-2016-0232877-99"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.03.30",
+        "receiptNumber": "1-1-2016-0304102-56"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2016.03.30",
+        "receiptNumber": "1-1-2016-0304106-38"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2016.08.30",
+        "receiptNumber": "9-5-2016-0623659-59"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2018.09.10",
+        "receiptNumber": "4-1-2018-5183118-81"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020157002891.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e0092a274cde6f9db9e42d1b99d663e1ad044dc4e26b8a06491446d2658e8ebddbe7d371d2e0ac57e6576aab4e9dd5c915e6c22fb564f040d1d",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf985100dbfe1d9cb7e612081f6fa73791d04d5c5b36e7aa466606d6922911ffd537dab0f3f5aa4aaec580059ebafb3fb89007f5dffe92eb96"
+  },
+  "rndInfoArray": ""
+}

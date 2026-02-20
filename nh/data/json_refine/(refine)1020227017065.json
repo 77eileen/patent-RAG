@@ -1,0 +1,1636 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.10.22",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-7017065",
+      "claimCount": "45",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "C9ORF72 연관 질환의 치료를 위한 삼중 기능 아데노-연관 바이러스 (AAV) 벡터",
+      "inventionTitleEng": "TRIPLE FUNCTION ADENO-ASSOCIATED VIRUS (AAV) VECTORS FOR THE TREATMENT OF C9ORF72 ASSOCIATED DISEASES",
+      "openDate": "2023.02.07",
+      "openNumber": "10-2023-0019063",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.10.23",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2022.05.20"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/47"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/86"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/113"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 25/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 개시내용은 단리된 프로모터, 트랜스진 발현 카세트, 벡터, 키트, 및 ALS 및 FTD를 포함한 C9ORF72 연관 질환을 치료하는 방법을 제공한다."
+    }
+  },
+  "claims": {
+    "total_amendments": 1,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 45,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "C9ORF72 단백질을 코딩하는 핵산 서열로서, 여기서 핵산 서열이 코돈 최적화된 것인 핵산 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 코돈 최적화된 서열이 표 2에 제시된 서열로부터 선택되는 것인 핵산 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 서열식별번호: 14-52 중 어느 하나로부터 선택된 핵산 서열과 적어도 85% 동일한 핵산 서열을 포함하는 핵산 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기를 포함하는 트랜스진 발현 카세트:프로모터; 및제1항 내지 제3항 중 어느 한 항의 핵산 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기를 포함하는 트랜스진 발현 카세트:프로모터;제1항 내지 제3항 중 어느 한 항의 핵산 서열;c9orf72 센스 전사체 특이적 억제제; 및c9orf72 안티센스 전사체 특이적 억제제.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, c9orf72 센스 전사체 특이적 억제제가 핵산, 압타머, 항체, 펩티드 또는 소분자 중 임의의 것인 트랜스진 발현 카세트.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 핵산이 단일 가닥 핵산 또는 이중 가닥 핵산인 트랜스진 발현 카세트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 핵산이 마이크로RNA (miRNA)인 트랜스진 발현 카세트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, 센스 전사체 억제제가 표 4에 제시된 miRNA로부터 선택되는 것인 트랜스진 발현 카세트.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, 안티센스 전사체 억제제가 표 3에 제시된 miRNA로부터 선택되는 것인 트랜스진 발현 카세트.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 또는 제5항에 있어서, 2개의 역위 말단 반복부 (ITR)를 추가로 포함하는 트랜스진 발현 카세트,",
+          "refers_to": [
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 또는 제5항에 있어서, 최소 조절 요소를 추가로 포함하는 트랜스진 발현 카세트.",
+          "refers_to": [
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 또는 제5항에 있어서, 프로모터가 뉴런에서의 발현에 특이적인 것인 트랜스진 발현 카세트.",
+          "refers_to": [
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 프로모터가 인간 시냅신 1 (hSyn) 프로모터인 트랜스진 발현 카세트.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 또는 제5항에 있어서, 핵산이 인간 핵산인 트랜스진 발현 카세트.",
+          "refers_to": [
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 또는 제5항의 발현 카세트를 포함하는 핵산 벡터.",
+          "refers_to": [
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서, 벡터가 아데노-연관 바이러스 (AAV) 벡터인 벡터.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 캡시드 서열의 혈청형 및 상기 AAV 벡터의 ITR의 혈청형이 AAV1, AAV2, AAV3, AAV4, AAV5, AAV6, AAV7, AAV8, AAV9, AAV10, AAV11, 및 AAV12로 이루어진 군으로부터 독립적으로 선택되는 것인 벡터.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 캡시드 서열이 돌연변이체 캡시드 서열인 벡터.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 포함하는 포유류 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "재조합 아데노-연관 바이러스 (rAAV) 벡터를 제조하는 방법으로서, 아데노-연관 바이러스 벡터 내로 하기를 삽입하는 것을 포함하는 방법:프로모터; 및제1항 내지 제3항 중 어느 한 항의 적어도 하나의 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "재조합 아데노-연관 바이러스 (rAAV) 벡터를 제조하는 방법으로서, 아데노-연관 바이러스 벡터 내로 하기를 삽입하는 것을 포함하는 방법:프로모터;제1항 내지 제3항 중 어느 한 항의 적어도 하나의 핵산;c9orf72 센스 전사체 특이적 억제제; 및c9orf72 안티센스 전사체 특이적 억제제.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 또는 제22항에 있어서, 핵산이 인간 핵산인 방법.",
+          "refers_to": [
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 또는 제22항에 있어서, 캡시드 서열의 혈청형 및 상기 AAV 벡터의 ITR의 혈청형이 AAV1, AAV2, AAV3, AAV4, AAV5, AAV6, AAV7, AAV8, AAV9, AAV10, AAV11, 및 AAV12로 이루어진 군으로부터 독립적으로 선택되는 것인 방법.",
+          "refers_to": [
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항에 있어서, 캡시드 서열이 돌연변이체 캡시드 서열인 방법.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 c9orf72 연관 질환의 치료를 필요로 하는 대상체에게 투여하며, 이로써 상기 대상체에서 c9orf72 연관 질환을 치료하는 것을 포함하는, c9orf72 연관 질환을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 c9orf72 연관 질환 진행의 예방을 필요로 하는 대상체에게 투여하며, 이로써 상기 대상체에서 c9orf72 연관 질환을 치료하는 것을 포함하는, c9orf72 연관 질환의 진행을 예방하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 또는 제27항에 있어서, c9orf72 연관 질환이 c9orf72 헥사뉴클레오티드 반복부 확장 연관 질환인 방법.",
+          "refers_to": [
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 또는 제27항에 있어서, c9orf72 연관 질환이 신경변성 질환인 방법.",
+          "refers_to": [
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 신경변성 질환이 근위축성 측삭 경화증 (ALS), 전두측두엽 치매 (FTD), 파킨슨병, 진행성 핵상 마비, 운동실조증, 피질기저 증후군, 헌팅톤병-유사 증후군, 크로이츠펠트-야콥병 및 알츠하이머병으로 이루어진 군으로부터 선택되는 것인 방법.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 신경변성 질환이 근위축성 측삭 경화증 (ALS) 및/또는 전두측두엽 치매 (FTD)인 방법.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항에 있어서, ALS가 가족성 ALS 또는 산발성 ALS인 방법.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 또는 제27항에 있어서, 대상체가 c9orf72 유전자에서의 하나 이상의 돌연변이를 갖는 것인 방법.",
+          "refers_to": [
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제33항에 있어서, 하나 이상의 돌연변이가 하나 이상의 헥사뉴클레오티드 반복부 확장, 하나 이상의 넌센스 돌연변이 및 하나 이상의 프레임-시프트 돌연변이로부터 선택되는 것인 방법.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 또는 제27항에 있어서, c9orf72의 발현이 억제 또는 저해되는 것인 방법.",
+          "refers_to": [
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항에 있어서, c9orf72가 야생형 c9orf72, 돌연변이된 c9orf72, 또는 야생형 c9orf72와 돌연변이된 c9orf72 둘 다인 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항에 있어서, c9orf72의 발현이 약 10% 내지 약 100%만큼 억제 또는 저해되는 것인 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 포함하는 조성물을 세포에 투여하는 것을 포함하는, 상기 세포에서의 c9orf72 유전자의 발현을 억제하는 방법으로서, 여기서 c9orf72 유전자는 헥사뉴클레오티드 반복부 확장을 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제38항에 있어서, 헥사뉴클레오티드 반복부 확장이 센스 및 안티센스 c9orf72 반복 RNA로부터 또는 디펩티드 반복부로부터 C9ORF72 단백질의 기능 상실 및/또는 독성 기능 획득을 야기하는 것인 방법.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제38항에 있어서, 세포가 포유류 세포인 방법.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제40항에 있어서, 포유류 세포가 운동 뉴런 또는 성상세포인 방법.",
+          "refers_to": [
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제41항 중 어느 한 항에 있어서, 벡터가 두개내 투여에 의해 투여되는 것인 방법.",
+          "refers_to": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제42항에 있어서, 두개내 투여가 척수강내 또는 뇌실내 투여를 포함하는 것인 방법.",
+          "refers_to": [
+            42
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 내지 제19항 중 어느 한 항의 벡터, 및 사용 지침을 포함하는 키트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제44항에 있어서, 벡터의 두개내 투여 전달을 위한 장치를 추가로 포함하는 키트.",
+          "refers_to": [
+            44
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 45,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "C9ORF72 단백질을 코딩하는 핵산 서열로서, 여기서 핵산 서열이 코돈 최적화된 것인 핵산 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 코돈 최적화된 서열이 표 2에 제시된 서열로부터 선택되는 것인 핵산 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 서열식별번호: 14-52 중 어느 하나로부터 선택된 핵산 서열과 적어도 85% 동일한 핵산 서열을 포함하는 핵산 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기를 포함하는 트랜스진 발현 카세트:프로모터; 및제1항 내지 제3항 중 어느 한 항의 핵산 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기를 포함하는 트랜스진 발현 카세트:프로모터;제1항 내지 제3항 중 어느 한 항의 핵산 서열;c9orf72 센스 전사체 특이적 억제제; 및c9orf72 안티센스 전사체 특이적 억제제.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, c9orf72 센스 전사체 특이적 억제제가 핵산, 압타머, 항체, 펩티드 또는 소분자 중 임의의 것인 트랜스진 발현 카세트.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 핵산이 단일 가닥 핵산 또는 이중 가닥 핵산인 트랜스진 발현 카세트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 핵산이 마이크로RNA (miRNA)인 트랜스진 발현 카세트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, 센스 전사체 억제제가 표 4에 제시된 miRNA로부터 선택되는 것인 트랜스진 발현 카세트.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, 안티센스 전사체 억제제가 표 3에 제시된 miRNA로부터 선택되는 것인 트랜스진 발현 카세트.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 또는 제5항에 있어서, 2개의 역위 말단 반복부 (ITR)를 추가로 포함하는 트랜스진 발현 카세트,",
+          "refers_to": [
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 또는 제5항에 있어서, 최소 조절 요소를 추가로 포함하는 트랜스진 발현 카세트.",
+          "refers_to": [
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 또는 제5항에 있어서, 프로모터가 뉴런에서의 발현에 특이적인 것인 트랜스진 발현 카세트.",
+          "refers_to": [
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 프로모터가 인간 시냅신 1 (hSyn) 프로모터인 트랜스진 발현 카세트.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 또는 제5항에 있어서, 핵산이 인간 핵산인 트랜스진 발현 카세트.",
+          "refers_to": [
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 또는 제5항의 발현 카세트를 포함하는 핵산 벡터.",
+          "refers_to": [
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서, 벡터가 아데노-연관 바이러스 (AAV) 벡터인 벡터.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 캡시드 서열의 혈청형 및 상기 AAV 벡터의 ITR의 혈청형이 AAV1, AAV2, AAV3, AAV4, AAV5, AAV6, AAV7, AAV8, AAV9, AAV10, AAV11, 및 AAV12로 이루어진 군으로부터 독립적으로 선택되는 것인 벡터.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 캡시드 서열이 돌연변이체 캡시드 서열인 벡터.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 포함하는 포유류 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "재조합 아데노-연관 바이러스 (rAAV) 벡터를 제조하는 방법으로서, 아데노-연관 바이러스 벡터 내로 하기를 삽입하는 것을 포함하는 방법:프로모터; 및제1항 내지 제3항 중 어느 한 항의 적어도 하나의 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "재조합 아데노-연관 바이러스 (rAAV) 벡터를 제조하는 방법으로서, 아데노-연관 바이러스 벡터 내로 하기를 삽입하는 것을 포함하는 방법:프로모터;제1항 내지 제3항 중 어느 한 항의 적어도 하나의 핵산;c9orf72 센스 전사체 특이적 억제제; 및c9orf72 안티센스 전사체 특이적 억제제.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 또는 제22항에 있어서, 핵산이 인간 핵산인 방법.",
+          "refers_to": [
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 또는 제22항에 있어서, 캡시드 서열의 혈청형 및 상기 AAV 벡터의 ITR의 혈청형이 AAV1, AAV2, AAV3, AAV4, AAV5, AAV6, AAV7, AAV8, AAV9, AAV10, AAV11, 및 AAV12로 이루어진 군으로부터 독립적으로 선택되는 것인 방법.",
+          "refers_to": [
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항에 있어서, 캡시드 서열이 돌연변이체 캡시드 서열인 방법.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 c9orf72 연관 질환의 치료를 필요로 하는 대상체에게 투여하며, 이로써 상기 대상체에서 c9orf72 연관 질환을 치료하는 것을 포함하는, c9orf72 연관 질환을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 c9orf72 연관 질환 진행의 예방을 필요로 하는 대상체에게 투여하며, 이로써 상기 대상체에서 c9orf72 연관 질환을 치료하는 것을 포함하는, c9orf72 연관 질환의 진행을 예방하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 또는 제27항에 있어서, c9orf72 연관 질환이 c9orf72 헥사뉴클레오티드 반복부 확장 연관 질환인 방법.",
+          "refers_to": [
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 또는 제27항에 있어서, c9orf72 연관 질환이 신경변성 질환인 방법.",
+          "refers_to": [
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 신경변성 질환이 근위축성 측삭 경화증 (ALS), 전두측두엽 치매 (FTD), 파킨슨병, 진행성 핵상 마비, 운동실조증, 피질기저 증후군, 헌팅톤병-유사 증후군, 크로이츠펠트-야콥병 및 알츠하이머병으로 이루어진 군으로부터 선택되는 것인 방법.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 신경변성 질환이 근위축성 측삭 경화증 (ALS) 및/또는 전두측두엽 치매 (FTD)인 방법.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항에 있어서, ALS가 가족성 ALS 또는 산발성 ALS인 방법.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 또는 제27항에 있어서, 대상체가 c9orf72 유전자에서의 하나 이상의 돌연변이를 갖는 것인 방법.",
+          "refers_to": [
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제33항에 있어서, 하나 이상의 돌연변이가 하나 이상의 헥사뉴클레오티드 반복부 확장, 하나 이상의 넌센스 돌연변이 및 하나 이상의 프레임-시프트 돌연변이로부터 선택되는 것인 방법.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 또는 제27항에 있어서, c9orf72의 발현이 억제 또는 저해되는 것인 방법.",
+          "refers_to": [
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항에 있어서, c9orf72가 야생형 c9orf72, 돌연변이된 c9orf72, 또는 야생형 c9orf72와 돌연변이된 c9orf72 둘 다인 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항에 있어서, c9orf72의 발현이 약 10% 내지 약 100%만큼 억제 또는 저해되는 것인 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 포함하는 조성물을 세포에 투여하는 것을 포함하는, 상기 세포에서의 c9orf72 유전자의 발현을 억제하는 방법으로서, 여기서 c9orf72 유전자는 헥사뉴클레오티드 반복부 확장을 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제38항에 있어서, 헥사뉴클레오티드 반복부 확장이 센스 및 안티센스 c9orf72 반복 RNA로부터 또는 디펩티드 반복부로부터 C9ORF72 단백질의 기능 상실 및/또는 독성 기능 획득을 야기하는 것인 방법.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제38항에 있어서, 세포가 포유류 세포인 방법.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제40항에 있어서, 포유류 세포가 운동 뉴런 또는 성상세포인 방법.",
+          "refers_to": [
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제41항 중 어느 한 항에 있어서, 벡터가 두개내 투여에 의해 투여되는 것인 방법.",
+          "refers_to": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제42항에 있어서, 두개내 투여가 척수강내 또는 뇌실내 투여를 포함하는 것인 방법.",
+          "refers_to": [
+            42
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 내지 제19항 중 어느 한 항의 벡터, 및 사용 지침을 포함하는 키트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제44항에 있어서, 벡터의 두개내 투여 전달을 위한 장치를 추가로 포함하는 키트.",
+          "refers_to": [
+            44
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "",
+        "document_name": "원본 (변동이력 없음)",
+        "claim_count": 45,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "C9ORF72 단백질을 코딩하는 핵산 서열로서, 여기서 핵산 서열이 코돈 최적화된 것인 핵산 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 코돈 최적화된 서열이 표 2에 제시된 서열로부터 선택되는 것인 핵산 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 서열식별번호: 14-52 중 어느 하나로부터 선택된 핵산 서열과 적어도 85% 동일한 핵산 서열을 포함하는 핵산 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기를 포함하는 트랜스진 발현 카세트:프로모터; 및제1항 내지 제3항 중 어느 한 항의 핵산 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기를 포함하는 트랜스진 발현 카세트:프로모터;제1항 내지 제3항 중 어느 한 항의 핵산 서열;c9orf72 센스 전사체 특이적 억제제; 및c9orf72 안티센스 전사체 특이적 억제제.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, c9orf72 센스 전사체 특이적 억제제가 핵산, 압타머, 항체, 펩티드 또는 소분자 중 임의의 것인 트랜스진 발현 카세트.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 핵산이 단일 가닥 핵산 또는 이중 가닥 핵산인 트랜스진 발현 카세트.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 핵산이 마이크로RNA (miRNA)인 트랜스진 발현 카세트.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, 센스 전사체 억제제가 표 4에 제시된 miRNA로부터 선택되는 것인 트랜스진 발현 카세트.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, 안티센스 전사체 억제제가 표 3에 제시된 miRNA로부터 선택되는 것인 트랜스진 발현 카세트.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 또는 제5항에 있어서, 2개의 역위 말단 반복부 (ITR)를 추가로 포함하는 트랜스진 발현 카세트,",
+            "refers_to": [
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 또는 제5항에 있어서, 최소 조절 요소를 추가로 포함하는 트랜스진 발현 카세트.",
+            "refers_to": [
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 또는 제5항에 있어서, 프로모터가 뉴런에서의 발현에 특이적인 것인 트랜스진 발현 카세트.",
+            "refers_to": [
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 프로모터가 인간 시냅신 1 (hSyn) 프로모터인 트랜스진 발현 카세트.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 또는 제5항에 있어서, 핵산이 인간 핵산인 트랜스진 발현 카세트.",
+            "refers_to": [
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 또는 제5항의 발현 카세트를 포함하는 핵산 벡터.",
+            "refers_to": [
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서, 벡터가 아데노-연관 바이러스 (AAV) 벡터인 벡터.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 캡시드 서열의 혈청형 및 상기 AAV 벡터의 ITR의 혈청형이 AAV1, AAV2, AAV3, AAV4, AAV5, AAV6, AAV7, AAV8, AAV9, AAV10, AAV11, 및 AAV12로 이루어진 군으로부터 독립적으로 선택되는 것인 벡터.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 캡시드 서열이 돌연변이체 캡시드 서열인 벡터.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 포함하는 포유류 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "재조합 아데노-연관 바이러스 (rAAV) 벡터를 제조하는 방법으로서, 아데노-연관 바이러스 벡터 내로 하기를 삽입하는 것을 포함하는 방법:프로모터; 및제1항 내지 제3항 중 어느 한 항의 적어도 하나의 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "재조합 아데노-연관 바이러스 (rAAV) 벡터를 제조하는 방법으로서, 아데노-연관 바이러스 벡터 내로 하기를 삽입하는 것을 포함하는 방법:프로모터;제1항 내지 제3항 중 어느 한 항의 적어도 하나의 핵산;c9orf72 센스 전사체 특이적 억제제; 및c9orf72 안티센스 전사체 특이적 억제제.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 또는 제22항에 있어서, 핵산이 인간 핵산인 방법.",
+            "refers_to": [
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 또는 제22항에 있어서, 캡시드 서열의 혈청형 및 상기 AAV 벡터의 ITR의 혈청형이 AAV1, AAV2, AAV3, AAV4, AAV5, AAV6, AAV7, AAV8, AAV9, AAV10, AAV11, 및 AAV12로 이루어진 군으로부터 독립적으로 선택되는 것인 방법.",
+            "refers_to": [
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 캡시드 서열이 돌연변이체 캡시드 서열인 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 c9orf72 연관 질환의 치료를 필요로 하는 대상체에게 투여하며, 이로써 상기 대상체에서 c9orf72 연관 질환을 치료하는 것을 포함하는, c9orf72 연관 질환을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 c9orf72 연관 질환 진행의 예방을 필요로 하는 대상체에게 투여하며, 이로써 상기 대상체에서 c9orf72 연관 질환을 치료하는 것을 포함하는, c9orf72 연관 질환의 진행을 예방하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 또는 제27항에 있어서, c9orf72 연관 질환이 c9orf72 헥사뉴클레오티드 반복부 확장 연관 질환인 방법.",
+            "refers_to": [
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 또는 제27항에 있어서, c9orf72 연관 질환이 신경변성 질환인 방법.",
+            "refers_to": [
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 신경변성 질환이 근위축성 측삭 경화증 (ALS), 전두측두엽 치매 (FTD), 파킨슨병, 진행성 핵상 마비, 운동실조증, 피질기저 증후군, 헌팅톤병-유사 증후군, 크로이츠펠트-야콥병 및 알츠하이머병으로 이루어진 군으로부터 선택되는 것인 방법.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 신경변성 질환이 근위축성 측삭 경화증 (ALS) 및/또는 전두측두엽 치매 (FTD)인 방법.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항에 있어서, ALS가 가족성 ALS 또는 산발성 ALS인 방법.",
+            "refers_to": [
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 또는 제27항에 있어서, 대상체가 c9orf72 유전자에서의 하나 이상의 돌연변이를 갖는 것인 방법.",
+            "refers_to": [
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제33항에 있어서, 하나 이상의 돌연변이가 하나 이상의 헥사뉴클레오티드 반복부 확장, 하나 이상의 넌센스 돌연변이 및 하나 이상의 프레임-시프트 돌연변이로부터 선택되는 것인 방법.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 또는 제27항에 있어서, c9orf72의 발현이 억제 또는 저해되는 것인 방법.",
+            "refers_to": [
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항에 있어서, c9orf72가 야생형 c9orf72, 돌연변이된 c9orf72, 또는 야생형 c9orf72와 돌연변이된 c9orf72 둘 다인 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항에 있어서, c9orf72의 발현이 약 10% 내지 약 100%만큼 억제 또는 저해되는 것인 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항 내지 제19항 중 어느 한 항의 벡터를 포함하는 조성물을 세포에 투여하는 것을 포함하는, 상기 세포에서의 c9orf72 유전자의 발현을 억제하는 방법으로서, 여기서 c9orf72 유전자는 헥사뉴클레오티드 반복부 확장을 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제38항에 있어서, 헥사뉴클레오티드 반복부 확장이 센스 및 안티센스 c9orf72 반복 RNA로부터 또는 디펩티드 반복부로부터 C9ORF72 단백질의 기능 상실 및/또는 독성 기능 획득을 야기하는 것인 방법.",
+            "refers_to": [
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제38항에 있어서, 세포가 포유류 세포인 방법.",
+            "refers_to": [
+              38
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제40항에 있어서, 포유류 세포가 운동 뉴런 또는 성상세포인 방법.",
+            "refers_to": [
+              40
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제41항 중 어느 한 항에 있어서, 벡터가 두개내 투여에 의해 투여되는 것인 방법.",
+            "refers_to": [
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제42항에 있어서, 두개내 투여가 척수강내 또는 뇌실내 투여를 포함하는 것인 방법.",
+            "refers_to": [
+              42
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항 내지 제19항 중 어느 한 항의 벡터, 및 사용 지침을 포함하는 키트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제44항에 있어서, 벡터의 두개내 투여 전달을 위한 장치를 추가로 포함하는 키트.",
+            "refers_to": [
+              44
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 45,
+      "after_claim_count": 45,
+      "total_versions": 1
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2021.04.29",
+      "internationOpenNumber": "WO2021081236",
+      "internationalApplicationDate": "2020.10.22",
+      "internationalApplicationNumber": "PCT/US2020/056905"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 ***** 플로리다주 알라추아 스위트 넘버** 노스웨스트 ***티에이치 테라스 *****",
+      "code": "520220266229",
+      "country": "미국",
+      "engName": "APPLIED GENETIC TECHNOLOGIES CORPORATION",
+      "name": "어플라이드 제네틱스 테크놀로지스 코퍼레이션"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 ***** 메사추...",
+        "code": "",
+        "country": "",
+        "engName": "ZHU, Peixin",
+        "name": "주, 페이신"
+      },
+      {
+        "address": "미국 ***** 플로리다주 앨라추아...",
+        "code": "",
+        "country": "",
+        "engName": "WANG, Xijia",
+        "name": "왕, 시지아"
+      },
+      {
+        "address": "미국 ***** 메사추세...",
+        "code": "",
+        "country": "",
+        "engName": "PENNOCK, Steven",
+        "name": "페녹, 스티븐"
+      },
+      {
+        "address": "미국 ***** 플로리다주 앨라추아...",
+        "code": "",
+        "country": "",
+        "engName": "SHEARMAN, Mark",
+        "name": "셔먼, 마크"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980003619",
+        "country": "대한민국",
+        "engName": "YANG, Young June",
+        "name": "양영준"
+      },
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "920000001071",
+        "country": "대한민국",
+        "engName": "LEE, Sang Nam",
+        "name": "이상남"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2019.10.22",
+      "priorityApplicationNumber": "62/924,351"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "WO2019084068 A1",
+      "examinerQuotationFlag": "Y"
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2022.05.20",
+        "receiptNumber": "1-1-2022-0535271-12"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[New Translation under Article 201 of Patent Act or Article 35 of Utility Model Act] Submission of Document",
+        "documentName": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+        "receiptDate": "2022.06.21",
+        "receiptNumber": "1-1-2022-0645268-76"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2022.06.23",
+        "receiptNumber": "1-5-2022-0093936-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.08.23",
+        "receiptNumber": "1-1-2022-0880238-18"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.09.23",
+        "receiptNumber": "1-1-2022-1003332-44"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.10.24",
+        "receiptNumber": "1-1-2022-1117426-22"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.11.23",
+        "receiptNumber": "1-1-2022-1251086-12"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.12.23",
+        "receiptNumber": "1-1-2022-1388693-84"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2023.01.03",
+        "receiptNumber": "1-1-2023-0008102-22"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2023.01.05",
+        "receiptNumber": "1-5-2023-0003456-01"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.10.23",
+        "receiptNumber": "1-1-2023-1162478-75"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.22",
+        "receiptNumber": "9-5-2025-1023758-09"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020227017065.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c937bf5b1df115eae53301473a3dfd191dee187d372d5ed0c4cf788f8f86579738f83d3edb5989635739d91a49863c9a2fb33c6ce8774b6f3b6",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfd50695a9dbd9036b914a660dc2ecb9af813ae843ff549ff1be65bde631d5ba6d0b13c2702730933852362c3c706d5c52ab7112f3ad07fad4"
+  },
+  "rndInfoArray": ""
+}

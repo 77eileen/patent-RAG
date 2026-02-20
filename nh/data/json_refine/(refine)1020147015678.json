@@ -1,0 +1,804 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2012.11.09",
+      "applicationFlag": "",
+      "applicationNumber": "10-2014-7015678",
+      "claimCount": "12",
+      "examinerName": "정지혜",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "알부민 결합 항체 및 이의 결합 단편",
+      "inventionTitleEng": "ALBUMIN BINDING ANTIBODIES AND BINDING FRAGMENTS  THEREOF",
+      "openDate": "2014.07.29",
+      "openNumber": "10-2014-0093984",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2017.10.25",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2019.11.25",
+      "publicationNumber": "",
+      "registerDate": "2019.11.19",
+      "registerNumber": "10-2048382-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2014.06.10"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/18"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/46"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/09"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 서열 번호 1 또는 서열 번호 2에 제시된 서열을 갖는 중쇄 가변 도메인 및/또는 서열 번호 3 또는 서열 번호 4에 제시된 서열을 갖는 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편, 구체적으로는 서열 번호 1 및 서열 번호 3에 제시된 서열을 갖는 중쇄 가변 도메인 및 경쇄 가변 도메인 또는 서열 번호 2 및 서열 번호 4에 제시된 서열을 갖는 중쇄 가변 도메인 및 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편에 관한 것이다. 본 발명은 또한 항체 또는 단편을 코딩하는 폴리뉴클레오티드, 이를 포함하는 벡터 및 폴리뉴클레오티드를 발현할 수 있는 숙주 세포로 확장된다. 본 발명은 추가로 항체 또는 단편을 포함하는 약학 조성물 및 항체 또는 단편 중 어느 하나를 사용하는 치료제를 포함한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020147015678",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20140610",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열 번호 1 또는 서열 번호 2에 제시된 서열을 갖는 중쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열 번호 3 또는 서열 번호 4에 제시된 서열을 갖는 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열 번호 1에 제시된 서열을 갖는 중쇄 가변 도메인 및 서열 번호 3에 제시된 서열을 갖는 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열 번호 2에 제시된 서열을 갖는 중쇄 가변 도메인 및 서열 번호 4에 제시된 서열을 갖는 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 하나의 항에 있어서, 항체 또는 단편은 Fab, 변형된 Fab, Fab', F(ab')2, Fv, 단일 가변 도메인 항체, scFv, 2가, 3가 또는 4가 항체, Bis-scFv, 디아바디(diabody), 트리아바디(triabody), 트리바디(tribody), DVD-Ig 및 BiTE로 이루어진 군에서 선택되는 것인 혈청 알부민 결합 항체 또는 이의 단편.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "N-말단으로부터 순서대로, 제1 중쇄 가변 도메인(VH1), CH1 도메인 및 제2 중쇄 가변 도메인(VH2)을 포함하는 중쇄,\nN-말단으로부터 순서대로, 제1 경쇄 가변 도메인(VL1), CL 도메인 및 제2 경쇄 가변 도메인(VL2)을 포함하는 경쇄\n를 포함하는 이중특이적 항체 융합 단백질로서,\n여기서 상기 중쇄 및 경쇄는 VH1 및 VL1이 제1 항원 결합 부위를 형성하고 VH2 및 VL2가 제2 항원 결합 부위를 형성하도록 정렬되고, 제2 항원 결합 부위에 의해 결합된 항원은 인간 혈청 알부민이고 제2 중쇄 가변 도메인(VH2)은 서열 번호 1에 제시된 서열을 갖고 제2 경쇄 가변 도메인(VL2)은 서열 번호 3에 제시된 서열을 갖고, 제2 중쇄 가변 도메인(VH2) 및 제2 경쇄 가변 도메인(VL2)은 경우에 따라 이황화 결합에 의해 연결되는 것인 이중특이적 항체 융합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "N-말단으로부터 순서대로, 제1 중쇄 가변 도메인(VH1), CH1 도메인 및 제2 중쇄 가변 도메인(VH2)을 포함하는 중쇄,\nN-말단으로부터 순서대로, 제1 경쇄 가변 도메인(VL1), CL 도메인 및 제2 경쇄 가변 도메인(VL2)을 포함하는 경쇄\n를 포함하는 이중특이적 항체 융합 단백질로서,\n여기서 상기 중쇄 및 경쇄는 VH1 및 VL1이 제1 항원 결합 부위를 형성하고 VH2 및 VL2가 제2 항원 결합 부위를 형성하도록 정렬되고, 제2 항원 결합 부위에 의해 결합된 항원은 인간 혈청 알부민이고 제2 중쇄 가변 도메인(VH2)은 서열 번호 2에 제시된 서열을 갖고 제2 경쇄 가변 도메인(VL2)은 서열 번호 4에 제시된 서열을 갖고, 제2 중쇄 가변 도메인(VH2) 및 제2 경쇄 가변 도메인(VL2)은 경우에 따라 이황화 결합에 의해 연결되는 것인 이중특이적 항체 융합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 하나의 항에 정의된 항체 또는 단편을 코딩하는 폴리뉴클레오티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 정의된 폴리뉴클레오티드를 포함하는 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항의 폴리뉴클레오티드 또는 제9항의 벡터를 포함하는 숙주 세포.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 하나의 항에 정의된 항체 또는 단편의 제조 방법으로서, 제10항에 정의된 숙주 세포로부터 상기 항체 또는 단편을 발현시키는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 하나의 항에 정의된 항체 또는 단편을 포함하는 약학 조제물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약제의 제조에서의 제1항 내지 제7항 중 어느 하나의 항에 정의된 항체 또는 단편의 용도.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료에 사용하기 위한 제1항 내지 제7항 중 어느 하나의 항에 따른 항체 또는 단편.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 하나의 항에 정의된 항체 또는 단편을 포함하는 항체 분자를 필요로 하는 환자의 치료 방법으로서, 상기 항체 또는 단편을 포함하는 항체 분자의 치료적 유효량을 투여하는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20190422",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열 번호 1에 제시된 서열로 이루어진 중쇄 가변 도메인 및 서열 번호 3에 제시된 서열로 이루어진 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열 번호 2에 제시된 서열로 이루어진 중쇄 가변 도메인 및 서열 번호 4에 제시된 서열로 이루어진 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 상기 항체 또는 단편이 Fab, 변형된 Fab, Fab', F(ab')2, Fv, 단일 가변 도메인 항체, scFv, 2가, 3가 또는 4가 항체, Bis-scFv, 디아바디(diabody), 트리아바디(triabody), 트리바디(tribody), DVD-Ig 및 BiTE로 이루어진 군에서 선택되는 혈청 알부민 결합 항체 또는 이의 단편.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "N-말단으로부터 순서대로, 제1 중쇄 가변 도메인(VH1), CH1 도메인 및 제2 중쇄 가변 도메인(VH2)을 포함하는 중쇄,N-말단으로부터 순서대로, 제1 경쇄 가변 도메인(VL1), CL 도메인 및 제2 경쇄 가변 도메인(VL2)을 포함하는 경쇄를 포함하는 이중특이적 항체 융합 단백질로서,여기서 상기 중쇄 및 경쇄는 VH1 및 VL1이 제1 항원 결합 부위를 형성하고 VH2 및 VL2가 제2 항원 결합 부위를 형성하도록 정렬되고, 제2 항원 결합 부위에 의해 결합된 항원은 인간 혈청 알부민이고 제2 중쇄 가변 도메인(VH2)은 서열 번호 1에 제시된 서열로 이루어지고 제2 경쇄 가변 도메인(VL2)은 서열 번호 3에 제시된 서열로 이루어지고, 제2 중쇄 가변 도메인(VH2) 및 제2 경쇄 가변 도메인(VL2)은 이황화 결합에 의해 연결되지 않는 것인 이중특이적 항체 융합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "N-말단으로부터 순서대로, 제1 중쇄 가변 도메인(VH1), CH1 도메인 및 제2 중쇄 가변 도메인(VH2)을 포함하는 중쇄,N-말단으로부터 순서대로, 제1 경쇄 가변 도메인(VL1), CL 도메인 및 제2 경쇄 가변 도메인(VL2)을 포함하는 경쇄를 포함하는 이중특이적 항체 융합 단백질로서,여기서 상기 중쇄 및 경쇄는 VH1 및 VL1이 제1 항원 결합 부위를 형성하고 VH2 및 VL2가 제2 항원 결합 부위를 형성하도록 정렬되고, 제2 항원 결합 부위에 의해 결합된 항원은 인간 혈청 알부민이고 제2 중쇄 가변 도메인(VH2)은 서열 번호 2에 제시된 서열로 이루어지고 제2 경쇄 가변 도메인(VL2)은 서열 번호 4에 제시된 서열로 이루어지고, 제2 중쇄 가변 도메인(VH2) 및 제2 경쇄 가변 도메인(VL2)은 이황화 결합에 의해 연결되는 것인 이중특이적 항체 융합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항, 제2항, 제4항 및 제5항 중 어느 하나의 항에 정의된 항체 또는 단편을 코딩하는 폴리뉴클레오티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 정의된 폴리뉴클레오티드를 포함하는 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항의 폴리뉴클레오티드 또는 상기 폴리뉴클레오티드를 포함하는 벡터를 포함하는 숙주 세포.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항, 제2항, 제4항 및 제5항 중 어느 하나의 항에 정의된 항체 또는 단편의 제조 방법으로서, 상기 항체 또는 단편을 코딩하는 폴리뉴클레오티드 또는 상기 폴리뉴클레오티드를 포함하는 벡터를 포함하는 숙주 세포로부터 상기 항체 또는 단편을 발현시키는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항, 제2항, 제4항 및 제5항 중 어느 하나의 항에 정의된 항체 또는 단편을 포함하는, 염증성 질병 및 질환, 면역 질병 및 질환, 섬유증 질환 또는 암을 치료하기 위한 약학 조제물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "약제의 제조에 사용하기 위한, 제1항, 제2항, 제4항 및 제5항 중 어느 하나의 항에 정의된 항체 또는 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "치료에 사용하기 위한 제1항, 제2항, 제4항 및 제5항 중 어느 하나의 항에 따른 항체 또는 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20140610",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열 번호 1 또는 서열 번호 2에 제시된 서열을 갖는 중쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열 번호 3 또는 서열 번호 4에 제시된 서열을 갖는 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열 번호 1에 제시된 서열을 갖는 중쇄 가변 도메인 및 서열 번호 3에 제시된 서열을 갖는 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열 번호 2에 제시된 서열을 갖는 중쇄 가변 도메인 및 서열 번호 4에 제시된 서열을 갖는 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 하나의 항에 있어서, 항체 또는 단편은 Fab, 변형된 Fab, Fab', F(ab')2, Fv, 단일 가변 도메인 항체, scFv, 2가, 3가 또는 4가 항체, Bis-scFv, 디아바디(diabody), 트리아바디(triabody), 트리바디(tribody), DVD-Ig 및 BiTE로 이루어진 군에서 선택되는 것인 혈청 알부민 결합 항체 또는 이의 단편.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "N-말단으로부터 순서대로, 제1 중쇄 가변 도메인(VH1), CH1 도메인 및 제2 중쇄 가변 도메인(VH2)을 포함하는 중쇄,\nN-말단으로부터 순서대로, 제1 경쇄 가변 도메인(VL1), CL 도메인 및 제2 경쇄 가변 도메인(VL2)을 포함하는 경쇄\n를 포함하는 이중특이적 항체 융합 단백질로서,\n여기서 상기 중쇄 및 경쇄는 VH1 및 VL1이 제1 항원 결합 부위를 형성하고 VH2 및 VL2가 제2 항원 결합 부위를 형성하도록 정렬되고, 제2 항원 결합 부위에 의해 결합된 항원은 인간 혈청 알부민이고 제2 중쇄 가변 도메인(VH2)은 서열 번호 1에 제시된 서열을 갖고 제2 경쇄 가변 도메인(VL2)은 서열 번호 3에 제시된 서열을 갖고, 제2 중쇄 가변 도메인(VH2) 및 제2 경쇄 가변 도메인(VL2)은 경우에 따라 이황화 결합에 의해 연결되는 것인 이중특이적 항체 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "N-말단으로부터 순서대로, 제1 중쇄 가변 도메인(VH1), CH1 도메인 및 제2 중쇄 가변 도메인(VH2)을 포함하는 중쇄,\nN-말단으로부터 순서대로, 제1 경쇄 가변 도메인(VL1), CL 도메인 및 제2 경쇄 가변 도메인(VL2)을 포함하는 경쇄\n를 포함하는 이중특이적 항체 융합 단백질로서,\n여기서 상기 중쇄 및 경쇄는 VH1 및 VL1이 제1 항원 결합 부위를 형성하고 VH2 및 VL2가 제2 항원 결합 부위를 형성하도록 정렬되고, 제2 항원 결합 부위에 의해 결합된 항원은 인간 혈청 알부민이고 제2 중쇄 가변 도메인(VH2)은 서열 번호 2에 제시된 서열을 갖고 제2 경쇄 가변 도메인(VL2)은 서열 번호 4에 제시된 서열을 갖고, 제2 중쇄 가변 도메인(VH2) 및 제2 경쇄 가변 도메인(VL2)은 경우에 따라 이황화 결합에 의해 연결되는 것인 이중특이적 항체 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 하나의 항에 정의된 항체 또는 단편을 코딩하는 폴리뉴클레오티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 정의된 폴리뉴클레오티드를 포함하는 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항의 폴리뉴클레오티드 또는 제9항의 벡터를 포함하는 숙주 세포.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 하나의 항에 정의된 항체 또는 단편의 제조 방법으로서, 제10항에 정의된 숙주 세포로부터 상기 항체 또는 단편을 발현시키는 단계를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 하나의 항에 정의된 항체 또는 단편을 포함하는 약학 조제물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약제의 제조에서의 제1항 내지 제7항 중 어느 하나의 항에 정의된 항체 또는 단편의 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료에 사용하기 위한 제1항 내지 제7항 중 어느 하나의 항에 따른 항체 또는 단편.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 하나의 항에 정의된 항체 또는 단편을 포함하는 항체 분자를 필요로 하는 환자의 치료 방법으로서, 상기 항체 또는 단편을 포함하는 항체 분자의 치료적 유효량을 투여하는 단계를 포함하는 것인 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20190422",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열 번호 1에 제시된 서열로 이루어진 중쇄 가변 도메인 및 서열 번호 3에 제시된 서열로 이루어진 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열 번호 2에 제시된 서열로 이루어진 중쇄 가변 도메인 및 서열 번호 4에 제시된 서열로 이루어진 경쇄 가변 도메인을 포함하는 혈청 알부민 결합 항체 또는 이의 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 상기 항체 또는 단편이 Fab, 변형된 Fab, Fab', F(ab')2, Fv, 단일 가변 도메인 항체, scFv, 2가, 3가 또는 4가 항체, Bis-scFv, 디아바디(diabody), 트리아바디(triabody), 트리바디(tribody), DVD-Ig 및 BiTE로 이루어진 군에서 선택되는 혈청 알부민 결합 항체 또는 이의 단편.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "N-말단으로부터 순서대로, 제1 중쇄 가변 도메인(VH1), CH1 도메인 및 제2 중쇄 가변 도메인(VH2)을 포함하는 중쇄,\nN-말단으로부터 순서대로, 제1 경쇄 가변 도메인(VL1), CL 도메인 및 제2 경쇄 가변 도메인(VL2)을 포함하는 경쇄\n를 포함하는 이중특이적 항체 융합 단백질로서,\n여기서 상기 중쇄 및 경쇄는 VH1 및 VL1이 제1 항원 결합 부위를 형성하고 VH2 및 VL2가 제2 항원 결합 부위를 형성하도록 정렬되고, 제2 항원 결합 부위에 의해 결합된 항원은 인간 혈청 알부민이고 제2 중쇄 가변 도메인(VH2)은 서열 번호 1에 제시된 서열로 이루어지고 제2 경쇄 가변 도메인(VL2)은 서열 번호 3에 제시된 서열로 이루어지고, 제2 중쇄 가변 도메인(VH2) 및 제2 경쇄 가변 도메인(VL2)은 이황화 결합에 의해 연결되지 않는 것인 이중특이적 항체 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "N-말단으로부터 순서대로, 제1 중쇄 가변 도메인(VH1), CH1 도메인 및 제2 중쇄 가변 도메인(VH2)을 포함하는 중쇄,\nN-말단으로부터 순서대로, 제1 경쇄 가변 도메인(VL1), CL 도메인 및 제2 경쇄 가변 도메인(VL2)을 포함하는 경쇄\n를 포함하는 이중특이적 항체 융합 단백질로서,\n여기서 상기 중쇄 및 경쇄는 VH1 및 VL1이 제1 항원 결합 부위를 형성하고 VH2 및 VL2가 제2 항원 결합 부위를 형성하도록 정렬되고, 제2 항원 결합 부위에 의해 결합된 항원은 인간 혈청 알부민이고 제2 중쇄 가변 도메인(VH2)은 서열 번호 2에 제시된 서열로 이루어지고 제2 경쇄 가변 도메인(VL2)은 서열 번호 4에 제시된 서열로 이루어지고, 제2 중쇄 가변 도메인(VH2) 및 제2 경쇄 가변 도메인(VL2)은 이황화 결합에 의해 연결되는 것인 이중특이적 항체 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항, 제4항 및 제5항 중 어느 하나의 항에 정의된 항체 또는 단편을 코딩하는 폴리뉴클레오티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 정의된 폴리뉴클레오티드를 포함하는 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항의 폴리뉴클레오티드 또는 상기 폴리뉴클레오티드를 포함하는 벡터를 포함하는 숙주 세포.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항, 제4항 및 제5항 중 어느 하나의 항에 정의된 항체 또는 단편의 제조 방법으로서, 상기 항체 또는 단편을 코딩하는 폴리뉴클레오티드 또는 상기 폴리뉴클레오티드를 포함하는 벡터를 포함하는 숙주 세포로부터 상기 항체 또는 단편을 발현시키는 단계를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항, 제4항 및 제5항 중 어느 하나의 항에 정의된 항체 또는 단편을 포함하는, 염증성 질병 및 질환, 면역 질병 및 질환, 섬유증 질환 또는 암을 치료하기 위한 약학 조제물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "약제의 제조에 사용하기 위한, 제1항, 제2항, 제4항 및 제5항 중 어느 하나의 항에 정의된 항체 또는 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "치료에 사용하기 위한 제1항, 제2항, 제4항 및 제5항 중 어느 하나의 항에 따른 항체 또는 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 15,
+      "after_claim_count": 15,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2013.05.16",
+      "internationOpenNumber": "WO2013068571",
+      "internationalApplicationDate": "2012.11.09",
+      "internationalApplicationNumber": "PCT/EP2012/072335"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "벨기에 브뤼셀 **** 알레 더 라 러쉐르쉐 **",
+      "code": "520140440225",
+      "country": "벨기에",
+      "engName": "UCB Biopharma SRL",
+      "name": "유씨비 바이오파마 에스알엘"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "영국 에스엘* *더블유이 슬라우 ...",
+        "code": "",
+        "country": "영국",
+        "engName": "ADAMS, Ralph",
+        "name": "아담스 랄프"
+      },
+      {
+        "address": "영국 에스엘* *더블유이 슬라우 ...",
+        "code": "",
+        "country": "영국",
+        "engName": "BHATTA, Pallavi",
+        "name": "브하타 팔라비"
+      },
+      {
+        "address": "영국 에스엘* *더블유이 슬라우 ...",
+        "code": "",
+        "country": "영국",
+        "engName": "HEYWOOD, Sam Philip",
+        "name": "헤이우드 샘 필립"
+      },
+      {
+        "address": "영국 에스엘* *더블유이 슬라우 ...",
+        "code": "",
+        "country": "영국",
+        "engName": "HUMPHREYS, David Paul",
+        "name": "험프리즈 데이비드 폴"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001573",
+        "country": "대한민국",
+        "engName": "Kim Jin Hoe",
+        "name": "김진회"
+      },
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001580",
+        "country": "대한민국",
+        "engName": "Kim Tae Hong",
+        "name": "김태홍"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2011.11.11",
+      "priorityApplicationNumber": "61/558,559"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "WO2011036460 A1",
+      "examinerQuotationFlag": "Y"
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2014.06.10",
+        "receiptNumber": "1-1-2014-0540376-48"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2014.06.18",
+        "receiptNumber": "1-5-2014-0100090-81"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2014.10.22",
+        "receiptNumber": "1-1-2014-1008731-43"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Resignation of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인사임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2015.01.14",
+        "receiptNumber": "1-1-2015-0040206-46"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2017.10.25",
+        "receiptNumber": "1-1-2017-1055966-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2017.12.15",
+        "receiptNumber": "1-1-2017-1251071-65"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2019.01.22",
+        "receiptNumber": "9-5-2019-0055671-99"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.03.22",
+        "receiptNumber": "1-1-2019-0296149-61"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.04.22",
+        "receiptNumber": "1-1-2019-0411895-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2019.04.22",
+        "receiptNumber": "1-1-2019-0411896-69"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Reference] Written Submission of Information",
+        "documentName": "[참고자료]정보제출서",
+        "receiptDate": "2019.04.22",
+        "receiptNumber": "1-1-2019-0411897-15"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2019.08.23",
+        "receiptNumber": "9-5-2019-0610605-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.12.13",
+        "receiptNumber": "4-1-2019-5264321-11"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020147015678.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00c951725a1f2b03c16e1a9fc3d967d1d38458093d6a69b00c9482ffdb0db30b010bc66e3becd6a1f07ed62d8d486e6416a8e4f690f93b0091",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfc0e9bd9b15fb2b3b7a896f081ed6ecd1ca4f49789954732b024e5f6dd4e9291e4f5e4a6f63a44cc748210ebe3241cf5a235eb9a69e49b071"
+  },
+  "rndInfoArray": ""
+}

@@ -1,0 +1,693 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2021.08.13",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-0107462",
+      "claimCount": "6",
+      "examinerName": "김정태",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "체외에서 유전자 교정된 세포 및 이의 용도",
+      "inventionTitleEng": "Ex-vivo gene-corrected cells and use thereof",
+      "openDate": "2022.02.22",
+      "openNumber": "10-2022-0021883",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2021.08.13",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.10.01",
+      "publicationNumber": "",
+      "registerDate": "2025.09.25",
+      "registerNumber": "10-2866389-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/071"
+      },
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/407"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 1/16"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 유전자 결함이 교정된 세포의 제조방법 및 이를 포함하는 세포치료제에 관한 것으로서, 보다 구체적으로 개체에서 세포를 단리한 다음, 화합물을 처리하여 화학유래 선조세포를 제조한 다음, 체외(ex vivo)에서 돌연변이 유전자를 교정하는 방법을 포함하는 세포의 제조방법 및 이를 포함하는 세포치료제에 관한 것이다. 본 발명의 세포치료제는 오프타겟 효과 및 종양생성 등의 부작용이 현저하게 적고, 단순한 세포를 이식하는 경우 보다 유의한 수준의 티로신 혈증 1형의 치료효과를 보여주었으므로, 티로신 혈증 1형을 비롯한 유전자 돌연변이에 의해 발생된 질환의 치료분야에 폭넓게 활용될 수 있을 것으로 기대된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020210107462",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210813",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a)개체로부터 세포를 단리하는 단계;\n(b)상기 단리된 세포에 화합물을 처리하여 화학유래 선조세포(chemically derived projenitor cell)를 제조하는 단계; 및\n(c)체외(ex vivo)에서 상기 화학유래 선조세포의 타겟 유전자를 교정하는 단계를 포함하는, 돌연변이 유전자가 교정된 세포의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 유전자를 교정하는 단계는 아데닌 염기교정 유전자가위(Adenine Base Editors) 또는 프라임 편집(Prime editing)에 의해 교정되는 것을 특징으로 하는, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 교정되는 유전자는 Fah(fumarylacetoacetate hydrolase), ATP7B(ATPase copper transporting beta), SERPINA1(Serpin family A member 1), ABCB4(ATP binding cassette subfamily B member 4), ALDOB(aldolase, fructose-bisphosphate B), GBE(glycogen branching enzyme), SLC25A13(Solute Carrier Family 25 Member 13), CFTR(cystic fibrosis transmembrane conductance) 및 ALMS1(ALMS1 Centrosome And Basal Body Associated Protein) 유전자로 이루어진 그룹에서 선택되는 것을 특징으로 하는, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 단리된 세포는 일차 간세포인 것을 특징으로 하는, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 단리된 세포에 처리하는 화합물은 간세포 성장 인자(hepatic growth factor), A83-01 및 CHIR99021로 이루어진 군에서 선택되는 하나 이상인 것을 특징으로 하는, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 화학유래 선조세포(chemically derived projenitor cell)는 화학유래 간선조 세포(chemically derived hepatic projenitor cell)인 것을 특징으로 하는, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항의 어느 한 항의 방법으로 제조된 돌연변이 유전자가 교정된 세포 또는 그의 세포 집단을 유효성분으로 포함하는, 세포치료제.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n상기 세포치료제는 유전자 돌연변이로 인해 유발된 질환을 치료하는 것을 특징으로 하는, 세포치료제.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항의 세포치료제를 포함하는, 유전자 돌연변이 관련 질환 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서,\n상기 유전자 돌연변이 관련 질환은 티로신혈증 1형(Tyrosinemia type 1), 페닐케톤뇨증(Phenylketonuria), 윌슨병(Wilson disease), 알파-1 항트립신 결핍증(Alpha-1 antitrypsin deficiency), 진행성 가족성 간내 담즙정체 3형(Progressive familial intrahepatic cholestasis type 3), 유전성 과당 불내증(Hereditary fructose intolerance), 글리코겐 축적 질환 4형(Glycogen storage disease type IV), 아르기니노숙시네이트 리아제 결핍증(Argininosuccinate lyase deficiency), 시트린 결핍증(Citrin deficiency), 시트린 결핍에 의한 신생아 담증정체(Neonatal intrahepatic cholestasis by citrin deficiency), 콜레스테롤 에스테르 축적병(Cholesteryl ester storage disease), 낭포성 섬유증(Cystic fibrosis), 유전성 혈색소 침착증(Hereditary hemochromatosis) 및 알스트롬 증후군(Alstrom syndrome)로 이루어진 군에서 선택되는 것을 특징으로 하는, 조성물.",
+          "refers_to": [
+            9
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20250103",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a)인간을 제외한 개체로부터 일차 간세포를 단리하는 단계;(b)상기 단리된 일차 간세포에 화합물을 처리하여 화학유래 간선조세포(chemically derived hepatic progenitor cell)를 제조하는 단계; (c)체외(ex vivo)에서 상기 화학유래 간선조세포의 타겟 유전자를 교정하는 단계를 포함하는, 돌연변이 유전자가 교정된 간선조세포의 제조방법으로서,상기 유전자를 교정하는 단계는 프라임 편집(Prime editing)에 의해 교정되는 것이고,상기 단리된 일차 간세포에 처리하는 화합물은 간세포 성장 인자(hepatocyte growth factor), A83-01 및 CHIR99021을 포함하는 것을 특징으로 하는, 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 교정되는 유전자는 Fah(fumarylacetoacetate hydrolase), ATP7B(ATPasecopper transporting beta), SERPINA1(Serpin family A member 1), ABCB4(ATP binding cassette subfamily B member 4), ALDOB(aldolase, fructose-bisphosphate B), GBE(glycogen branching enzyme), SLC25A13(Solute Carrier Family 25 Member 13), CFTR(cystic fibrosis transmembrane conductance) 및 ALMS1(ALMS1 Centrosome And Basal Body Associated Protein) 유전자로 이루어진 그룹에서 선택되는 것을 특징으로 하는, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항의 방법으로 제조된 돌연변이 유전자가 교정된 간선조세포 또는 그의 세포 집단을 유효성분으로 포함하는, 세포치료제.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서,상기 세포치료제는 유전자 돌연변이로 인해 유발된 질환을 치료하는 것을 특징으로 하는, 세포치료제.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항의 세포치료제를 포함하는, 유전자 돌연변이 관련 질환 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서,상기 유전자 돌연변이 관련 질환은 티로신혈증 1형(Tyrosinemia type 1), 페닐케톤뇨증(Phenylketonuria), 윌슨병(Wilson disease), 알파-1 항트립신 결핍증(Alpha-1 antitrypsin deficiency), 진행성 가족성 간내 담즙정체 3형(Progressive familial intrahepatic cholestasis type 3), 유전성 과당 불내증(Hereditary fructose intolerance), 글리코겐 축적 질환 4형(Glycogen storage disease type IV), 아르기니노숙시네이트 리아제 결핍증(Argininosuccinate lyase deficiency), 시트린 결핍증(Citrin deficiency), 시트린 결핍에 의한 신생아 담증정체(Neonatal intrahepatic cholestasis by citrin deficiency), 콜레스테롤 에스테르 축적병(Cholesteryl ester storage disease), 낭포성 섬유증(Cystic fibrosis), 유전성 혈색소 침착증(Hereditary hemochromatosis) 및 알스트롬 증후군(Alstrom syndrome)로 이루어진 군에서 선택되는 것을 특징으로 하는, 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210813",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a)개체로부터 세포를 단리하는 단계;\n(b)상기 단리된 세포에 화합물을 처리하여 화학유래 선조세포(chemically derived projenitor cell)를 제조하는 단계; 및\n(c)체외(ex vivo)에서 상기 화학유래 선조세포의 타겟 유전자를 교정하는 단계를 포함하는, 돌연변이 유전자가 교정된 세포의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 유전자를 교정하는 단계는 아데닌 염기교정 유전자가위(Adenine Base Editors) 또는 프라임 편집(Prime editing)에 의해 교정되는 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 교정되는 유전자는 Fah(fumarylacetoacetate hydrolase), ATP7B(ATPase copper transporting beta), SERPINA1(Serpin family A member 1), ABCB4(ATP binding cassette subfamily B member 4), ALDOB(aldolase, fructose-bisphosphate B), GBE(glycogen branching enzyme), SLC25A13(Solute Carrier Family 25 Member 13), CFTR(cystic fibrosis transmembrane conductance) 및 ALMS1(ALMS1 Centrosome And Basal Body Associated Protein) 유전자로 이루어진 그룹에서 선택되는 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 단리된 세포는 일차 간세포인 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 단리된 세포에 처리하는 화합물은 간세포 성장 인자(hepatic growth factor), A83-01 및 CHIR99021로 이루어진 군에서 선택되는 하나 이상인 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 화학유래 선조세포(chemically derived projenitor cell)는 화학유래 간선조 세포(chemically derived hepatic projenitor cell)인 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항의 어느 한 항의 방법으로 제조된 돌연변이 유전자가 교정된 세포 또는 그의 세포 집단을 유효성분으로 포함하는, 세포치료제.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n상기 세포치료제는 유전자 돌연변이로 인해 유발된 질환을 치료하는 것을 특징으로 하는, 세포치료제.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항의 세포치료제를 포함하는, 유전자 돌연변이 관련 질환 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서,\n상기 유전자 돌연변이 관련 질환은 티로신혈증 1형(Tyrosinemia type 1), 페닐케톤뇨증(Phenylketonuria), 윌슨병(Wilson disease), 알파-1 항트립신 결핍증(Alpha-1 antitrypsin deficiency), 진행성 가족성 간내 담즙정체 3형(Progressive familial intrahepatic cholestasis type 3), 유전성 과당 불내증(Hereditary fructose intolerance), 글리코겐 축적 질환 4형(Glycogen storage disease type IV), 아르기니노숙시네이트 리아제 결핍증(Argininosuccinate lyase deficiency), 시트린 결핍증(Citrin deficiency), 시트린 결핍에 의한 신생아 담증정체(Neonatal intrahepatic cholestasis by citrin deficiency), 콜레스테롤 에스테르 축적병(Cholesteryl ester storage disease), 낭포성 섬유증(Cystic fibrosis), 유전성 혈색소 침착증(Hereditary hemochromatosis) 및 알스트롬 증후군(Alstrom syndrome)로 이루어진 군에서 선택되는 것을 특징으로 하는, 조성물.",
+            "refers_to": [
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20240523",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a)개체로부터 세포를 단리하는 단계;\n(b)상기 단리된 세포에 화합물을 처리하여 화학유래 선조세포(chemically\nderived progenitor cell)를 제조하는 단계; \n(c)체외(ex vivo)에서 상기 화학유래 선조세포의 타겟 유전자를 교정하는 단계를 포함하는, 돌연변이 유전자가 교정된 세포의 제조방법으로서,\n상기 유전자를 교정하는 단계는 프라임 편집(Prime editing)에 의해 교정되는 것이고,\n상기 단리된 세포에 처리하는 화합물은 간세포 성장 인자(hepatocyte growth factor), A83-01 및 CHIR99021을 포함하는 것을 특징으로 하는, 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 교정되는 유전자는 Fah(fumarylacetoacetate hydrolase), ATP7B(ATPase\ncopper transporting beta), SERPINA1(Serpin family A member 1), ABCB4(ATP binding cassette subfamily B member 4), ALDOB(aldolase, fructose-bisphosphate B), GBE(glycogen branching enzyme), SLC25A13(Solute Carrier Family 25 Member 13), CFTR(cystic fibrosis transmembrane conductance) 및 ALMS1(ALMS1 Centrosome And Basal Body Associated Protein) 유전자로 이루어진 그룹에서 선택되는 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 단리된 세포는 일차 간세포인 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 화학유래 선조세포(chemically derived progenitor cell)는 화학유래 간선조세포(chemically derived hepatic progenitor cell)인 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항의 방법으로 제조된 돌연변이 유전자가 교정된 세포 또는 그의 세포 집단을 유효성분으로 포함하는, 세포치료제.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서,\n상기 세포치료제는 유전자 돌연변이로 인해 유발된 질환을 치료하는 것을 특징으로 하는, 세포치료제.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항의 세포치료제를 포함하는, 유전자 돌연변이 관련 질환 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서,\n상기 유전자 돌연변이 관련 질환은 티로신혈증 1형(Tyrosinemia type 1), 페닐케톤뇨증(Phenylketonuria), 윌슨병(Wilson disease), 알파-1 항트립신 결핍증(Alpha-1 antitrypsin deficiency), 진행성 가족성 간내 담즙정체 3형(Progressive familial intrahepatic cholestasis type 3), 유전성 과당 불내증(Hereditary fructose intolerance), 글리코겐 축적 질환 4형(Glycogen storage disease type IV), 아르기니노숙시네이트 리아제 결핍증(Argininosuccinate lyase deficiency), 시트린 결핍증(Citrin deficiency), 시트린 결핍에 의한 신생아 담증정체(Neonatal intrahepatic cholestasis by citrin deficiency), 콜레스테롤 에스테르 축적병(Cholesteryl ester storage disease), 낭포성 섬유증(Cystic fibrosis), 유전성 혈색소 침착증(Hereditary hemochromatosis) 및 알스트롬 증후군(Alstrom syndrome)로 이루어진 군에서 선택되는 것을 특징으로 하는, 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250103",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a)인간을 제외한 개체로부터 일차 간세포를 단리하는 단계;\n(b)상기 단리된 일차 간세포에 화합물을 처리하여 화학유래 간선조세포(chemically derived hepatic progenitor cell)를 제조하는 단계; \n(c)체외(ex vivo)에서 상기 화학유래 간선조세포의 타겟 유전자를 교정하는 단계를 포함하는, 돌연변이 유전자가 교정된 간선조세포의 제조방법으로서,\n상기 유전자를 교정하는 단계는 프라임 편집(Prime editing)에 의해 교정되는 것이고,\n상기 단리된 일차 간세포에 처리하는 화합물은 간세포 성장 인자(hepatocyte growth factor), A83-01 및 CHIR99021을 포함하는 것을 특징으로 하는, 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 방법으로 제조된 돌연변이 유전자가 교정된 간선조세포 또는 그의 세포 집단을 유효성분으로 포함하는, 세포치료제.",
+            "refers_to": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 10,
+      "after_claim_count": 4,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 성동구...",
+      "code": "220040114276",
+      "country": "대한민국",
+      "engName": "IUCF-HYU (Industry-University Cooperation Foundation Hanyang University)",
+      "name": "한양대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 서초구...",
+        "code": "",
+        "country": "",
+        "engName": "BAE, Sang Su",
+        "name": "배상수"
+      },
+      {
+        "address": "서울특별시 강남구...",
+        "code": "",
+        "country": "",
+        "engName": "CHOI, Dong Ho",
+        "name": "최동호"
+      },
+      {
+        "address": "경기도 양주시 화합로****번길 **-...",
+        "code": "",
+        "country": "",
+        "engName": "JEONG, Jae Min",
+        "name": "정재민"
+      },
+      {
+        "address": "서울특별시 중랑구...",
+        "code": "",
+        "country": "",
+        "engName": "HONG, Sung Ah",
+        "name": "홍성아"
+      },
+      {
+        "address": "서울특별시 성동구...",
+        "code": "",
+        "country": "",
+        "engName": "KIM, Yo Han",
+        "name": "김요한"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 선릉로**길**, **층, **층(코아렌빌딩)",
+      "code": "920161001214",
+      "country": "대한민국",
+      "engName": "ISIS IP Law LLC",
+      "name": "특허법인(유한)아이시스"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2020.08.14",
+      "priorityApplicationNumber": "1020200102636"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "KR1020180130625 A",
+      "examinerQuotationFlag": "Y"
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2021.08.13",
+        "receiptNumber": "1-1-2021-0938657-83"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2023.06.16",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2023.07.03",
+        "receiptNumber": "9-6-2024-0034255-13"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.02.26",
+        "receiptNumber": "9-5-2024-0174420-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2024.04.23",
+        "receiptNumber": "1-1-2024-0446807-98"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.05.23",
+        "receiptNumber": "1-1-2024-0557956-52"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.05.23",
+        "receiptNumber": "1-1-2024-0557977-11"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.11.08",
+        "receiptNumber": "9-5-2024-0955451-89"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.01.03",
+        "receiptNumber": "1-1-2025-0010317-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.01.03",
+        "receiptNumber": "1-1-2025-0010276-29"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.07.02",
+        "receiptNumber": "9-5-2025-0629807-61"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020210107462.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=348aaf18c46825cf02d6c2de1c78338ea753fee2d631134cad27b11a25c74839a49968bafc77d1ee68f4fe75bf8b714b2d50fac3099ef9dc80dd055dbd989c754e0bd141e29de070",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cff2f2b17860f57c3340c335583df08102adb835c7a28cf3669e395c8d519255008ca34cc871d2d04bbcfcba5795926d057050015891664c07"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "과학기술정보통신부",
+      "rndDuration": "2020.01.01 ~ 2020.12.31",
+      "rndManagingInstituteName": "한양대학교",
+      "rndProjectName": "원천기술개발사업 / 바이오·의료기술개발사업 / KOREA BIO GRAND CHALLENGE",
+      "rndSpecialInstituteName": "한국연구재단",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "차세대 유전자 편집기술을 이용한 질환치료 플랫폼 개발",
+      "rndTaskNumber": "1711105660"
+    }
+  }
+}

@@ -1,0 +1,823 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2014.12.03",
+      "applicationFlag": "",
+      "applicationNumber": "10-2014-0172409",
+      "claimCount": "18",
+      "examinerName": "방성철",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "포스파티딜이노시톨 포스페이트의 제조방법 및 이를 이용한 약물 전달체의 제조 방법",
+      "inventionTitleEng": "A method for preparing phosphatidylinositol phosphate  and a drug delivery carrier using the same",
+      "openDate": "2016.06.13",
+      "openNumber": "10-2016-0066952",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2014.12.03",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2016.11.14",
+      "publicationNumber": "",
+      "registerDate": "2016.11.08",
+      "registerNumber": "10-1676121-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07F 9/10"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 9/127"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/683"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 세포사멸 유도제를 세포에 처리하여 세포사멸을 유도하는 제1단계; 및 세포사멸이 유도된 세포로부터 세포 표면의 포스파티딜이노시톨 포스페이트(PtdInsPs)를 분리하는 제2단계를 포함하는, 포스파티딜이노시톨 포스페이트의 제조방법에 관한 것으로, 포스파티딜이노시톨 포스페이트는 세포사멸 유도에 의하여 사멸된 세포 표면에 외재화되므로, 이를 분리 정제할 경우 복잡한 구조를 나타내는 포스파티딜이노시톨 포스페이트를 효과적으로 생산할 수 있다. 나아가, 상기 제조된 포스파티딜이노시톨 포스페이트는 활성화된 대식세포의 CD14와 특이적으로 결합하므로, 포스파티딜이노시톨 포스페이트를 포함하는 약물전달체는 활성화된 대식세포 표적 용도로 사용할 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020140172409",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20141203",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포사멸 유도제를 세포에 처리하여 세포사멸을 유도하는 제1단계; 및\n상기 세포사멸이 유도된 세포로부터 세포 표면의 포스파티딜이노시톨 포스페이트(PtdInsPs)를 분리하는 제2단계를 포함하는, 포스파티딜이노시톨 포스페이트의 제조방법으로,\n상기 포스파티딜이노시톨 포스페이트는 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2) 인, 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n제1단계는 세포사멸 유도제를 2시간 내지 10시간 동안 세포에 처리하여 세포사멸을 유도하는 것인, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 세포사멸 유도제는 덱사메타손, 캄프토테신, 에토포사이드, 및 사이클로헥시미드로 이루어지는 군에서 선택되는 어느 하나 이상인 것인, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서,\n상기 덱사메타손은 15 내지 25 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서,\n상기 캄프토테신은 2 내지 5 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서,\n상기 에토포사이드는 80 내지 120 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서,\n상기 사이클로헥시미드는 150 내지 250 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 제1단계는 덱사메타손 또는 캄프토테신을 5시간 내지 7시간 동안 세포에 처리하여 세포사멸을 유도하는 것인, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 제1단계는 사이클로헥시미드를 3시간 내지 5시간 동안 세포에 처리하여 세포사멸을 유도하는 것인, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항의 제조방법에 의하여 포스파티딜이노시톨 포스페이트를 제조하는 단계; 및 \n상기 제조된 포스파티딜이노시톨 포스페이트를 약물 전달체 표면에 결합시키는 단계를 포함하며,\n상기 포스파티딜이노시톨 포스페이트는 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2) 인,\n활성화된 대식세포 표적용 약물 전달체의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서,\n상기 포스파티딜이노시톨 포스페이트는 이노시톨 포스페이트 그룹을 통하여 활성화된 대식세포의 CD14와 특이적으로 결합하는 것인, 제조방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서,\n상기 약물 전달체는 리포좀인 것인, 제조방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서,\n상기 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2)은 전체 약물 전달체 중량의 0.1 내지 3 중량%으로 포함되는 것인, 제조방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서,\n상기 포스파티딜이노시톨 포스페이트는 작용기를 통한 화학적 결합에 의하여 약물 전달체 표면에 결합하는 것인, 제조방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2)를 포함하는, 활성화된 대식세포 표적용 약물 전달체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서,\n상기 상기 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2)은 전체 약물 전달체 중량의 0.1 내지 3 중량%으로 포함되는 것인, 활성화된 대식세포 표적용 약물 전달체.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서,\n상기 약물 전달체는 리포좀인 것인, 활성화된 대식세포 표적용 약물 전달체.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서,\n상기 약물 전달체는 급성 발열, 간비장비대, 림프절 종대, 피부 및 점막 출혈, 범혈구감소증, 류마티스 관절염, 성인형 스틸병, 및 전신홍반루푸스을 포함하는 대식세포 활성화 증후군의 예방 또는 치료를 위한 것인, 활성화된 대식세포 표적용 약물 전달체.",
+          "refers_to": [
+            15
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20160607",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "세포사멸 유도제를 세포에 처리하여 세포사멸을 유도하는 제1단계; 및상기 세포사멸이 유도된 세포로부터 세포 표면의 포스파티딜이노시톨 포스페이트(PtdInsPs)를 분리하는 제2단계를 포함하는, 포스파티딜이노시톨 포스페이트의 제조방법으로,상기 포스파티딜이노시톨 포스페이트는 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2) 인, 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,제1단계는 세포사멸 유도제를 2시간 내지 10시간 동안 세포에 처리하여 세포사멸을 유도하는 것인, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 세포사멸 유도제는 덱사메타손, 캄프토테신, 에토포사이드, 및 사이클로헥시미드로 이루어지는 군에서 선택되는 어느 하나 이상인 것인, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서,상기 덱사메타손은 15 내지 25 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서,상기 캄프토테신은 2 내지 5 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서,상기 에토포사이드는 80 내지 120 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서,상기 사이클로헥시미드는 150 내지 250 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 제1단계는 덱사메타손 또는 캄프토테신을 5시간 내지 7시간 동안 세포에 처리하여 세포사멸을 유도하는 것인, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 제1단계는 사이클로헥시미드를 3시간 내지 5시간 동안 세포에 처리하여 세포사멸을 유도하는 것인, 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제9항 중 어느 한 항의 제조방법에 의하여 포스파티딜이노시톨 포스페이트를 제조하는 단계; 및 상기 제조된 포스파티딜이노시톨 포스페이트를 약물 전달체 표면에 결합시키는 단계를 포함하며,상기 포스파티딜이노시톨 포스페이트는 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2) 인,활성화된 대식세포 표적용 약물 전달체의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서,상기 포스파티딜이노시톨 포스페이트는 이노시톨 포스페이트 그룹을 통하여 활성화된 대식세포의 CD14와 특이적으로 결합하는 것인, 제조방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서,상기 약물 전달체는 리포좀인 것인, 제조방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서,상기 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2)은 전체 약물 전달체 중량의 0.1 내지 3 중량%으로 포함되는 것인, 제조방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서,상기 포스파티딜이노시톨 포스페이트는 작용기를 통한 화학적 결합에 의하여 약물 전달체 표면에 결합하는 것인, 제조방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2)이 약물 전달체의 표면에 결합된, 활성화된 대식세포 표적용 약물 전달체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서,상기 상기 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2)은 전체 약물 전달체 중량의 0.1 내지 3 중량%으로 포함되는 것인, 활성화된 대식세포 표적용 약물 전달체.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서,상기 약물 전달체는 리포좀인 것인, 활성화된 대식세포 표적용 약물 전달체.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서,상기 약물 전달체는 급성 발열, 간비장비대, 림프절 종대, 피부 및 점막 출혈, 범혈구감소증, 류마티스 관절염, 성인형 스틸병, 및 전신홍반루푸스을 포함하는 대식세포 활성화 증후군의 예방 또는 치료를 위한 것인, 활성화된 대식세포 표적용 약물 전달체.",
+          "refers_to": [
+            15
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20141203",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 18,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포사멸 유도제를 세포에 처리하여 세포사멸을 유도하는 제1단계; 및\n상기 세포사멸이 유도된 세포로부터 세포 표면의 포스파티딜이노시톨 포스페이트(PtdInsPs)를 분리하는 제2단계를 포함하는, 포스파티딜이노시톨 포스페이트의 제조방법으로,\n상기 포스파티딜이노시톨 포스페이트는 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2) 인, 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n제1단계는 세포사멸 유도제를 2시간 내지 10시간 동안 세포에 처리하여 세포사멸을 유도하는 것인, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 세포사멸 유도제는 덱사메타손, 캄프토테신, 에토포사이드, 및 사이클로헥시미드로 이루어지는 군에서 선택되는 어느 하나 이상인 것인, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서,\n상기 덱사메타손은 15 내지 25 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서,\n상기 캄프토테신은 2 내지 5 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서,\n상기 에토포사이드는 80 내지 120 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서,\n상기 사이클로헥시미드는 150 내지 250 μM의 농도로 세포에 처리되는 것인, 제조방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 제1단계는 덱사메타손 또는 캄프토테신을 5시간 내지 7시간 동안 세포에 처리하여 세포사멸을 유도하는 것인, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 제1단계는 사이클로헥시미드를 3시간 내지 5시간 동안 세포에 처리하여 세포사멸을 유도하는 것인, 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항의 제조방법에 의하여 포스파티딜이노시톨 포스페이트를 제조하는 단계; 및 \n상기 제조된 포스파티딜이노시톨 포스페이트를 약물 전달체 표면에 결합시키는 단계를 포함하며,\n상기 포스파티딜이노시톨 포스페이트는 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2) 인,\n활성화된 대식세포 표적용 약물 전달체의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서,\n상기 포스파티딜이노시톨 포스페이트는 이노시톨 포스페이트 그룹을 통하여 활성화된 대식세포의 CD14와 특이적으로 결합하는 것인, 제조방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서,\n상기 약물 전달체는 리포좀인 것인, 제조방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서,\n상기 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2)은 전체 약물 전달체 중량의 0.1 내지 3 중량%으로 포함되는 것인, 제조방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서,\n상기 포스파티딜이노시톨 포스페이트는 작용기를 통한 화학적 결합에 의하여 약물 전달체 표면에 결합하는 것인, 제조방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2)를 포함하는, 활성화된 대식세포 표적용 약물 전달체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서,\n상기 상기 포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2)은 전체 약물 전달체 중량의 0.1 내지 3 중량%으로 포함되는 것인, 활성화된 대식세포 표적용 약물 전달체.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서,\n상기 약물 전달체는 리포좀인 것인, 활성화된 대식세포 표적용 약물 전달체.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서,\n상기 약물 전달체는 급성 발열, 간비장비대, 림프절 종대, 피부 및 점막 출혈, 범혈구감소증, 류마티스 관절염, 성인형 스틸병, 및 전신홍반루푸스을 포함하는 대식세포 활성화 증후군의 예방 또는 치료를 위한 것인, 활성화된 대식세포 표적용 약물 전달체.",
+            "refers_to": [
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20160607",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "포스파티딜 이노시톨-3,4,5-삼인산(PtdIns(3,4,5)P3) 또는 포스파티딜 이노시톨-4,5-이인산(PtdIns(4,5)P2)이 약물 전달체의 표면에 결합된, 활성화된 대식세포 표적용 약물 전달체.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 18,
+      "after_claim_count": 1,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "경기도 성남시 수정구...",
+        "code": "220040376324",
+        "country": "대한민국",
+        "engName": "Gachon University of Industry-Academic cooperation Foundation",
+        "name": "가천대학교 산학협력단"
+      },
+      {
+        "address": "인천광역시 남동구...",
+        "code": "220030066274",
+        "country": "대한민국",
+        "engName": "GIL MEDICAL CENTER",
+        "name": "(의료)길의료재단"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "인천광역시 연수구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "OH, Byung Chul",
+        "name": "오병철"
+      },
+      {
+        "address": "인천광역시 연수구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "KIM, Ok Hee",
+        "name": "김옥희"
+      },
+      {
+        "address": "인천광역시 연수구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "LEE, Cheol Soon",
+        "name": "이철순"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 송파구 법원로 ***, *층(문정동)(특허법인한얼)",
+      "code": "919990004206",
+      "country": "대한민국",
+      "engName": "MIN SON",
+      "name": "손민"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "WO2013045271 A1",
+      "examinerQuotationFlag": ""
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2014.12.03",
+        "receiptNumber": "1-1-2014-1178321-24"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2014.12.18",
+        "receiptNumber": "1-5-2014-0231971-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2014.12.24",
+        "receiptNumber": "1-1-2014-1259412-14"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2016.04.06",
+        "receiptNumber": "9-5-2016-0255013-09"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2016.05.04",
+        "receiptNumber": "4-1-2016-0030568-51"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.06.07",
+        "receiptNumber": "1-1-2016-0545285-22"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2016.06.07",
+        "receiptNumber": "1-1-2016-0545276-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2016.07.04",
+        "receiptNumber": "1-1-2016-0646570-21"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2016.10.25",
+        "receiptNumber": "9-5-2016-0767313-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.12.10",
+        "receiptNumber": "4-1-2021-5322989-86"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.05.25",
+        "receiptNumber": "4-1-2022-5123428-62"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.08.28",
+        "receiptNumber": "4-1-2023-5224222-90"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.05.24",
+        "receiptNumber": "4-1-2024-5162178-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.12.06",
+        "receiptNumber": "4-1-2024-5356236-70"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020140172409.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e008c61763912243799382f9decc74aaefa50617d43815b20614a3036ba25c32cad91f96a5a17ba1f3302f5025bf5b5451c4c334906628d5b13",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf5639fe61d5925ad28af7a6543fc49981318af142b8577cb9e77b11ce15cdd697ad2e2d131a53c3665fa3051cd34ad906e73f834e3873c60a"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "보건복지부",
+        "rndDuration": "2014.10.01 ~ 2015.03.31",
+        "rndManagingInstituteName": "가천대학교 길병원",
+        "rndProjectName": "연구중심병원육성",
+        "rndSpecialInstituteName": "한국보건산업진흥원",
+        "rndTaskContribution": "2/3",
+        "rndTaskName": "대사성질환 혁신 신약개발을 위한 플랫폼 강화 및 타깃 검증 연구",
+        "rndTaskNumber": "HI14C1135"
+      },
+      {
+        "rndDepartmentName": "농촌진흥청",
+        "rndDuration": "2014.01.01 ~ 2014.12.31",
+        "rndManagingInstituteName": "가천대학교 산학협력단",
+        "rndProjectName": "차세대바이오그린21",
+        "rndSpecialInstituteName": "농촌진흥청",
+        "rndTaskContribution": "1/3",
+        "rndTaskName": "천연물을 이용한 일차/전이암 진단 및 치료용 의약소재 개발",
+        "rndTaskNumber": "PJ009540"
+      }
+    ]
+  }
+}

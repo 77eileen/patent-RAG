@@ -1,0 +1,2984 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.10.10",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7013974",
+      "claimCount": "28",
+      "examinerName": "홍수민",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "화합물 및 그의 치료 용도",
+      "inventionTitleEng": "COMPOUNDS AND THERAPEUTIC USES THEREOF",
+      "openDate": "2021.08.27",
+      "openNumber": "10-2021-0105878",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.10.07",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.10.16",
+      "publicationNumber": "",
+      "registerDate": "2025.10.13",
+      "registerNumber": "10-2871984-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2021.05.10"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/68"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/02"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/04"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/44"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 면역 반응을 규정된 치료 표적으로 연결시킬 수 있는 신규 화합물, 암 및 감염성 질환을 치료하는데 있어서의 상기 화합물의 용도, 상기 화합물을 함유하는 조성물, 그의 제조 방법 및 상기 방법에 사용되는 신규 중간체에 관한 것이다. [대표도] 도 1"
+    }
+  },
+  "claims": {
+    "application_number": "1020217013974",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210510",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 39,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "람노스 분자에 링커를 통해 연결된 항체 또는 그의 항원 결합 단편을 포함하는 면역접합체이며, 상기 링커는 1개 이상의 람노스 분자를 디스플레이할 수 있는 적어도 1개의 페닐 고리를 포함하는 것을 특징으로 하는 것인 면역접합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 링커가 페닐, 비페닐 또는 트리페닐 기; 또는 비페닐 기를 포함하는 것인 면역접합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 화학식 (A)의 화합물 또는 그의 제약상 허용되는 염인 면역접합체:\n[이미지]\n여기서 F는 람노스이고; Cy는 페닐, 비페닐 또는 트리페닐이고; SA 및 SB는 F 및 L의 최적 거리를 위한 선택된 스페이서를 나타내고; m은 1 내지 5로부터 선택된 정수를 나타내고; z는 1 내지 50으로부터 선택된 정수를 나타내고; L은 항체 또는 그의 항원 결합 단편이다.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 화학식 (I)의 화합물 또는 그의 제약상 허용되는 염인 면역접합체:\n[이미지]\n여기서 L은 항체 또는 그의 항원 결합 단편으로부터 선택된 결합 모이어티를 나타내고;\nS1은 -CH2- 기 중 1 내지 10개가 -O-, -S-, =N(H)-, -C(=O)-, -C(O)NH-, -NHC(O)-, 시클로헥실 또는 피롤리딘-2,5-디온으로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인, -(CH2)a- 또는 -(CH2)b-(CH2-CH2-O)c-(CH2)d- 기로부터 선택된 스페이서를 나타내고;\na는 1 내지 35로부터 선택된 정수를 나타내고;\nb는 0 내지 5로부터 선택된 정수를 나타내고;\nc는 1 내지 20으로부터 선택된 정수를 나타내고;\nd는 1 내지 20으로부터 선택된 정수를 나타내고;\nS2는 -CH2- 기 중 1 내지 5개가 -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인, -(CH2)e- 또는 -(CH2)f-(CH2-CH2-O)g-(CH2)h- 기로부터 선택된 스페이서를 나타내고;\ne는 1 내지 15로부터 선택된 정수를 나타내고;\nf는 1 내지 10으로부터 선택된 정수를 나타내고;\ng는 1 내지 20으로부터 선택된 정수를 나타내고;\nh는 1 내지 5로부터 선택된 정수를 나타내고;\nz는 1 내지 50으로부터 선택된 정수를 나타내고;\nX1은 항체 또는 항원 결합 단편 부착 모이어티를 나타내고;\nY1 및 Y2는 독립적으로 결합, -O-, -S-, -NH-, -NHC(O)-, -C(O)NH-, -OC(O)-, -C(O)O-, -SC(O)-, -C(O)S-, -NHSO2-, -SO2NH- 또는 -NHC(O)NH- 기를 나타내고;\nF는 람노스를 나타내고;\nm은 1 내지 5로부터 선택된 정수를 나타내고;\nCy는 페닐, 비페닐, 트리페닐을 나타내고, 이에 따라 Cy가 비페닐 또는 트리페닐을 나타내는 경우 상기 -Y1-S1-X1-L 기는 상기 페닐 고리 중 임의의 것 상에 존재할 수 있고, 상기 [F-S2-Y2]m- 기 또는 기들은 상기 페닐 고리 중 임의의 것 상에 존재할 수 있다.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, S1이 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 내지 5개 (예컨대 2, 3 또는 5개)가 -S-, =N(H)-, -C(=O)-, -NHC(O)-, 시클로헥실 또는 피롤리딘-2,5-디온으로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인 -(CH2)a- (예컨대 -(CH2)2-NHCO-시클로헥실-CH2-3-피롤리딘-2,5-디온-, -(CH2)2-NHCO-시클로헥실-CH2-3-피롤리딘-2,5-디온-S-(CH2)3-C(=NH)- 또는 -(CH2)2-NHCO-(CH2)3-CO-); 또는\n-CH2- 기 중 1 내지 5개 (예컨대 2개)가 -NHC(O)- 또는 피롤리딘-2,5-디온으로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인 -(CH2)b-(CH2-CH2-O)c-(CH2)d- (예컨대 -(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-3-피롤리딘-2,5-디온-);\n또는 S1이 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 내지 5개 (예컨대 2, 3 또는 5개)가 -S-, =N(H)-, -C(=O)-, -NHC(O)-, 시클로헥실 또는 피롤리딘-2,5-디온으로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인 -(CH2)a- (예컨대 -(CH2)2-NHCO-시클로헥실-CH2-3-피롤리딘-2,5-디온-, -(CH2)2-NHCO-시클로헥실-CH2-3-피롤리딘-2,5-디온-S-(CH2)3-C(=NH)- 또는 -(CH2)2-NHCO-(CH2)3-CO-);\n또는 S1이 하기로부터 선택된 스페이서를 나타내는 것인 면역접합체:\n-CH2- 기 중 1 내지 5개 (예컨대 2개)가 -C(=O)- 및 -NHC(O)-로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인 -(CH2)a- (예컨대 -(CH2)2-NHCO-(CH2)3-CO-).",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 또는 제5항에 있어서, a가 1 내지 30; 또는 2 내지 30; 또는 2, 4, 6, 9, 11, 18 또는 30; 또는 6 내지 30; 또는 6, 11, 18 또는 30; 또는 5 내지 15; 또는 6 내지 11; 또는 6, 7 또는 11; 또는 6; 또는 11; 또는 7로부터 선택된 정수를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제6항 중 어느 한 항에 있어서, b가 0 내지 3; 또는 0 또는 3; 또는 1 내지 3; 또는 2 또는 3; 또는 3으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제7항 중 어느 한 항에 있어서, c가 1 내지 15; 또는 1 내지 12; 또는 4 내지 12; 또는 4 또는 12; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제8항 중 어느 한 항에 있어서, d가 1 내지 15; 또는 2 내지 13; 또는 2, 5 또는 13; 또는 13; 또는 3으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제9항 중 어느 한 항에 있어서, Y1이 결합, -C(O)NH- 또는 -O-를 나타내거나; 또는 Y1이 -C(O)NH-를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제10항 중 어느 한 항에 있어서, S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1 또는 2개의 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-CH2-, -(CH2)3-, -(CH2)3-NHCO-(CH2)4-CONH-CH2-, -(CH2)3-NH-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 1 내지 3개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -C(O)NH- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-CH2-, -(CH2)3-NHCO-, -(CH2)3-, -(CH2)3-NHCO-(CH2)4-CONH-CH2- 또는 -(CH2)3-NH-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 -O-, -C(O)NH- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2)2-(OCH2CH2)4-NHCO-CH2- 또는 -(CH2)4-NHCO-(CH2)2-(OCH2CH2)4-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 1 또는 2개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 1 내지 3개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1 또는 2개의 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 1 내지 3개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1 또는 2개의 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 2개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-); 또는\n-CH2- 기 중 3개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2- 또는 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내는 것인 면역접합체: \n-CH2- 기 중 3개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-).",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제11항 중 어느 한 항에 있어서, e가 1 내지 10; 또는 3 내지 10; 또는 3, 5, 7, 9 또는 10; 또는 5 내지 9; 또는 5, 7 또는 9; 또는 4 내지 10; 또는 4, 5, 7 또는 10; 또는 5; 또는 7로부터 선택된 정수를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제12항 중 어느 한 항에 있어서, f가 1 내지 8; 또는 2 내지 8; 또는 2 내지 6; 또는 4 내지 8; 또는 4, 6 또는 8; 또는 4; 또는 6으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제13항 중 어느 한 항에 있어서, g가 1 내지 15; 또는 4 내지 12; 또는 4, 8 또는 12; 또는 1 내지 5; 또는 1 내지 4; 또는 12; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제14항 중 어느 한 항에 있어서, h가 1 내지 4; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제15항 중 어느 한 항에 있어서, Y2가 결합, -O- 또는 -NHC(O)-를 나타내거나; 또는 Y2가 결합 또는 -O-를 나타내거나; 또는 Y2가 -O-를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제16항 중 어느 한 항에 있어서, m이 1 내지 4; 또는 1 내지 3; 또는 1 또는 3; 또는 2 또는 3; 또는 1 또는 2; 또는 1; 또는 2; 또는 3; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제17항 중 어느 한 항에 있어서, z가 1 내지 40; 또는 1 내지 36; 또는 6 내지 36; 또는 6, 11, 12, 12-18, 15, 22 또는 24-36; 또는 6, 12-18, 22 또는 24-36으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제18항 중 어느 한 항에 있어서, Cy가 페닐 또는 비페닐; 또는 비페닐 또는 트리페닐; 또는 페닐 또는 트리페닐; 또는 비페닐을 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제19항 중 어느 한 항에 있어서, X1이 -S- 또는 -N(H)-를 나타내거나; 또는 X1이 -N(H)-를 나타내는 것인 면역접합체.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 화학식 (I)a의 화합물 또는 그의 제약상 허용되는 염인 면역접합체:\n[이미지]\n여기서 L은 항체 또는 그의 항원 결합 단편으로부터 선택된 결합 모이어티를 나타내고;\nS1은 -CH2- 기 중 2개가 -NHC(O)-, C(=O)-, 시클로헥실 또는 피롤리딘-2,5-디온으로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인 -(CH2)a-로부터 선택된 스페이서를 나타내고;\na는 7로부터 선택된 정수를 나타내고;\nS2는 하기로부터 선택된 스페이서를 나타내고:\n-CH2- 기 중 2개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e-; 또는\n-CH2- 기 중 3개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h-;\ne는 7로부터 선택된 정수를 나타내고;\nf는 4로부터 선택된 정수를 나타내고;\ng는 4 또는 12로부터 선택된 정수를 나타내고;\nh는 4로부터 선택된 정수를 나타내고;\nz는 6 내지 36으로부터 선택된 정수를 나타내고;\nX1은 -N(H)-를 나타내고\nY1은 -C(O)NH-를 나타내고;\nY2는 -O-를 나타내고;\nF는 람노스를 나타내고;\nm은 1 내지 3으로부터 선택된 정수를 나타내고;\nCy는 비페닐을 나타내고, 이에 따라 상기 -Y1-S1-X1-L 기는 상기 페닐 고리 중 어느 하나 상에 존재할 수 있고 상기 [F-S2-Y2]m- 기 또는 기들은 상기 페닐 고리 중 어느 하나 상에 존재할 수 있다.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 화학식 (I)b의 화합물 또는 그의 제약상 허용되는 염인 면역접합체:\n[이미지]\n여기서 L은 항체 또는 그의 항원 결합 단편으로부터 선택된 결합 모이어티를 나타내고;\nS1은 -CH2- 기 중 2개가 -NHC(O)- 또는 C(=O)- 기에 의해 임의로 치환될 수 있는 것인 -(CH2)a-로부터 선택된 스페이서를 나타내고;\na는 7로부터 선택된 정수를 나타내고;\nS2는 -CH2- 기 중 3개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h-로부터 선택된 스페이서를 나타내고;\nf는 4로부터 선택된 정수를 나타내고;\ng는 4로부터 선택된 정수를 나타내고;\nh는 4로부터 선택된 정수를 나타내고;\nz는 6 내지 36으로부터 선택된 정수를 나타내고;\nX1은 -N(H)-를 나타내고;\nY1은 -C(O)NH-를 나타내고;\nY2는 -O-를 나타내고;\nF는 람노스를 나타내고;\nm은 1 또는 2로부터 선택된 정수를 나타내고;\nCy는 비페닐을 나타내고, 이에 따라 상기 -Y1-S1-X1-L 기는 상기 페닐 고리 중 어느 하나 상에 존재할 수 있고 상기 [F-S2-Y2]m- 기 또는 기들은 상기 페닐 고리 중 어느 하나 상에 존재할 수 있다.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제22항 중 어느 한 항에 있어서, 상기 항체가 폴리클로날 항체인 면역접합체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제23항 중 어느 한 항에 있어서, 상기 항체가 인간화 항체, 인간 항체, 뮤린 항체 또는 키메라 항체인 면역접합체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제23항 중 어느 한 항에 있어서, 상기 항체가 단일 도메인 항체 (sdAb)인 면역접합체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제23항 중 어느 한 항에 있어서, 상기 그의 항원 결합 단편이 항원-결합 단편 (Fab) 또는 단일-쇄 가변 단편 (scFv)인 면역접합체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 단편이 Fab, Fab', F(ab)2, F(ab')2, 및 scFv로 이루어진 군으로부터 선택된 것인 면역접합체.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제27항 중 어느 한 항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 EGFR 항체 또는 그의 단편, 예컨대 세툭시맙, 세툭시맙 Fab 또는 니모투주맙, 특히 서열식별번호: 1 및 2에 대해 적어도 80% 서열 동일성을 갖는 EGFR 항체 또는 그의 단편, 예컨대 세툭시맙 또는 세툭시맙 Fab로부터 선택된 것인 면역접합체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제27항 중 어느 한 항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 CD20 항체 또는 그의 단편, 예컨대 리툭시맙 또는 리툭시맙 Fab, 특히 서열식별번호: 3 및 4에 대해 적어도 80% 서열 동일성을 갖는 CD20 항체 또는 그의 단편, 예컨대 리툭시맙 또는 리툭시맙 Fab로부터 선택된 것인 면역접합체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제27항 중 어느 한 항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 HER2 항체 또는 그의 단편, 예컨대 트라스투주맙 또는 트라스투주맙 Fab, 특히 서열식별번호: 5 및 6에 대해 적어도 80% 서열 동일성을 갖는 HER2 항체 또는 그의 단편, 예컨대 트라스투주맙 또는 트라스투주맙 Fab로부터 선택된 것인 면역접합체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제27항 중 어느 한 항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 병원체 특이적 항체 또는 그의 단편으로부터 선택된 것인 면역접합체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항, 제21항 및 제22항 중 어느 한 항에 있어서, 실시예 1-40 중 어느 하나로부터 선택된 면역접합체 또는 그의 제약상 허용되는 염.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제32항 중 어느 한 항에 정의된 바와 같은 면역접합체 또는 그의 제약상 허용되는 염을 포함하는 제약 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제33항에 있어서, 1종 이상의 추가의 치료제를 추가적으로 포함하는 제약 조성물.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제32항 중 어느 한 항에 있어서, 요법에 사용하기 위한 면역접합체 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제32항 중 어느 한 항에 있어서, 암의 치료에 사용하기 위한 면역접합체 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제32항 중 어느 한 항에 있어서, 혈액암, 특히 백혈병 및 림프종의 치료에 사용하기 위한 면역접합체 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제32항 중 어느 한 항에 있어서, 박테리아 감염의 치료에 사용하기 위한 면역접합체 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 화학식 (IIA)의 화합물 (여기서 S1은 N-히드록시숙신이미드 기로 종결됨)을 화학식 (IIIA)의 화합물 (여기서 항체 또는 항원 결합 단편은 적어도 1개의 반응성 아미노 기를 함유함)과 반응시켜 화학식 (IA)의 화합물 (여기서 X1은 -NH-를 나타냄)을 제조하는 단계:\n[이미지]\n(여기서 F, S2, Y2, m, z, Cy, Y1, S1 및 L은 제1항에 정의된 바와 같음); 또는\n(b) 화학식 (IIIB)의 화합물 (여기서 항체 또는 항원 결합 단편은 적어도 1개의 반응성 티올 기를 함유함)을 화학식 (IIB)의 화합물 (여기서 S1은 말레이미드로 종결됨)과 반응시켜 화학식 (IB)의 화합물 (여기서 X1은 -S-를 나타냄)을 제조하는 단계:\n[이미지]\n(여기서 F, S2, Y2, m, z, Cy, Y1 및 S1은 제1항에 정의된 바와 같음); 및/또는\n(c) 화학식 (I)의 화합물 또는 그의 보호된 유도체를 추가의 화학식 (I)의 화합물 또는 그의 보호된 유도체로 상호전환시키는 단계\n를 포함하는, 제4항에 정의된 바와 같은 면역접합체를 제조하는 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20250124",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 39,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "화학식 (I)의 화합물 또는 그의 제약상 허용되는 염:여기서 L은 항체 또는 그의 항원 결합 단편으로부터 선택된 결합 모이어티를 나타내고;S1은 -(CH2)2-NHCO-(CH2)3-CO- 또는 -(CH2)2-NHCO-시클로헥실-CH2-3-피롤리딘-2,5-디온-으로부터 선택된 스페이서를 나타내고;S2는 -(CH2)2-O-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, 또는 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-로부터 선택된 스페이서를 나타내고;z는 6, 11 내지 18, 또는 24 내지 36으로부터 선택된 정수를 나타내고;X1은 -N(H)- 또는 -S-로부터 선택된 항체 또는 항원 결합 단편 부착 모이어티를 나타내고;Y1는 -C(O)NH-를 나타내고;Y2는 -O-를 나타내고;F는 람노스를 나타내고;m은 1 내지 3로부터 선택된 정수를 나타내고;Cy는 비페닐을 나타내고, 이에 따라 상기 -Y1-S1-X1-L 기는 상기 페닐 고리 중 어느 하나 상에 존재할 수 있고, 상기 [F-S2-Y2]m- 기 또는 기들은 상기 페닐 고리 중 어느 하나 상에 존재할 수 있다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, m이 1 또는 2로부터 선택된 정수를 나타내는 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, m이 1인 정수를 나타내는 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, m이 2인 정수를 나타내는 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, z가  6, 12 내지 18, 또는 24 내지 36으로부터 선택된 정수를 나타내는 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체가 폴리클로날 항체인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체가 인간화 항체, 인간 항체, 뮤린 항체 또는 키메라 항체인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체가 단일 도메인 항체 (sdAb)인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 그의 항원 결합 단편이 항원-결합 단편 (Fab) 또는 단일-쇄 가변 단편 (scFv)인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 단편이 Fab, Fab', F(ab)2, F(ab')2, 및 scFv로 이루어진 군으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 EGFR 항체 또는 그의 단편으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 세툭시맙, 세툭시맙 Fab 또는 니모투주맙으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 서열식별번호: 1 및 2에 따른 세툭시맙 또는 세툭시맙 Fab로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 CD20 항체 또는 그의 단편으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 리툭시맙 또는 리툭시맙 Fab로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 서열식별번호: 3 및 4에 따른 리툭시맙 또는 리툭시맙 Fab로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 HER2 항체 또는 그의 단편으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 트라스투주맙 또는 트라스투주맙 Fab로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 서열식별번호: 5 및 6에 따른 트라스투주맙 또는 트라스투주맙 Fab로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 병원체 특이적 항체 또는 그의 단편으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기로부터 선택된 화합물 또는 그의 제약상 허용되는 염:여기서 Fab는 세툭시맙-Fab임;여기서 Fab는 세툭시맙-Fab임;여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;여기서 mAb는 세툭시맙이고, z는 18 이상으로부터 선택된 정수임;여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;여기서 mAb는 세툭시맙이고, z는 18 이상으로부터 선택된 정수임;여기서 mAb는 세툭시맙이고, z는 18 이상으로부터 선택된 정수임;여기서 mAb는 세툭시맙이고, z는 18 이상으로부터 선택된 정수임;여기서 mAb는 세툭시맙임;여기서 fAb는 세툭시맙-fAb임;여기서 fAb는 세툭시맙-fAb임;여기서 fAb는 세툭시맙-fAb임;여기서 fAb는 세툭시맙-fAb임;여기서 fAb는 세툭시맙-fAb임;여기서 fAb는 세툭시맙-fAb임;여기서 mAb는 세툭시맙임;여기서 mAb는 세툭시맙임;여기서 mAb는 세툭시맙이고, z는 5 내지 6으로부터 선택된 정수임;여기서 mAb는 세툭시맙이고, z는 5 내지 6으로부터 선택된 정수임;여기서 fAb는 세툭시맙-fAb임;여기서 fAb는 세툭시맙-fAb임;여기서 mAb는 리툭시맙이고, z는 12 내지 18으로부터 선택된 정수임;여기서 fAb는 리툭시맙-fAb임;여기서 Fab는 세툭시맙-Fab이고, z는 12임;여기서 Fab는 세툭시맙-Fab이고, z는 15임;여기서 Fab는 세툭시맙-Fab이고, z는 15임;여기서 Fab는 세툭시맙-Fab이고, z는 6임;여기서 Fab는 세툭시맙-Fab이고, z는 11임;여기서 Fab는 세툭시맙-Fab이고, z는 12임;여기서 Fab는 세툭시맙-Fab이고, z는 12임;여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;여기서 mAb는 세툭시맙이고, z는 6임;여기서 mAb는 세툭시맙이고, z는 18 이상으로부터 선택된 정수임;여기서 Fab는 항체-Fab임;,여기서 mAb는 항체임;,여기서 Fab는 항체-Fab임; 및,여기서 mAb는 항체임.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 암의 치료에 사용하기 위한 제약 조성물.",
+          "refers_to": [
+            1,
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 암의 치료에 사용하기 위한 의약의 제조에 사용되는 제약 조성물.",
+          "refers_to": [
+            1,
+            21
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 암의 치료를 필요로 하는 개체에게 투여되는, 암의 치료에 사용하기 위한 제약 조성물.",
+          "refers_to": [
+            1,
+            21
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 혈액암의 치료에 사용하기 위한 제약 조성물.",
+          "refers_to": [
+            1,
+            21
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 백혈병 또는 림프종의 치료에 사용하기 위한 제약 조성물.",
+          "refers_to": [
+            1,
+            21
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 박테리아 감염의 치료에 사용하기 위한 제약 조성물.",
+          "refers_to": [
+            1,
+            21
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 정의된 바와 같은 화합물 또는 그의 제약상 허용되는 염을 제조하는 방법이며,(a) 화학식 (IIA)의 화합물 (여기서 S1은 N-히드록시숙신이미드 기로 종결됨)을 화학식 (IIIA)의 화합물 (여기서 항체 또는 항원 결합 단편은 적어도 1개의 반응성 아미노 기를 함유함)과 반응시켜 화학식 (IA)의 화합물 (여기서 X1은 -NH-를 나타냄)을 제조하는 단계:(여기서 F, S2, Y2, m, z, Cy, Y1, S1 및 L은 제1항에 정의된 바와 같음); 또는(b) 화학식 (IIIB)의 화합물 (여기서 항체 또는 항원 결합 단편은 적어도 1개의 반응성 티올 기를 함유함)을 화학식 (IIB)의 화합물 (여기서 S1은 말레이미드로 종결됨)과 반응시켜 화학식 (IB)의 화합물 (여기서 X1은 -S-를 나타냄)을 제조하는 단계:(여기서 F, S2, Y2, m, z, Cy, Y1 및 S1은 제1항에 정의된 바와 같음); 또는(c) 화학식 (I)의 화합물 또는 화학식 (I)의 화합물의 보호된 형태를 추가의 화학식 (I)의 화합물 또는 화학식 (I)의 화합물의 보호된 형태로 상호전환시키는 단계를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210510",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 39,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "람노스 분자에 링커를 통해 연결된 항체 또는 그의 항원 결합 단편을 포함하는 면역접합체이며, 상기 링커는 1개 이상의 람노스 분자를 디스플레이할 수 있는 적어도 1개의 페닐 고리를 포함하는 것을 특징으로 하는 것인 면역접합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 링커가 페닐, 비페닐 또는 트리페닐 기; 또는 비페닐 기를 포함하는 것인 면역접합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 화학식 (A)의 화합물 또는 그의 제약상 허용되는 염인 면역접합체:\n[이미지]\n여기서 F는 람노스이고; Cy는 페닐, 비페닐 또는 트리페닐이고; SA 및 SB는 F 및 L의 최적 거리를 위한 선택된 스페이서를 나타내고; m은 1 내지 5로부터 선택된 정수를 나타내고; z는 1 내지 50으로부터 선택된 정수를 나타내고; L은 항체 또는 그의 항원 결합 단편이다.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 화학식 (I)의 화합물 또는 그의 제약상 허용되는 염인 면역접합체:\n[이미지]\n여기서 L은 항체 또는 그의 항원 결합 단편으로부터 선택된 결합 모이어티를 나타내고;\nS1은 -CH2- 기 중 1 내지 10개가 -O-, -S-, =N(H)-, -C(=O)-, -C(O)NH-, -NHC(O)-, 시클로헥실 또는 피롤리딘-2,5-디온으로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인, -(CH2)a- 또는 -(CH2)b-(CH2-CH2-O)c-(CH2)d- 기로부터 선택된 스페이서를 나타내고;\na는 1 내지 35로부터 선택된 정수를 나타내고;\nb는 0 내지 5로부터 선택된 정수를 나타내고;\nc는 1 내지 20으로부터 선택된 정수를 나타내고;\nd는 1 내지 20으로부터 선택된 정수를 나타내고;\nS2는 -CH2- 기 중 1 내지 5개가 -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인, -(CH2)e- 또는 -(CH2)f-(CH2-CH2-O)g-(CH2)h- 기로부터 선택된 스페이서를 나타내고;\ne는 1 내지 15로부터 선택된 정수를 나타내고;\nf는 1 내지 10으로부터 선택된 정수를 나타내고;\ng는 1 내지 20으로부터 선택된 정수를 나타내고;\nh는 1 내지 5로부터 선택된 정수를 나타내고;\nz는 1 내지 50으로부터 선택된 정수를 나타내고;\nX1은 항체 또는 항원 결합 단편 부착 모이어티를 나타내고;\nY1 및 Y2는 독립적으로 결합, -O-, -S-, -NH-, -NHC(O)-, -C(O)NH-, -OC(O)-, -C(O)O-, -SC(O)-, -C(O)S-, -NHSO2-, -SO2NH- 또는 -NHC(O)NH- 기를 나타내고;\nF는 람노스를 나타내고;\nm은 1 내지 5로부터 선택된 정수를 나타내고;\nCy는 페닐, 비페닐, 트리페닐을 나타내고, 이에 따라 Cy가 비페닐 또는 트리페닐을 나타내는 경우 상기 -Y1-S1-X1-L 기는 상기 페닐 고리 중 임의의 것 상에 존재할 수 있고, 상기 [F-S2-Y2]m- 기 또는 기들은 상기 페닐 고리 중 임의의 것 상에 존재할 수 있다.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, S1이 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 내지 5개 (예컨대 2, 3 또는 5개)가 -S-, =N(H)-, -C(=O)-, -NHC(O)-, 시클로헥실 또는 피롤리딘-2,5-디온으로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인 -(CH2)a- (예컨대 -(CH2)2-NHCO-시클로헥실-CH2-3-피롤리딘-2,5-디온-, -(CH2)2-NHCO-시클로헥실-CH2-3-피롤리딘-2,5-디온-S-(CH2)3-C(=NH)- 또는 -(CH2)2-NHCO-(CH2)3-CO-); 또는\n-CH2- 기 중 1 내지 5개 (예컨대 2개)가 -NHC(O)- 또는 피롤리딘-2,5-디온으로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인 -(CH2)b-(CH2-CH2-O)c-(CH2)d- (예컨대 -(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-3-피롤리딘-2,5-디온-);\n또는 S1이 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 내지 5개 (예컨대 2, 3 또는 5개)가 -S-, =N(H)-, -C(=O)-, -NHC(O)-, 시클로헥실 또는 피롤리딘-2,5-디온으로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인 -(CH2)a- (예컨대 -(CH2)2-NHCO-시클로헥실-CH2-3-피롤리딘-2,5-디온-, -(CH2)2-NHCO-시클로헥실-CH2-3-피롤리딘-2,5-디온-S-(CH2)3-C(=NH)- 또는 -(CH2)2-NHCO-(CH2)3-CO-);\n또는 S1이 하기로부터 선택된 스페이서를 나타내는 것인 면역접합체:\n-CH2- 기 중 1 내지 5개 (예컨대 2개)가 -C(=O)- 및 -NHC(O)-로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인 -(CH2)a- (예컨대 -(CH2)2-NHCO-(CH2)3-CO-).",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 또는 제5항에 있어서, a가 1 내지 30; 또는 2 내지 30; 또는 2, 4, 6, 9, 11, 18 또는 30; 또는 6 내지 30; 또는 6, 11, 18 또는 30; 또는 5 내지 15; 또는 6 내지 11; 또는 6, 7 또는 11; 또는 6; 또는 11; 또는 7로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제6항 중 어느 한 항에 있어서, b가 0 내지 3; 또는 0 또는 3; 또는 1 내지 3; 또는 2 또는 3; 또는 3으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제7항 중 어느 한 항에 있어서, c가 1 내지 15; 또는 1 내지 12; 또는 4 내지 12; 또는 4 또는 12; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제8항 중 어느 한 항에 있어서, d가 1 내지 15; 또는 2 내지 13; 또는 2, 5 또는 13; 또는 13; 또는 3으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제9항 중 어느 한 항에 있어서, Y1이 결합, -C(O)NH- 또는 -O-를 나타내거나; 또는 Y1이 -C(O)NH-를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제10항 중 어느 한 항에 있어서, S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1 또는 2개의 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-CH2-, -(CH2)3-, -(CH2)3-NHCO-(CH2)4-CONH-CH2-, -(CH2)3-NH-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 1 내지 3개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -C(O)NH- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-CH2-, -(CH2)3-NHCO-, -(CH2)3-, -(CH2)3-NHCO-(CH2)4-CONH-CH2- 또는 -(CH2)3-NH-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 -O-, -C(O)NH- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2)2-(OCH2CH2)4-NHCO-CH2- 또는 -(CH2)4-NHCO-(CH2)2-(OCH2CH2)4-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 1 또는 2개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 1 내지 3개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1 또는 2개의 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 1 내지 3개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1 또는 2개의 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 2개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-); 또는\n-CH2- 기 중 3개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2- 또는 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내는 것인 면역접합체: \n-CH2- 기 중 3개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-).",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제11항 중 어느 한 항에 있어서, e가 1 내지 10; 또는 3 내지 10; 또는 3, 5, 7, 9 또는 10; 또는 5 내지 9; 또는 5, 7 또는 9; 또는 4 내지 10; 또는 4, 5, 7 또는 10; 또는 5; 또는 7로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제12항 중 어느 한 항에 있어서, f가 1 내지 8; 또는 2 내지 8; 또는 2 내지 6; 또는 4 내지 8; 또는 4, 6 또는 8; 또는 4; 또는 6으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제13항 중 어느 한 항에 있어서, g가 1 내지 15; 또는 4 내지 12; 또는 4, 8 또는 12; 또는 1 내지 5; 또는 1 내지 4; 또는 12; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제14항 중 어느 한 항에 있어서, h가 1 내지 4; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제15항 중 어느 한 항에 있어서, Y2가 결합, -O- 또는 -NHC(O)-를 나타내거나; 또는 Y2가 결합 또는 -O-를 나타내거나; 또는 Y2가 -O-를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제16항 중 어느 한 항에 있어서, m이 1 내지 4; 또는 1 내지 3; 또는 1 또는 3; 또는 2 또는 3; 또는 1 또는 2; 또는 1; 또는 2; 또는 3; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제17항 중 어느 한 항에 있어서, z가 1 내지 40; 또는 1 내지 36; 또는 6 내지 36; 또는 6, 11, 12, 12-18, 15, 22 또는 24-36; 또는 6, 12-18, 22 또는 24-36으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제18항 중 어느 한 항에 있어서, Cy가 페닐 또는 비페닐; 또는 비페닐 또는 트리페닐; 또는 페닐 또는 트리페닐; 또는 비페닐을 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제19항 중 어느 한 항에 있어서, X1이 -S- 또는 -N(H)-를 나타내거나; 또는 X1이 -N(H)-를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 화학식 (I)a의 화합물 또는 그의 제약상 허용되는 염인 면역접합체:\n[이미지]\n여기서 L은 항체 또는 그의 항원 결합 단편으로부터 선택된 결합 모이어티를 나타내고;\nS1은 -CH2- 기 중 2개가 -NHC(O)-, C(=O)-, 시클로헥실 또는 피롤리딘-2,5-디온으로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인 -(CH2)a-로부터 선택된 스페이서를 나타내고;\na는 7로부터 선택된 정수를 나타내고;\nS2는 하기로부터 선택된 스페이서를 나타내고:\n-CH2- 기 중 2개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e-; 또는\n-CH2- 기 중 3개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h-;\ne는 7로부터 선택된 정수를 나타내고;\nf는 4로부터 선택된 정수를 나타내고;\ng는 4 또는 12로부터 선택된 정수를 나타내고;\nh는 4로부터 선택된 정수를 나타내고;\nz는 6 내지 36으로부터 선택된 정수를 나타내고;\nX1은 -N(H)-를 나타내고\nY1은 -C(O)NH-를 나타내고;\nY2는 -O-를 나타내고;\nF는 람노스를 나타내고;\nm은 1 내지 3으로부터 선택된 정수를 나타내고;\nCy는 비페닐을 나타내고, 이에 따라 상기 -Y1-S1-X1-L 기는 상기 페닐 고리 중 어느 하나 상에 존재할 수 있고 상기 [F-S2-Y2]m- 기 또는 기들은 상기 페닐 고리 중 어느 하나 상에 존재할 수 있다.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 화학식 (I)b의 화합물 또는 그의 제약상 허용되는 염인 면역접합체:\n[이미지]\n여기서 L은 항체 또는 그의 항원 결합 단편으로부터 선택된 결합 모이어티를 나타내고;\nS1은 -CH2- 기 중 2개가 -NHC(O)- 또는 C(=O)- 기에 의해 임의로 치환될 수 있는 것인 -(CH2)a-로부터 선택된 스페이서를 나타내고;\na는 7로부터 선택된 정수를 나타내고;\nS2는 -CH2- 기 중 3개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h-로부터 선택된 스페이서를 나타내고;\nf는 4로부터 선택된 정수를 나타내고;\ng는 4로부터 선택된 정수를 나타내고;\nh는 4로부터 선택된 정수를 나타내고;\nz는 6 내지 36으로부터 선택된 정수를 나타내고;\nX1은 -N(H)-를 나타내고;\nY1은 -C(O)NH-를 나타내고;\nY2는 -O-를 나타내고;\nF는 람노스를 나타내고;\nm은 1 또는 2로부터 선택된 정수를 나타내고;\nCy는 비페닐을 나타내고, 이에 따라 상기 -Y1-S1-X1-L 기는 상기 페닐 고리 중 어느 하나 상에 존재할 수 있고 상기 [F-S2-Y2]m- 기 또는 기들은 상기 페닐 고리 중 어느 하나 상에 존재할 수 있다.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제22항 중 어느 한 항에 있어서, 상기 항체가 폴리클로날 항체인 면역접합체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제23항 중 어느 한 항에 있어서, 상기 항체가 인간화 항체, 인간 항체, 뮤린 항체 또는 키메라 항체인 면역접합체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제23항 중 어느 한 항에 있어서, 상기 항체가 단일 도메인 항체 (sdAb)인 면역접합체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제23항 중 어느 한 항에 있어서, 상기 그의 항원 결합 단편이 항원-결합 단편 (Fab) 또는 단일-쇄 가변 단편 (scFv)인 면역접합체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 단편이 Fab, Fab', F(ab)2, F(ab')2, 및 scFv로 이루어진 군으로부터 선택된 것인 면역접합체.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제27항 중 어느 한 항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 EGFR 항체 또는 그의 단편, 예컨대 세툭시맙, 세툭시맙 Fab 또는 니모투주맙, 특히 서열식별번호: 1 및 2에 대해 적어도 80% 서열 동일성을 갖는 EGFR 항체 또는 그의 단편, 예컨대 세툭시맙 또는 세툭시맙 Fab로부터 선택된 것인 면역접합체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제27항 중 어느 한 항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 CD20 항체 또는 그의 단편, 예컨대 리툭시맙 또는 리툭시맙 Fab, 특히 서열식별번호: 3 및 4에 대해 적어도 80% 서열 동일성을 갖는 CD20 항체 또는 그의 단편, 예컨대 리툭시맙 또는 리툭시맙 Fab로부터 선택된 것인 면역접합체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제27항 중 어느 한 항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 HER2 항체 또는 그의 단편, 예컨대 트라스투주맙 또는 트라스투주맙 Fab, 특히 서열식별번호: 5 및 6에 대해 적어도 80% 서열 동일성을 갖는 HER2 항체 또는 그의 단편, 예컨대 트라스투주맙 또는 트라스투주맙 Fab로부터 선택된 것인 면역접합체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제27항 중 어느 한 항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 병원체 특이적 항체 또는 그의 단편으로부터 선택된 것인 면역접합체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항, 제21항 및 제22항 중 어느 한 항에 있어서, 실시예 1-40 중 어느 하나로부터 선택된 면역접합체 또는 그의 제약상 허용되는 염.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제32항 중 어느 한 항에 정의된 바와 같은 면역접합체 또는 그의 제약상 허용되는 염을 포함하는 제약 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제33항에 있어서, 1종 이상의 추가의 치료제를 추가적으로 포함하는 제약 조성물.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제32항 중 어느 한 항에 있어서, 요법에 사용하기 위한 면역접합체 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제32항 중 어느 한 항에 있어서, 암의 치료에 사용하기 위한 면역접합체 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제32항 중 어느 한 항에 있어서, 혈액암, 특히 백혈병 및 림프종의 치료에 사용하기 위한 면역접합체 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제32항 중 어느 한 항에 있어서, 박테리아 감염의 치료에 사용하기 위한 면역접합체 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 화학식 (IIA)의 화합물 (여기서 S1은 N-히드록시숙신이미드 기로 종결됨)을 화학식 (IIIA)의 화합물 (여기서 항체 또는 항원 결합 단편은 적어도 1개의 반응성 아미노 기를 함유함)과 반응시켜 화학식 (IA)의 화합물 (여기서 X1은 -NH-를 나타냄)을 제조하는 단계:\n[이미지]\n(여기서 F, S2, Y2, m, z, Cy, Y1, S1 및 L은 제1항에 정의된 바와 같음); 또는\n(b) 화학식 (IIIB)의 화합물 (여기서 항체 또는 항원 결합 단편은 적어도 1개의 반응성 티올 기를 함유함)을 화학식 (IIB)의 화합물 (여기서 S1은 말레이미드로 종결됨)과 반응시켜 화학식 (IB)의 화합물 (여기서 X1은 -S-를 나타냄)을 제조하는 단계:\n[이미지]\n(여기서 F, S2, Y2, m, z, Cy, Y1 및 S1은 제1항에 정의된 바와 같음); 및/또는\n(c) 화학식 (I)의 화합물 또는 그의 보호된 유도체를 추가의 화학식 (I)의 화합물 또는 그의 보호된 유도체로 상호전환시키는 단계\n를 포함하는, 제4항에 정의된 바와 같은 면역접합체를 제조하는 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20221007",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 31,
+        "claims": [
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 화학식 (I)의 화합물 또는 그의 제약상 허용되는 염인 면역접합체:\n[이미지]\n여기서 L은 항체 또는 그의 항원 결합 단편으로부터 선택된 결합 모이어티를 나타내고;\nS1은 -CH2- 기 중 1 내지 10개가 -O-, -S-, =N(H)-, -C(=O)-, -C(O)NH-, -NHC(O)-, 시클로헥실 또는 피롤리딘-2,5-디온으로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인, -(CH2)a- 또는 -(CH2)b-(CH2-CH2-O)c-(CH2)d- 기로부터 선택된 스페이서를 나타내고;\na는 1 내지 35로부터 선택된 정수를 나타내고;\nb는 0 내지 5로부터 선택된 정수를 나타내고;\nc는 1 내지 20으로부터 선택된 정수를 나타내고;\nd는 1 내지 20으로부터 선택된 정수를 나타내고;\nS2는 -CH2- 기 중 1 내지 5개가 -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1개 이상의 기에 의해 임의로 치환될 수 있는 것인, -(CH2)e- 또는 -(CH2)f-(CH2-CH2-O)g-(CH2)h- 기로부터 선택된 스페이서를 나타내고;\ne는 1 내지 15로부터 선택된 정수를 나타내고;\nf는 1 내지 10으로부터 선택된 정수를 나타내고;\ng는 1 내지 20으로부터 선택된 정수를 나타내고;\nh는 1 내지 5로부터 선택된 정수를 나타내고;\nz는 1 내지 50으로부터 선택된 정수를 나타내고;\nX1은 항체 또는 항원 결합 단편 부착 모이어티를 나타내고;\nY1 및 Y2는 독립적으로 결합, -O-, -S-, -NH-, -NHC(O)-, -C(O)NH-, -OC(O)-, -C(O)O-, -SC(O)-, -C(O)S-, -NHSO2-, -SO2NH- 또는 -NHC(O)NH- 기를 나타내고;\nF는 람노스를 나타내고;\nm은 1 내지 5로부터 선택된 정수를 나타내고;\nCy는 페닐, 비페닐, 트리페닐을 나타내고, 이에 따라 Cy가 비페닐 또는 트리페닐을 나타내는 경우 상기 -Y1-S1-X1-L 기는 상기 페닐 고리 중 임의의 것 상에 존재할 수 있고, 상기 [F-S2-Y2]m- 기 또는 기들은 상기 페닐 고리 중 임의의 것 상에 존재할 수 있다.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, a가 1 내지 30; 또는 2 내지 30; 또는 2, 4, 6, 9, 11, 18 또는 30; 또는 6 내지 30; 또는 6, 11, 18 또는 30; 또는 5 내지 15; 또는 6 내지 11; 또는 6, 7 또는 11; 또는 6; 또는 11; 또는 7로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, b가 0 내지 3; 또는 0 또는 3; 또는 1 내지 3; 또는 2 또는 3; 또는 3으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, c가 1 내지 15; 또는 1 내지 12; 또는 4 내지 12; 또는 4 또는 12; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, d가 1 내지 15; 또는 2 내지 13; 또는 2, 5 또는 13; 또는 13; 또는 3으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, Y1이 결합, -C(O)NH- 또는 -O-를 나타내거나; 또는 Y1이 -C(O)NH-를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1 또는 2개의 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-CH2-, -(CH2)3-, -(CH2)3-NHCO-(CH2)4-CONH-CH2-, -(CH2)3-NH-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 1 내지 3개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -C(O)NH- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-CH2-, -(CH2)3-NHCO-, -(CH2)3-, -(CH2)3-NHCO-(CH2)4-CONH-CH2- 또는 -(CH2)3-NH-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 -O-, -C(O)NH- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2)2-(OCH2CH2)4-NHCO-CH2- 또는 -(CH2)4-NHCO-(CH2)2-(OCH2CH2)4-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 1 또는 2개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 1 내지 3개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)3-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1 또는 2개의 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 1 내지 3개의 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O-, -N(H)-, -C(O)NH- 및 -NHC(O)-로부터 선택된 1 또는 2개의 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 1 또는 2개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-CH2-); 또는\n-CH2- 기 중 1 내지 5개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2- 또는 -(CH2)3-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내거나:\n-CH2- 기 중 2개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)e- (예컨대 -(CH2)2-O-(CH2)2-NHCO-CH2-); 또는\n-CH2- 기 중 3개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2- 또는 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-);\n또는 S2가 하기로부터 선택된 스페이서를 나타내는 것인 면역접합체: \n-CH2- 기 중 3개가 -O- 또는 -NHC(O)- 기에 의해 임의로 치환된 것인 -(CH2)f-(CH2-CH2-O)g-(CH2)h- (예컨대 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-).",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, e가 1 내지 10; 또는 3 내지 10; 또는 3, 5, 7, 9 또는 10; 또는 5 내지 9; 또는 5, 7 또는 9; 또는 4 내지 10; 또는 4, 5, 7 또는 10; 또는 5; 또는 7로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, f가 1 내지 8; 또는 2 내지 8; 또는 2 내지 6; 또는 4 내지 8; 또는 4, 6 또는 8; 또는 4; 또는 6으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, g가 1 내지 15; 또는 4 내지 12; 또는 4, 8 또는 12; 또는 1 내지 5; 또는 1 내지 4; 또는 12; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, h가 1 내지 4; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, Y2가 결합, -O- 또는 -NHC(O)-를 나타내거나; 또는 Y2가 결합 또는 -O-를 나타내거나; 또는 Y2가 -O-를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, m이 1 내지 4; 또는 1 내지 3; 또는 1 또는 3; 또는 2 또는 3; 또는 1 또는 2; 또는 1; 또는 2; 또는 3; 또는 4로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, z가 1 내지 40; 또는 1 내지 36; 또는 6 내지 36; 또는 6, 11, 12, 12-18, 15, 22 또는 24-36; 또는 6, 12-18, 22 또는 24-36으로부터 선택된 정수를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, Cy가 페닐 또는 비페닐; 또는 비페닐 또는 트리페닐; 또는 페닐 또는 트리페닐; 또는 비페닐을 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, X1이 -S- 또는 -N(H)-를 나타내거나; 또는 X1이 -N(H)-를 나타내는 것인 면역접합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 상기 항체가 폴리클로날 항체인 면역접합체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 상기 항체가 인간화 항체, 인간 항체, 뮤린 항체 또는 키메라 항체인 면역접합체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 상기 항체가 단일 도메인 항체 (sdAb)인 면역접합체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 상기 그의 항원 결합 단편이 항원-결합 단편 (Fab) 또는 단일-쇄 가변 단편 (scFv)인 면역접합체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 EGFR 항체 또는 그의 단편, 예컨대 세툭시맙, 세툭시맙 Fab 또는 니모투주맙, 특히 서열식별번호: 1 및 2에 대해 적어도 80% 서열 동일성을 갖는 EGFR 항체 또는 그의 단편, 예컨대 세툭시맙 또는 세툭시맙 Fab로부터 선택된 것인 면역접합체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 CD20 항체 또는 그의 단편, 예컨대 리툭시맙 또는 리툭시맙 Fab, 특히 서열식별번호: 3 및 4에 대해 적어도 80% 서열 동일성을 갖는 CD20 항체 또는 그의 단편, 예컨대 리툭시맙 또는 리툭시맙 Fab로부터 선택된 것인 면역접합체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 HER2 항체 또는 그의 단편, 예컨대 트라스투주맙 또는 트라스투주맙 Fab, 특히 서열식별번호: 5 및 6에 대해 적어도 80% 서열 동일성을 갖는 HER2 항체 또는 그의 단편, 예컨대 트라스투주맙 또는 트라스투주맙 Fab로부터 선택된 것인 면역접합체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 병원체 특이적 항체 또는 그의 단편으로부터 선택된 것인 면역접합체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 실시예 1-40 중 어느 하나로부터 선택된 면역접합체 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제32항 중 어느 한 항에 정의된 바와 같은 면역접합체 또는 그의 제약상 허용되는 염을 포함하는 제약 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제32항 중 어느 한 항에 따른 면역접합체 또는 그의 제약상 허용되는 염을 포함하는, 요법에 사용하기 위한 제약 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제32항 중 어느 한 항에 따른 면역접합체 또는 그의 제약상 허용되는 염을 포함하는, 암의 치료에 사용하기 위한 제약 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제32항 중 어느 한 항에 따른 면역접합체 또는 그의 제약상 허용되는 염을 포함하는, 혈액암, 특히 백혈병 및 림프종의 치료에 사용하기 위한 제약 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제32항 중 어느 한 항에 따른 면역접합체 또는 그의 제약상 허용되는 염을 포함하는, 박테리아 감염의 치료에 사용하기 위한 제약 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 정의된 바와 같은 면역접합체를 제조하는 방법이며,\n(a) 화학식 (IIA)의 화합물 (여기서 S1은 N-히드록시숙신이미드 기로 종결됨)을 화학식 (IIIA)의 화합물 (여기서 항체 또는 항원 결합 단편은 적어도 1개의 반응성 아미노 기를 함유함)과 반응시켜 화학식 (IA)의 화합물 (여기서 X1은 -NH-를 나타냄)을 제조하는 단계:\n[이미지]\n(여기서 F, S2, Y2, m, z, Cy, Y1, S1 및 L은 제1항에 정의된 바와 같음); 또는\n(b) 화학식 (IIIB)의 화합물 (여기서 항체 또는 항원 결합 단편은 적어도 1개의 반응성 티올 기를 함유함)을 화학식 (IIB)의 화합물 (여기서 S1은 말레이미드로 종결됨)과 반응시켜 화학식 (IB)의 화합물 (여기서 X1은 -S-를 나타냄)을 제조하는 단계:\n[이미지]\n(여기서 F, S2, Y2, m, z, Cy, Y1 및 S1은 제1항에 정의된 바와 같음); 및/또는\n(c) 화학식 (I)의 화합물 또는 그의 보호된 유도체를 추가의 화학식 (I)의 화합물 또는 그의 보호된 유도체로 상호전환시키는 단계\n를 포함하는 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250124",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 39,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "화학식 (I)의 화합물 또는 그의 제약상 허용되는 염:\n[이미지]\n여기서 L은 항체 또는 그의 항원 결합 단편으로부터 선택된 결합 모이어티를 나타내고;\nS1은 -(CH2)2-NHCO-(CH2)3-CO- 또는 -(CH2)2-NHCO-시클로헥실-CH2-3-피롤리딘-2,5-디온-으로부터 선택된 스페이서를 나타내고;\nS2는 -(CH2)2-O-(CH2)2-NHCO-CH2-, -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)4-(CH2)2-NHCO-CH2-, 또는 -(CH2)2-O-(CH2)2-NHCO-(CH2CH2O)12-(CH2)2-NHCO-CH2-로부터 선택된 스페이서를 나타내고;\nz는 6, 11 내지 18, 또는 24 내지 36으로부터 선택된 정수를 나타내고;\nX1은 -N(H)- 또는 -S-로부터 선택된 항체 또는 항원 결합 단편 부착 모이어티를 나타내고;\nY1는 -C(O)NH-를 나타내고;\nY2는 -O-를 나타내고;\nF는 람노스를 나타내고;\nm은 1 내지 3로부터 선택된 정수를 나타내고;\nCy는 비페닐을 나타내고, 이에 따라 상기 -Y1-S1-X1-L 기는 상기 페닐 고리 중 어느 하나 상에 존재할 수 있고, 상기 [F-S2-Y2]m- 기 또는 기들은 상기 페닐 고리 중 어느 하나 상에 존재할 수 있다.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, m이 1 또는 2로부터 선택된 정수를 나타내는 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, m이 1인 정수를 나타내는 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, m이 2인 정수를 나타내는 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, z가 6, 12 내지 18, 또는 24 내지 36으로부터 선택된 정수를 나타내는 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체가 폴리클로날 항체인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체가 인간화 항체, 인간 항체, 뮤린 항체 또는 키메라 항체인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체가 단일 도메인 항체 (sdAb)인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 그의 항원 결합 단편이 항원-결합 단편 (Fab) 또는 단일-쇄 가변 단편 (scFv)인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 단편이 Fab, Fab', F(ab)2, F(ab')2, 및 scFv로 이루어진 군으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 EGFR 항체 또는 그의 단편으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 세툭시맙, 세툭시맙 Fab 또는 니모투주맙으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 서열식별번호: 1 및 2에 따른 세툭시맙 또는 세툭시맙 Fab로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 CD20 항체 또는 그의 단편으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 리툭시맙 또는 리툭시맙 Fab로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 서열식별번호: 3 및 4에 따른 리툭시맙 또는 리툭시맙 Fab로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 HER2 항체 또는 그의 단편으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 트라스투주맙 또는 트라스투주맙 Fab로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 서열식별번호: 5 및 6에 따른 트라스투주맙 또는 트라스투주맙 Fab로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 그의 항원 결합 단편이 병원체 특이적 항체 또는 그의 단편으로부터 선택된 것인, 화합물 또는 그의 제약상 허용되는 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기로부터 선택된 화합물 또는 그의 제약상 허용되는 염:\n[이미지]\n여기서 Fab는 세툭시맙-Fab임;\n[이미지]\n여기서 Fab는 세툭시맙-Fab임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 18 이상으로부터 선택된 정수임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 18 이상으로부터 선택된 정수임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 18 이상으로부터 선택된 정수임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 18 이상으로부터 선택된 정수임;\n[이미지]\n여기서 mAb는 세툭시맙임;\n[이미지]\n여기서 fAb는 세툭시맙-fAb임;\n[이미지]\n여기서 fAb는 세툭시맙-fAb임;\n[이미지]\n여기서 fAb는 세툭시맙-fAb임;\n[이미지]\n여기서 fAb는 세툭시맙-fAb임;\n[이미지]\n여기서 fAb는 세툭시맙-fAb임;\n[이미지]\n여기서 fAb는 세툭시맙-fAb임;\n[이미지]\n여기서 mAb는 세툭시맙임;\n[이미지]\n여기서 mAb는 세툭시맙임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 5 내지 6으로부터 선택된 정수임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 5 내지 6으로부터 선택된 정수임;\n[이미지]\n여기서 fAb는 세툭시맙-fAb임;\n[이미지]\n여기서 fAb는 세툭시맙-fAb임;\n[이미지]\n여기서 mAb는 리툭시맙이고, z는 12 내지 18으로부터 선택된 정수임;\n[이미지]\n여기서 fAb는 리툭시맙-fAb임;\n[이미지]\n여기서 Fab는 세툭시맙-Fab이고, z는 12임;\n[이미지]\n여기서 Fab는 세툭시맙-Fab이고, z는 15임;\n[이미지]\n여기서 Fab는 세툭시맙-Fab이고, z는 15임;\n[이미지]\n여기서 Fab는 세툭시맙-Fab이고, z는 6임;\n[이미지]\n여기서 Fab는 세툭시맙-Fab이고, z는 11임;\n[이미지]\n여기서 Fab는 세툭시맙-Fab이고, z는 12임;\n[이미지]\n여기서 Fab는 세툭시맙-Fab이고, z는 12임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 12 내지 18로부터 선택된 정수임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 6임;\n[이미지]\n여기서 mAb는 세툭시맙이고, z는 18 이상으로부터 선택된 정수임;\n[이미지]\n여기서 Fab는 항체-Fab임;\n[이미지],\n여기서 mAb는 항체임;\n[이미지],\n여기서 Fab는 항체-Fab임; 및\n[이미지],\n여기서 mAb는 항체임.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 암의 치료에 사용하기 위한 제약 조성물.",
+            "refers_to": [
+              1,
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 암의 치료에 사용하기 위한 의약의 제조에 사용되는 제약 조성물.",
+            "refers_to": [
+              1,
+              21
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 암의 치료를 필요로 하는 개체에게 투여되는, 암의 치료에 사용하기 위한 제약 조성물.",
+            "refers_to": [
+              1,
+              21
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 혈액암의 치료에 사용하기 위한 제약 조성물.",
+            "refers_to": [
+              1,
+              21
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 백혈병 또는 림프종의 치료에 사용하기 위한 제약 조성물.",
+            "refers_to": [
+              1,
+              21
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제21항의 화합물 또는 그의 제약상 허용되는 염을 포함하는, 박테리아 감염의 치료에 사용하기 위한 제약 조성물.",
+            "refers_to": [
+              1,
+              21
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 정의된 바와 같은 화합물 또는 그의 제약상 허용되는 염을 제조하는 방법이며,\n(a) 화학식 (IIA)의 화합물 (여기서 S1은 N-히드록시숙신이미드 기로 종결됨)을 화학식 (IIIA)의 화합물 (여기서 항체 또는 항원 결합 단편은 적어도 1개의 반응성 아미노 기를 함유함)과 반응시켜 화학식 (IA)의 화합물 (여기서 X1은 -NH-를 나타냄)을 제조하는 단계:\n[이미지]\n(여기서 F, S2, Y2, m, z, Cy, Y1, S1 및 L은 제1항에 정의된 바와 같음); 또는\n(b) 화학식 (IIIB)의 화합물 (여기서 항체 또는 항원 결합 단편은 적어도 1개의 반응성 티올 기를 함유함)을 화학식 (IIB)의 화합물 (여기서 S1은 말레이미드로 종결됨)과 반응시켜 화학식 (IB)의 화합물 (여기서 X1은 -S-를 나타냄)을 제조하는 단계:\n[이미지]\n(여기서 F, S2, Y2, m, z, Cy, Y1 및 S1은 제1항에 정의된 바와 같음); 또는\n(c) 화학식 (I)의 화합물 또는 화학식 (I)의 화합물의 보호된 형태를 추가의 화학식 (I)의 화합물 또는 화학식 (I)의 화합물의 보호된 형태로 상호전환시키는 단계\n를 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 39,
+      "after_claim_count": 39,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.04.16",
+      "internationOpenNumber": "WO2020074911",
+      "internationalApplicationDate": "2019.10.10",
+      "internationalApplicationNumber": "PCT/GB2019/052889"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "영국 이씨 * 엔 * 에이치에이 런던 홀번 서커스 *-* 새비스 인 하우스 퍼스트 플로어",
+      "code": "520210340931",
+      "country": "영국",
+      "engName": "AVVINITY THERAPEUTICS LIMITED",
+      "name": "아비니티 테라퓨틱스 리미티드"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "영국 씨티** *엔디 샌드위치 켄...",
+        "code": "",
+        "country": "",
+        "engName": "WESTBY, Michael",
+        "name": "웨스트비, 마이클"
+      },
+      {
+        "address": "영국 씨티** *엔디 샌드위치 켄...",
+        "code": "",
+        "country": "",
+        "engName": "GLOSSOP, Melanie",
+        "name": "글로솝, 멜라니"
+      },
+      {
+        "address": "영국 씨티** *엔디 샌드위치 켄...",
+        "code": "",
+        "country": "",
+        "engName": "PICKFORD, Christopher",
+        "name": "픽포드, 크리스토퍼"
+      },
+      {
+        "address": "영국 씨티** *엔디 샌드위치 켄...",
+        "code": "",
+        "country": "",
+        "engName": "WATSON, Christine",
+        "name": "왓슨, 크리스틴"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980003619",
+        "country": "대한민국",
+        "engName": "YANG, Young June",
+        "name": "양영준"
+      },
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "920080006883",
+        "country": "대한민국",
+        "engName": "LEE Yunki",
+        "name": "이윤기"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "영국",
+      "priorityApplicationDate": "2018.10.10",
+      "priorityApplicationNumber": "1816554.8"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "JP2007527419 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2007146847 A2",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2016196682 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2017060729 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2014151423 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2008057235 A2",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Wenlan Chen et al, “l-Rhamnose Antigen: A Promising Alternative to α-Gal for Cancer Immunotherapies”, ACS Chemical Biology, 2011, Vol.6, No.2, pp.185-191",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.05.10",
+        "receiptNumber": "1-1-2021-0535166-81"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2021.05.21",
+        "receiptNumber": "1-5-2021-0081337-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2021.07.21",
+        "receiptNumber": "1-1-2021-0840991-08"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.07.23",
+        "receiptNumber": "1-5-2021-0117801-76"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.10.07",
+        "receiptNumber": "1-1-2022-1057573-39"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.10.07",
+        "receiptNumber": "1-1-2022-1057562-37"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.11.24",
+        "receiptNumber": "9-5-2024-1005881-50"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.01.24",
+        "receiptNumber": "1-1-2025-0104898-34"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.01.24",
+        "receiptNumber": "1-1-2025-0104897-99"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.08.25",
+        "receiptNumber": "9-5-2025-0811347-30"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217013974.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93ebd0eb15a7fd147e10bf0d4d186713a4e764bfec64c2fb9df70c6b970be8c6ddc717fb94a60e470ce683aca686160726b558dd63f10c84bd",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf26cb08788cb90fcdd54f36ea9695a4c971385caa76fb8e62854a414df5d92a728d72fe269998badfbab822e007d7af9bbfbbb2b604b58771"
+  },
+  "rndInfoArray": ""
+}

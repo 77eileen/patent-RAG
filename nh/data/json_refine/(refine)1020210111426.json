@@ -1,0 +1,1067 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2021.08.24",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2021-0111426",
+      "claimCount": "5",
+      "examinerName": "김민정",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "삼차원 뇌 오가노이드 유래 신경 줄기세포 및 그의 용도",
+      "inventionTitleEng": "Neural stem cells derived from 3D brain organoid and  use thereof",
+      "openDate": "2021.08.31",
+      "openNumber": "10-2021-0106966",
+      "originalApplicationDate": "2019.10.16",
+      "originalApplicationKind": "국내출원/분할",
+      "originalApplicationNumber": "10-2019-0128602",
+      "originalExaminationRequestDate": "2021.08.24",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.11.17",
+      "publicationNumber": "",
+      "registerDate": "2022.11.14",
+      "registerNumber": "10-2468360-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0797"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0793"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 5/00"
+      },
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/30"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 25/16"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 인간 만능 줄기세포로부터 제작된 3D 오가노이드를 패턴화하고 해체하여 해당 줄기세포 또는 전구세포를 배양하고 분화를 유도하여 최종 분화된 세포를 다량 확보하는 방법에 관한 것으로, 다량 확보된 세포는 기존 분화방법에 의해 분화된 세포에 비해 재현성, 안정성, 기능성 면에서 현저히 우수한 효과를 나타냄으로써 세포치료제나 치료 약물 스크리닝에 매우 유용하리라 기대된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020210111426",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210824",
+      "document_name": "[분할출원]특허출원서",
+      "claim_count": 16,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "분화 유도 후 전체 세포 집단에서 DAPI 양성 세포 중 신경세포 마커인 MAP2 양성 세포 비율이 75% 이상이고, 상기 MAP2 양성 세포 중 도파민성 신경세포의 마커인 TH 양성 세포 비율이 25% 이상이며, 상기 TH 양성 세포 중 NURR1 양성 세포의 비율이 70% 이상이거나, FOXA2, LMX1A 및 EN1으로 구성되는 군으로부터 선택되는 하나 이상의 마커가 양성인 세포의 비율이 75% 이상인 것을 특징으로 하는, 중뇌형 오가노이드 유래 신경줄기세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 DAPI 양성 세포 중 FOXA2/LMX1A, KI67/NESTIN, OTX2, SOX2로 구성되는 군으로부터 선택되는 하나 이상의 마커가 양성인 세포의 비율이 75% 이상인 것을 특징으로 하는, 중뇌형 오가노이드 유래 신경줄기세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서,\n2D 배양 유래 신경줄기세포에 비해서 DBN1, HSP90AB, CCT8, SERBP1, KIF5B, RDX, MACFA, EIF4G2, HNRNPK, HSPAB, BZW1, ZC3H15, 및 RSL1D1로 구성되는 군으로부터 선택되는 하나 이상의 유전자 발현이 현저하게 증가한 것을 특징으로 하는, 중뇌형 오가노이드 유래 신경줄기세포.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항의 중뇌형 오가노이드 유래 신경줄기세포로부터 최종 분화된 도파민성 신경세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항의 도파민성 신경세포를 포함하는 세포집단.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서,\n상기 도파민성 신경세포는 성상교세포(GFAP+)와 함께 분화되는 것을 특징으로 하는, 세포집단.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항의 중뇌형 오가노이드 유래 신경줄기세포 또는 제4항의 도파민성 신경세포 또는 제5항 또는 제6항의 세포집단을 유효성분으로 포함하는, 신경 퇴행성 질환 및/또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+          "refers_to": [
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n상기 신경 퇴행성 질환은 파킨슨병, 치매, 알츠하이머 질환, 헌팅턴 질환, 근위축성 측색 경화증, 기억력 저하, 중증근무력증, 진행성 핵상마비, 다계통 위축증, 본태성 진전증, 피질-기저핵 퇴행증, 미만성 루이소체 질환 및 픽병으로 구성된 군에서 선택된 하나인 것을 특징으로 하는, 신경 퇴행성 질환 및/또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n상기 염증성 퇴행성 질환은 치매, 루이소체치매, 전두측두치매, 백질변성, 부신백질이영양증, 다발성 경화증 및 루게릭병으로 구성된 군에서 선택된 하나인 것을 특징으로 하는, 신경 퇴행성 질환 및/또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "분화 유도 후 전체 세포집단에서 DAPI 양성 세포 중 시상하부 신경줄기세포 마커인 Rax 양성 세포 비율이 80% 이상이면서 4계대까지 증식 가능한, 시상하부 오가노이드 유래 신경줄기세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, \n시상하부 오가노이드 유래 신경줄기세포로부터 최종 분화되어, 2D 배양 유래 신경세포에 비해서 NKX2.1, RAX1, ISL, SF1 및 NGN3로 구성된 군으로부터 선택된 하나 이상의 마커 발현이 현저하게 증가한 것을 특징으로 하는, 시상하부 오가노이드 유래 신경줄기세포.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항 또는 제11항의 시상하부 오가노이드 유래 신경줄기세포로부터 분화되어 Leptin에 대한 반응성이 있는, 시상하부 오가노이드 유래 신경세포.",
+          "refers_to": [
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항의 시상하부 오가노이드 유래 신경세포를 포함하는, 세포집단.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, \n상기 시상하부 오가노이드 유래 신경세포는 성상교세포(GFAP+)와 함께 분화되는 것을 특징으로 하는, 세포집단.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항 또는 제11항의 시상하부 오가노이드 유래 신경줄기세포 또는 제12항의 신경세포 또는 제13항 또는 제14항의 세포집단을 유효성분으로 포함하는, 대사질환 치료용 약학적 조성물.",
+          "refers_to": [
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서,\n상기 대사질환은 당뇨병, 비만 및 대사 장애로 이루어진 군에서 선택된 하나인, 대사질환 치료용 약학적 조성물.",
+          "refers_to": [
+            15
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20221020",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 20,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "도파민성 신경세포로 분화 유도 후 전체 세포 집단에서 DAPI 양성 세포 중 신경세포 마커인 MAP2 양성 세포 비율이 75% 이상이고, 상기 MAP2 양성 세포 중 도파민성 신경세포의 마커인 TH 양성 세포 비율이 25% 이상이며, 상기 TH 양성 세포 중 NURR1 양성 세포의 비율이 70% 이상이거나, FOXA2, LMX1A 및 EN1으로 구성되는 군으로부터 선택되는 하나 이상의 마커가 양성인 세포의 비율이 75% 이상인 것을 특징으로 하고, 분화 전 DAPI 양성 세포 중 FOXA2 및 LMX1A 양성세포, KI67 및 NESTIN 양성 세포, OTX2 양성 세포 및 SOX2 양성세포의 비율이 75% 이상이고 5계대 배양시까지 누적 집단 배가 수준(PDL)이 9 이상인, 중뇌형 오가노이드 유래 신경줄기세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,2D 배양 유래 신경줄기세포에 비해서 DBN1, HSP90AB, CCT8, SERBP1, KIF5B, RDX, MACFA, EIF4G2, HNRNPK, HSPAB, BZW1, ZC3H15, 및 RSL1D1로 구성되는 군으로부터 선택되는 하나 이상의 유전자 발현이 현저하게 증가한 것을 특징으로 하는, 중뇌형 오가노이드 유래 신경줄기세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제3항의 중뇌형 오가노이드 유래 신경줄기세포를 유효성분으로 포함하는, 신경 퇴행성 질환 또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+          "refers_to": [
+            1,
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서,상기 신경 퇴행성 질환은 파킨슨병, 치매, 알츠하이머 질환, 헌팅턴 질환, 근위축성 측색 경화증, 기억력 저하, 중증근무력증, 진행성 핵상마비, 다계통 위축증, 본태성 진전증, 피질-기저핵 퇴행증, 미만성 루이소체 질환 및 픽병으로 구성된 군에서 선택된 하나인 것을 특징으로 하는, 신경 퇴행성 질환 또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서,상기 염증성 퇴행성 질환은 치매, 루이소체치매, 전두측두치매, 백질변성, 부신백질이영양증, 다발성 경화증 및 루게릭병으로 구성된 군에서 선택된 하나인 것을 특징으로 하는, 신경 퇴행성 질환 또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210824",
+        "document_name": "[분할출원]특허출원서",
+        "claim_count": 16,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "분화 유도 후 전체 세포 집단에서 DAPI 양성 세포 중 신경세포 마커인 MAP2 양성 세포 비율이 75% 이상이고, 상기 MAP2 양성 세포 중 도파민성 신경세포의 마커인 TH 양성 세포 비율이 25% 이상이며, 상기 TH 양성 세포 중 NURR1 양성 세포의 비율이 70% 이상이거나, FOXA2, LMX1A 및 EN1으로 구성되는 군으로부터 선택되는 하나 이상의 마커가 양성인 세포의 비율이 75% 이상인 것을 특징으로 하는, 중뇌형 오가노이드 유래 신경줄기세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 DAPI 양성 세포 중 FOXA2/LMX1A, KI67/NESTIN, OTX2, SOX2로 구성되는 군으로부터 선택되는 하나 이상의 마커가 양성인 세포의 비율이 75% 이상인 것을 특징으로 하는, 중뇌형 오가노이드 유래 신경줄기세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서,\n2D 배양 유래 신경줄기세포에 비해서 DBN1, HSP90AB, CCT8, SERBP1, KIF5B, RDX, MACFA, EIF4G2, HNRNPK, HSPAB, BZW1, ZC3H15, 및 RSL1D1로 구성되는 군으로부터 선택되는 하나 이상의 유전자 발현이 현저하게 증가한 것을 특징으로 하는, 중뇌형 오가노이드 유래 신경줄기세포.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항의 중뇌형 오가노이드 유래 신경줄기세포로부터 최종 분화된 도파민성 신경세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항의 도파민성 신경세포를 포함하는 세포집단.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서,\n상기 도파민성 신경세포는 성상교세포(GFAP+)와 함께 분화되는 것을 특징으로 하는, 세포집단.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항의 중뇌형 오가노이드 유래 신경줄기세포 또는 제4항의 도파민성 신경세포 또는 제5항 또는 제6항의 세포집단을 유효성분으로 포함하는, 신경 퇴행성 질환 및/또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+            "refers_to": [
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n상기 신경 퇴행성 질환은 파킨슨병, 치매, 알츠하이머 질환, 헌팅턴 질환, 근위축성 측색 경화증, 기억력 저하, 중증근무력증, 진행성 핵상마비, 다계통 위축증, 본태성 진전증, 피질-기저핵 퇴행증, 미만성 루이소체 질환 및 픽병으로 구성된 군에서 선택된 하나인 것을 특징으로 하는, 신경 퇴행성 질환 및/또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n상기 염증성 퇴행성 질환은 치매, 루이소체치매, 전두측두치매, 백질변성, 부신백질이영양증, 다발성 경화증 및 루게릭병으로 구성된 군에서 선택된 하나인 것을 특징으로 하는, 신경 퇴행성 질환 및/또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "분화 유도 후 전체 세포집단에서 DAPI 양성 세포 중 시상하부 신경줄기세포 마커인 Rax 양성 세포 비율이 80% 이상이면서 4계대까지 증식 가능한, 시상하부 오가노이드 유래 신경줄기세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, \n시상하부 오가노이드 유래 신경줄기세포로부터 최종 분화되어, 2D 배양 유래 신경세포에 비해서 NKX2.1, RAX1, ISL, SF1 및 NGN3로 구성된 군으로부터 선택된 하나 이상의 마커 발현이 현저하게 증가한 것을 특징으로 하는, 시상하부 오가노이드 유래 신경줄기세포.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항 또는 제11항의 시상하부 오가노이드 유래 신경줄기세포로부터 분화되어 Leptin에 대한 반응성이 있는, 시상하부 오가노이드 유래 신경세포.",
+            "refers_to": [
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항의 시상하부 오가노이드 유래 신경세포를 포함하는, 세포집단.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, \n상기 시상하부 오가노이드 유래 신경세포는 성상교세포(GFAP+)와 함께 분화되는 것을 특징으로 하는, 세포집단.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항 또는 제11항의 시상하부 오가노이드 유래 신경줄기세포 또는 제12항의 신경세포 또는 제13항 또는 제14항의 세포집단을 유효성분으로 포함하는, 대사질환 치료용 약학적 조성물.",
+            "refers_to": [
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서,\n상기 대사질환은 당뇨병, 비만 및 대사 장애로 이루어진 군에서 선택된 하나인, 대사질환 치료용 약학적 조성물.",
+            "refers_to": [
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220228",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 16,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "도파민성 신경세포로 분화 유도 후 전체 세포 집단에서 DAPI 양성 세포 중 신경세포 마커인 MAP2 양성 세포 비율이 75% 이상이고, 상기 MAP2 양성 세포 중 도파민성 신경세포의 마커인 TH 양성 세포 비율이 25% 이상이며, 상기 TH 양성 세포 중 NURR1 양성 세포의 비율이 70% 이상이거나, FOXA2, LMX1A 및 EN1으로 구성되는 군으로부터 선택되는 하나 이상의 마커가 양성인 세포의 비율이 75% 이상인 것을 특징으로 하고, 분화 전 DAPI 양성 세포 중 FOXA2 및 LMX1A 양성세포, KI67 및 NESTIN 양성 세포, OTX2 양성 세포 및 SOX2 양성세포의 비율이 75% 이상이고 5계대 배양시까지 누적 집단 배가 수준(PDL)이 9 이상인, 중뇌형 오가노이드 유래 신경줄기세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n2D 배양 유래 신경줄기세포에 비해서 DBN1, HSP90AB, CCT8, SERBP1, KIF5B, RDX, MACFA, EIF4G2, HNRNPK, HSPAB, BZW1, ZC3H15, 및 RSL1D1로 구성되는 군으로부터 선택되는 하나 이상의 유전자 발현이 현저하게 증가한 것을 특징으로 하는, 중뇌형 오가노이드 유래 신경줄기세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제3항의 중뇌형 오가노이드 유래 신경줄기세포로부터 최종 분화된 도파민성 신경세포.",
+            "refers_to": [
+              1,
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서,\n상기 도파민성 신경세포는 GFAP 양성인 성상교세포와 함께 분화되는 것을 특징으로 하는, 세포집단.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제3항의 중뇌형 오가노이드 유래 신경줄기세포를 유효성분으로 포함하는, 신경 퇴행성 질환 또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+            "refers_to": [
+              1,
+              3
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서,\n상기 신경 퇴행성 질환은 파킨슨병, 치매, 알츠하이머 질환, 헌팅턴 질환, 근위축성 측색 경화증, 기억력 저하, 중증근무력증, 진행성 핵상마비, 다계통 위축증, 본태성 진전증, 피질-기저핵 퇴행증, 미만성 루이소체 질환 및 픽병으로 구성된 군에서 선택된 하나인 것을 특징으로 하는, 신경 퇴행성 질환 또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서,\n상기 염증성 퇴행성 질환은 치매, 루이소체치매, 전두측두치매, 백질변성, 부신백질이영양증, 다발성 경화증 및 루게릭병으로 구성된 군에서 선택된 하나인 것을 특징으로 하는, 신경 퇴행성 질환 또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "전체 세포집단에서 DAPI 양성 세포 중 시상하부 신경줄기세포 마커인 Rax 양성 세포 비율이 90% 이상이면서 4계대까지 증식 가능한, 시상하부 오가노이드 유래 신경줄기세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, \n상기 시상하부 오가노이드로부터 최종 분화되어, 2D 배양 유래 신경세포에 비해서 NKX2.1, RAX1, ISL, SF1 및 NGN3로 구성된 군으로부터 선택된 하나 이상의 마커 발현이 현저하게 증가한 것을 특징으로 하는, 시상하부 오가노이드 유래 신경줄기세포.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, \n상기 시상하부 오가노이드 유래 신경세포는 GFAP 양성인 성상교세포와 함께 분화되는 것을 특징으로 하는, 세포집단.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항 또는 제11항의 시상하부 오가노이드 유래 신경줄기세포를 유효성분으로 포함하는, 대사질환 치료용 약학적 조성물.",
+            "refers_to": [
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항의 신경세포를 유효성분으로 포함하는 대사질환 치료용 약학적 조성물.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항의 세포집단을 유효성분으로 포함하는 대사질환 치료용 약학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항의 도파민성 신경세포를 유효성분으로 포함하는, 신경 퇴행성 질환 또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항의 세포집단을 유효성분으로 포함하는, 신경 퇴행성 질환 또는 염증성 퇴행성 질환의 치료용 약학적 조성물.",
+            "refers_to": [
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20221020",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 14,
+        "claims": [
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 16,
+      "after_claim_count": 14,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": {
+      "familyApplicationNumber": "1020190128602"
+    }
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "경기도 성남시 분당구...",
+      "code": "120040272765",
+      "country": "대한민국",
+      "engName": "CORESTEMCHEMON Inc.",
+      "name": "코아스템켐온 주식회사"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 성동구...",
+        "code": "",
+        "country": "",
+        "engName": "LEE, Sang-Hun",
+        "name": "이상훈"
+      },
+      {
+        "address": "경기도 성남시 분당구...",
+        "code": "",
+        "country": "",
+        "engName": "CHANG, Mi-Yoon",
+        "name": "장미윤"
+      },
+      {
+        "address": "서울특별시 종로구...",
+        "code": "",
+        "country": "",
+        "engName": "KIM, Seung Won",
+        "name": "김성원"
+      },
+      {
+        "address": "서울특별시 성동구...",
+        "code": "",
+        "country": "",
+        "engName": "WOO, Hye ji",
+        "name": "우혜지"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 강남구 테헤란로**길 ** (삼성동), 명지빌딩 *층(특허법인(유한)선정)",
+      "code": "920070007283",
+      "country": "대한민국",
+      "engName": "HAN YUN HO",
+      "name": "한윤호"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2018.10.17",
+      "priorityApplicationNumber": "1020180123902"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020140125682 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020180054376 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "JP2018531011 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2017060884 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2019032680 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Stem Cell Reports . 2019 Mar 5;12(3):518-531",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Stem Cell Reports. 2017 May 9;8(5):1144-1154",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "NPJ Parkinsons Dis. 2019 Apr 5;5:5",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Sci Rep. 7:40573 (2017.01.16.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Cell Stem Cell. 19(2):248-257 (2016.08.04.)",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application] Patent Application",
+        "documentName": "[분할출원]특허출원서",
+        "receiptDate": "2021.08.24",
+        "receiptNumber": "1-1-2021-0973685-16"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.11.29",
+        "receiptNumber": "9-5-2021-0937829-18"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.01.25",
+        "receiptNumber": "1-1-2022-0091761-80"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.02.28",
+        "receiptNumber": "1-1-2022-0225908-59"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.02.28",
+        "receiptNumber": "1-1-2022-0225907-14"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2022.07.19",
+        "receiptNumber": "9-5-2022-0536604-37"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2022.10.20",
+        "receiptNumber": "1-1-2022-1107445-11"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.11.05",
+        "receiptNumber": "9-5-2022-0857739-87"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.12.27",
+        "receiptNumber": "4-1-2022-5307097-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.01.05",
+        "receiptNumber": "4-1-2023-5004409-26"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020210111426.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c930b4b8b70f55dbd80547978abb8d5b5425d967491dcc4ca7ac60fec9a2d318fa957bc43c7b7179e1ba9ed947d00278dac2c87d8ef6b490c2b",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf39f9bb751af12ff42dfea67aab8db312c3e18a0232b38732ebc765868d160bf2c90200cec710a75c9e5282e9aa8684abeedb819d78c33bc7"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "과학기술정보통신부(2017Y)",
+      "rndDuration": "2018.03.01 ~ 2019.02.28",
+      "rndManagingInstituteName": "한양대학교 산학협력단",
+      "rndProjectName": "이공분야기초연구사업 / 선도연구센터지원사업 / 기초의과학분야(MRC)",
+      "rndSpecialInstituteName": "한국연구재단",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "세포내외 노화 및 병적환경개선에 의한 조직재생 촉진 연구",
+      "rndTaskNumber": "2017152015"
+    }
+  }
+}

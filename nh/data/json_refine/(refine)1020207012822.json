@@ -1,0 +1,1586 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2018.12.28",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-7012822",
+      "claimCount": "18",
+      "examinerName": "김수진",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "암 치료법을 위한 면역 체크포인트 조절을 갖는 단일특이성 및 이중특이성 단백질",
+      "inventionTitleEng": "MONOSPECIFIC AND BISPECIFIC PROTEINS WITH IMMUNE CHECKPOINT REGULATION FOR CANCER THERAPY",
+      "openDate": "2020.06.02",
+      "openNumber": "10-2020-0061397",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.05.04",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.10.12",
+      "publicationNumber": "",
+      "registerDate": "2022.10.04",
+      "registerNumber": "10-2452246-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2020.05.04"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "OX40 및/또는 PD-L1에 특이적으로 결합하는 모노특이성 및 이중특이성 단백질이 제공된다. 예시적 단백질은 PD-L1을 통해 억제하고 OX40을 통해 T 세포를 자극한다. 예시적 다가 단백질은 적어도 하나의 OX40 결합사이트 및 적어도 하나의 PD-L1 결합 사이트를 포함한다. 특정 실시예에서, 상기 결합 사이트는 면역글로블린 불변영역을 통해 연결될 수 있으며 항-PD-L1 항체가 또한 제공된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020207012822",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200504",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 28,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다음을 포함하는 OX40(CD134)에 대한 항체 또는 이들의 항원-결합 부분: \nSEQ ID NO. 6, SEQ ID NO. 8, SEQ ID NO. 10의 아미노산 126-244, 및 SEQ ID NO. 13의 아미노산 123-240으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 시퀀스 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 영역; 및 \nSEQ ID NO. 5의 아미노산 1-108, SEQ ID NO. 7의 아미노산 1-108, SEQ ID NO. 10의 아미노산 1-112, 및 SEQ ID NO. 13의 아미노산 1-103으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 영역.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 항체 또는 이들의 항원-결합 부분은 SEQ ID NOs. 10, 11, 12, 및 13으로 이루어진 군으로부터 선택된 단쇄가변분절(scFv) 시퀀스인, 항체 또는 이들의 항원-결합 부분.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 항체 또는 이들의 항원-결합 부분이 이중특이성 항체인 항체 또는 이들의 항원-결합 부분.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 이중특이성 항체는 면역 체크포인트 단백질 결합 사이트를 포함하는 항체 또는 이들의 항원-결합 부분.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 면역 체크포인트 단백질 결합 사이트는 세포예정사 단백질 1 리간드(PD-L1) 결합 사이트, PD-1 결합 사이트, 상피세포 증식인자수용체 (EGFR) 결합 사이트, 인간 상피세포 증식인자수용체 2(HER2) 결합 사이트, 세포독성 T-림프구-관련된 항원 4(CTLA-4) 결합 사이트, 또는 림프구 활성화 유전자 3 (LAG3) 결합 사이트를 포함하는 항체 또는 이들의 항원-결합 부분.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다음을 포함하는 PD-L1에 대한 항체 또는 이에 결합하는 이들의 항원-결합 부분: \nSEQ ID NO. 2 및 SEQ ID NO. 4으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 도메인; 및 \nSEQ ID NO. 1의 아미노산 1-111 및 SEQ ID NO. 3의 아미노산 1-110으로 이루어지는 군으로부터 선택된 아미노산 시퀀스의 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 도메인.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "적어도 하나의 폴리펩티드 사슬을 포함하는 이중특이성 항체로서, 상기 폴리펩티드 사슬이 다음을 포함하는 이중특이성 항체:\n다음을 포함하는 OX40 결합 사이트: \n SEQ ID NO. 6, SEQ ID NO. 8, 아미노산 SEQ ID NO. 10의 아미노산 126-244, 및 SEQ ID NO. 13의 아미노산 123-240으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 시퀀스 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 영역; 및 \n SEQ ID NO. 5의 아미노산 1-108, SEQ ID NO. 7의 아미노산 1-108, SEQ ID NO. 10의 아미노산 1-110 및 SEQ ID NO. 13의 아미노산 1-107으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 영역; 및 \n다음을 포함하는 PD-L1 결합 사이트: \n SEQ ID NO. 2 및 SEQ ID NO. 4으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 도메인; 및 \n SEQ ID NO. 1의 아미노산 1 -111 및 SEQ ID NO. 3의 아미노산 1 -110으로 이루어지는 군으로부터 선택된 아미노산 시퀀스의 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 도메인.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 폴리펩티드 사슬이 다음을 더 포함하는 이중특이성 항체: \nFc 도메인; \n상기 Fc 도메인의 N-말단에 연결된 Fab 단편으로서, 상기 PD-L1 결합 사이트를 포함하는 Fab 단편; 및\nFc 도메인의 C-말단에 연결된 scFv으로서, OX40 결합사이트를 포함하는 scFV.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 상기 폴리펩티드 사슬이 Fc 도메인 및 scFv 사이에 링커를 더 포함하는, 이중특이성 항체.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 scFv는 SEQ ID NO. 18의 아미노산 455-707, SEQ ID NO. 19의 아미노산 455-708, SEQ ID NO. 20의 아미노산 455-701, SEQ ID NO. 21의 아미노산 455-706, SEQ ID NO. 22의 아미노산 455-706, SEQ ID NO. 23의 아미노산 455-706, SEQ ID NO. 24의 아미노산 455-706, SEQ ID NO. 25의 아미노산 455-706, SEQ ID, NO. 26의 아미노산 455-706, SEQ ID NO. 27의 아미노산 455-706, SEQ ID NO. 28의 아미노산 455-706, 및 SEQ ID NO. 29의 아미노산 455-706로 이루어진 군으로부터 선택된 아미노산 시퀀스를 포함하는 이중특이성 항체.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 이중특이성 항체가 한쌍의 폴리펩티드 사슬을 포함하는 이중특이성 항체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 이중특이성 항체는 IgG, IgE, IgM, IgD, IgA, 또는 IgY 항체인 이중특이성 항체.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 이중특이성 항체는 IgG 항체인 이중특이성 항체.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 IgG 항체는 lgG1 , lgG2, lgG3, 또는 lgG4 항체인 이중특이성 항체.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다음을 포함하는 항체-약물 콘쥬게이트: \n치료제; 및 \nPD-L1 및/또는 OX40에 대한 항체 또는 이에 결합하는 항원-결합 부분, \n여기서 상기 치료제는 링커에 의하여 항체 또는 항원-결합 단편에 공유적으로 콘쥬게이트된다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 상기 항체 또는 항원-결합 부분은 제1항, 제6항 또는 제7항으로부터 선택되는 항체-약물 콘쥬게이트.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 따른 항체 또는 이들의 항원 결합 단편 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 약제학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에서 청구된 항체 또는 이들의 항원-결합 단편 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 약제학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 내지 제14항 중 어느 한 항에 따른 이중특이성 항체 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 약제학적 조성물.",
+          "refers_to": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 따른 항체 또는 항원-결합 부분의 효과적 함량을 이것을 필요로 하는 대상에 투여하는 단계를 포함하는 암을 치료하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 상기 암이 전립선 암, 폐암, 비소세포폐암(NSCLC), 흑색종, 림프종, 유방 암, 두부암 및 경부암, 콩팥세포암종(RCC), 및 난소 암으로 이루어진 군으로부터 선택된, 암 치료 방법.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 청구된 항체 또는 항원-결합 부분의 효과적인 함량을 이것을 필요로 하는 대상에 투여하는 단계를 포함하는 암 치료 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 상기 암이 전립선 암, 폐 암, 비소세포폐암 (NSCLC), 흑색종, 림프종, 유방 암, 두부암 및 경부암, 콩팥세포암종 (RCC), 및 난소 암으로 이루어진 군으로부터 선택된 암 치료 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 내지 제14항 중 어느 한 항에 따른 이중특이성 항체의 효과적인 함량을 이를 필요로 하는 대상에 투여하는 단계를 포함하는 암 치료 방법.",
+          "refers_to": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항에 있어서, 상기 암은 전립선 암, 폐 암, 비소세포폐암(NSCLC), 흑색종, 림프종, 유방 암, 두부암 및 경부암, 콩팥세포암종(RCC), 및 난소 암으로 이루어진 군으로부터 선택된 암 치료 방법.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 따른 항체 또는 항원-결합 부분을 암호화하는 핵산 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 따른 항체 또는 항원-결합 부분을 암호화하는 핵산 분자.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 내지 제14항 중 어느 한 항에 따른 이중특이성 항체를 암호화하는 핵산 분자.",
+          "refers_to": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20220812",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 28,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "다음을 포함하는 OX40(CD134)에 대한 항체 또는 이들의 항원-결합 부분: 중사슬 가변 영역의 SEQ ID NO. 6 및 경사슬 가변 영역의 SEQ ID NO. 5의 아미노산 1-108, 중사슬 가변 영역의 SEQ ID NO. 8 및 경사슬 가변 영역의 SEQ ID NO. 7의 아미노산 1-108, 중사슬 가변 영역의 SEQ ID NO. 10의 아미노산 128-246 및 경사슬 가변 영역의 SEQ ID NO. 10의 아미노산 1-112, 및 중사슬 가변 영역의 SEQ ID NO. 13의 아미노산 124-241 및 경사슬 가변 영역의 SEQ ID NO. 13의 아미노산 1-108로 이루어진 군으로부터 선택된 아미노산 시퀀스와 적어도 90% 시퀀스 동일성을 가진 아미노산 시퀀스 각각인 중사슬 가변 영역 및 경사슬 가변 영역,여기서 상기 아미노산 시퀀스와 적어도 90% 시퀀스 동일성은 상보성-결정 영역을 제외한다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 이들의 항원-결합 부분은 SEQ ID NOs. 10, 11, 12, 및 13으로 이루어진 군으로부터 선택된 단쇄가변분절(scFv) 시퀀스인, 항체 또는 이들의 항원-결합 부분.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 이들의 항원-결합 부분이 이중특이성 항체인 항체 또는 이들의 항원-결합 부분.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 상기 이중특이성 항체는 면역 체크포인트 단백질 결합 사이트를 포함하는 항체 또는 이들의 항원-결합 부분.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 면역 체크포인트 단백질 결합 사이트는 세포예정사 단백질 1 리간드(PD-L1) 결합 사이트, PD-1 결합 사이트, 상피세포 증식인자수용체 (EGFR) 결합 사이트, 인간 상피세포 증식인자수용체 2(HER2) 결합 사이트, 세포독성 T-림프구-관련된 항원 4(CTLA-4) 결합 사이트, 또는 림프구 활성화 유전자 3 (LAG3) 결합 사이트를 포함하는 항체 또는 이들의 항원-결합 부분.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "적어도 하나의 폴리펩티드 사슬을 포함하는 이중특이성 항체로서, 상기 폴리펩티드 사슬이 다음을 포함하는 이중특이성 항체:다음을 포함하는 OX40 결합 사이트:     중사슬 가변 영역의 SEQ ID NO. 6 및 경사슬 가변 영역의 SEQ ID NO. 5의 아미노산 1-108,     중사슬 가변 영역의 SEQ ID NO. 8 및 경사슬 가변 영역의 SEQ ID NO. 7의 아미노산 1-108,     중사슬 가변 영역의 SEQ ID NO. 10의 아미노산 128-246 및 경사슬 가변 영역의 SEQ ID NO. 10의 아미노산 1-112, 및    중사슬 가변 영역의 SEQ ID NO. 13의 아미노산 124-241 및 경사슬 가변 영역의 SEQ ID NO. 13의 아미노산 1-108    로 이루어진 군으로부터 선택된 아미노산 시퀀스와 적어도 90% 시퀀스 동일성을 가진 아미노산 시퀀스 각각인 중사슬 가변 영역 및 경사슬 가변 영역, 여기서 상기 아미노산 시퀀스와 적어도 90% 시퀀스 동일성은 상보성-결정 영역을 제외한다; 및  다음을 포함하는 PD-L1 결합 사이트:    중사슬 가변 영역의 SEQ ID NO. 2 및 경사슬 가변 영역의 SEQ ID NO. 1의 아미노산 1 -111, 및     중사슬 가변 영역의 SEQ ID NO. 4 및 경사슬 가변 영역의 SEQ ID NO. 3의 아미노산 1 -110    으로 이루어진 군으로부터 선택된 아미노산 시퀀스와 적어도 90% 동일성을 가진 아미노산 시퀀스 각각인 중사슬 가변 도메인 및 경사슬 가변 도메인,여기서 상기 아미노산 시퀀스와 적어도 90% 시퀀스 동일성은 상보성-결정 영역을 제외한다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 폴리펩티드 사슬이 다음을 더 포함하는 이중특이성 항체: Fc 도메인; 상기 Fc 도메인의 N-말단에 연결된 Fab 단편으로서, 상기 PD-L1 결합 사이트를 포함하는 Fab 단편; 및Fc 도메인의 C-말단에 연결된 scFv으로서, OX40 결합사이트를 포함하는 scFV.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 상기 폴리펩티드 사슬이 Fc 도메인 및 scFv 사이에 링커를 더 포함하는, 이중특이성 항체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서, 상기 scFv는 SEQ ID NO. 18의 아미노산 455-707, SEQ ID NO. 19의 아미노산 455-708, SEQ ID NO. 20의 아미노산 455-701, SEQ ID NO. 21의 아미노산 455-706, SEQ ID NO. 22의 아미노산 455-706, SEQ ID NO. 23의 아미노산 455-706, SEQ ID NO. 24의 아미노산 455-706, SEQ ID NO. 25의 아미노산 455-706, SEQ ID, NO. 26의 아미노산 455-706, SEQ ID NO. 27의 아미노산 455-706, SEQ ID NO. 28의 아미노산 455-706, 및 SEQ ID NO. 29의 아미노산 455-706로 이루어진 군으로부터 선택된 아미노산 시퀀스를 포함하는 이중특이성 항체.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 이중특이성 항체가 한쌍의 폴리펩티드 사슬을 포함하는 이중특이성 항체.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 이중특이성 항체는 IgG, IgE, IgM, IgD, IgA, 또는 IgY 항체인 이중특이성 항체.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 이중특이성 항체는 IgG 항체인 이중특이성 항체.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 IgG 항체는 lgG1, lgG2, lgG3, 또는 lgG4 항체인 이중특이성 항체.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "다음을 포함하는 항체-약물 콘쥬게이트: 치료제; 및 제1항의 항체 또는 이들의 항원-결합 부분, 또는 제6항의 이중특이성 항체, 여기서 상기 치료제는 링커에 의하여 항체 또는 항원-결합 부분 또는 이중특이성 항체에 공유적으로 콘쥬게이트된다.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 항체 또는 이들의 항원-결합 부분, 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 암 치료용 약제학적 조성물로서,상기 암은 전립선암, 폐암, 비소세포폐암(NSCLC), 흑색종, 림프종, 유방암, 두부암 및 경부암, 콩팥세포암종(RCC) 및 난소암으로 이루어진 군으로부터 선택되는 암 치료용 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 따른 이중특이성 항체, 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 암 치료용 약제학적 조성물로서,상기 암은 전립선암, 폐암, 비소세포폐암(NSCLC), 흑색종, 림프종, 유방암, 두부암 및 경부암, 콩팥세포암종(RCC) 및 난소암으로 이루어진 군으로부터 선택되는 암 치료용 약제학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 항체 또는 이들의 항원-결합 부분을 암호화하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 따른 이중특이성 항체를 암호화하는 핵산 분자.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200504",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 28,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다음을 포함하는 OX40(CD134)에 대한 항체 또는 이들의 항원-결합 부분: \nSEQ ID NO. 6, SEQ ID NO. 8, SEQ ID NO. 10의 아미노산 126-244, 및 SEQ ID NO. 13의 아미노산 123-240으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 시퀀스 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 영역; 및 \nSEQ ID NO. 5의 아미노산 1-108, SEQ ID NO. 7의 아미노산 1-108, SEQ ID NO. 10의 아미노산 1-112, 및 SEQ ID NO. 13의 아미노산 1-103으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 영역.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 항체 또는 이들의 항원-결합 부분은 SEQ ID NOs. 10, 11, 12, 및 13으로 이루어진 군으로부터 선택된 단쇄가변분절(scFv) 시퀀스인, 항체 또는 이들의 항원-결합 부분.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 항체 또는 이들의 항원-결합 부분이 이중특이성 항체인 항체 또는 이들의 항원-결합 부분.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 이중특이성 항체는 면역 체크포인트 단백질 결합 사이트를 포함하는 항체 또는 이들의 항원-결합 부분.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 면역 체크포인트 단백질 결합 사이트는 세포예정사 단백질 1 리간드(PD-L1) 결합 사이트, PD-1 결합 사이트, 상피세포 증식인자수용체 (EGFR) 결합 사이트, 인간 상피세포 증식인자수용체 2(HER2) 결합 사이트, 세포독성 T-림프구-관련된 항원 4(CTLA-4) 결합 사이트, 또는 림프구 활성화 유전자 3 (LAG3) 결합 사이트를 포함하는 항체 또는 이들의 항원-결합 부분.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다음을 포함하는 PD-L1에 대한 항체 또는 이에 결합하는 이들의 항원-결합 부분: \nSEQ ID NO. 2 및 SEQ ID NO. 4으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 도메인; 및 \nSEQ ID NO. 1의 아미노산 1-111 및 SEQ ID NO. 3의 아미노산 1-110으로 이루어지는 군으로부터 선택된 아미노산 시퀀스의 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 도메인.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "적어도 하나의 폴리펩티드 사슬을 포함하는 이중특이성 항체로서, 상기 폴리펩티드 사슬이 다음을 포함하는 이중특이성 항체:\n다음을 포함하는 OX40 결합 사이트: \n SEQ ID NO. 6, SEQ ID NO. 8, 아미노산 SEQ ID NO. 10의 아미노산 126-244, 및 SEQ ID NO. 13의 아미노산 123-240으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 시퀀스 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 영역; 및 \n SEQ ID NO. 5의 아미노산 1-108, SEQ ID NO. 7의 아미노산 1-108, SEQ ID NO. 10의 아미노산 1-110 및 SEQ ID NO. 13의 아미노산 1-107으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 영역; 및 \n다음을 포함하는 PD-L1 결합 사이트: \n SEQ ID NO. 2 및 SEQ ID NO. 4으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 도메인; 및 \n SEQ ID NO. 1의 아미노산 1 -111 및 SEQ ID NO. 3의 아미노산 1 -110으로 이루어지는 군으로부터 선택된 아미노산 시퀀스의 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 도메인.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 폴리펩티드 사슬이 다음을 더 포함하는 이중특이성 항체: \nFc 도메인; \n상기 Fc 도메인의 N-말단에 연결된 Fab 단편으로서, 상기 PD-L1 결합 사이트를 포함하는 Fab 단편; 및\nFc 도메인의 C-말단에 연결된 scFv으로서, OX40 결합사이트를 포함하는 scFV.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, 상기 폴리펩티드 사슬이 Fc 도메인 및 scFv 사이에 링커를 더 포함하는, 이중특이성 항체.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 scFv는 SEQ ID NO. 18의 아미노산 455-707, SEQ ID NO. 19의 아미노산 455-708, SEQ ID NO. 20의 아미노산 455-701, SEQ ID NO. 21의 아미노산 455-706, SEQ ID NO. 22의 아미노산 455-706, SEQ ID NO. 23의 아미노산 455-706, SEQ ID NO. 24의 아미노산 455-706, SEQ ID NO. 25의 아미노산 455-706, SEQ ID, NO. 26의 아미노산 455-706, SEQ ID NO. 27의 아미노산 455-706, SEQ ID NO. 28의 아미노산 455-706, 및 SEQ ID NO. 29의 아미노산 455-706로 이루어진 군으로부터 선택된 아미노산 시퀀스를 포함하는 이중특이성 항체.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 이중특이성 항체가 한쌍의 폴리펩티드 사슬을 포함하는 이중특이성 항체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 이중특이성 항체는 IgG, IgE, IgM, IgD, IgA, 또는 IgY 항체인 이중특이성 항체.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 이중특이성 항체는 IgG 항체인 이중특이성 항체.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 IgG 항체는 lgG1 , lgG2, lgG3, 또는 lgG4 항체인 이중특이성 항체.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다음을 포함하는 항체-약물 콘쥬게이트: \n치료제; 및 \nPD-L1 및/또는 OX40에 대한 항체 또는 이에 결합하는 항원-결합 부분, \n여기서 상기 치료제는 링커에 의하여 항체 또는 항원-결합 단편에 공유적으로 콘쥬게이트된다.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 상기 항체 또는 항원-결합 부분은 제1항, 제6항 또는 제7항으로부터 선택되는 항체-약물 콘쥬게이트.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 따른 항체 또는 이들의 항원 결합 단편 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에서 청구된 항체 또는 이들의 항원-결합 단편 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 내지 제14항 중 어느 한 항에 따른 이중특이성 항체 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 따른 항체 또는 항원-결합 부분의 효과적 함량을 이것을 필요로 하는 대상에 투여하는 단계를 포함하는 암을 치료하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 상기 암이 전립선 암, 폐암, 비소세포폐암(NSCLC), 흑색종, 림프종, 유방 암, 두부암 및 경부암, 콩팥세포암종(RCC), 및 난소 암으로 이루어진 군으로부터 선택된, 암 치료 방법.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 청구된 항체 또는 항원-결합 부분의 효과적인 함량을 이것을 필요로 하는 대상에 투여하는 단계를 포함하는 암 치료 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, 상기 암이 전립선 암, 폐 암, 비소세포폐암 (NSCLC), 흑색종, 림프종, 유방 암, 두부암 및 경부암, 콩팥세포암종 (RCC), 및 난소 암으로 이루어진 군으로부터 선택된 암 치료 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 내지 제14항 중 어느 한 항에 따른 이중특이성 항체의 효과적인 함량을 이를 필요로 하는 대상에 투여하는 단계를 포함하는 암 치료 방법.",
+            "refers_to": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 상기 암은 전립선 암, 폐 암, 비소세포폐암(NSCLC), 흑색종, 림프종, 유방 암, 두부암 및 경부암, 콩팥세포암종(RCC), 및 난소 암으로 이루어진 군으로부터 선택된 암 치료 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 따른 항체 또는 항원-결합 부분을 암호화하는 핵산 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 따른 항체 또는 항원-결합 부분을 암호화하는 핵산 분자.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 내지 제14항 중 어느 한 항에 따른 이중특이성 항체를 암호화하는 핵산 분자.",
+            "refers_to": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200507",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "다음을 포함하는 OX40(CD134)에 대한 항체 또는 이들의 항원-결합 부분: \nSEQ ID NO. 6, SEQ ID NO. 8, SEQ ID NO. 10의 아미노산 128-246, 및 SEQ ID NO. 13의 아미노산 124-241으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 시퀀스 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 영역; 및 \nSEQ ID NO. 5의 아미노산 1-108, SEQ ID NO. 7의 아미노산 1-108, SEQ ID NO. 10의 아미노산 1-112, 및 SEQ ID NO. 13의 아미노산 1-108로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 영역.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "적어도 하나의 폴리펩티드 사슬을 포함하는 이중특이성 항체로서, 상기 폴리펩티드 사슬이 다음을 포함하는 이중특이성 항체:\n다음을 포함하는 OX40 결합 사이트: \n SEQ ID NO. 6, SEQ ID NO. 8, 아미노산 SEQ ID NO. 10의 아미노산 128-246, 및 SEQ ID NO. 13의 아미노산 124-241로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 시퀀스 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 영역; 및 \n SEQ ID NO. 5의 아미노산 1-108, SEQ ID NO. 7의 아미노산 1-108, SEQ ID NO. 10의 아미노산 1-112 및 SEQ ID NO. 13의 아미노산 1-108으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 영역; 및 \n다음을 포함하는 PD-L1 결합 사이트: \n SEQ ID NO. 2 및 SEQ ID NO. 4으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 도메인; 및 \n SEQ ID NO. 1의 아미노산 1 -111 및 SEQ ID NO. 3의 아미노산 1 -110으로 이루어지는 군으로부터 선택된 아미노산 시퀀스의 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 도메인.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "다음을 포함하는 항체-약물 콘쥬게이트: \n치료제; 및 \nPD-L1 및/또는 OX40에 대한 항체 또는 이에 결합하는 항원-결합 부분, \n여기서 상기 치료제는 링커에 의하여 항체 또는 항원-결합 부분에 공유적으로 콘쥬게이트된다.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 있어서, 상기 항체 또는 이들의 항원-결합 부분은 다음으로 이루어진 군으로부터 선택된 항체-약물 콘쥬게이트:\na) 다음을 포함하는 OX40에 대한 항체 또는 이들의 항원-결합 부분:\nSEQ ID NO. 6, SEQ ID NO. 8, SEQ ID NO. 10의 아미노산 128-246, 및 SEQ ID NO. 13의 아미노산 124-241으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 시퀀스 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 영역; 및 \nSEQ ID NO. 5의 아미노산 1-108, SEQ ID NO. 7의 아미노산 1-108, SEQ ID NO. 10의 아미노산 1-112, 및 SEQ ID NO. 13의 아미노산 1-103으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 영역;\nb) 다음을 포함하는 PD-1에 대한 항체 또는 이들의 항원-결합 부분:\nSEQ ID NO. 2 및 SEQ ID NO. 4으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 도메인; 및 \nSEQ ID NO. 1의 아미노산 1-111 및 SEQ ID NO. 3의 아미노산 1-110으로 이루어지는 군으로부터 선택된 아미노산 시퀀스의 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 도메인;\nc) 적어도 하나의 폴리펩티드 사슬을 포함하는 이중특이적 항체로서, 상기 폴리펩티드 사슬이 다음을 포함하는 이중특이적 항체:\n다음을 포함하는 OX40 결합 사이트: \n SEQ ID NO. 6, SEQ ID NO. 8, 아미노산 SEQ ID NO. 10의 아미노산 128-246, 및 SEQ ID NO. 13의 아미노산 124-241로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 시퀀스 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 영역; 및 \n SEQ ID NO. 5의 아미노산 1-108, SEQ ID NO. 7의 아미노산 1-108, SEQ ID NO. 10의 아미노산 1-112 및 SEQ ID NO. 13의 아미노산 1-108으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 대해 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 영역; 및 \n다음을 포함하는 PD-L1 결합 사이트: \n SEQ ID NO. 2 및 SEQ ID NO. 4으로 이루어진 군으로부터 선택된 아미노산 시퀀스에 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 중사슬 가변 도메인; 및 \n SEQ ID NO. 1의 아미노산 1 -111 및 SEQ ID NO. 3의 아미노산 1 -110으로 이루어지는 군으로부터 선택된 아미노산 시퀀스의 적어도 약 80% 상동성의 아미노산 시퀀스를 포함하는 경사슬 가변 도메인.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 항체 또는 이들의 항원-결합 부분, 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에서 청구된 항체 또는 이들의 항원-결합 부분, 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 따른 이중특이성 항체, 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 암 치료용인 항체 또는 이들의 항원-결합 부분.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 상기 암이 전립선 암, 폐암, 비소세포폐암(NSCLC), 흑색종, 림프종, 유방 암, 두부암 및 경부암, 콩팥세포암종(RCC), 및 난소 암으로 이루어진 군으로부터 선택된, 항체 또는 이들의 항원-결합 부분.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 암 치료용인 항체 또는 이들의 항원-결합 부분.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제22항에 있어서, 상기 암이 전립선 암, 폐 암, 비소세포폐암 (NSCLC), 흑색종, 림프종, 유방 암, 두부암 및 경부암, 콩팥세포암종 (RCC), 및 난소 암으로 이루어진 군으로부터 선택된 항체 또는 이들의 항원-결합 부분.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 암 치료용인 이중특이적 항체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 암은 전립선 암, 폐 암, 비소세포폐암(NSCLC), 흑색종, 림프종, 유방 암, 두부암 및 경부암, 콩팥세포암종(RCC), 및 난소 암으로 이루어진 군으로부터 선택된 이중특이적 항체.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 항체 또는 항원-결합 부분을 암호화하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 따른 이중특이성 항체를 암호화하는 핵산 분자.",
+            "refers_to": [
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20220126",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "다음을 포함하는 OX40(CD134)에 대한 항체 또는 이들의 항원-결합 부분: \nSEQ ID NO. 6 및 SEQ ID NO. 5의 아미노산 1-108, \nSEQ ID NO. 8 및 SEQ ID NO. 7의 아미노산 1-108, \nSEQ ID NO. 10의 아미노산 128-246 및 SEQ ID NO. 10의 아미노산 1-112, 및 \nSEQ ID NO. 13의 아미노산 124-241 및 SEQ ID NO. 13의 아미노산 1-108\n로 이루어진 군으로부터 선택된 아미노산 시퀀스와 적어도 90% 시퀀스 동일성을 가진 아미노산 시퀀스를 각각 포함하는 중사슬 가변 영역 및 경사슬 가변 영역.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 이들의 항원-결합 부분이 이중특이성 항체인 항체 또는 이들의 항원-결합 부분.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "적어도 하나의 폴리펩티드 사슬을 포함하는 이중특이성 항체로서, 상기 폴리펩티드 사슬이 다음을 포함하는 이중특이성 항체:\n다음을 포함하는 OX40 결합 사이트: \n SEQ ID NO. 6 및 SEQ ID NO. 5의 아미노산 1-108, \n SEQ ID NO. 8 및 SEQ ID NO. 7의 아미노산 1-108, \n 아미노산 SEQ ID NO. 10의 아미노산 128-246 및 SEQ ID NO. 10의 아미노산 1-112, 및 \n SEQ ID NO. 13의 아미노산 124-241 및 SEQ ID NO. 13의 아미노산 1-108\n 로 이루어진 군으로부터 선택된 아미노산 시퀀스와 적어도 90% 시퀀스 동일성을 가진 아미노산 시퀀스를 각각 포함하는 중사슬 가변 영역 및 경사슬 가변 영역; 및 \n다음을 포함하는 PD-L1 결합 사이트: \n SEQ ID NO. 2 및 SEQ ID NO. 1의 아미노산 1 -111, 및 \n SEQ ID NO. 4 및 SEQ ID NO. 3의 아미노산 1 -110\n 으로 이루어진 군으로부터 선택된 아미노산 시퀀스와 적어도 90% 동일성을 가진 아미노산 시퀀스를 각각 포함하는 중사슬 가변 도메인 및 경사슬 가변 도메인.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 폴리펩티드 사슬이 다음을 더 포함하는 이중특이성 항체: \nFc 도메인; \n상기 Fc 도메인의 N-말단에 연결된 Fab 단편으로서, 상기 PD-L1 결합 사이트를 포함하는 Fab 단편; 및\nFc 도메인의 C-말단에 연결된 scFv으로서, OX40 결합사이트를 포함하는 scFV.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 상기 폴리펩티드 사슬이 Fc 도메인 및 scFv 사이에 링커를 더 포함하는, 이중특이성 항체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, 상기 scFv는 SEQ ID NO. 18의 아미노산 455-707, SEQ ID NO. 19의 아미노산 455-708, SEQ ID NO. 20의 아미노산 455-701, SEQ ID NO. 21의 아미노산 455-706, SEQ ID NO. 22의 아미노산 455-706, SEQ ID NO. 23의 아미노산 455-706, SEQ ID NO. 24의 아미노산 455-706, SEQ ID NO. 25의 아미노산 455-706, SEQ ID, NO. 26의 아미노산 455-706, SEQ ID NO. 27의 아미노산 455-706, SEQ ID NO. 28의 아미노산 455-706, 및 SEQ ID NO. 29의 아미노산 455-706로 이루어진 군으로부터 선택된 아미노산 시퀀스를 포함하는 이중특이성 항체.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 이중특이성 항체가 한쌍의 폴리펩티드 사슬을 포함하는 이중특이성 항체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 이중특이성 항체는 IgG, IgE, IgM, IgD, IgA, 또는 IgY 항체인 이중특이성 항체.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 이중특이성 항체는 IgG 항체인 이중특이성 항체.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 상기 IgG 항체는 lgG1, lgG2, lgG3, 또는 lgG4 항체인 이중특이성 항체.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "다음을 포함하는 항체-약물 콘쥬게이트: \n치료제; 및 \n제1항의 항체 또는 이들의 항원-결합 부분, 또는 제6항의 이중특이성 항체, \n여기서 상기 치료제는 링커에 의하여 항체 또는 항원-결합 부분 또는 이중특이성 항체에 공유적으로 콘쥬게이트된다.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 항체 또는 이들의 항원-결합 부분, 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 암 치료용 약제학적 조성물로서,\n상기 암은 전립선암, 폐암, 비소세포폐암(NSCLC), 흑색종, 림프종, 유방암, 두부암 및 경부암, 콩팥세포암종(RCC) 및 난소암으로 이루어진 군으로부터 선택되는 암 치료용 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 따른 이중특이성 항체, 및 적어도 하나의 약제학적으로 허용가능한 담체를 포함하는 암 치료용 약제학적 조성물로서,\n상기 암은 전립선암, 폐암, 비소세포폐암(NSCLC), 흑색종, 림프종, 유방암, 두부암 및 경부암, 콩팥세포암종(RCC) 및 난소암으로 이루어진 군으로부터 선택되는 암 치료용 약제학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 항체 또는 이들의 항원-결합 부분을 암호화하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 따른 이중특이성 항체를 암호화하는 핵산 분자.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20220812",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "다음을 포함하는 OX40(CD134)에 대한 항체 또는 이들의 항원-결합 부분: \n중사슬 가변 영역의 SEQ ID NO. 6 및 경사슬 가변 영역의 SEQ ID NO. 5의 아미노산 1-108, \n중사슬 가변 영역의 SEQ ID NO. 8 및 경사슬 가변 영역의 SEQ ID NO. 7의 아미노산 1-108, \n중사슬 가변 영역의 SEQ ID NO. 10의 아미노산 128-246 및 경사슬 가변 영역의 SEQ ID NO. 10의 아미노산 1-112, 및 \n중사슬 가변 영역의 SEQ ID NO. 13의 아미노산 124-241 및 경사슬 가변 영역의 SEQ ID NO. 13의 아미노산 1-108\n로 이루어진 군으로부터 선택된 아미노산 시퀀스와 적어도 90% 시퀀스 동일성을 가진 아미노산 시퀀스 각각인 중사슬 가변 영역 및 경사슬 가변 영역,\n여기서 상기 아미노산 시퀀스와 적어도 90% 시퀀스 동일성은 상보성-결정 영역을 제외한다.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "적어도 하나의 폴리펩티드 사슬을 포함하는 이중특이성 항체로서, 상기 폴리펩티드 사슬이 다음을 포함하는 이중특이성 항체:\n다음을 포함하는 OX40 결합 사이트: \n 중사슬 가변 영역의 SEQ ID NO. 6 및 경사슬 가변 영역의 SEQ ID NO. 5의 아미노산 1-108, \n 중사슬 가변 영역의 SEQ ID NO. 8 및 경사슬 가변 영역의 SEQ ID NO. 7의 아미노산 1-108, \n 중사슬 가변 영역의 SEQ ID NO. 10의 아미노산 128-246 및 경사슬 가변 영역의 SEQ ID NO. 10의 아미노산 1-112, 및 \n 중사슬 가변 영역의 SEQ ID NO. 13의 아미노산 124-241 및 경사슬 가변 영역의 SEQ ID NO. 13의 아미노산 1-108\n 로 이루어진 군으로부터 선택된 아미노산 시퀀스와 적어도 90% 시퀀스 동일성을 가진 아미노산 시퀀스 각각인 중사슬 가변 영역 및 경사슬 가변 영역,\n 여기서 상기 아미노산 시퀀스와 적어도 90% 시퀀스 동일성은 상보성-결정 영역을 제외한다; 및 \n다음을 포함하는 PD-L1 결합 사이트: \n 중사슬 가변 영역의 SEQ ID NO. 2 및 경사슬 가변 영역의 SEQ ID NO. 1의 아미노산 1 -111, 및 \n 중사슬 가변 영역의 SEQ ID NO. 4 및 경사슬 가변 영역의 SEQ ID NO. 3의 아미노산 1 -110\n 으로 이루어진 군으로부터 선택된 아미노산 시퀀스와 적어도 90% 동일성을 가진 아미노산 시퀀스 각각인 중사슬 가변 도메인 및 경사슬 가변 도메인,\n여기서 상기 아미노산 시퀀스와 적어도 90% 시퀀스 동일성은 상보성-결정 영역을 제외한다.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 28,
+      "after_claim_count": 2,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2019.07.04",
+      "internationOpenNumber": "WO2019133817",
+      "internationalApplicationDate": "2018.12.28",
+      "internationalApplicationNumber": "PCT/US2018/067868"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "대만, ******, 타이페이 시티, 난강 디스트릭트, 종샤오 이스트 로드,  섹션 *, 넘버 ***, **에프-*, 씨/오 에이피 바이오사이언시스, 아이엔씨.",
+      "code": "520170505043",
+      "country": "대만",
+      "engName": "AP BIOSCIENCES, INC.",
+      "name": "에이피 바이오사이언시스, 아이엔씨."
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "대만, ***, 타이페이 시티, 신이 디스트...",
+        "code": "",
+        "country": "",
+        "engName": "YOU, Jhong-Jhe",
+        "name": "유, 종-제"
+      },
+      {
+        "address": "대만, ***, 타오유안 시티, 바...",
+        "code": "",
+        "country": "",
+        "engName": "HSU, Ching-Hsuan",
+        "name": "수, 칭-슈안"
+      },
+      {
+        "address": "대만, ***, 타이페이 시티, 네...",
+        "code": "",
+        "country": "",
+        "engName": "HUANG, Po-Lin",
+        "name": "황, 포-린"
+      },
+      {
+        "address": "대만, ***, 뉴 타이페이 시티, ...",
+        "code": "",
+        "country": "",
+        "engName": "KAN, Hung-Tsai",
+        "name": "칸, 헝-챠이"
+      },
+      {
+        "address": "대만, ***, 뉴 타이페이 시티, 산충 디스...",
+        "code": "",
+        "country": "",
+        "engName": "CHANG, Ting-Yi",
+        "name": "창, 팅-이"
+      },
+      {
+        "address": "대만, ***, 타이페이 시티, 중정 디...",
+        "code": "",
+        "country": "",
+        "engName": "HSIEH, Hsin-Ta",
+        "name": "시에, 신-타"
+      },
+      {
+        "address": "미국, 캘리포니아주 ****...",
+        "code": "",
+        "country": "",
+        "engName": "HER, Jeng-Horng",
+        "name": "허, 젱-홍"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 역삼로 *** *층 (역삼동, 현죽빌딩)",
+      "code": "920181000011",
+      "country": "대한민국",
+      "engName": "SUNGAM SUH INTERNATIONAL PATENT & LAW FIRM",
+      "name": "특허법인성암"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2017.12.29",
+      "priorityApplicationNumber": "62/611,543"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2017172981 A2",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "JP2014527814 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Immunology and Cell Biology, 92, 475-480(2014) 1부.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2013038191 A2",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2013181634 A2",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2017123673 A2",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2017193032 A2",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2019168947 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20180327504 A1",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2020.05.04",
+        "receiptNumber": "1-1-2020-0452282-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[기타 의견][특허]의견서·답변서·소명서",
+        "receiptDate": "2020.05.07",
+        "receiptNumber": "1-1-2020-0463489-66"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.05.07",
+        "receiptNumber": "1-1-2020-0463490-13"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2020.05.08",
+        "receiptNumber": "1-5-2020-0066298-89"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.05.22",
+        "receiptNumber": "1-1-2020-0519315-88"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.11.26",
+        "receiptNumber": "9-5-2021-0929659-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.01.26",
+        "receiptNumber": "1-1-2022-0100335-55"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.01.26",
+        "receiptNumber": "1-1-2022-0100336-01"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2022.05.13",
+        "receiptNumber": "9-5-2022-0356964-81"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.08.12",
+        "receiptNumber": "1-1-2022-0848729-73"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2022.08.12",
+        "receiptNumber": "1-1-2022-0848730-19"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.09.15",
+        "receiptNumber": "9-5-2022-0697293-17"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.06.11",
+        "receiptNumber": "4-1-2024-5179064-61"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020207012822.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c939fba00578b867a39288091500fb73afcd617ddf6bda9624e81f46f7884c8a966826493e0d6c67acbba2b0523b60eb3b4a20c85bf4ff272ea",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf8eb99f7292cd042392e53fab7ef263b6fa5709687973a4e07bc9acbd074e8f58c49e8cb8d5df21d7af5ddef7f8ae7855d3745591c66e4f93"
+  },
+  "rndInfoArray": ""
+}

@@ -1,0 +1,1042 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2015.01.23",
+      "applicationFlag": "",
+      "applicationNumber": "10-2016-7017551",
+      "claimCount": "12",
+      "examinerName": "안규정",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "혈관의 신생 또는 성장을 억제하는 융합 단백질 및 그 용도",
+      "inventionTitleEng": "FUSION PROTEIN INHIBITING ANGIOGENESIS OR GROWTH AND  USE THEREOF",
+      "openDate": "2016.07.15",
+      "openNumber": "10-2016-0085362",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2016.06.30",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2017.10.26",
+      "publicationNumber": "",
+      "registerDate": "2017.10.18",
+      "registerNumber": "10-1789501-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2016.06.30"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/71"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/18"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 혈관의 신생 또는 성장을 억제하는 융합 단백질, 그 코딩 서열, 당해 코딩 서열을 포함하는 벡터, 숙주 세포, 의약품 조성물 및 상기 융합 단백질의 용도를 제공한다. 본 발명의 융합 단백질은 열 안정성이 높고, 발효 과정에서의 단백질 폴리머의 형성률이 뚜렷하게 저하되며, 단백질 순도 및 생산량이 뚜렷하게 향상되고, 우월한 바이오 활성을 갖고 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020167017551",
+    "total_amendments": 5,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20160630",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 9,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "혈관의 신생 또는 성장을 억제하는 융합 단백질에 있어서,\n상기 융합 단백질은 사람 VEGF 수용체 단편과 사람 면역 글로불린 Fc 단편에 의해 형성되고, \n상기 VEGF 수용체 단편의 아미노산 서열은 SEQ ID NO: 1, SEQ ID NO: 3 또는 SEQ ID NO: 5로 표시할 수 있는 것을 특징으로 하는 융합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\n상기 사람 면역 글로불린 Fc 단편은, IgG1 Fc, IgG2 Fc, IgG3 Fc 및 IgG4 Fc 단편 중의 하나를 선택한 것이고; 바람직하게는, IgG1 Fc의 아미노산 서열은 SEQ ID NO: 7에 표시한 바와 같고, IgG2 Fc의 아미노산 서열은 SEQ ID NO: 8에 표시한 바와 같으며, IgG3 Fc의 아미노산 서열은 SEQ ID NO: 9에 표시한 바와 같고, IgG4 Fc의 아미노산 서열은 SEQ ID NO: 10에 표시한 바와 같은 것을 특징으로 하는 융합 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 2 항에 있어서,\n상기 융합 단백질은,\nSEQ ID NO: 14으로 표시된 아미노산인 KH02; \n아미노산이 SEQ ID NO: 16에 표시한 바와 같은 KH03; 또는\n아미노산이 SEQ ID NO: 18에 표시한 바와 같은 KH04인 것을 특징으로 하는 융합 단백질.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1~3 중 어느 한 항의 융합 단백질을 코딩하는 뉴클레오티드 서열에 있어서,\n바람직하게는, 상기 뉴클레오티드 서열은, SEQ ID NO: 13, SEQ ID NO: 15 또는 SEQ ID NO: 17으로 표시한 서열인 것을 특징으로 하는 융합 단백질의 뉴클레오티드 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1~3 중 어느 한 항의 융합 단백질을 발현하는 발현 벡터 또는 숙주 세포에 있어서,\n제 4 항의 뉴클레오티드 서열을 포함하고,\n바람직하게는, 상기 발현 벡터는 진핵 발현 벡터 또는 바이러스 발현 벡터이고; \n더욱 바람직하게는, 상기 진핵 발현 벡터는 포유동물 세포의 발현 벡터이며, 상기 바이러스 발현 벡터는 아데노에 관련 바이러스 또는 아데노 바이러스 벡터이며;\n바람직하게는, 상기 숙주 세포는 CHO 세포 또는 그 아계, 또는 293 세포 또는 그 아계인 것을 특징으로 하는 융합 단백질의 발현 벡터 또는 숙주 세포.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1~3항 중 어느 한 항의 융합 단백질을 제조하는 방법에 있어서,\n제 5 항의 발현 벡터를 적합한 숙주 세포에 트랜스펙션하여, 융합 단백질을 발현시키는 단계를 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약물 조성물에 있어서,\n제1~3항 중 어느 한 항의 융합 단백질과 약학적으로 접수가능한 벡터 또는 부형제를 포함하며, 바람직하게는, 상기 약물 조성물의 제제 형태가 주사제, 주사용 동결건조분말 또는 안과용 젤인 것을 특징으로 하는 약물 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1~3항 중 어느 한 항의 융합 단백질의 혈관 신생 또는 성장으로 인한 질병을 치료하는 약물을 제조하는 과정에서의 용도에 있어서,\n상기 혈관 신생 또는 성장으로 인한 질병은 종양 또는 안부 신생 혈관으로 인한 질병인 것이 바람직하고; 더욱 바람직하게는, 상기 안부 신생 혈관으로 인한 질병이 노인성 황반변성, 당뇨병성 망막 병증, 맥락망막 병증 인 것을 특징으로 하는 용도.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "혈관 신생 또는 성장으로 인한 질병을 치료하는 방법에 있어서,\n필요한 환자에게 제1~3항 중 어느 한 항의 융합 단백질 또는 제 7 항의 약물 조성물을 투여하는 단계를 포함하고; \n상기 혈관 신생 또는 성장으로 인한 질병은 종양 또는 안부 신생 혈관으로 인한 질병인 것이 바람직하고; \n더욱 바람직하게는, 상기 안부 신생 혈관으로 인한 질병은 노인성 황반변성, 당뇨병성 망막 병증, 맥락망막 병증 등인 것을 특징으로 하는 혈관 신생 또는 성장으로 인한 질병을 치료하는 방법.",
+          "refers_to": [
+            7
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 5,
+      "receipt_date": "20170621",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 19,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "혈관의 신생 또는 성장을 억제하는 융합 단백질에 있어서,상기 융합 단백질은 사람 VEGF 수용체 단편과 사람 면역 글로불린 Fc 단편에 의해 형성되고, 상기 융합 단백질은 SEQ ID NO: 14로 표시된 아미노산인 KH02인 것을 특징으로 하는 융합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항의 융합 단백질을 코딩하는 뉴클레오티드 서열을 포함하는 것을 특징으로 하는 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 5 항에 있어서, 상기 뉴클레오티드 서열은 SEQ ID NO: 13으로 표시한 서열인 것을 특징으로 하는 핵산.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항의 융합 단백질을 발현하는 발현 벡터로서, 제 1 항의 융합 단백질을 코딩하는 뉴클레오티드 서열을 포함하는 것을 특징으로 하는 발현 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 7 항에 있어서, 상기 뉴클레오티드 서열은 SEQ ID NO: 13으로 표시한 서열인 것을 특징으로 하는 발현 벡터.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 7 항에 있어서, 상기 발현 벡터는 진핵 발현 벡터 또는 바이러스 발현 벡터인 것을 특징으로 하는 발현 벡터.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 9 항에 있어서, 상기 진핵 발현 벡터는 포유동물 세포의 발현 벡터이며, 상기 바이러스 발현 벡터는 아데노 관련 바이러스 또는 아데노 바이러스 벡터인 것을 특징으로 하는 발현 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항의 융합 단백질을 발현하는 숙주 세포로서, 제 1 항의 융합 단백질을 코딩하는 뉴클레오티드 서열을 포함하는 것을 특징으로 하는 숙주 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 11 항에 있어서, 상기 뉴클레오티드 서열은 SEQ ID NO: 13으로 표시한 서열인 것을 특징으로 하는 숙주 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 11 항에 있어서, 상기 숙주 세포는 CHO 세포 또는 그 아계, 또는 293 세포 또는 그 아계인 것을 특징으로 하는 숙주 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항의 융합 단백질을 제조하는 방법에 있어서, 제 7 항의 발현 벡터를 적합한 숙주 세포에 트랜스펙션하여 융합 단백질을 발현시키는 단계를 포함하는 것을 특징으로 하는, 제 1 항의 융합 단백질을 제조하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항의 융합 단백질을 포함하는, 혈관의 신생 또는 성장으로 인한 종양, 노인성 황반변성, 당뇨망막병증, 또는 맥락망막병증을 치료하는 것을 특징으로 하는 의약품.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20160630",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 9,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "혈관의 신생 또는 성장을 억제하는 융합 단백질에 있어서,\n상기 융합 단백질은 사람 VEGF 수용체 단편과 사람 면역 글로불린 Fc 단편에 의해 형성되고, \n상기 VEGF 수용체 단편의 아미노산 서열은 SEQ ID NO: 1, SEQ ID NO: 3 또는 SEQ ID NO: 5로 표시할 수 있는 것을 특징으로 하는 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\n상기 사람 면역 글로불린 Fc 단편은, IgG1 Fc, IgG2 Fc, IgG3 Fc 및 IgG4 Fc 단편 중의 하나를 선택한 것이고; 바람직하게는, IgG1 Fc의 아미노산 서열은 SEQ ID NO: 7에 표시한 바와 같고, IgG2 Fc의 아미노산 서열은 SEQ ID NO: 8에 표시한 바와 같으며, IgG3 Fc의 아미노산 서열은 SEQ ID NO: 9에 표시한 바와 같고, IgG4 Fc의 아미노산 서열은 SEQ ID NO: 10에 표시한 바와 같은 것을 특징으로 하는 융합 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 2 항에 있어서,\n상기 융합 단백질은,\nSEQ ID NO: 14으로 표시된 아미노산인 KH02; \n아미노산이 SEQ ID NO: 16에 표시한 바와 같은 KH03; 또는\n아미노산이 SEQ ID NO: 18에 표시한 바와 같은 KH04인 것을 특징으로 하는 융합 단백질.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1~3 중 어느 한 항의 융합 단백질을 코딩하는 뉴클레오티드 서열에 있어서,\n바람직하게는, 상기 뉴클레오티드 서열은, SEQ ID NO: 13, SEQ ID NO: 15 또는 SEQ ID NO: 17으로 표시한 서열인 것을 특징으로 하는 융합 단백질의 뉴클레오티드 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1~3 중 어느 한 항의 융합 단백질을 발현하는 발현 벡터 또는 숙주 세포에 있어서,\n제 4 항의 뉴클레오티드 서열을 포함하고,\n바람직하게는, 상기 발현 벡터는 진핵 발현 벡터 또는 바이러스 발현 벡터이고; \n더욱 바람직하게는, 상기 진핵 발현 벡터는 포유동물 세포의 발현 벡터이며, 상기 바이러스 발현 벡터는 아데노에 관련 바이러스 또는 아데노 바이러스 벡터이며;\n바람직하게는, 상기 숙주 세포는 CHO 세포 또는 그 아계, 또는 293 세포 또는 그 아계인 것을 특징으로 하는 융합 단백질의 발현 벡터 또는 숙주 세포.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1~3항 중 어느 한 항의 융합 단백질을 제조하는 방법에 있어서,\n제 5 항의 발현 벡터를 적합한 숙주 세포에 트랜스펙션하여, 융합 단백질을 발현시키는 단계를 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약물 조성물에 있어서,\n제1~3항 중 어느 한 항의 융합 단백질과 약학적으로 접수가능한 벡터 또는 부형제를 포함하며, 바람직하게는, 상기 약물 조성물의 제제 형태가 주사제, 주사용 동결건조분말 또는 안과용 젤인 것을 특징으로 하는 약물 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1~3항 중 어느 한 항의 융합 단백질의 혈관 신생 또는 성장으로 인한 질병을 치료하는 약물을 제조하는 과정에서의 용도에 있어서,\n상기 혈관 신생 또는 성장으로 인한 질병은 종양 또는 안부 신생 혈관으로 인한 질병인 것이 바람직하고; 더욱 바람직하게는, 상기 안부 신생 혈관으로 인한 질병이 노인성 황반변성, 당뇨병성 망막 병증, 맥락망막 병증 인 것을 특징으로 하는 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "혈관 신생 또는 성장으로 인한 질병을 치료하는 방법에 있어서,\n필요한 환자에게 제1~3항 중 어느 한 항의 융합 단백질 또는 제 7 항의 약물 조성물을 투여하는 단계를 포함하고; \n상기 혈관 신생 또는 성장으로 인한 질병은 종양 또는 안부 신생 혈관으로 인한 질병인 것이 바람직하고; \n더욱 바람직하게는, 상기 안부 신생 혈관으로 인한 질병은 노인성 황반변성, 당뇨병성 망막 병증, 맥락망막 병증 등인 것을 특징으로 하는 혈관 신생 또는 성장으로 인한 질병을 치료하는 방법.",
+            "refers_to": [
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20160630",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n상기 사람 면역 글로불린 Fc 단편은, IgG1 Fc, IgG2 Fc, IgG3 Fc 및 IgG4 Fc 단편 중의 적어도 하나를 포함하고; \n바람직하게는, IgG1 Fc의 아미노산 서열은 SEQ ID NO: 7에 표시한 바와 같고, IgG2 Fc의 아미노산 서열은 SEQ ID NO: 8에 표시한 바와 같으며, IgG3 Fc의 아미노산 서열은 SEQ ID NO: 9에 표시한 바와 같고, IgG4 Fc의 아미노산 서열은 SEQ ID NO: 10에 표시한 바와 같은 것을 특징으로 하는 융합 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "뉴클레오티드 서열에 있어서,\n상기 뉴클레오티드 서열은 제 1~3 중 어느 한 항의 융합 단백질을 코딩하고;\n바람직하게는, 상기 뉴클레오티드 서열은, SEQ ID NO: 13, SEQ ID NO: 15 또는 SEQ ID NO: 17으로 표시한 서열인 것을 특징으로 하는 융합 단백질의 뉴클레오티드 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1~3 중 어느 한 항의 융합 단백질을 발현하는 발현 벡터 또는 숙주 세포에 있어서,\n제 4 항의 뉴클레오티드 서열을 포함하고;\n바람직하게는, 상기 발현 벡터는 진핵 발현 벡터 또는 바이러스 발현 벡터이고; \n더욱 바람직하게는, 상기 진핵 발현 벡터는 포유동물 세포의 발현 벡터이며, 상기 바이러스 발현 벡터는 아데노에 관련 바이러스 또는 아데노 바이러스 벡터이며;\n바람직하게는, 상기 숙주 세포는 CHO 세포 또는 그 아계, 또는 293 세포 또는 그 아계인 것을 특징으로 하는 융합 단백질의 발현 벡터 또는 숙주 세포.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1~3항 중 어느 한 항의 융합 단백질을 제조하는 방법에 있어서,\n제 5 항의 발현 벡터를 적합한 숙주 세포에 트랜스펙션하여, 융합 단백질을 발현시키는 단계를 포함하는 것을 특징으로 하는 융합 단백질을 제조하는 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "의약품 조성물에 있어서,\n제1~3항 중 어느 한 항의 융합 단백질과, 약학적으로 허용가능한 벡터 또는 부형제를 포함하며;\n바람직하게는, 상기 의약품 조성물의 제제 형태가 주사제, 주사용 동결건조분말 또는 안과용 젤인 것을 특징으로 하는 의약품 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1~3항 중 어느 한 항의 융합 단백질을 포함하는, 혈관 신생 또는 성장으로 인한 질병을 치료하는 의약품을 제조하는 과정에서의 용도에 있어서,\n바람직하게는, 상기 혈관 신생 또는 성장으로 인한 질병은 종양 또는 안부 신생 혈관으로 인한 질병이고; \n더욱 바람직하게는, 상기 안부 신생 혈관으로 인한 질병이 노인성 황반변성, 당뇨망막병증, 맥락망막병증인 것을 특징으로 하는 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20170118",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 18,
+        "claims": [
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n상기 사람 면역 글로불린 Fc 단편은, IgG1 Fc, IgG2 Fc, IgG3 Fc 및 IgG4 Fc 단편 중의 적어도 하나를 포함하는 것을 특징으로 하는 융합 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항에 있어서,\nIgG1 Fc의 아미노산 서열은 SEQ ID NO: 7에 표시한 바와 같고, IgG2 Fc의 아미노산 서열은 SEQ ID NO: 8에 표시한 바와 같으며, IgG3 Fc의 아미노산 서열은 SEQ ID NO: 9에 표시한 바와 같고, IgG4 Fc의 아미노산 서열은 SEQ ID NO: 10에 표시한 바와 같은 것을 특징으로 하는 융합 단백질.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항에 있어서,\n상기 융합 단백질은,\nSEQ ID NO: 14으로 표시된 아미노산인 KH02; \n아미노산이 SEQ ID NO: 16에 표시한 바와 같은 KH03; 또는\n아미노산이 SEQ ID NO: 18에 표시한 바와 같은 KH04인 것을 특징으로 하는 융합 단백질.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항의 융합 단백질을 코딩하는 뉴클레오티드 서열을 포함하는 것을 특징으로 하는 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 5 항에 있어서, \n상기 뉴클레오티드 서열은, SEQ ID NO: 13, SEQ ID NO: 15 또는 SEQ ID NO: 17로 표시한 서열인 것을 특징으로 하는 핵산.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항의 융합 단백질을 발현하는 발현 벡터로서, 제 1 항 내지 제 4 항 중 어느 한 항의 융합 단백질을 코딩하는 뉴클레오티드 서열을 포함하는 것을 특징으로 하는 발현 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 7 항에 있어서, \n상기 뉴클레오티드 서열은 SEQ ID NO: 13, SEQ ID NO: 15 또는 SEQ ID NO: 17로 표시한 서열인 것을 특징으로 하는 발현 벡터.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7 항에 있어서, \n상기 발현 벡터는 진핵 발현 벡터 또는 바이러스 발현 벡터인 것을 특징으로 하는 발현 벡터.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항에 있어서, \n상기 진핵 발현 벡터는 포유동물 세포의 발현 벡터이며, 상기 바이러스 발현 벡터는 아데노 관련 바이러스 또는 아데노 바이러스 벡터인 것을 특징으로 하는 발현 벡터.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항의 융합 단백질을 발현하는 숙주 세포로서, 제 1 항 내지 제 4 항 중 어느 한 항의 융합 단백질을 코딩하는 뉴클레오티드 서열을 포함하는 것을 특징으로 하는 숙주 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 11 항에 있어서, \n상기 뉴클레오티드 서열은 SEQ ID NO: 13, SEQ ID NO: 15 또는 SEQ ID NO: 17로 표시한 서열인 것을 특징으로 하는 숙주 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 11 항에 있어서, \n상기 숙주 세포는 CHO 세포 또는 그 아계, 또는 293 세포 또는 그 아계인 것을 특징으로 하는 숙주 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항의 융합 단백질을 제조하는 방법에 있어서, 제 7 항의 발현 벡터를 적합한 숙주 세포에 트랜스펙션하여 융합 단백질을 발현시키는 단계를 포함하는 것을 특징으로 하는, 융합 단백질을 제조하는 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항의 융합 단백질과 약학적으로 허용가능한 담체 또는 부형제를 포함하는, 혈관 신생 또는 성장으로 인한 질병을 치료하는 것을 특징으로 하는 의약품 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 15 항에 있어서, \n상기 의약품 조성물의 제제 형태가 주사제, 주사용 동결건조분말 또는 안과용 젤인 것을 특징으로 하는 의약품 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항의 융합 단백질을 포함하는, 혈관 신생 또는 성장으로 인한 질병을 치료하는 것을 특징으로 하는 의약품.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 17 항에 있어서,\n상기 혈관 신생 또는 성장으로 인한 질병이 종양 또는 안부 신생 혈관으로 인한 질병인 것을 특징으로 하는 의약품.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 18 항에 있어서,\n상기 안부 신생 혈관으로 인한 질병이 노인성 황반변성, 당뇨망막병증, 또는 맥락망막병증인 것을 특징으로 하는 의약품.",
+            "refers_to": [
+              18
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20170426",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 16,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "혈관의 신생 또는 성장을 억제하는 융합 단백질에 있어서,\n상기 융합 단백질은 사람 VEGF 수용체 단편과 사람 면역 글로불린 Fc 단편에 의해 형성되고, \n상기 융합 단백질은 SEQ ID NO: 14로 표시된 아미노산인 KH02인 것을 특징으로 하는 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항의 융합 단백질을 코딩하는 뉴클레오티드 서열을 포함하는 것을 특징으로 하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 5 항에 있어서, \n상기 뉴클레오티드 서열은 SEQ ID NO: 13으로 표시한 서열인 것을 특징으로 하는 핵산.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항의 융합 단백질을 발현하는 발현 벡터로서, 제 1 항의 융합 단백질을 코딩하는 뉴클레오티드 서열을 포함하는 것을 특징으로 하는 발현 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 7 항에 있어서, \n상기 뉴클레오티드 서열은 SEQ ID NO: 13으로 표시한 서열인 것을 특징으로 하는 발현 벡터.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항의 융합 단백질을 발현하는 숙주 세포로서, 제 1 항의 융합 단백질을 코딩하는 뉴클레오티드 서열을 포함하는 것을 특징으로 하는 숙주 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 11 항에 있어서, \n상기 뉴클레오티드 서열은 SEQ ID NO: 13으로 표시한 서열인 것을 특징으로 하는 숙주 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항의 융합 단백질을 제조하는 방법에 있어서, 제 7 항의 발현 벡터를 적합한 숙주 세포에 트랜스펙션하여 융합 단백질을 발현시키는 단계를 포함하는 것을 특징으로 하는, 제 1 항의 융합 단백질을 제조하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항의 융합 단백질을 포함하는, 종양 또는 안부 신생 혈관으로 인한 질병을 치료하는 것을 특징으로 하는 의약품.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항에 있어서,\n상기 안부 신생 혈관으로 인한 질병이 노인성 황반변성, 당뇨망막병증, 또는 맥락망막병증인 것을 특징으로 하는 의약품.",
+            "refers_to": [
+              17
+            ]
+          }
+        ]
+      },
+      {
+        "version": 5,
+        "receipt_date": "20170621",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항의 융합 단백질을 포함하는, 혈관의 신생 또는 성장으로 인한 종양, 노인성 황반변성, 당뇨망막병증, 또는 맥락망막병증을 치료하는 것을 특징으로 하는 의약품.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 9,
+      "after_claim_count": 2,
+      "total_versions": 5
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2015.07.30",
+      "internationOpenNumber": "WO2015110067",
+      "internationalApplicationDate": "2015.01.23",
+      "internationalApplicationNumber": "PCT/CN2015/071434"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "중국. 시추안 ******, 쳉두, 진니우 숙시가 **번지",
+      "code": "520060510661",
+      "country": "중국",
+      "engName": "CHENGDU KANGHONG BIOTECHNOLOGIES CO. LTD",
+      "name": "쳉두 캉홍 바이오테크놀로지스 코. 리미티드"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "중국 쓰촨 ****** 청...",
+        "code": "",
+        "country": "",
+        "engName": "KE, Xiao",
+        "name": "케 샤오"
+      },
+      {
+        "address": "중국 쓰촨 ****** 청...",
+        "code": "",
+        "country": "",
+        "engName": "GAO, Xiaoping",
+        "name": "가오 샤오핑"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 종로구 세종대로 ***, **층 (세종로, 광화문빌딩)(법무법인센트럴)",
+      "code": "920000000129",
+      "country": "대한민국",
+      "engName": "Dong-Jae Lee",
+      "name": "이동재"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "중국",
+      "priorityApplicationDate": "2014.01.25",
+      "priorityApplicationNumber": "201410035738.1"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "JP2007529418 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "JP2008502738 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "JP2011037894 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US08084234 B2",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Preferential Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[우선심사신청]심사청구(우선심사신청)서",
+        "receiptDate": "2016.06.30",
+        "receiptNumber": "1-1-2016-0636929-39"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2016.06.30",
+        "receiptNumber": "1-1-2016-0633600-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2016.06.30",
+        "receiptNumber": "1-1-2016-0636924-12"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.06.30",
+        "receiptNumber": "1-1-2016-0636919-83"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2016.07.04",
+        "receiptNumber": "1-5-2016-0100708-78"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Submission of Document Related to Request for Accelerated Examination",
+        "documentName": "우선심사신청관련 서류제출서",
+        "receiptDate": "2016.07.14",
+        "receiptNumber": "1-1-2016-0681798-99"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2016.11.18",
+        "receiptNumber": "9-5-2016-0830718-55"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2017.01.18",
+        "receiptNumber": "1-1-2017-0064152-00"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2017.01.18",
+        "receiptNumber": "1-1-2017-0064174-04"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2017.03.28",
+        "receiptNumber": "9-5-2017-0224108-56"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2017.04.26",
+        "receiptNumber": "1-1-2017-0408391-74"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2017.04.26",
+        "receiptNumber": "1-1-2017-0408372-17"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2017.05.22",
+        "receiptNumber": "9-5-2017-0357369-30"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2017.06.21",
+        "receiptNumber": "1-1-2017-0594612-32"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2017.06.21",
+        "receiptNumber": "1-1-2017-0594597-34"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2017.09.01",
+        "receiptNumber": "9-5-2017-0613295-99"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020167017551.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00f1cb00b190a9b1c3289a3997c6bf27c568ee61866a122113a23d7bd32dd95699245b71313e943f72b04622b921c6e2227d0fa831d810f634",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cffb47e02f21cbdaf9f6e15b35b3b9612f3db25309e8faaac7276f64ba252d1029b4024a0ae35bfeca0e8dd9e74ab7a65e0183fe2b787bb76c"
+  },
+  "rndInfoArray": ""
+}

@@ -1,0 +1,786 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.03.08",
+      "applicationFlag": "",
+      "applicationNumber": "10-2019-0027119",
+      "claimCount": "13",
+      "examinerName": "차명훈",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "아밀로이드 베타 올리고머 및 플라크에 특이적인 이광자 프로브 및 PET용 추적자",
+      "inventionTitleEng": "Two-photon Probe and Tracer for PET Specific to  Amyloid-beta Oligomers and Plaques",
+      "openDate": "2020.09.16",
+      "openNumber": "10-2020-0107658",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.03.31",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.10.26",
+      "publicationNumber": "",
+      "registerDate": "2021.10.20",
+      "registerNumber": "10-2317673-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "G01N 33/68"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 51/04"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "G01N 21/64"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07D 405/04"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 아밀로이드 베타 올리고머 및 플라크에 특이적인 이광자 형광 프로브 및/또는 PET용 추적자에 관한 것으로서, 본 발명에 따른 아밀로이드 베타 올리고머 및/또는 플라크를 선택적으로 표적화하는 화학식 1로 표시되는 화합물을 이광자 형광 프로브 및/또는 PET용 추적자로 이용하여 알츠하이머 질환을 효과적으로 진단할 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020190027119",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20190308",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "화학식 1로 표시되는 화합물을 포함하는 아밀로이드 베타의 올리고머 또는 플라크 검출용 이광자 프로브;\n[화학식 1]\n[이미지]\n상기 화학식 1에서\nR1은 -(CH2)xO(CH2)yO(CH2)zCH3이고, \nx와 y는 각각 독립적으로 0 내지 10의 정수, 바람직하게는 1 내지 5의 정수, 가장 바람직하게는 2 내지 3의 정수를 의미하고, z는 0 내지 4의 정수, 바람직하게는 0 내지 2의 정수, 가장 바람직하게는 0 내지 1의 정수를 의미하고, R2 및 R3는 각각 독립적으로 H, -(CH2)maF, -(CH2)nCH(CH2)oOH(CH2)pOH이고,\nm은 0 내지 10의 정수, 바람직하게는 1 내지 5의 정수, 가장 바람직하게는 1 내지 3의 정수를 의미하며, a는 17 내지 21의 정수를 의미하며,\nn, o 및 p는 각각 독립적으로 0 내지 10의 정수, 바람직하게는 0 내지 5의 정수, 가장 바람직하게는 0 내지 3의 정수를 의미함.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 R1은 -CH2CH2OCH2CH2OCH3이고, R2 및 R3 중 하나는 -H이고, 다른 하나는 -CH3인 것인 것을 특징으로 하는 이광자 프로브.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 또는 비가용성 아밀로이드 베타의 올리고머인 것을 특징으로 하는 이광자 프로브.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 아밀로이드 베타42 (Aβ42)인 것을 특징으로 하는 이광자 프로브.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 혈액 뇌 장벽(BBB : Blood Brain Barrier)을 통과할 수 있는 능력을 가지는 것을 특징으로 하는 이광자 프로브",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "화학식 1로 표시되는 화합물을 포함하는 아밀로이드 베타의 올리고머 또는 플라크 검출을 위한 PET용 추적자;\n[화학식 1]\n[이미지]\n상기 화학식 1에서\nR1은 -(CH2)xO(CH2)yO(CH2)zCH3이고, \nx와 y는 각각 독립적으로 0 내지 10의 정수, 바람직하게는 1 내지 5의 정수, 가장 바람직하게는 2 내지 3의 정수를 의미하고, z는 0 내지 4의 정수, 바람직하게는 0 내지 2의 정수, 가장 바람직하게는 0 내지 1의 정수를 의미하고, R2 및 R3는 각각 독립적으로 H, -(CH2)maF, -(CH2)nCH(CH2)oOH(CH2)pOH이고,\nm은 0 내지 10의 정수, 바람직하게는 1 내지 5의 정수, 가장 바람직하게는 1 내지 3의 정수를 의미하며, a는 17 내지 21의 정수를 의미하며,\nn, o 및 p는 각각 독립적으로 0 내지 10의 정수, 바람직하게는 0 내지 5의 정수, 가장 바람직하게는 0 내지 3의 정수를 의미함.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 R1은 -CH2CH2OCH2CH2OCH3이고, R2 및 R3 중 하나는 -(CH2)218F 또는 -(CH2)219F이고, 다른 하나는 -H 또는 -CHOH(CH2)OH인 것을 특징으로 하는 PET용 추적자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 또는 비가용성 아밀로이드 베타의 올리고머인 것을 특징으로 하는 PET용 추적자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 아밀로이드 베타42 (Aβ42)인 것을 특징으로 하는 PET용 추적자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 혈액 뇌 장벽(BBB : Blood Brain Barrier)을 통과할 수 있는 능력을 가지는 것을 특징으로 하는 PET용 추적자",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 따른 이광자 프로브 또는 PET용 추적자를 포함하는 알츠하이머 질환의 진단용 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 따른 이광자 프로브 또는 PET용 추적자를 이용한 알츠하이머 질환의 진단을 위한 정보 제공 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 아밀로이드 베타의 올리고머 및 플라크의 형성 정도 및/또는 형성된 양을 측정하는 단계를 포함하는 것을 특징으로 하는 정보 제공 방법.",
+          "refers_to": [
+            12
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20210611",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "화학식 1로 표시되는 화합물을 포함하는 아밀로이드 베타의 올리고머 또는 플라크 검출용 이광자 프로브;[화학식 1]상기 화학식 1에서R1은 -(CH2)xO(CH2)yO(CH2)zCH3이고, x와 y는 각각 독립적으로 2 내지 3의 정수를 의미하고, z는 0 내지 2의 정수를 의미하며, R2 및 R3는 각각 독립적으로 H, -(CH2)maF, -(CH2)nCH(CH2)oOH(CH2)pOH이고,m은 2 내지 3의 정수를 의미하고, a는 17 내지 21의 정수를 의미하며,n, o 및 p는 각각 독립적으로 2 내지 3의 정수를 의미함.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 R1은 -CH2CH2OCH2CH2OCH3이고, R2 및 R3 중 하나는 -H이고, 다른 하나는 -CH3인 것인 것을 특징으로 하는 이광자 프로브.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 또는 비가용성 아밀로이드 베타의 올리고머인 것을 특징으로 하는 이광자 프로브.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 아밀로이드 베타42 (Aβ42)인 것을 특징으로 하는 이광자 프로브.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 혈액 뇌 장벽(BBB : Blood Brain Barrier)을 통과할 수 있는 능력을 가지는 것을 특징으로 하는 이광자 프로브",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "화학식 1로 표시되는 화합물을 포함하는 아밀로이드 베타의 올리고머 또는 플라크 검출을 위한 PET용 추적자;[화학식 1]상기 화학식 1에서R1은 -(CH2)xO(CH2)yO(CH2)zCH3이고, x와 y는 각각 독립적으로 2 내지 3의 정수를 의미하고, z는 0 내지 2의 정수를 의미하며, R2 및 R3는 각각 독립적으로 H, -(CH2)maF, -(CH2)nCH(CH2)oOH(CH2)pOH이고,m은 2 내지 3의 정수를 의미하며, a는 17 내지 21의 정수를 의미하며,n, o 및 p는 각각 독립적으로 2 내지 3의 정수를 의미함.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 R1은 -CH2CH2OCH2CH2OCH3이고, R2 및 R3 중 하나는 -(CH2)218F 또는 -(CH2)219F이고, 다른 하나는 -H 또는 -CHOH(CH2)OH인 것을 특징으로 하는 PET용 추적자.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 또는 비가용성 아밀로이드 베타의 올리고머인 것을 특징으로 하는 PET용 추적자.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 아밀로이드 베타42 (Aβ42)인 것을 특징으로 하는 PET용 추적자.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 혈액 뇌 장벽(BBB : Blood Brain Barrier)을 통과할 수 있는 능력을 가지는 것을 특징으로 하는 PET용 추적자",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 따른 이광자 프로브 또는 제6항 내지 제10항 중 어느 한 항에 따른 PET용 추적자를 포함하는 알츠하이머 질환의 진단용 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 따른 이광자 프로브 또는 제6항 내지 제10항 중 어느 한 항에 따른 PET용 추적자를 이용한 알츠하이머 질환의 진단을 위한 정보 제공 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 아밀로이드 베타의 올리고머 및 플라크의 형성 정도 및/또는 형성된 양을 측정하는 단계를 포함하는 것을 특징으로 하는 정보 제공 방법.",
+          "refers_to": [
+            12
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20190308",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "화학식 1로 표시되는 화합물을 포함하는 아밀로이드 베타의 올리고머 또는 플라크 검출용 이광자 프로브;\n[화학식 1]\n[이미지]\n상기 화학식 1에서\nR1은 -(CH2)xO(CH2)yO(CH2)zCH3이고, \nx와 y는 각각 독립적으로 0 내지 10의 정수, 바람직하게는 1 내지 5의 정수, 가장 바람직하게는 2 내지 3의 정수를 의미하고, z는 0 내지 4의 정수, 바람직하게는 0 내지 2의 정수, 가장 바람직하게는 0 내지 1의 정수를 의미하고, R2 및 R3는 각각 독립적으로 H, -(CH2)maF, -(CH2)nCH(CH2)oOH(CH2)pOH이고,\nm은 0 내지 10의 정수, 바람직하게는 1 내지 5의 정수, 가장 바람직하게는 1 내지 3의 정수를 의미하며, a는 17 내지 21의 정수를 의미하며,\nn, o 및 p는 각각 독립적으로 0 내지 10의 정수, 바람직하게는 0 내지 5의 정수, 가장 바람직하게는 0 내지 3의 정수를 의미함.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 R1은 -CH2CH2OCH2CH2OCH3이고, R2 및 R3 중 하나는 -H이고, 다른 하나는 -CH3인 것인 것을 특징으로 하는 이광자 프로브.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 또는 비가용성 아밀로이드 베타의 올리고머인 것을 특징으로 하는 이광자 프로브.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 아밀로이드 베타42 (Aβ42)인 것을 특징으로 하는 이광자 프로브.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 혈액 뇌 장벽(BBB : Blood Brain Barrier)을 통과할 수 있는 능력을 가지는 것을 특징으로 하는 이광자 프로브",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "화학식 1로 표시되는 화합물을 포함하는 아밀로이드 베타의 올리고머 또는 플라크 검출을 위한 PET용 추적자;\n[화학식 1]\n[이미지]\n상기 화학식 1에서\nR1은 -(CH2)xO(CH2)yO(CH2)zCH3이고, \nx와 y는 각각 독립적으로 0 내지 10의 정수, 바람직하게는 1 내지 5의 정수, 가장 바람직하게는 2 내지 3의 정수를 의미하고, z는 0 내지 4의 정수, 바람직하게는 0 내지 2의 정수, 가장 바람직하게는 0 내지 1의 정수를 의미하고, R2 및 R3는 각각 독립적으로 H, -(CH2)maF, -(CH2)nCH(CH2)oOH(CH2)pOH이고,\nm은 0 내지 10의 정수, 바람직하게는 1 내지 5의 정수, 가장 바람직하게는 1 내지 3의 정수를 의미하며, a는 17 내지 21의 정수를 의미하며,\nn, o 및 p는 각각 독립적으로 0 내지 10의 정수, 바람직하게는 0 내지 5의 정수, 가장 바람직하게는 0 내지 3의 정수를 의미함.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 R1은 -CH2CH2OCH2CH2OCH3이고, R2 및 R3 중 하나는 -(CH2)218F 또는 -(CH2)219F이고, 다른 하나는 -H 또는 -CHOH(CH2)OH인 것을 특징으로 하는 PET용 추적자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 또는 비가용성 아밀로이드 베타의 올리고머인 것을 특징으로 하는 PET용 추적자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 아밀로이드 베타42 (Aβ42)인 것을 특징으로 하는 PET용 추적자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 혈액 뇌 장벽(BBB : Blood Brain Barrier)을 통과할 수 있는 능력을 가지는 것을 특징으로 하는 PET용 추적자",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 따른 이광자 프로브 또는 PET용 추적자를 포함하는 알츠하이머 질환의 진단용 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 따른 이광자 프로브 또는 PET용 추적자를 이용한 알츠하이머 질환의 진단을 위한 정보 제공 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 아밀로이드 베타의 올리고머 및 플라크의 형성 정도 및/또는 형성된 양을 측정하는 단계를 포함하는 것을 특징으로 하는 정보 제공 방법.",
+            "refers_to": [
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20210611",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 8,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "화학식 1로 표시되는 화합물을 포함하는 아밀로이드 베타의 올리고머 또는 플라크 검출용 이광자 프로브;\n[화학식 1]\n[이미지]\n상기 화학식 1에서\nR1은 -(CH2)xO(CH2)yO(CH2)zCH3이고, \nx와 y는 각각 독립적으로 2 내지 3의 정수를 의미하고, z는 0 내지 2의 정수를 의미하며, R2 및 R3는 각각 독립적으로 H, -(CH2)maF, -(CH2)nCH(CH2)oOH(CH2)pOH이고,\nm은 2 내지 3의 정수를 의미하고, a는 17 내지 21의 정수를 의미하며,\nn, o 및 p는 각각 독립적으로 2 내지 3의 정수를 의미함.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "화학식 1로 표시되는 화합물을 포함하는 아밀로이드 베타의 올리고머 또는 플라크 검출을 위한 PET용 추적자;\n[화학식 1]\n[이미지]\n상기 화학식 1에서\nR1은 -(CH2)xO(CH2)yO(CH2)zCH3이고, \nx와 y는 각각 독립적으로 2 내지 3의 정수를 의미하고, z는 0 내지 2의 정수를 의미하며, R2 및 R3는 각각 독립적으로 H, -(CH2)maF, -(CH2)nCH(CH2)oOH(CH2)pOH이고,\nm은 2 내지 3의 정수를 의미하며, a는 17 내지 21의 정수를 의미하며,\nn, o 및 p는 각각 독립적으로 2 내지 3의 정수를 의미함.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 R1은 -CH2CH2OCH2CH2OCH3이고, R2 및 R3 중 하나는 -(CH2)218F 또는 -(CH2)219F이고, 다른 하나는 -H 또는 -CHOH(CH2)OH인 것을 특징으로 하는 PET용 추적자.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 또는 비가용성 아밀로이드 베타의 올리고머인 것을 특징으로 하는 PET용 추적자.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 아밀로이드 베타의 올리고머는 가용성 아밀로이드 베타42 (Aβ42)인 것을 특징으로 하는 PET용 추적자.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 혈액 뇌 장벽(BBB : Blood Brain Barrier)을 통과할 수 있는 능력을 가지는 것을 특징으로 하는 PET용 추적자",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항에 따른 이광자 프로브 또는 제6항 내지 제10항 중 어느 한 항에 따른 PET용 추적자를 포함하는 알츠하이머 질환의 진단용 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항에 따른 이광자 프로브 또는 제6항 내지 제10항 중 어느 한 항에 따른 PET용 추적자를 이용한 알츠하이머 질환의 진단을 위한 정보 제공 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 13,
+      "after_claim_count": 8,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "대전광역시 유성구...",
+      "code": "120120549213",
+      "country": "대한민국",
+      "engName": "INSTITUTE FOR BASIC SCIENCE",
+      "name": "기초과학연구원"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 성동구...",
+        "code": "",
+        "country": "",
+        "engName": "CHO, BONG RAE",
+        "name": "조봉래"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Lee, C.Justin",
+        "name": "이창준"
+      },
+      {
+        "address": "서울특별시 강동구...",
+        "code": "",
+        "country": "",
+        "engName": "CHOI, JI WOO",
+        "name": "최지우"
+      },
+      {
+        "address": "강원도 춘천시 서부대성로 **, ...",
+        "code": "",
+        "country": "",
+        "engName": "Ju, YeonHa",
+        "name": "주연하"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 강남구 언주로 ***, **층  (역삼동, 윤익빌딩)(*T국제특허법률사무소)",
+        "code": "920110000813",
+        "country": "대한민국",
+        "engName": "Je Hwan Chang",
+        "name": "장제환"
+      },
+      {
+        "address": "서울특별시 강남구 언주로 ***, **층 (역삼동, 윤익빌딩)(*T국제특허법률사무소)",
+        "code": "920030001189",
+        "country": "대한민국",
+        "engName": "LEECHEOYOUNG",
+        "name": "이처영"
+      }
+    ]
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020140049370 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR101782064 B1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020160049819 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020170110496 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20120183474 A1",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2019.03.08",
+        "receiptNumber": "1-1-2019-0242363-26"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2020.03.31",
+        "receiptNumber": "1-1-2020-0335294-46"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2021.01.15",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2021.03.18",
+        "receiptNumber": "9-6-2021-0067227-93"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.04.14",
+        "receiptNumber": "9-5-2021-0297973-39"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.06.11",
+        "receiptNumber": "1-1-2021-0676944-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.06.11",
+        "receiptNumber": "1-1-2021-0676943-68"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.10.13",
+        "receiptNumber": "9-5-2021-0803725-15"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020190027119.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93f89a37457391cebe1f9f60e4d7e0fde1dcd7dcd82abf1b80db13ed0cbc4af506e15861e1426e3a1fb0d6f83710fe9d4a5cf8ed7a4b35722c",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf0da3e2fcde7a1b7941b71ca3fa8688b35f7f0a804f97532d87af235100d19b65993ff9758eb04429992dbd0fd388a2d8c89312ed838e3070"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "미래창조과학부",
+        "rndDuration": "2018.03.01 ~ 2021.02.28",
+        "rndManagingInstituteName": "대진대학교 산학협력단",
+        "rndProjectName": "이공분야기초연구사업",
+        "rndSpecialInstituteName": "(재)한국연구재단",
+        "rndTaskContribution": "49/100",
+        "rndTaskName": "이중 채널 영상에 사용할 수 있는 이광자 표지자",
+        "rndTaskNumber": "2018R1A2B6006029"
+      },
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2018.11.01 ~ 2023.12.31",
+        "rndManagingInstituteName": "기초과학연구원",
+        "rndProjectName": "의식, 인지 및 사회성에 대한 뇌의 기전 연구",
+        "rndSpecialInstituteName": "기초과학연구원",
+        "rndTaskContribution": "51/100",
+        "rndTaskName": "교세포의 인지적 기능 연구(2/2)",
+        "rndTaskNumber": "IBS-R001-D2-2019-a00"
+      }
+    ]
+  }
+}

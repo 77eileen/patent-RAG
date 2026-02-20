@@ -1,0 +1,537 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.10.08",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-0130300",
+      "claimCount": "7",
+      "examinerName": "문영준",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "돌연변이 KRAS를 표적하는 펩타이드 및 이의 용도",
+      "inventionTitleEng": "Peptides targeting mutant KRAS and uses thereof",
+      "openDate": "2022.04.15",
+      "openNumber": "10-2022-0046957",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.10.08",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2023.01.12",
+      "publicationNumber": "",
+      "registerDate": "2023.01.10",
+      "registerNumber": "10-2488353-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 7/06"
+      },
+      {
+        "ipcDate": "(2019.01.01)",
+        "ipcNumber": "A61K 38/08"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2016.01.01)",
+        "ipcNumber": "A23L 33/18"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 돌연변이 KRAS를 표적하는 펩타이드에 관한 것으로서, 더욱 상세하게는 상기 항암 펩타이드를 포함하는 암 예방, 개선 또는 치료용 조성물과, 항암 보조제 조성물에 관한 것이다. 본 발명에 따른 돌연변이 KRAS를 표적하는 펩타이드는 돌연변이 KRAS와 복합체를 형성할 뿐만 아니라 RAS의 활성 차단을 통해 암을 억제하는 효과를 가지고 있어, 암 예방 및 치료 분야에서 다양하게 활용할 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020200130300",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20201008",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 8,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 1의 아미노산 서열로 표시되는 항암 펩타이드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 항암 펩타이드는 H-REV107 유래인, 항암 펩타이드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 항암 펩타이드는 돌연변이 KRAS(Kirsten-RAS) 및 H-REV107(HRAS-like suppressor 3)의 복합체 형성을 저해하는 것인, 항암 펩타이드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 항암 펩타이드는 돌연변이 KRAS G12V와 복합체를 형성하는 것인, 항암 펩타이드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 암은 위암(gastric cancer), 유방암(breast cancer), 폐암(lung cancer), 간암(liver cancer), 혈액암(blood cancer), 뼈암(bone cancer), 췌장암(pancreatic cancer), 피부암(skin cancer), 머리 또는 목암(head or neck cancer), 피부 또는 안구 흑색종(cutaneous or intraocular melanoma), 자궁육종(uterine sarcoma), 난소암(ovarian cancer), 직장암(rectal cancer), 항문암(anal cancer), 대장암(colon cancer), 난관암(fallopian tube carcinoma), 자궁내막암(endometrial carcinoma), 자궁경부암(cervical cancer), 소장암(small intestine cancer), 내분비암(endocrine cancer), 갑상선암(thyroid cancer), 부갑상선암(parathyroid cancer), 신장암(adrenal cancer), 연조직종양(soft tissue tumor), 요도암(urethral cancer), 전립선암(prostate cancer), 기관지암(bronchogenic cancer) 및 골수암(bone marrow tumor)으로 이루어진 군에서 선택된 1종 이상인, 항암 펩타이드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 따른 항암 펩타이드를 포함하는, 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 따른 항암 펩타이드를 포함하는, 암 예방 또는 개선용 식품 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 따른 항암 펩타이드를 포함하는, 항암 보조제 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20220914",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 8,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 1의 아미노산 서열로 표시되는 항암 펩타이드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 항암 펩타이드는 H-REV107 유래인, 항암 펩타이드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 항암 펩타이드는 돌연변이 KRAS(Kirsten-RAS) 및 H-REV107(HRAS-like suppressor 3)의 복합체 형성을 저해하는 것인, 항암 펩타이드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 항암 펩타이드는 돌연변이 KRAS G12V와 복합체를 형성하는 것인, 항암 펩타이드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 암은 위암(gastric cancer), 유방암(breast cancer), 폐암(lung cancer), 간암(liver cancer), 혈액암(blood cancer), 뼈암(bone cancer), 췌장암(pancreatic cancer), 피부암(skin cancer), 머리 또는 목암(head or neck cancer), 피부 또는 안구 흑색종(cutaneous or intraocular melanoma), 자궁육종(uterine sarcoma), 난소암(ovarian cancer), 직장암(rectal cancer), 항문암(anal cancer), 대장암(colon cancer), 난관암(fallopian tube carcinoma), 자궁내막암(endometrial carcinoma), 자궁경부암(cervical cancer), 소장암(small intestine cancer), 내분비암(endocrine cancer), 갑상선암(thyroid cancer), 부갑상선암(parathyroid cancer), 신장암(adrenal cancer), 연조직종양(soft tissue tumor), 요도암(urethral cancer), 전립선암(prostate cancer), 기관지암(bronchogenic cancer) 및 골수암(bone marrow tumor)으로 이루어진 군에서 선택된 1종 이상인, 항암 펩타이드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 따른 항암 펩타이드를 포함하는, 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 따른 항암 펩타이드를 포함하는, 암 예방 또는 개선용 식품 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20201008",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 8,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 1의 아미노산 서열로 표시되는 항암 펩타이드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 항암 펩타이드는 H-REV107 유래인, 항암 펩타이드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 항암 펩타이드는 돌연변이 KRAS(Kirsten-RAS) 및 H-REV107(HRAS-like suppressor 3)의 복합체 형성을 저해하는 것인, 항암 펩타이드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 항암 펩타이드는 돌연변이 KRAS G12V와 복합체를 형성하는 것인, 항암 펩타이드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 암은 위암(gastric cancer), 유방암(breast cancer), 폐암(lung cancer), 간암(liver cancer), 혈액암(blood cancer), 뼈암(bone cancer), 췌장암(pancreatic cancer), 피부암(skin cancer), 머리 또는 목암(head or neck cancer), 피부 또는 안구 흑색종(cutaneous or intraocular melanoma), 자궁육종(uterine sarcoma), 난소암(ovarian cancer), 직장암(rectal cancer), 항문암(anal cancer), 대장암(colon cancer), 난관암(fallopian tube carcinoma), 자궁내막암(endometrial carcinoma), 자궁경부암(cervical cancer), 소장암(small intestine cancer), 내분비암(endocrine cancer), 갑상선암(thyroid cancer), 부갑상선암(parathyroid cancer), 신장암(adrenal cancer), 연조직종양(soft tissue tumor), 요도암(urethral cancer), 전립선암(prostate cancer), 기관지암(bronchogenic cancer) 및 골수암(bone marrow tumor)으로 이루어진 군에서 선택된 1종 이상인, 항암 펩타이드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 따른 항암 펩타이드를 포함하는, 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 따른 항암 펩타이드를 포함하는, 암 예방 또는 개선용 식품 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 따른 항암 펩타이드를 포함하는, 항암 보조제 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220914",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 8,
+      "after_claim_count": 1,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "부산광역시 금정구...",
+      "code": "220040044843",
+      "country": "대한민국",
+      "engName": "Pusan National University Industry-University Cooperation Foundation",
+      "name": "부산대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "부산광역시 금정구...",
+        "code": "",
+        "country": "",
+        "engName": "Jang, Se Bok",
+        "name": "장세복"
+      },
+      {
+        "address": "부산광역시 금정구...",
+        "code": "",
+        "country": "",
+        "engName": "Jeong, Mi Suk",
+        "name": "정미숙"
+      },
+      {
+        "address": "부산광역시 연제구...",
+        "code": "",
+        "country": "",
+        "engName": "Han, Chang Woo",
+        "name": "한창우"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 구로구 디지털로**길 **, 에이스테크노타워*차 ***-*호",
+      "code": "920221000817",
+      "country": "대한민국",
+      "engName": "JUNGJIN IP LAW FIRM",
+      "name": "특허법인정진"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Chang Woo Han et. al., ‘A H-REV107 Peptide Inhibits Tumor Growth and Interacts Directly with Oncogenic KRAS Mutants’, Cancers(Basel), Vol. 12, No. 6, 2020.05.30.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020180041606 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020200115484 A",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2020.10.08",
+        "receiptNumber": "1-1-2020-1066696-88"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2022.07.21",
+        "receiptNumber": "9-5-2022-0548574-81"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.09.14",
+        "receiptNumber": "1-1-2022-0962179-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.09.14",
+        "receiptNumber": "1-1-2022-0962203-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[출원서 등 보완]보정서",
+        "receiptDate": "2022.09.14",
+        "receiptNumber": "1-1-2022-0962349-78"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[공지예외적용 보완 증명서류]서류제출서",
+        "receiptDate": "2022.09.14",
+        "receiptNumber": "1-1-2022-0962464-10"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2023.01.09",
+        "receiptNumber": "9-5-2023-0034386-72"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.09.26",
+        "receiptNumber": "4-1-2023-5254954-39"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.05.09",
+        "receiptNumber": "4-1-2024-5147003-03"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.10.17",
+        "receiptNumber": "4-1-2024-5302790-43"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.10.22",
+        "receiptNumber": "4-1-2024-5306990-61"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020200130300.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9341339e1f938b233b4d3bd83d967f17aa761b631e7bf143b257b25f0c4db4f2c07759f9e18d124b06d19eee60b0740be076745efa370e5ace",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf9dd981a6e5613c6844906b16654bffc6faa8933f00a7388aa9b94ed78ff1d0218e9d7dec581dc3d283eab82e83b528a1898f0f5a7856c4a3"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "교육부",
+      "rndDuration": "2020.03.01 ~ 2021.02.28",
+      "rndManagingInstituteName": "부산대학교",
+      "rndProjectName": "개인기초연구(교육부)(R＆D)",
+      "rndSpecialInstituteName": "한국연구재단",
+      "rndTaskContribution": "30/100",
+      "rndTaskName": "RAS 신호전달기작을 억제할 수 있는 저해제 개발",
+      "rndTaskNumber": "1345317576"
+    }
+  }
+}

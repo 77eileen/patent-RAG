@@ -1,0 +1,2268 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.11.19",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-7020620",
+      "claimCount": "51",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "신경계 세포의 동결 방법",
+      "inventionTitleEng": "METHOD FOR FREEZING NEURAL CELLS",
+      "openDate": "2022.07.26",
+      "openNumber": "10-2022-0104764",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.10.25",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2022.06.16"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/079"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "C12N 1/04"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A01N 1/10"
+      },
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/30"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61L 27/36"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 25/16"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "신경계 세포를 포함하는 세포 응집체를 동결하는 방법을 제공한다. 이하의 공정 (1) 및 공정 (2) 을 포함하는, 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체를 동결하는 방법을 제공한다: (1) 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체를 동결 전에 0 ℃ 내지 30 ℃ 에서 보존액에 접촉시켜서 보존액에 침지된 세포 응집체를 조제하는 공정; 및 (2) 공정 (1) 에서 얻어지는 보존액에 침지된 세포 응집체를 적어도 상기 보존액의 응고점보다 약 5 ℃ 높은 온도에서 응고점보다 약 5 ℃ 낮은 온도까지 평균 2 내지 7 ℃/분의 냉각 속도로 냉각하여 동결시키는 공정."
+    }
+  },
+  "claims": {
+    "application_number": "1020227020620",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220616",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 31,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 공정 (1) 및 공정 (2) 을 포함하는, 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체를 동결하는 방법:\n (1) 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체를 동결 전에 0 ℃ 내지 30 ℃ 에서 보존액에 접촉시켜서 보존액에 침지된 세포 응집체를 조제하는 공정; 및\n (2) 공정 (1) 에서 얻어지는 보존액에 침지된 세포 응집체를 적어도 상기 보존액의 응고점보다 약 5 ℃ 높은 온도에서 응고점보다 약 5 ℃ 낮은 온도까지 2 내지 7 ℃/분의 평균 냉각 속도로 냉각하여 세포 응집체를 동결시키는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 공정 (2) 에서의 평균 냉각 속도가 3 내지 7 ℃/분인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 또는 제 2 항에 있어서, 공정 (1) 에서 세포 응집체를 15 분간 내지 90 분간, 바람직하게는 15 분간 내지 60 분간 보존액에 접촉시키는 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서, 보존액의 응고점이 -1 ℃ 내지 -10 ℃ 인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항에 있어서, 보존액이 7% 내지 12% 의 디메틸 설폭사이드 및/또는 프로필렌 글리콜을 포함하는 수용액이며, 공정 (2) 가 0 ± 5 ℃ 에서 -30 ± 5 ℃ 까지 2 내지 5 ℃/분의 평균 냉각 속도로 냉각하는 공정인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 5 항 중 어느 한 항에 있어서, 공정 (2) 에서의 평균 냉각 속도가 3 내지 5 ℃/분인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 6 항 중 어느 한 항에 있어서, 또한 이하의 공정 (3) 을 포함하는 방법:\n (3) 공정 (2) 에서 얻어지는 동결한 세포 응집체를 -50 ℃ 이하로 냉각하는 공정.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 7 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 다능성 줄기 세포 유래의 신경계 세포를 포함하는 세포 응집체인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 8 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2, TH 및 NURR1 중 적어도 하나가 양성인 세포를 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성 및 LMX1A 양성 세포를 포함하는 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성, TH 양성 및 NURR1 양성 세포를 포함하는 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 8 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 12 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 도파민 생산 신경 전구세포 및/또는 도파민 생산 신경세포를 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 13 항 중 어느 한 항에 있어서, 세포 응집체가 500 개 내지 150000 개의 세포를 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 14 항 중 어느 한 항에 있어서, 보존액 중에 포함되는 세포의 수가 80000 내지 5000000 세포/㎖ 이며, 세포 응집체의 원상당 지름이 150 내지 1000 ㎛ 인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 15 항 중 어느 한 항에 있어서, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 16 항 중 어느 한 항에 있어서, 세포 응집체 및 보존액이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 17 항 중 어느 한 항에 따른 방법으로 얻어지는 동결한 세포 응집체를 -80 ℃ 이하에서 유지하는 것을 포함하는, 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체의 장기 보존 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 18 항 중 어느 한 항에 있어서, 얻어지는 동결한 세포 응집체가 해동 후에 회복을 위한 배양을 수행하지 않고 사용될 수 있는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 19 항 중 어느 한 항에 따른 방법으로 동결 또는 장기 보존된 세포 응집체를 유효 성분으로서 함유하는 이식용 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기를 포함하는 동결된 이식용 조성물:\n다능성 줄기 세포 유래의 도파민 생산 신경 전구세포 및 도파민 생산 신경세포를 60% 이상 포함하고, 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이고, 500 개 내지 150000 개의 세포를 포함하는 세포 응집체; 및\n7% 내지 12% 의 디메틸 설폭사이드 또는 프로필렌 글리콜을 포함하고, 응고점이 -1 ℃ 내지 -10 ℃ 인 동결 보존액,\n여기에서 동결된 세포 응집체는 이하의 성질을 나타낸다:\n (1) 해동 후에 전세포수의 약 60% 이상이 생존하고 있고;\n (2) 해동 후의 세포가 동결 전과 비교하여 50% 이상의 신경돌기 신장 활성을 갖고;\n (3) 해동 후에 생존하고 있는 세포 중 FOXA2 양성 세포, LMX1A 양성 세포, NURR1 양성 세포 및 TH 양성 세포의 비율이 동결 전의 세포와 비교하여 ± 10% 이내에서 변화한다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 20 항 또는 제 21 항에 있어서, 조성물 중의 세포수가 80000 내지 5000000 세포/㎖ 이고, 조성물이 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하는 이식용 조성물.",
+          "refers_to": [
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 20 항 내지 제 22 항 중 어느 한 항에 있어서, 세포 응집체의 원상당 지름이 150 내지 1000 ㎛ 인 이식용 조성물.",
+          "refers_to": [
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 20 항 내지 제 23 항 중 어느 한 항에 있어서, 조성물이 해동 후에 회복을 위한 배양을 수행하지 않고 사용될 수 있는 이식용 조성물.",
+          "refers_to": [
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 20 항 내지 제 24 항 중 어느 한 항에 있어서, 조성물이 세포 응집체를 8 내지 192 개/㎖ 포함하고, 세포 응집체의 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이고, 용기 당 세포수가 80000 내지 2400000 개인 이식용 조성물.",
+          "refers_to": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 20 항 내지 제 25 항 중 어느 한 항에 있어서, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 인 이식용 조성물.",
+          "refers_to": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 20 항 내지 제 26 항 중 어느 한 항에 있어서, 조성물이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는 이식용 조성물.",
+          "refers_to": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기 단계를 포함하는, 도파민 생산 신경 전구세포를 유효 성분으로서 함유하는 이식용 조성물의 제조 방법:\n제 1 항 내지 제 17 항 중 어느 한 항에 따른 방법으로 세포 응집체를 동결하는 단계, 여기에서 조성물 중의 세포수는 80000 내지 5000000 세포/㎖ 이고, 세포 응집체는 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하고, 세포 응집체는 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이다.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 28 항에 있어서, 조성물이 원상당 지름이 150 내지 1000 ㎛ 인 세포 응집체의 집단을 포함하고, 용기 당 세포수가 80000 내지 2400000 개이고, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 이고, 조성물이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는, 신경계 세포의 응집체를 유효 성분으로서 함유하는 이식용 조성물의 제조 방법.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 공정을 포함하는, 도파민 생산 신경의 재생을 필요로 하는 질환의 치료 방법:\n (1) 제 20 항 내지 제 27 항 중 어느 한 항에 따른 이식용 조성물을 30 ℃ 내지 40 ℃, 바람직하게는 37 ℃ ± 3 ℃ 에서 해동하는 공정; 및\n (2) (1) 에서 얻어진 이식용 조성물을 환자의 선조체 영역에 이식하는 공정.",
+          "refers_to": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 30 항에 있어서, 해동 후에 배양을 수행하지 않고 동결 보존액을 투여 매체로 치환하여 공정 (2) 를 수행하는 방법.",
+          "refers_to": [
+            30
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20231025",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 31,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 공정 (1) 및 공정 (2) 을 포함하는, 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체를 동결하는 방법: (1) 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체를 동결 전에 0 ℃ 내지 30 ℃ 에서 보존액에 접촉시켜서 보존액에 침지된 세포 응집체를 조제하는 공정; 및 (2) 공정 (1) 에서 얻어지는 보존액에 침지된 세포 응집체를 적어도 상기 보존액의 응고점보다 약 5 ℃ 높은 온도에서 응고점보다 약 5 ℃ 낮은 온도까지 2 내지 7 ℃/분의 평균 냉각 속도로 냉각하여 세포 응집체를 동결시키는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 공정 (2) 에서의 평균 냉각 속도가 3 내지 7 ℃/분인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서, 공정 (1) 에서 세포 응집체를 15 분간 내지 90 분간, 바람직하게는 15 분간 내지 60 분간 보존액에 접촉시키는 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서, 보존액의 응고점이 -1 ℃ 내지 -10 ℃ 인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항에 있어서, 보존액이 7% 내지 12% 의 디메틸 설폭사이드 및/또는 프로필렌 글리콜을 포함하는 수용액이며, 공정 (2) 가 0 ± 5 ℃ 에서 -30 ± 5 ℃ 까지 2 내지 5 ℃/분의 평균 냉각 속도로 냉각하는 공정인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 5 항 중 어느 한 항에 있어서, 공정 (2) 에서의 평균 냉각 속도가 3 내지 5 ℃/분인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 6 항 중 어느 한 항에 있어서, 또한 이하의 공정 (3) 을 포함하는 방법: (3) 공정 (2) 에서 얻어지는 동결한 세포 응집체를 -50 ℃ 이하로 냉각하는 공정.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 7 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 다능성 줄기 세포 유래의 신경계 세포를 포함하는 세포 응집체인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 8 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2, TH 및 NURR1 중 적어도 하나가 양성인 세포를 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 9 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성 및 LMX1A 양성 세포를 포함하는 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 9 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성, TH 양성 및 NURR1 양성 세포를 포함하는 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 8 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 12 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 도파민 생산 신경 전구세포 및/또는 도파민 생산 신경세포를 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 13 항 중 어느 한 항에 있어서, 세포 응집체가 500 개 내지 150000 개의 세포를 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 14 항 중 어느 한 항에 있어서, 보존액 중에 포함되는 세포의 수가 80000 내지 5000000 세포/㎖ 이며, 세포 응집체의 원상당 지름이 150 내지 1000 ㎛ 인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 15 항 중 어느 한 항에 있어서, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 16 항 중 어느 한 항에 있어서, 세포 응집체 및 보존액이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 17 항 중 어느 한 항에 따른 방법으로 얻어지는 동결한 세포 응집체를 -80 ℃ 이하에서 유지하는 것을 포함하는, 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체의 장기 보존 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 18 항 중 어느 한 항에 있어서, 얻어지는 동결한 세포 응집체가 해동 후에 회복을 위한 배양을 수행하지 않고 사용될 수 있는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 19 항 중 어느 한 항에 따른 방법으로 동결 또는 장기 보존된 세포 응집체를 유효 성분으로서 함유하는 이식용 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기를 포함하는 동결된 이식용 조성물:다능성 줄기 세포 유래의 도파민 생산 신경 전구세포 및 도파민 생산 신경세포를 60% 이상 포함하고, 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이고, 500 개 내지 150000 개의 세포를 포함하는 세포 응집체; 및7% 내지 12% 의 디메틸 설폭사이드 또는 프로필렌 글리콜을 포함하고, 응고점이 -1 ℃ 내지 -10 ℃ 인 동결 보존액,여기에서 동결된 세포 응집체는 이하의 성질을 나타낸다: (1) 해동 후에 전세포수의 약 60% 이상이 생존하고 있고; (2) 해동 후의 세포가 동결 전과 비교하여 50% 이상의 신경돌기 신장 활성을 갖고; (3) 해동 후에 생존하고 있는 세포 중 FOXA2 양성 세포, LMX1A 양성 세포, NURR1 양성 세포 및 TH 양성 세포의 비율이 동결 전의 세포와 비교하여 ± 10% 이내에서 변화한다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 20 항 또는 제 21 항에 있어서, 조성물 중의 세포수가 80000 내지 5000000 세포/㎖ 이고, 조성물이 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하는 이식용 조성물.",
+          "refers_to": [
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 20 항 내지 제 22 항 중 어느 한 항에 있어서, 세포 응집체의 원상당 지름이 150 내지 1000 ㎛ 인 이식용 조성물.",
+          "refers_to": [
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 20 항 내지 제 23 항 중 어느 한 항에 있어서, 조성물이 해동 후에 회복을 위한 배양을 수행하지 않고 사용될 수 있는 이식용 조성물.",
+          "refers_to": [
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 20 항 내지 제 24 항 중 어느 한 항에 있어서, 조성물이 세포 응집체를 8 내지 192 개/㎖ 포함하고, 세포 응집체의 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이고, 용기 당 세포수가 80000 내지 2400000 개인 이식용 조성물.",
+          "refers_to": [
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 20 항 내지 제 25 항 중 어느 한 항에 있어서, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 인 이식용 조성물.",
+          "refers_to": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 20 항 내지 제 26 항 중 어느 한 항에 있어서, 조성물이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는 이식용 조성물.",
+          "refers_to": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기 단계를 포함하는, 도파민 생산 신경 전구세포를 유효 성분으로서 함유하는 이식용 조성물의 제조 방법:제 1 항 내지 제 17 항 중 어느 한 항에 따른 방법으로 세포 응집체를 동결하는 단계, 여기에서 조성물 중의 세포수는 80000 내지 5000000 세포/㎖ 이고, 세포 응집체는 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하고, 세포 응집체는 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이다.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 28 항에 있어서, 조성물이 원상당 지름이 150 내지 1000 ㎛ 인 세포 응집체의 집단을 포함하고, 용기 당 세포수가 80000 내지 2400000 개이고, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 이고, 조성물이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는, 신경계 세포의 응집체를 유효 성분으로서 함유하는 이식용 조성물의 제조 방법.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 공정을 포함하는, 도파민 생산 신경의 재생을 필요로 하는 질환의 치료 방법: (1) 제 20 항 내지 제 27 항 중 어느 한 항에 따른 이식용 조성물을 30 ℃ 내지 40 ℃, 바람직하게는 37 ℃ ± 3 ℃ 에서 해동하는 공정; 및 (2) (1) 에서 얻어진 이식용 조성물을 환자의 선조체 영역에 이식하는 공정.",
+          "refers_to": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 30 항에 있어서, 해동 후에 배양을 수행하지 않고 동결 보존액을 투여 매체로 치환하여 공정 (2) 를 수행하는 방법.",
+          "refers_to": [
+            30
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220616",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 31,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 공정 (1) 및 공정 (2) 을 포함하는, 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체를 동결하는 방법:\n (1) 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체를 동결 전에 0 ℃ 내지 30 ℃ 에서 보존액에 접촉시켜서 보존액에 침지된 세포 응집체를 조제하는 공정; 및\n (2) 공정 (1) 에서 얻어지는 보존액에 침지된 세포 응집체를 적어도 상기 보존액의 응고점보다 약 5 ℃ 높은 온도에서 응고점보다 약 5 ℃ 낮은 온도까지 2 내지 7 ℃/분의 평균 냉각 속도로 냉각하여 세포 응집체를 동결시키는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 공정 (2) 에서의 평균 냉각 속도가 3 내지 7 ℃/분인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 또는 제 2 항에 있어서, 공정 (1) 에서 세포 응집체를 15 분간 내지 90 분간, 바람직하게는 15 분간 내지 60 분간 보존액에 접촉시키는 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서, 보존액의 응고점이 -1 ℃ 내지 -10 ℃ 인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항에 있어서, 보존액이 7% 내지 12% 의 디메틸 설폭사이드 및/또는 프로필렌 글리콜을 포함하는 수용액이며, 공정 (2) 가 0 ± 5 ℃ 에서 -30 ± 5 ℃ 까지 2 내지 5 ℃/분의 평균 냉각 속도로 냉각하는 공정인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 5 항 중 어느 한 항에 있어서, 공정 (2) 에서의 평균 냉각 속도가 3 내지 5 ℃/분인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 6 항 중 어느 한 항에 있어서, 또한 이하의 공정 (3) 을 포함하는 방법:\n (3) 공정 (2) 에서 얻어지는 동결한 세포 응집체를 -50 ℃ 이하로 냉각하는 공정.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 7 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 다능성 줄기 세포 유래의 신경계 세포를 포함하는 세포 응집체인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 8 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2, TH 및 NURR1 중 적어도 하나가 양성인 세포를 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성 및 LMX1A 양성 세포를 포함하는 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성, TH 양성 및 NURR1 양성 세포를 포함하는 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 8 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 12 항 중 어느 한 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 도파민 생산 신경 전구세포 및/또는 도파민 생산 신경세포를 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 13 항 중 어느 한 항에 있어서, 세포 응집체가 500 개 내지 150000 개의 세포를 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 14 항 중 어느 한 항에 있어서, 보존액 중에 포함되는 세포의 수가 80000 내지 5000000 세포/㎖ 이며, 세포 응집체의 원상당 지름이 150 내지 1000 ㎛ 인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 15 항 중 어느 한 항에 있어서, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 16 항 중 어느 한 항에 있어서, 세포 응집체 및 보존액이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 17 항 중 어느 한 항에 따른 방법으로 얻어지는 동결한 세포 응집체를 -80 ℃ 이하에서 유지하는 것을 포함하는, 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체의 장기 보존 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 18 항 중 어느 한 항에 있어서, 얻어지는 동결한 세포 응집체가 해동 후에 회복을 위한 배양을 수행하지 않고 사용될 수 있는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 19 항 중 어느 한 항에 따른 방법으로 동결 또는 장기 보존된 세포 응집체를 유효 성분으로서 함유하는 이식용 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기를 포함하는 동결된 이식용 조성물:\n다능성 줄기 세포 유래의 도파민 생산 신경 전구세포 및 도파민 생산 신경세포를 60% 이상 포함하고, 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이고, 500 개 내지 150000 개의 세포를 포함하는 세포 응집체; 및\n7% 내지 12% 의 디메틸 설폭사이드 또는 프로필렌 글리콜을 포함하고, 응고점이 -1 ℃ 내지 -10 ℃ 인 동결 보존액,\n여기에서 동결된 세포 응집체는 이하의 성질을 나타낸다:\n (1) 해동 후에 전세포수의 약 60% 이상이 생존하고 있고;\n (2) 해동 후의 세포가 동결 전과 비교하여 50% 이상의 신경돌기 신장 활성을 갖고;\n (3) 해동 후에 생존하고 있는 세포 중 FOXA2 양성 세포, LMX1A 양성 세포, NURR1 양성 세포 및 TH 양성 세포의 비율이 동결 전의 세포와 비교하여 ± 10% 이내에서 변화한다.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 20 항 또는 제 21 항에 있어서, 조성물 중의 세포수가 80000 내지 5000000 세포/㎖ 이고, 조성물이 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하는 이식용 조성물.",
+            "refers_to": [
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 20 항 내지 제 22 항 중 어느 한 항에 있어서, 세포 응집체의 원상당 지름이 150 내지 1000 ㎛ 인 이식용 조성물.",
+            "refers_to": [
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 20 항 내지 제 23 항 중 어느 한 항에 있어서, 조성물이 해동 후에 회복을 위한 배양을 수행하지 않고 사용될 수 있는 이식용 조성물.",
+            "refers_to": [
+              20,
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 20 항 내지 제 24 항 중 어느 한 항에 있어서, 조성물이 세포 응집체를 8 내지 192 개/㎖ 포함하고, 세포 응집체의 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이고, 용기 당 세포수가 80000 내지 2400000 개인 이식용 조성물.",
+            "refers_to": [
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 20 항 내지 제 25 항 중 어느 한 항에 있어서, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 인 이식용 조성물.",
+            "refers_to": [
+              20,
+              21,
+              22,
+              23,
+              24,
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 20 항 내지 제 26 항 중 어느 한 항에 있어서, 조성물이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는 이식용 조성물.",
+            "refers_to": [
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 단계를 포함하는, 도파민 생산 신경 전구세포를 유효 성분으로서 함유하는 이식용 조성물의 제조 방법:\n제 1 항 내지 제 17 항 중 어느 한 항에 따른 방법으로 세포 응집체를 동결하는 단계, 여기에서 조성물 중의 세포수는 80000 내지 5000000 세포/㎖ 이고, 세포 응집체는 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하고, 세포 응집체는 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이다.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 28 항에 있어서, 조성물이 원상당 지름이 150 내지 1000 ㎛ 인 세포 응집체의 집단을 포함하고, 용기 당 세포수가 80000 내지 2400000 개이고, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 이고, 조성물이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는, 신경계 세포의 응집체를 유효 성분으로서 함유하는 이식용 조성물의 제조 방법.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 공정을 포함하는, 도파민 생산 신경의 재생을 필요로 하는 질환의 치료 방법:\n (1) 제 20 항 내지 제 27 항 중 어느 한 항에 따른 이식용 조성물을 30 ℃ 내지 40 ℃, 바람직하게는 37 ℃ ± 3 ℃ 에서 해동하는 공정; 및\n (2) (1) 에서 얻어진 이식용 조성물을 환자의 선조체 영역에 이식하는 공정.",
+            "refers_to": [
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 30 항에 있어서, 해동 후에 배양을 수행하지 않고 동결 보존액을 투여 매체로 치환하여 공정 (2) 를 수행하는 방법.",
+            "refers_to": [
+              30
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20231025",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 50,
+        "claims": [
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, 공정 (2) 에서의 평균 냉각 속도가 3 내지 7 ℃/분인 동결 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, 공정 (2) 에서의 평균 냉각 속도가 2 내지 5.5 ℃/분인 동결 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 보존액이 동결 보호 물질을 포함하는 수성 액체이고, 동결 보호 물질은 물 분자와의 친화성이 높고 동결 보존액 중에서 빙정의 성장을 억제하는 효과가 높은 물질인 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 4 항에 있어서, 동결 보호 물질이 디메틸 설폭사이드 (DMSO), 에틸렌 글리콜 (EG), 프로필렌 글리콜 (PG), 1,2-프로판디올 (1,2-PD), 1,3-프로판디올 (1,3-PD), 부틸렌 글리콜 (BG), 이소프렌 글리콜 (IPG), 디프로필렌 글리콜 (DPG) 및/또는 글리세린으로 이루어진 군으로부터 선택되는 동결 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 5 항에 있어서, 동결 보존액 중의 동결 보호 물질의 농도가 동결 보호 물질로서 디메틸 설폭사이드 및/또는 프로필렌 글리콜을 사용할 경우 7 내지 12% 인 동결 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 공정 (1) 에서 세포 응집체를 5 분간 내지 240 분간 보존액에 침지시키는 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 7 항에 있어서, 공정 (1) 에서 세포 응집체를 15 분간 내지 90 분간, 또는 15 분간 내지 60 분간 보존액에 접촉시키는 동결 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 보존액의 응고점이 -1 ℃ 내지 -10 ℃ 인 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 보존액이 7% 내지 12% 의 디메틸 설폭사이드 및/또는 프로필렌 글리콜을 포함하는 수용액이며, 공정 (2) 가 0 ± 5 ℃ 에서 -30 ± 5 ℃ 까지 2 내지 5 ℃/분의 평균 냉각 속도로 냉각하는 공정인 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 공정 (2) 에서의 평균 냉각 속도가 3 내지 5 ℃/분인 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 또한 이하의 공정 (3) 을 포함하는 동결 방법:\n (3) 공정 (2) 에서 얻어지는 동결한 세포 응집체를 -50 ℃ 이하로 냉각하는 공정.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 다능성 줄기 세포 유래의 신경계 세포를 포함하는 세포 응집체인 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 13 항에 있어서, 신경계 세포를 60% 이상 포함하는 세포 응집체인 동결 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 전뇌, 종뇌, 간뇌, 대뇌, 시상하부, 중뇌, 후뇌, 중뇌 후뇌 경계 영역, 소뇌, 망막, 뇌하수체, 또는 척수 유래의 신경세포 및 이들의 전구세포로 이루어진 군으로부터 선택되는 중추신경계의 신경계 세포를 포함하는 세포 응집체인 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 중뇌 복측부 유래 신경 전구세포, 도파민 신경세포 및 도파민 신경 전구세포로 이루어진 군으로부터 선택되는 신경계 세포를 포함하는 세포 응집체인 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2, TH 및 NURR1 중 적어도 하나가 양성인 세포를 포함하는 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성 및 LMX1A 양성 세포를 포함하는 동결 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성, TH 양성 및 NURR1 양성 세포를 포함하는 동결 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하는 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항에 있어서, 세포 응집체가 FOXA2, LMX1A, LMX1B, NURR1 및 TH 로 이루어진 군으로부터 선택되는 하나 이상의 마커를 발현하는 신경계 세포를 60% 이상 포함하는 동결 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 도파민 신경 전구세포 및/또는 도파민 신경세포를 포함하는 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 22 항에 있어서, 세포 응집체가 도파민 신경 전구세포를 60% 이상 포함하는 동결 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 23 항에 있어서, 세포 응집체에, SOX1 양성 세포가 10% 이하이고, PAX6 양성 세포가 5% 이하인 동결 방법.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 세포 응집체가 500 개 내지 150000 개의 세포를 포함하는 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 동결 보존액 중에 포함되는 세포수가 80000 내지 5000000 세포/㎖ 인 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 26 항에 있어서, 동결 보존액 중에 포함되는 세포수가 200000 내지 2000000 세포/㎖ 인 동결 방법.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 원상당 지름이 150 ㎛ 내지 1000 ㎛ 인 세포 응집체인 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 28 항에 있어서, 신경계 세포를 포함하는 세포 응집체가 원상당 지름이 200 ㎛ 내지 800 ㎛ 인 세포 응집체인 동결 방법.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 보존액 중에 포함되는 세포의 수가 80000 내지 5000000 세포/㎖ 이며, 세포 응집체의 원상당 지름이 150 ㎛ 내지 1000 ㎛ 인 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 인 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 또는 제 2 항에 있어서, 세포 응집체 및 보존액이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 또는 제 2 항에 따른 방법으로 얻어지는 동결한 세포 응집체를 -80 ℃ 이하에서 유지하는 것을 포함하는, 신경계 세포를 포함하는 삼차원 구조를 갖는 세포 응집체의 장기 보존 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 또는 제 2 항에 있어서, 얻어지는 동결한 세포 응집체가 해동 후에 회복을 위한 배양을 수행하지 않고 사용될 수 있는 동결 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 또는 제 2 항에 따른 방법으로 동결 또는 장기 보존된 세포 응집체를 유효 성분으로서 함유하는 이식용 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기를 포함하는 동결된 이식용 조성물:\n다능성 줄기 세포 유래의 도파민 생산 신경 전구세포 및 도파민 생산 신경세포를 60% 이상 포함하고, 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이고, 500 개 내지 150000 개의 세포를 포함하는 세포 응집체; 및\n7% 내지 12% 의 디메틸 설폭사이드 또는 프로필렌 글리콜을 포함하고, 응고점이 -1 ℃ 내지 -10 ℃ 인 동결 보존액,\n여기에서 동결된 세포 응집체는 이하의 성질을 나타낸다:\n (1) 해동 후에 전세포수의 약 60% 이상이 생존하고 있고;\n (2) 해동 후의 세포가 동결 전과 비교하여 50% 이상의 신경돌기 신장 활성을 갖고;\n (3) 해동 후에 생존하고 있는 세포 중 FOXA2 양성 세포, LMX1A 양성 세포, NURR1 양성 세포 및 TH 양성 세포의 비율이 동결 전의 세포와 비교하여 ± 10% 이내에서 변화한다.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 36 항에 있어서, 세포 응집체의 원상당 지름이 200 ㎛ 내지 800 ㎛ 이고, 1000 개 내지 100000 개의 세포를 포함하는 동결된 이식용 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35 항에 있어서, 조성물 중의 세포수가 80000 내지 5000000 세포/㎖ 이고, 조성물이 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하는 이식용 조성물.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 38 항에 있어서, 조성물 중의 세포수가 200000 내지 2000000 세포/㎖ 인 이식용 조성물.",
+            "refers_to": [
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35 항에 있어서, 세포 응집체의 원상당 지름이 150 ㎛ 내지 1000 ㎛ 인 이식용 조성물.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35 항에 있어서, 세포 응집체의 원상당 지름이 200 ㎛ 내지 800 ㎛ 인 이식용 조성물.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35 항에 있어서, 조성물이 해동 후에 회복을 위한 배양을 수행하지 않고 사용될 수 있는 이식용 조성물.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35 항에 있어서, 조성물이 세포 응집체를 8 내지 192 개/㎖ 포함하고, 세포 응집체의 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이고, 용기 당 세포수가 80000 내지 2400000 개인 이식용 조성물.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35 항에 있어서, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 인 이식용 조성물.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35 항에 있어서, 조성물이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는 이식용 조성물.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 단계를 포함하는, 도파민 생산 신경 전구세포를 유효 성분으로서 함유하는 이식용 조성물의 제조 방법:\n제 1 항 또는 제 2 항에 따른 방법으로 세포 응집체를 동결하는 단계, 여기에서 조성물 중의 세포수는 80000 내지 5000000 세포/㎖ 이고, 세포 응집체는 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 40% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 40% 이하 포함하고, 세포 응집체는 원상당 지름이 150 ㎛ 내지 1000 ㎛ 이다.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 46 항에 있어서, 세포 응집체는 FOXA2 양성 및 LMX1A 양성 세포를 전세포수의 60% 이상 포함하고, TH 양성 및 NURR1 양성 세포를 전세포수의 1 내지 20% 포함하는 제조 방법.",
+            "refers_to": [
+              46
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 46 항에 있어서, 조성물이 원상당 지름이 150 ㎛ 내지 1000 ㎛ 인 세포 응집체의 집단을 포함하고, 용기 당 세포수가 80000 내지 2400000 개이고, 세포 응집체 및 보존액의 부피가 0.25 ㎖ 내지 2 ㎖ 이고, 조성물이 0.5 ㎖ 내지 15 ㎖ 의 용기에 충전되어 있는, 신경계 세포의 응집체를 유효 성분으로서 함유하는 이식용 조성물의 제조 방법.",
+            "refers_to": [
+              46
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35 항에 있어서, 이하의 공정에 의해, 도파민 생산 신경의 재생을 필요로 하는 질환의 치료를 위해 사용되는 이식용 조성물:\n (1) 제 35 항에 따른 이식용 조성물을 30 ℃ 내지 40 ℃, 또는 37 ℃ ± 3 ℃ 에서 해동하는 공정; 및\n (2) (1) 에서 얻어진 이식용 조성물을 환자의 선조체 영역에 이식하는 공정.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 49 항에 있어서, 해동 후에 배양을 수행하지 않고 동결 보존액을 투여 매체로 치환하여 공정 (2) 를 수행하는 이식용 조성물.",
+            "refers_to": [
+              49
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 49 항에 있어서, 질환이 척수 손상, 운동신경 질환, 다발성 경화증, 근위축성 측축 경화증, 위축성 측삭 경화증, 헌팅턴 무도증병, 다계통 위축증, 척수 소뇌 변성증, 알츠하이머병, 망막색소변성증, 노인성 황반변성, 파킨슨 증후군, 또는 파킨슨병인 이식용 조성물.",
+            "refers_to": [
+              49
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 31,
+      "after_claim_count": 50,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2021.05.27",
+      "internationOpenNumber": "WO2021100829",
+      "internationalApplicationDate": "2020.11.19",
+      "internationalApplicationNumber": "PCT/JP2020/043275"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "일본 ***-**** 도쿄도 쥬오쿠 니혼바시 *쵸메 *방 *고",
+        "code": "520250577341",
+        "country": "일본",
+        "engName": "RACTHERA Co., Ltd.",
+        "name": "가부시키가이샤 락세라"
+      },
+      {
+        "address": "일본 교토후 교토시 사쿄쿠 요시다혼마치 **반치 *",
+        "code": "520050514104",
+        "country": "일본",
+        "engName": "KYOTO UNIVERSITY",
+        "name": "고쿠리츠 다이가쿠 호진 교토 다이가쿠"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "일본 효고켕 고베시 쥬오쿠 미나토지마미나미마치 *쵸...",
+        "code": "",
+        "country": "",
+        "engName": "HIRAMATSU, SATOE",
+        "name": "히라마츠 사토에"
+      },
+      {
+        "address": "일본 오사카후 스이타시 에노키쵸 ...",
+        "code": "",
+        "country": "",
+        "engName": "NAKAGAWA, TAKASHI",
+        "name": "나카가와 다카시"
+      },
+      {
+        "address": "일본 효고켕 고베시 쥬오쿠 미나토지마미나미마치 *쵸...",
+        "code": "",
+        "country": "",
+        "engName": "YOSHIDA, KENJI",
+        "name": "요시다 겐지"
+      },
+      {
+        "address": "일본 교토후 교토시 사쿄쿠 요시다혼마치...",
+        "code": "",
+        "country": "",
+        "engName": "TAKAHASHI, JUN",
+        "name": "다카하시 준"
+      },
+      {
+        "address": "일본 교토후 교토시 사쿄쿠 요시다혼마치...",
+        "code": "",
+        "country": "",
+        "engName": "DOI, DAISUKE",
+        "name": "도이 다이스케"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 강남대로 **길 **(역삼동, 케이피빌딩)",
+      "code": "920011000013",
+      "country": "대한민국",
+      "engName": "Koreana Patent Firm",
+      "name": "특허법인코리아나"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "일본",
+      "priorityApplicationDate": "2019.11.20",
+      "priorityApplicationNumber": "JP-P-2019-209929"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2022.06.16",
+        "receiptNumber": "1-1-2022-0631720-30"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2022.06.22",
+        "receiptNumber": "1-5-2022-0093295-44"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.09.20",
+        "receiptNumber": "4-1-2022-5220804-24"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.10.25",
+        "receiptNumber": "1-1-2023-1172880-06"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.10.25",
+        "receiptNumber": "1-1-2023-1172881-41"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2025.08.29",
+        "receiptNumber": "1-1-2025-0993241-76"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.13",
+        "receiptNumber": "9-5-2025-0982658-90"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020227020620.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93fadba541b6eabba9099fde4bc075bdf619d624f8e69843e006e79070a83fccd00ba062d9b06cf3f2fe43bee87062b9e7caf42faa3b5b50b2",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf83e22141e7e6467cda42fbdc8cdf8a3c99c1d71e222feaf75a7bd11e7cfb56b35083d0a28b6a66f6487151234e5900b8844dd1814d355a61"
+  },
+  "rndInfoArray": ""
+}

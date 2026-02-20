@@ -1,0 +1,3688 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.05.01",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7036221",
+      "claimCount": "33",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "암 치료",
+      "inventionTitleEng": "CANCER TREATMENT",
+      "openDate": "2022.01.11",
+      "openNumber": "10-2022-0004077",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.04.28",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2021.11.05"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/39"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 9/06"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 9/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 37/02"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 37/04"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 개시내용은 암 및 전이성 종양의 치료 및/또는 예방을 위한 기술을 제공한다. 예를 들어, 일부 실시형태에서, 선천성 면역을 자극할 수 있는 생체적합물질(예를 들어, 중합체성 생체적합물질) 또는 스캐폴드가 종양 제거(예를 들어, 외과적 절제에 의해) 후 대상체의 표적 부위에 면역조절 페이로드 없이 투여된다. 이러한 기술은 종양 재성장 및/또는 전이의 발생률을 감소 또는 저해시킬 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217036221",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20211105",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 45,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "방법으로서, 종양 절제 대상체의 표적 부위에 선천성 면역 조절 성분(innate immunity modulatory component)을 포함하는 조성물을 투여하는 단계를 포함하되, 상기 선천성 면역 조절 성분은 선천성 면역의 중합체성 생체적합물질 효능제(polymeric biomaterial agonist)로 본질적으로 구성되는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 선천성 면역은 패턴 인식 수용체를 활성화시킴으로써 매개되는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 패턴 인식 수용체는 C-형 렉틴 수용체(C-type Lectin Receptor: CLR), NOD-유사 수용체(NOD-Like Receptor: NLR), RIG-I-유사 수용체(RIG-I-Like Receptor: RLR) 및/또는 톨-유사 수용체(Toll-Like Receptor: TLR)이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 선천성 면역은 인플라마솜(inflammasome)을 활성화시킴으로써 매개되는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 인플라마솜은 AIM2 인플라마솜, NLRP1(NALP1b) 인플라마솜 및/또는 NLRP3(NALP3) 인플라마솜 및/또는 NLRC4(IPAF) 인플라마솜이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 선천성 면역은 cGAS-STING 경로에 의해 매개되는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여 후 24시간에 평가될 때, 선천성 면역의 중합체성 생체적합물질 효능제가 표적 부위에 투여되지 않았을 때 관찰되는 것보다 더 많은 전염증성 사이토카인(들)이 종양 절제 대상체의 표적 부위 및/또는 신체 순환에 존재하는 것을 특징으로 하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 전염증성 사이토카인(들)은 CXCL10, IFN-α, IFN-β, IL-1β, IL-6, IL-18 및/또는 TNF-α이거나 또는 이들을 포함하는, 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 하이알루론산, 알기네이트, 키토산, 폴리아크릴산, 폴리에틸렌이민(PEI), 폴리포스파젠, 실리카 겔 또는 이들의 변형물이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 탄수화물 중합체이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 탄수화물 중합체는 키토산 또는 이들의 변형물이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 탄수화물 중합체는 카복시메틸 키토산이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 탄수화물 중합체는 하이알루론산이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 표적 부위는 종양 절제 부위인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 표적 부위는 종양 절제 부위의 4 인치 이내의 부위인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 표적 부위는 감시 림프절(sentinel lymph node)인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 상기 투여 단계는 주사에 의한, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 상기 주사는 로봇 수술 시스템으로 수행되는, 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제18항 중 어느 한 항에 있어서, 상기 투여 단계 전에 상기 대상체에서 종양 절제를 수행하는 단계를 더 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 상기 종양 절제는 비-침습적 수술(non-invasive surgery) 및/또는 최소 침습적 수술(minimally invasive surgery: MIS)에 의해 수행되는, 방법.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 상기 비-침습적 수술 및/또는 MIS는 로봇-보조 MIS, 로봇 수술 및/또는 복강경 수술이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항 또는 제21항에 있어서, 상기 투여 단계는 수술 중에 수행되는, 방법.",
+          "refers_to": [
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항 내지 제22항 중 어느 한 항에 있어서, 상기 조성물은 액체이고, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 점성 중합체 용액인, 방법.",
+          "refers_to": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항 내지 제22항 중 어느 한 항에 있어서, 상기 조성물은 액체이고, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여시 표적 부위의 제자리에서(in situ) 중합체 네트워크 생체적합물질을 형성하는, 방법.",
+          "refers_to": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 열-반응성인, 방법.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여시 대상체의 체온에 노출될 때, 표적 부위의 제자리에서 중합체 네트워크 생체적합물질을 형성하는, 방법.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항 또는 제26항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 (i) 적어도 하나의 선천성 면역 면역조절 중합체 및 (ii) 적어도 하나의 비-면역조절 중합체 또는 가교제를 포함하는, 방법.",
+          "refers_to": [
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 탄수화물 중합체 및 열-반응성 가교제를 포함하는, 방법.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항에 있어서, 상기 열-반응성 가교제는 열-반응성 중합체이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항 내지 제29항 중 어느 한 항에 있어서, 상기 중합체 네트워크 생체적합물질은 가교된 중합체 네트워크 생체적합물질이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항 내지 제27항 중 어느 한 항에 있어서, 상기 중합체 네트워크 생체적합물질은 비-가교된 중합체 네트워크 생체적합물질이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제31항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 테스트 대상체에 중합체성 생체적합물질을 투여함으로써 생체내에서 테스트될 때, 상기 선천성 면역의 중합체성 생체적합물질 효능제의 적어도 10%가 투여 후 3일 동안 생체내에서 표적 부위에 잔류하는 것을 특징으로 하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제32항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 저장 계수가 약 10Pa 내지 약 50,000Pa인 것을 특징으로 하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제33항 중 어느 한 항에 있어서, 상기 중합체성 생체적합물질은 하이드로겔이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제34항 중 어느 한 항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 종양 항원의 투여를 포함하지 않는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제35항 중 어느 한 항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 미세입자의 투여를 포함하지 않는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제36항 중 어느 한 항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 면역 세포의 입양 전달(adoptive transfer)을 포함하지 않는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제37항 중 어느 한 항에 있어서, 상기 투여 단계는 면역조절 페이로드(immunomodulatory payload)의 투여를 포함하지 않는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제38항 중 어느 한 항에 있어서, 상기 중합체성 생체적합물질은 생체내에서 생분해성인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제39항 중 어느 한 항에 있어서, 상기 종양 절제 부위는 총 잔류 종양 항원의 부재를 특징으로 하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제40항 중 어느 한 항에 있어서, 상기 종양 절제 대상체는 전이성 암을 앓고 있는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 투여 후 상기 종양 절제 대상체에서 적어도 하나의 전이 부위를 모니터링하는 단계를 더 포함하는, 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "면역조절 성분을 포함하는 조성물을 특성화하는 방법으로서, 상기 면역조절 성분은 선천성 면역의 중합체성 생체적합물질 효능제 또는 이의 성분(들)로 본질적으로 구성되며,\n(a) 면역조절 성분을 포함하는 조성물을 테스트 대상체의 표적 부위에 투여하는 단계로서, 상기 면역조절 성분은 선천성 면역의 후보 중합체성 생체적합물질 효능제로 본질적으로 구성되는, 상기 조성물을 테스트 대상체의 표적 부위에 투여하는 단계; 및\n(b) 투여 후 24시간에 평가될 때, 상기 선천성 면역의 후보 중합체성 생체적합물질 효능제가 표적 부위에 투여되지 않았을 때 관찰되는 것보다 더 많은 전염증성 사이토카인(들)이 상기 테스트 대상체의 표적 부위 및/또는 신체 순환에 존재하는지 여부를 결정하는 단계\n를 포함하는, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항에 있어서, 상기 선천성 면역의 후보 중합체성 생체적합물질 효능제의 적어도 10%가 투여 후 3일 동안 표적 부위에 잔류하는지 여부를 결정하는 단계를 더 포함하는, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 또는 제44항에 있어서, 상기 표적 부위는 마우스 대상체의 유방 지방 패드(mammary fat pad)인, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+          "refers_to": [
+            43,
+            44
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20230428",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 45,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "방법으로서, 종양 절제 대상체의 표적 부위에 선천성 면역 조절 성분(innate immunity modulatory component)을 포함하는 조성물을 투여하는 단계를 포함하되, 상기 선천성 면역 조절 성분은 선천성 면역의 중합체성 생체적합물질 효능제(polymeric biomaterial agonist)로 본질적으로 구성되는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 선천성 면역은 패턴 인식 수용체를 활성화시킴으로써 매개되는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 패턴 인식 수용체는 C-형 렉틴 수용체(C-type Lectin Receptor: CLR), NOD-유사 수용체(NOD-Like Receptor: NLR), RIG-I-유사 수용체(RIG-I-Like Receptor: RLR) 및/또는 톨-유사 수용체(Toll-Like Receptor: TLR)이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 선천성 면역은 인플라마솜(inflammasome)을 활성화시킴으로써 매개되는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 인플라마솜은 AIM2 인플라마솜, NLRP1(NALP1b) 인플라마솜 및/또는 NLRP3(NALP3) 인플라마솜 및/또는 NLRC4(IPAF) 인플라마솜이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 선천성 면역은 cGAS-STING 경로에 의해 매개되는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여 후 24시간에 평가될 때, 선천성 면역의 중합체성 생체적합물질 효능제가 표적 부위에 투여되지 않았을 때 관찰되는 것보다 더 많은 전염증성 사이토카인(들)이 종양 절제 대상체의 표적 부위 및/또는 신체 순환에 존재하는 것을 특징으로 하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 상기 전염증성 사이토카인(들)은 CXCL10, IFN-α, IFN-β, IL-1β, IL-6, IL-18 및/또는 TNF-α이거나 또는 이들을 포함하는, 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 하이알루론산, 알기네이트, 키토산, 폴리아크릴산, 폴리에틸렌이민(PEI), 폴리포스파젠, 실리카 겔 또는 이들의 변형물이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 탄수화물 중합체이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 탄수화물 중합체는 키토산 또는 이들의 변형물이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 탄수화물 중합체는 카복시메틸 키토산이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 탄수화물 중합체는 하이알루론산이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 표적 부위는 종양 절제 부위인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 표적 부위는 종양 절제 부위의 4 인치 이내의 부위인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 표적 부위는 감시 림프절(sentinel lymph node)인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 상기 투여 단계는 주사에 의한, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, 상기 주사는 로봇 수술 시스템으로 수행되는, 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제18항 중 어느 한 항에 있어서, 상기 투여 단계 전에 상기 대상체에서 종양 절제를 수행하는 단계를 더 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, 상기 종양 절제는 비-침습적 수술(non-invasive surgery) 및/또는 최소 침습적 수술(minimally invasive surgery: MIS)에 의해 수행되는, 방법.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항에 있어서, 상기 비-침습적 수술 및/또는 MIS는 로봇-보조 MIS, 로봇 수술 및/또는 복강경 수술이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항 또는 제21항에 있어서, 상기 투여 단계는 수술 중에 수행되는, 방법.",
+          "refers_to": [
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항 내지 제22항 중 어느 한 항에 있어서, 상기 조성물은 액체이고, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 점성 중합체 용액인, 방법.",
+          "refers_to": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항 내지 제22항 중 어느 한 항에 있어서, 상기 조성물은 액체이고, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여시 표적 부위의 제자리에서(in situ) 중합체 네트워크 생체적합물질을 형성하는, 방법.",
+          "refers_to": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 열-반응성인, 방법.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제25항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여시 대상체의 체온에 노출될 때, 표적 부위의 제자리에서 중합체 네트워크 생체적합물질을 형성하는, 방법.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제25항 또는 제26항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 (i) 적어도 하나의 선천성 면역 면역조절 중합체 및 (ii) 적어도 하나의 비-면역조절 중합체 또는 가교제를 포함하는, 방법.",
+          "refers_to": [
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 탄수화물 중합체 및 열-반응성 가교제를 포함하는, 방법.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제28항에 있어서, 상기 열-반응성 가교제는 열-반응성 중합체이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항 내지 제29항 중 어느 한 항에 있어서, 상기 중합체 네트워크 생체적합물질은 가교된 중합체 네트워크 생체적합물질이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항 내지 제27항 중 어느 한 항에 있어서, 상기 중합체 네트워크 생체적합물질은 비-가교된 중합체 네트워크 생체적합물질이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제31항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 테스트 대상체에 중합체성 생체적합물질을 투여함으로써 생체내에서 테스트될 때, 상기 선천성 면역의 중합체성 생체적합물질 효능제의 적어도 10%가 투여 후 3일 동안 생체내에서 표적 부위에 잔류하는 것을 특징으로 하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제32항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 저장 계수가 약 10Pa 내지 약 50,000Pa인 것을 특징으로 하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제33항 중 어느 한 항에 있어서, 상기 중합체성 생체적합물질은 하이드로겔이거나 또는 이를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제34항 중 어느 한 항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 종양 항원의 투여를 포함하지 않는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제35항 중 어느 한 항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 미세입자의 투여를 포함하지 않는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제36항 중 어느 한 항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 면역 세포의 입양 전달(adoptive transfer)을 포함하지 않는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제37항 중 어느 한 항에 있어서, 상기 투여 단계는 면역조절 페이로드(immunomodulatory payload)의 투여를 포함하지 않는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제38항 중 어느 한 항에 있어서, 상기 중합체성 생체적합물질은 생체내에서 생분해성인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제39항 중 어느 한 항에 있어서, 상기 종양 절제 부위는 총 잔류 종양 항원의 부재를 특징으로 하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제40항 중 어느 한 항에 있어서, 상기 종양 절제 대상체는 전이성 암을 앓고 있는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 투여 후 상기 종양 절제 대상체에서 적어도 하나의 전이 부위를 모니터링하는 단계를 더 포함하는, 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "면역조절 성분을 포함하는 조성물을 특성화하는 방법으로서, 상기 면역조절 성분은 선천성 면역의 중합체성 생체적합물질 효능제 또는 이의 성분(들)로 본질적으로 구성되며,(a) 면역조절 성분을 포함하는 조성물을 테스트 대상체의 표적 부위에 투여하는 단계로서, 상기 면역조절 성분은 선천성 면역의 후보 중합체성 생체적합물질 효능제로 본질적으로 구성되는, 상기 조성물을 테스트 대상체의 표적 부위에 투여하는 단계; 및(b) 투여 후 24시간에 평가될 때, 상기 선천성 면역의 후보 중합체성 생체적합물질 효능제가 표적 부위에 투여되지 않았을 때 관찰되는 것보다 더 많은 전염증성 사이토카인(들)이 상기 테스트 대상체의 표적 부위 및/또는 신체 순환에 존재하는지 여부를 결정하는 단계를 포함하는, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항에 있어서, 상기 선천성 면역의 후보 중합체성 생체적합물질 효능제의 적어도 10%가 투여 후 3일 동안 표적 부위에 잔류하는지 여부를 결정하는 단계를 더 포함하는, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항 또는 제44항에 있어서, 상기 표적 부위는 마우스 대상체의 유방 지방 패드(mammary fat pad)인, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+          "refers_to": [
+            43,
+            44
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20211105",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 45,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "방법으로서, 종양 절제 대상체의 표적 부위에 선천성 면역 조절 성분(innate immunity modulatory component)을 포함하는 조성물을 투여하는 단계를 포함하되, 상기 선천성 면역 조절 성분은 선천성 면역의 중합체성 생체적합물질 효능제(polymeric biomaterial agonist)로 본질적으로 구성되는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 선천성 면역은 패턴 인식 수용체를 활성화시킴으로써 매개되는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 패턴 인식 수용체는 C-형 렉틴 수용체(C-type Lectin Receptor: CLR), NOD-유사 수용체(NOD-Like Receptor: NLR), RIG-I-유사 수용체(RIG-I-Like Receptor: RLR) 및/또는 톨-유사 수용체(Toll-Like Receptor: TLR)이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 선천성 면역은 인플라마솜(inflammasome)을 활성화시킴으로써 매개되는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 인플라마솜은 AIM2 인플라마솜, NLRP1(NALP1b) 인플라마솜 및/또는 NLRP3(NALP3) 인플라마솜 및/또는 NLRC4(IPAF) 인플라마솜이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 선천성 면역은 cGAS-STING 경로에 의해 매개되는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여 후 24시간에 평가될 때, 선천성 면역의 중합체성 생체적합물질 효능제가 표적 부위에 투여되지 않았을 때 관찰되는 것보다 더 많은 전염증성 사이토카인(들)이 종양 절제 대상체의 표적 부위 및/또는 신체 순환에 존재하는 것을 특징으로 하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 전염증성 사이토카인(들)은 CXCL10, IFN-α, IFN-β, IL-1β, IL-6, IL-18 및/또는 TNF-α이거나 또는 이들을 포함하는, 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 하이알루론산, 알기네이트, 키토산, 폴리아크릴산, 폴리에틸렌이민(PEI), 폴리포스파젠, 실리카 겔 또는 이들의 변형물이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 탄수화물 중합체이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 탄수화물 중합체는 키토산 또는 이들의 변형물이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 탄수화물 중합체는 카복시메틸 키토산이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 탄수화물 중합체는 하이알루론산이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 표적 부위는 종양 절제 부위인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 표적 부위는 종양 절제 부위의 4 인치 이내의 부위인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 표적 부위는 감시 림프절(sentinel lymph node)인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 상기 투여 단계는 주사에 의한, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 상기 주사는 로봇 수술 시스템으로 수행되는, 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제18항 중 어느 한 항에 있어서, 상기 투여 단계 전에 상기 대상체에서 종양 절제를 수행하는 단계를 더 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 상기 종양 절제는 비-침습적 수술(non-invasive surgery) 및/또는 최소 침습적 수술(minimally invasive surgery: MIS)에 의해 수행되는, 방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 상기 비-침습적 수술 및/또는 MIS는 로봇-보조 MIS, 로봇 수술 및/또는 복강경 수술이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항 또는 제21항에 있어서, 상기 투여 단계는 수술 중에 수행되는, 방법.",
+            "refers_to": [
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항 내지 제22항 중 어느 한 항에 있어서, 상기 조성물은 액체이고, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 점성 중합체 용액인, 방법.",
+            "refers_to": [
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항 내지 제22항 중 어느 한 항에 있어서, 상기 조성물은 액체이고, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여시 표적 부위의 제자리에서(in situ) 중합체 네트워크 생체적합물질을 형성하는, 방법.",
+            "refers_to": [
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 열-반응성인, 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제25항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여시 대상체의 체온에 노출될 때, 표적 부위의 제자리에서 중합체 네트워크 생체적합물질을 형성하는, 방법.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제25항 또는 제26항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 (i) 적어도 하나의 선천성 면역 면역조절 중합체 및 (ii) 적어도 하나의 비-면역조절 중합체 또는 가교제를 포함하는, 방법.",
+            "refers_to": [
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 탄수화물 중합체 및 열-반응성 가교제를 포함하는, 방법.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항에 있어서, 상기 열-반응성 가교제는 열-반응성 중합체이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항 내지 제29항 중 어느 한 항에 있어서, 상기 중합체 네트워크 생체적합물질은 가교된 중합체 네트워크 생체적합물질이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              24,
+              25,
+              26,
+              27,
+              28,
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항 내지 제27항 중 어느 한 항에 있어서, 상기 중합체 네트워크 생체적합물질은 비-가교된 중합체 네트워크 생체적합물질이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제31항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 테스트 대상체에 중합체성 생체적합물질을 투여함으로써 생체내에서 테스트될 때, 상기 선천성 면역의 중합체성 생체적합물질 효능제의 적어도 10%가 투여 후 3일 동안 생체내에서 표적 부위에 잔류하는 것을 특징으로 하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제32항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 저장 계수가 약 10Pa 내지 약 50,000Pa인 것을 특징으로 하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제33항 중 어느 한 항에 있어서, 상기 중합체성 생체적합물질은 하이드로겔이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제34항 중 어느 한 항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 종양 항원의 투여를 포함하지 않는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제35항 중 어느 한 항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 미세입자의 투여를 포함하지 않는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제36항 중 어느 한 항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 면역 세포의 입양 전달(adoptive transfer)을 포함하지 않는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제37항 중 어느 한 항에 있어서, 상기 투여 단계는 면역조절 페이로드(immunomodulatory payload)의 투여를 포함하지 않는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제38항 중 어느 한 항에 있어서, 상기 중합체성 생체적합물질은 생체내에서 생분해성인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제39항 중 어느 한 항에 있어서, 상기 종양 절제 부위는 총 잔류 종양 항원의 부재를 특징으로 하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제40항 중 어느 한 항에 있어서, 상기 종양 절제 대상체는 전이성 암을 앓고 있는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 투여 후 상기 종양 절제 대상체에서 적어도 하나의 전이 부위를 모니터링하는 단계를 더 포함하는, 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "면역조절 성분을 포함하는 조성물을 특성화하는 방법으로서, 상기 면역조절 성분은 선천성 면역의 중합체성 생체적합물질 효능제 또는 이의 성분(들)로 본질적으로 구성되며,\n(a) 면역조절 성분을 포함하는 조성물을 테스트 대상체의 표적 부위에 투여하는 단계로서, 상기 면역조절 성분은 선천성 면역의 후보 중합체성 생체적합물질 효능제로 본질적으로 구성되는, 상기 조성물을 테스트 대상체의 표적 부위에 투여하는 단계; 및\n(b) 투여 후 24시간에 평가될 때, 상기 선천성 면역의 후보 중합체성 생체적합물질 효능제가 표적 부위에 투여되지 않았을 때 관찰되는 것보다 더 많은 전염증성 사이토카인(들)이 상기 테스트 대상체의 표적 부위 및/또는 신체 순환에 존재하는지 여부를 결정하는 단계\n를 포함하는, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항에 있어서, 상기 선천성 면역의 후보 중합체성 생체적합물질 효능제의 적어도 10%가 투여 후 3일 동안 표적 부위에 잔류하는지 여부를 결정하는 단계를 더 포함하는, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 또는 제44항에 있어서, 상기 표적 부위는 마우스 대상체의 유방 지방 패드(mammary fat pad)인, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+            "refers_to": [
+              43,
+              44
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20211105",
+        "document_name": "[국제단계보정서 번역문]서류제출서",
+        "claim_count": 28,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "방법으로서, 종양 절제 대상체의 표적 부위에 선천성 면역 조절 성분(innate immunity modulatory component)을 포함하는 조성물을 투여하는 단계를 포함하되, 상기 선천성 면역 조절 성분은 선천성 면역의 중합체성 생체적합물질 효능제(polymeric biomaterial agonist)인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 선천성 면역은 cGAS-STING 경로에 의해 매개되는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여 후 24시간에 평가될 때, 선천성 면역의 중합체성 생체적합물질 효능제가 표적 부위에 투여되지 않았을 때 관찰되는 것보다 더 많은 전염증성 사이토카인(들)이 종양 절제 대상체의 표적 부위 및/또는 신체 순환에 존재하는 것을 특징으로 하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 하이알루론산, 알기네이트, 키토산, 폴리아크릴산, 폴리에틸렌이민(PEI), 폴리포스파젠, 실리카 겔 또는 이들의 변형물이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 탄수화물 중합체이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 표적 부위는 종양 절제 부위인, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 표적 부위는 종양 절제 부위의 4 인치 이내의 부위인, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 표적 부위는 감시 림프절(sentinel lymph node)인, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 투여 단계는 주사에 의한, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 투여 단계 전에 상기 대상체에서 종양 절제를 수행하는 단계를 더 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 조성물은 액체이고, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 점성 중합체 용액인, 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 조성물은 액체이고, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여시 표적 부위의 제자리에서(in situ) 중합체 네트워크 생체적합물질을 형성하는, 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제26항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 (i) 적어도 하나의 선천성 면역 면역조절 중합체 및 (ii) 적어도 하나의 비-면역조절 중합체 또는 가교제를 포함하는, 방법.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 중합체 네트워크 생체적합물질은 가교된 중합체 네트워크 생체적합물질이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 중합체 네트워크 생체적합물질은 비-가교된 중합체 네트워크 생체적합물질이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 테스트 대상체에 중합체성 생체적합물질을 투여함으로써 생체내에서 테스트될 때, 상기 선천성 면역의 중합체성 생체적합물질 효능제의 적어도 10%가 투여 후 3일 동안 생체내에서 표적 부위에 잔류하는 것을 특징으로 하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 저장 계수가 약 10Pa 내지 약 50,000Pa인 것을 특징으로 하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 중합체성 생체적합물질은 하이드로겔이거나 또는 이를 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 종양 항원의 투여를 포함하지 않는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 미세입자의 투여를 포함하지 않는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 투여 단계는 상기 종양 절제 대상체에 대한 면역 세포의 입양 전달(adoptive transfer)을 포함하지 않는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 투여 단계는 면역조절 페이로드(immunomodulatory payload)의 투여를 포함하지 않는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 중합체성 생체적합물질은 생체내에서 생분해성인, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 상기 종양 절제 부위는 총 잔류 종양 항원의 부재를 특징으로 하는, 방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 상기 종양 절제 대상체는 전이성 암을 앓고 있는, 방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "면역조절 성분을 포함하는 조성물을 특성화하는 방법으로서, 상기 면역조절 성분은 선천성 면역 조절 성분을 포함하되, 상기 선천성 면역 조절 성분은 선천성 면역의 중합체성 생체적합물질 효능제 또는 이의 성분(들)이며,\n(a) 면역조절 성분을 포함하는 조성물을 테스트 대상체의 표적 부위에 투여하는 단계로서, 상기 면역조절 성분은 선천성 면역 조절 성분을 포함하고, 상기 선천성 면역 조절 성분은 선천성 면역의 후보 중합체성 생체적합물질 효능제인, 상기 조성물을 테스트 대상체의 표적 부위에 투여하는 단계; 및\n(b) 투여 후 24시간에 평가될 때, 상기 선천성 면역의 후보 중합체성 생체적합물질 효능제가 표적 부위에 투여되지 않았을 때 관찰되는 것보다 더 많은 전염증성 사이토카인(들)이 상기 테스트 대상체의 표적 부위 및/또는 신체 순환에 존재하는지 여부를 결정하는 단계\n를 포함하는, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항에 있어서, 상기 조성물은 선천성 면역조절 성분으로 본질적으로 구성되는, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 조성물은 선천성 면역조절 성분으로 본질적으로 구성되는, 방법.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20230428",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 47,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "암을 치료하는데 사용하기 위한 조성물로서, 상기 조성물은 선천성 면역 조절 성분(innate immunity modulatory component)을 포함하되, 상기 선천성 면역 조절 성분은 선천성 면역의 중합체성 생체적합물질 효능제(polymeric biomaterial agonist)이고, 상기 치료는 암을 앓고 있는 대상체의 종양 절제 부위에 조성물의 수술 중 투여(intraoperative administration)를 포함하는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 선천성 면역은\n(a) 패턴 인식 수용체를 활성화시키고/거나;\n(b) 인플라마솜(inflammasome)을 활성화시키고/거나;\n(c) cGAS-STING 경로를 활성화시키는 것\n에 의해 매개되는 것인, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 상기 패턴 인식 수용체는 C-형 렉틴 수용체(C-type Lectin Receptor: CLR), NOD-유사 수용체(NOD-Like Receptor: NLR), RIG-I-유사 수용체(RIG-I-Like Receptor: RLR) 및/또는 톨-유사 수용체(Toll-Like Receptor: TLR)이거나 또는 이를 포함하는 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 상기 인플라마솜은 AIM2 인플라마솜, NLRP1(NALP1b) 인플라마솜 및/또는 NLRP3(NALP3) 인플라마솜 및/또는 NLRC4(IPAF) 인플라마솜이거나 또는 이를 포함하는 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여 후 24시간에 평가될 때, 선천성 면역의 중합체성 생체적합물질 효능제가 표적 부위에 투여되지 않았을 때 관찰되는 것보다 더 많은 전염증성 사이토카인(들)이 종양 절제 대상체의 표적 부위 및/또는 신체 순환에 존재하는 것을 특징으로 하는 것인, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 상기 전염증성 사이토카인(들)은 CXCL10, IFN-α, IFN-β, IL-1β, IL-6, IL-18 및/또는 TNF-α이거나 또는 이들을 포함하는 것인, 조성물.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 하이알루론산, 알기네이트, 키토산, 폴리아크릴산, 폴리에틸렌이민(PEI), 폴리포스파젠, 실리카 겔 또는 이들의 변형물이거나 또는 이를 포함하는 것인, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 탄수화물 중합체이거나 또는 이를 포함하는 것인, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, 상기 탄수화물 중합체는\n(a) 키토산 또는 이들의 변형물;\n(b) 카복시메틸 키토산; 및/또는\n(c) 하이알루론산\n이거나 이를 포함하는 것인, 조성물.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 표적 부위는 (i) 종양 절제 부위; (ii) 종양 절제 부위의 4 인치 이내의 부위; 또는 (iii) 감시 림프절(sentinel lymph node)인, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 투여 단계는 주사에 의한 것인, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 주사는 로봇 수술 시스템으로 수행되는 것인, 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 치료는, 상기 투여 단계 전에 상기 대상체에서 종양 절제를 수행하는 단계를 더 포함하는 것인, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 종양 절제는 비-침습적 수술(non-invasive surgery) 및/또는 최소 침습적 수술(minimally invasive surgery: MIS)에 의해 수행되는 것인, 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 비-침습적 수술 및/또는 MIS는 로봇-보조 MIS, 로봇 수술 및/또는 복강경 수술이거나 또는 이를 포함하는 것인, 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 투여 단계는 수술 중에 수행되는 것인, 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 조성물은 액체이고, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 (i) 점성 중합체 용액이거나, 또는 (ii) 투여시 표적 부위의 제자리에서(in situ) 중합체 네트워크 생체적합물질을 형성하는 것인, 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 열-반응성인, 조성물.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 투여시 대상체의 체온에 노출될 때, 표적 부위의 제자리에서 중합체 네트워크 생체적합물질을 형성하는 것인, 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 (i) 적어도 하나의 선천성 면역 면역조절 중합체 및 (ii) 적어도 하나의 비-면역조절 중합체 또는 가교제를 포함하는 것인, 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는 탄수화물 중합체 및 열-반응성 가교제를 포함하는 것인, 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 열-반응성 가교제는 열-반응성 중합체이거나 또는 이를 포함하는 것인, 조성물.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 중합체 네트워크 생체적합물질은 (i) 가교된 중합체 네트워크 생체적합물질 또는 (ii) 비-가교된 중합체 네트워크 생체적합물질이거나 또는 이를 포함하는 것인, 조성물.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 선천성 면역의 중합체성 생체적합물질 효능제는\n(a) 테스트 대상체에 중합체성 생체적합물질을 투여함으로써 생체내에서 테스트될 때, 상기 선천성 면역의 중합체성 생체적합물질 효능제의 적어도 10%가 투여 후 3일 동안 생체내에서 표적 부위에 잔류하는 것을 특징으로 하고/거나;\n(b) 저장 계수가 약 10Pa 내지 약 50,000Pa인 것을 특징으로 하고/거나;\n(c) 하이드로겔이거나 또는 이를 포함하고/거나;\n(d) 생분해성 중합체이거나 또는 이를 포함하는 것인, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 투여 단계는 (i) 상기 종양 절제 대상체에 대한 종양 항원의 투여; (ii) 상기 종양 절제 대상체에 대한 미세입자의 투여; (iii) 상기 종양 절제 대상체에 대한 면역 세포의 입양 전달(adoptive transfer); 및/또는 (iv) 면역조절 페이로드(immunomodulatory payload)의 투여를 배제하는 것인, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 종양 절제 부위는 총 잔류 종양 항원의 부재를 특징으로 하는 것인, 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 종양 절제 대상체는 전이성 암을 앓고 있는 것인, 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제27항에 있어서, 투여 후 상기 종양 절제 대상체에서 적어도 하나의 전이 부위를 모니터링하는 단계를 더 포함하는 것인, 조성물.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 선천성 면역조절 성분으로 본질적으로 구성되는, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "면역조절 성분을 포함하는 조성물을 특성화하는 방법으로서, 상기 면역조절 성분은 선천성 면역 조절 성분을 포함하되, 상기 선천성 면역 조절 성분은 선천성 면역의 중합체성 생체적합물질 효능제 또는 이의 성분(들)이며,\n(a) 면역조절 성분을 포함하는 조성물을 테스트 대상체의 표적 부위에 투여하는 단계로서, 상기 면역조절 성분은 선천성 면역 조절 성분을 포함하고, 상기 선천성 면역 조절 성분은 선천성 면역의 후보 중합체성 생체적합물질 효능제인, 상기 조성물을 테스트 대상체의 표적 부위에 투여하는 단계; 및\n(b) 투여 후 24시간에 평가될 때, 상기 선천성 면역의 후보 중합체성 생체적합물질 효능제가 표적 부위에 투여되지 않았을 때 관찰되는 것보다 더 많은 전염증성 사이토카인(들)이 상기 테스트 대상체의 표적 부위 및/또는 신체 순환에 존재하는지 여부를 결정하는 단계\n를 포함하는, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제30항에 있어서, 상기 선천성 면역의 후보 중합체성 생체적합물질 효능제의 적어도 10%가 투여 후 3일 동안 표적 부위에 잔류하는지 여부를 결정하는 단계를 더 포함하는, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제30항에 있어서, 상기 표적 부위는 마우스 대상체의 유방 지방 패드(mammary fat pad)인, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제30항 내지 제32항 중 어느 한 항에 있어서, 상기 조성물은 선천성 면역조절 성분으로 본질적으로 구성되는, 면역조절 성분을 포함하는 조성물을 특성화하는 방법.",
+            "refers_to": [
+              30,
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 45,
+      "after_claim_count": 47,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.11.05",
+      "internationOpenNumber": "WO2020223698",
+      "internationalApplicationDate": "2020.05.01",
+      "internationalApplicationNumber": "PCT/US2020/031169"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 ***** 매사추세츠 케임브리지 원 브로드웨이 포틴쓰 플로어",
+      "code": "520210851468",
+      "country": "미국",
+      "engName": "SURGE Therapeutics, Inc.",
+      "name": "서지 테라퓨틱스, 인크."
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "미국 ***** 매사추세츠주...",
+      "code": "",
+      "country": "",
+      "engName": "GOLDBERG, Michael Solomon",
+      "name": "골드버그, 마이클 솔로몬"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980003619",
+        "country": "대한민국",
+        "engName": "YANG, Young June",
+        "name": "양영준"
+      },
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "920000001071",
+        "country": "대한민국",
+        "engName": "LEE, Sang Nam",
+        "name": "이상남"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2019.05.02",
+      "priorityApplicationNumber": "62/842,068"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Translation of Amendment made during International Phase] Submission of Document",
+        "documentName": "[국제단계보정서 번역문]서류제출서",
+        "receiptDate": "2021.11.05",
+        "receiptNumber": "1-1-2021-1276392-63"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.11.05",
+        "receiptNumber": "1-1-2021-1275899-20"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.12.06",
+        "receiptNumber": "1-5-2021-0191251-88"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.08.30",
+        "receiptNumber": "4-1-2022-5203698-26"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.04.28",
+        "receiptNumber": "1-1-2023-0480512-87"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.04.28",
+        "receiptNumber": "1-1-2023-0480511-31"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.31",
+        "receiptNumber": "9-5-2025-1058814-77"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217036221.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c939f0fed7b14e7e104f547896188e47b6b7e025577caf64d7c8555ee9f7e4ec65f9b9fc1274338bc379b95bbac64992c6027abe077fe40fb23",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf722767524a8073944030d7b8458c35eba6de7e93eb7ac50f069750955d50867599999eb684013ab9a3c9f436b2f7f57ec84276fcc12c99b5"
+  },
+  "rndInfoArray": ""
+}

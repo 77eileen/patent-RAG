@@ -1,0 +1,1222 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2011.09.07",
+      "applicationFlag": "",
+      "applicationNumber": "10-2011-0090665",
+      "claimCount": "30",
+      "examinerName": "조영균",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "ＲＮＡ 간섭을 유도하는 핵산 분자 및 그 용도",
+      "inventionTitleEng": "Nucleic Acid Molecule Inducing RNA interference and  the Use Thereof",
+      "openDate": "2012.05.03",
+      "openNumber": "10-2012-0042645",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2011.09.07",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2013.11.13",
+      "publicationNumber": "",
+      "registerDate": "2013.11.06",
+      "registerNumber": "10-1328568-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/113"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/7105"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 신규 구조의 RNAi를 유도하는 핵산 분자 및 그 용도에 관한 것으로, 보다 상세하게는 목적 핵산(target nucleic acid)과 상보적인 일부 영역을 포함하는 24~121nt 길이의 제1가닥과, 상기 제1가닥의 목적 핵산과 상보적인 일부 영역과 상보적 결합을 형성하는 영역을 갖는 13~21nt 길이의 제2가닥으로 구성되는 구조를 갖도록 하여 목적 유전자의 발현 억제 효율을 증가시킨 새로운 구조의 핵산 분자 및 이를 이용한 목적 유전자의 발현 억제 방법에 관한 것이다. 본 발명에 따른 핵산 분자 구조는 유전자 억제 효율을 증가시키거나, 또는 antisense DNA, antisense RNA, ribozyme, DNAzyme의 도입에 의해 siRNA와 함께 동일 목적유전자에 대한 결합력 향상 또는 synergistic cleavage가 일어나는 효과가 있어 목적 유전자 억제 효율을 증가시킬 수 있다. 아울러, 본 발명에 따른 핵산 분자를 사용함으로써 유전자 억제 효율의 지속기간을 연장시킬 수 있다. 이에 본 발명에 따른 RNAi를 유도하는 핵산 분자는 종래의 siRNA 분자들을 대체하여 siRNA를 이용한 암이나 바이러스 감염 치료 등에 활용될 수 있어 유용하다."
+    }
+  },
+  "claims": {
+    "application_number": "1020110090665",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20110907",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 30,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "목적 핵산(target nucleic acid)과 상보적인 일부 영역을 포함하는 24~121nt 길이의 제1가닥과, 상기 제1가닥의 목적 핵산과 상보적인 일부 영역과 상보적 결합을 형성하는 영역을 갖는 13~21nt 길이의 제2가닥으로 구성되는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제1가닥은 5' 말단에 1 내지 3nt의 돌출부를 가지는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제2가닥은 3' 말단에 1 내지 3nt의 돌출부를 가지는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제1가닥의 5' 방향의 말단이 블런트 말단(blunt end)인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 제1가닥과 결합하는 제2가닥의 길이는 13~16nt인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제1가닥의 목적 핵산(target nucleic acid)과 상보적인 일부 영역의 길이는 19~21nt 인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 목적 핵산은 mRNA (messenger RNA), microRNA, piRNA (piwi-interacting RNA), 코딩 DNA 서열 및 비코딩 DNA 서열 중 어느 하나인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제1가닥 중 제2가닥과 상보적 결합을 형성하지 않는 단일 가닥 영역은, 링커에 의하여 상기 제2가닥과 상보적 결합을 형성하는 영역에 연결되는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 상기 링커는 화학적 링커(chemical linker)임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 화학적 링커는 핵산 (a nucleic acid moiety), PNA (a PNA moiety), 펩타이드 (a peptide moiety), 다이설퍼이드 결합 (a disulfide bond) 또는 폴리에틸렌 글리콜 (a polyethylene glycol moiety)인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제1가닥은 단일 가닥 영역에 상기 목적 핵산과 상보적인 서열을 추가로 함유하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제1가닥은 단일 가닥 영역에 안티센스 DNA, 안티센스 RNA, 라이보자임 및 DNAzyme으로 구성된 군에서 선택되는 핵산올리고뉴클레오티드를 추가로 포함하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 화학적 변형을 포함하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 화학적 변형은 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드의 리보스의 2' 위치의 히드록실기가 수소원자, 불소원자, -O-알킬기, -O-아실기 및 아미노기 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 화학적 변형은 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드의 포스페이트 백본이 phosphorothioate form, phosphorodithioate form, alkylphosphonate form, phosphoroamidate form 및 boranophosphate form 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 화학적 변형은 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드가 LNA (locked nucleic acid), UNA(unlocked nucleic acid), Morpholino 및 PNA (peptide nucleic acid) 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 화학적 변형은 상기 핵산 분자가 지질, 세포투과성 펩타이드(cell penetrating peptide) 및 세포 표적 리간드로 구성된 군에서 선택되는 하나 이상과 결합된 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제1가닥에서 단일 가닥 영역을 구성하는 염기 중 적어도 하나 이상이 거대한(bulky) 염기 유사체(base analog)를 포함하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자에 세포전달체가 결합되어 있는 핵산 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 상기 세포전달체는 양이온성 폴리머, 지질, 세포투과성 펩타이드(cell penetrating peptide) 및 세포 표적 리간드로 구성된 군에서 선택되는 것을 특징으로 하는 핵산 복합체.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항의 핵산 복합체를 세포 내로 도입시키는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자의 세포 내 전달방법.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자를 함유하는 유전자 발현 억제용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 상기 핵산 분자에 세포전달체를 추가로 결합시킨 것을 특징으로 하는 유전자 발현 억제용 조성물.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자를 세포 내 도입시키는 단계를 포함하는 세포 내 목적 유전자의 발현 억제 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항에 있어서, 상기 핵산 분자에 세포전달체를 추가로 결합시킨 것을 특징으로 하는 세포 내 목적 유전자의 발현 억제 방법.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자를 세포 내에서 발현시키는 단계를 포함하는 세포 내 목적 유전자의 발현 억제 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제18항 중 어느 한 항의 구조를 가지는 RNAi를 유도하는 핵산 분자를 함유하는 항암 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 상기 핵산 분자에 세포전달체를 추가로 결합시킨 것을 특징으로 하는 항암 조성물.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 상기 핵산 분자는 종양 관련 유전자를 목적유전자로 하는 것을 특징으로 하는 항암 조성물.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 상기 종양 관련 유전자는 KRAS, Wnt-1, Hec1, Survivin, Livin, Bcl-2, XIAP, Mdm2, EGF, EGFR, VEGF, VEGFR, Mcl-1, IGF1R, Akt1, Grp78, STAT3, STAT5a, β-catenin, WISP1 및 c-myc 중 어느 하나인 것을 특징으로 하는 항암 조성물.",
+          "refers_to": [
+            29
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20130611",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 30,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "목적 핵산(target nucleic acid)과 상보적인 일부 영역을 포함하는 24~121nt 길이의 제1가닥과, 상기 제1가닥의 목적 핵산과 상보적인 일부 영역과 상보적 결합을 형성하는 영역을 갖는 13~21nt 길이의 제2가닥으로 구성되는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1가닥은 5' 말단에 1 내지 3nt의 돌출부를 가지는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제2가닥은 3' 말단에 1 내지 3nt의 돌출부를 가지는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1가닥의 5' 방향의 말단이 블런트 말단(blunt end)인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 제1가닥과 결합하는 제2가닥의 길이는 13~16nt인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1가닥의 목적 핵산(target nucleic acid)과 상보적인 일부 영역의 길이는 19~21nt 인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 목적 핵산은 mRNA (messenger RNA), microRNA, piRNA (piwi-interacting RNA), 코딩 DNA 서열 및 비코딩 DNA 서열 중 어느 하나인 것을 특징으로 하는  RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1가닥 중 제2가닥과 상보적 결합을 형성하지 않는 단일 가닥 영역은, 링커에 의하여 상기 제2가닥과 상보적 결합을 형성하는 영역에 연결되는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서, 상기 링커는 화학적 링커(chemical linker)임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 화학적 링커는 핵산 (a nucleic acid moiety), PNA (a PNA moiety), 펩타이드 (a peptide moiety), 다이설퍼이드 결합 (a disulfide bond) 또는 폴리에틸렌 글리콜 (a polyethylene glycol moiety)인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1가닥은 단일 가닥 영역에 상기 목적 핵산과 상보적인 서열을 추가로 함유하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1가닥은 단일 가닥 영역에 안티센스 DNA, 안티센스 RNA, 라이보자임 및 DNAzyme으로 구성된 군에서 선택되는 핵산올리고뉴클레오티드를 추가로 포함하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 변형된 뉴클레오티드 유사체를 포함하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 변형된 뉴클레오티드 유사체는 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드의 리보스의 2' 위치의 히드록실기가 수소원자, 불소원자, -O-알킬기, -O-아실기 및 아미노기 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 변형된 뉴클레오티드 유사체는 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드의 포스페이트 백본이 phosphorothioate form, phosphorodithioate form, alkylphosphonate form, phosphoroamidate form 및 boranophosphate form 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 변형된 뉴클레오티드 유사체는 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드가 LNA (locked nucleic acid), UNA(unlocked nucleic acid), Morpholino 및 PNA (peptide nucleic acid) 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 변형된 뉴클레오티드 유사체는 상기 핵산 분자가 지질, 세포투과성 펩타이드(cell penetrating peptide) 및 세포 표적 리간드로 구성된 군에서 선택되는 하나 이상과 결합된 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1가닥에서 단일 가닥 영역을 구성하는 염기 중 적어도 하나 이상이 페닐 그룹을 가지는 deoxyadenosine 유도체를 포함하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자에 세포전달체가 결합되어 있는 핵산 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, 상기 세포전달체는 양이온성 폴리머, 지질, 세포투과성 펩타이드(cell penetrating peptide) 및 세포 표적 리간드로 구성된 군에서 선택되는 것을 특징으로 하는 핵산 복합체.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항의 핵산 복합체를 인체를 제외한 세포 내로 도입시키는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자의 세포 내 전달방법.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자를 함유하는 유전자 발현 억제용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항에 있어서, 상기 핵산 분자에 세포전달체를 추가로 결합시킨 것을 특징으로 하는 유전자 발현 억제용 조성물.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자를 인체를 제외한 세포 내 도입시키는 단계를 포함하는 세포 내 목적 유전자의 발현 억제 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 핵산 분자에 세포전달체를 추가로 결합시킨 것을 특징으로 하는 세포 내 목적 유전자의 발현 억제 방법.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자를 인체를 제외한 세포 내에서 발현시키는 단계를 포함하는 세포 내 목적 유전자의 발현 억제 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제18항 중 어느 한 항의 구조를 가지는 RNAi를 유도하는 핵산 분자를 함유하는 항암 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항에 있어서, 상기 핵산 분자에 세포전달체를 추가로 결합시킨 것을 특징으로 하는 항암 조성물.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항에 있어서, 상기 핵산 분자는 종양 관련 유전자를 목적유전자로 하는 것을 특징으로 하는 항암 조성물.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제29항에 있어서, 상기 종양 관련 유전자는 KRAS, Wnt-1, Hec1, Survivin, Livin, Bcl-2, XIAP, Mdm2, EGF, EGFR, VEGF, VEGFR, Mcl-1, IGF1R, Akt1, Grp78, STAT3, STAT5a, β-catenin, WISP1 및 c-myc 중 어느 하나인 것을 특징으로 하는 항암 조성물.",
+          "refers_to": [
+            29
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20110907",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 30,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "목적 핵산(target nucleic acid)과 상보적인 일부 영역을 포함하는 24~121nt 길이의 제1가닥과, 상기 제1가닥의 목적 핵산과 상보적인 일부 영역과 상보적 결합을 형성하는 영역을 갖는 13~21nt 길이의 제2가닥으로 구성되는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제1가닥은 5' 말단에 1 내지 3nt의 돌출부를 가지는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제2가닥은 3' 말단에 1 내지 3nt의 돌출부를 가지는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제1가닥의 5' 방향의 말단이 블런트 말단(blunt end)인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 제1가닥과 결합하는 제2가닥의 길이는 13~16nt인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제1가닥의 목적 핵산(target nucleic acid)과 상보적인 일부 영역의 길이는 19~21nt 인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 목적 핵산은 mRNA (messenger RNA), microRNA, piRNA (piwi-interacting RNA), 코딩 DNA 서열 및 비코딩 DNA 서열 중 어느 하나인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제1가닥 중 제2가닥과 상보적 결합을 형성하지 않는 단일 가닥 영역은, 링커에 의하여 상기 제2가닥과 상보적 결합을 형성하는 영역에 연결되는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, 상기 링커는 화학적 링커(chemical linker)임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 화학적 링커는 핵산 (a nucleic acid moiety), PNA (a PNA moiety), 펩타이드 (a peptide moiety), 다이설퍼이드 결합 (a disulfide bond) 또는 폴리에틸렌 글리콜 (a polyethylene glycol moiety)인 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제1가닥은 단일 가닥 영역에 상기 목적 핵산과 상보적인 서열을 추가로 함유하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제1가닥은 단일 가닥 영역에 안티센스 DNA, 안티센스 RNA, 라이보자임 및 DNAzyme으로 구성된 군에서 선택되는 핵산올리고뉴클레오티드를 추가로 포함하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 화학적 변형을 포함하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 화학적 변형은 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드의 리보스의 2' 위치의 히드록실기가 수소원자, 불소원자, -O-알킬기, -O-아실기 및 아미노기 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 화학적 변형은 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드의 포스페이트 백본이 phosphorothioate form, phosphorodithioate form, alkylphosphonate form, phosphoroamidate form 및 boranophosphate form 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 화학적 변형은 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드가 LNA (locked nucleic acid), UNA(unlocked nucleic acid), Morpholino 및 PNA (peptide nucleic acid) 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 화학적 변형은 상기 핵산 분자가 지질, 세포투과성 펩타이드(cell penetrating peptide) 및 세포 표적 리간드로 구성된 군에서 선택되는 하나 이상과 결합된 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제1가닥에서 단일 가닥 영역을 구성하는 염기 중 적어도 하나 이상이 거대한(bulky) 염기 유사체(base analog)를 포함하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자에 세포전달체가 결합되어 있는 핵산 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 상기 세포전달체는 양이온성 폴리머, 지질, 세포투과성 펩타이드(cell penetrating peptide) 및 세포 표적 리간드로 구성된 군에서 선택되는 것을 특징으로 하는 핵산 복합체.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항의 핵산 복합체를 세포 내로 도입시키는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자의 세포 내 전달방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자를 함유하는 유전자 발현 억제용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, 상기 핵산 분자에 세포전달체를 추가로 결합시킨 것을 특징으로 하는 유전자 발현 억제용 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자를 세포 내 도입시키는 단계를 포함하는 세포 내 목적 유전자의 발현 억제 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 상기 핵산 분자에 세포전달체를 추가로 결합시킨 것을 특징으로 하는 세포 내 목적 유전자의 발현 억제 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자를 세포 내에서 발현시키는 단계를 포함하는 세포 내 목적 유전자의 발현 억제 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제18항 중 어느 한 항의 구조를 가지는 RNAi를 유도하는 핵산 분자를 함유하는 항암 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 상기 핵산 분자에 세포전달체를 추가로 결합시킨 것을 특징으로 하는 항암 조성물.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 상기 핵산 분자는 종양 관련 유전자를 목적유전자로 하는 것을 특징으로 하는 항암 조성물.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 상기 종양 관련 유전자는 KRAS, Wnt-1, Hec1, Survivin, Livin, Bcl-2, XIAP, Mdm2, EGF, EGFR, VEGF, VEGFR, Mcl-1, IGF1R, Akt1, Grp78, STAT3, STAT5a, β-catenin, WISP1 및 c-myc 중 어느 하나인 것을 특징으로 하는 항암 조성물.",
+            "refers_to": [
+              29
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20130611",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 9,
+        "claims": [
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 변형된 뉴클레오티드 유사체를 포함하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 변형된 뉴클레오티드 유사체는 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드의 리보스의 2' 위치의 히드록실기가 수소원자, 불소원자, -O-알킬기, -O-아실기 및 아미노기 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 변형된 뉴클레오티드 유사체는 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드의 포스페이트 백본이 phosphorothioate form, phosphorodithioate form, alkylphosphonate form, phosphoroamidate form 및 boranophosphate form 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 변형된 뉴클레오티드 유사체는 상기 핵산 분자에 포함되는 적어도 1종의 뉴클레오티드가 LNA (locked nucleic acid), UNA(unlocked nucleic acid), Morpholino 및 PNA (peptide nucleic acid) 중 어느 하나로 치환된 것임을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 변형된 뉴클레오티드 유사체는 상기 핵산 분자가 지질, 세포투과성 펩타이드(cell penetrating peptide) 및 세포 표적 리간드로 구성된 군에서 선택되는 하나 이상과 결합된 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 제1가닥에서 단일 가닥 영역을 구성하는 염기 중 적어도 하나 이상이 페닐 그룹을 가지는 deoxyadenosine 유도체를 포함하는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항의 핵산 복합체를 인체를 제외한 세포 내로 도입시키는 것을 특징으로 하는 RNAi를 유도하는 핵산 분자의 세포 내 전달방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자를 인체를 제외한 세포 내 도입시키는 단계를 포함하는 세포 내 목적 유전자의 발현 억제 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제18항 중 어느 한 항의 RNAi를 유도하는 핵산 분자를 인체를 제외한 세포 내에서 발현시키는 단계를 포함하는 세포 내 목적 유전자의 발현 억제 방법.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 30,
+      "after_claim_count": 9,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "경기도 수원시 장안구...",
+      "code": "220050013604",
+      "country": "대한민국",
+      "engName": "Research ＆ Business Foundation SUNGKYUNKWAN UNIVERSITY",
+      "name": "성균관대학교산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "서울특별시 서초구...",
+      "code": "",
+      "country": "대한민국",
+      "engName": "Lee, DongKi",
+      "name": "이동기"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 언주로 ***, **층 (역삼동, 윤익빌딩)(*T국제특허법률사무소)",
+      "code": "920030001189",
+      "country": "대한민국",
+      "engName": "LEECHEOYOUNG",
+      "name": "이처영"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "대한민국",
+        "priorityApplicationDate": "2010.10.22",
+        "priorityApplicationNumber": "1020100103701"
+      },
+      {
+        "priorityApplicationCountry": "대한민국",
+        "priorityApplicationDate": "2011.06.27",
+        "priorityApplicationNumber": "1020110062504"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020090065880 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020070028363 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20060160123 A1",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2011.09.07",
+        "receiptNumber": "1-1-2011-0699367-17"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2012.04.26",
+        "receiptNumber": "4-1-2012-5090770-53"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2012.06.20",
+        "receiptNumber": "4-1-2012-5131828-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2012.06.27",
+        "receiptNumber": "4-1-2012-5137236-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2012.08.16",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2012.09.21",
+        "receiptNumber": "9-1-2012-0073226-61"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2013.04.11",
+        "receiptNumber": "9-5-2013-0247931-40"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2013.06.11",
+        "receiptNumber": "1-1-2013-0517620-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2013.06.11",
+        "receiptNumber": "1-1-2013-0517617-83"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2013.10.29",
+        "receiptNumber": "9-5-2013-0744588-51"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2017.02.23",
+        "receiptNumber": "4-1-2017-5028829-43"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.12.14",
+        "receiptNumber": "4-1-2023-5331701-35"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.02.29",
+        "receiptNumber": "4-1-2024-5079838-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.04.09",
+        "receiptNumber": "4-1-2025-5096062-35"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020110090665.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e006fdd8a5b8e26590ca352ab5c427fcb9ed9df7a08c1fe11b61088b05bd21c70b6f7b12b353283aecce53343f127c2b59281e3a74a1cc2f596",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf23f9651308ef7926c87cbb697b1f18be828e02135dc71dca51cc70635e911d770b49f23e46e04a6f332597298ab1a12aea643317490a7273"
+  },
+  "rndInfoArray": ""
+}

@@ -1,0 +1,975 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2016.07.14",
+      "applicationFlag": "",
+      "applicationNumber": "10-2016-0089133",
+      "claimCount": "9",
+      "examinerName": "이현지",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "라티폴린 포함하는 산화적 스트레스로부터의 세포 보호용 조성물",
+      "inventionTitleEng": "COMPOSITION FOR PROTECTING CELLS FROM OXIDATIVE  STRESS COMPRISING LATIFOLIN",
+      "openDate": "2018.01.24",
+      "openNumber": "10-2018-0007790",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2016.07.14",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2018.10.22",
+      "publicationNumber": "",
+      "registerDate": "2018.10.15",
+      "registerNumber": "10-1910047-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0793"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/045"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/05"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 36/75"
+      },
+      {
+        "ipcDate": "(2016.01.01)",
+        "ipcNumber": "A23L 33/105"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 25/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 25/16"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 명세서는 라티폴린을 유효성분으로서 포함하는 조성물에 관한 것이다. 이러한 본 명세서의 조성물은 산화적 스트레스로부터 신경세포를 보호하고, 신경세포의 사멸을 억제하는 효과를 나타낸다. 또한, 세포 내에서 산화적 스트레스의 증가로 인해 발생하는 세포 사멸을 억제하는 항산화 효소의 발현을 증가시킬 수 있다. 따라서, 본 명세서의 조성물은 산화적 스트레스로부터 신경세포의 사멸로 인하여 발생될 수 있는 2차적 질병을 예방, 개선 또는 치료하는 효과를 나타낼 수 있어 약학 또는 식품 조성물로서 사용될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020160089133",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20160714",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 14,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "라티폴린 또는 이를 포함하는 강진향 추출물을 유효성분으로서 포함하는 산화적 스트레스로부터의 세포 보호용 또는 세포 사멸 억제용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 산화적 스트레스는 글루타메이트에 의해 유발된 것인 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포는 신경세포인 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "라티폴린 또는 이를 포함하는 강진향 추출물을 유효성분으로서 포함하는 신경퇴화성 질병의 치료, 예방 또는 개선용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 신경퇴화성 질병은 중풍, 근위축성 측상 경화증(루게릭병) 및 파킨슨병으로 구성된 군으로부터 선택된 하나 이상인 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n라티폴린은 강진향으로부터 분리 또는 정제된 것인 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서,\n라티폴린은 강진향 에탄올 추출물로부터 분리 또는 정제된 것인 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n라티폴린은 강진향 에탄올 추출물을 염화메틸렌으로 분획한 뒤, 염화메틸렌 분획물을 다시 헥산-초산에틸 혼합용매로 분획하고 이를 크로마토그래피로 분리된 것인 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서,\n강진향은 강진향 나무(Acronychia　pedunculata　(L.)　Miquel.) 목본의 잎, 꽃, 줄기, 열매, 뿌리, 줄기 또는 뿌리의 심재 및 이들로 구성된 군으로부터 선택된 하나 이상인 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서,\n강진향은 강진향 나무 목본의 줄기 또는 뿌리의 심재인 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n강진향 추출물은 물, 유기용매 및 이들의 혼합물로 이루어진 군에서 선택된 하나 이상의 추출물인 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 강진향 추출물은 강진향 에탄올 추출물인 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n상기 라티폴린은 조성물의 총 부피를 기준으로 0.01μM 내지 1M 농도인 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n상기 조성물은 약학 또는 식품 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20180824",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 14,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "라티폴린을 유효성분으로서 포함하고, 상기 라티폴린은 조성물의 총 부피를 기준으로 0.01μM 내지 1M 농도인, 글루타메이트 독성으로부터의 신경세포 보호용 또는 신경세포 사멸 억제용 식품 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "라티폴린을 유효성분으로서 포함하고, 상기 라티폴린은 조성물의 총 부피를 기준으로 0.01μM 내지 1M 농도인, 글루타메이트 독성에 의해 유발된 신경퇴화성 질병의 치료, 예방 또는 개선용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 신경퇴화성 질병은 중풍, 근위축성 측상 경화증(루게릭병) 및 파킨슨병으로 구성된 군으로부터 선택된 하나 이상인 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항, 제4항 및 제5항 중 어느 한 항에 있어서,라티폴린은 강진향으로부터 분리 또는 정제된 것인 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서,라티폴린은 강진향 에탄올 추출물로부터 분리 또는 정제된 것인 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서,라티폴린은 강진향 에탄올 추출물을 염화메틸렌으로 분획한 뒤, 염화메틸렌 분획물을 다시 헥산-초산에틸 혼합용매로 분획하고 이를 크로마토그래피로 분리된 것인 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서,강진향은 강진향 나무(Acronychia　pedunculata　(L.)　Miquel.) 목본의 잎, 꽃, 줄기, 열매, 뿌리, 줄기 또는 뿌리의 심재 및 이들로 구성된 군으로부터 선택된 하나 이상인 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서,강진향은 강진향 나무 목본의 줄기 또는 뿌리의 심재인 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항 또는 제5항에 있어서,상기 조성물은 약학 조성물.",
+          "refers_to": [
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20160714",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 14,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "라티폴린 또는 이를 포함하는 강진향 추출물을 유효성분으로서 포함하는 산화적 스트레스로부터의 세포 보호용 또는 세포 사멸 억제용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 산화적 스트레스는 글루타메이트에 의해 유발된 것인 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포는 신경세포인 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "라티폴린 또는 이를 포함하는 강진향 추출물을 유효성분으로서 포함하는 신경퇴화성 질병의 치료, 예방 또는 개선용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 신경퇴화성 질병은 중풍, 근위축성 측상 경화증(루게릭병) 및 파킨슨병으로 구성된 군으로부터 선택된 하나 이상인 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n라티폴린은 강진향으로부터 분리 또는 정제된 것인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서,\n라티폴린은 강진향 에탄올 추출물로부터 분리 또는 정제된 것인 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n라티폴린은 강진향 에탄올 추출물을 염화메틸렌으로 분획한 뒤, 염화메틸렌 분획물을 다시 헥산-초산에틸 혼합용매로 분획하고 이를 크로마토그래피로 분리된 것인 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서,\n강진향은 강진향 나무(Acronychia　pedunculata　(L.)　Miquel.) 목본의 잎, 꽃, 줄기, 열매, 뿌리, 줄기 또는 뿌리의 심재 및 이들로 구성된 군으로부터 선택된 하나 이상인 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서,\n강진향은 강진향 나무 목본의 줄기 또는 뿌리의 심재인 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n강진향 추출물은 물, 유기용매 및 이들의 혼합물로 이루어진 군에서 선택된 하나 이상의 추출물인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 강진향 추출물은 강진향 에탄올 추출물인 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n상기 라티폴린은 조성물의 총 부피를 기준으로 0.01μM 내지 1M 농도인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n상기 조성물은 약학 또는 식품 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20171204",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "라티폴린 또는 이를 포함하는 강진향 추출물을 유효성분으로서 포함하는 산화적 스트레스로부터의 신경세포 보호용 또는 신경세포 사멸 억제용 식품 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 산화적 스트레스는 글루타메이트에 의해 유발된 것인, 식품 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항 또는 제5항에 있어서,\n라티폴린은 강진향으로부터 분리 또는 정제된 것인 조성물.",
+            "refers_to": [
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항 또는 제5항에 있어서,\n강진향 추출물은 물, 유기용매 및 이들의 혼합물로 이루어진 군에서 선택된 하나 이상의 추출물인 조성물.",
+            "refers_to": [
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항 또는 제5항에 있어서,\n상기 라티폴린은 조성물의 총 부피를 기준으로 0.01μM 내지 1M 농도인 조성물.",
+            "refers_to": [
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항 또는 제5항에 있어서,\n상기 조성물은 약학 조성물.",
+            "refers_to": [
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20180426",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 6,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "라티폴린 또는 이를 포함하는 강진향 추출물을 유효성분으로서 포함하는, 글루타메이트 독성으로부터의 신경세포 보호용 또는 신경세포 사멸 억제용 식품 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "라티폴린 또는 이를 포함하는 강진향 추출물을 유효성분으로서 포함하는, 글루타메이트 독성에 의해 유발된 신경퇴화성 질병의 치료, 예방 또는 개선용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제4항 및 제5항 중 어느 한 항에 있어서,\n라티폴린은 강진향으로부터 분리 또는 정제된 것인 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제4항 및 제5항 중 어느 한 항에 있어서,\n강진향 추출물은 물, 유기용매 및 이들의 혼합물로 이루어진 군에서 선택된 하나 이상의 추출물인 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제4항 및 제5항 중 어느 한 항에 있어서,\n상기 라티폴린은 조성물의 총 부피를 기준으로 0.01μM 내지 1M 농도인 조성물.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20180824",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 5,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "라티폴린을 유효성분으로서 포함하고, 상기 라티폴린은 조성물의 총 부피를 기준으로 0.01μM 내지 1M 농도인, 글루타메이트 독성으로부터의 신경세포 보호용 또는 신경세포 사멸 억제용 식품 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "라티폴린을 유효성분으로서 포함하고, 상기 라티폴린은 조성물의 총 부피를 기준으로 0.01μM 내지 1M 농도인, 글루타메이트 독성에 의해 유발된 신경퇴화성 질병의 치료, 예방 또는 개선용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 14,
+      "after_claim_count": 5,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "서울특별시 성북구...",
+        "code": "319980077518",
+        "country": "대한민국",
+        "engName": "KOREA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+        "name": "한국과학기술연구원"
+      },
+      {
+        "address": "경상북도 경산시 ...",
+        "code": "120150806151",
+        "country": "대한민국",
+        "engName": "National Development Institute of Korean Medicine",
+        "name": "한약진흥재단"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "강원도 강릉...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "KWON, Hak Cheol",
+        "name": "권학철"
+      },
+      {
+        "address": "서울특별시 성북구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "LEE, Jae Wook",
+        "name": "이재욱"
+      },
+      {
+        "address": "강원도 강릉...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "PARK, Jin Soo",
+        "name": "박진수"
+      },
+      {
+        "address": "강원도 강릉...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "CHA, Jin Wook",
+        "name": "차진욱"
+      },
+      {
+        "address": "서울특별시 성북구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "LEE, Ju Young",
+        "name": "이주영"
+      },
+      {
+        "address": "대구광역시 남구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "SHIN, Heung Mook",
+        "name": "신흥묵"
+      },
+      {
+        "address": "대구광역시 수성구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "LEE, Hanna",
+        "name": "이한나"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울 종로구 종로*길 ** (수송동, **, **층)(법무법인케이씨엘)",
+        "code": "919980001311",
+        "country": "대한민국",
+        "engName": "KIM, Sun Young",
+        "name": "김 순 영"
+      },
+      {
+        "address": "서울 종로구 종로*길 ** (수송동, **, **층)(법무법인케이씨엘)",
+        "code": "919980000403",
+        "country": "대한민국",
+        "engName": "KIM, Young Chol",
+        "name": "김영철"
+      }
+    ]
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020140082500 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020150129910 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020050026465 A",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2016.07.14",
+        "receiptNumber": "1-1-2016-0681781-13"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2016.07.22",
+        "receiptNumber": "1-5-2016-0111774-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2016.08.19",
+        "receiptNumber": "1-1-2016-0806076-97"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2016.08.19",
+        "receiptNumber": "1-1-2016-0806725-10"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2017.10.10",
+        "receiptNumber": "9-5-2017-0696804-18"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2017.12.04",
+        "receiptNumber": "1-1-2017-1206385-41"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2017.12.04",
+        "receiptNumber": "1-1-2017-1206386-97"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2018.01.26",
+        "receiptNumber": "9-5-2018-0064577-71"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2018.03.23",
+        "receiptNumber": "1-1-2018-0292811-51"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2018.04.26",
+        "receiptNumber": "1-1-2018-0415881-33"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2018.04.26",
+        "receiptNumber": "1-1-2018-0415880-98"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2018.06.28",
+        "receiptNumber": "9-5-2018-0440325-03"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[법정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2018.07.24",
+        "receiptNumber": "1-1-2018-0730923-18"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "",
+        "documentName": "법정기간연장승인서",
+        "receiptDate": "2018.08.01",
+        "receiptNumber": "1-5-2018-0119839-53"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2018.08.24",
+        "receiptNumber": "1-1-2018-0840103-09"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2018.08.24",
+        "receiptNumber": "1-1-2018-0840104-44"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2018.09.21",
+        "receiptNumber": "9-5-2018-0652452-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.03.22",
+        "receiptNumber": "4-1-2024-5102250-75"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020160089133.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00336eb6057f8fe146a534706ce4b400b06ff2ada458444db8641149910fe299690129858b2815a015ccbe11beb07feeed0f68539172f12b8d",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfe12fbe7a31bb315a1740653df58c0391c2e37af78e7277ae7437e94939570ac4cdf273fc92d37089904c60b3738af5b477c2b28e1d76ae6f"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "산업통상자원부",
+      "rndDuration": "2015.09.01 ~ 2016.08.31",
+      "rndManagingInstituteName": "한국과학기술연구원",
+      "rndProjectName": "산업기술개발기반구축",
+      "rndSpecialInstituteName": "한국산업기술진흥원",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "iHTS 시스템 기반 천연물 의약/산업 바이오 소재 기술 지원센터 구축",
+      "rndTaskNumber": "1415143217"
+    }
+  }
+}

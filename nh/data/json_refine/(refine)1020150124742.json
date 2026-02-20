@@ -1,0 +1,813 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2015.09.03",
+      "applicationFlag": "",
+      "applicationNumber": "10-2015-0124742",
+      "claimCount": "15",
+      "examinerName": "이형준",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "신규한 설폰아미드계 유도체, 이의 제조방법, 이를 포함하는 암 예방 및 치료용 약학 조성물, 및 이를 이용한 암 예방 또는 치료하는 방법",
+      "inventionTitleEng": "Novel sulfone amide derivatives compound,  Manufacturing method thereof, Phamaceutical  composition for preventing and treating cancer  containing the same, and Methods for preventing and  treating cancer using the same",
+      "openDate": "",
+      "openNumber": "",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2015.09.03",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2016.11.08",
+      "publicationNumber": "",
+      "registerDate": "2016.11.02",
+      "registerNumber": "10-1674028-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07D 213/34"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/435"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/18"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 신규한 설폰아미드계 유도체, 이의 제조방법, 이를 포함하는 암 예방 및 치료용 약학 조성물에 관한 것으로, 좀 더 구체적으로 설명하면, Rab27a를 표적으로 하여 이의 발현을 저해 또는 억제하는 신규한 설폰아미드계 유도체, 이의 제조방법, 이를 포함하는 암 예방 및 치료용 약학 조성물, 이를 이용하여 암을 예방 또는 치료하는 방법에 관한 것이다"
+    }
+  },
+  "claims": {
+    "application_number": "1020150124742",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20150903",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Rab27a 발현을 저해 또는 억제하는 하기 화학식 1로 표시되는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염;\n[화학식 1]\n[이미지]\n화학식 1에서 상기 R은 [이미지], [이미지], [이미지], [이미지], [이미지], [이미지], [이미지], [이미지] 또는 [이미지]이다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, N-카데린(N-cad) 및 비멘틴(Vm) 중에서 선택된 1종 이상의 단백질 발현을 억제 또는 저해하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 화학식 1의 R은 [이미지] 또는 [이미지]인 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 화학식 1의 R은 [이미지]이며, 상피 간엽 전환(EMT) 분자의 발현을 저해 또는 억제하는 것을 특징으로 하는 표시되는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 상피 간엽 전환 분자는 피브로넥틴(FN), 콜라겐(Col) 및 민무늬 액틱(SMA) 중에서 선택된 1종 이상을 포함하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "출발물질로서 하기 화학식 2로 표시되는 화합물로부터 하기 화학식 3으로 표시되는 화합물을 제조하는 1단계;\n화학식 3으로 표시되는 화합물로부터 하기 화학식 4로 표시되는 화합물을 제조하는 2단계;\n화학식 4로 표시되는 화합물로부터 하기 화학식 1로 표시되는 설폰아미드계 유도체를 제조하는 3단계;\n를 포함하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법;\n[반응식 1]\n[이미지]\n반응식 1의 화학식 1 내지 화학식 3의 R은 [이미지], [이미지], [이미지], [이미지], [이미지], [이미지], [이미지], [이미지] 또는 [이미지]이다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 1단계는 \n아민계 화합물 및 디이소프로필에틸아민 및 클로로포름을 포함하는 용액에 화학식 2로 표시되는 화합물을 첨가, 교반하여 반응시켜서 반응생성물을 제조하는 단계;\n반응생성물을 에틸아세테이트 및 염산으로 희석하는 단계;\n희석한 반응생성물을 에틸 아세테이트로 추출한 다음, 추출한 유기물을 건조, 여과, 진공농축시켜서 진공농축물을 얻는 단계; 및\n상기 진공농축물을 플래시 칼럼 크로마트그래피를 통해 정제하는 단계;를 수행하여 화학식 3으로 표시되는 화합물을 제조하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 2단계는 화학식 3으로 표시되는 화합물을 히드라진 수화물과 반응시켜서 화학식 4로 표시되는 화합물을 제조하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 3단계는 화학식 4로 표시되는 화합물을 3,4-디히드록시벤즈알데히드와 반응시켜서 화학식 1로 표시되는 설폰아미드계 유도체를 제조하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중에서 선택된 어느 한 항의 설폰아미드계 유도체, 이의 약학적으로 허용 가능한 염 또는 이의 약학적으로 허용 가능한 담체를 유효성분으로 포함하는 암 예방 및 치료용 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 약학 조성물은 유방암 및 피부암으로 구성된 그룹으로부터 선택된 암 질환의 예방 및 치료용으로 사용되는 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 피부암이 악성 흑색종인 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 설폰아미드계 유도체는 유방암 세포 및 흑색종 세포의 침윤 및 전이이동을 억제하는 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 담체는 상기 약학 조성물을 경구용 제제, 비경구용 제제, 주사용 제재 또는 경피용 제제로 제형화시키는 담체인 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항의 약학 조성물을 치료학적 유효량으로 투여하여, Rab27a 발현을 저해 또는 억제시켜서, 유방암 및 피부암 중에서 선택된 1종 이상의 암을 예방 또는 치료하는 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, N-카데린(N-cad) 및 비멘틴(Vm) 중에서 선택된 1종 이상의 단백질 발현을 저해 또는 억제시켜서 암을 예방 또는 치료하는 방법.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 상피 간엽 전환(EMT) 분자의 발현을 저해 또는 억제시켜서 암을 예방 또는 치료하는 방법.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 상기 투여는 인간을 제외한 동물에게 투여하는 것을 특징으로 하는 암을 예방 또는 치료하는 방법.",
+          "refers_to": [
+            15
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20160830",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Rab27a 발현을 저해 또는 억제하는 하기 화학식 1로 표시되는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염;[화학식 1]화학식 1에서 상기 R은 , , , , , , ,  또는 이다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, N-카데린(N-cad) 및 비멘틴(Vm) 중에서 선택된 1종 이상의 단백질 발현을 억제 또는 저해하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 화학식 1의 R은  또는 인 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 화학식 1의 R은 이며, 상피 간엽 전환(EMT) 분자의 발현을 저해 또는 억제하는 것을 특징으로 하는 표시되는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 상피 간엽 전환 분자는 피브로넥틴(FN), 콜라겐(Col) 및 민무늬 액틱(SMA) 중에서 선택된 1종 이상을 포함하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "출발물질로서 하기 화학식 2로 표시되는 화합물로부터 하기 화학식 3으로 표시되는 화합물을 제조하는 1단계;화학식 3으로 표시되는 화합물로부터 하기 화학식 4로 표시되는 화합물을 제조하는 2단계;화학식 4로 표시되는 화합물로부터 하기 화학식 1로 표시되는 설폰아미드계 유도체를 제조하는 3단계;를 포함하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법;[반응식 1]반응식 1의 화학식 1 내지 화학식 3의 R은 , , , , , , ,  또는 이다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 1단계는 디메칠아민 및 디이소프로필에틸아민 및 클로로포름을 포함하는 용액에 화학식 2로 표시되는 화합물을 첨가, 교반하여 반응시켜서 반응생성물을 제조하는 단계;반응생성물을 에틸아세테이트 및 염산으로 희석하는 단계;희석한 반응생성물을 에틸 아세테이트로 추출한 다음, 추출한 유기물을 건조, 여과, 진공농축시켜서 진공농축물을 얻는 단계; 및상기 진공농축물을 플래시 칼럼 크로마트그래피를 통해 정제하는 단계;를 수행하여 화학식 3으로 표시되는 화합물을 제조하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 2단계는 화학식 3으로 표시되는 화합물을 히드라진 수화물과 반응시켜서 화학식 4로 표시되는 화합물을 제조하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 3단계는 화학식 4로 표시되는 화합물을 3,4-디히드록시벤즈알데히드와 반응시켜서 화학식 1로 표시되는 설폰아미드계 유도체를 제조하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중에서 선택된 어느 한 항의 설폰아미드계 유도체, 이의 약학적으로 허용 가능한 염 또는 이의 약학적으로 허용 가능한 담체를 유효성분으로 포함하는 암 예방 및 치료용 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 약학 조성물은 유방암 및 피부암으로 구성된 그룹으로부터 선택된 암 질환의 예방 및 치료용으로 사용되는 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 피부암이 악성 흑색종인 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 설폰아미드계 유도체는 유방암 세포 및 흑색종 세포의 침윤 및 전이이동을 억제하는 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 담체는 상기 약학 조성물을 경구용 제제, 비경구용 제제, 주사용 제재 또는 경피용 제제로 제형화시키는 담체인 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항의 약학 조성물을 치료학적 유효량으로 인간을 제외한 동물에게 투여하여 Rab27a 발현을 저해 또는 억제시켜서, 유방암 및 피부암 중에서 선택된 1종 이상의 암을 예방 또는 치료하는 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20150903",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 18,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Rab27a 발현을 저해 또는 억제하는 하기 화학식 1로 표시되는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염;\n[화학식 1]\n[이미지]\n화학식 1에서 상기 R은 [이미지], [이미지], [이미지], [이미지], [이미지], [이미지], [이미지], [이미지] 또는 [이미지]이다.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, N-카데린(N-cad) 및 비멘틴(Vm) 중에서 선택된 1종 이상의 단백질 발현을 억제 또는 저해하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 화학식 1의 R은 [이미지] 또는 [이미지]인 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 화학식 1의 R은 [이미지]이며, 상피 간엽 전환(EMT) 분자의 발현을 저해 또는 억제하는 것을 특징으로 하는 표시되는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 상피 간엽 전환 분자는 피브로넥틴(FN), 콜라겐(Col) 및 민무늬 액틱(SMA) 중에서 선택된 1종 이상을 포함하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "출발물질로서 하기 화학식 2로 표시되는 화합물로부터 하기 화학식 3으로 표시되는 화합물을 제조하는 1단계;\n화학식 3으로 표시되는 화합물로부터 하기 화학식 4로 표시되는 화합물을 제조하는 2단계;\n화학식 4로 표시되는 화합물로부터 하기 화학식 1로 표시되는 설폰아미드계 유도체를 제조하는 3단계;\n를 포함하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법;\n[반응식 1]\n[이미지]\n반응식 1의 화학식 1 내지 화학식 3의 R은 [이미지], [이미지], [이미지], [이미지], [이미지], [이미지], [이미지], [이미지] 또는 [이미지]이다.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 1단계는 \n아민계 화합물 및 디이소프로필에틸아민 및 클로로포름을 포함하는 용액에 화학식 2로 표시되는 화합물을 첨가, 교반하여 반응시켜서 반응생성물을 제조하는 단계;\n반응생성물을 에틸아세테이트 및 염산으로 희석하는 단계;\n희석한 반응생성물을 에틸 아세테이트로 추출한 다음, 추출한 유기물을 건조, 여과, 진공농축시켜서 진공농축물을 얻는 단계; 및\n상기 진공농축물을 플래시 칼럼 크로마트그래피를 통해 정제하는 단계;를 수행하여 화학식 3으로 표시되는 화합물을 제조하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 2단계는 화학식 3으로 표시되는 화합물을 히드라진 수화물과 반응시켜서 화학식 4로 표시되는 화합물을 제조하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 3단계는 화학식 4로 표시되는 화합물을 3,4-디히드록시벤즈알데히드와 반응시켜서 화학식 1로 표시되는 설폰아미드계 유도체를 제조하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중에서 선택된 어느 한 항의 설폰아미드계 유도체, 이의 약학적으로 허용 가능한 염 또는 이의 약학적으로 허용 가능한 담체를 유효성분으로 포함하는 암 예방 및 치료용 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 약학 조성물은 유방암 및 피부암으로 구성된 그룹으로부터 선택된 암 질환의 예방 및 치료용으로 사용되는 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 피부암이 악성 흑색종인 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 설폰아미드계 유도체는 유방암 세포 및 흑색종 세포의 침윤 및 전이이동을 억제하는 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 담체는 상기 약학 조성물을 경구용 제제, 비경구용 제제, 주사용 제재 또는 경피용 제제로 제형화시키는 담체인 것을 특징으로 하는 암 예방 및 치료용 약학 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항의 약학 조성물을 치료학적 유효량으로 투여하여, Rab27a 발현을 저해 또는 억제시켜서, 유방암 및 피부암 중에서 선택된 1종 이상의 암을 예방 또는 치료하는 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, N-카데린(N-cad) 및 비멘틴(Vm) 중에서 선택된 1종 이상의 단백질 발현을 저해 또는 억제시켜서 암을 예방 또는 치료하는 방법.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 상피 간엽 전환(EMT) 분자의 발현을 저해 또는 억제시켜서 암을 예방 또는 치료하는 방법.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 상기 투여는 인간을 제외한 동물에게 투여하는 것을 특징으로 하는 암을 예방 또는 치료하는 방법.",
+            "refers_to": [
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20160830",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 5,
+        "claims": [
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 1단계는 \n디메칠아민 및 디이소프로필에틸아민 및 클로로포름을 포함하는 용액에 화학식 2로 표시되는 화합물을 첨가, 교반하여 반응시켜서 반응생성물을 제조하는 단계;\n반응생성물을 에틸아세테이트 및 염산으로 희석하는 단계;\n희석한 반응생성물을 에틸 아세테이트로 추출한 다음, 추출한 유기물을 건조, 여과, 진공농축시켜서 진공농축물을 얻는 단계; 및\n상기 진공농축물을 플래시 칼럼 크로마트그래피를 통해 정제하는 단계;를 수행하여 화학식 3으로 표시되는 화합물을 제조하는 것을 특징으로 하는 설폰아미드계 유도체 또는 이의 약학적으로 허용 가능한 염의 제조방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항의 약학 조성물을 치료학적 유효량으로 인간을 제외한 동물에게 투여하여 Rab27a 발현을 저해 또는 억제시켜서, 유방암 및 피부암 중에서 선택된 1종 이상의 암을 예방 또는 치료하는 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 18,
+      "after_claim_count": 5,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "충청북도 괴산군...",
+        "code": "120100424110",
+        "country": "대한민국",
+        "engName": "Jungwon IACF",
+        "name": "중원대학교 산학협력단"
+      },
+      {
+        "address": "서울특별시 노원구...",
+        "code": "220070148654",
+        "country": "대한민국",
+        "engName": "KOREA INSTITUTE OF RADIOLOGICAL & MEDICAL SCIENCES",
+        "name": "한국원자력의학원"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 영등포구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Song, Jieyoung",
+        "name": "송지영"
+      },
+      {
+        "address": "경기도 수원시 영통구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Choi, Hyunkyung",
+        "name": "최현경"
+      },
+      {
+        "address": "경기도 수원시 권선구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Kang, Seongmook",
+        "name": "강성묵"
+      },
+      {
+        "address": "서울특별시 노원구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Jung, Seungyoun",
+        "name": "정승윤"
+      },
+      {
+        "address": "서울특별시 마포구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Song, Kyunghee",
+        "name": "송경희"
+      },
+      {
+        "address": "서울특별시 동대문구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Kho, Seongho",
+        "name": "고성호"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 종로구 새문안로*길 **, 도렴빌딩 ***호 (도렴동)",
+      "code": "920071000410",
+      "country": "대한민국",
+      "engName": "NAMCHON Patent & Law Firm",
+      "name": "특허법인남촌"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "App Biochem Biotechnol, 172, 1882-1897(2014.)",
+      "examinerQuotationFlag": ""
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2015.09.03",
+        "receiptNumber": "1-1-2015-0857303-17"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2015.12.16",
+        "receiptNumber": "1-1-2015-1231986-88"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2016.08.22",
+        "receiptNumber": "9-5-2016-0602541-34"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2016.08.30",
+        "receiptNumber": "1-1-2016-0844372-87"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.08.30",
+        "receiptNumber": "1-1-2016-0844339-80"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2016.10.27",
+        "receiptNumber": "9-5-2016-0776353-37"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.04.23",
+        "receiptNumber": "4-1-2019-0027536-33"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020150124742.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e002354274c177d8ba57173570b3643da05d017d998c886bde62e5f2bc3f1ef660d81dee96378f4f7c04f684e40fd1b23b51dd5b2a3cec74570",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfe9bf88b9aa468513fb4cea73df28dee97bd85a7df8f9d3f8aaf97cd9006c12c0d20d9329117e882ec3d779106a333ca5d87e90676d80061a"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "미래창조과학부",
+      "rndDuration": "2014.01.01 ~ 2014.12.31",
+      "rndManagingInstituteName": "한국원자력의학원",
+      "rndProjectName": "한국원자력의학원연구운영비지원",
+      "rndSpecialInstituteName": "한국원자력의학원",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "방사선암원천연구활성화사업",
+      "rndTaskNumber": "1711021781"
+    }
+  }
+}

@@ -1,0 +1,832 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.01.17",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-0006755",
+      "claimCount": "13",
+      "examinerName": "문동현",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "NRL(Neural retina leucine zipper)의 발현을 억제하는 비대칭 siRNA",
+      "inventionTitleEng": "Asymmetric siRNA Inhibiting Expression of NRL",
+      "openDate": "2020.07.28",
+      "openNumber": "10-2020-0090132",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.01.17",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.11.04",
+      "publicationNumber": "",
+      "registerDate": "2021.10.28",
+      "registerNumber": "10-2321425-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/113"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/713"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 27/02"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 NRL(Neural retina leucine zipper)의 발현을 억제하는 비대칭 siRNA 및 이의 용도에 관한 것으로, 더욱 상세하게는 NRL을 코딩하는 mRNA와 상보적인 서열을 포함하는 안티센스 가닥과, 상기 안티센스 가닥과 상보적 결합을 형성하는 센스 가닥을 포함하는 비대칭 siRNA 및 상기 비대칭 siRNA를 포함하는 망막질환 개선 또는 치료용 약학 조성물에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020200006755",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200117",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "NRL(Neural retina leucine zipper)을 코딩하는 mRNA와 상보적인 서열을 포함하는 안티센스 가닥과, 상기 안티센스 가닥과 상보적 결합을 형성하는 센스 가닥을 포함하고, 상기 안티센스 가닥의 5' 말단 및 센스 가닥의 3' 말단은 블런트 말단(blunt end)을 형성하는 것을 특징으로 하는 siRNA.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 센스 가닥은 15 내지 17nt의 길이를 가지고, 상기 안티센스 가닥은 16nt 이상의 길이를 가지는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 안티센스 가닥은 16 내지 31nt의 길이를 가지는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 안티센스 가닥은 19 내지 26nt의 길이를 가지는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 센스 가닥은 서열번호 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117, 119, 121, 123, 125, 127, 129, 131, 133, 135, 137, 139, 141, 143 및 145로 구성된 군에서 선택되는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, 상기 센스 가닥은 서열번호 11, 93, 95, 97, 101, 111, 119, 123, 133, 135, 143, 및 145로 구성된 군에서 선택되는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 안티센스 가닥은 서열번호 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 134, 136, 138, 140, 142, 144, 146, 153, 154, 및 155로 구성된 군에서 선택되는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 안티센스 가닥은 서열번호 12, 94, 96, 98, 102, 112, 120, 124, 134, 136, 144, 및 146, 153, 154, 및 155로 구성된 군에서 선택되는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 siRNA의 센스 가닥 또는 안티센스 가닥은 하나 이상의 화학적 변형(chemical modification)을 포함하는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 화학적 변형은 다음으로 구성된 군에서 선택된 하나 이상을 포함하는 것을 특징으로 하는 siRNA:\n뉴클레오티드 내 당 구조의 2' 탄소 위치에서 -OH기가 -CH3(메틸), -OCH3(methoxy), -NH2, -F(불소), -O-2-메톡시에틸 -O-프로필(propyl), -O-2-메틸티오에틸(methylthioethyl), -O-3-아미노프로필, -O-3-디메틸아미노프로필로 치환;\n뉴클레오티드 내 당(sugar) 구조의 산소가 황으로 치환;\n뉴클레오티드 결합이 포스포로티오에이트(phosphorothioate), 보라노포페이트(boranophosphate), 또는 메틸포스포네이트(methyl phosphonate)로 변형;\nPNA(peptide nucleic acid), LNA(locked nucleic acid) 또는 UNA(unlocked nucleic acid) 형태로의 변형; 및\n인산기(phosphate group), 친유성 화합물(lipophilic compound) 또는 세포 침투 펩타이드 결합.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 친유성 화합물(lipophilic compound)은 콜레스테롤, 토코페롤 및 탄소수 10개 이상의 장쇄지방산으로 구성된 군에서 선택되는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 센스 가닥 또는 안티센스 가닥 중 2개 이상의 뉴클레오티드 내 당 구조의 2' 탄소 위치에서 -OH기가 -OCH3(methoxy) 또는 -F(불소)로 치환되는 변형;\n센스 또는 안티센스 가닥에서 10% 이상의 뉴클레오티드 결합이 포스포로티오에이트(phosphorothioate)로 변형;\n센스 가닥의 3' 말단에 콜레스테롤 결합; 및\n안티센스 가닥의 5' 말단에 인산기(phosphate group) 결합;으로 구성된 군에서 선택된 하나 이상의 변형을 포함하는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 센스 가닥은 하기 표의 (a) 내지 (g)로 구성된 군에서 선택된 어느 하나이고, 및\n상기 안티센스 가닥은 하기 표의 (h) 내지 (q)로 구성된 군에서 선택된 어느 하나인 것을 특징으로 하는 siRNA:\n[이미지]\n(상기 서열에서 *는 포스포로티오에이트 결합(phosphorothioated bond), m은 2'-O-메틸(Methyl), 2'-F-는 2'-플루오르(Fluoro), chol은 콜레스테롤, P는 5'-인산기(Phosphate group)를 의미함).",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 siRNA는, 상기 표의 (b) 염기 서열로 이루어지는 센스 가닥 및 상기 표의 (i) 염기 서열로 이루어지는 안티센스 가닥;\n상기 표의 (b) 염기 서열로 이루어지는 센스 가닥 및 상기 표의 (n) 염기 서열로 이루어지는 안티센스 가닥;\n상기 표의 (b) 염기 서열로 이루어지는 센스 가닥 및 상기 표의 (p) 염기 서열로 이루어지는 안티센스 가닥; 또는\n상기 표의 (b) 염기 서열로 이루어지는 센스 가닥 및 상기 표의 (q) 염기 서열로 이루어지는 안티센스 가닥인 것인 siRNA.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 siRNA는 세포 관통능(cell-penetrating ability)을 가지는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 중 어느 한 항에 따른 siRNA를 포함하는 망막질환 개선 또는 치료용 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서, 상기 망막질환은 어셔 증후군, 스타가트병(Stargardt disease), 바뎃-비들 증후군, 베스트병, 맥락막 결여, 맥락망막 위축(gyrate-atrophy), 망막색소변성증, 망막 황반성 퇴화증, 레베르선천성흑내장(Leber Congenital Amaurosis; Leber's Hereditary Optic Neuropathy), BCM(Blue-cone monochromacy), 망막층간 분리, ML(Malattia Leventinese), 오구치병(Oguchi disease) 또는 레프섬병(Refsum disease)인 것을 특징으로 하는 망막질환 개선 또는 치료용 약학 조성물.",
+          "refers_to": [
+            16
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20210412",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "NRL(Neural retina leucine zipper)을 코딩하는 mRNA와 상보적인 서열을 포함하는 안티센스 가닥과, 상기 안티센스 가닥과 상보적 결합을 형성하는 센스 가닥을 포함하고, 상기 안티센스 가닥의 5' 말단 및 센스 가닥의 3' 말단은 블런트 말단(blunt end)을 형성하는 것을 특징으로 하는 siRNA로서,상기 센스 가닥은 서열번호 93의 염기 서열을 포함하고, 상기 안티센스 가닥은 서열번호 94, 153, 또는 155의 염기 서열을 포함하는 것을 특징으로 하는 siRNA.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 센스 가닥은 15 내지 17nt의 길이를 가지고, 상기 안티센스 가닥은 16nt 이상의 길이를 가지는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 안티센스 가닥은 16 내지 31nt의 길이를 가지는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 안티센스 가닥은 19 내지 26nt의 길이를 가지는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 siRNA의 센스 가닥 또는 안티센스 가닥은 하나 이상의 화학적 변형(chemical modification)을 포함하는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 화학적 변형은 다음으로 구성된 군에서 선택된 하나 이상을 포함하는 것을 특징으로 하는 siRNA:뉴클레오티드 내 당 구조의 2' 탄소 위치에서 -OH기가 -CH3(메틸), -OCH3(methoxy), -NH2, -F(불소), -O-2-메톡시에틸 -O-프로필(propyl), -O-2-메틸티오에틸(methylthioethyl), -O-3-아미노프로필, -O-3-디메틸아미노프로필로 치환;뉴클레오티드 내 당(sugar) 구조의 산소가 황으로 치환;뉴클레오티드 결합이 포스포로티오에이트(phosphorothioate), 보라노포스페이트(boranophosphate), 또는 메틸포스포네이트(methyl phosphonate)로 변형;PNA(peptide nucleic acid), LNA(locked nucleic acid) 또는 UNA(unlocked nucleic acid) 형태로의 변형; 및인산기(phosphate group), 친유성 화합물(lipophilic compound) 또는 세포 침투 펩타이드 결합.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 친유성 화합물(lipophilic compound)은 콜레스테롤, 토코페롤 및 탄소수 10개 이상의 장쇄지방산으로 구성된 군에서 선택되는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 센스 가닥 또는 안티센스 가닥 중 2개 이상의 뉴클레오티드 내 당 구조의 2' 탄소 위치에서 -OH기가 -OCH3(methoxy) 또는 -F(불소)로 치환되는 변형;센스 또는 안티센스 가닥에서 10% 이상의 뉴클레오티드 결합이 포스포로티오에이트(phosphorothioate)로 변형;센스 가닥의 3' 말단에 콜레스테롤 결합; 및안티센스 가닥의 5' 말단에 인산기(phosphate group) 결합;으로 구성된 군에서 선택된 하나 이상의 변형을 포함하는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 센스 가닥은 하기 표의 (a) 내지 (c) 및 (g)로 구성된 군에서 선택된 어느 하나이고, 및상기 안티센스 가닥은 하기 표의 (h) 내지 (j) 및 (n) 내지 (q)로 구성된 군에서 선택된 어느 하나인 것을 특징으로 하는 siRNA:(상기 서열에서 *는 포스포로티오에이트 결합(phosphorothioated bond), m은 2'-O-메틸(Methyl), 2'-F-는 2'-플루오르(Fluoro), chol은 콜레스테롤, P는 5'-인산기(Phosphate group)를 의미함).",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 siRNA는, 상기 표의 (b) 염기 서열로 이루어지는 센스 가닥 및 상기 표의 (i) 염기 서열로 이루어지는 안티센스 가닥;상기 표의 (b) 염기 서열로 이루어지는 센스 가닥  및 상기 표의 (n) 염기 서열로 이루어지는 안티센스 가닥;상기 표의 (b) 염기 서열로 이루어지는 센스 가닥 및 상기 표의 (p) 염기 서열로 이루어지는 안티센스 가닥; 또는상기 표의 (b) 염기 서열로 이루어지는 센스 가닥 및 상기 표의 (q) 염기 서열로 이루어지는 안티센스 가닥인 것인 siRNA.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 siRNA는 세포 관통능(cell-penetrating ability)을 가지는 것을 특징으로 하는 siRNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항, 제9항 내지 제15항 중 어느 한 항에 따른 siRNA를 포함하는 망막질환 개선 또는 치료용 약학 조성물.",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, 상기 망막질환은 어셔 증후군, 스타가트병(Stargardt disease), 바뎃-비들 증후군, 베스트병, 맥락막 결여, 맥락망막 위축(gyrate-atrophy), 망막색소변성증, 망막 황반성 퇴화증, 레베르선천성흑내장(Leber Congenital Amaurosis; Leber's Hereditary Optic Neuropathy), BCM(Blue-cone monochromacy), 망막층간 분리, ML(Malattia Leventinese), 오구치병(Oguchi disease) 또는 레프섬병(Refsum disease)인 것을 특징으로 하는 망막질환 개선 또는 치료용 약학 조성물.",
+          "refers_to": [
+            16
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200117",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 17,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "NRL(Neural retina leucine zipper)을 코딩하는 mRNA와 상보적인 서열을 포함하는 안티센스 가닥과, 상기 안티센스 가닥과 상보적 결합을 형성하는 센스 가닥을 포함하고, 상기 안티센스 가닥의 5' 말단 및 센스 가닥의 3' 말단은 블런트 말단(blunt end)을 형성하는 것을 특징으로 하는 siRNA.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 센스 가닥은 15 내지 17nt의 길이를 가지고, 상기 안티센스 가닥은 16nt 이상의 길이를 가지는 것을 특징으로 하는 siRNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 안티센스 가닥은 16 내지 31nt의 길이를 가지는 것을 특징으로 하는 siRNA.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 안티센스 가닥은 19 내지 26nt의 길이를 가지는 것을 특징으로 하는 siRNA.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 센스 가닥은 서열번호 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117, 119, 121, 123, 125, 127, 129, 131, 133, 135, 137, 139, 141, 143 및 145로 구성된 군에서 선택되는 것을 특징으로 하는 siRNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, 상기 센스 가닥은 서열번호 11, 93, 95, 97, 101, 111, 119, 123, 133, 135, 143, 및 145로 구성된 군에서 선택되는 것을 특징으로 하는 siRNA.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 안티센스 가닥은 서열번호 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 112, 114, 116, 118, 120, 122, 124, 126, 128, 130, 132, 134, 136, 138, 140, 142, 144, 146, 153, 154, 및 155로 구성된 군에서 선택되는 것을 특징으로 하는 siRNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 안티센스 가닥은 서열번호 12, 94, 96, 98, 102, 112, 120, 124, 134, 136, 144, 및 146, 153, 154, 및 155로 구성된 군에서 선택되는 것을 특징으로 하는 siRNA.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 siRNA의 센스 가닥 또는 안티센스 가닥은 하나 이상의 화학적 변형(chemical modification)을 포함하는 것을 특징으로 하는 siRNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 화학적 변형은 다음으로 구성된 군에서 선택된 하나 이상을 포함하는 것을 특징으로 하는 siRNA:\n뉴클레오티드 내 당 구조의 2' 탄소 위치에서 -OH기가 -CH3(메틸), -OCH3(methoxy), -NH2, -F(불소), -O-2-메톡시에틸 -O-프로필(propyl), -O-2-메틸티오에틸(methylthioethyl), -O-3-아미노프로필, -O-3-디메틸아미노프로필로 치환;\n뉴클레오티드 내 당(sugar) 구조의 산소가 황으로 치환;\n뉴클레오티드 결합이 포스포로티오에이트(phosphorothioate), 보라노포페이트(boranophosphate), 또는 메틸포스포네이트(methyl phosphonate)로 변형;\nPNA(peptide nucleic acid), LNA(locked nucleic acid) 또는 UNA(unlocked nucleic acid) 형태로의 변형; 및\n인산기(phosphate group), 친유성 화합물(lipophilic compound) 또는 세포 침투 펩타이드 결합.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 친유성 화합물(lipophilic compound)은 콜레스테롤, 토코페롤 및 탄소수 10개 이상의 장쇄지방산으로 구성된 군에서 선택되는 것을 특징으로 하는 siRNA.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 센스 가닥 또는 안티센스 가닥 중 2개 이상의 뉴클레오티드 내 당 구조의 2' 탄소 위치에서 -OH기가 -OCH3(methoxy) 또는 -F(불소)로 치환되는 변형;\n센스 또는 안티센스 가닥에서 10% 이상의 뉴클레오티드 결합이 포스포로티오에이트(phosphorothioate)로 변형;\n센스 가닥의 3' 말단에 콜레스테롤 결합; 및\n안티센스 가닥의 5' 말단에 인산기(phosphate group) 결합;으로 구성된 군에서 선택된 하나 이상의 변형을 포함하는 것을 특징으로 하는 siRNA.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 센스 가닥은 하기 표의 (a) 내지 (g)로 구성된 군에서 선택된 어느 하나이고, 및\n상기 안티센스 가닥은 하기 표의 (h) 내지 (q)로 구성된 군에서 선택된 어느 하나인 것을 특징으로 하는 siRNA:\n[이미지]\n(상기 서열에서 *는 포스포로티오에이트 결합(phosphorothioated bond), m은 2'-O-메틸(Methyl), 2'-F-는 2'-플루오르(Fluoro), chol은 콜레스테롤, P는 5'-인산기(Phosphate group)를 의미함).",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 siRNA는, 상기 표의 (b) 염기 서열로 이루어지는 센스 가닥 및 상기 표의 (i) 염기 서열로 이루어지는 안티센스 가닥;\n상기 표의 (b) 염기 서열로 이루어지는 센스 가닥 및 상기 표의 (n) 염기 서열로 이루어지는 안티센스 가닥;\n상기 표의 (b) 염기 서열로 이루어지는 센스 가닥 및 상기 표의 (p) 염기 서열로 이루어지는 안티센스 가닥; 또는\n상기 표의 (b) 염기 서열로 이루어지는 센스 가닥 및 상기 표의 (q) 염기 서열로 이루어지는 안티센스 가닥인 것인 siRNA.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 siRNA는 세포 관통능(cell-penetrating ability)을 가지는 것을 특징으로 하는 siRNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 중 어느 한 항에 따른 siRNA를 포함하는 망막질환 개선 또는 치료용 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서, 상기 망막질환은 어셔 증후군, 스타가트병(Stargardt disease), 바뎃-비들 증후군, 베스트병, 맥락막 결여, 맥락망막 위축(gyrate-atrophy), 망막색소변성증, 망막 황반성 퇴화증, 레베르선천성흑내장(Leber Congenital Amaurosis; Leber's Hereditary Optic Neuropathy), BCM(Blue-cone monochromacy), 망막층간 분리, ML(Malattia Leventinese), 오구치병(Oguchi disease) 또는 레프섬병(Refsum disease)인 것을 특징으로 하는 망막질환 개선 또는 치료용 약학 조성물.",
+            "refers_to": [
+              16
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20210412",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "NRL(Neural retina leucine zipper)을 코딩하는 mRNA와 상보적인 서열을 포함하는 안티센스 가닥과, 상기 안티센스 가닥과 상보적 결합을 형성하는 센스 가닥을 포함하고, 상기 안티센스 가닥의 5' 말단 및 센스 가닥의 3' 말단은 블런트 말단(blunt end)을 형성하는 것을 특징으로 하는 siRNA로서,\n상기 센스 가닥은 서열번호 93의 염기 서열을 포함하고, 상기 안티센스 가닥은 서열번호 94, 153, 또는 155의 염기 서열을 포함하는 것을 특징으로 하는 siRNA.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 화학적 변형은 다음으로 구성된 군에서 선택된 하나 이상을 포함하는 것을 특징으로 하는 siRNA:\n뉴클레오티드 내 당 구조의 2' 탄소 위치에서 -OH기가 -CH3(메틸), -OCH3(methoxy), -NH2, -F(불소), -O-2-메톡시에틸 -O-프로필(propyl), -O-2-메틸티오에틸(methylthioethyl), -O-3-아미노프로필, -O-3-디메틸아미노프로필로 치환;\n뉴클레오티드 내 당(sugar) 구조의 산소가 황으로 치환;\n뉴클레오티드 결합이 포스포로티오에이트(phosphorothioate), 보라노포스페이트(boranophosphate), 또는 메틸포스포네이트(methyl phosphonate)로 변형;\nPNA(peptide nucleic acid), LNA(locked nucleic acid) 또는 UNA(unlocked nucleic acid) 형태로의 변형; 및\n인산기(phosphate group), 친유성 화합물(lipophilic compound) 또는 세포 침투 펩타이드 결합.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 상기 센스 가닥은 하기 표의 (a) 내지 (c) 및 (g)로 구성된 군에서 선택된 어느 하나이고, 및\n상기 안티센스 가닥은 하기 표의 (h) 내지 (j) 및 (n) 내지 (q)로 구성된 군에서 선택된 어느 하나인 것을 특징으로 하는 siRNA:\n[이미지]\n(상기 서열에서 *는 포스포로티오에이트 결합(phosphorothioated bond), m은 2'-O-메틸(Methyl), 2'-F-는 2'-플루오르(Fluoro), chol은 콜레스테롤, P는 5'-인산기(Phosphate group)를 의미함).",
+            "refers_to": [
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 17,
+      "after_claim_count": 7,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "경기도 성남시 수정구...",
+      "code": "120100632464",
+      "country": "대한민국",
+      "engName": "OliX Pharmaceuticals, Inc.",
+      "name": "올릭스 주식회사"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 서초구...",
+        "code": "",
+        "country": "",
+        "engName": "LEE, Dong Ki",
+        "name": "이동기"
+      },
+      {
+        "address": "경기도 수원시 권선구...",
+        "code": "",
+        "country": "",
+        "engName": "LEE, Suk Young",
+        "name": "이숙영"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 강남구 언주로 **길 **, *층, **층, **층, **층(도곡동, 대림아크로텔)",
+      "code": "920051000028",
+      "country": "대한민국",
+      "engName": "Y.P.LEE,MOCK&PARTNERS",
+      "name": "리앤목특허법인"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2019.01.18",
+      "priorityApplicationNumber": "1020190006750"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020110049733 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Clin. Genet.,제82권,446-452면 (2012) 1부.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "NCBI, GenBank accession no. NM_001354768.1 (2018.12.23.) 1부.",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2020.01.17",
+        "receiptNumber": "1-1-2020-0057991-18"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.11.12",
+        "receiptNumber": "9-5-2020-0785156-88"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.01.12",
+        "receiptNumber": "1-1-2021-0040708-51"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.02.10",
+        "receiptNumber": "1-1-2021-0173057-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.03.10",
+        "receiptNumber": "1-1-2021-0282245-22"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.04.12",
+        "receiptNumber": "1-1-2021-0424995-33"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.04.12",
+        "receiptNumber": "1-1-2021-0424994-98"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.08.24",
+        "receiptNumber": "9-5-2021-0671486-89"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "",
+        "documentName": "[명세서등 보정]보정서(심사관 직권보정)",
+        "receiptDate": "2021.11.02",
+        "receiptNumber": "1-1-2021-5026994-02"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.11.05",
+        "receiptNumber": "4-1-2024-5322219-63"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020200006755.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9304228ef358c5d87c8211902b9c90d81ebffee03cc6a168151b00bfbb0f103f8ddac94002241a46ad6956580b57d89174904e5c45e8898c36",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfc9099bf323dc5fad4cc1dcbd84bd8ddb285153db041e1e7ec9bde922aefd5062e926d23b6cfe15bedf3967277ce120392780b25357a51bc6"
+  },
+  "rndInfoArray": ""
+}

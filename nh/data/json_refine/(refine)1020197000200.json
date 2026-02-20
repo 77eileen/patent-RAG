@@ -1,0 +1,1028 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.06.02",
+      "applicationFlag": "",
+      "applicationNumber": "10-2019-7000200",
+      "claimCount": "15",
+      "examinerName": "최성호",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "Cas9 뉴클레아제를 암호화하는 핵산의 식이 제어된 발현 및 이의 용도",
+      "inventionTitleEng": "DIET CONTROLLED EXPRESSION OF A NUCLEIC ACID ENCODING CAS9 NUCLEASE AND USES THEREOF",
+      "openDate": "2019.03.25",
+      "openNumber": "10-2019-0031230",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.04.09",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.10.26",
+      "publicationNumber": "",
+      "registerDate": "2021.10.20",
+      "registerNumber": "10-2317622-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2019.01.03"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/85"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/63"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "C12N 15/10"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 9/22"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 Cas 뉴클레아제를 이용하는 게놈 편집에 관한 것이다. 본 발명자들은 Cas 뉴클레아제의 발현이 최소의 프로모터 및 적어도 하나의 아미노산 반응 구성성분(AARE) 핵산을 포함하는 조절성 구성성분의 사용에 의해 미세하게 조절될 수 있으며, 이것은 적어도 하나의 필수 아미노산이 결여된 식이, 또는 투니카마이신에 대해 반응성임음을 발견하였다. 예를 들면, FLAG-Cas9-GFP 융합 및 Cas9-FLAG-RFP 융합은 293 T 세포에서 발현될 수 있었다. 또한, 푸로마이신 내성 유전자를 지닌 공여체 플라스미드의 존재하에서, 상기 푸로마이신 내성 유전자의 통합은 293 T 세포의 게놈에서 유전자자리 AASV1을 안전하게 지닌 부위에서 수행될 수 있다. 따라서, 본 발명은 (i) 최소의 프로모터 및 1 내지 20개의 AARE 핵산을 포함하는 조절성 폴리뉴클레오타이드, 및 (ii) 상기 조절성 폴리뉴클레오타이드의 제어 하에 있는, Cas 뉴클레아제를 암호화하는 핵산을 포함하는, 개체에서 Cas 뉴클레아제를 암호화하는 핵산의 제어된 발현을 위한 핵산에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020197000200",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20190103",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "- 최소의 프로모터(minimal promoter) 및 1 내지 20개의 아미노산 반응 구성성분(amino acid response element: AARE) 핵산을 포함하는 조절성 폴리뉴클레오타이드로, 상기 조절성 폴리뉴클레오타이드가 개체(individual)에서 적어도 하나의 필수 아미노산이 결핍된 식이의 소비시 활성화되는, 조절성 폴리뉴클레오타이드; 및\n- 상기 조절성 폴리뉴클레오타이드의 제어 하에 있는, Cas 뉴클레아제를 암호화하는 핵산을 포함하는, 개체의 적어도 하나의 표적 세포에서 Cas 뉴클레아제를 암호화하는 핵산의 제어된 발현을 위한 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1에 있어서, \nCas 뉴클레아제가 Cas9 뉴클레아제인 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1 또는 청구항 2에 있어서, \n아미노산 반응 구성성분(AARE) 핵산이 서열 번호: 1, 서열 번호: 2, 서열 번호: 3, 서열 번호: 4 및 서열 번호: 5의 서열의 핵산을 포함하는 그룹에서 선택된 핵산.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1 내지 청구항 3 중 어느 한 항에 있어서, \n조절성 폴리뉴클레오타이드가 2 내지 10개의 AARE 핵산을 포함하는 핵산.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1 내지 청구항 4 중 어느 한 항에 있어서, \n조절성 폴리뉴클레오타이드가 2 내지 6개의 AARE 핵산을 포함하는 핵산.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1 내지 청구항 5 중 어느 한 항에 따른 핵산을 포함하는, Cas 뉴클레아제를 암호화하는 핵산의 제어된 발현을 위한 핵산 벡터.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1 내지 청구항 5 중 어느 한 항에 따른 핵산 또는 청구항 6에 따른 핵산 벡터를 포함하는 전달 입자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 6에 있어서, \n표적화된 세포의 막에 노출된 표적 수용체에 결합하기에 적합한 하나 이상의 리간드를 이의 표면에 포함하는 전달 입자.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(i) 청구항 1 내지 청구항 4 중 어느 한 항에 따른 핵산 또는 청구항 5에 따른 핵산 벡터 또는 청구항 7 또는 청구항 8에 따른 전달 입자, 및 (ii) 약제학적으로 허용되는 비히클(vehicle)을 포함하는 약제학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1 내지 청구항 5 중 어느 한 항에 따른 핵산 또는 청구항 6에 따른 핵산 벡터를 포함하는 숙주 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 9에 있어서, \n의약으로서 사용하기 위한 약제학적 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 9에 있어서, \n게놈을 적어도 하나의 표적 세포내로 편집하기 위한 활성제로서 사용하기 위한 약제학적 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 12에 있어서, \n표적 세포가 적어도 하나의 유전 돌연변이를 갖는 약제학적 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 9에 따른 약제학적 조성물을 이를 필요로 하는 개체에게 투여하는 단계를 적어도 포함하는, 게놈을 적어도 하나의 표적 세포내로 편집하기 위한 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 9에 있어서, \n질환을 예방하고/하거나 치료하기 위한 활성제로서 사용하기 위한 약제학적 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 9에 따른 약제학적 조성물을 이를 필요로 하는 개체에게 투여하는 단계를 적어도 포함하는, 질환을 예방하고/하거나 치료하기 위한 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "- 청구항 9에 따른 약제학적 조성물, 및\n- 약제학적으로 활성인 화합물을 포함하는, 질환의 치료 및/또는 예방용 키트.",
+          "refers_to": [
+            9
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20210517",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "- 최소의 프로모터(minimal promoter) 및 1 내지 20개의 아미노산 반응 구성성분(amino acid response element: AARE) 핵산을 포함하는 조절성 폴리뉴클레오타이드로, 상기 조절성 폴리뉴클레오타이드가 개체(individual)에서 적어도 하나의 필수 아미노산이 결핍된 식이의 소비시 활성화되는, 조절성 폴리뉴클레오타이드; 및- 상기 조절성 폴리뉴클레오타이드의 제어 하에 있는, Cas 뉴클레아제를 암호화하는 핵산을 포함하는, 개체의 적어도 하나의 표적 세포에서 Cas 뉴클레아제를 암호화하는 핵산의 제어된 발현을 위한 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서, Cas 뉴클레아제가 Cas9 뉴클레아제인 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서, 아미노산 반응 구성성분(AARE) 핵산이 서열 번호: 1, 서열 번호: 2, 서열 번호: 3, 서열 번호: 4 및 서열 번호: 5의 서열의 핵산을 포함하는 그룹에서 선택된 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서, 조절성 폴리뉴클레오타이드가 2 내지 10개의 AARE 핵산을 포함하는 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서, 조절성 폴리뉴클레오타이드가 2 내지 6개의 AARE 핵산을 포함하는 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1 내지 청구항 5 중 어느 한 항에 따른 핵산을 포함하는, Cas 뉴클레아제를 암호화하는 핵산의 제어된 발현을 위한 핵산 벡터.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1 내지 청구항 5 중 어느 한 항에 따른 핵산을 포함하는 전달 입자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 7에 있어서, 표적화된 세포의 막에 노출된 표적 수용체에 결합하기 위한 하나 이상의 리간드를 이의 표면에 포함하는 전달 입자.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(i) 청구항 1 내지 청구항 4 중 어느 한 항에 따른 핵산, 및 (ii) 약제학적으로 허용되는 비히클(vehicle)을 포함하는 약제학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1 내지 청구항 5 중 어느 한 항에 따른 핵산을 포함하는 숙주 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 9에 있어서, 의약의 제조에 사용하기 위한 약제학적 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 9에 있어서, 게놈을 적어도 하나의 표적 세포내로 편집하기 위한 활성제로서 사용하기 위한 약제학적 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 12에 있어서, 표적 세포가 적어도 하나의 유전 돌연변이를 갖는 약제학적 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 9에 있어서, 질환을 예방하고/하거나 치료하기 위한 활성제로서 사용하기 위한 약제학적 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 9에 따른 약제학적 조성물을 포함하고 약제학적으로 활성인 화합물을 포함하는, 질환의 치료 및/또는 예방용 키트.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20190103",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 17,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "- 최소의 프로모터(minimal promoter) 및 1 내지 20개의 아미노산 반응 구성성분(amino acid response element: AARE) 핵산을 포함하는 조절성 폴리뉴클레오타이드로, 상기 조절성 폴리뉴클레오타이드가 개체(individual)에서 적어도 하나의 필수 아미노산이 결핍된 식이의 소비시 활성화되는, 조절성 폴리뉴클레오타이드; 및\n- 상기 조절성 폴리뉴클레오타이드의 제어 하에 있는, Cas 뉴클레아제를 암호화하는 핵산을 포함하는, 개체의 적어도 하나의 표적 세포에서 Cas 뉴클레아제를 암호화하는 핵산의 제어된 발현을 위한 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1에 있어서, \nCas 뉴클레아제가 Cas9 뉴클레아제인 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1 또는 청구항 2에 있어서, \n아미노산 반응 구성성분(AARE) 핵산이 서열 번호: 1, 서열 번호: 2, 서열 번호: 3, 서열 번호: 4 및 서열 번호: 5의 서열의 핵산을 포함하는 그룹에서 선택된 핵산.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1 내지 청구항 3 중 어느 한 항에 있어서, \n조절성 폴리뉴클레오타이드가 2 내지 10개의 AARE 핵산을 포함하는 핵산.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1 내지 청구항 4 중 어느 한 항에 있어서, \n조절성 폴리뉴클레오타이드가 2 내지 6개의 AARE 핵산을 포함하는 핵산.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1 내지 청구항 5 중 어느 한 항에 따른 핵산을 포함하는, Cas 뉴클레아제를 암호화하는 핵산의 제어된 발현을 위한 핵산 벡터.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1 내지 청구항 5 중 어느 한 항에 따른 핵산 또는 청구항 6에 따른 핵산 벡터를 포함하는 전달 입자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 6에 있어서, \n표적화된 세포의 막에 노출된 표적 수용체에 결합하기에 적합한 하나 이상의 리간드를 이의 표면에 포함하는 전달 입자.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(i) 청구항 1 내지 청구항 4 중 어느 한 항에 따른 핵산 또는 청구항 5에 따른 핵산 벡터 또는 청구항 7 또는 청구항 8에 따른 전달 입자, 및 (ii) 약제학적으로 허용되는 비히클(vehicle)을 포함하는 약제학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1 내지 청구항 5 중 어느 한 항에 따른 핵산 또는 청구항 6에 따른 핵산 벡터를 포함하는 숙주 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 9에 있어서, \n의약으로서 사용하기 위한 약제학적 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 9에 있어서, \n게놈을 적어도 하나의 표적 세포내로 편집하기 위한 활성제로서 사용하기 위한 약제학적 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 12에 있어서, \n표적 세포가 적어도 하나의 유전 돌연변이를 갖는 약제학적 조성물.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 9에 따른 약제학적 조성물을 이를 필요로 하는 개체에게 투여하는 단계를 적어도 포함하는, 게놈을 적어도 하나의 표적 세포내로 편집하기 위한 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 9에 있어서, \n질환을 예방하고/하거나 치료하기 위한 활성제로서 사용하기 위한 약제학적 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 9에 따른 약제학적 조성물을 이를 필요로 하는 개체에게 투여하는 단계를 적어도 포함하는, 질환을 예방하고/하거나 치료하기 위한 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "- 청구항 9에 따른 약제학적 조성물, 및\n- 약제학적으로 활성인 화합물을 포함하는, 질환의 치료 및/또는 예방용 키트.",
+            "refers_to": [
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20190107",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 5,
+        "claims": [
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1 내지 청구항 5 중 어느 한 항에 따른 핵산을 포함하는 전달 입자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 7에 있어서, \n표적화된 세포의 막에 노출된 표적 수용체에 결합하기에 적합한 하나 이상의 리간드를 이의 표면에 포함하는 전달 입자.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(i) 청구항 1 내지 청구항 4 중 어느 한 항에 따른 핵산, 및 (ii) 약제학적으로 허용되는 비히클(vehicle)을 포함하는 약제학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1 내지 청구항 5 중 어느 한 항에 따른 핵산을 포함하는 숙주 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 9에 있어서, \n의약의 제조에 사용하기 위한 약제학적 조성물.",
+            "refers_to": [
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20210517",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 8,
+        "claims": [
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서, \n아미노산 반응 구성성분(AARE) 핵산이 서열 번호: 1, 서열 번호: 2, 서열 번호: 3, 서열 번호: 4 및 서열 번호: 5의 서열의 핵산을 포함하는 그룹에서 선택된 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서, \n조절성 폴리뉴클레오타이드가 2 내지 10개의 AARE 핵산을 포함하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서, \n조절성 폴리뉴클레오타이드가 2 내지 6개의 AARE 핵산을 포함하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 7에 있어서, \n표적화된 세포의 막에 노출된 표적 수용체에 결합하기 위한 하나 이상의 리간드를 이의 표면에 포함하는 전달 입자.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 9에 있어서, \n질환을 예방하고/하거나 치료하기 위한 활성제로서 사용하기 위한 약제학적 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 9에 따른 약제학적 조성물을 포함하고 약제학적으로 활성인 화합물을 포함하는, 질환의 치료 및/또는 예방용 키트.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 17,
+      "after_claim_count": 8,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2017.12.07",
+      "internationOpenNumber": "WO2017207797",
+      "internationalApplicationDate": "2017.06.02",
+      "internationalApplicationNumber": "PCT/EP2017/063549"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "프랑스공화국, 에프-***** 빠리, 뤼 드 똘비악 ***",
+        "code": "520060148369",
+        "country": "프랑스",
+        "engName": "INSERM (Institut National de la Sante et de la Recherche Medicale)",
+        "name": "인쎄름 (엥스띠뛰 나씨오날 드 라 쌍떼 에 드 라 흐쉐르슈 메디깔)"
+      },
+      {
+        "address": "프랑스공화국, ***** 빠리, 불르바르 드 로삐딸 **/**, 오삐딸 삐띠에 쌀뻬트리에르",
+        "code": "520190004148",
+        "country": "프랑스",
+        "engName": "ICM (INSTITUT DU CERVEAU ET DE LA MOELLE EPINIERE)",
+        "name": "이씨엠 (엥스띠뛰 뒤 쎄르보 에 드 라 모엘 에삐니에르)"
+      },
+      {
+        "address": "프랑스 파리 에프-***** 뤼 미셀 앙즈 *",
+        "code": "519990618331",
+        "country": "프랑스",
+        "engName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE",
+        "name": "상뜨로 나쇼날 드 라 러쉐르쉐 샹띠피크"
+      },
+      {
+        "address": "프랑스 ***** 파리 뤼 드 르'에꼴르 드 메드씬느 **",
+        "code": "520180304722",
+        "country": "프랑스",
+        "engName": "Sorbonne Universite",
+        "name": "쏘흐본느 유니베흐시테"
+      },
+      {
+        "address": "프랑스, 파리 *****, 바띠멩 르 포낭트 디, 뤼 레블랑크 **",
+        "code": "520100140258",
+        "country": "프랑스",
+        "engName": "Commissariat A L'energie Atomique et Aux Energies Alternatives",
+        "name": "꼼미사리아 아 레네르지 아토미끄 에뜨 옥스 에너지스 앨터네이티브즈"
+      },
+      {
+        "address": "프랑스 ***** 파리 불바르 디드로 **",
+        "code": "519980719093",
+        "country": "프랑스",
+        "engName": "ASSISTANCE PUBLIQUE-HOPITAUX DE PARIS",
+        "name": "아시스땅스 퍼블리끄-오삐또 드 빠리"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "프랑스공화국, ***** 빠리, 불르바르 드 로삐딸, **, 오삐딸 삐티에 쌀뻬트리...",
+        "code": "",
+        "country": "",
+        "engName": "RAVASSARD, Philippe",
+        "name": "하바싸르, 필립"
+      },
+      {
+        "address": "프랑스공화국, ***** 빠리, 불르바르 드 로삐딸, **, 오삐딸 삐티에 쌀뻬트리...",
+        "code": "",
+        "country": "",
+        "engName": "MALLET, Jacques",
+        "name": "말레, 쟈끄"
+      },
+      {
+        "address": "프랑스공화국, ***** 퐁뜨네-오-로즈, ...",
+        "code": "",
+        "country": "",
+        "engName": "SERGUERA, Che",
+        "name": "세르게라, 체"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "경기도 성남시 분당구 대왕판교로 ***, B-***(삼평동, 유스페이스*)",
+      "code": "920101000413",
+      "country": "대한민국",
+      "engName": "ORIGIN Patent & Law Firm",
+      "name": "특허법인오리진"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "유럽특허청(EPO)",
+      "priorityApplicationDate": "2016.06.03",
+      "priorityApplicationNumber": "16172964"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Sci Signal.,8(374):doi: 10.1126/scisignal.aaa0549(2015.4.28.)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Nat Biotechnol.,33(4):390-394(2015.4.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "미국 특허출원공개공보 US2014/0322184(2014.10.30)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Nat Chem Biol.,11(3):198-200(2015.3.)",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2019.01.03",
+        "receiptNumber": "1-1-2019-0007451-45"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.01.07",
+        "receiptNumber": "1-1-2019-0017099-55"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2019.01.07",
+        "receiptNumber": "1-5-2019-0004719-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2019.02.20",
+        "receiptNumber": "1-1-2019-0178676-76"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2019.02.25",
+        "receiptNumber": "1-5-2019-0032060-76"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2020.04.09",
+        "receiptNumber": "1-1-2020-0370101-19"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.03.18",
+        "receiptNumber": "9-5-2021-0221383-08"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.05.17",
+        "receiptNumber": "1-1-2021-0567889-66"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.05.17",
+        "receiptNumber": "1-1-2021-0567923-21"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.05.27",
+        "receiptNumber": "4-1-2021-5146593-25"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.09.23",
+        "receiptNumber": "9-5-2021-0744389-48"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.08.23",
+        "receiptNumber": "4-1-2022-5196742-83"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.01.27",
+        "receiptNumber": "4-1-2023-5021013-04"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.02.17",
+        "receiptNumber": "4-1-2023-5039560-11"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020197000200.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93f89a37457391cebe1f9f60e4d7e0fde1665ea6e673efe785209c96a4e48354578e112506ee6c50f74c1eea164425ae63853842a0a3c67ee3",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf0da3e2fcde7a1b7941b71ca3fa8688b3c9714c0dd5c9c479dc9a7ceafcb1aa4023dd168e1601cb13ab171c68e03975789ab6a19e5ea3c6ed"
+  },
+  "rndInfoArray": ""
+}

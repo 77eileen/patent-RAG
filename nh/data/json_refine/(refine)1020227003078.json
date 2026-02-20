@@ -1,0 +1,950 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.07.15",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-7003078",
+      "claimCount": "25",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "CD38에 대해 특이성을 갖는 항체 및 이의 용도",
+      "inventionTitleEng": "ANTIBODIES HAVING SPECIFICITY FOR CD38 AND USES THEREOF",
+      "openDate": "2022.03.18",
+      "openNumber": "10-2022-0034807",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.07.11",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2022.01.26"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "CD38은 다발 골수종을 포함하는, 다양한 악성 혈액학적 질환에서 또한 발현된다. 본 발명에서, 발명자는 이특이적 항체 뿐만 아니라 CAR-T 세포를 생산하는데 적합할 수 있는 CD38에 대한 신규 항체를 생성하였다. 특히, 본 발명자는 MM 세포에서 CD38을 표적화하고 CD3ε을 통해 세포독성 T 세포를 보충한 새로운 이특이적인 T 세포 인게이저인, Bi38-3의 개발을 보고한다. Bi38-3은 내성 공정에 기여하는, 천연 mAb의 Fc 영역을 결여하였지만, T 세포가 증식하고, 사이토킨을 방출하고 시험관 내에서 CD38 양성 MM 세포를 용해하는 것을 개시하였다. 유사하게, Bi38-3은 자가 T 세포를 유도하여 진단시 및 재발시 둘 다에서 MM 환자로부터 단리된 종양 혈장 세포를 제거하였다. Bi38-3에 의해 개시된 세포독성은 고 수준의 CD38을 발현하는 세포에 한정되며 시험관 내에서 T, B 및 NK 림프구의 온전성을 보존하였다. 중요하게도, Bi38-3은 사람 MM의 MM1.S 이종이식체 마우스 모델에서 종양 세포를 신속하게 감소시켰다. 이와 함께, 결과는 본 발명의 항체는 CD38을 낮게 발현하는 세포에 유의적으로 영향을 미치지 않으면서 CD38 양성 악성 세포를 특이적으로 제거하는 효과적인 시약이고 악성 혈액학적 질환, 및 특히 다발 골수종의 치료를 위한 촉망되는 신규한 면역치료학적 도구를 나타냄을 입증한다."
+    }
+  },
+  "claims": {
+    "total_amendments": 1,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 25,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기를 포함하는 CD38의 세포외 도메인(extracellular domain)에 대해 결합 특이성(binding specificity)을 갖는 모노클로날 항체(monoclonal antibody):- i) 서열 번호: 5로 나타낸 바와 같은 H-CDR1, ii) 서열 번호: 6으로 나타낸 바와 같은 H-CDR2 및 iii) 서열 번호: 7로 나타낸 바와 같은 H-CDR3를 포함하는 중쇄, 및- i) 서열 번호: 8로 나타낸 바와 같은 L-CDR1, ii) 서열 번호: 9로 나타낸 바와 같은 L-CDR2; 및 iii) 서열 번호: 10으로 나타낸 바와 같은 L-CDR3을 포함하는 경쇄.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 서열 번호: 3에 나타낸 바와 같은 아미노산 서열과 적어도 70% 동일성(identity)을 갖는 VH 도메인을 포함하는, 모노클로날 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 서열 번호: 4에 나타낸 바와 같은 아미노산 서열과 적어도 70% 동일성을 갖는 VL 도메인을 포함하는, 모노클로날 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 키메라 항체, 특히 서열 번호: 3에 나타낸 바와 같은 중쇄 및/또는 서열 번호: 4에 나타낸 바와 같은 경쇄를 갖는 키메라 항체인, 모노클로날 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 사람화된 항체인, 모노클로날 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 항체의 VH 및 VL 도메인을 포함하는 scFv 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 서열 번호: 11에 나타낸 바와 같은 아미노산 서열로 이루어진 scFv 단편.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 모노클로날 항체로부터의 제1의 항원 결합 부위 및 적어도 하나의 제2의 항원 결합 부위를 포함하는 다특이적 항체(multispecific antibody).",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 제2의 항원 결합 부위가 T 세포를 보충(recruiting)하기 위해 사용되는 다특이적 항체.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 제2의 항원 결합 부위가 CD3ε의 세포외 도메인에 대해 특이성을 갖는 다특이적 항체.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 제6항에 따른 단일 쇄 가변 단편(scFv)을 포함하거나, 이로 이루어지거나, 이로 필수적으로 이루어진 항원-결합 도메인을 포함하는 다특이적 항체.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, BITE� 항체인 다특이적 항체.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 서열 번호: 12에 나타낸 바와 같은 서열을 포함하는 다특이적 항체.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 항체의 항원 결합 도메인을 포함하는 키메라 항원 수용체(CAR).",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 제6항에 따른 단일 쇄 가변 단편(scFv)을 포함하거나, 이로 이루어지거나, 이로 필수적으로 이루어진 항원-결합 도메인을 포함하는 키메라 항원 수용체(CAR).",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 세포외 힌지 도메인(extracellular hinge domain), 막관통 도메인(transmembrane domain), 및 CD28, 4-1BB, 및 CD3ξ로 이루어진 그룹으로부터 선택된 세포내 T 세포 신호전달 도메인을 포함하는 키메라 항원 수용체(CAR).",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 서열 번호: 13 또는 14에 나타낸 바와 같은 아미노산 서열로 이루어진 키메라 항원 수용체(CAR).",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 모노클로날 항체, 제8항에 따른 다특이적 항체 또는 제14항에 따른 키메라 항원 수용체(CAR)를 암호화하는 핵산 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 모노클로날 항체의 중쇄 및/또는 경쇄를 암호화하는 핵산 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 따른 핵산을 포함하는 벡터.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 모노클로날 항체, 제8항에 따른 다특이적 항체 또는 제14항에 따른 키메라 항원 수용체(CAR)를 발현하도록 가공된(engineered) 숙주 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, CAR-T 세포인 숙주 세포.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료학적 유효량의 제1항에 따른 항체 및/또는 제8항에 따른 다특이적 항체 및/또는 제22항에 따른 CAR-T 세포의 집단을 대상체에 투여함을 포함하는, 이를 필요로 하는 대상체에서의 치료요법의 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체에 치료학적 유효량의 제1항에 따른 항체 및/또는 제8항에 따른 다특이적 항체 및/또는 제22항에 따른 CAR-T 세포의 집단을 투여함을 포함하여, 이를 필요로 하는 환자에서 암 및 보다 특히 CD38-양성 혈액학적 악성종양을 치료하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "일정량의 제1항에 따른 항체 및/또는 제8항에 따른 다특이적 항체 및/또는 제22항에 따른 CAR-T 세포의 집단을 포함하는 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 25,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기를 포함하는 CD38의 세포외 도메인(extracellular domain)에 대해 결합 특이성(binding specificity)을 갖는 모노클로날 항체(monoclonal antibody):- i) 서열 번호: 5로 나타낸 바와 같은 H-CDR1, ii) 서열 번호: 6으로 나타낸 바와 같은 H-CDR2 및 iii) 서열 번호: 7로 나타낸 바와 같은 H-CDR3를 포함하는 중쇄, 및- i) 서열 번호: 8로 나타낸 바와 같은 L-CDR1, ii) 서열 번호: 9로 나타낸 바와 같은 L-CDR2; 및 iii) 서열 번호: 10으로 나타낸 바와 같은 L-CDR3을 포함하는 경쇄.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 서열 번호: 3에 나타낸 바와 같은 아미노산 서열과 적어도 70% 동일성(identity)을 갖는 VH 도메인을 포함하는, 모노클로날 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 서열 번호: 4에 나타낸 바와 같은 아미노산 서열과 적어도 70% 동일성을 갖는 VL 도메인을 포함하는, 모노클로날 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 키메라 항체, 특히 서열 번호: 3에 나타낸 바와 같은 중쇄 및/또는 서열 번호: 4에 나타낸 바와 같은 경쇄를 갖는 키메라 항체인, 모노클로날 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 사람화된 항체인, 모노클로날 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 항체의 VH 및 VL 도메인을 포함하는 scFv 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 서열 번호: 11에 나타낸 바와 같은 아미노산 서열로 이루어진 scFv 단편.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 모노클로날 항체로부터의 제1의 항원 결합 부위 및 적어도 하나의 제2의 항원 결합 부위를 포함하는 다특이적 항체(multispecific antibody).",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 제2의 항원 결합 부위가 T 세포를 보충(recruiting)하기 위해 사용되는 다특이적 항체.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 제2의 항원 결합 부위가 CD3ε의 세포외 도메인에 대해 특이성을 갖는 다특이적 항체.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 제6항에 따른 단일 쇄 가변 단편(scFv)을 포함하거나, 이로 이루어지거나, 이로 필수적으로 이루어진 항원-결합 도메인을 포함하는 다특이적 항체.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, BITE� 항체인 다특이적 항체.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 서열 번호: 12에 나타낸 바와 같은 서열을 포함하는 다특이적 항체.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 항체의 항원 결합 도메인을 포함하는 키메라 항원 수용체(CAR).",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 제6항에 따른 단일 쇄 가변 단편(scFv)을 포함하거나, 이로 이루어지거나, 이로 필수적으로 이루어진 항원-결합 도메인을 포함하는 키메라 항원 수용체(CAR).",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 세포외 힌지 도메인(extracellular hinge domain), 막관통 도메인(transmembrane domain), 및 CD28, 4-1BB, 및 CD3ξ로 이루어진 그룹으로부터 선택된 세포내 T 세포 신호전달 도메인을 포함하는 키메라 항원 수용체(CAR).",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 서열 번호: 13 또는 14에 나타낸 바와 같은 아미노산 서열로 이루어진 키메라 항원 수용체(CAR).",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 모노클로날 항체, 제8항에 따른 다특이적 항체 또는 제14항에 따른 키메라 항원 수용체(CAR)를 암호화하는 핵산 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 모노클로날 항체의 중쇄 및/또는 경쇄를 암호화하는 핵산 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 따른 핵산을 포함하는 벡터.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 모노클로날 항체, 제8항에 따른 다특이적 항체 또는 제14항에 따른 키메라 항원 수용체(CAR)를 발현하도록 가공된(engineered) 숙주 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, CAR-T 세포인 숙주 세포.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료학적 유효량의 제1항에 따른 항체 및/또는 제8항에 따른 다특이적 항체 및/또는 제22항에 따른 CAR-T 세포의 집단을 대상체에 투여함을 포함하는, 이를 필요로 하는 대상체에서의 치료요법의 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체에 치료학적 유효량의 제1항에 따른 항체 및/또는 제8항에 따른 다특이적 항체 및/또는 제22항에 따른 CAR-T 세포의 집단을 투여함을 포함하여, 이를 필요로 하는 환자에서 암 및 보다 특히 CD38-양성 혈액학적 악성종양을 치료하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "일정량의 제1항에 따른 항체 및/또는 제8항에 따른 다특이적 항체 및/또는 제22항에 따른 CAR-T 세포의 집단을 포함하는 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "",
+        "document_name": "원본 (변동이력 없음)",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기를 포함하는 CD38의 세포외 도메인(extracellular domain)에 대해 결합 특이성(binding specificity)을 갖는 모노클로날 항체(monoclonal antibody):- i) 서열 번호: 5로 나타낸 바와 같은 H-CDR1, ii) 서열 번호: 6으로 나타낸 바와 같은 H-CDR2 및 iii) 서열 번호: 7로 나타낸 바와 같은 H-CDR3를 포함하는 중쇄, 및- i) 서열 번호: 8로 나타낸 바와 같은 L-CDR1, ii) 서열 번호: 9로 나타낸 바와 같은 L-CDR2; 및 iii) 서열 번호: 10으로 나타낸 바와 같은 L-CDR3을 포함하는 경쇄.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 서열 번호: 3에 나타낸 바와 같은 아미노산 서열과 적어도 70% 동일성(identity)을 갖는 VH 도메인을 포함하는, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 서열 번호: 4에 나타낸 바와 같은 아미노산 서열과 적어도 70% 동일성을 갖는 VL 도메인을 포함하는, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 키메라 항체, 특히 서열 번호: 3에 나타낸 바와 같은 중쇄 및/또는 서열 번호: 4에 나타낸 바와 같은 경쇄를 갖는 키메라 항체인, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 사람화된 항체인, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 항체의 VH 및 VL 도메인을 포함하는 scFv 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 서열 번호: 11에 나타낸 바와 같은 아미노산 서열로 이루어진 scFv 단편.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 모노클로날 항체로부터의 제1의 항원 결합 부위 및 적어도 하나의 제2의 항원 결합 부위를 포함하는 다특이적 항체(multispecific antibody).",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, 제2의 항원 결합 부위가 T 세포를 보충(recruiting)하기 위해 사용되는 다특이적 항체.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 제2의 항원 결합 부위가 CD3ε의 세포외 도메인에 대해 특이성을 갖는 다특이적 항체.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, 제6항에 따른 단일 쇄 가변 단편(scFv)을 포함하거나, 이로 이루어지거나, 이로 필수적으로 이루어진 항원-결합 도메인을 포함하는 다특이적 항체.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, BITE� 항체인 다특이적 항체.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 서열 번호: 12에 나타낸 바와 같은 서열을 포함하는 다특이적 항체.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 항체의 항원 결합 도메인을 포함하는 키메라 항원 수용체(CAR).",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, 제6항에 따른 단일 쇄 가변 단편(scFv)을 포함하거나, 이로 이루어지거나, 이로 필수적으로 이루어진 항원-결합 도메인을 포함하는 키메라 항원 수용체(CAR).",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 세포외 힌지 도메인(extracellular hinge domain), 막관통 도메인(transmembrane domain), 및 CD28, 4-1BB, 및 CD3ξ로 이루어진 그룹으로부터 선택된 세포내 T 세포 신호전달 도메인을 포함하는 키메라 항원 수용체(CAR).",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 서열 번호: 13 또는 14에 나타낸 바와 같은 아미노산 서열로 이루어진 키메라 항원 수용체(CAR).",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 모노클로날 항체, 제8항에 따른 다특이적 항체 또는 제14항에 따른 키메라 항원 수용체(CAR)를 암호화하는 핵산 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 모노클로날 항체의 중쇄 및/또는 경쇄를 암호화하는 핵산 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 따른 핵산을 포함하는 벡터.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 모노클로날 항체, 제8항에 따른 다특이적 항체 또는 제14항에 따른 키메라 항원 수용체(CAR)를 발현하도록 가공된(engineered) 숙주 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, CAR-T 세포인 숙주 세포.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료학적 유효량의 제1항에 따른 항체 및/또는 제8항에 따른 다특이적 항체 및/또는 제22항에 따른 CAR-T 세포의 집단을 대상체에 투여함을 포함하는, 이를 필요로 하는 대상체에서의 치료요법의 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체에 치료학적 유효량의 제1항에 따른 항체 및/또는 제8항에 따른 다특이적 항체 및/또는 제22항에 따른 CAR-T 세포의 집단을 투여함을 포함하여, 이를 필요로 하는 환자에서 암 및 보다 특히 CD38-양성 혈액학적 악성종양을 치료하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "일정량의 제1항에 따른 항체 및/또는 제8항에 따른 다특이적 항체 및/또는 제22항에 따른 CAR-T 세포의 집단을 포함하는 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 25,
+      "after_claim_count": 25,
+      "total_versions": 1
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2021.01.21",
+      "internationOpenNumber": "WO2021009263",
+      "internationalApplicationDate": "2020.07.15",
+      "internationalApplicationNumber": "PCT/EP2020/070057"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "프랑스, ***** 파리, 뤼 드 똘비악 ***",
+        "code": "520030154251",
+        "country": "프랑스",
+        "engName": "INSERM (Institut National de la Sante et de la Recherche Medicale)",
+        "name": "인쎄름 (엥스띠뛰 나씨오날 드 라 쌍떼 에 드 라 흐쉐르슈 메디깔)"
+      },
+      {
+        "address": "프랑스 ***** 파리 생 제르맹 블러바드 **",
+        "code": "520200100227",
+        "country": "프랑스",
+        "engName": "UNIVERSITE PARIS CITE",
+        "name": "유니베르시떼 파리 시테"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "프랑스공화국, ***** 빠리, 아브뉘 끌...",
+        "code": "",
+        "country": "",
+        "engName": "BENSUSSAN, Armand",
+        "name": "벤쑤쌍, 아르망"
+      },
+      {
+        "address": "프랑스공화국, ***** 빠리, 아브...",
+        "code": "",
+        "country": "",
+        "engName": "BORIES, Jean-Christophe",
+        "name": "보리, 쟝-크리스토프"
+      },
+      {
+        "address": "프랑스공화국, ***** 빠리 세덱스 **, 아...",
+        "code": "",
+        "country": "",
+        "engName": "FAYON, Maxime",
+        "name": "파이용, 맥심"
+      },
+      {
+        "address": "프랑스공화국, ***...",
+        "code": "",
+        "country": "",
+        "engName": "MARTINEZ-CINGOLANI, Carolina",
+        "name": "마르띠네스-쌩고라니, 꺄로리나"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "경기도 성남시 분당구 대왕판교로 ***, B-***(삼평동, 유스페이스*)",
+      "code": "920101000413",
+      "country": "대한민국",
+      "engName": "ORIGIN Patent & Law Firm",
+      "name": "특허법인오리진"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "유럽특허청(EPO)",
+      "priorityApplicationDate": "2019.07.16",
+      "priorityApplicationNumber": "19186591.4"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2022.01.26",
+        "receiptNumber": "1-1-2022-0102084-36"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2022.02.18",
+        "receiptNumber": "1-5-2022-0027341-76"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.10.18",
+        "receiptNumber": "4-1-2022-5242242-80"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.07.11",
+        "receiptNumber": "1-1-2023-0761982-80"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.28",
+        "receiptNumber": "9-5-2025-1043020-92"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020227003078.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93ebbb49a02b86cee966724908ebc418c9b4e80912f6462c6215349f73434bc40cc913d3d88fd3827166c17dd8f70fc42f722b6cbe082e1e23",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf7dc58cdf1ee637be18449820f4518443299f0de8f25372694610b78a6e0364ed4488d760df8cdb88ae4e17783414829b20498cadc901d7ed"
+  },
+  "rndInfoArray": ""
+}

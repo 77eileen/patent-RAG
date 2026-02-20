@@ -1,0 +1,688 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2021.11.24",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-0163275",
+      "claimCount": "8",
+      "examinerName": "김정태",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "조혈전구 인산화효소 1 조절에 의한 NK세포 활성증진 방법",
+      "inventionTitleEng": "Method for enhancing activation of NK cells by  regulation of Hematopoietic progenitor kinase 1",
+      "openDate": "2023.05.31",
+      "openNumber": "10-2023-0076398",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.10.12",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.10.22",
+      "publicationNumber": "",
+      "registerDate": "2025.10.16",
+      "registerNumber": "10-2874084-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/113"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 35/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 9/12"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "C12N 15/10"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 9/22"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 조혈전구 인산화효소 1 조절에 의한 NK세포 활성증진 방법 등에 관한 것이다. 본 발명의 조혈전구 인산화효소 1 조절에 의한 NK세포 활성증진 방법이 시험관 내 B16F10 및 YAC-1 암세포에 대한 항암 효과가 우수할 뿐만 아니라, 생체 내 B16F10 암세포에 대한 항암 효과가 우수한 것을 확인하였고, 본 발명의 방법으로 사람 유래 NK92 세포주에서 세포 독성 탈 과립화 및 CD16 매개 탈과립화가 증가하는 것을 확인하였는 바, 본 발명을 CAR-NK, 면역관문억제제 등에 적용해서 항암효과를 극대화 시킬 수 있고, 여러 난치성 암 예방 및 치료에 활용할 수 있을 것으로 기대된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020210163275",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20211124",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 11,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 녹아웃은 NK세포에 가이드 RNA, 및 Cas 단백질을 포함하는 RNP 혼합물을 넣는 단계를 포함하는 것을 특징으로 하는, NK세포 항암 활성증진 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 방법에 의해 활성화된 NK세포는 하기의 특징 중 하나 이상을 만족하는 것을 특징으로 하는, NK세포 항암 활성증진 방법:\n(a) 세포독성 활성 증가;\n(b) 탈과립화 활성 증가; 및\n(c) CD16 수용체 매개 탈과립화 활성 증가.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 방법에 의해 활성화된 NK세포는 CD107a의 발현이 증가하는 것을 특징으로 하는, NK세포 항암 활성증진 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\n상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는\n서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, NK세포 항암 활성증진 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부의 녹아웃을 위한 가이드 RNA, 및 Cas 단백질을 유효성분으로 포함하는, NK세포 항암 활성증진용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서,\n상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는\n서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, NK세포 항암 활성증진용 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항의 조성물을 포함하는, NK세포 항암 활성증진 키트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법에 의해 활성화된 NK세포를 유효성분으로 포함하는, 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서,\n상기 암은 비만세포종, 흑색종, 및 림프종으로 이루어지는 군으로부터 선택된 하나 이상인 것을 특징으로 하는, 암 예방 또는 치료용 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법에 의해 활성화된 NK세포를 유효성분으로 포함하는, 암 예방 또는 치료용 세포 치료제.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20250424",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 11,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법으로서,상기 녹아웃은 NK세포에 가이드 RNA, 및 Cas 단백질을 포함하는 RNP 혼합물을 넣는 단계를 포함하고,상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, NK세포 항암 활성증진 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 방법에 의해 활성화된 NK세포는 하기의 특징 중 하나 이상을 만족하는 것을 특징으로 하는, NK세포 항암 활성증진 방법:(a) 세포독성 활성 증가;(b) 탈과립화 활성 증가; 및(c) CD16 수용체 매개 탈과립화 활성 증가.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 방법에 의해 활성화된 NK세포는 CD107a의 발현이 증가하는 것을 특징으로 하는, NK세포 항암 활성증진 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부의 녹아웃을 위한 가이드 RNA, 및 Cas 단백질을 유효성분으로 포함하는, NK세포 항암 활성증진용 조성물로서,상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, NK세포 항암 활성증진용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항의 조성물을 포함하는, NK세포 항암 활성증진 키트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법에 의해 활성화된 NK세포를 유효성분으로 포함하는, 암 예방 또는 치료용 약학적 조성물로서,상기 녹아웃은 NK세포에 가이드 RNA, 및 Cas 단백질을 포함하는 RNP 혼합물을 넣는 단계를 포함하고,상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, 암 예방 또는 치료용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서,상기 암은 비만세포종, 흑색종, 및 림프종으로 이루어지는 군으로부터 선택된 하나 이상인 것을 특징으로 하는, 암 예방 또는 치료용 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법에 의해 활성화된 NK세포를 유효성분으로 포함하는, 암 예방 또는 치료용 세포 치료제로서,상기 녹아웃은 NK세포에 가이드 RNA, 및 Cas 단백질을 포함하는 RNP 혼합물을 넣는 단계를 포함하고,상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, 암 예방 또는 치료용 세포 치료제.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20211124",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 11,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 녹아웃은 NK세포에 가이드 RNA, 및 Cas 단백질을 포함하는 RNP 혼합물을 넣는 단계를 포함하는 것을 특징으로 하는, NK세포 항암 활성증진 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 방법에 의해 활성화된 NK세포는 하기의 특징 중 하나 이상을 만족하는 것을 특징으로 하는, NK세포 항암 활성증진 방법:\n(a) 세포독성 활성 증가;\n(b) 탈과립화 활성 증가; 및\n(c) CD16 수용체 매개 탈과립화 활성 증가.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 방법에 의해 활성화된 NK세포는 CD107a의 발현이 증가하는 것을 특징으로 하는, NK세포 항암 활성증진 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\n상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는\n서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, NK세포 항암 활성증진 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부의 녹아웃을 위한 가이드 RNA, 및 Cas 단백질을 유효성분으로 포함하는, NK세포 항암 활성증진용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서,\n상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는\n서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, NK세포 항암 활성증진용 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항의 조성물을 포함하는, NK세포 항암 활성증진 키트.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법에 의해 활성화된 NK세포를 유효성분으로 포함하는, 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서,\n상기 암은 비만세포종, 흑색종, 및 림프종으로 이루어지는 군으로부터 선택된 하나 이상인 것을 특징으로 하는, 암 예방 또는 치료용 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법에 의해 활성화된 NK세포를 유효성분으로 포함하는, 암 예방 또는 치료용 세포 치료제.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20250424",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법으로서,\n상기 녹아웃은 NK세포에 가이드 RNA, 및 Cas 단백질을 포함하는 RNP 혼합물을 넣는 단계를 포함하고,\n상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는\n서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, NK세포 항암 활성증진 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부의 녹아웃을 위한 가이드 RNA, 및 Cas 단백질을 유효성분으로 포함하는, NK세포 항암 활성증진용 조성물로서,\n상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는\n서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, NK세포 항암 활성증진용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법에 의해 활성화된 NK세포를 유효성분으로 포함하는, 암 예방 또는 치료용 약학적 조성물로서,\n상기 녹아웃은 NK세포에 가이드 RNA, 및 Cas 단백질을 포함하는 RNP 혼합물을 넣는 단계를 포함하고,\n상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는\n서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, 암 예방 또는 치료용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "NK세포의 조혈전구 인산화효소 1(HPK1; Hematopoietic progenitor kinase 1)의 전부 또는 일부를 녹아웃 시키는 단계를 포함하는, NK세포 항암 활성증진 방법에 의해 활성화된 NK세포를 유효성분으로 포함하는, 암 예방 또는 치료용 세포 치료제로서,\n상기 녹아웃은 NK세포에 가이드 RNA, 및 Cas 단백질을 포함하는 RNP 혼합물을 넣는 단계를 포함하고,\n상기 가이드 RNA는 서열번호 2, 3, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 4 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA; 또는\n서열번호 5, 7, 또는 이의 상보서열을 포함하며 HPK1 유전자의 엑손 1 또는 3 영역에 상보적으로 결합하는 도메인을 포함하는, 가이드 RNA인 것을 특징으로 하는, 암 예방 또는 치료용 세포 치료제.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 11,
+      "after_claim_count": 7,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "서울특별시 송파구...",
+        "code": "219950162419",
+        "country": "대한민국",
+        "engName": "THE ASAN FOUNDATION",
+        "name": "재단법인 아산사회복지재단"
+      },
+      {
+        "address": "울산광역시 남구...",
+        "code": "220050145092",
+        "country": "대한민국",
+        "engName": "University of Ulsan Foundation For Industry Cooperation",
+        "name": "울산대학교 산학협력단"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 광진구...",
+        "code": "",
+        "country": "",
+        "engName": "Kim, Hun Sik",
+        "name": "김헌식"
+      },
+      {
+        "address": "서울특별시 강동구...",
+        "code": "",
+        "country": "",
+        "engName": "Yi, Eunbi",
+        "name": "이은비"
+      },
+      {
+        "address": "서울특별시 송파구...",
+        "code": "",
+        "country": "",
+        "engName": "KIM HYOJEONG",
+        "name": "김효정"
+      },
+      {
+        "address": "경기도 안성시...",
+        "code": "",
+        "country": "",
+        "engName": "KIM JUNG MIN",
+        "name": "김정민"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 테헤란로 ***, **층 (삼성동,본솔빌딩)(명진국제특허법률사무소)",
+      "code": "920030002203",
+      "country": "대한민국",
+      "engName": "Lee, Myoung-Jin",
+      "name": "이명진"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "WO2019057102 A1",
+      "examinerQuotationFlag": "Y"
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2021.11.24",
+        "receiptNumber": "1-1-2021-1356956-68"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2021.12.08",
+        "receiptNumber": "1-5-2021-0192658-24"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.01.10",
+        "receiptNumber": "4-1-2022-5006881-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.01.10",
+        "receiptNumber": "1-1-2022-0032140-20"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.01.13",
+        "receiptNumber": "4-1-2022-5010543-98"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.01.13",
+        "receiptNumber": "4-1-2022-5010528-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.04.25",
+        "receiptNumber": "4-1-2022-5097214-43"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.04.25",
+        "receiptNumber": "4-1-2022-5097268-08"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.10.12",
+        "receiptNumber": "1-1-2022-1072913-67"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.04.18",
+        "receiptNumber": "4-1-2023-5095011-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.04.18",
+        "receiptNumber": "4-1-2023-5095017-43"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.10.08",
+        "receiptNumber": "4-1-2024-5294335-59"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.01.20",
+        "receiptNumber": "4-1-2025-5016251-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.01.20",
+        "receiptNumber": "4-1-2025-5016240-13"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.02.25",
+        "receiptNumber": "9-5-2025-0197319-25"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.04.24",
+        "receiptNumber": "1-1-2025-0467447-25"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.04.24",
+        "receiptNumber": "1-1-2025-0467422-95"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.06.11",
+        "receiptNumber": "4-1-2025-5157322-76"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.10.02",
+        "receiptNumber": "9-5-2025-0962299-33"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020210163275.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93de0e4d8c4f4e666d1aba63d1e01a61514bd944c9de2e0edaecdbe02c9dcdb20eeee6b032b77beb2e6e37156da6743aba96a51809383881e8",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf6d3d4edd9e7a4b9639fbeb8261f2b0f7d76b55cb9b6bff5fbae32c4bff0cd8769a978715ca7b0a36d6b9cd12cd5757be45023dc1958fe7da"
+  },
+  "rndInfoArray": ""
+}

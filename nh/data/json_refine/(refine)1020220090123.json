@@ -1,0 +1,858 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.07.21",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0090123",
+      "claimCount": "16",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "신규한 키메릭 항원 수용체 및 이를 발현하는 면역세포",
+      "inventionTitleEng": "Novel Chimeric Antigen Receptor and Immune Cell  Expressing the Same",
+      "openDate": "2023.02.01",
+      "openNumber": "10-2023-0016156",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.07.21",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/725"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/705"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 35/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 사멸영역을 포함하는 수용체의 세포내 도메인을 세포내 신호전달 도메인으로 포함하는 신규한 키메릭 항원 수용체와 이를 발현하는 면역세포에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220090123",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220721",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 16,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 부위를 포함하는 세포외 도메인(extracellular binding domain);\n막통과 도메인(transmembrane domain); 및\n사멸영역(death domain)을 포함하는 수용체의 세포내 도메인(intracellular domain)을 포함하는 세포내 신호전달 도메인(intracellular signaling domain);을 포함하는,\n키메릭 항원 수용체(Chimeric antigen receptor; CAR).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1에 있어서,\n상기 사멸영역을 포함하는 수용체는 Fas, TNFRI, p75NTR, DR3, DR4, DR5, EDAR 및 DR6로 구성되는 군에서 선택되는 어느 하나인 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1에 있어서,\n상기 항원 결합 부위는, 암세포 및 정상세포에서 모두 발현되는 항원에 특이적으로 결합하는 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1에 있어서,\n상기 항원 결합 부위는, EGFR에 특이적으로 결합하는 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1에 있어서,\n상기 항원 결합 부위는 항체의 단일 사슬 가변 단편(single chain variable fragment; scFv)인 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1에 있어서,\n상기 세포외 도메인은, 힌지 도메인(hinge domain) 및 스페이서 도메인(spacer domain)으로 이루어진 군으로부터 선택되는 적어도 하나를 더 포함하는 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 5에 있어서,\n상기 힌지 도메인 또는 스페이서 도메인은, Myc 에피토프, CD8 힌지 도메인 및 Fc로 이루어진 군으로부터 선택되는 적어도 하나인 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1에 있어서,\n상기 막통과 도메인은, T-세포 수용체(TCR)의 알파(α), 베타(β) 또는 제타(ζ) 사슬, CD28, CD3 엡실론(ε), CD45, CD4, CD5, CD8, CD9, CD16, CD22, CD33, CD37, CD64, CD80, CD86, CD134, CD137 및 CD154로 이루어진 군으로부터 선택되는 어느 하나인 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1 내지 청구항 8 중 어느 한 항의 키메릭 항원 수용체를 암호화하는 염기서열을 포함하는, 폴리뉴클레오티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 9의 폴리뉴클레오티드를 포함하는, 발현 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1 내지 청구항 8 중 어느 한 항의 키메릭 항원 수용체를 제1 키메릭 항원 수용체;로 표면에 발현하고,\n암세포에서 발현되는 항원에 특이적으로 결합하는 항원 결합 부위를 포함하는 세포외 도메인, 막통과 도메인 및 세포내 신호전달 도메인을 포함하는 제2 키메릭 항원 수용체;를 표면에 발현하는, 면역세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 11에 있어서,\n상기 면역세포는 자연살해 세포(NK cell), T 세포, 자연살해 T 세포(NKT cell), 사이토카인 유도 살해세포(Cytokine Induced Killer cell; CIK), 마크로파지 및 수지상세포로 이루어진 군으로부터 선택되는 어느 하나인 것인, 면역세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 11에 있어서,\n상기 면역세포는 표면에, 상기 제1 키메릭 항원 수용체 및 상기 제2 키메릭 항원 수용체와는 다른 항원에 특이적으로 결합하는 항원 결합 부위를 포함하는 세포외 도메인, 막통과 도메인 및 세포내 신호전달 도메인을 포함하는 적어도 하나의 키메릭 항원 수용체;를 더 발현하는, 면역세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 11에 있어서,\n상기 제2 키메릭 항원 수용체의 항원 결합 부위는, HER2, EphA2, ErbB3, IL-13Rα2, DLK1, B7H3, PD-L1, GPC3, CEACAM6 및 CD5로 구성되는 군에서 선택되는 어느 하나에 특이적으로 결합하는 것인, 면역세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 11의 면역세포를 포함하는, 암 치료용 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 15에 있어서,\n상기 암은 암은 폐암, 위암, 난소암, 자궁경부암, 유방암, 췌장암, 대장암, 결장암, 식도암, 피부암, 갑상선암, 신장암, 간암, 두경부암, 방광암, 전립선암, 혈액암, 다발성 골수종, 급성 골수성 백혈병, 악성 림프종, 흉선암, 골육종, 섬유성 종양 및 뇌암으로 이루어진 군으로부터 선택되는 적어도 하나인 것인, 암 치료용 약학적 조성물.",
+          "refers_to": [
+            15
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20250416",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 16,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "항원 결합 부위를 포함하는 세포외 도메인(extracellular binding domain);막통과 도메인(transmembrane domain); 및사멸영역(death domain)을 포함하는 수용체의 세포내 도메인(intracellular domain)을 포함하는 세포내 신호전달 도메인(intracellular signaling domain);을 포함하는,키메릭 항원 수용체(Chimeric antigen receptor; CAR).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서,상기 사멸영역을 포함하는 수용체는 Fas, TNFRI, p75NTR, DR3, DR4, DR5, EDAR 및 DR6로 구성되는 군에서 선택되는 어느 하나인 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서,상기 항원 결합 부위는, 암세포 및 정상세포에서 모두 발현되는 항원에 특이적으로 결합하는 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서,상기 항원 결합 부위는, EGFR에 특이적으로 결합하는 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서,상기 항원 결합 부위는 항체의 단일 사슬 가변 단편(single chain variable fragment; scFv)인 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서,상기 세포외 도메인은, 힌지 도메인(hinge domain) 및 스페이서 도메인(spacer domain)으로 이루어진 군으로부터 선택되는 적어도 하나를 더 포함하는 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 5에 있어서,상기 힌지 도메인 또는 스페이서 도메인은, Myc 에피토프, CD8 힌지 도메인 및 Fc로 이루어진 군으로부터 선택되는 적어도 하나인 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서,상기 막통과 도메인은, T-세포 수용체(TCR)의 알파(α), 베타(β) 또는 제타(ζ) 사슬, CD28, CD3 엡실론(ε), CD45, CD4, CD5, CD8, CD9, CD16, CD22, CD33, CD37, CD64, CD80, CD86, CD134, CD137 및 CD154로 이루어진 군으로부터 선택되는 어느 하나인 것인, 키메릭 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1 내지 청구항 8 중 어느 한 항의 키메릭 항원 수용체를 암호화하는 염기서열을 포함하는, 폴리뉴클레오티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 9의 폴리뉴클레오티드를 포함하는, 발현 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1 내지 청구항 8 중 어느 한 항의 키메릭 항원 수용체를 제1 키메릭 항원 수용체;로 표면에 발현하고,암세포에서 발현되는 항원에 특이적으로 결합하는 항원 결합 부위를 포함하는 세포외 도메인, 막통과 도메인 및 세포내 신호전달 도메인을 포함하는 제2 키메릭 항원 수용체;를 표면에 발현하는, 면역세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 11에 있어서,상기 면역세포는 자연살해 세포(NK cell), T 세포, 자연살해 T 세포(NKT cell), 사이토카인 유도 살해세포(Cytokine Induced Killer cell; CIK), 마크로파지 및 수지상세포로 이루어진 군으로부터 선택되는 어느 하나인 것인, 면역세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 11에 있어서,상기 면역세포는 표면에, 상기 제1 키메릭 항원 수용체 및 상기 제2 키메릭 항원 수용체와는 다른 항원에 특이적으로 결합하는 항원 결합 부위를 포함하는 세포외 도메인, 막통과 도메인 및 세포내 신호전달 도메인을 포함하는 적어도 하나의 키메릭 항원 수용체;를 더 발현하는, 면역세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 11에 있어서,상기 제2 키메릭 항원 수용체의 항원 결합 부위는, HER2, EphA2, ErbB3, IL-13Rα2, DLK1, B7H3, PD-L1, GPC3, CEACAM6 및 CD5로 구성되는 군에서 선택되는 어느 하나에 특이적으로 결합하는 것인, 면역세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 11의 면역세포를 포함하는, 암 치료용 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 15에 있어서,상기 암은 암은 폐암, 위암, 난소암, 자궁경부암, 유방암, 췌장암, 대장암, 결장암, 식도암, 피부암, 갑상선암, 신장암, 간암, 두경부암, 방광암, 전립선암, 혈액암, 다발성 골수종, 급성 골수성 백혈병, 악성 림프종, 흉선암, 골육종, 섬유성 종양 및 뇌암으로 이루어진 군으로부터 선택되는 적어도 하나인 것인, 암 치료용 약학적 조성물.",
+          "refers_to": [
+            15
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220721",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 16,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 부위를 포함하는 세포외 도메인(extracellular binding domain);\n막통과 도메인(transmembrane domain); 및\n사멸영역(death domain)을 포함하는 수용체의 세포내 도메인(intracellular domain)을 포함하는 세포내 신호전달 도메인(intracellular signaling domain);을 포함하는,\n키메릭 항원 수용체(Chimeric antigen receptor; CAR).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1에 있어서,\n상기 사멸영역을 포함하는 수용체는 Fas, TNFRI, p75NTR, DR3, DR4, DR5, EDAR 및 DR6로 구성되는 군에서 선택되는 어느 하나인 것인, 키메릭 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1에 있어서,\n상기 항원 결합 부위는, 암세포 및 정상세포에서 모두 발현되는 항원에 특이적으로 결합하는 것인, 키메릭 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1에 있어서,\n상기 항원 결합 부위는, EGFR에 특이적으로 결합하는 것인, 키메릭 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1에 있어서,\n상기 항원 결합 부위는 항체의 단일 사슬 가변 단편(single chain variable fragment; scFv)인 것인, 키메릭 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1에 있어서,\n상기 세포외 도메인은, 힌지 도메인(hinge domain) 및 스페이서 도메인(spacer domain)으로 이루어진 군으로부터 선택되는 적어도 하나를 더 포함하는 것인, 키메릭 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 5에 있어서,\n상기 힌지 도메인 또는 스페이서 도메인은, Myc 에피토프, CD8 힌지 도메인 및 Fc로 이루어진 군으로부터 선택되는 적어도 하나인 것인, 키메릭 항원 수용체.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1에 있어서,\n상기 막통과 도메인은, T-세포 수용체(TCR)의 알파(α), 베타(β) 또는 제타(ζ) 사슬, CD28, CD3 엡실론(ε), CD45, CD4, CD5, CD8, CD9, CD16, CD22, CD33, CD37, CD64, CD80, CD86, CD134, CD137 및 CD154로 이루어진 군으로부터 선택되는 어느 하나인 것인, 키메릭 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1 내지 청구항 8 중 어느 한 항의 키메릭 항원 수용체를 암호화하는 염기서열을 포함하는, 폴리뉴클레오티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 9의 폴리뉴클레오티드를 포함하는, 발현 벡터.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1 내지 청구항 8 중 어느 한 항의 키메릭 항원 수용체를 제1 키메릭 항원 수용체;로 표면에 발현하고,\n암세포에서 발현되는 항원에 특이적으로 결합하는 항원 결합 부위를 포함하는 세포외 도메인, 막통과 도메인 및 세포내 신호전달 도메인을 포함하는 제2 키메릭 항원 수용체;를 표면에 발현하는, 면역세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 11에 있어서,\n상기 면역세포는 자연살해 세포(NK cell), T 세포, 자연살해 T 세포(NKT cell), 사이토카인 유도 살해세포(Cytokine Induced Killer cell; CIK), 마크로파지 및 수지상세포로 이루어진 군으로부터 선택되는 어느 하나인 것인, 면역세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 11에 있어서,\n상기 면역세포는 표면에, 상기 제1 키메릭 항원 수용체 및 상기 제2 키메릭 항원 수용체와는 다른 항원에 특이적으로 결합하는 항원 결합 부위를 포함하는 세포외 도메인, 막통과 도메인 및 세포내 신호전달 도메인을 포함하는 적어도 하나의 키메릭 항원 수용체;를 더 발현하는, 면역세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 11에 있어서,\n상기 제2 키메릭 항원 수용체의 항원 결합 부위는, HER2, EphA2, ErbB3, IL-13Rα2, DLK1, B7H3, PD-L1, GPC3, CEACAM6 및 CD5로 구성되는 군에서 선택되는 어느 하나에 특이적으로 결합하는 것인, 면역세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 11의 면역세포를 포함하는, 암 치료용 약학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 15에 있어서,\n상기 암은 암은 폐암, 위암, 난소암, 자궁경부암, 유방암, 췌장암, 대장암, 결장암, 식도암, 피부암, 갑상선암, 신장암, 간암, 두경부암, 방광암, 전립선암, 혈액암, 다발성 골수종, 급성 골수성 백혈병, 악성 림프종, 흉선암, 골육종, 섬유성 종양 및 뇌암으로 이루어진 군으로부터 선택되는 적어도 하나인 것인, 암 치료용 약학적 조성물.",
+            "refers_to": [
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20250416",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 16,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "암세포 및 정상세포 모두에서 발현되는 항원에 특이적으로 결합하는 항원 결합 부위를 포함하는 세포외 도메인(extracellular binding domain), 막통과 도메인(transmembrane domain) 및 p75NTR의 세포내 도메인(intracellular domain)을 포함하는, 제1 키메릭 항원 수용체(Chimeric antigen receptor);와\n암세포에서 정상세포와는 다르게 발현되는 항원에 특이적으로 결합하는 항원 결합 부위를 포함하는 세포외 도메인, 막통과 도메인, 및 1차 신호전달 도메인과 공자극 신호전달 도메인을 포함하는 세포내 신호전달 도메인을 포함하는 제2 키메릭 항원 수용체;\n를 표면에 발현하는, 면역세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서,\n상기 p75NTR의 세포내 도메인은 서열번호 1의 아미노산 서열을 포함하는 것인, 면역세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서,\n상기 1차 신호전달 도메인은 TCRζ, FcRγ, FcRβ, CD3γ, CD3δ, CD3ε, CD3ζ, CD5, CD22, CD79a, CD79b 및 CD66d로 구성되는 군에서 선택되는 어느 하나이고,\n상기 공자극 신호전달 도메인은 CD2, CD7, CD27, CD28, CD30, CD40, 4-1BB(CD137), OX40(CD134), CDS, ICAM-1, ICOS(CD278), LFA-1(CD11a/CD18), GITR, MyD88, DAP10, DAP12, PD-1, LIGHT, NKG2C, B7-H3 및 CD83로 구성되는 군에서 선택되는 어느 하나인 것인, 면역세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 3에 있어서,\n상기 1차 신호전달 도메인은 CD3ζ이고,\n상기 공자극 신호전달 도메인은 DAP10인 것인, 면역세포.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서,\n상기 제1 키메릭 항원 수용체의 항원 결합 부위는, EGFR에 특이적으로 결합하는 것인, 면역세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서,\n상기 제1 키메릭 항원 수용체의 항원 결합 부위는 항체의 단일 사슬 가변 단편(single chain variable fragment; scFv)인 것인, 면역세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서,\n상기 제1 키메릭 항원 수용체 또는 제2 키메릭 항원 수용체의 세포외 도메인은, 힌지 도메인(hinge domain) 및 스페이서 도메인(spacer domain)으로 이루어진 군으로부터 선택되는 적어도 하나를 더 포함하는 것인, 면역세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 7에 있어서,\n상기 힌지 도메인 또는 스페이서 도메인은, Myc 에피토프, CD8 힌지 도메인 및 Fc로 이루어진 군으로부터 선택되는 적어도 하나인 것인, 면역세포.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서,\n상기 제1 키메릭 항원 수용체 또는 제2 키메릭 항원 수용체의 막통과 도메인은, T-세포 수용체(TCR)의 알파(α), 베타(β) 또는 제타(ζ) 사슬, CD28, CD3 엡실론(ε), CD45, CD4, CD5, CD8, CD9, CD16, CD22, CD33, CD37, CD64, CD80, CD86, CD134, CD137 및 CD154로 이루어진 군으로부터 선택되는 어느 하나인 것인, 면역세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서,\n상기 면역세포는 자연살해 세포(NK cell), T 세포, 자연살해 T 세포(NKT cell), 사이토카인 유도 살해세포(Cytokine Induced Killer cell; CIK), 마크로파지 및 수지상세포로 이루어진 군으로부터 선택되는 어느 하나인 것인, 면역세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서,\n상기 면역세포는 표면에, 상기 제1 키메릭 항원 수용체 및 상기 제2 키메릭 항원 수용체와는 다른 항원에 특이적으로 결합하는 항원 결합 부위를 포함하는 세포외 도메인, 막통과 도메인 및 세포내 신호전달 도메인을 포함하는 적어도 하나의 키메릭 항원 수용체;를 더 발현하는, 면역세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 11에 있어서,\n상기 다른 항원은 암세포에서 정상세포와는 다르게 발현되는 항원인 것인, 면역세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서,\n상기 제2 키메릭 항원 수용체의 항원 결합 부위는, HER2, EphA2, ErbB3, IL-13Rα2, DLK1, B7H3, PD-L1, GPC3, CEACAM6 및 CD5로 구성되는 군에서 선택되는 어느 하나에 특이적으로 결합하는 것인, 면역세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서,\n상기 면역세포는 상기 제1 키메릭 항원 수용체만이 활성화되는 경우에는 세포독성이 저감되거나 세포사멸(apoptosis)되고,\n상기 제1 키메릭 항원 수용체와 상기 제2 키메릭 항원 수용체가 모두 활성화되는 경우에는 상기 제2 키메릭 항원 수용체만 단독으로 활성화된 경우보다 더욱 증가된 세포독성을 나타내는 것인, 면역세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1 내지 청구항 14 중 어느 한 항의 면역세포를 포함하는, 암 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 15에 있어서,\n상기 암은 폐암, 위암, 난소암, 자궁경부암, 유방암, 췌장암, 대장암, 결장암, 식도암, 피부암, 갑상선암, 신장암, 간암, 두경부암, 방광암, 전립선암, 혈액암, 다발성 골수종, 급성 골수성 백혈병, 악성 림프종, 흉선암, 골육종, 섬유성 종양 및 뇌암으로 이루어진 군으로부터 선택되는 적어도 하나인 것인, 암 치료용 약학적 조성물.",
+            "refers_to": [
+              15
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 16,
+      "after_claim_count": 16,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "대전광역시 유성구...",
+      "code": "319990341665",
+      "country": "대한민국",
+      "engName": "Korea Research Institute of Bioscience and Biotechnology",
+      "name": "한국생명공학연구원"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Tae-Don Kim",
+        "name": "김태돈"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Sooyun Lee",
+        "name": "이수연"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 중구 청계천로 **, *층(다동, 예금보험공사빌딩)",
+      "code": "920061000421",
+      "country": "대한민국",
+      "engName": "BAE, KIM & LEE IP",
+      "name": "특허법인태평양"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2021.07.21",
+      "priorityApplicationNumber": "1020210096085"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.07.21",
+        "receiptNumber": "1-1-2022-0761551-81"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.05.28",
+        "receiptNumber": "4-1-2024-5165410-94"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.09.09",
+        "receiptNumber": "4-1-2024-5268975-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.09.26",
+        "receiptNumber": "4-1-2024-5283793-99"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.02.17",
+        "receiptNumber": "9-5-2025-0162570-60"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.04.16",
+        "receiptNumber": "1-1-2025-0430721-86"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.04.16",
+        "receiptNumber": "1-1-2025-0430720-30"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.28",
+        "receiptNumber": "9-5-2025-1043153-55"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220090123.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93fa7bd5888517d158fe12e0677a34f98933330acec9ae7c4a5a98e9f85038ba728bdf460799f2f95a2399d6eaf76f8761b1562751c9d24a8c",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf3f467a6935ea18942ed7cea8d87689c6fe3b47c58bfd50e9c111bda21adbaec8ad0dd344bfed806d0f1c43fc854308f7fa1118714dcb83c4"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "과학기술정보통신부",
+      "rndDuration": "2020.09.17 ~ 2021.09.16",
+      "rndManagingInstituteName": "한국생명공학연구원",
+      "rndProjectName": "국가과학기술연구회연구운영비지원(R＆D)(주요사업비)",
+      "rndSpecialInstituteName": "국가과학기술연구회",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "미래형 유전자편집 항암면역세포치료제 개발",
+      "rndTaskNumber": "1711123340"
+    }
+  }
+}

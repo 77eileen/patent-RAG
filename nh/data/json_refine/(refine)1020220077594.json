@@ -1,0 +1,622 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.06.24",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0077594",
+      "claimCount": "8",
+      "examinerName": "정혜진",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "면역 억제 T 세포를 포함하는 면역 관련 질환의 예방 또는 치료용 조성물",
+      "inventionTitleEng": "Composition for preventing or treating Immune Related  Disease comprising immune Inhibitory T cells",
+      "openDate": "2023.01.05",
+      "openNumber": "10-2023-0002080",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.06.24",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.10.22",
+      "publicationNumber": "",
+      "registerDate": "2025.10.15",
+      "registerNumber": "10-2873199-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 35/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 37/06"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 11/06"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 17/00"
+      },
+      {
+        "ipcDate": "(2023.01.01)",
+        "ipcNumber": "A61P 29/00"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 면역억제 효과를 나타내는 T 세포를 포함하는 면역 관련 질환의 예방 또는 치료용 조성물에 관한 것으로, 보다 구체적으로는 CD3+, PD1+ 및 Tim3+의 면역 표현형을 갖는 세포를 포함하는 면역 관련 질환 예방 또는 치료용 조성물에 관한 것이다. 본 발명에 의하여 면역억제 효과가 있는 CD3+, PD1+ 및 Tim3+의 면역 표현형을 갖는 세포를 대량으로 손쉽게 수집할 수 있으며, 상기 세포는 면역반응 억제 효과를 가지므로, 면역 억제를 위한 면역 관련 질환의 치료제로 널리 활용될 수 있을 것으로 기대된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220077594",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220624",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "CD3+, PD1+ 및 Tim3+의 면역 표현형을 갖는 T 세포를 포함하는, 면역 관련 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \n상기 T 세포는 TIGIT+ 또는 TIGIT-의 면역 표현형을 더 갖는 것을 특징으로 하는, 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서,\n상기 조성물은 면역 반응을 억제하는 것을 특징으로 하는, 약학적 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서,\n상기 면역 관련 질환은 자가면역질환; 이식편대숙주 질환; 장기이식거부반응; 천식; 아토피; 또는 급성 또는 만성의 염증 질환인 것을 특징으로 하는, 약학적 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서,\n상기 자가면역질환은 류마티스성 관절염, 제1형 당뇨, 전신성 경피증, 전신 홍반성 낭창, 전신홍반루프스, 아토피 피부염, 건선, 원형탈모증, 천식, 크론씨병, 베체시병, 쇼그렌 증후군, 길리아-바레 증후군, 만성 갑상선염, 다발성 경화증, 다발성 근염, 강직성 척추염, 섬유조직염 및 결절성 다발성 동맥염으로 구성된 군으로부터 선택되는 하나 이상인 것을 특징으로 하는, 약학적 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서,\n상기 T 세포는 CD3+ 세포분획과 IL-2+를 혼합 배양하여 제조된 것을 특징으로 하는, 약학적 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항의 조성물을 포함하는, 면역 관련 질환의 예방 또는 치료용 약학제제.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n상기 약학제제는 면역 반응을 억제하는 것을 특징으로 하는, 약학제제.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n상기 면역 관련 질환은 자가면역질환; 이식편대숙주 질환; 장기이식거부반응; 천식; 아토피; 또는 급성 또는 만성의 염증 질환인 것을 특징으로 하는, 약학제제.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n상기 자가면역질환은 류마티스성 관절염, 제1형 당뇨, 전신성 경피증, 전신 홍반성 낭창, 전신홍반루프스, 아토피 피부염, 건선, 원형탈모증, 천식, 크론씨병, 베체시병, 쇼그렌 증후군, 길리아-바레 증후군, 만성 갑상선염, 다발성 경화증, 다발성 근염, 강직성 척추염, 섬유조직염 및 결절성 다발성 동맥염으로 구성된 군으로부터 선택되는 하나 이상인 것을 특징으로 하는, 약학제제.",
+          "refers_to": [
+            7
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20250219",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 11,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "CD3+, PD1+, Tim3+ 및 TIGIT-의 면역 표현형을 갖는 T 세포를 포함하는, 자가면역질환, 이식편대숙주 질환, 장기이식거부반응, 천식, 아토피, 급성 염증 또는 만성 염증 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 조성물은 면역 반응을 억제하는 것을 특징으로 하는, 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 자가면역질환은 류마티스성 관절염, 제1형 당뇨, 전신성 경피증, 전신 홍반성 낭창, 전신홍반루프스, 아토피 피부염, 건선, 원형탈모증, 천식, 크론씨병, 베체시병, 쇼그렌 증후군, 길리아-바레 증후군, 만성 갑상선염, 다발성 경화증, 다발성 근염, 강직성 척추염, 섬유조직염 및 결절성 다발성 동맥염으로 구성된 군으로부터 선택되는 하나 이상인 것을 특징으로 하는, 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 T 세포는 CD3+ 세포분획과 IL-2+를 혼합 배양하여 제조된 것을 특징으로 하는, 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항의 조성물을 포함하는, 자가면역질환, 이식편대숙주 질환, 장기이식거부반응, 천식, 아토피, 급성 염증 또는 만성 염증 질환의 예방 또는 치료용 약학제제.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서,상기 약학제제는 면역 반응을 억제하는 것을 특징으로 하는, 약학제제.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서,상기 자가면역질환은 류마티스성 관절염, 제1형 당뇨, 전신성 경피증, 전신 홍반성 낭창, 전신홍반루프스, 아토피 피부염, 건선, 원형탈모증, 천식, 크론씨병, 베체시병, 쇼그렌 증후군, 길리아-바레 증후군, 만성 갑상선염, 다발성 경화증, 다발성 근염, 강직성 척추염, 섬유조직염 및 결절성 다발성 동맥염으로 구성된 군으로부터 선택되는 하나 이상인 것을 특징으로 하는, 약학제제.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "CD3+, PD1+, Tim3+ 및 TIGIT-의 면역 표현형을 갖는 T 세포를 포함하는, 면역 억제제.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220624",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "CD3+, PD1+ 및 Tim3+의 면역 표현형을 갖는 T 세포를 포함하는, 면역 관련 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \n상기 T 세포는 TIGIT+ 또는 TIGIT-의 면역 표현형을 더 갖는 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서,\n상기 조성물은 면역 반응을 억제하는 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서,\n상기 면역 관련 질환은 자가면역질환; 이식편대숙주 질환; 장기이식거부반응; 천식; 아토피; 또는 급성 또는 만성의 염증 질환인 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서,\n상기 자가면역질환은 류마티스성 관절염, 제1형 당뇨, 전신성 경피증, 전신 홍반성 낭창, 전신홍반루프스, 아토피 피부염, 건선, 원형탈모증, 천식, 크론씨병, 베체시병, 쇼그렌 증후군, 길리아-바레 증후군, 만성 갑상선염, 다발성 경화증, 다발성 근염, 강직성 척추염, 섬유조직염 및 결절성 다발성 동맥염으로 구성된 군으로부터 선택되는 하나 이상인 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서,\n상기 T 세포는 CD3+ 세포분획과 IL-2+를 혼합 배양하여 제조된 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항의 조성물을 포함하는, 면역 관련 질환의 예방 또는 치료용 약학제제.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n상기 약학제제는 면역 반응을 억제하는 것을 특징으로 하는, 약학제제.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n상기 면역 관련 질환은 자가면역질환; 이식편대숙주 질환; 장기이식거부반응; 천식; 아토피; 또는 급성 또는 만성의 염증 질환인 것을 특징으로 하는, 약학제제.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n상기 자가면역질환은 류마티스성 관절염, 제1형 당뇨, 전신성 경피증, 전신 홍반성 낭창, 전신홍반루프스, 아토피 피부염, 건선, 원형탈모증, 천식, 크론씨병, 베체시병, 쇼그렌 증후군, 길리아-바레 증후군, 만성 갑상선염, 다발성 경화증, 다발성 근염, 강직성 척추염, 섬유조직염 및 결절성 다발성 동맥염으로 구성된 군으로부터 선택되는 하나 이상인 것을 특징으로 하는, 약학제제.",
+            "refers_to": [
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20250219",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 9,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "CD3+, PD1+, Tim3+ 및 TIGIT-의 면역 표현형을 갖는 T 세포를 포함하는, 자가면역질환, 이식편대숙주 질환, 장기이식거부반응, 천식, 아토피, 급성 염증 또는 만성 염증 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 조성물은 면역 반응을 억제하는 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 자가면역질환은 류마티스성 관절염, 제1형 당뇨, 전신성 경피증, 전신 홍반성 낭창, 전신홍반루프스, 아토피 피부염, 건선, 원형탈모증, 천식, 크론씨병, 베체시병, 쇼그렌 증후군, 길리아-바레 증후군, 만성 갑상선염, 다발성 경화증, 다발성 근염, 강직성 척추염, 섬유조직염 및 결절성 다발성 동맥염으로 구성된 군으로부터 선택되는 하나 이상인 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 T 세포는 CD3+ 세포분획과 IL-2+를 혼합 배양하여 제조된 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 조성물을 포함하는, 자가면역질환, 이식편대숙주 질환, 장기이식거부반응, 천식, 아토피, 급성 염증 또는 만성 염증 질환의 예방 또는 치료용 약학제제.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "CD3+, PD1+, Tim3+ 및 TIGIT-의 면역 표현형을 갖는 T 세포를 포함하는, 면역 억제제.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 10,
+      "after_claim_count": 9,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 서초구...",
+      "code": "220050224041",
+      "country": "대한민국",
+      "engName": "THE CATHOLIC UNIVERSITY OF KOREA INDUSTRY-ACADEMIC COOPERATION FOUNDATION",
+      "name": "가톨릭대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "서울특별시 서초구...",
+      "code": "",
+      "country": "",
+      "engName": "KIM, Jeong A",
+      "name": "김정아"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 강남대로**길 ** (역삼동) 화성빌딩 *층(위특허법률사무소)",
+      "code": "920040001553",
+      "country": "대한민국",
+      "engName": "WIE Byoung Gap",
+      "name": "위병갑"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2021.06.29",
+      "priorityApplicationNumber": "1020210084634"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Kalliopi Domvri et al., Treg-dependent immunosuppression triggers effector T cell dysfunction via the STING/ILC2 axis, Clinical Immunology 222 (2021) 10 (2020.11.08.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Huaqiang Sun et al., Tim3+Foxp3+ Treg Cells Are Potent Inhibitors of Effector T Cells and Are Suppressed in Rheumatoid Arthritis, Inflammation, Vol. 40, No. 4, August 2017",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Anne-Sophie Gautron et al., Enhanced suppressor function of TIM-3+FoxP3+ regulatory T cells, Eur. J. Immunol. 2014. 44: 2703.2711",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.06.24",
+        "receiptNumber": "1-1-2022-0663460-58"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.12.10",
+        "receiptNumber": "9-5-2024-1066271-83"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2025.01.22",
+        "receiptNumber": "1-1-2025-0084781-32"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2025.01.22",
+        "receiptNumber": "1-1-2025-0084804-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.02.19",
+        "receiptNumber": "1-1-2025-0191333-89"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.02.19",
+        "receiptNumber": "1-1-2025-0191334-24"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.09.29",
+        "receiptNumber": "9-5-2025-0946461-69"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220077594.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93de0e4d8c4f4e666d450baed736f4abcf795e18112aad051880c308c505d41e3072a383aab55e64fc2d80f21c52ae5656b237e230dc66a80f",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf6d3d4edd9e7a4b967424a893843cd3b607d41c77456d872290ac405fe54b5b5c8413c0c518fdc4a8ae346bc2ab46d4dbe22767cfe1445cab"
+  },
+  "rndInfoArray": ""
+}

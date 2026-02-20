@@ -1,0 +1,914 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2011.11.28",
+      "applicationFlag": "",
+      "applicationNumber": "10-2011-0125255",
+      "claimCount": "17",
+      "examinerName": "이재정",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "ｃ-Ｍｅｔ에 대한 인간항체에 약물이 접합된 약물 복합체 및 이의 용도",
+      "inventionTitleEng": "Cytotoxic drug conjugated c-Met-targeting full  agonist human antibody and use thereof",
+      "openDate": "2013.06.05",
+      "openNumber": "10-2013-0059114",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2012.11.29",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2014.11.27",
+      "publicationNumber": "",
+      "registerDate": "2014.11.12",
+      "registerNumber": "10-1463098-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 47/48"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/7042"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 c-Met에 특이적인 인간항체에 세포독성 약물이 접합된 약물 복합체에 관한 것으로, 구체적으로 c-Met에 특이적인 인간항체에 세포독성 약물이 접합된 약물 복합체, 상기 약물 복합체를 포함하는 암 치료용 약학적 조성물 및 상기 약물 복합체 또는 약학적 조성물을 개체에 투여하는 단계를 포함하는 암 치료 방법에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020110125255",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20111128",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 1로 기재된 중쇄 CDR1; 서열번호 2로 기재된 중쇄 CDR2; 및 서열번호 3으로 기재된 중쇄 CDR3를 포함하는 중쇄 가변영역과 서열번호 4로 기재된 경쇄 CDR1; 서열번호 5로 기재된 경쇄 CDR2; 및 서열번호 6으로 기재된 경쇄 CDR3를 포함하는 경쇄 가변영역을 포함하는, c-Met에 특이적인 인간항체에 세포독성 약물이 접합된 약물 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 인간항체는 중쇄 가변영역에 시스테인이 추가된 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 인간항체는 아고니스트 (agonist) 항체인 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 인간항체는 서열번호 7 또는 서열번호 8로 기재된 중쇄 가변영역 아미노산 서열 및 서열번호 11로 기재된 경쇄 가변영역 아미노산 서열을 포함하는 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 인간항체는 서열번호 13으로 기재된 중쇄 불변영역 아미노산 서열 및 서열번호 15로 기재된 경쇄 불변영역을 포함하는 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포독성 약물은 링커 (linker)에 의해 인간 항체에 접합된 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 링커는 히드라존 (hydrazone) 또는 펩타이드 링커인 것인 약물 복합체.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포독성 약물이 시프 염기 (Schiff base)에 의해 인간 항체에 접합된 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 세포독성 약물은 [링커-Val (Valine)-Cit (citrulline)] 또는 [링커-시프 염기]에 의해 인간항체에 접합된 것인 약물 복합체.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포독성 약물은 독소루비신 (Doxorubicin), 카보플라틴 (파라플라틴)[Carboplatin(paraplatin)], 시스플라틴 (Cisplatin), 시클로포스파미드 (Cyclophosphamide), 이포스파미드 (Ifosfamide), 니드란 (Nidran), 질소머스타드 (메클로에타민 염산염)[Nitrogen mustar(Mechlorethamine HCL)], 블레오마이신 (Bleomycin), , 미토마이신 C (Mitomycin C), 시타라빈 (Cytarabine), 플루로우라실 (Flurouracil), 젬시타빈 (Gemcitabine), 트리메트렉세이트 (Trimetrexate), 메토크렉세이트 (Methotrexate), 에토포시드 (Etoposide), 빈블라스틴 (Vinblastine), 비노렐빈 (vinorelbine), 알림타 (Alimta), 알트레타민 (Altretamine), 프로카바진 (Procarbazine), 탁솔 (Taxol), 탁소텔 (Taxotere), 토포테칸 (Topotecan) 및 이리노테칸 (Irinotecan)으로 이루어진 군에서 선택된 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항의 약물 복합체를 포함하는 암 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 암은 c-Met을 발현하는 암인 것인 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 암은 저산소 종양 (hypoxic tumor)인 것인 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 복합체는 세포 내로 엔도사이토시스에 의해 도입되는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 복합체는 세포 내 프로테아제에 또는 세포 내 산성 조건에 의해서 세포독성 약물이 분리되는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항의 약물 복합체를 인간을 제외한 동물에게 투여하는 단계를 포함하는, 암 치료 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항의 약학적 조성물을 인간을 제외한 동물에게 투여하는 단계를 포함하는, 암 치료 방법.",
+          "refers_to": [
+            11
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20140701",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 1로 기재된 중쇄 CDR1, 서열번호 2로 기재된 중쇄 CDR2, 및 서열번호 3으로 기재된 중쇄 CDR3를 모두 포함하는 중쇄 가변영역; 및서열번호 4로 기재된 경쇄 CDR1, 서열번호 5로 기재된 경쇄 CDR2, 및 서열번호 6으로 기재된 경쇄 CDR3를 모두 포함하는 경쇄 가변영역을 모두 포함하는 c-Met에 특이적인 인간항체에, 세포독성 약물이 접합된 약물 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 인간항체는 중쇄 가변영역에 시스테인이 추가된 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 인간항체는 c-Met에 대한 아고니스트 (agonist) 항체인 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 인간항체의 중쇄 가변영역은 서열번호 7 또는 서열번호 8로 기재된 아미노산 서열을 포함하고,상기 경쇄 가변영역은 서열번호 11로 기재된 아미노산 서열을 포함하는 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 인간항체는 서열번호 13으로 기재된 중쇄 불변영역 아미노산 서열 및 서열번호 15로 기재된 경쇄 불변영역을 추가로 포함하는 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 세포독성 약물은 링커 (linker)에 의해 인간 항체에 접합된 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 링커는 히드라존 (hydrazone) 또는 펩타이드 링커인 것인 약물 복합체.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 세포독성 약물이 시프 염기 (Schiff base)에 의해 인간 항체에 접합된 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 세포독성 약물은 [링커-Val (Valine)-Cit (citrulline)] 또는 [링커-시프 염기]에 의해 인간항체에 접합된 것인 약물 복합체.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 세포독성 약물은 독소루비신 (Doxorubicin),   카보플라틴 (파라플라틴)[Carboplatin(paraplatin)], 시스플라틴 (Cisplatin), 시클로포스파미드 (Cyclophosphamide), 이포스파미드 (Ifosfamide), 니드란 (Nidran), 질소머스타드 (메클로에타민 염산염)[Nitrogen mustar(Mechlorethamine HCL)], 블레오마이신 (Bleomycin), , 미토마이신 C (Mitomycin C), 시타라빈 (Cytarabine), 플루로우라실 (Flurouracil), 젬시타빈 (Gemcitabine), 트리메트렉세이트 (Trimetrexate), 메토크렉세이트 (Methotrexate), 에토포시드 (Etoposide), 빈블라스틴 (Vinblastine), 비노렐빈 (vinorelbine), 알림타 (Alimta), 알트레타민 (Altretamine), 프로카바진 (Procarbazine), 탁솔 (Taxol), 탁소텔 (Taxotere), 토포테칸 (Topotecan) 및 이리노테칸 (Irinotecan)으로 이루어진 군에서 선택된 것인 약물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제10항 중 어느 한 항의 약물 복합체를 포함하는 암 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 암은 c-Met을 발현하는 암인 것인 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 암은 저산소 종양 (hypoxic tumor)인 것인 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 복합체는 세포 내로 엔도사이토시스에 의해 도입되는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 복합체는 세포 내 프로테아제에 또는 세포 내 산성 조건에 의해서 세포독성 약물이 분리되는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항의 약물 복합체를 인간을 제외한 동물에게 투여하는 단계를 포함하는, 암 치료 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항의 약학적 조성물을 인간을 제외한 동물에게 투여하는 단계를 포함하는, 암 치료 방법.",
+          "refers_to": [
+            11
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20111128",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 17,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 1로 기재된 중쇄 CDR1; 서열번호 2로 기재된 중쇄 CDR2; 및 서열번호 3으로 기재된 중쇄 CDR3를 포함하는 중쇄 가변영역과 서열번호 4로 기재된 경쇄 CDR1; 서열번호 5로 기재된 경쇄 CDR2; 및 서열번호 6으로 기재된 경쇄 CDR3를 포함하는 경쇄 가변영역을 포함하는, c-Met에 특이적인 인간항체에 세포독성 약물이 접합된 약물 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 인간항체는 중쇄 가변영역에 시스테인이 추가된 것인 약물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 인간항체는 아고니스트 (agonist) 항체인 것인 약물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 인간항체는 서열번호 7 또는 서열번호 8로 기재된 중쇄 가변영역 아미노산 서열 및 서열번호 11로 기재된 경쇄 가변영역 아미노산 서열을 포함하는 것인 약물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 인간항체는 서열번호 13으로 기재된 중쇄 불변영역 아미노산 서열 및 서열번호 15로 기재된 경쇄 불변영역을 포함하는 것인 약물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포독성 약물은 링커 (linker)에 의해 인간 항체에 접합된 것인 약물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 링커는 히드라존 (hydrazone) 또는 펩타이드 링커인 것인 약물 복합체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포독성 약물이 시프 염기 (Schiff base)에 의해 인간 항체에 접합된 것인 약물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 세포독성 약물은 [링커-Val (Valine)-Cit (citrulline)] 또는 [링커-시프 염기]에 의해 인간항체에 접합된 것인 약물 복합체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포독성 약물은 독소루비신 (Doxorubicin), 카보플라틴 (파라플라틴)[Carboplatin(paraplatin)], 시스플라틴 (Cisplatin), 시클로포스파미드 (Cyclophosphamide), 이포스파미드 (Ifosfamide), 니드란 (Nidran), 질소머스타드 (메클로에타민 염산염)[Nitrogen mustar(Mechlorethamine HCL)], 블레오마이신 (Bleomycin), , 미토마이신 C (Mitomycin C), 시타라빈 (Cytarabine), 플루로우라실 (Flurouracil), 젬시타빈 (Gemcitabine), 트리메트렉세이트 (Trimetrexate), 메토크렉세이트 (Methotrexate), 에토포시드 (Etoposide), 빈블라스틴 (Vinblastine), 비노렐빈 (vinorelbine), 알림타 (Alimta), 알트레타민 (Altretamine), 프로카바진 (Procarbazine), 탁솔 (Taxol), 탁소텔 (Taxotere), 토포테칸 (Topotecan) 및 이리노테칸 (Irinotecan)으로 이루어진 군에서 선택된 것인 약물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항의 약물 복합체를 포함하는 암 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 암은 c-Met을 발현하는 암인 것인 약학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 암은 저산소 종양 (hypoxic tumor)인 것인 약학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 복합체는 세포 내로 엔도사이토시스에 의해 도입되는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 복합체는 세포 내 프로테아제에 또는 세포 내 산성 조건에 의해서 세포독성 약물이 분리되는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항의 약물 복합체를 인간을 제외한 동물에게 투여하는 단계를 포함하는, 암 치료 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항의 약학적 조성물을 인간을 제외한 동물에게 투여하는 단계를 포함하는, 암 치료 방법.",
+            "refers_to": [
+              11
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20140701",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 1로 기재된 중쇄 CDR1, 서열번호 2로 기재된 중쇄 CDR2, 및 서열번호 3으로 기재된 중쇄 CDR3를 모두 포함하는 중쇄 가변영역; 및\n서열번호 4로 기재된 경쇄 CDR1, 서열번호 5로 기재된 경쇄 CDR2, 및 서열번호 6으로 기재된 경쇄 CDR3를 모두 포함하는 경쇄 가변영역을 모두 포함하는 c-Met에 특이적인 인간항체에, 세포독성 약물이 접합된 약물 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 인간항체는 c-Met에 대한 아고니스트 (agonist) 항체인 것인 약물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 인간항체의 중쇄 가변영역은 서열번호 7 또는 서열번호 8로 기재된 아미노산 서열을 포함하고,\n상기 경쇄 가변영역은 서열번호 11로 기재된 아미노산 서열을 포함하는 것인 약물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 인간항체는 서열번호 13으로 기재된 중쇄 불변영역 아미노산 서열 및 서열번호 15로 기재된 경쇄 불변영역을 추가로 포함하는 것인 약물 복합체.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 17,
+      "after_claim_count": 4,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "대전광역시 유성구...",
+        "code": "319990341665",
+        "country": "대한민국",
+        "engName": "Korea Research Institute of Bioscience and Biotechnology",
+        "name": "한국생명공학연구원"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "120080409968",
+        "country": "대한민국",
+        "engName": "Y-Biologics Inc.",
+        "name": "주식회사 와이바이오로직스"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "PARK, Young Woo",
+        "name": "박영우"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "JO, Ki Won",
+        "name": "조기원"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "JO, Sun Jeong",
+        "name": "조선정"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "HYUN, Soon Sil",
+        "name": "현순실"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "PARK, Jae Eun",
+        "name": "박재은"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "YOO, Seok Ho",
+        "name": "유석호"
+      },
+      {
+        "address": "대전광역시 대덕구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "JANG, Myeoung Hee",
+        "name": "장명희"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "KIM, Hye Nan",
+        "name": "김혜난"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "PARK, Chan Woong",
+        "name": "박찬웅"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 송파구 법원로 ***, *층(문정동)(특허법인한얼)",
+      "code": "919990004206",
+      "country": "대한민국",
+      "engName": "MIN SON",
+      "name": "손민"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020110097839 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020110043548 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020110037932 A",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2011.11.28",
+        "receiptNumber": "1-1-2011-0943099-88"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2011.12.01",
+        "receiptNumber": "1-5-2011-0112888-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2011.12.30",
+        "receiptNumber": "1-1-2011-1056010-09"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2012.06.01",
+        "receiptNumber": "4-1-2012-5117206-02"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2012.11.29",
+        "receiptNumber": "1-1-2012-0992258-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2012.11.29",
+        "receiptNumber": "1-1-2012-0992259-69"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2014.05.01",
+        "receiptNumber": "9-5-2014-0301971-57"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2014.07.01",
+        "receiptNumber": "1-1-2014-0622132-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2014.07.01",
+        "receiptNumber": "1-1-2014-0622131-71"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2014.08.29",
+        "receiptNumber": "4-1-2014-5104023-18"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2014.10.17",
+        "receiptNumber": "9-5-2014-0707003-08"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2015.02.05",
+        "receiptNumber": "4-1-2015-0007152-08"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2015.11.17",
+        "receiptNumber": "4-1-2015-5153056-97"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2016.10.11",
+        "receiptNumber": "4-1-2016-5144477-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2016.10.11",
+        "receiptNumber": "4-1-2016-5144809-94"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2018.10.16",
+        "receiptNumber": "4-1-2018-5208741-36"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2018.11.09",
+        "receiptNumber": "4-1-2018-5226744-95"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.08.22",
+        "receiptNumber": "4-1-2021-5224541-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.11.04",
+        "receiptNumber": "4-1-2022-5259234-12"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.05.28",
+        "receiptNumber": "4-1-2024-5165410-94"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.09.09",
+        "receiptNumber": "4-1-2024-5268975-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.09.26",
+        "receiptNumber": "4-1-2024-5283793-99"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020110125255.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e008d842ef7e67388c82dafb57edddf88d3df3d8cc4cb36deda6a319ca555cab4012c8774d9d70b765e3f7d3dc344f49e4429130985026feae2",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf08bc3d78e1f6fbd5426e479dc5eb2fd22cfb506978ad9a69abb1237ece4c19364ea6058ff0e7526af63594dd1740b4b7d0933d480c830960"
+  },
+  "rndInfoArray": ""
+}

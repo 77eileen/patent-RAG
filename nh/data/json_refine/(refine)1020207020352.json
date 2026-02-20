@@ -1,0 +1,3982 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2018.12.14",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-7020352",
+      "claimCount": "15",
+      "examinerName": "",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "엑소좀 관련 유전자 편집을 이용한 암 치료 방법 및 조성물",
+      "inventionTitleEng": "METHODS AND COMPOSITIONS FOR TREATING CANCER USING EXOSOMES-ASSOCIATED GENE EDITING",
+      "openDate": "2020.08.20",
+      "openNumber": "10-2020-0098639",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2021.12.13",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2020.07.14"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/85"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "C12N 15/88"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 9/22"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/113"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 9/127"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "표면에 CD47을 포함하고 CRISPR 시스템을 추가로 포함하는 엑소좀을 포함하는 조성물이 본원에 제공된다. 추가로, 유전자 편집 및 유전자 편집에 의한 암 치료를 위해 엑소좀을 사용하는 방법도 제공된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020207020352",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200714",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 93,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "엑소좀을 포함하는 조성물로서, 상기 엑소좀이 그 표면에 CD47을 포함하고, 상기 엑소좀이 CRISPR 시스템을 포함하는 것인, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 CRISPR 시스템이 엔도뉴클레아제 및 가이드 RNA (gRNA)를 포함하는 것인, 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 엔도뉴클레아제가 Cas 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 엔도뉴클레아제가 Cas9 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 엔도뉴클레아제가 Cpf1 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 가이드 RNA가 단일 gRNA인 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 단일 gRNA가 CRISPR-RNA (crRNA)인 것인, 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 단일 gRNA가 crRNA 및 전사 활성화 CRISPR RNA (tracrRNA)의 융합물을 포함하는 것인, 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 가이드 RNA가 crRNA 및 tracrRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 엔도뉴클레아제 및 gRNA가 엑소좀 내의 하나의 핵산 분자 상에 암호화되는 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 CRISPR 시스템이 질환 유발 돌연변이를 표적으로 삼는 것인, 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 질환 유발 돌연변이가 암 유발 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 암 유발 돌연변이가 종양유전자 내의 활성화 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 암 유발 돌연변이가 종양 억제 유전자 내의 억제성 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 암 유발 돌연변이가 KrasG12D인 것인, 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 적어도 50%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서, 적어도 60%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 적어도 70%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 적어도 80%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 적어도 90%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제20항 중 어느 한 항의 엑소좀 및 부형제를 포함하는 약제학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, 비경구 투여용으로 제형화되는, 조성물.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 정맥내, 근육내, 피하 또는 복강내 주사용으로 제형화되는, 조성물.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 항균제를 추가로 포함하는, 조성물.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항에 있어서, 상기 항균제가 염화벤잘코늄, 염화벤제토늄, 벤질알코올, 브로노폴, 세트리미드, 염화세틸피리디늄, 클로르헥시딘, 클로로부탄올, 클로로크레졸, 클로록실레놀, 크레졸, 에틸알코올, 글리세린, 헥세티딘, 이미드우레아, 페놀, 페녹시에탄올, 페닐에틸알코올, 페닐질산수은, 프로필렌 글리콜 또는 티메로살인 것인, 조성물.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제25항 중 어느 한 항의 조성물을 질환의 치료를 필요로 하는 환자에게 투여함으로써 상기 환자의 질환을 치료하는 단계를 포함하는 환자의 질환을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 투여가 상기 환자의 질환이 생긴 세포에서 유전자 편집을 유도하는 것인, 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 질환이 암인 것인, 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항에 있어서, 상기 암이 췌장관 선암종(pancreatic ductal adenocarcinoma)인 것인, 방법.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 투여가 전신 투여인 것인, 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제30항에 있어서, 상기 전신 투여가 정맥내 투여인 것인, 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 환자에게 적어도 제2 요법을 실시하는 단계를 추가로 포함하는 것인, 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제32항에 있어서, 상기 제2 요법이 수술 요법, 화학요법, 방사선 요법, 저온요법, 호르몬 요법 또는 면역요법을 포함하는 것인, 방법.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 환자가 인간인 것인, 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제34항에 있어서, 상기 엑소좀이 환자에 대하여 자가 유래성인 것인, 방법.",
+          "refers_to": [
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "환자의 질병을 치료하는데 사용하기 위한 엑소좀을 포함하는 조성물로서, 상기 엑소좀이 그 표면에 CD47을 포함하고, 상기 엑소좀이 CRISPR 시스템을 포함하는 것인, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 CRISPR 시스템이 엔도뉴클레아제 및 가이드 RNA (gRNA)를 포함하는 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제37항에 있어서, 상기 엔도뉴클레아제가 Cas 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제38항에 있어서, 상기 엔도뉴클레아제가 Cas9 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제37항에 있어서, 상기 엔도뉴클레아제가 Cpf1 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제37항에 있어서, 상기 가이드 RNA가 단일 gRNA인 것인, 조성물.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 상기 단일 gRNA가 CRISPR-RNA (crRNA)인 것인, 조성물.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 상기 단일 gRNA가 crRNA 및 전사 활성화 CRISPR RNA (tracrRNA)의 융합물을 포함하는 것인, 조성물.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제37항에 있어서, 상기 가이드 RNA가 crRNA 및 tracrRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 엔도뉴클레아제 및 gRNA가 엑소좀 내의 하나의 핵산 분자 상에 암호화되는 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 CRISPR 시스템이 질환 유발 돌연변이를 표적으로 삼는 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제46항에 있어서, 상기 질환 유발 돌연변이가 암 유발 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항에 있어서, 상기 암 유발 돌연변이가 종양유전자 내의 활성화 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항에 있어서, 상기 암 유발 돌연변이가 종양 억제 유전자 내의 억제성 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항에 있어서, 상기 암 유발 돌연변이가 KrasG12D인 것인, 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제37항에 있어서, 적어도 50%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제51항에 있어서, 적어도 60%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            51
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제52항에 있어서, 적어도 70%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            52
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제53항에 있어서, 적어도 80%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            53
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제54항에 있어서, 적어도 90%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            54
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 투여가 상기 환자의 질환이 생긴 세포에서 유전자 편집을 유도하는 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 질환이 암인 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제57항에 있어서, 상기 암이 췌장관 선암종인 것인, 조성물.",
+          "refers_to": [
+            57
+          ]
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 비경구 투여용으로 제형화되는, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제59항에 있어서, 정맥내, 근육내, 피하 또는 복강내 주사용으로 제형화되는, 조성물.",
+          "refers_to": [
+            59
+          ]
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제59항에 있어서, 항균제를 추가로 포함하는, 조성물.",
+          "refers_to": [
+            59
+          ]
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항에 있어서, 상기 항균제가 염화벤잘코늄, 염화벤제토늄, 벤질알코올, 브로노폴, 세트리미드, 염화세틸피리디늄, 클로르헥시딘, 클로로부탄올, 클로로크레졸, 클로록실레놀, 크레졸, 에틸알코올, 글리세린, 헥세티딘, 이미드우레아, 페놀, 페녹시에탄올, 페닐에틸알코올, 페닐질산수은, 프로필렌 글리콜 또는 티메로살인 것인, 조성물.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 환자에게 적어도 제2 요법제를 추가로 포함하는 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제63항에 있어서, 상기 제2 요법이 수술 요법, 화학요법, 방사선 요법, 저온요법, 호르몬 요법 또는 면역요법을 포함하는 것인, 조성물.",
+          "refers_to": [
+            63
+          ]
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 환자가 인간인 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제65항에 있어서, 상기 엑소좀이 환자에 대하여 자가 유래성인 것인, 조성물.",
+          "refers_to": [
+            65
+          ]
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "질병을 치료하기 위한 약제의 제조에 있어서의 엑소좀의 용도로서, 상기 엑소좀이 그 표면에 CD47을 포함하고, 상기 엑소좀이 CRISPR 시스템을 포함하는 것인, 용도.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제67항에 있어서, 상기 CRISPR 시스템이 엔도뉴클레아제 및 가이드 RNA (gRNA)를 포함하는 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제68항에 있어서, 상기 엔도뉴클레아제가 Cas 엔도뉴클레아제인 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제69항에 있어서, 상기 엔도뉴클레아제가 Cas9 엔도뉴클레아제인 것인, 용도.",
+          "refers_to": [
+            69
+          ]
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제68항에 있어서, 상기 엔도뉴클레아제가 Cpf1 엔도뉴클레아제인 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제68항에 있어서, 상기 가이드 RNA가 단일 gRNA인 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 73,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제72항에 있어서, 상기 단일 gRNA가 CRISPR-RNA (crRNA)인 것인, 용도.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 74,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제72항에 있어서, 상기 단일 gRNA가 crRNA 및 전사 활성화 CRISPR RNA (tracrRNA)의 융합물을 포함하는 것인, 용도.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 75,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제68항에 있어서, 상기 가이드 RNA가 crRNA 및 tracrRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 76,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제68항에 있어서, 상기 엔도뉴클레아제 및 gRNA가 엑소좀 내의 하나의 핵산 분자 상에 암호화되는 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 77,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제67항에 있어서, 상기 CRISPR 시스템이 질환 유발 돌연변이를 표적으로 삼는 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 78,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제77항에 있어서, 상기 질환 유발 돌연변이가 암 유발 돌연변이인 것인, 용도.",
+          "refers_to": [
+            77
+          ]
+        },
+        {
+          "claim_number": 79,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제78항에 있어서, 상기 암 유발 돌연변이가 종양유전자 내의 활성화 돌연변이인 것인, 용도.",
+          "refers_to": [
+            78
+          ]
+        },
+        {
+          "claim_number": 80,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제78항에 있어서, 상기 암 유발 돌연변이가 종양 억제 유전자 내의 억제성 돌연변이인 것인, 용도.",
+          "refers_to": [
+            78
+          ]
+        },
+        {
+          "claim_number": 81,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제78항에 있어서, 상기 암 유발 돌연변이가 KrasG12D인 것인, 용도.",
+          "refers_to": [
+            78
+          ]
+        },
+        {
+          "claim_number": 82,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제68항에 있어서, 적어도 50%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 83,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제82항에 있어서, 적어도 60%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            82
+          ]
+        },
+        {
+          "claim_number": 84,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제83항에 있어서, 적어도 70%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            83
+          ]
+        },
+        {
+          "claim_number": 85,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제84항에 있어서, 적어도 80%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            84
+          ]
+        },
+        {
+          "claim_number": 86,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제85항에 있어서, 적어도 90%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            85
+          ]
+        },
+        {
+          "claim_number": 87,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제67항에 있어서, 상기 질환이 암인 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 88,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제87항에 있어서, 상기 암이 췌장관 선암종인 것인, 용도.",
+          "refers_to": [
+            87
+          ]
+        },
+        {
+          "claim_number": 89,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제67항에 있어서, 상기 약제가 비경구 투여용으로 제형화되는 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 90,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제67항에 있어서, 상기 약제가 전신 투여용으로 제형화되는 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 91,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제89항에 있어서, 상기 약제가 정맥내, 근육내, 피하 또는 복강내 주사용으로 제형화되는, 용도.",
+          "refers_to": [
+            89
+          ]
+        },
+        {
+          "claim_number": 92,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제67항에 있어서, 상기 약제가 항균제를 포함하는 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 93,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제92항에 있어서, 상기 항균제가 염화벤잘코늄, 염화벤제토늄, 벤질알코올, 브로노폴, 세트리미드, 염화세틸피리디늄, 클로르헥시딘, 클로로부탄올, 클로로크레졸, 클로록실레놀, 크레졸, 에틸알코올, 글리세린, 헥세티딘, 이미드우레아, 페놀, 페녹시에탄올, 페닐에틸알코올, 페닐질산수은, 프로필렌 글리콜 또는 티메로살인 것인, 용도.",
+          "refers_to": [
+            92
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20250429",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 93,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "엑소좀을 포함하는 조성물로서, 상기 엑소좀이 그 표면에 CD47을 포함하고, 상기 엑소좀이 CRISPR 시스템을 포함하는 것인, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 CRISPR 시스템이 엔도뉴클레아제 및 가이드 RNA (gRNA)를 포함하는 것인, 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 엔도뉴클레아제가 Cas 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 상기 엔도뉴클레아제가 Cas9 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 엔도뉴클레아제가 Cpf1 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 가이드 RNA가 단일 gRNA인 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 단일 gRNA가 CRISPR-RNA (crRNA)인 것인, 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 단일 gRNA가 crRNA 및 전사 활성화 CRISPR RNA (tracrRNA)의 융합물을 포함하는 것인, 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 가이드 RNA가 crRNA 및 tracrRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 엔도뉴클레아제 및 gRNA가 엑소좀 내의 하나의 핵산 분자 상에 암호화되는 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 CRISPR 시스템이 질환 유발 돌연변이를 표적으로 삼는 것인, 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 질환 유발 돌연변이가 암 유발 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 암 유발 돌연변이가 종양유전자 내의 활성화 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 암 유발 돌연변이가 종양 억제 유전자 내의 억제성 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 암 유발 돌연변이가 KrasG12D인 것인, 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 적어도 50%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, 적어도 60%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, 적어도 70%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 적어도 80%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, 적어도 90%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제20항 중 어느 한 항의 엑소좀 및 부형제를 포함하는 약제학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 비경구 투여용으로 제형화되는, 조성물.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항에 있어서, 정맥내, 근육내, 피하 또는 복강내 주사용으로 제형화되는, 조성물.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항에 있어서, 항균제를 추가로 포함하는, 조성물.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 항균제가 염화벤잘코늄, 염화벤제토늄, 벤질알코올, 브로노폴, 세트리미드, 염화세틸피리디늄, 클로르헥시딘, 클로로부탄올, 클로로크레졸, 클로록실레놀, 크레졸, 에틸알코올, 글리세린, 헥세티딘, 이미드우레아, 페놀, 페녹시에탄올, 페닐에틸알코올, 페닐질산수은, 프로필렌 글리콜 또는 티메로살인 것인, 조성물.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항 내지 제25항 중 어느 한 항의 조성물을 질환의 치료를 필요로 하는 환자에게 투여함으로써 상기 환자의 질환을 치료하는 단계를 포함하는 환자의 질환을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제26항에 있어서, 상기 투여가 상기 환자의 질환이 생긴 세포에서 유전자 편집을 유도하는 것인, 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제26항에 있어서, 상기 질환이 암인 것인, 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제28항에 있어서, 상기 암이 췌장관 선암종(pancreatic ductal adenocarcinoma)인 것인, 방법.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제26항에 있어서, 상기 투여가 전신 투여인 것인, 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제30항에 있어서, 상기 전신 투여가 정맥내 투여인 것인, 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제26항에 있어서, 환자에게 적어도 제2 요법을 실시하는 단계를 추가로 포함하는 것인, 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제32항에 있어서, 상기 제2 요법이 수술 요법, 화학요법, 방사선 요법, 저온요법, 호르몬 요법 또는 면역요법을 포함하는 것인, 방법.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제26항에 있어서, 상기 환자가 인간인 것인, 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제34항에 있어서, 상기 엑소좀이 환자에 대하여 자가 유래성인 것인, 방법.",
+          "refers_to": [
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "환자의 질병을 치료하는데 사용하기 위한 엑소좀을 포함하는 조성물로서, 상기 엑소좀이 그 표면에 CD47을 포함하고, 상기 엑소좀이 CRISPR 시스템을 포함하는 것인, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 상기 CRISPR 시스템이 엔도뉴클레아제 및 가이드 RNA (gRNA)를 포함하는 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제37항에 있어서, 상기 엔도뉴클레아제가 Cas 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제38항에 있어서, 상기 엔도뉴클레아제가 Cas9 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제37항에 있어서, 상기 엔도뉴클레아제가 Cpf1 엔도뉴클레아제인 것인, 조성물.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제37항에 있어서, 상기 가이드 RNA가 단일 gRNA인 것인, 조성물.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 상기 단일 gRNA가 CRISPR-RNA (crRNA)인 것인, 조성물.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 상기 단일 gRNA가 crRNA 및 전사 활성화 CRISPR RNA (tracrRNA)의 융합물을 포함하는 것인, 조성물.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제37항에 있어서, 상기 가이드 RNA가 crRNA 및 tracrRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 상기 엔도뉴클레아제 및 gRNA가 엑소좀 내의 하나의 핵산 분자 상에 암호화되는 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 상기 CRISPR 시스템이 질환 유발 돌연변이를 표적으로 삼는 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제46항에 있어서, 상기 질환 유발 돌연변이가 암 유발 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제47항에 있어서, 상기 암 유발 돌연변이가 종양유전자 내의 활성화 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제47항에 있어서, 상기 암 유발 돌연변이가 종양 억제 유전자 내의 억제성 돌연변이인 것인, 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제47항에 있어서, 상기 암 유발 돌연변이가 KrasG12D인 것인, 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제37항에 있어서, 적어도 50%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제51항에 있어서, 적어도 60%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            51
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제52항에 있어서, 적어도 70%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            52
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제53항에 있어서, 적어도 80%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            53
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제54항에 있어서, 적어도 90%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+          "refers_to": [
+            54
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 상기 투여가 상기 환자의 질환이 생긴 세포에서 유전자 편집을 유도하는 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 상기 질환이 암인 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제57항에 있어서, 상기 암이 췌장관 선암종인 것인, 조성물.",
+          "refers_to": [
+            57
+          ]
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 비경구 투여용으로 제형화되는, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제59항에 있어서, 정맥내, 근육내, 피하 또는 복강내 주사용으로 제형화되는, 조성물.",
+          "refers_to": [
+            59
+          ]
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제59항에 있어서, 항균제를 추가로 포함하는, 조성물.",
+          "refers_to": [
+            59
+          ]
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제61항에 있어서, 상기 항균제가 염화벤잘코늄, 염화벤제토늄, 벤질알코올, 브로노폴, 세트리미드, 염화세틸피리디늄, 클로르헥시딘, 클로로부탄올, 클로로크레졸, 클로록실레놀, 크레졸, 에틸알코올, 글리세린, 헥세티딘, 이미드우레아, 페놀, 페녹시에탄올, 페닐에틸알코올, 페닐질산수은, 프로필렌 글리콜 또는 티메로살인 것인, 조성물.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 환자에게 적어도 제2 요법제를 추가로 포함하는 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제63항에 있어서, 상기 제2 요법이 수술 요법, 화학요법, 방사선 요법, 저온요법, 호르몬 요법 또는 면역요법을 포함하는 것인, 조성물.",
+          "refers_to": [
+            63
+          ]
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 상기 환자가 인간인 것인, 조성물.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제65항에 있어서, 상기 엑소좀이 환자에 대하여 자가 유래성인 것인, 조성물.",
+          "refers_to": [
+            65
+          ]
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "질병을 치료하기 위한 약제의 제조에 있어서의 엑소좀의 용도로서, 상기 엑소좀이 그 표면에 CD47을 포함하고, 상기 엑소좀이 CRISPR 시스템을 포함하는 것인, 용도.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제67항에 있어서, 상기 CRISPR 시스템이 엔도뉴클레아제 및 가이드 RNA (gRNA)를 포함하는 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제68항에 있어서, 상기 엔도뉴클레아제가 Cas 엔도뉴클레아제인 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제69항에 있어서, 상기 엔도뉴클레아제가 Cas9 엔도뉴클레아제인 것인, 용도.",
+          "refers_to": [
+            69
+          ]
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제68항에 있어서, 상기 엔도뉴클레아제가 Cpf1 엔도뉴클레아제인 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제68항에 있어서, 상기 가이드 RNA가 단일 gRNA인 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 73,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제72항에 있어서, 상기 단일 gRNA가 CRISPR-RNA (crRNA)인 것인, 용도.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 74,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제72항에 있어서, 상기 단일 gRNA가 crRNA 및 전사 활성화 CRISPR RNA (tracrRNA)의 융합물을 포함하는 것인, 용도.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 75,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제68항에 있어서, 상기 가이드 RNA가 crRNA 및 tracrRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 76,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제68항에 있어서, 상기 엔도뉴클레아제 및 gRNA가 엑소좀 내의 하나의 핵산 분자 상에 암호화되는 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 77,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제67항에 있어서, 상기 CRISPR 시스템이 질환 유발 돌연변이를 표적으로 삼는 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 78,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제77항에 있어서, 상기 질환 유발 돌연변이가 암 유발 돌연변이인 것인, 용도.",
+          "refers_to": [
+            77
+          ]
+        },
+        {
+          "claim_number": 79,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제78항에 있어서, 상기 암 유발 돌연변이가 종양유전자 내의 활성화 돌연변이인 것인, 용도.",
+          "refers_to": [
+            78
+          ]
+        },
+        {
+          "claim_number": 80,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제78항에 있어서, 상기 암 유발 돌연변이가 종양 억제 유전자 내의 억제성 돌연변이인 것인, 용도.",
+          "refers_to": [
+            78
+          ]
+        },
+        {
+          "claim_number": 81,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제78항에 있어서, 상기 암 유발 돌연변이가 KrasG12D인 것인, 용도.",
+          "refers_to": [
+            78
+          ]
+        },
+        {
+          "claim_number": 82,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제68항에 있어서, 적어도 50%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 83,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제82항에 있어서, 적어도 60%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            82
+          ]
+        },
+        {
+          "claim_number": 84,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제83항에 있어서, 적어도 70%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            83
+          ]
+        },
+        {
+          "claim_number": 85,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제84항에 있어서, 적어도 80%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            84
+          ]
+        },
+        {
+          "claim_number": 86,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제85항에 있어서, 적어도 90%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+          "refers_to": [
+            85
+          ]
+        },
+        {
+          "claim_number": 87,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제67항에 있어서, 상기 질환이 암인 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 88,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제87항에 있어서, 상기 암이 췌장관 선암종인 것인, 용도.",
+          "refers_to": [
+            87
+          ]
+        },
+        {
+          "claim_number": 89,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제67항에 있어서, 상기 약제가 비경구 투여용으로 제형화되는 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 90,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제67항에 있어서, 상기 약제가 전신 투여용으로 제형화되는 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 91,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제89항에 있어서, 상기 약제가 정맥내, 근육내, 피하 또는 복강내 주사용으로 제형화되는, 용도.",
+          "refers_to": [
+            89
+          ]
+        },
+        {
+          "claim_number": 92,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제67항에 있어서, 상기 약제가 항균제를 포함하는 것인, 용도.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 93,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제92항에 있어서, 상기 항균제가 염화벤잘코늄, 염화벤제토늄, 벤질알코올, 브로노폴, 세트리미드, 염화세틸피리디늄, 클로르헥시딘, 클로로부탄올, 클로로크레졸, 클로록실레놀, 크레졸, 에틸알코올, 글리세린, 헥세티딘, 이미드우레아, 페놀, 페녹시에탄올, 페닐에틸알코올, 페닐질산수은, 프로필렌 글리콜 또는 티메로살인 것인, 용도.",
+          "refers_to": [
+            92
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200714",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 93,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "엑소좀을 포함하는 조성물로서, 상기 엑소좀이 그 표면에 CD47을 포함하고, 상기 엑소좀이 CRISPR 시스템을 포함하는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 CRISPR 시스템이 엔도뉴클레아제 및 가이드 RNA (gRNA)를 포함하는 것인, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 엔도뉴클레아제가 Cas 엔도뉴클레아제인 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 엔도뉴클레아제가 Cas9 엔도뉴클레아제인 것인, 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 엔도뉴클레아제가 Cpf1 엔도뉴클레아제인 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 가이드 RNA가 단일 gRNA인 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 단일 gRNA가 CRISPR-RNA (crRNA)인 것인, 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 단일 gRNA가 crRNA 및 전사 활성화 CRISPR RNA (tracrRNA)의 융합물을 포함하는 것인, 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 가이드 RNA가 crRNA 및 tracrRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 엔도뉴클레아제 및 gRNA가 엑소좀 내의 하나의 핵산 분자 상에 암호화되는 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 CRISPR 시스템이 질환 유발 돌연변이를 표적으로 삼는 것인, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 질환 유발 돌연변이가 암 유발 돌연변이인 것인, 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 암 유발 돌연변이가 종양유전자 내의 활성화 돌연변이인 것인, 조성물.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 암 유발 돌연변이가 종양 억제 유전자 내의 억제성 돌연변이인 것인, 조성물.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 암 유발 돌연변이가 KrasG12D인 것인, 조성물.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 적어도 50%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서, 적어도 60%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 적어도 70%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 적어도 80%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 적어도 90%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제20항 중 어느 한 항의 엑소좀 및 부형제를 포함하는 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 비경구 투여용으로 제형화되는, 조성물.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, 정맥내, 근육내, 피하 또는 복강내 주사용으로 제형화되는, 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, 항균제를 추가로 포함하는, 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 상기 항균제가 염화벤잘코늄, 염화벤제토늄, 벤질알코올, 브로노폴, 세트리미드, 염화세틸피리디늄, 클로르헥시딘, 클로로부탄올, 클로로크레졸, 클로록실레놀, 크레졸, 에틸알코올, 글리세린, 헥세티딘, 이미드우레아, 페놀, 페녹시에탄올, 페닐에틸알코올, 페닐질산수은, 프로필렌 글리콜 또는 티메로살인 것인, 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제25항 중 어느 한 항의 조성물을 질환의 치료를 필요로 하는 환자에게 투여함으로써 상기 환자의 질환을 치료하는 단계를 포함하는 환자의 질환을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 투여가 상기 환자의 질환이 생긴 세포에서 유전자 편집을 유도하는 것인, 방법.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 질환이 암인 것인, 방법.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항에 있어서, 상기 암이 췌장관 선암종(pancreatic ductal adenocarcinoma)인 것인, 방법.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 투여가 전신 투여인 것인, 방법.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제30항에 있어서, 상기 전신 투여가 정맥내 투여인 것인, 방법.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 환자에게 적어도 제2 요법을 실시하는 단계를 추가로 포함하는 것인, 방법.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제32항에 있어서, 상기 제2 요법이 수술 요법, 화학요법, 방사선 요법, 저온요법, 호르몬 요법 또는 면역요법을 포함하는 것인, 방법.",
+            "refers_to": [
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 환자가 인간인 것인, 방법.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제34항에 있어서, 상기 엑소좀이 환자에 대하여 자가 유래성인 것인, 방법.",
+            "refers_to": [
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "환자의 질병을 치료하는데 사용하기 위한 엑소좀을 포함하는 조성물로서, 상기 엑소좀이 그 표면에 CD47을 포함하고, 상기 엑소좀이 CRISPR 시스템을 포함하는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 CRISPR 시스템이 엔도뉴클레아제 및 가이드 RNA (gRNA)를 포함하는 것인, 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제37항에 있어서, 상기 엔도뉴클레아제가 Cas 엔도뉴클레아제인 것인, 조성물.",
+            "refers_to": [
+              37
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제38항에 있어서, 상기 엔도뉴클레아제가 Cas9 엔도뉴클레아제인 것인, 조성물.",
+            "refers_to": [
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제37항에 있어서, 상기 엔도뉴클레아제가 Cpf1 엔도뉴클레아제인 것인, 조성물.",
+            "refers_to": [
+              37
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제37항에 있어서, 상기 가이드 RNA가 단일 gRNA인 것인, 조성물.",
+            "refers_to": [
+              37
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 상기 단일 gRNA가 CRISPR-RNA (crRNA)인 것인, 조성물.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 상기 단일 gRNA가 crRNA 및 전사 활성화 CRISPR RNA (tracrRNA)의 융합물을 포함하는 것인, 조성물.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제37항에 있어서, 상기 가이드 RNA가 crRNA 및 tracrRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              37
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 엔도뉴클레아제 및 gRNA가 엑소좀 내의 하나의 핵산 분자 상에 암호화되는 것인, 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 CRISPR 시스템이 질환 유발 돌연변이를 표적으로 삼는 것인, 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제46항에 있어서, 상기 질환 유발 돌연변이가 암 유발 돌연변이인 것인, 조성물.",
+            "refers_to": [
+              46
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항에 있어서, 상기 암 유발 돌연변이가 종양유전자 내의 활성화 돌연변이인 것인, 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항에 있어서, 상기 암 유발 돌연변이가 종양 억제 유전자 내의 억제성 돌연변이인 것인, 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항에 있어서, 상기 암 유발 돌연변이가 KrasG12D인 것인, 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제37항에 있어서, 적어도 50%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              37
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제51항에 있어서, 적어도 60%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              51
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제52항에 있어서, 적어도 70%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              52
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제53항에 있어서, 적어도 80%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              53
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제54항에 있어서, 적어도 90%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              54
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 투여가 상기 환자의 질환이 생긴 세포에서 유전자 편집을 유도하는 것인, 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 질환이 암인 것인, 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제57항에 있어서, 상기 암이 췌장관 선암종인 것인, 조성물.",
+            "refers_to": [
+              57
+            ]
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 비경구 투여용으로 제형화되는, 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제59항에 있어서, 정맥내, 근육내, 피하 또는 복강내 주사용으로 제형화되는, 조성물.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제59항에 있어서, 항균제를 추가로 포함하는, 조성물.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항에 있어서, 상기 항균제가 염화벤잘코늄, 염화벤제토늄, 벤질알코올, 브로노폴, 세트리미드, 염화세틸피리디늄, 클로르헥시딘, 클로로부탄올, 클로로크레졸, 클로록실레놀, 크레졸, 에틸알코올, 글리세린, 헥세티딘, 이미드우레아, 페놀, 페녹시에탄올, 페닐에틸알코올, 페닐질산수은, 프로필렌 글리콜 또는 티메로살인 것인, 조성물.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 환자에게 적어도 제2 요법제를 추가로 포함하는 것인, 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제63항에 있어서, 상기 제2 요법이 수술 요법, 화학요법, 방사선 요법, 저온요법, 호르몬 요법 또는 면역요법을 포함하는 것인, 조성물.",
+            "refers_to": [
+              63
+            ]
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 환자가 인간인 것인, 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제65항에 있어서, 상기 엑소좀이 환자에 대하여 자가 유래성인 것인, 조성물.",
+            "refers_to": [
+              65
+            ]
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "질병을 치료하기 위한 약제의 제조에 있어서의 엑소좀의 용도로서, 상기 엑소좀이 그 표면에 CD47을 포함하고, 상기 엑소좀이 CRISPR 시스템을 포함하는 것인, 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제67항에 있어서, 상기 CRISPR 시스템이 엔도뉴클레아제 및 가이드 RNA (gRNA)를 포함하는 것인, 용도.",
+            "refers_to": [
+              67
+            ]
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제68항에 있어서, 상기 엔도뉴클레아제가 Cas 엔도뉴클레아제인 것인, 용도.",
+            "refers_to": [
+              68
+            ]
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제69항에 있어서, 상기 엔도뉴클레아제가 Cas9 엔도뉴클레아제인 것인, 용도.",
+            "refers_to": [
+              69
+            ]
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제68항에 있어서, 상기 엔도뉴클레아제가 Cpf1 엔도뉴클레아제인 것인, 용도.",
+            "refers_to": [
+              68
+            ]
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제68항에 있어서, 상기 가이드 RNA가 단일 gRNA인 것인, 용도.",
+            "refers_to": [
+              68
+            ]
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제72항에 있어서, 상기 단일 gRNA가 CRISPR-RNA (crRNA)인 것인, 용도.",
+            "refers_to": [
+              72
+            ]
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제72항에 있어서, 상기 단일 gRNA가 crRNA 및 전사 활성화 CRISPR RNA (tracrRNA)의 융합물을 포함하는 것인, 용도.",
+            "refers_to": [
+              72
+            ]
+          },
+          {
+            "claim_number": 75,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제68항에 있어서, 상기 가이드 RNA가 crRNA 및 tracrRNA를 포함하는 것인, 용도.",
+            "refers_to": [
+              68
+            ]
+          },
+          {
+            "claim_number": 76,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제68항에 있어서, 상기 엔도뉴클레아제 및 gRNA가 엑소좀 내의 하나의 핵산 분자 상에 암호화되는 것인, 용도.",
+            "refers_to": [
+              68
+            ]
+          },
+          {
+            "claim_number": 77,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제67항에 있어서, 상기 CRISPR 시스템이 질환 유발 돌연변이를 표적으로 삼는 것인, 용도.",
+            "refers_to": [
+              67
+            ]
+          },
+          {
+            "claim_number": 78,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제77항에 있어서, 상기 질환 유발 돌연변이가 암 유발 돌연변이인 것인, 용도.",
+            "refers_to": [
+              77
+            ]
+          },
+          {
+            "claim_number": 79,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제78항에 있어서, 상기 암 유발 돌연변이가 종양유전자 내의 활성화 돌연변이인 것인, 용도.",
+            "refers_to": [
+              78
+            ]
+          },
+          {
+            "claim_number": 80,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제78항에 있어서, 상기 암 유발 돌연변이가 종양 억제 유전자 내의 억제성 돌연변이인 것인, 용도.",
+            "refers_to": [
+              78
+            ]
+          },
+          {
+            "claim_number": 81,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제78항에 있어서, 상기 암 유발 돌연변이가 KrasG12D인 것인, 용도.",
+            "refers_to": [
+              78
+            ]
+          },
+          {
+            "claim_number": 82,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제68항에 있어서, 적어도 50%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+            "refers_to": [
+              68
+            ]
+          },
+          {
+            "claim_number": 83,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제82항에 있어서, 적어도 60%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+            "refers_to": [
+              82
+            ]
+          },
+          {
+            "claim_number": 84,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제83항에 있어서, 적어도 70%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+            "refers_to": [
+              83
+            ]
+          },
+          {
+            "claim_number": 85,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제84항에 있어서, 적어도 80%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+            "refers_to": [
+              84
+            ]
+          },
+          {
+            "claim_number": 86,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제85항에 있어서, 적어도 90%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 용도.",
+            "refers_to": [
+              85
+            ]
+          },
+          {
+            "claim_number": 87,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제67항에 있어서, 상기 질환이 암인 것인, 용도.",
+            "refers_to": [
+              67
+            ]
+          },
+          {
+            "claim_number": 88,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제87항에 있어서, 상기 암이 췌장관 선암종인 것인, 용도.",
+            "refers_to": [
+              87
+            ]
+          },
+          {
+            "claim_number": 89,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제67항에 있어서, 상기 약제가 비경구 투여용으로 제형화되는 것인, 용도.",
+            "refers_to": [
+              67
+            ]
+          },
+          {
+            "claim_number": 90,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제67항에 있어서, 상기 약제가 전신 투여용으로 제형화되는 것인, 용도.",
+            "refers_to": [
+              67
+            ]
+          },
+          {
+            "claim_number": 91,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제89항에 있어서, 상기 약제가 정맥내, 근육내, 피하 또는 복강내 주사용으로 제형화되는, 용도.",
+            "refers_to": [
+              89
+            ]
+          },
+          {
+            "claim_number": 92,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제67항에 있어서, 상기 약제가 항균제를 포함하는 것인, 용도.",
+            "refers_to": [
+              67
+            ]
+          },
+          {
+            "claim_number": 93,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제92항에 있어서, 상기 항균제가 염화벤잘코늄, 염화벤제토늄, 벤질알코올, 브로노폴, 세트리미드, 염화세틸피리디늄, 클로르헥시딘, 클로로부탄올, 클로로크레졸, 클로록실레놀, 크레졸, 에틸알코올, 글리세린, 헥세티딘, 이미드우레아, 페놀, 페녹시에탄올, 페닐에틸알코올, 페닐질산수은, 프로필렌 글리콜 또는 티메로살인 것인, 용도.",
+            "refers_to": [
+              92
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20211213",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 90,
+        "claims": [
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 상기 엔도뉴클레아제가 Cpf1 엔도뉴클레아제인 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 상기 가이드 RNA가 단일 gRNA인 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 상기 가이드 RNA가 crRNA 및 tracrRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 상기 엔도뉴클레아제 및 gRNA가 엑소좀 내의 하나의 핵산 분자 상에 암호화되는 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 CRISPR 시스템이 암 유발 돌연변이를 표적으로 삼는 것인, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, 상기 암 유발 돌연변이가 종양유전자 내의 활성화 돌연변이인 것인, 조성물.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, 상기 암 유발 돌연변이가 종양 억제 유전자 내의 억제성 돌연변이인 것인, 조성물.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, 상기 암 유발 돌연변이가 KrasG12D인 것인, 조성물.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 적어도 90%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제12항 중 어느 한 항의 엑소좀 및 부형제를 포함하는, 암 치료를 필요로 하는 환자에 있어서 암을 치료하는 방법에서 사용하기 위한 약제학적 조성물로서, 상기 방법이 상기 조성물을 상기 환자에게 투여하는 단계를 포함하는, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 조성물이 비경구 투여용으로 제형화되는, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 조성물이 정맥내, 근육내, 피하 또는 복강내 주사용으로 제형화되는, 약제학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 방법이 항균제를 투여하는 단계를 추가로 포함하는, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 상기 항균제가 염화벤잘코늄, 염화벤제토늄, 벤질알코올, 브로노폴, 세트리미드, 염화세틸피리디늄, 클로르헥시딘, 클로로부탄올, 클로로크레졸, 클로록실레놀, 크레졸, 에틸알코올, 글리세린, 엑세티딘, 이미드우레아, 페놀, 페녹시에탄올, 페닐에틸알코올, 페닐질산수은, 프로필렌 글리콜 또는 티메로살인 것인, 약제학적 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 조성물의 투여가 상기 환자의 질환이 생긴 세포에서 유전자 편집을 유도하는 것인, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 암이 췌장관 선암종(pancreatic ductal adenocarcinoma)인 것인, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 투여가 전신 투여인 것인, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 상기 전신 투여가 정맥내 투여인 것인, 약제학적 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 방법이 환자에게 적어도 제2 요법을 투여하는 단계를 추가로 포함하고, 상기 제2 요법이 수술 요법, 화학요법, 방사선 요법, 저온요법, 호르몬 요법 또는 면역요법을 포함하는 것인, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 엑소좀이 환자에 대하여 자가 유래성인 것인, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 75,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 76,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 77,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 78,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 79,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 80,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 81,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 82,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 83,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 84,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 85,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 86,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 87,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 88,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 89,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 90,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 91,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 92,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 93,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20240725",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 16,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "엑소좀을 포함하는 조성물로서, 상기 엑소좀이 그 표면에 CD47을 포함하고, 상기 엑소좀이 KrasG12D 돌연변이를 갖는 암세포를 편집하는 CRISPR 시스템을 포함하고, 상기 CRISPR 시스템이 엔도뉴클레아제 및 가이드 RNA (gRNA)를 포함하며, 상기 엔도뉴클레아제가 Cas9 엔도뉴클레아제인 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 가이드 RNA가 단일 gRNA인 것인, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 가이드 RNA가 crRNA 및 tracrRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 엔도뉴클레아제 및 gRNA가 엑소좀 내의 하나의 핵산 분자 상에 암호화되는 것인, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 적어도 90%의 엑소좀이 엔도뉴클레아제 및 gRNA를 포함하는 것인, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제5항 내지 제7항 및 제12항 중 어느 한 항의 엑소좀을 포함하는 조성물 및 부형제를 포함하는, 암 치료를 필요로 하는 환자에 있어서 암을 치료하는 방법에서 사용하기 위한 약제학적 조성물로서, 상기 방법이 상기 약제학적 조성물을 상기 환자에게 투여하는 단계를 포함하는, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 약제학적 조성물이 비경구 투여용으로 제형화되는, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 약제학적 조성물이 정맥내, 근육내, 피하 또는 복강내 주사용으로 제형화되는, 약제학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 약제학적 조성물의 투여가 상기 환자의 질환이 생긴 세포에서 유전자 편집을 유도하는 것인, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20250429",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 3,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "엑소좀을 포함하는 조성물로서, 상기 엑소좀이 그 표면에 CD47을 포함하고, 상기 엑소좀이 KrasG12D 돌연변이를 갖는 암세포를 편집하는 CRISPR 시스템을 포함하고, 상기 CRISPR 시스템이 엔도뉴클레아제 및 가이드 RNA (gRNA)를 포함하며, 상기 엔도뉴클레아제가 Cas9 엔도뉴클레아제이고, 상기 조성물의 투여가 췌장관 선암종(pancreatic ductal adenocarcinoma)의 종양 크기를 감소시키는, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제5항 내지 제7항 및 제12항 중 어느 한 항의 엑소좀을 포함하는 조성물 및 부형제를 포함하는, 췌장관 선암종 치료를 필요로 하는 환자에 있어서 췌장관 선암종을 치료하는 방법에서 사용하기 위한 약제학적 조성물로서, 상기 방법이 상기 약제학적 조성물을 상기 환자에게 투여하는 단계를 포함하는, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 93,
+      "after_claim_count": 3,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2019.06.20",
+      "internationOpenNumber": "WO2019118826",
+      "internationalApplicationDate": "2018.12.14",
+      "internationalApplicationNumber": "PCT/US2018/065642"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국, 텍사스 *****, 오스틴, *** 웨스트 * 스트리트",
+      "code": "519990000600",
+      "country": "미국",
+      "engName": "The Board of Regents of The University of Texas System",
+      "name": "더 보드 오브 리젠츠 오브 더 유니버시티 오브 텍사스 시스템"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 텍사스주 *****...",
+        "code": "",
+        "country": "",
+        "engName": "KALLURI, Raghu",
+        "name": "칼룰리 라구"
+      },
+      {
+        "address": "미국 텍사스주 *****...",
+        "code": "",
+        "country": "",
+        "engName": "LEBLEU, Valerie",
+        "name": "레블루 발레리"
+      },
+      {
+        "address": "미국 텍사스주 *****...",
+        "code": "",
+        "country": "",
+        "engName": "XIAO, Fei",
+        "name": "시아오 페이"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 종로구 세종대로 ***, **층 (세종로, 광화문빌딩)(법무법인센트럴)",
+      "code": "919990006014",
+      "country": "대한민국",
+      "engName": "HOON CHANG",
+      "name": "장훈"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2017.12.15",
+      "priorityApplicationNumber": "62/599,340"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2016187717 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2016201323 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Kamerkar, S. 등, Nature, 546(7659), 페이지 498-503, 2017(2017.06.07.).",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2020.07.14",
+        "receiptNumber": "1-1-2020-0730636-78"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2020.07.17",
+        "receiptNumber": "1-5-2020-0105790-91"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.11.26",
+        "receiptNumber": "4-1-2021-5309115-59"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2021.12.13",
+        "receiptNumber": "1-1-2021-1438085-17"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.12.13",
+        "receiptNumber": "1-1-2021-1438079-32"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.04.25",
+        "receiptNumber": "9-5-2024-0349939-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2024.06.25",
+        "receiptNumber": "1-1-2024-0685863-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.07.25",
+        "receiptNumber": "1-1-2024-0809446-78"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.07.25",
+        "receiptNumber": "1-1-2024-0809431-94"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2025.01.24",
+        "receiptNumber": "9-5-2025-0095017-83"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2025.04.29",
+        "receiptNumber": "1-1-2025-0486696-77"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.04.29",
+        "receiptNumber": "1-1-2025-0486723-12"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.11.06",
+        "receiptNumber": "9-5-2025-1078671-03"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020207020352.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e0002f189c0e5744a557d91cb327f13fcdf75ec08fb4bef4e45d9926601a57a31b64c7e99e8704ff580514469bcf9c97ebf1e12c8d7a80e945c",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf39598702a83ebc12bb6d938638918a43af5a3e55da00486caa7cdc1279a13070bc554bd8a34fe0760936c3d1a300b3ec4f64d09e3c93c55d"
+  },
+  "rndInfoArray": ""
+}

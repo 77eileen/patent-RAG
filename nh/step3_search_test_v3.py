@@ -1,0 +1,146 @@
+"""
+Step3. 벡터 DB 검색 테스트 (v3 - Gemini 2.0 Flash + Parent DB)
+
+1. 사용자 질문 입력
+2. 구성요소 추출 (Gemini 2.0 Flash)
+3. 검색어 조합 생성 (Gemini 2.0 Flash)
+4. 모든 조합 검색 실행
+5. 결과 출력
+
+변경점 (v2 대비): LLM을 GPT-4o → Gemini 2.0 Flash로 변경
+"""
+
+import pickle
+import os
+import sys
+import time
+from datetime import datetime
+from langchain_openai import OpenAIEmbeddings
+from langchain_chroma import Chroma
+from dotenv import load_dotenv
+
+
+# ============================================
+# 로그 저장: 터미널 출력을 파일에도 동시 기록
+# ============================================
+class TeeLogger:
+    def __init__(self, log_path):
+        self.terminal = sys.stdout
+        self.log_file = open(log_path, 'w', encoding='utf-8')
+
+    def write(self, message):
+        self.terminal.write(message)
+        self.log_file.write(message)
+
+    def flush(self):
+        self.terminal.flush()
+        self.log_file.flush()
+
+    def close(self):
+        self.log_file.close()
+        sys.stdout = self.terminal
+
+
+log_filename = f"log/search_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+sys.stdout = TeeLogger(log_filename)
+from utils_v3 import (
+    extract_components,
+    create_search_queries_from_components,
+    search_patents_with_multiple_queries
+)
+from langchain_google_genai import ChatGoogleGenerativeAI
+load_dotenv()
+
+# OpenAI API 키 (임베딩용)
+openai_api_key = os.environ.get('OPENAI_API_KEY')
+if not openai_api_key:
+    raise ValueError('OPENAI_API_KEY not set (임베딩에 필요)')
+
+# Google API 키 (LLM용)
+google_api_key = os.environ.get('GOOGLE_API_KEY')
+if not google_api_key:
+    raise ValueError('GOOGLE_API_KEY not set (Gemini LLM에 필요)')
+
+# 임베딩은 기존 OpenAI 유지 (벡터 DB 호환)
+embeddings = OpenAIEmbeddings(model="text-embedding-3-small", openai_api_key=openai_api_key)
+
+# Vector Store 로드 (Parent DB)
+vectorstore = Chroma(
+    persist_directory="./chroma_db_parent",
+    embedding_function=embeddings,
+    collection_name="patent_parent"
+)
+
+# Parent Store 로드
+with open('parent_documents.pkl', 'rb') as f:
+    parent_store = pickle.load(f)
+
+print(f"✓ Vector Store (Parent DB) 로드 완료")
+print(f"✓ Parent Store 로드 완료: {len(parent_store)}개 특허")
+
+# LLM: Gemini 2.0 Flash
+llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0)
+print(f"✓ LLM: Gemini 2.0 Flash 준비 완료")
+
+
+start_time = time.time()
+
+# 사용자 질문
+query = "글리세린, 히알루론산, 우뭇가사리로 마스크 팩을 만들려고 해. 침해될까?"
+
+# Step 1: 구성요소 추출
+print(f"{'='*80}")
+print("Step 1: 구성요소 추출 (Gemini 2.0 Flash)")
+print(f"{'='*80}\n")
+
+components = extract_components(query, llm)
+print("추출된 구성 요소:")
+print(components)
+print()
+
+# Step 2: 검색어 조합 생성
+print(f"{'='*80}")
+print("Step 2: 검색어 조합 생성 (Gemini 2.0 Flash)")
+print(f"{'='*80}\n")
+
+search_queries = create_search_queries_from_components(
+    components_text=components,
+    min_combination_size=2,
+    max_combination_size=None,  # 모든 조합
+    include_single_ingredients=False,
+    verbose=True
+)
+
+# Step 3: 다중 검색어로 특허 검색
+print(f"{'='*80}")
+print("Step 3: 다중 검색어로 특허 검색")
+print(f"{'='*80}\n")
+
+patents_data = search_patents_with_multiple_queries(
+    search_queries=search_queries,
+    vectorstore=vectorstore,
+    parent_store=parent_store,
+    top_n=2,
+    k_per_query=50
+)
+
+# Step 4: 최종 결과 출력
+print(f"{'='*80}")
+print("최종 검색 결과 요약")
+print(f"{'='*80}\n")
+for patent in patents_data:
+    print(f"[{patent['rank']}] 특허명: {patent['title']}")
+    print(f"    출원번호: {patent['application_number']}")
+    print(f"    등록번호: {patent['register_number']}")
+    print(f"    히트 횟수: {patent['hit_count']}")
+    print(f"    최고 유사도: {patent['best_similarity_score']:.4f}")
+    print(f"    평균 유사도: {patent['avg_similarity_score']:.4f}")
+    print(f"    히트 검색어 ({len(patent['hit_queries'])}개):")
+    for qi, (q, s) in enumerate(patent['hit_queries'], 1):
+        print(f"      {qi}. [{s:.4f}] {q}")
+    print(f"    청구항 내용:{patent['all_claims']}\n")
+
+elapsed = time.time() - start_time
+print(f"{'='*80}")
+print(f"총 소요 시간: {elapsed:.1f}초 ({elapsed/60:.1f}분)")
+print(f"{'='*80}")

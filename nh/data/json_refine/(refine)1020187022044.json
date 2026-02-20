@@ -1,0 +1,905 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2016.12.29",
+      "applicationFlag": "",
+      "applicationNumber": "10-2018-7022044",
+      "claimCount": "19",
+      "examinerName": "이소영",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "전기 자극에 의한 혈소판의 칼슘 제어 활성화",
+      "inventionTitleEng": "CALCIUM CONTROLLED ACTIVATION OF PLATELETS VIA ELECTRICAL STIMULATION",
+      "openDate": "2018.09.03",
+      "openNumber": "10-2018-0098402",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2021.10.29",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2024.10.25",
+      "publicationNumber": "",
+      "registerDate": "2024.10.23",
+      "registerNumber": "10-2722475-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2018.07.30"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2020.01.01)",
+        "ipcNumber": "A61K 41/00"
+      },
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/19"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/18"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "C12N 13/00"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/078"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 개시는, 응괴의 존재 또는 부재, (존재한다면) 응괴 형성의 타이밍, 및/또는 (존재한다면) 응괴의 기계적 강도 중 하나 이상을 활성화 과정 동안 칼슘 이온의 존재 또는 농도에 의해 제어하는, 활성화된 혈소판 생성물의 생성에 관한 것이다. 특정 실시형태에서, 칼슘 이온 농도는 활성화 과정의 일부로서 펄스 전기장 또는 화학적 활성화제(예를 들어, 트롬빈)의 존재 하에 제어된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020187022044",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20180730",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 20,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "활성화를 위해 혈소판 농축 혈장(platelet-rich plasma; PRP) 샘플을 제조하는 단계로서, 상기 PRP 샘플은, 칼슘 이온을 각각의 농도로 첨가함으로써 제조하고, 상기 각각의 농도는, PRP 샘플을 사용하여 생성한 활성화된 생성물 조성물 중에 응괴가 존재해야 하는지 여부와, 응고가 존재해야 한다면, 응괴 형성까지의 시간 또는 응괴의 기계적 강도 중 하나 이상을 기초로 선택되는 것인 단계;\n전자기 자극 장치의 전극에 대해 PRP 샘플을 위치시키는 단계;\n전기 펄스 파라미터의 세트를 지정하는 단계; 및\n파라미터 값에 따라 생성된 하나 이상의 전기 펄스에 상기 PRP 샘플을 노출시키는 단계로서, 상기 PRP 샘플은, 하나 이상의 전기 펄스에 노출될 경우, 1종 이상의 성장 인자를 포함하며 지정된 응고 특성을 갖는 활성화된 생성물 조성물을 산출하는 것인 단계\n를 포함하는, 활성화된 생성물을 생성하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 전기 펄스 파라미터의 세트는, 적어도 부분적으로, 선택된 칼슘 이온 농도를 기초로 선택되는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 전기 펄스 파라미터는 동일하지만 칼슘 이온 농도는 상이한 것이, 활성화된 생성물 조성물에서 상이한 응고 특성을 산출하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 샘플이 혈소판 농축 혈장 샘플, 혈소판 현탁액, 또는 전혈 샘플 중 하나를 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 1종 이상의 성장 인자의 상대 수준은, 전기 펄스 파라미터의 세트 또는 첨가된 칼슘 이온 중 하나 또는 둘 다에 의해 결정되는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 전극 사이에 샘플을 위치시키는 것은, 전극 사이의 도관을 통해 샘플을 흘려 보내는 것을 포함하고, 상기 활성화된 생성물 조성물은, 도관 직경 또는 도관을 통한 샘플의 유량 중 하나 또는 둘 다에 의해 적어도 부분적으로 결정되는 하나 이상의 인자의 상대 수준을 갖는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 항응고제 처리된 PRP 샘플에 약 2.5 mM 내지 약 20 mM 범위의 농도로 CaCl2를 첨가하는 것을 포함하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 칼슘 이온의 농도는, 항응고제 처리된 PRP 샘플에 첨가되는 2.5 mM, 5.0 mM, 7.5 mM, 10 mM, 15 mM, 20 mM, 또는 25 mM CaCl2에 상응하는 복수의 가능한 농도로부터 선택되는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 초기 응괴 형성을 늦추는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 응괴의 기계적 강도를 감소시키는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "활성화를 위해, 항응고제 처리된 혈소판 농축 혈장(PRP) 샘플을 제조하는 단계;\n다양한 가능한 농도로부터 선택되는 칼슘 이온 농도에 도달하도록, PRP 샘플에 칼슘 이온을 첨가하는 단계로서, 상기 농도는, PRP 샘플을 사용하여 생성한 활성화된 생성물 조성물 중에 존재하는 1종 이상의 성장 인자의 목표 수준을 기초로 선택되는 것인 단계;\nPRP 샘플을 전기적 활성화 자극에 노출시키는 단계로서, 상기 PRP 샘플은, 전기적 활성화 자극에 노출될 경우, 1종 이상의 성장 인자를 목표 수준으로 포함하는 활성화된 생성물 조성물을 산출하며, 전기적 활성화 자극을 변경하지 않고 칼슘 이온 농도를 변경하는 것이 1종 이상의 성장 인자의 절대 또는 상대 수준 중 하나 또는 둘 다를 변화시키는 것인 단계\n를 포함하는, 활성화된 생성물을 생성하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 하나 이상의 응고 특성이 또한 칼슘 이온 농도에 의해 결정되는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, PRP 샘플에 칼슘 이온을 첨가하는 단계가, PRP 샘플에 약 2.5 mM 내지 약 20 mM 범위의 농도로 CaCl2를 첨가하는 것을 포함하는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 칼슘 이온의 농도는, PRP 샘플에 첨가되는 2.5 mM, 5.0 mM, 7.5 mM, 10 mM, 15 mM, 20 mM, 또는 25 mM CaCl2에 상응하는 복수의 가능한 농도로부터 선택되는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 초기 응괴 형성을 빠르게 하는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 응괴의 기계적 강도를 감소시키는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "혈소판 겔에서 생성되는 하나 이상의 응괴의 잠재적 기계적 강도를 결정하는 단계로서, 잠재적 기계적 강도는 트롬빈만을 사용하여 혈소판 겔을 생성함으로써 관찰되어지는 강도보다 큰 것인 단계;\n잠재적 기계적 강도를 기초로, 복수의 칼슘 이온 농도 중에서 잠재적 기계적 강도에 상응하는 칼슘 이온 농도를 선택하는 단계;\n선택된 칼슘 이온 농도로 칼슘 이온을 포함하는 혈소판 농축 혈장(PRP) 샘플을 활성화시킴으로써 혈소판 겔을 생성하는 단계로서, PRP 샘플은 전기 자극을 이용하여 활성화시키고, 혈소판 겔은, 형성되면, 잠재적 기계적 강도를 갖는 응괴를 포함하는 것인 단계\n를 포함하는, 혈소판 겔의 응괴의 기계적 강도를 제어하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 복수의 칼슘 이온 농도에 있어서, 더 높은 칼슘 이온 농도가 응괴의 더 큰 기계적 강도에 상응하는 것인 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 복수의 칼슘 이온 농도는, PRP 샘플에 약 2.5 mM 내지 약 20 mM의 CaCl2를 첨가함으로써 생성된 것에 상응하는 범위 내에 있는 것인 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 칼슘 이온 농도는, PRP 샘플에 첨가되는 2.5 mM, 5.0 mM, 7.5 mM, 10 mM, 15 mM, 20 mM, 또는 25 mM CaCl2에 상응하는 복수의 가능한 농도로부터 선택되는 것인 방법.",
+          "refers_to": [
+            17
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20231127",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 20,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "활성화를 위해 혈소판 농축 혈장(platelet-rich plasma; PRP) 샘플을 제조하는 단계로서, 상기 PRP 샘플은, 칼슘 이온을 첨가함으로써 제조하고, 상기 칼슘 이온의 농도는, PRP 샘플을 사용하여 생성한 활성화된 생성물의 응고 특성에 기초하여 선택되고, 상기 응고 특성은 응괴의 형성까지의 시간, 응괴의 기계적 강도, 또는 이들의 조합을 포함하는 것인 단계;전자기 자극 장치의 전극 사이에 PRP 샘플을 위치시키는 단계;상기 선택된 칼슘 이온 농도 및 응고 특성을 기초로 전기 펄스 파라미터의 세트를 지정하는 단계; 및파라미터 값에 따라 생성된 하나 이상의 전기 펄스에 상기 PRP 샘플을 노출시키는 단계로서, 상기 PRP 샘플은, 하나 이상의 전기 펄스에 노출될 경우, 1종 이상의 성장 인자를 포함하며 지정된 응고 특성을 갖는 활성화된 생성물 조성물을 산출하는 것인 단계를 포함하는, 활성화된 생성물을 생성하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 전기 펄스 파라미터는 동일하지만 칼슘 이온 농도는 상이한 것이, 활성화된 생성물 조성물에서 상이한 응고 특성을 산출하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 샘플이 혈소판 농축 혈장 샘플, 혈소판 현탁액, 또는 전혈 샘플 중 하나를 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 1종 이상의 성장 인자의 상대 수준은, 전기 펄스 파라미터의 세트 또는 첨가된 칼슘 이온 중 하나 또는 둘 다에 의해 결정되는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 전극 사이에 샘플을 위치시키는 것은, 전극 사이의 도관을 통해 샘플을 흘려 보내는 것을 포함하고, 상기 활성화된 생성물 조성물은, 도관 직경 또는 도관을 통한 샘플의 유량 중 하나 또는 둘 다에 의해 적어도 부분적으로 결정되는 하나 이상의 인자의 상대 수준을 갖는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 PRP 샘플은 칼슘 이온의 첨가 전에 항응고제 처리되고, 항응고제 처리된 PRP 샘플에 2.5 mM 내지 20 mM 범위의 농도로 상기 칼슘 이온으로서 CaCl2를 첨가하는 것을 포함하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 PRP 샘플은 칼슘 이온의 첨가 전에 항응고제 처리되고, 칼슘 이온의 농도는, 항응고제 처리된 PRP 샘플에 첨가되는 2.5 mM, 5.0 mM, 7.5 mM, 10 mM, 15 mM, 20 mM, 또는 25 mM CaCl2에 상응하는 복수의 가능한 농도로부터 선택되는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 초기 응괴 형성을 늦추는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 응괴의 기계적 강도를 감소시키는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "활성화를 위해, 항응고제 처리된 혈소판 농축 혈장(PRP) 샘플을 제조하는 단계;다양한 가능한 농도로부터 선택되는 칼슘 이온 농도에 도달하도록, PRP 샘플에 칼슘 이온을 첨가하는 단계로서, 상기 농도는, PRP 샘플을 사용하여 생성한 활성화된 생성물 조성물 중에 존재하는 1종 이상의 성장 인자의 목표 수준을 기초로 선택되는 것인 단계;PRP 샘플을 전기적 활성화 자극에 노출시키는 단계로서, 상기 PRP 샘플은, 전기적 활성화 자극에 노출될 경우, 1종 이상의 성장 인자를 목표 수준으로 포함하는 활성화된 생성물 조성물을 산출하며, 전기적 활성화 자극을 변경하지 않고 칼슘 이온 농도를 변경하는 것이 1종 이상의 성장 인자의 절대 또는 상대 수준 중 하나 또는 둘 다를 변화시키는 것인 단계를 포함하는, 활성화된 생성물을 생성하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 하나 이상의 응고 특성이 또한 칼슘 이온 농도에 의해 결정되는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, PRP 샘플에 칼슘 이온을 첨가하는 단계가, PRP 샘플에 2.5 mM 내지 20 mM 범위의 농도로 CaCl2를 첨가하는 것을 포함하는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 칼슘 이온의 농도는, PRP 샘플에 첨가되는 2.5 mM, 5.0 mM, 7.5 mM, 10 mM, 15 mM, 20 mM, 또는 25 mM CaCl2에 상응하는 복수의 가능한 농도로부터 선택되는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 초기 응괴 형성을 빠르게 하는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 응괴의 기계적 강도를 감소시키는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "혈소판 겔에서 생성되는 하나 이상의 응괴의 잠재적 기계적 강도를 결정하는 단계로서, 잠재적 기계적 강도는 트롬빈만을 사용하여 혈소판 겔을 생성함으로써 관찰되어지는 강도보다 큰 것인 단계;잠재적 기계적 강도를 기초로, 복수의 칼슘 이온 농도 중에서 잠재적 기계적 강도에 상응하는 칼슘 이온 농도를 선택하는 단계;선택된 칼슘 이온 농도로 칼슘 이온을 포함하는 혈소판 농축 혈장(PRP) 샘플을 활성화시킴으로써 혈소판 겔을 생성하는 단계로서, PRP 샘플은 전기 자극을 이용하여 활성화시키고, 혈소판 겔은, 형성되면, 잠재적 기계적 강도를 갖는 응괴를 포함하는 것인 단계를 포함하는, 혈소판 겔의 응괴의 기계적 강도를 제어하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, 복수의 칼슘 이온 농도에 있어서, 더 높은 칼슘 이온 농도가 응괴의 더 큰 기계적 강도에 상응하는 것인 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, 복수의 칼슘 이온 농도는, PRP 샘플에 2.5 mM 내지 20 mM의 CaCl2를 첨가함으로써 생성된 것에 상응하는 범위 내에 있는 것인 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, 칼슘 이온 농도는, PRP 샘플에 첨가되는 2.5 mM, 5.0 mM, 7.5 mM, 10 mM, 15 mM, 20 mM, 또는 25 mM CaCl2에 상응하는 복수의 가능한 농도로부터 선택되는 것인 방법.",
+          "refers_to": [
+            17
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20180730",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 20,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "활성화를 위해 혈소판 농축 혈장(platelet-rich plasma; PRP) 샘플을 제조하는 단계로서, 상기 PRP 샘플은, 칼슘 이온을 각각의 농도로 첨가함으로써 제조하고, 상기 각각의 농도는, PRP 샘플을 사용하여 생성한 활성화된 생성물 조성물 중에 응괴가 존재해야 하는지 여부와, 응고가 존재해야 한다면, 응괴 형성까지의 시간 또는 응괴의 기계적 강도 중 하나 이상을 기초로 선택되는 것인 단계;\n전자기 자극 장치의 전극에 대해 PRP 샘플을 위치시키는 단계;\n전기 펄스 파라미터의 세트를 지정하는 단계; 및\n파라미터 값에 따라 생성된 하나 이상의 전기 펄스에 상기 PRP 샘플을 노출시키는 단계로서, 상기 PRP 샘플은, 하나 이상의 전기 펄스에 노출될 경우, 1종 이상의 성장 인자를 포함하며 지정된 응고 특성을 갖는 활성화된 생성물 조성물을 산출하는 것인 단계\n를 포함하는, 활성화된 생성물을 생성하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 전기 펄스 파라미터의 세트는, 적어도 부분적으로, 선택된 칼슘 이온 농도를 기초로 선택되는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 전기 펄스 파라미터는 동일하지만 칼슘 이온 농도는 상이한 것이, 활성화된 생성물 조성물에서 상이한 응고 특성을 산출하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 샘플이 혈소판 농축 혈장 샘플, 혈소판 현탁액, 또는 전혈 샘플 중 하나를 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 1종 이상의 성장 인자의 상대 수준은, 전기 펄스 파라미터의 세트 또는 첨가된 칼슘 이온 중 하나 또는 둘 다에 의해 결정되는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 전극 사이에 샘플을 위치시키는 것은, 전극 사이의 도관을 통해 샘플을 흘려 보내는 것을 포함하고, 상기 활성화된 생성물 조성물은, 도관 직경 또는 도관을 통한 샘플의 유량 중 하나 또는 둘 다에 의해 적어도 부분적으로 결정되는 하나 이상의 인자의 상대 수준을 갖는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 항응고제 처리된 PRP 샘플에 약 2.5 mM 내지 약 20 mM 범위의 농도로 CaCl2를 첨가하는 것을 포함하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 칼슘 이온의 농도는, 항응고제 처리된 PRP 샘플에 첨가되는 2.5 mM, 5.0 mM, 7.5 mM, 10 mM, 15 mM, 20 mM, 또는 25 mM CaCl2에 상응하는 복수의 가능한 농도로부터 선택되는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 초기 응괴 형성을 늦추는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 응괴의 기계적 강도를 감소시키는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "활성화를 위해, 항응고제 처리된 혈소판 농축 혈장(PRP) 샘플을 제조하는 단계;\n다양한 가능한 농도로부터 선택되는 칼슘 이온 농도에 도달하도록, PRP 샘플에 칼슘 이온을 첨가하는 단계로서, 상기 농도는, PRP 샘플을 사용하여 생성한 활성화된 생성물 조성물 중에 존재하는 1종 이상의 성장 인자의 목표 수준을 기초로 선택되는 것인 단계;\nPRP 샘플을 전기적 활성화 자극에 노출시키는 단계로서, 상기 PRP 샘플은, 전기적 활성화 자극에 노출될 경우, 1종 이상의 성장 인자를 목표 수준으로 포함하는 활성화된 생성물 조성물을 산출하며, 전기적 활성화 자극을 변경하지 않고 칼슘 이온 농도를 변경하는 것이 1종 이상의 성장 인자의 절대 또는 상대 수준 중 하나 또는 둘 다를 변화시키는 것인 단계\n를 포함하는, 활성화된 생성물을 생성하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 하나 이상의 응고 특성이 또한 칼슘 이온 농도에 의해 결정되는 것인 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, PRP 샘플에 칼슘 이온을 첨가하는 단계가, PRP 샘플에 약 2.5 mM 내지 약 20 mM 범위의 농도로 CaCl2를 첨가하는 것을 포함하는 것인 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 칼슘 이온의 농도는, PRP 샘플에 첨가되는 2.5 mM, 5.0 mM, 7.5 mM, 10 mM, 15 mM, 20 mM, 또는 25 mM CaCl2에 상응하는 복수의 가능한 농도로부터 선택되는 것인 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 초기 응괴 형성을 빠르게 하는 것인 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 제2 칼슘 이온 농도보다 낮은 제1 칼슘 농도는, 제2 칼슘 이온 농도에서 관찰되는 것보다 응괴의 기계적 강도를 감소시키는 것인 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "혈소판 겔에서 생성되는 하나 이상의 응괴의 잠재적 기계적 강도를 결정하는 단계로서, 잠재적 기계적 강도는 트롬빈만을 사용하여 혈소판 겔을 생성함으로써 관찰되어지는 강도보다 큰 것인 단계;\n잠재적 기계적 강도를 기초로, 복수의 칼슘 이온 농도 중에서 잠재적 기계적 강도에 상응하는 칼슘 이온 농도를 선택하는 단계;\n선택된 칼슘 이온 농도로 칼슘 이온을 포함하는 혈소판 농축 혈장(PRP) 샘플을 활성화시킴으로써 혈소판 겔을 생성하는 단계로서, PRP 샘플은 전기 자극을 이용하여 활성화시키고, 혈소판 겔은, 형성되면, 잠재적 기계적 강도를 갖는 응괴를 포함하는 것인 단계\n를 포함하는, 혈소판 겔의 응괴의 기계적 강도를 제어하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 복수의 칼슘 이온 농도에 있어서, 더 높은 칼슘 이온 농도가 응괴의 더 큰 기계적 강도에 상응하는 것인 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 복수의 칼슘 이온 농도는, PRP 샘플에 약 2.5 mM 내지 약 20 mM의 CaCl2를 첨가함으로써 생성된 것에 상응하는 범위 내에 있는 것인 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 칼슘 이온 농도는, PRP 샘플에 첨가되는 2.5 mM, 5.0 mM, 7.5 mM, 10 mM, 15 mM, 20 mM, 또는 25 mM CaCl2에 상응하는 복수의 가능한 농도로부터 선택되는 것인 방법.",
+            "refers_to": [
+              17
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20231127",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 6,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "활성화를 위해 혈소판 농축 혈장(platelet-rich plasma; PRP) 샘플을 제조하는 단계로서, 상기 PRP 샘플은, 칼슘 이온을 첨가함으로써 제조하고, 상기 칼슘 이온의 농도는, PRP 샘플을 사용하여 생성한 활성화된 생성물의 응고 특성에 기초하여 선택되고, 상기 응고 특성은 응괴의 형성까지의 시간, 응괴의 기계적 강도, 또는 이들의 조합을 포함하는 것인 단계;\n전자기 자극 장치의 전극 사이에 PRP 샘플을 위치시키는 단계;\n상기 선택된 칼슘 이온 농도 및 응고 특성을 기초로 전기 펄스 파라미터의 세트를 지정하는 단계; 및\n파라미터 값에 따라 생성된 하나 이상의 전기 펄스에 상기 PRP 샘플을 노출시키는 단계로서, 상기 PRP 샘플은, 하나 이상의 전기 펄스에 노출될 경우, 1종 이상의 성장 인자를 포함하며 지정된 응고 특성을 갖는 활성화된 생성물 조성물을 산출하는 것인 단계\n를 포함하는, 활성화된 생성물을 생성하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 PRP 샘플은 칼슘 이온의 첨가 전에 항응고제 처리되고, 항응고제 처리된 PRP 샘플에 2.5 mM 내지 20 mM 범위의 농도로 상기 칼슘 이온으로서 CaCl2를 첨가하는 것을 포함하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 PRP 샘플은 칼슘 이온의 첨가 전에 항응고제 처리되고, 칼슘 이온의 농도는, 항응고제 처리된 PRP 샘플에 첨가되는 2.5 mM, 5.0 mM, 7.5 mM, 10 mM, 15 mM, 20 mM, 또는 25 mM CaCl2에 상응하는 복수의 가능한 농도로부터 선택되는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, PRP 샘플에 칼슘 이온을 첨가하는 단계가, PRP 샘플에 2.5 mM 내지 20 mM 범위의 농도로 CaCl2를 첨가하는 것을 포함하는 것인 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 복수의 칼슘 이온 농도는, PRP 샘플에 2.5 mM 내지 20 mM의 CaCl2를 첨가함으로써 생성된 것에 상응하는 범위 내에 있는 것인 방법.",
+            "refers_to": [
+              17
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 20,
+      "after_claim_count": 6,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2017.07.06",
+      "internationOpenNumber": "WO2017117385",
+      "internationalApplicationDate": "2016.12.29",
+      "internationalApplicationNumber": "PCT/US2016/069197"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 오하이오 ***** 에번데일 노이만 웨이 *",
+      "code": "520020423734",
+      "country": "미국",
+      "engName": "GENERAL ELECTRIC COMPANY",
+      "name": "제네럴 일렉트릭 컴퍼니"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 ***** 뉴욕...",
+        "code": "",
+        "country": "",
+        "engName": "NECULAES, Vasile, Bogdan",
+        "name": "네컬리스 바실 보그단"
+      },
+      {
+        "address": "미국 ***** 뉴욕...",
+        "code": "",
+        "country": "",
+        "engName": "TORRES, Andrew, Soliz",
+        "name": "토레스 앤드류 솔리즈"
+      },
+      {
+        "address": "미국 ***** 뉴욕...",
+        "code": "",
+        "country": "",
+        "engName": "KLOPMAN, Steve, Lambert",
+        "name": "클로프만 스티브 램버트"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001573",
+        "country": "대한민국",
+        "engName": "Kim Jin Hoe",
+        "name": "김진회"
+      },
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001580",
+        "country": "대한민국",
+        "engName": "Kim Tae Hong",
+        "name": "김태홍"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2015.12.30",
+      "priorityApplicationNumber": "14/984,988"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2015108778 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "ZHANG et al., Archives of Biochemistry and Biophysics, Academic Press, 2007,  471, 240-248.",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2018.07.30",
+        "receiptNumber": "1-1-2018-0753117-18"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2018.08.01",
+        "receiptNumber": "1-5-2018-0120004-82"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2021.10.29",
+        "receiptNumber": "1-1-2021-1246757-87"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2023.09.27",
+        "receiptNumber": "9-5-2023-0888443-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2023.11.27",
+        "receiptNumber": "1-1-2023-1326664-63"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.11.27",
+        "receiptNumber": "1-1-2023-1326663-17"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.05.17",
+        "receiptNumber": "9-5-2024-0408998-55"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.06.24",
+        "receiptNumber": "1-1-2024-0683191-19"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.06.24",
+        "receiptNumber": "1-1-2024-0683190-63"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2024.07.30",
+        "receiptNumber": "9-5-2024-0637862-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.09.29",
+        "receiptNumber": "4-1-2025-5275156-27"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020187022044.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9338c015289c613e26c2cfc7c9207927021e05972ff5c06855c705c671264c1f6b2b9dc6fbddf826b700be5e44af30dd79d1d0a87bf66a2049",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf361ad9284007f352fb5d6173a5770e013bf2b49931cc8a6a0cad90e6a30e5eb65edd79adc279da24b5288d011d4d5ba2d606f43786a3c14f"
+  },
+  "rndInfoArray": ""
+}

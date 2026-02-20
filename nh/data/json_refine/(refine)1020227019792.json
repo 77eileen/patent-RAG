@@ -1,0 +1,4560 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.11.10",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-7019792",
+      "claimCount": "20",
+      "examinerName": "이수진",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "한타바이러스에 대한 인간 모노클로날 항체 및 이의 사용 방법",
+      "inventionTitleEng": "HUMAN MONOCLONAL ANTIBODIES TO HANTAVIRUS AND METHODS OF USE THEREFOR",
+      "openDate": "2022.07.08",
+      "openNumber": "10-2022-0098003",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.11.01",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.11.04",
+      "publicationNumber": "",
+      "registerDate": "2025.10.30",
+      "registerNumber": "10-2880907-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2022.06.10"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "G01N 33/569"
+      },
+      {
+        "ipcDate": "(2026.01.01)",
+        "ipcNumber": "C07K 16/10"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/42"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/14"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 개시내용은 한타바이러스에 결합하여 중화시키는 항체 및 이의 사용 방법에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020227019792",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220610",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 97,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체(subject)에서 한타바이러스 감염(hantavirus infection)을 검출하는 방법으로서,\n(a) 상기 대상체로부터의 샘플을 각각 표 3 및 4로부터의 클론-쌍을 이룬(clone-paired) 중쇄 및 경쇄 CDR 서열을 갖는 항체 또는 항체 단편과 접촉시키는 단계; 및\n(b) 상기 항체 또는 항체 단편을 상기 샘플 중의 한타바이러스 항원에 결합시킴으로써 상기 샘플에서 한타바이러스를 검출하는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 샘플이 체액인, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 상기 샘플이 혈액, 객담, 눈물, 타액, 점액 또는 혈청, 정액, 자궁경부 또는 질 분비물, 양수, 태반 조직, 소변, 삼출물, 삼출액, 조직 긁힘(tissue scraping) 또는 대변인, 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 검출이 ELISA, RIA, 측방 유동 검정(lateral flow assay) 또는 웨스턴 블롯(Western blot)을 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 단계 (a) 및 (b)를 두 번째로 수행하는 단계 및 제1 검정과 비교하여 한타바이러스 항원 수준의 변화를 결정하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 의해 인코딩(encoding)되는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 대해 70%, 80%, 또는 90% 동일성(identity)을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 70%, 80% 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 상기 항체 단편이 재조합(recombinant) scFv (단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "한타바이러스에 감염된 대상체를 치료하거나, 한타바이러스에 감염될 위험이 있는 대상체의 감염 가능성을 감소시키는 방법으로서, 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 갖는 항체 또는 항체 단편을 상기 대상체에게 전달하는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 바와 같은 클론-쌍을 이룬 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 또는 제14항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 것에 대해 95% 동일성을 갖는 클론-쌍을 이룬 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 또는 제14항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 대해 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 70%, 80% 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 내지 제19항 중 어느 한 항에 있어서, 상기 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 방법.",
+          "refers_to": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 내지 제20항 중 어느 한 항에 있어서, 상기 항체가 IgG, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 방법.",
+          "refers_to": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 내지 제19항 중 어느 한 항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적(bispecific) 항체인, 방법.",
+          "refers_to": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 내지 제22항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 감염 전 또는 감염 후에 투여되는, 방법.",
+          "refers_to": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 내지 제23항 중 어느 한 항에 있어서, 상기 대상체가 임신한 여성, 성적으로 활동적인 여성, 또는 불임 치료를 받고 있는 여성인, 방법.",
+          "refers_to": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 내지 제24항 중 어느 한 항에 있어서, 전달이 항체 또는 항체 단편 투여, 또는 항체 또는 항체 단편을 인코딩하는 RNA 또는 DNA 서열 또는 벡터(vector)를 사용한 유전자 전달(genetic delivery)을 포함하는, 방법.",
+          "refers_to": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "모노클로날 항체(monoclonal antibody)로서, 상기 항체 또는 항체 단편이 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 특징으로 하는, 모노클로날 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 모노클로날 항체.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 대해 적어도 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 모노클로날 항체.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 대해 적어도 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 모노클로날 항체.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 항체 또는 항체 단편은 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 모노클로날 항체.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 모노클로날 항체.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제31항 중 어느 한 항에 있어서, 상기 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 모노클로날 항체.",
+          "refers_to": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제31항에 있어서, 상기 항체가 키메라 항체이거나, 이중특이적 항체인, 모노클로날 항체.",
+          "refers_to": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제33항 중 어느 한 항에 있어서, 상기 항체가 IgG, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 모노클로날 항체.",
+          "refers_to": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제34항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 세포 침투성 펩티드를 추가로 포함하고/하거나 인트라바디(intrabody)인, 모노클로날 항체.",
+          "refers_to": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항체 또는 항체 단편을 인코딩하는 하이브리도마 또는 조작된 세포로서, 상기 항체 또는 항체 단편이 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 특징으로 하는, 하이브리도마 또는 조작된 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 하이브리도마 또는 조작된 세포.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 가변 서열에 대해 적어도 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 하이브리도마 또는 조작된 세포.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 가변 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 하이브리도마 또는 조작된 세포.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 하이브리도마 또는 조작된 세포.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 가변 서열에 대해 적어도 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 하이브리도마 또는 조작된 세포.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 하이브리도마 또는 조작된 세포.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항 내지 제42항 중 어느 한 항에 있어서, 상기 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 하이브리도마 또는 조작된 세포.",
+          "refers_to": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항 내지 제43항 중 어느 한 항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적 항체인, 하이브리도마 또는 조작된 세포.",
+          "refers_to": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항 내지 제43항 중 어느 한 항에 있어서, 상기 항체가 IgG, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 하이브리도마 또는 조작된 세포.",
+          "refers_to": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항 내지 제45항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 세포 침투성 펩티드를 추가로 포함하고/하거나 인트라바디인, 하이브리도마 또는 조작된 세포.",
+          "refers_to": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 특징으로 하는 하나 이상의 항체 또는 항체 단편을 포함하는 백신 제형(vaccine formulation).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 표 1로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 백신 제형.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 표 1로부터의 클론-쌍을 이룬 서열에 대해 적어도 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 백신 제형.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 표 1로부터의 클론-쌍을 이룬 서열에 대해 적어도 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 백신 제형.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 백신 제형.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 백신 제형.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항 내지 제52항 중 어느 한 항에 있어서, 상기 항체 단편 중 적어도 하나가 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 백신 제형.",
+          "refers_to": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항 내지 제52항 중 어느 한 항에 있어서, 상기 항체 중 적어도 하나가 키메라 항체이거나 이중특이적 항체인, 백신 제형.",
+          "refers_to": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항 내지 제54항 중 어느 한 항에 있어서, 상기 항체 중 적어도 하나가 IgG, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 백신 제형.",
+          "refers_to": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항 내지 제55항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 세포 침투성 펩티드를 추가로 포함하고/하거나 인트라바디인, 백신 제형.",
+          "refers_to": [
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제34항 중 어느 한 항에 따르는 제1 항체 또는 항체 단편을 인코딩하는 하나 이상의 발현 벡터를 포함하는 백신 제형.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제57항에 있어서, 상기 발현 벡터(들)가 신드비스(Sindbis) 바이러스 또는 VEE 벡터(들)인, 백신 제형.",
+          "refers_to": [
+            57
+          ]
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제57항 또는 제58항에 있어서, 바늘 주사, 제트 주사, 또는 전기천공에 의한 전달용으로 제형화된, 백신 제형.",
+          "refers_to": [
+            57,
+            58
+          ]
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제57항에 있어서, 제2 항체 또는 항체 단편, 예를 들어, 제26항 내지 제34항 중 어느 한 항의 별개의 항체 또는 항체 단편을 인코딩하는 하나 이상의 발현 벡터를 추가로 포함하는, 백신 제형.",
+          "refers_to": [
+            57
+          ]
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "한타바이러스에 감염되었거나 감염될 위험이 있는 임신 대상체의 태반 및/또는 태아의 건강을 보호하는 방법으로서, 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 갖는 항체 또는 항체 단편을 상기 대상체에게 전달하는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 바와 같은 클론-쌍을 이룬 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항 또는 제62항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 것들에 대해 95% 동일성을 갖는 클론-쌍을 이룬 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            61,
+            62
+          ]
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항 또는 제62항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 대해 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            61,
+            62
+          ]
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 70%, 80% 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항 내지 제67항 중 어느 한 항에 있어서, 상기 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 방법.",
+          "refers_to": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ]
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항 내지 제68항 중 어느 한 항에 있어서, 상기 항체가 IgG, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 방법.",
+          "refers_to": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68
+          ]
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항 내지 제67항 중 어느 한 항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적 항체인, 방법.",
+          "refers_to": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ]
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항 내지 제70항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 감염 전 또는 감염 후에 투여되는, 방법.",
+          "refers_to": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+          ]
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항 내지 제71항 중 어느 한 항에 있어서, 상기 대상체가 임신한 여성, 성적으로 활동적인 여성, 또는 불임 치료를 받고 있는 여성인, 방법.",
+          "refers_to": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71
+          ]
+        },
+        {
+          "claim_number": 73,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항 내지 제72항 중 어느 한 항에 있어서, 전달이 항체 또는 항체 단편 투여, 또는 항체 또는 항체 단편을 인코딩하는 RNA 또는 DNA 서열 또는 벡터를 사용한 유전자 전달을 포함하는, 방법.",
+          "refers_to": [
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+          ]
+        },
+        {
+          "claim_number": 74,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 미처리 대조군과 비교하여 태반의 크기를 증가시키는, 방법.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 75,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 미처리 대조군과 비교하여 태아의 바이러스 부하(viral load) 및/또는 병리를 감소시키는, 방법.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 76,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "한타바이러스 항원의 항원 완전성, 정확한 형태 및/또는 정확한 서열을 결정하는 방법으로서, \n(a) 상기 항원을 포함하는 샘플을 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 갖는 제1 항체 또는 항체 단편과 접촉시키는 단계; 및\n(b) 상기 항원에 대한 상기 제1 항체 또는 항체 단편의 검출 가능한 결합에 의해 상기 항원의 항원 완전성, 정확한 형태 및/또는 정확한 서열을 결정하는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 77,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항에 있어서, 상기 샘플이 재조합적으로 생산된 항원을 포함하는, 방법.",
+          "refers_to": [
+            76
+          ]
+        },
+        {
+          "claim_number": 78,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항에 있어서, 상기 샘플이 백신 제형 또는 백신 생산 뱃치(batch)를 포함하는, 방법.",
+          "refers_to": [
+            76
+          ]
+        },
+        {
+          "claim_number": 79,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항 내지 제78항 중 어느 한 항에 있어서, 검출이 ELISA, RIA, 웨스턴 블롯, 표면 플라즈몬 공명 또는 생물층 간섭 측정법을 사용하는 바이오센서, 또는 유세포 계측 염색(flow cytometric staining)을 포함하는, 방법.",
+          "refers_to": [
+            76,
+            77,
+            78
+          ]
+        },
+        {
+          "claim_number": 80,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            76,
+            77,
+            78,
+            79
+          ]
+        },
+        {
+          "claim_number": 81,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 대해 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            76,
+            77,
+            78,
+            79
+          ]
+        },
+        {
+          "claim_number": 82,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            76,
+            77,
+            78,
+            79
+          ]
+        },
+        {
+          "claim_number": 83,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            76,
+            77,
+            78,
+            79
+          ]
+        },
+        {
+          "claim_number": 84,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 70%, 80% 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            76,
+            77,
+            78,
+            79
+          ]
+        },
+        {
+          "claim_number": 85,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            76,
+            77,
+            78,
+            79
+          ]
+        },
+        {
+          "claim_number": 86,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항 내지 제85항 중 어느 한 항에 있어서, 상기 제1 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 방법.",
+          "refers_to": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85
+          ]
+        },
+        {
+          "claim_number": 87,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항 내지 제86항 중 어느 한 항에 있어서, 시간이 경과함에 따라 항원의 항원 안정성을 결정하기 위해 단계 (a) 및 (b)를 두 번째로 수행하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "claim_number": 88,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항 내지 제87항 중 어느 한 항에 있어서, \n(c) 상기 항원을 포함하는 샘플을 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 갖는 제2 항체 또는 항체 단편과 접촉시키는 단계; 및\n(d) 상기 항원에 대한 상기 제2 항체 또는 항체 단편의 검출 가능한 결합에 의해 상기 항원의 항원 완전성을 결정하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+          ]
+        },
+        {
+          "claim_number": 89,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제88항에 있어서, 상기 제2 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            88
+          ]
+        },
+        {
+          "claim_number": 90,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제89항에 있어서, 상기 제2 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 대해 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            89
+          ]
+        },
+        {
+          "claim_number": 91,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제89항에 있어서, 상기 제2 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+          "refers_to": [
+            89
+          ]
+        },
+        {
+          "claim_number": 92,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제89항에 있어서, 상기 제2 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            89
+          ]
+        },
+        {
+          "claim_number": 93,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제89항에 있어서, 상기 제2 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 70%, 80% 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            89
+          ]
+        },
+        {
+          "claim_number": 94,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제89항에 있어서, 상기 제2 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+          "refers_to": [
+            89
+          ]
+        },
+        {
+          "claim_number": 95,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제89항에 있어서, 상기 제2 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 방법.",
+          "refers_to": [
+            89
+          ]
+        },
+        {
+          "claim_number": 96,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제89항에 있어서, 시간이 경과함에 따라 항원의 항원 안정성을 결정하기 위해 단계 (c) 및 (d)를 두 번째로 수행하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            89
+          ]
+        },
+        {
+          "claim_number": 97,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "인간 모노클로날 항체 또는 항체 단편, 또는 이를 생산하는 하이브리도마 또는 조작된 세포로서, 상기 항체가 한타바이러스 바이러스 융합 단백질(Gc)에 결합하고, 신 놈브레(Sin Nombre) 바이러스(SNV), 안데스(Andes) 바이러스(ANDV), 푸우 말라(Puumala) 바이러스(PUUV), 한탄(Hantaan) 바이러스(HNTV), 서울(Seoul) 바이러스(SEOV) 및 도브라바(Dobrava) 바이러스(DOB) 중 1, 2, 3, 4, 5, 또는 6개 모두를 중화시키는, 인간 모노클로날 항체 또는 항체 단편, 또는 이를 생산하는 하이브리도마 또는 조작된 세포.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20250417",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 97,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기에 제시된 클론-쌍을 이룬(clone-paired) 중쇄 및 경쇄 CDR 서열을 특징으로 하는 모노클로날 항체 또는 항체 단편:서열번호: 85 내지 87, 및 148 내지 150; 서열번호: 88 내지 90, 및 151 내지 153; 서열번호: 91 내지 93, 및 154 내지 156; 서열번호: 94 내지 96, 및 157 내지 159; 서열번호: 97 내지 99, 및 160 내지 162; 서열번호: 100 내지 102, 및 163 내지 165; 서열번호: 103 내지 105, 및 166 내지 168; 서열번호: 106 내지 108, 및 169 내지 171; 서열번호: 109 내지 111, 및 172 내지 174; 서열번호: 112 내지 114, 및 175 내지 177; 서열번호: 115 내지 117, 및 178 내지 180; 서열번호: 118 내지 120, 및 181 내지 183; 서열번호: 121 내지 123, 및 184 내지 186; 서열번호: 124 내지 126, 및 187 내지 189; 서열번호: 127 내지 129, 및 190 내지 192; 서열번호: 130 내지 132, 및 193 내지 195; 서열번호: 133 내지 135, 및 196 내지 198; 서열번호: 136 내지 138, 및 199 내지 201; 서열번호: 139 내지 141, 및 202 내지 204; 서열번호: 142 내지 144, 및 205 내지 207; 서열번호: 145 내지 147, 및 208 내지 210; 서열번호: 279 내지 281, 및 330 내지 332; 서열번호: 282 내지 284, 및 333 내지 335; 서열번호: 285 내지 287, 및 336 내지 338; 서열번호: 288 내지 290, 및 339 내지 341; 서열번호: 291 내지 293, 및 342 내지 344; 서열번호: 294 내지 296, 및 345 내지 347; 서열번호: 297 내지 299, 및 348 내지 350; 서열번호: 300 내지 302, 및 351 내지 353; 서열번호: 303 내지 305, 및 354 내지 356; 서열번호: 306 내지 308, 및 357 내지 359; 서열번호: 309 내지 311, 및 360 내지 362; 서열번호: 312 내지 314, 및 363 내지 365; 서열번호: 315 내지 317, 및 366 내지 368; 서열번호: 318 내지 320, 및 369 내지 371; 서열번호: 321 내지 323, 및 372 내지 374; 서열번호: 324 내지 326, 및 375 내지 377; 또는 서열번호: 327 내지 329, 및 378 내지 380.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 상기 항체 단편이 하기에 제시된 클론-쌍을 이룬 서열에 따른 경쇄 및 중쇄 가변 서열에 의해 인코딩(encoding)되는, 모노클로날 항체 또는 항체 단편:서열번호: 1 및 2; 서열번호: 3 및 4; 서열번호: 5 및 6; 서열번호: 7 및 8; 서열번호: 9 및 10; 서열번호: 11 및 12; 서열번호: 13 및 14; 서열번호: 15 및 16; 서열번호: 17 및 18; 서열번호: 19 및 20; 서열번호: 21 및 22; 서열번호: 23 및 24; 서열번호: 25 및 26; 서열번호: 27 및 28; 서열번호: 29 및 30; 서열번호: 31 및 32; 서열번호: 33 및 34; 서열번호: 35 및 36; 서열번호: 37 및 38; 서열번호: 39 및 40; 서열번호: 41 및 42; 서열번호: 211 및 212; 서열번호: 213 및 214; 서열번호: 215 및 216; 서열번호: 217 및 218; 서열번호: 219 및 220; 서열번호: 221 및 222; 서열번호: 223 및 224; 서열번호: 225 및 226; 서열번호: 227 및 228; 서열번호: 229 및 230; 서열번호: 231 및 232; 서열번호: 233 및 234; 서열번호: 235 및 236; 서열번호: 237 및 238; 서열번호: 239 및 240; 서열번호: 241 및 242; 또는 서열번호: 243 및 244.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 항체 단편이 하기에 제시된 클론-쌍을 이룬 서열에 대해 적어도 70%, 80%, 90% 또는 95% 동일성(identity)을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 모노클로날 항체 또는 항체 단편:서열번호: 1 및 2; 서열번호: 3 및 4; 서열번호: 5 및 6; 서열번호: 7 및 8; 서열번호: 9 및 10; 서열번호: 11 및 12; 서열번호: 13 및 14; 서열번호: 15 및 16; 서열번호: 17 및 18; 서열번호: 19 및 20; 서열번호: 21 및 22; 서열번호: 23 및 24; 서열번호: 25 및 26; 서열번호: 27 및 28; 서열번호: 29 및 30; 서열번호: 31 및 32; 서열번호: 33 및 34; 서열번호: 35 및 36; 서열번호: 37 및 38; 서열번호: 39 및 40; 서열번호: 41 및 42; 서열번호: 211 및 212; 서열번호: 213 및 214; 서열번호: 215 및 216; 서열번호: 217 및 218; 서열번호: 219 및 220; 서열번호: 221 및 222; 서열번호: 223 및 224; 서열번호: 225 및 226; 서열번호: 227 및 228; 서열번호: 229 및 230; 서열번호: 231 및 232; 서열번호: 233 및 234; 서열번호: 235 및 236; 서열번호: 237 및 238; 서열번호: 239 및 240; 서열번호: 241 및 242; 또는 서열번호: 243 및 244.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 항체 단편이 하기에 제시된 클론-쌍을 이룬 서열에 따른 경쇄 및 중쇄 가변 서열을 포함하는, 모노클로날 항체 또는 항체 단편:서열번호: 43 및 44; 서열번호: 45 및 46; 서열번호: 47 및 48; 서열번호: 49 및 50; 서열번호: 51 및 52; 서열번호: 53 및 54; 서열번호: 55 및 56; 서열번호: 57 및 58; 서열번호: 59 및 60; 서열번호: 61 및 62; 서열번호: 63 및 64; 서열번호: 65 및 66; 서열번호: 67 및 68; 서열번호: 69 및 70; 서열번호: 71 및 72; 서열번호: 73 및 74; 서열번호: 75 및 76; 서열번호: 77 및 78; 서열번호: 79 및 80; 서열번호: 81 및 82; 서열번호: 83 및 84; 서열번호: 245 및 246; 서열번호: 247 및 248; 서열번호: 249 및 250; 서열번호: 251 및 252; 서열번호: 253 및 254; 서열번호: 255 및 256; 서열번호: 257 및 258; 서열번호: 259 및 260; 서열번호: 261 및 262; 서열번호: 263 및 264; 서열번호: 265 및 266; 서열번호: 267 및 268; 서열번호: 269 및 270; 서열번호: 271 및 272; 서열번호: 273 및 274; 서열번호: 275 및 276; 또는 서열번호: 277 및 278.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 항체 단편이 하기에 제시된 클론-쌍을 이룬 서열에 대해 80%, 90% 또는 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 모노클로날 항체 또는 항체 단편:서열번호: 43 및 44; 서열번호: 45 및 46; 서열번호: 47 및 48; 서열번호: 49 및 50; 서열번호: 51 및 52; 서열번호: 53 및 54; 서열번호: 55 및 56; 서열번호: 57 및 58; 서열번호: 59 및 60; 서열번호: 61 및 62; 서열번호: 63 및 64; 서열번호: 65 및 66; 서열번호: 67 및 68; 서열번호: 69 및 70; 서열번호: 71 및 72; 서열번호: 73 및 74; 서열번호: 75 및 76; 서열번호: 77 및 78; 서열번호: 79 및 80; 서열번호: 81 및 82; 서열번호: 83 및 84; 서열번호: 245 및 246; 서열번호: 247 및 248; 서열번호: 249 및 250; 서열번호: 251 및 252; 서열번호: 253 및 254; 서열번호: 255 및 256; 서열번호: 257 및 258; 서열번호: 259 및 260; 서열번호: 261 및 262; 서열번호: 263 및 264; 서열번호: 265 및 266; 서열번호: 267 및 268; 서열번호: 269 및 270; 서열번호: 271 및 272; 서열번호: 273 및 274; 서열번호: 275 및 276; 또는 서열번호: 277 및 278.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편 또는 Fv 단편인, 모노클로날 항체 또는 항체 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적(bispecific) 항체인, 모노클로날 항체 또는 항체 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체가 IgG이거나, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 모노클로날 항체 또는 항체 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 항체 단편이 세포 침투성 펩티드를 추가로 포함하고/하거나 인트라바디(intrabody)인, 모노클로날 항체 또는 항체 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적 항체인, 모노클로날 항체 또는 항체 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "대상체(subject)에서 한타바이러스 감염(hantavirus infection)을 검출하는 방법으로서,(a) 상기 대상체로부터의 샘플을 제1항 내지 제10항 중 어느 한 항에 따른 항체 또는 항체 단편과 접촉시키는 단계; 및(b) 상기 항체 또는 항체 단편을 상기 샘플 중의 한타바이러스 항원에 결합시킴으로써 상기 샘플에서 한타바이러스를 검출하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 샘플이 체액인, 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 샘플이 혈액, 객담, 눈물, 타액, 점액 또는 혈청, 정액, 자궁경부 또는 질 분비물, 양수, 태반 조직, 소변, 삼출물, 삼출액, 조직 긁힘(tissue scraping) 또는 대변인, 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 검출이 ELISA, RIA, 측방 유동 검정(lateral flow assay) 또는 웨스턴 블롯(Western blot)을 포함하는, 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 단계 (a) 및 (b)를 두 번째로 수행하는 단계 및 제1 검정과 비교하여 한타바이러스 항원 수준의 변화를 결정하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "한타바이러스에 감염된 대상체를 치료하거나 한타바이러스에 감염될 위험이 있는 대상체의 감염 가능성을 감소시키기 위한 약제학적 조성물로서, 제1항 내지 제10항 중 어느 한 항에 따른 항체 또는 항체 단편, 또는 상기 항체 또는 항체 단편을 인코딩하는 RNA 또는 DNA 서열, 또는 벡터를 포함하는, 약제학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, 상기 대상체가 임신한 여성, 성적으로 활동적인 여성, 또는 불임 치료를 받고 있는 여성인, 약제학적 조성물.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, 약제학적 조성물이 항체 또는 항체 단편 투여, 또는 상기 항체 또는 항체 단편을 인코딩하는 RNA 또는 DNA 서열 또는 벡터를 사용한 유전자 전달(genetic delivery)에 의해 투여되는, 약제학적 조성물.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "항체 또는 항체 단편을 인코딩하는 하이브리도마 또는 조작된 세포로서, 상기 항체 또는 항체 단편이 제1항 내지 제10항 중 어느 한 항에 따른 것인, 하이브리도마 또는 조작된 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "백신 제형(vaccine formulation)으로서, 제1항 내지 제10항 중 어느 한 항에 따른 하나 이상의 항체 또는 항체 단편, 또는 제1항 내지 제10항 중 어느 한 항에 따른 하나 이상의 항체 또는 항체 단편을 인코딩하는 하나 이상의 발현 벡터를 포함하는, 백신 제형.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 73,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 74,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 75,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 76,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 77,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 78,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 79,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 80,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 81,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 82,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 83,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 84,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 85,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 86,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 87,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 88,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 89,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 90,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 91,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 92,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 93,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 94,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 95,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 96,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 97,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220610",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 97,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체(subject)에서 한타바이러스 감염(hantavirus infection)을 검출하는 방법으로서,\n(a) 상기 대상체로부터의 샘플을 각각 표 3 및 4로부터의 클론-쌍을 이룬(clone-paired) 중쇄 및 경쇄 CDR 서열을 갖는 항체 또는 항체 단편과 접촉시키는 단계; 및\n(b) 상기 항체 또는 항체 단편을 상기 샘플 중의 한타바이러스 항원에 결합시킴으로써 상기 샘플에서 한타바이러스를 검출하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 샘플이 체액인, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 상기 샘플이 혈액, 객담, 눈물, 타액, 점액 또는 혈청, 정액, 자궁경부 또는 질 분비물, 양수, 태반 조직, 소변, 삼출물, 삼출액, 조직 긁힘(tissue scraping) 또는 대변인, 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 검출이 ELISA, RIA, 측방 유동 검정(lateral flow assay) 또는 웨스턴 블롯(Western blot)을 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 단계 (a) 및 (b)를 두 번째로 수행하는 단계 및 제1 검정과 비교하여 한타바이러스 항원 수준의 변화를 결정하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 의해 인코딩(encoding)되는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 대해 70%, 80%, 또는 90% 동일성(identity)을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 70%, 80% 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 상기 항체 단편이 재조합(recombinant) scFv (단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "한타바이러스에 감염된 대상체를 치료하거나, 한타바이러스에 감염될 위험이 있는 대상체의 감염 가능성을 감소시키는 방법으로서, 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 갖는 항체 또는 항체 단편을 상기 대상체에게 전달하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 바와 같은 클론-쌍을 이룬 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 또는 제14항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 것에 대해 95% 동일성을 갖는 클론-쌍을 이룬 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 또는 제14항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 대해 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 70%, 80% 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 내지 제19항 중 어느 한 항에 있어서, 상기 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 방법.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 내지 제20항 중 어느 한 항에 있어서, 상기 항체가 IgG, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 방법.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 내지 제19항 중 어느 한 항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적(bispecific) 항체인, 방법.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 내지 제22항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 감염 전 또는 감염 후에 투여되는, 방법.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 내지 제23항 중 어느 한 항에 있어서, 상기 대상체가 임신한 여성, 성적으로 활동적인 여성, 또는 불임 치료를 받고 있는 여성인, 방법.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 내지 제24항 중 어느 한 항에 있어서, 전달이 항체 또는 항체 단편 투여, 또는 항체 또는 항체 단편을 인코딩하는 RNA 또는 DNA 서열 또는 벡터(vector)를 사용한 유전자 전달(genetic delivery)을 포함하는, 방법.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "모노클로날 항체(monoclonal antibody)로서, 상기 항체 또는 항체 단편이 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 특징으로 하는, 모노클로날 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 모노클로날 항체.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 대해 적어도 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 모노클로날 항체.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 대해 적어도 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 모노클로날 항체.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 항체 또는 항체 단편은 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 모노클로날 항체.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 모노클로날 항체.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제31항 중 어느 한 항에 있어서, 상기 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 모노클로날 항체.",
+            "refers_to": [
+              26,
+              27,
+              28,
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제31항에 있어서, 상기 항체가 키메라 항체이거나, 이중특이적 항체인, 모노클로날 항체.",
+            "refers_to": [
+              26,
+              27,
+              28,
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제33항 중 어느 한 항에 있어서, 상기 항체가 IgG, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 모노클로날 항체.",
+            "refers_to": [
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제34항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 세포 침투성 펩티드를 추가로 포함하고/하거나 인트라바디(intrabody)인, 모노클로날 항체.",
+            "refers_to": [
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항체 또는 항체 단편을 인코딩하는 하이브리도마 또는 조작된 세포로서, 상기 항체 또는 항체 단편이 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 특징으로 하는, 하이브리도마 또는 조작된 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 하이브리도마 또는 조작된 세포.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 가변 서열에 대해 적어도 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 하이브리도마 또는 조작된 세포.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 가변 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 하이브리도마 또는 조작된 세포.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 하이브리도마 또는 조작된 세포.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 가변 서열에 대해 적어도 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 하이브리도마 또는 조작된 세포.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 하이브리도마 또는 조작된 세포.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항 내지 제42항 중 어느 한 항에 있어서, 상기 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 하이브리도마 또는 조작된 세포.",
+            "refers_to": [
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항 내지 제43항 중 어느 한 항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적 항체인, 하이브리도마 또는 조작된 세포.",
+            "refers_to": [
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항 내지 제43항 중 어느 한 항에 있어서, 상기 항체가 IgG, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 하이브리도마 또는 조작된 세포.",
+            "refers_to": [
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항 내지 제45항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 세포 침투성 펩티드를 추가로 포함하고/하거나 인트라바디인, 하이브리도마 또는 조작된 세포.",
+            "refers_to": [
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 특징으로 하는 하나 이상의 항체 또는 항체 단편을 포함하는 백신 제형(vaccine formulation).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 표 1로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 백신 제형.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 표 1로부터의 클론-쌍을 이룬 서열에 대해 적어도 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 백신 제형.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 표 1로부터의 클론-쌍을 이룬 서열에 대해 적어도 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 백신 제형.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 백신 제형.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 백신 제형.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항 내지 제52항 중 어느 한 항에 있어서, 상기 항체 단편 중 적어도 하나가 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 백신 제형.",
+            "refers_to": [
+              47,
+              48,
+              49,
+              50,
+              51,
+              52
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항 내지 제52항 중 어느 한 항에 있어서, 상기 항체 중 적어도 하나가 키메라 항체이거나 이중특이적 항체인, 백신 제형.",
+            "refers_to": [
+              47,
+              48,
+              49,
+              50,
+              51,
+              52
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항 내지 제54항 중 어느 한 항에 있어서, 상기 항체 중 적어도 하나가 IgG, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 백신 제형.",
+            "refers_to": [
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항 내지 제55항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편 중 적어도 하나가 세포 침투성 펩티드를 추가로 포함하고/하거나 인트라바디인, 백신 제형.",
+            "refers_to": [
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54,
+              55
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제34항 중 어느 한 항에 따르는 제1 항체 또는 항체 단편을 인코딩하는 하나 이상의 발현 벡터를 포함하는 백신 제형.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제57항에 있어서, 상기 발현 벡터(들)가 신드비스(Sindbis) 바이러스 또는 VEE 벡터(들)인, 백신 제형.",
+            "refers_to": [
+              57
+            ]
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제57항 또는 제58항에 있어서, 바늘 주사, 제트 주사, 또는 전기천공에 의한 전달용으로 제형화된, 백신 제형.",
+            "refers_to": [
+              57,
+              58
+            ]
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제57항에 있어서, 제2 항체 또는 항체 단편, 예를 들어, 제26항 내지 제34항 중 어느 한 항의 별개의 항체 또는 항체 단편을 인코딩하는 하나 이상의 발현 벡터를 추가로 포함하는, 백신 제형.",
+            "refers_to": [
+              57
+            ]
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "한타바이러스에 감염되었거나 감염될 위험이 있는 임신 대상체의 태반 및/또는 태아의 건강을 보호하는 방법으로서, 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 갖는 항체 또는 항체 단편을 상기 대상체에게 전달하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 바와 같은 클론-쌍을 이룬 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항 또는 제62항에 있어서, 상기 항체 또는 항체 단편이 표 1에 제시된 것들에 대해 95% 동일성을 갖는 클론-쌍을 이룬 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              61,
+              62
+            ]
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항 또는 제62항에 있어서, 상기 항체 또는 항체 단편이 표 1로부터의 클론-쌍을 이룬 서열에 대해 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              61,
+              62
+            ]
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 70%, 80% 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항 내지 제67항 중 어느 한 항에 있어서, 상기 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 방법.",
+            "refers_to": [
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67
+            ]
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항 내지 제68항 중 어느 한 항에 있어서, 상기 항체가 IgG, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 방법.",
+            "refers_to": [
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67,
+              68
+            ]
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항 내지 제67항 중 어느 한 항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적 항체인, 방법.",
+            "refers_to": [
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67
+            ]
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항 내지 제70항 중 어느 한 항에 있어서, 상기 항체 또는 항체 단편이 감염 전 또는 감염 후에 투여되는, 방법.",
+            "refers_to": [
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67,
+              68,
+              69,
+              70
+            ]
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항 내지 제71항 중 어느 한 항에 있어서, 상기 대상체가 임신한 여성, 성적으로 활동적인 여성, 또는 불임 치료를 받고 있는 여성인, 방법.",
+            "refers_to": [
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67,
+              68,
+              69,
+              70,
+              71
+            ]
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항 내지 제72항 중 어느 한 항에 있어서, 전달이 항체 또는 항체 단편 투여, 또는 항체 또는 항체 단편을 인코딩하는 RNA 또는 DNA 서열 또는 벡터를 사용한 유전자 전달을 포함하는, 방법.",
+            "refers_to": [
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67,
+              68,
+              69,
+              70,
+              71,
+              72
+            ]
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 미처리 대조군과 비교하여 태반의 크기를 증가시키는, 방법.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 75,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항에 있어서, 상기 항체 또는 항체 단편이 미처리 대조군과 비교하여 태아의 바이러스 부하(viral load) 및/또는 병리를 감소시키는, 방법.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 76,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "한타바이러스 항원의 항원 완전성, 정확한 형태 및/또는 정확한 서열을 결정하는 방법으로서, \n(a) 상기 항원을 포함하는 샘플을 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 갖는 제1 항체 또는 항체 단편과 접촉시키는 단계; 및\n(b) 상기 항원에 대한 상기 제1 항체 또는 항체 단편의 검출 가능한 결합에 의해 상기 항원의 항원 완전성, 정확한 형태 및/또는 정확한 서열을 결정하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 77,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항에 있어서, 상기 샘플이 재조합적으로 생산된 항원을 포함하는, 방법.",
+            "refers_to": [
+              76
+            ]
+          },
+          {
+            "claim_number": 78,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항에 있어서, 상기 샘플이 백신 제형 또는 백신 생산 뱃치(batch)를 포함하는, 방법.",
+            "refers_to": [
+              76
+            ]
+          },
+          {
+            "claim_number": 79,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항 내지 제78항 중 어느 한 항에 있어서, 검출이 ELISA, RIA, 웨스턴 블롯, 표면 플라즈몬 공명 또는 생물층 간섭 측정법을 사용하는 바이오센서, 또는 유세포 계측 염색(flow cytometric staining)을 포함하는, 방법.",
+            "refers_to": [
+              76,
+              77,
+              78
+            ]
+          },
+          {
+            "claim_number": 80,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              76,
+              77,
+              78,
+              79
+            ]
+          },
+          {
+            "claim_number": 81,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 대해 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              76,
+              77,
+              78,
+              79
+            ]
+          },
+          {
+            "claim_number": 82,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              76,
+              77,
+              78,
+              79
+            ]
+          },
+          {
+            "claim_number": 83,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              76,
+              77,
+              78,
+              79
+            ]
+          },
+          {
+            "claim_number": 84,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 70%, 80% 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              76,
+              77,
+              78,
+              79
+            ]
+          },
+          {
+            "claim_number": 85,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항 내지 제79항 중 어느 한 항에 있어서, 상기 제1 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              76,
+              77,
+              78,
+              79
+            ]
+          },
+          {
+            "claim_number": 86,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항 내지 제85항 중 어느 한 항에 있어서, 상기 제1 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 방법.",
+            "refers_to": [
+              76,
+              77,
+              78,
+              79,
+              80,
+              81,
+              82,
+              83,
+              84,
+              85
+            ]
+          },
+          {
+            "claim_number": 87,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항 내지 제86항 중 어느 한 항에 있어서, 시간이 경과함에 따라 항원의 항원 안정성을 결정하기 위해 단계 (a) 및 (b)를 두 번째로 수행하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              76,
+              77,
+              78,
+              79,
+              80,
+              81,
+              82,
+              83,
+              84,
+              85,
+              86
+            ]
+          },
+          {
+            "claim_number": 88,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항 내지 제87항 중 어느 한 항에 있어서, \n(c) 상기 항원을 포함하는 샘플을 각각 표 3 및 4로부터의 클론-쌍을 이룬 중쇄 및 경쇄 CDR 서열을 갖는 제2 항체 또는 항체 단편과 접촉시키는 단계; 및\n(d) 상기 항원에 대한 상기 제2 항체 또는 항체 단편의 검출 가능한 결합에 의해 상기 항원의 항원 완전성을 결정하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              76,
+              77,
+              78,
+              79,
+              80,
+              81,
+              82,
+              83,
+              84,
+              85,
+              86,
+              87
+            ]
+          },
+          {
+            "claim_number": 89,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제88항에 있어서, 상기 제2 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              88
+            ]
+          },
+          {
+            "claim_number": 90,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제89항에 있어서, 상기 제2 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 가변 서열에 대해 70%, 80%, 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              89
+            ]
+          },
+          {
+            "claim_number": 91,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제89항에 있어서, 상기 제2 항체 또는 항체 단편이 표 1에 제시된 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 방법.",
+            "refers_to": [
+              89
+            ]
+          },
+          {
+            "claim_number": 92,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제89항에 있어서, 상기 제2 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따르는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              89
+            ]
+          },
+          {
+            "claim_number": 93,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제89항에 있어서, 상기 제2 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 70%, 80% 또는 90% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              89
+            ]
+          },
+          {
+            "claim_number": 94,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제89항에 있어서, 상기 제2 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 방법.",
+            "refers_to": [
+              89
+            ]
+          },
+          {
+            "claim_number": 95,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제89항에 있어서, 상기 제2 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편, 또는 Fv 단편인, 방법.",
+            "refers_to": [
+              89
+            ]
+          },
+          {
+            "claim_number": 96,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제89항에 있어서, 시간이 경과함에 따라 항원의 항원 안정성을 결정하기 위해 단계 (c) 및 (d)를 두 번째로 수행하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              89
+            ]
+          },
+          {
+            "claim_number": 97,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "인간 모노클로날 항체 또는 항체 단편, 또는 이를 생산하는 하이브리도마 또는 조작된 세포로서, 상기 항체가 한타바이러스 바이러스 융합 단백질(Gc)에 결합하고, 신 놈브레(Sin Nombre) 바이러스(SNV), 안데스(Andes) 바이러스(ANDV), 푸우 말라(Puumala) 바이러스(PUUV), 한탄(Hantaan) 바이러스(HNTV), 서울(Seoul) 바이러스(SEOV) 및 도브라바(Dobrava) 바이러스(DOB) 중 1, 2, 3, 4, 5, 또는 6개 모두를 중화시키는, 인간 모노클로날 항체 또는 항체 단편, 또는 이를 생산하는 하이브리도마 또는 조작된 세포.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20231101",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 97,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "각각 표 3 및 4로부터의 클론-쌍을 이룬(clone-paired) 중쇄 및 경쇄 CDR 서열을 특징으로 하는 모노클로날 항체 또는 항체 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 상기 항체 단편이, 표 1로부터의 클론-쌍을 이룬 서열에 따른 경쇄 및 중쇄 가변 서열에 의해 인코딩(encoding)되는, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 항체 단편이, 표 1로부터의 클론-쌍을 이룬 서열에 대해 적어도 70%, 80%, 90% 또는 95% 동일성(identity)을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 따른 경쇄 및 중쇄 가변 서열을 포함하는, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 항체 단편이 표 2로부터의 클론-쌍을 이룬 서열에 대해 80%, 90% 또는 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편 또는 Fv 단편인, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적(bispecific) 항체인, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체가 IgG이거나, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 항체 단편이 세포 침투성 펩티드를 추가로 포함하고/하거나 인트라바디(intrabody)인, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적 항체인, 모노클로날 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "대상체(subject)에서 한타바이러스 감염(hantavirus infection)을 검출하는 방법으로서,\n(a) 상기 대상체로부터의 샘플을 제1항 내지 제10항 중 어느 한 항에 따른 항체 또는 항체 단편과 접촉시키는 단계; 및\n(b) 상기 항체 또는 항체 단편을 상기 샘플 중의 한타바이러스 항원에 결합시킴으로써 상기 샘플에서 한타바이러스를 검출하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 샘플이 체액인, 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 샘플이 혈액, 객담, 눈물, 타액, 점액 또는 혈청, 정액, 자궁경부 또는 질 분비물, 양수, 태반 조직, 소변, 삼출물, 삼출액, 조직 긁힘(tissue scraping) 또는 대변인, 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 검출이 ELISA, RIA, 측방 유동 검정(lateral flow assay) 또는 웨스턴 블롯(Western blot)을 포함하는, 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 단계 (a) 및 (b)를 두 번째로 수행하는 단계 및 제1 검정과 비교하여 한타바이러스 항원 수준의 변화를 결정하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "한타바이러스에 감염된 대상체를 치료하거나, 한타바이러스에 감염될 위험이 있는 대상체의 감염 가능성을 감소시키는 방법으로서, 제1항 내지 제10항 중 어느 한 항에 따른 항체 또는 항체 단편을 상기 대상체에게 전달하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 상기 대상체가 임신한 여성, 성적으로 활동적인 여성, 또는 불임 치료를 받고 있는 여성인, 방법.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 전달이 항체 또는 항체 단편 투여, 또는 항체 또는 항체 단편을 인코딩하는 RNA 또는 DNA 서열 또는 벡터(vector)를 사용한 유전자 전달(genetic delivery)을 포함하는, 방법.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "항체 또는 항체 단편을 인코딩하는 하이브리도마 또는 조작된 세포로서, 상기 항체 또는 항체 단편이 제1항 내지 제10항 중 어느 한 항에 따른 것인, 하이브리도마 또는 조작된 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "백신 제형(vaccine formulation)으로서, 제1항 내지 제10항 중 어느 한 항에 따른 하나 이상의 항체 또는 항체 단편, 또는 제1항 내지 제10항 중 어느 한 항에 따른 하나 이상의 항체 또는 항체 단편을 인코딩하는 하나 이상의 발현 벡터를 포함하는, 백신 제형.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "인간 모노클로날 항체 또는 항체 단편, 또는 이를 생산하는 하이브리도마 또는 조작된 세포로서, 상기 항체가 한타바이러스 바이러스 융합 단백질(Gc)에 결합하고, 신 놈브레(Sin Nombre) 바이러스(SNV), 안데스(Andes) 바이러스(ANDV), 푸우 말라(Puumala) 바이러스(PUUV), 한탄(Hantaan) 바이러스(HNTV), 서울(Seoul) 바이러스(SEOV) 및 도브라바(Dobrava) 바이러스(DOB) 중 1, 2, 3, 4, 5, 또는 6개 모두를 중화시키는, 인간 모노클로날 항체 또는 항체 단편, 또는 이를 생산하는 하이브리도마 또는 조작된 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 75,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 76,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 77,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 78,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 79,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 80,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 81,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 82,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 83,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 84,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 85,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 86,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 87,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 88,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 89,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 90,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 91,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 92,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 93,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 94,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 95,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 96,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 97,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250417",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 14,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기에 제시된 클론-쌍을 이룬(clone-paired) 중쇄 및 경쇄 CDR 서열을 특징으로 하는 모노클로날 항체 또는 항체 단편:\n서열번호: 85 내지 87, 및 148 내지 150; 서열번호: 88 내지 90, 및 151 내지 153; 서열번호: 91 내지 93, 및 154 내지 156; 서열번호: 94 내지 96, 및 157 내지 159; 서열번호: 97 내지 99, 및 160 내지 162; 서열번호: 100 내지 102, 및 163 내지 165; 서열번호: 103 내지 105, 및 166 내지 168; 서열번호: 106 내지 108, 및 169 내지 171; 서열번호: 109 내지 111, 및 172 내지 174; 서열번호: 112 내지 114, 및 175 내지 177; 서열번호: 115 내지 117, 및 178 내지 180; 서열번호: 118 내지 120, 및 181 내지 183; 서열번호: 121 내지 123, 및 184 내지 186; 서열번호: 124 내지 126, 및 187 내지 189; 서열번호: 127 내지 129, 및 190 내지 192; 서열번호: 130 내지 132, 및 193 내지 195; 서열번호: 133 내지 135, 및 196 내지 198; 서열번호: 136 내지 138, 및 199 내지 201; 서열번호: 139 내지 141, 및 202 내지 204; 서열번호: 142 내지 144, 및 205 내지 207; 서열번호: 145 내지 147, 및 208 내지 210; 서열번호: 279 내지 281, 및 330 내지 332; 서열번호: 282 내지 284, 및 333 내지 335; 서열번호: 285 내지 287, 및 336 내지 338; 서열번호: 288 내지 290, 및 339 내지 341; 서열번호: 291 내지 293, 및 342 내지 344; 서열번호: 294 내지 296, 및 345 내지 347; 서열번호: 297 내지 299, 및 348 내지 350; 서열번호: 300 내지 302, 및 351 내지 353; 서열번호: 303 내지 305, 및 354 내지 356; 서열번호: 306 내지 308, 및 357 내지 359; 서열번호: 309 내지 311, 및 360 내지 362; 서열번호: 312 내지 314, 및 363 내지 365; 서열번호: 315 내지 317, 및 366 내지 368; 서열번호: 318 내지 320, 및 369 내지 371; 서열번호: 321 내지 323, 및 372 내지 374; 서열번호: 324 내지 326, 및 375 내지 377; 또는 서열번호: 327 내지 329, 및 378 내지 380.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 상기 항체 단편이 하기에 제시된 클론-쌍을 이룬 서열에 따른 경쇄 및 중쇄 가변 서열에 의해 인코딩(encoding)되는, 모노클로날 항체 또는 항체 단편:\n서열번호: 1 및 2; 서열번호: 3 및 4; 서열번호: 5 및 6; 서열번호: 7 및 8; 서열번호: 9 및 10; 서열번호: 11 및 12; 서열번호: 13 및 14; 서열번호: 15 및 16; 서열번호: 17 및 18; 서열번호: 19 및 20; 서열번호: 21 및 22; 서열번호: 23 및 24; 서열번호: 25 및 26; 서열번호: 27 및 28; 서열번호: 29 및 30; 서열번호: 31 및 32; 서열번호: 33 및 34; 서열번호: 35 및 36; 서열번호: 37 및 38; 서열번호: 39 및 40; 서열번호: 41 및 42; 서열번호: 211 및 212; 서열번호: 213 및 214; 서열번호: 215 및 216; 서열번호: 217 및 218; 서열번호: 219 및 220; 서열번호: 221 및 222; 서열번호: 223 및 224; 서열번호: 225 및 226; 서열번호: 227 및 228; 서열번호: 229 및 230; 서열번호: 231 및 232; 서열번호: 233 및 234; 서열번호: 235 및 236; 서열번호: 237 및 238; 서열번호: 239 및 240; 서열번호: 241 및 242; 또는 서열번호: 243 및 244.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 항체 단편이 하기에 제시된 클론-쌍을 이룬 서열에 대해 적어도 70%, 80%, 90% 또는 95% 동일성(identity)을 갖는 경쇄 및 중쇄 가변 서열에 의해 인코딩되는, 모노클로날 항체 또는 항체 단편:\n서열번호: 1 및 2; 서열번호: 3 및 4; 서열번호: 5 및 6; 서열번호: 7 및 8; 서열번호: 9 및 10; 서열번호: 11 및 12; 서열번호: 13 및 14; 서열번호: 15 및 16; 서열번호: 17 및 18; 서열번호: 19 및 20; 서열번호: 21 및 22; 서열번호: 23 및 24; 서열번호: 25 및 26; 서열번호: 27 및 28; 서열번호: 29 및 30; 서열번호: 31 및 32; 서열번호: 33 및 34; 서열번호: 35 및 36; 서열번호: 37 및 38; 서열번호: 39 및 40; 서열번호: 41 및 42; 서열번호: 211 및 212; 서열번호: 213 및 214; 서열번호: 215 및 216; 서열번호: 217 및 218; 서열번호: 219 및 220; 서열번호: 221 및 222; 서열번호: 223 및 224; 서열번호: 225 및 226; 서열번호: 227 및 228; 서열번호: 229 및 230; 서열번호: 231 및 232; 서열번호: 233 및 234; 서열번호: 235 및 236; 서열번호: 237 및 238; 서열번호: 239 및 240; 서열번호: 241 및 242; 또는 서열번호: 243 및 244.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 항체 단편이 하기에 제시된 클론-쌍을 이룬 서열에 따른 경쇄 및 중쇄 가변 서열을 포함하는, 모노클로날 항체 또는 항체 단편:\n서열번호: 43 및 44; 서열번호: 45 및 46; 서열번호: 47 및 48; 서열번호: 49 및 50; 서열번호: 51 및 52; 서열번호: 53 및 54; 서열번호: 55 및 56; 서열번호: 57 및 58; 서열번호: 59 및 60; 서열번호: 61 및 62; 서열번호: 63 및 64; 서열번호: 65 및 66; 서열번호: 67 및 68; 서열번호: 69 및 70; 서열번호: 71 및 72; 서열번호: 73 및 74; 서열번호: 75 및 76; 서열번호: 77 및 78; 서열번호: 79 및 80; 서열번호: 81 및 82; 서열번호: 83 및 84; 서열번호: 245 및 246; 서열번호: 247 및 248; 서열번호: 249 및 250; 서열번호: 251 및 252; 서열번호: 253 및 254; 서열번호: 255 및 256; 서열번호: 257 및 258; 서열번호: 259 및 260; 서열번호: 261 및 262; 서열번호: 263 및 264; 서열번호: 265 및 266; 서열번호: 267 및 268; 서열번호: 269 및 270; 서열번호: 271 및 272; 서열번호: 273 및 274; 서열번호: 275 및 276; 또는 서열번호: 277 및 278.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 항체 단편이 하기에 제시된 클론-쌍을 이룬 서열에 대해 80%, 90% 또는 95% 동일성을 갖는 경쇄 및 중쇄 가변 서열을 포함하는, 모노클로날 항체 또는 항체 단편:\n서열번호: 43 및 44; 서열번호: 45 및 46; 서열번호: 47 및 48; 서열번호: 49 및 50; 서열번호: 51 및 52; 서열번호: 53 및 54; 서열번호: 55 및 56; 서열번호: 57 및 58; 서열번호: 59 및 60; 서열번호: 61 및 62; 서열번호: 63 및 64; 서열번호: 65 및 66; 서열번호: 67 및 68; 서열번호: 69 및 70; 서열번호: 71 및 72; 서열번호: 73 및 74; 서열번호: 75 및 76; 서열번호: 77 및 78; 서열번호: 79 및 80; 서열번호: 81 및 82; 서열번호: 83 및 84; 서열번호: 245 및 246; 서열번호: 247 및 248; 서열번호: 249 및 250; 서열번호: 251 및 252; 서열번호: 253 및 254; 서열번호: 255 및 256; 서열번호: 257 및 258; 서열번호: 259 및 260; 서열번호: 261 및 262; 서열번호: 263 및 264; 서열번호: 265 및 266; 서열번호: 267 및 268; 서열번호: 269 및 270; 서열번호: 271 및 272; 서열번호: 273 및 274; 서열번호: 275 및 276; 또는 서열번호: 277 및 278.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 단편이 재조합 scFv(단일 쇄 단편 가변) 항체, Fab 단편, F(ab')2 단편 또는 Fv 단편인, 모노클로날 항체 또는 항체 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적(bispecific) 항체인, 모노클로날 항체 또는 항체 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체가 IgG이거나, 또는 FcR 상호작용의 변경(제거 또는 강화), 반감기의 증가 및/또는 치료 효능의 증가를 위해 돌연변이된 Fc 부분, 예를 들어, LALA, N297, GASD/ALIE, YTE 또는 LS 돌연변이, 또는 글리칸의 효소적 또는 화학적 첨가 또는 제거 또는 정의된 글리코실화 패턴으로 조작된 세포주에서의 발현과 같은, FcR 상호작용을 변경(제거 또는 강화)하도록 변경된 글리칸을 포함하는, 재조합 IgG 항체 또는 항체 단편인, 모노클로날 항체 또는 항체 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 항체 단편이 세포 침투성 펩티드를 추가로 포함하고/하거나 인트라바디(intrabody)인, 모노클로날 항체 또는 항체 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체가 키메라 항체 또는 이중특이적 항체인, 모노클로날 항체 또는 항체 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "한타바이러스에 감염된 대상체를 치료하거나 한타바이러스에 감염될 위험이 있는 대상체의 감염 가능성을 감소시키기 위한 약제학적 조성물로서, 제1항 내지 제10항 중 어느 한 항에 따른 항체 또는 항체 단편, 또는 상기 항체 또는 항체 단편을 인코딩하는 RNA 또는 DNA 서열, 또는 벡터를 포함하는, 약제학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 상기 대상체가 임신한 여성, 성적으로 활동적인 여성, 또는 불임 치료를 받고 있는 여성인, 약제학적 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 약제학적 조성물이 항체 또는 항체 단편 투여, 또는 상기 항체 또는 항체 단편을 인코딩하는 RNA 또는 DNA 서열 또는 벡터를 사용한 유전자 전달(genetic delivery)에 의해 투여되는, 약제학적 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 97,
+      "after_claim_count": 14,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2021.05.20",
+      "internationOpenNumber": "WO2021096829",
+      "internationalApplicationDate": "2020.11.10",
+      "internationalApplicationNumber": "PCT/US2020/059781"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국, 테네시 *****, 내쉬빌, 웨스트 엔드 애비뉴 ****, 커클랜드 홀 ***",
+      "code": "520090601076",
+      "country": "미국",
+      "engName": "Vanderbilt University",
+      "name": "벤더르빌트 유니버시티"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "미국, 테네시 *****,...",
+      "code": "",
+      "country": "",
+      "engName": "CROWE, James, E., Jr.",
+      "name": "크로우 제임스 이. 주니어"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 송파구 법원로 ***, *층(문정동)",
+      "code": "920201000613",
+      "country": "대한민국",
+      "engName": "HANOL Intellectual Property and Law",
+      "name": "특허법인한얼"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2019.11.11",
+      "priorityApplicationNumber": "62/933,755"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2018175531 A2",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "US20040053216 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "CN1214367 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Guttieri Mary C et al, Journal of Immunological Methods (2000.12.01.), vol 246.1-2, pp 97-108.",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2022.06.10",
+        "receiptNumber": "1-1-2022-0608996-84"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2022.06.14",
+        "receiptNumber": "1-5-2022-0088649-96"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.11.01",
+        "receiptNumber": "1-1-2023-1206054-41"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.11.01",
+        "receiptNumber": "1-1-2023-1206055-97"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2024.11.19",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2024.12.11",
+        "receiptNumber": "9-6-2025-0016940-93"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.01.27",
+        "receiptNumber": "9-5-2025-0098609-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2025.03.24",
+        "receiptNumber": "1-1-2025-0331745-26"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장 관련 안내서",
+        "receiptDate": "2025.03.29",
+        "receiptNumber": "1-5-2025-0053055-81"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.04.17",
+        "receiptNumber": "1-1-2025-0435915-08"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.04.17",
+        "receiptNumber": "1-1-2025-0435914-52"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.10.21",
+        "receiptNumber": "9-5-2025-1014364-13"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020227019792.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c939a3444d13e28908e4e09d4d30c85ebe1212c7d284fac4e40c9c028fafdaae78b0038c4c3a7b19f8d8ad9784b70d27acd286ca5607ae1981b",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf704e5620fd06d9a650eac00c4a7763896a01a49c248dda7a56da598b0f98e7a5ab9ae5a82f7c9da6ea0aaf50448bfdc60a10615daabeb620"
+  },
+  "rndInfoArray": ""
+}

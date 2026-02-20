@@ -1,0 +1,1416 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2015.02.23",
+      "applicationFlag": "",
+      "applicationNumber": "10-2016-7026429",
+      "claimCount": "15",
+      "examinerName": "이예리",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "UTI 융합 단백질",
+      "inventionTitleEng": "UTI FUSION PROTEINS",
+      "openDate": "2016.12.09",
+      "openNumber": "10-2016-0141718",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.02.18",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.10.31",
+      "publicationNumber": "",
+      "registerDate": "2022.10.26",
+      "registerNumber": "10-2461210-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2016.09.23"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/81"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/55"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 UTI 융합 단백질, 이를 제조하기 위한 DNA 서열, 및 이를 이용한 의약 조성물 및 방법에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020167026429",
+    "total_amendments": 6,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20160923",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 9,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "SEQ ID NO:1을 포함하는 UTI 융합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "SEQ ID NO:1을 포함하는 UTI 융합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 융합 단백질은 Fc 도메인이 공유적으로 결합되어 있는 다이머인 것인 융합 단백질.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항, 제2항 또는 제3항에 기재된 UTI 융합 단백질 및 약학적으로 허용 가능한 부형제를 포함하는 의약 조성물.\n[청구항 4]\n제1항, 제2항, 또는 제3항에 기재된 UTI 융합 단백질의 의약으로서의 용도.",
+          "refers_to": [
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항, 제2항, 또는 제3항에 기재된 UTI 융합 단백질의 유효량을 이를 필요로 하는ㅎ 환자에게 투여하는 것을 포함하는 UTI-관련 상태의 치료 방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "SEQ ID NO:1을 인코딩하는 폴리뉴클레오타이드 서열을 포함하는 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 기재된 핵산을 포함하는 발현 벡터.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 기재된 발현 벡터를 포함하는 재조합 숙주 세포.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 기재된 재조합 숙주 세포를 배양 배지에 넣어 재조합 융합 단백질을 발현시키고 상기 융합 단백질을 세포 또는 배양 배지로부터 분리하는 것을 포함하는, UTI 융합 단백질의 제조 방법.",
+          "refers_to": [
+            8
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 6,
+      "receipt_date": "20220414",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 26,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "SEQ ID NO:1로 이루어진 UTI-Fc 폴리펩티드를 포함하는 소변 트립신 저해제(UTI) 융합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "SEQ ID NO:1로 이루어진 UTI-Fc 폴리펩티드를 포함하는 단리된 UTI 융합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, UTI 융합 단백질은 공유적으로 결합되어 있는 Fc 도메인을 포함하는 다이머인 것인 UTI 융합 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, UTI 융합 단백질은 공유적으로 결합되어 있는 Fc 도메인을 포함하는 다이머인 것인 UTI 융합 단백질.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 하나의 항에 있어서, 의약의 제조에 사용하기 위한 UTI 융합 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "SEQ ID NO:1을 인코딩하는 폴리뉴클레오티드 서열을 포함하는 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 기재된 핵산을 포함하는 발현 벡터.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 기재된 발현 벡터를 포함하는 재조합 숙주 세포.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "UTI 융합 단백질의 제조 방법으로서, 상기 방법은 제8항에 기재된 재조합 숙주 세포를 배양 배지에 넣어 재조합 융합 단백질을 발현시키고 상기 융합 단백질을 세포 또는 배양 배지로부터 분리하는 것을 포함하는 것인 UTI 융합 단백질의 제조 방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "UTI-관련 상태를 치료 또는 예방하기 위한, 제1항 내지 제4항 중 어느 하나의 항에 기재된 UTI 융합 단백질, 및 약학적으로 허용가능한 부형제를 포함하는 의약 조성물로서,상기 UTI-관련 상태는 췌장염, 급성 췌장염, 관절염, SARS, 전신 염증반응 증후군, 급성 순환부전, 패혈증, 간염, 충수염, 결장염, 장기부전, 장기 손상, 췌장 손상, 신장 손상, 재관류 손상, 스티븐스-존슨 증후군, 독성 표피 괴사, 쇼크, 허혈성 손상, 급성 폐 손상, 급성 대동맥 박리에 기인하는 폐 손상, 천식, 폐 염증, 폐렴, 인공호흡기 관련 폐렴, 파종혈관내응고, 및 급성 호흡곤란 증후군으로 이루어진 군으로부터 선택되는 것인 의약 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항 내지 제4항 중 어느 하나의 항에 기재된 UTI 융합 단백질을 인코딩하는 핵산.",
+          "refers_to": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 기재된 핵산을 포함하는 발현 벡터.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 기재된 발현 벡터를 포함하는 재조합 숙주 세포.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "UTI 융합 단백질의 제조 방법으로서, 상기 방법은 제15항에 기재된 재조합 숙주 세포를 배양 배지에 넣어 재조합 융합 단백질을 발현시키고 상기 융합 단백질을 세포 또는 배양 배지로부터 분리하는 것을 포함하는 것인 UTI 융합 단백질의 제조 방법.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 하나의 항에 기재된 UTI 융합 단백질을 트랜스제닉 동물에서 제조하는, UTI 융합 단백질의 제조 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20160923",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 9,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "SEQ ID NO:1을 포함하는 UTI 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "SEQ ID NO:1을 포함하는 UTI 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 융합 단백질은 Fc 도메인이 공유적으로 결합되어 있는 다이머인 것인 융합 단백질.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항, 제2항 또는 제3항에 기재된 UTI 융합 단백질 및 약학적으로 허용 가능한 부형제를 포함하는 의약 조성물.\n[청구항 4]\n제1항, 제2항, 또는 제3항에 기재된 UTI 융합 단백질의 의약으로서의 용도.",
+            "refers_to": [
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항, 제2항, 또는 제3항에 기재된 UTI 융합 단백질의 유효량을 이를 필요로 하는ㅎ 환자에게 투여하는 것을 포함하는 UTI-관련 상태의 치료 방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "SEQ ID NO:1을 인코딩하는 폴리뉴클레오타이드 서열을 포함하는 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 기재된 핵산을 포함하는 발현 벡터.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 기재된 발현 벡터를 포함하는 재조합 숙주 세포.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 기재된 재조합 숙주 세포를 배양 배지에 넣어 재조합 융합 단백질을 발현시키고 상기 융합 단백질을 세포 또는 배양 배지로부터 분리하는 것을 포함하는, UTI 융합 단백질의 제조 방법.",
+            "refers_to": [
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20190319",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "SEQ ID NO:1을 포함하는 소변 트립신 저해제(UTI) 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, UTI 융합 단백질은 공유적으로 결합되어 있는 Fc 도메인을 포함하는 다이머인 것인 UTI 융합 단백질.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제3항 중 어느 하나의 항에 기재된 UTI 융합 단백질 및 약학적으로 허용 가능한 부형제를 포함하는 의약 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제3항 중 어느 하나의 항에 기재된 UTI 융합 단백질의 의약으로서의 용도.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제3항 중 어느 하나의 항에 기재된 UTI 융합 단백질의 유효량을 이를 필요로 하는 환자에게 투여하는 것을 포함하는 UTI-관련 상태의 치료 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "SEQ ID NO:1을 인코딩하는 폴리뉴클레오타이드 서열을 포함하는 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 기재된 핵산을 포함하는 발현 벡터.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 기재된 발현 벡터를 포함하는 재조합 숙주 세포.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "UTI 융합 단백질의 제조 방법으로서, 상기 방법은 제9항에 기재된 재조합 숙주 세포를 배양 배지에 넣어 재조합 융합 단백질을 발현시키고 상기 융합 단백질을 세포 또는 배양 배지로부터 분리하는 것을 포함하는 것인 UTI 융합 단백질의 제조 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "야생형 Fc 도메인에 링크된 SEQ ID NO:1의 아미노산 1 내지 149를 포함하는 UTI 융합 단백질로서, 상기 Fc 도메인에서 첫 번째 불변부 면역글로불린 도메인 또는 하나 이상의 치환을 함유하지 않는 그의 단편은 배제된 것인 UTI 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 기재된 두 개의 단리된 UTI 융합 단백질을 포함하는 다이머로서, Fc 도메인들 또는 그의 단편들이 공유적으로 연관되어 있는 것인 다이머.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항, 제3항 또는 제11항에 기재된 UTI 융합 단백질 또는 제12항에 기재된 다이머, 및 약학적으로 허용가능한 부형제를 포함하는 의약 조성물.",
+            "refers_to": [
+              3,
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항, 제3항 또는 제11항 중 어느 하나의 항에 기재된 UTI 융합 단백질 또는 제12항에 기재된 다이머의 유효량을 이를 필요로 하는 환자에게 투여하는 것을 포함하는 UTI-관련 상태의 치료 방법.",
+            "refers_to": [
+              3,
+              11
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항, 제3항 또는 제11항 중 어느 하나의 항에 기재된 UTI 융합 단백질 또는 제12항에 기재된 다이머를 인코딩하는 핵산.",
+            "refers_to": [
+              3,
+              11
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 기재된 핵산을 포함하는 발현 벡터.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 기재된 발현 벡터를 포함하는 재조합 숙주 세포.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "UTI 융합 단백질의 제조 방법으로서, 상기 방법은 제17항에 기재된 재조합 숙주 세포를 배양 배지에 넣어 재조합 융합 단백질을 발현시키고 상기 융합 단백질을 세포 또는 배양 배지로부터 분리하는 것을 포함하는 것인 UTI 융합 단백질의 제조 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항, 제3항 또는 제11항 중 어느 하나의 항에 기재된 UTI 융합 단백질 또는 제12항에 기재된 다이머를 트랜스제닉 동물에서 제조하는, UTI 융합 단백질의 제조 방법.",
+            "refers_to": [
+              3,
+              11
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항, 제3항 또는 제11항 중 어느 하나의 항에 기재된 단리된 UTI 융합 단백질 또는 제12항에 기재된 다이머로서, Fc 도메인은 IgG1, IgG2 및 IgG4 Fc 도메인으로 이루어진 군으로부터 선택되는 것인 제1항, 제3항 또는 제11항 중 어느 하나의 항에 기재된 단리된 UTI 융합 단백질 또는 제12항에 기재된 다이머.",
+            "refers_to": [
+              3,
+              11
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항, 제3항 또는 제11항 중 어느 하나의 항에 기재된 단리된 UTI 융합 단백질 또는 제12항에 기재된 다이머로서, Fc 도메인은 IgG1 Fc 도메인인 것인 제1항, 제3항 또는 제11항 중 어느 하나의 항에 기재된 단리된 UTI 융합 단백질 또는 제12항에 기재된 다이머.",
+            "refers_to": [
+              3,
+              11
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 또는 제14항에 있어서, UTI-관련 상태는 췌장염, 관절염, SARS, 전신 염증반응 증후군, 급성 순환부전, 패혈증, 간염, 충수염, 결장염, 장기부전, 장기 손상, 재관류 손상, 스티븐스-존슨 증후군, 독성 표피 괴사, 쇼크, 허혈성 손상, 급성 폐 손상, 천식, 폐 염증, 폐렴, 파종혈관내응고, 및 급성 호흡곤란 증후군으로 이루어진 군으로부터 선택되는 것인 방법.",
+            "refers_to": [
+              6,
+              14
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 또는 제17항에 있어서, 상기 세포는 포유동물 세포, 곤충 세포, 대장균 세포, 효모 세포 및 식물 세포로 이루어진 군으로부터 선택되는 것인 재조합 숙주 세포.",
+            "refers_to": [
+              9,
+              17
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제23항에 있어서, 포유동물 세포는 차이니즈 햄스터 난소(CHO) 세포, HEK 293 세포, NSO 세포, HeLa 세포, 베이비 햄스터 신장(BHK) 세포, 원숭이 신장 세포(COS), 및 인간 간세포 암종 세포로 이루어진 군으로부터 선택되는 것인 재조합 숙주 세포.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, UTI-관련 상태는 급성 췌장염인 것인 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, UTI-관련 상태는 췌장염, 췌장 손상, 신장 손상, 급성 대동맥 박리에 기인하는 폐 손상, 및 인공호흡기 관련 폐렴으로 이루어진 군으로부터 선택되는 것인 방법.",
+            "refers_to": [
+              22
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20200218",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "SEQ ID NO:1을 포함하는 단리된 UTI 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "SEQ ID NO:1을 인코딩하는 폴리뉴클레오티드 서열을 포함하는 핵산.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20210820",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 24,
+        "claims": [
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, UTI 융합 단백질은 공유적으로 결합되어 있는 Fc 도메인을 포함하는 다이머인 것인 UTI 융합 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, UTI 융합 단백질은 공유적으로 결합되어 있는 Fc 도메인을 포함하는 다이머인 것인 UTI 융합 단백질.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 하나의 항에 있어서, 의약의 제조에 사용하기 위한 UTI 융합 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "SEQ ID NO:1을 인코딩하는 폴리뉴클레오티드 서열을 포함하는 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 기재된 핵산을 포함하는 발현 벡터.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 기재된 발현 벡터를 포함하는 재조합 숙주 세포.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "UTI 융합 단백질의 제조 방법으로서, 상기 방법은 제8항에 기재된 재조합 숙주 세포를 배양 배지에 넣어 재조합 융합 단백질을 발현시키고 상기 융합 단백질을 세포 또는 배양 배지로부터 분리하는 것을 포함하는 것인 UTI 융합 단백질의 제조 방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "야생형 Fc 도메인에 링크된 SEQ ID NO:1의 아미노산 1 내지 149를 포함하는 UTI 융합 단백질로서, 상기 Fc 도메인에서 첫 번째 불변부 면역글로불린 도메인 또는 하나 이상의 치환을 함유하지 않는 그의 단편은 배제된 것인 UTI 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 기재된 단리된 UTI 융합 단백질 두 개를 포함하는 다이머로서, Fc 도메인들 또는 그의 단편들이 공유적으로 연관되어 있는 것인 다이머.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "UTI-관련 상태를 치료 또는 예방하기 위한, 제1항 내지 제4항 및 제10항 중 어느 하나의 항에 기재된 UTI 융합 단백질 또는 제11항에 기재된 다이머, 및 약학적으로 허용가능한 부형제를 포함하는 의약 조성물로서,\n상기 UTI-관련 상태는 췌장염, 급성 췌장염, 관절염, SARS, 전신 염증반응 증후군, 급성 순환부전, 패혈증, 간염, 충수염, 결장염, 장기부전, 장기 손상, 췌장 손상, 신장 손상, 재관류 손상, 스티븐스-존슨 증후군, 독성 표피 괴사, 쇼크, 허혈성 손상, 급성 폐 손상, 급성 대동맥 박리에 기인하는 폐 손상, 천식, 폐 염증, 폐렴, 인공호흡기 관련 폐렴, 파종혈관내응고, 및 급성 호흡곤란 증후군으로 이루어진 군으로부터 선택되는 것인 의약 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 및 제10항 중 어느 하나의 항에 기재된 UTI 융합 단백질 또는 제11항에 기재된 다이머를 인코딩하는 핵산.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 기재된 핵산을 포함하는 발현 벡터.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 기재된 발현 벡터를 포함하는 재조합 숙주 세포.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "UTI 융합 단백질의 제조 방법으로서, 상기 방법은 제15항에 기재된 재조합 숙주 세포를 배양 배지에 넣어 재조합 융합 단백질을 발현시키고 상기 융합 단백질을 세포 또는 배양 배지로부터 분리하는 것을 포함하는 것인 UTI 융합 단백질의 제조 방법.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 및 제10항 중 어느 하나의 항에 기재된 UTI 융합 단백질 또는 제11항에 기재된 다이머를 트랜스제닉 동물에서 제조하는, UTI 융합 단백질의 제조 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 및 제10항 중 어느 하나의 항에 있어서, Fc 도메인은 IgG1, IgG2 및 IgG4 Fc 도메인으로 이루어진 군으로부터 선택되는 것인 UTI 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, Fc 도메인은 IgG1 Fc 도메인인 것인 UTI 융합 단백질.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, Fc 도메인은 IgG1, IgG2 및 IgG4 Fc 도메인으로 이루어진 군으로부터 선택되는 것인 다이머.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, Fc 도메인은 IgG1 Fc 도메인인 것인 다이머.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, 상기 세포는 포유동물 세포, 곤충 세포, 대장균 세포, 효모 세포 및 식물 세포로 이루어진 군으로부터 선택되는 것인 재조합 숙주 세포.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 있어서, 상기 세포는 포유동물 세포, 곤충 세포, 대장균 세포, 효모 세포 및 식물 세포로 이루어진 군으로부터 선택되는 것인 재조합 숙주 세포.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제22항에 있어서, 포유동물 세포는 차이니즈 햄스터 난소(CHO) 세포, HEK 293 세포, NSO 세포, HeLa 세포, 베이비 햄스터 신장(BHK) 세포, 원숭이 신장 세포(COS), 및 인간 간세포 암종 세포로 이루어진 군으로부터 선택되는 것인 재조합 숙주 세포.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제23항에 있어서, 포유동물 세포는 차이니즈 햄스터 난소(CHO) 세포, HEK 293 세포, NSO 세포, HeLa 세포, 베이비 햄스터 신장(BHK) 세포, 원숭이 신장 세포(COS), 및 인간 간세포 암종 세포로 이루어진 군으로부터 선택되는 것인 재조합 숙주 세포.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 5,
+        "receipt_date": "20220126",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "UTI-관련 상태를 치료 또는 예방하기 위한, 제1항 내지 제4항 중 어느 하나의 항에 기재된 UTI 융합 단백질, 및 약학적으로 허용가능한 부형제를 포함하는 의약 조성물로서,\n상기 UTI-관련 상태는 췌장염, 급성 췌장염, 관절염, SARS, 전신 염증반응 증후군, 급성 순환부전, 패혈증, 간염, 충수염, 결장염, 장기부전, 장기 손상, 췌장 손상, 신장 손상, 재관류 손상, 스티븐스-존슨 증후군, 독성 표피 괴사, 쇼크, 허혈성 손상, 급성 폐 손상, 급성 대동맥 박리에 기인하는 폐 손상, 천식, 폐 염증, 폐렴, 인공호흡기 관련 폐렴, 파종혈관내응고, 및 급성 호흡곤란 증후군으로 이루어진 군으로부터 선택되는 것인 의약 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항 내지 제4항 중 어느 하나의 항에 기재된 UTI 융합 단백질을 인코딩하는 핵산.",
+            "refers_to": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 하나의 항에 기재된 UTI 융합 단백질을 트랜스제닉 동물에서 제조하는, UTI 융합 단백질의 제조 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 6,
+        "receipt_date": "20220414",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "SEQ ID NO:1로 이루어진 UTI-Fc 폴리펩티드를 포함하는 소변 트립신 저해제(UTI) 융합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "SEQ ID NO:1로 이루어진 UTI-Fc 폴리펩티드를 포함하는 단리된 UTI 융합 단백질.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 9,
+      "after_claim_count": 2,
+      "total_versions": 6
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020227037377"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2015.08.27",
+      "internationOpenNumber": "WO2015127391",
+      "internationalApplicationDate": "2015.02.23",
+      "internationalApplicationNumber": "PCT/US2015/017152"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "독일, ***** 콘스탄츠, 빅-굴덴-슈트라쎄 *",
+        "code": "520150366259",
+        "country": "독일",
+        "engName": "Takeda GmbH",
+        "name": "다케다 게엠베하"
+      },
+      {
+        "address": "일본 오사까시 쥬오구 도쇼마찌 *-*-*",
+        "code": "519980959067",
+        "country": "일본",
+        "engName": "TAKEDA PHARMACEUTICAL COMPANY LIMITED",
+        "name": "다케다 야쿠힌 고교 가부시키가이샤"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 캘리포니아 ***** 샌디에고 사이...",
+        "code": "",
+        "country": "",
+        "engName": "CHAMBERLAIN, Aaron",
+        "name": "챔벌린, 애런"
+      },
+      {
+        "address": "미국 캘리포니아 ***** 샌디에고 사이...",
+        "code": "",
+        "country": "",
+        "engName": "LIU, Qiang",
+        "name": "리우, 퀴앙"
+      },
+      {
+        "address": "미국 캘리포니아 ***** 샌디에고 사이...",
+        "code": "",
+        "country": "",
+        "engName": "SCHMIDT, Mathias",
+        "name": "슈미트, 마티아스"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 강남구 강남대로 *** (논현동) *-*F(박장원특허법률사무소)",
+      "code": "919980002023",
+      "country": "대한민국",
+      "engName": "PARK, Jang Won",
+      "name": "박장원"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2014.02.24",
+      "priorityApplicationNumber": "61/943,617"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "CN103044554 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "JP2013253079 A",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2016.09.23",
+        "receiptNumber": "1-1-2016-0925697-32"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2016.10.03",
+        "receiptNumber": "1-5-2016-0143857-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2016.11.07",
+        "receiptNumber": "1-1-2016-1087130-78"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2016.11.08",
+        "receiptNumber": "1-5-2016-0161583-10"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.03.19",
+        "receiptNumber": "1-1-2019-0281754-23"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.02.18",
+        "receiptNumber": "1-1-2020-0172582-67"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2020.02.18",
+        "receiptNumber": "1-1-2020-0172581-11"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.06.22",
+        "receiptNumber": "9-5-2021-0491962-33"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.08.20",
+        "receiptNumber": "1-1-2021-0962214-89"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.08.20",
+        "receiptNumber": "1-1-2021-0962215-24"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2021.12.28",
+        "receiptNumber": "9-5-2021-1015557-47"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.01.26",
+        "receiptNumber": "1-1-2022-0101184-25"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2022.01.26",
+        "receiptNumber": "1-1-2022-0101185-71"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2022.02.14",
+        "receiptNumber": "9-5-2022-0121953-34"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.04.14",
+        "receiptNumber": "1-1-2022-0400546-30"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.04.14",
+        "receiptNumber": "1-1-2022-0400545-95"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.07.25",
+        "receiptNumber": "9-5-2022-0554616-07"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2022.10.26",
+        "receiptNumber": "1-1-2022-1130690-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2023.05.30",
+        "receiptNumber": "1-1-2023-0593880-80"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.08.04",
+        "receiptNumber": "4-1-2025-5213292-97"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020167026429.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c939e16345f9d89052311a661d7144f43a148d3d3982851ff0aa18e3b39d5878f43b4c05bad791165ea3bfc76173cf786a877e0246ce80de2c1",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf233397abd8f485417d16b6473ccb040208d5d67ac956493d9959315d22276cb45bdaeab8bdbb17c75b8468b86c319b510f27764b321dd96b"
+  },
+  "rndInfoArray": ""
+}

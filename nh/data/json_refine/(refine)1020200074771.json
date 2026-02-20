@@ -1,0 +1,600 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.06.19",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-0074771",
+      "claimCount": "7",
+      "examinerName": "신영신",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "METTL7A 과발현 줄기세포를 포함하는 골재생용 조성물, 이를 제조하는 방법 및 이를 포함하는 세포치료제",
+      "inventionTitleEng": "A COMPOSITION FOR BONE REGENERATION COMPRISING STEM  CELLS OVEREXPRESSING METTL7A, A METHOD FOR  PREPARATION THE SAME AND CELL THERAPEUTIC PRODUCT  COMPRISING THE SAME",
+      "openDate": "2021.12.29",
+      "openNumber": "10-2021-0157508",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.06.19",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.11.07",
+      "publicationNumber": "",
+      "registerDate": "2022.11.01",
+      "registerNumber": "10-2463245-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/7088"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 19/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/67"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/85"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 METTL7A 과발현 줄기세포를 포함하는 골재생용 조성물, 이를 제조하는 방법 및 이를 포함하는 세포치료제에 관한 것으로, 이를 통해 종래 골재생 줄기세포 치료에 비해 골분화능과 줄기세포의 생존율을 향상시킬 수 있는 효과가 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020200074771",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200619",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 9,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "METTL7A 유전자가 과발현된 줄기세포를 포함하는 골 재생용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 METTL7A 유전자는 서열번호 1인 골재생용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 METTL7A 유전자의 과발현은 미니써클 벡터를 통해 이루어지는 것인 골재생용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 줄기세포는 골수줄기세포인 골재생용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "1) METTL7A 유전자 과발현 벡터를 제조하는 단계; 및\n2) 상기 단계 1)에서 제조된 벡터를 줄기세포에 도입하는 단계;\n를 포함하는 METTL7A 유전자가 과발현된 줄기세포를 포함하는 골재생용 조성물 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서,\n상기 단계 1)에서 METTL7A 유전자는 서열번호 1인 골재생용 조성물 제조방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서,\n상기 단계 1)의 벡터는 미니써클 벡터인 골재생용 조성물 제조방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서,\n상기 단계 2)의 줄기세포는 골수줄기세포인 골재생용 조성물 제조방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항의 조성물 또는 제 5항의 제조방법으로 제조된 골재생용 조성물을 포함하는 골재생용 세포치료제.",
+          "refers_to": [
+            1
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20221014",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 9,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "METTL7A 유전자를 포함하는 재조합 벡터가 골수줄기세포 내에 도입되어, 상기 벡터가 도입되지 않은 정상 골수줄기세포에 비해 METTL7A 유전자가 과발현된 골수줄기세포를 포함하는, 골 재생용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 METTL7A 유전자는 서열번호 1인 골재생용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 재조합 벡터는 미니써클 벡터인 것인, 골재생용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "1) METTL7A 유전자 과발현 벡터를 제조하는 단계; 및2) 상기 단계 1)에서 제조된 벡터를 골수줄기세포에 도입하는 단계;를 포함하는, 상기 벡터가 도입되지 않은 정상 골수줄기세포에 비해  METTL7A 유전자가 과발현된 골수줄기세포를 포함하는 골재생용 조성물 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서,상기 단계 1)에서 METTL7A 유전자는 서열번호 1인 골재생용 조성물 제조방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서,상기 단계 1)의 벡터는 미니써클 벡터인 골재생용 조성물 제조방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항의 조성물 또는 제 5항의 제조방법으로 제조된 골재생용 조성물을 포함하는 골재생용 세포치료제.",
+          "refers_to": [
+            1
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200619",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 9,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "METTL7A 유전자가 과발현된 줄기세포를 포함하는 골 재생용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 METTL7A 유전자는 서열번호 1인 골재생용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 METTL7A 유전자의 과발현은 미니써클 벡터를 통해 이루어지는 것인 골재생용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 줄기세포는 골수줄기세포인 골재생용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "1) METTL7A 유전자 과발현 벡터를 제조하는 단계; 및\n2) 상기 단계 1)에서 제조된 벡터를 줄기세포에 도입하는 단계;\n를 포함하는 METTL7A 유전자가 과발현된 줄기세포를 포함하는 골재생용 조성물 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서,\n상기 단계 1)에서 METTL7A 유전자는 서열번호 1인 골재생용 조성물 제조방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서,\n상기 단계 1)의 벡터는 미니써클 벡터인 골재생용 조성물 제조방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서,\n상기 단계 2)의 줄기세포는 골수줄기세포인 골재생용 조성물 제조방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항의 조성물 또는 제 5항의 제조방법으로 제조된 골재생용 조성물을 포함하는 골재생용 세포치료제.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220419",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "METTL7A 유전자가 과발현된 골수줄기세포를 포함하는 골 재생용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "1) METTL7A 유전자 과발현 벡터를 제조하는 단계; 및\n2) 상기 단계 1)에서 제조된 벡터를 골수줄기세포에 도입하는 단계;\n를 포함하는 METTL7A 유전자가 과발현된 골수줄기세포를 포함하는 골재생용 조성물 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20221014",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 3,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "METTL7A 유전자를 포함하는 재조합 벡터가 골수줄기세포 내에 도입되어, 상기 벡터가 도입되지 않은 정상 골수줄기세포에 비해 METTL7A 유전자가 과발현된 골수줄기세포를 포함하는, 골 재생용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 재조합 벡터는 미니써클 벡터인 것인, 골재생용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "1) METTL7A 유전자 과발현 벡터를 제조하는 단계; 및\n2) 상기 단계 1)에서 제조된 벡터를 골수줄기세포에 도입하는 단계;\n를 포함하는, 상기 벡터가 도입되지 않은 정상 골수줄기세포에 비해 METTL7A 유전자가 과발현된 골수줄기세포를 포함하는 골재생용 조성물 제조방법.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 9,
+      "after_claim_count": 3,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 중구...",
+      "code": "220060081783",
+      "country": "대한민국",
+      "engName": "Dongguk University Industry-Academic Cooperation Foundation",
+      "name": "동국대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "경기도 안양시 동안구...",
+        "code": "",
+        "country": "",
+        "engName": "IM, Gun Il",
+        "name": "임군일"
+      },
+      {
+        "address": "경기도 고양시 일산서구...",
+        "code": "",
+        "country": "",
+        "engName": "LEE, Eu Gene",
+        "name": "이유진"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구  테헤란로**길  ** ,**층 (역삼동, 이에스타워)",
+      "code": "920141000811",
+      "country": "대한민국",
+      "engName": "PCR Intellectual Property Law Firm",
+      "name": "특허법인피씨알"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "XIa YI et al. The key microRNA on lipid droplet formation during adipogenesis from human mesenchymal stem cells. Journal of cellular physiology. v.235(1), pp.328-338 (2019.06.18.)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20180325958 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR101760618 B1",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2020.06.19",
+        "receiptNumber": "1-1-2020-0631967-20"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2021.04.16",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2021.06.16",
+        "receiptNumber": "9-6-2022-0032540-05"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2022.02.25",
+        "receiptNumber": "9-5-2022-0156168-18"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.04.19",
+        "receiptNumber": "1-1-2022-0415753-25"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.04.19",
+        "receiptNumber": "1-1-2022-0415754-71"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2022.07.13",
+        "receiptNumber": "9-5-2022-0520952-92"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2022.10.14",
+        "receiptNumber": "1-1-2022-1084061-08"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.10.14",
+        "receiptNumber": "1-1-2022-1084062-43"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.10.28",
+        "receiptNumber": "9-5-2022-0828504-96"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.12.11",
+        "receiptNumber": "4-1-2023-5328031-82"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.12.11",
+        "receiptNumber": "4-1-2023-5327857-09"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.05.14",
+        "receiptNumber": "4-1-2025-5128486-75"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020200074771.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93bafd06e713854f7b799dc5cf1876d5c975dd2cf0d91d4a143992cf174d9510c6eff794a96293c593a7f375c3b2511032a0c372830438b12a",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf00041f590a0e35d108630514fa3d317bb3a14d95c46c5e854ff9e1b680b3f4579a681f134a3692bbc0ad6a21a478caeba7325bcd57afa14b"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "과학기술정보통신부",
+      "rndDuration": "2020.03.01 ~ 2021.02.28",
+      "rndManagingInstituteName": "동국대학교",
+      "rndProjectName": "개인기초연구(과기정통부)(R＆D)",
+      "rndSpecialInstituteName": "한국연구재단",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "골관절염의 세포치료에서 세포의 생존 및 생착 증대 기전 연구",
+      "rndTaskNumber": "1711113151"
+    }
+  }
+}

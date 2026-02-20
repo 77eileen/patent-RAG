@@ -1,0 +1,4713 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2018.05.03",
+      "applicationFlag": "",
+      "applicationNumber": "10-2019-7035686",
+      "claimCount": "17",
+      "examinerName": "이효진",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "γδ T 세포의 증식, 조성물 및 이의 사용 방법",
+      "inventionTitleEng": "EXPANSION OF GAMMA DELTA T CELLS, COMPOSITIONS, AND METHODS OF USE THEREOF",
+      "openDate": "2020.03.09",
+      "openNumber": "10-2020-0024770",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2021.04.28",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.05.23",
+      "publicationNumber": "",
+      "registerDate": "2025.05.20",
+      "registerNumber": "10-2812405-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2019.12.02"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 비-조혈 조직 공급원으로부터 γδ T 세포를 증식시키는 방법을 제공한다. 추가로 제공된 것은 증식된 γδ T 세포의 조성물 및 증식된 γδ T 세포(예를 들어, 입양 T 세포 치료요법의 일부)를 사용하는 방법이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020197035686",
+    "total_amendments": 5,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20191202",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 77,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "γδ T 세포를 증식(expanding)시키는 방법으로서, 상기 방법은\n(i) 비-조혈 조직으로부터 수득된 γδ T 세포의 집단을 제공하는 단계; 및\n(ii) 상기 γδ T 세포를, γδ T 세포의 증식된 집단을 생성하는 유효량으로 적어도 5일 동안 \n(a) IL-2 또는 IL-9; \n(b) IL-15; 및 \n(c) IL-21의 존재하에 배양하는 단계 \n를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 단계(ii)는 IL-4의 존재하에 γδ T 세포를 배양하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "γδ T 세포를 증식시키는 방법으로서, 상기 방법은\n(i) 비-조혈 조직으로부터 수득된 γδ T 세포의 집단을 제공하는 단계; 및\n(ii) 상기 γδ T 세포를 IL-2, IL-15, 및 IL-21, 기질 세포-유래된 인자(SDF), IL-1β, IL-12, IL-18, 및 IL-33으로 이루어진 군으로부터 선택되는 인자의 존재하에 적어도 5일 동안 배양하여 γδ T 세포의 증식된 집단을 생성하는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 단계(ii)는 외인성 TCR 경로 효능제의 부재하에 상기 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 단계(ii)는 무혈청 배지에서 상기 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 방법은 추가로 단계(i) 후, 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 생성하는 단계를 포함하고, 단계(ii)는 \n(a) 실질적인(substantial) 기질 세포 접촉의 부재하에 상기 γδ T 세포를 배양하는 단계;\n(b) 실질적인 종양 세포 접촉의 부재하에 상기 γδ T 세포를 배양하는 단계; 및/또는\n(c) 실질적인 피더 세포 접촉의 부재하에 상기 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "γδ T 세포를 증식시키는 방법으로서, 상기 방법은\n(i) 비-조혈 조직을 제공하는 단계로서, 상기 조직이 비-조혈 세포 및 γδ T 세포를 포함하는 단계;\n(ii) 상기 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 수득하는 단계; 및\n(iii) γδ T 세포를 IL-2, IL-15, 및 IL-21, SDF, IL-1β, IL-12, IL-18, 및 IL-33으로 이루어진 군으로부터 선택되는 인자의 존재하에 적어도 5일 동안 배양하여 γδ T 세포의 증식된 집단을 생성하는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 비-조혈 조직은 인간 또는 비-인간 동물 대상체로부터 수득되는, 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 또는 제8항에 있어서, 단계(ii)는 IL-2, IL-15, 및 IL-21의 존재하에 γδ T 세포를 배양하는 단계를, 방법.",
+          "refers_to": [
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 내지 제9항 중 어느 한 항에 있어서, 단계(ii)는 무혈청 배지에서 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 내지 제10항 중 어느 한 항에 있어서, 단계(iii)은 γδ T 세포와의 실질적인 기질 세포 접촉의 부재하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 내지 제11항 중 어느 한 항에 있어서, 단계(iii)은 외인성 TCR 경로 효능제의 부재하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 내지 제12항 중 어느 한 항에 있어서, 비-조혈 세포로부터 γδ T 세포를 분리하는 단계는 비-조혈 조직으로부터 세포 이탈을 촉진시키도록 구성된 합성 스캐폴드 상에서 γδ T 세포 및 비-조혈 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 내지 제13항 중 어느 한 항에 있어서, 비-조혈 세포로부터 γδ T 세포를 분리하는 단계는 IL-2 및/또는 IL-15의 존재하에 γδ T 세포 및 비-조혈 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 내지 제14항 중 어느 한 항에 있어서, 림프구의 분리된 집단은 γδ T 세포의 분리된 집단을 포함하고, γδ T 세포의 분리된 집단이 Vδ1 T 세포의 분리된 집단을 포함하는, 방법.",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 림프구의 분리된 집단의 1-10%는 증식 전 γδ T 세포인, 방법.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항 또는 제16항에 있어서, 림프구의 분리된 집단의 1-10%는 증식 전 Vδ1 T 세포인, 방법.",
+          "refers_to": [
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 내지 제17항 중 어느 한 항에 있어서, γδ T 세포의 분리된 집단의 적어도 80%는 증식 전 Vδ1 T 세포인, 방법.",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 내지 제18항 중 어느 한 항에 있어서, γδ T 세포의 분리된 집단의 10% 미만은 증식 전 Vδ2 T 세포인, 방법.",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 내지 제19항 중 어느 한 항에 있어서, αβ T 세포 및/또는 NK 세포는 γδ T 세포의 분리된 집단으로부터 제거되는, 방법.",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 내지 제20항 중 어느 한 항에 있어서, 증식 전에, γδ T 세포의 분리된 집단은 적어도 10%의 CCR3+ 세포, 적어도 10%의 CCR4+ 세포, 적어도 10%의 CCR7+ 세포, 적어도 10%의 CCR8+ 세포 또는 적어도 10%의 CD103+ 세포를 포함하는, 방법.",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 내지 제21항 중 어느 한 항에 있어서, 증식 전에, γδ T 세포의 분리된 집단은 혈액-거주 Vδ2 T 세포의 참조 집단에 비해 보다 높은 빈도의 CCR3+ 세포, CCR4+ 세포, CCR7+ 세포, 및/또는 CCR8+ 세포를 포함하는, 방법.",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항 내지 제22항 중 어느 한 항에 있어서, Vδ1 T 세포의 분리된 집단은 혈액-거주 Vδ1 T 세포의 참조 집단에 비해 보다 높은 빈도의 NKG2D+ 세포, CD56+ 세포, CD69+ 세포, 및/또는 TIM3+ 세포를 포함하는, 방법.",
+          "refers_to": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제23항 중 어느 한 항에 있어서, 배양 14일 이내에, γδ T 세포의 증식된 집단은 증식 전 γδ T 세포의 분리된 집단에 비해 적어도 20배 수의 γδ T 세포를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제24항 중 어느 한 항에 있어서, 배양 21일 이내에, γδ T 세포의 증식된 집단은 증식 전 γδ T 세포의 분리된 집단에 비해 적어도 50배 수의 γδ T 세포를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제25항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 Vδ1 T 세포의 증식된 집단을 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 배양 14일 이내에, Vδ1 T 세포의 증식된 집단은 증식 전 Vδ1 T 세포의 분리된 집단에 비해 적어도 20배 수의 Vδ1 T 세포를 포함하는, 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 또는 제27항에 있어서, 배양 21일 이내에, Vδ1 T 세포의 증식된 집단은 증식 전 Vδ1 T 세포의 분리된 집단에 비해 적어도 50배 수의 Vδ1 T 세포를 포함하는, 방법.",
+          "refers_to": [
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제28항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 CD27을 발현하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단 보다, CD27의 메디안 발현이 보다 큰 것인, 방법.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제30항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 CD27의 메디안 발현이 적어도 2배인 것인, 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 CD27+ 세포의 빈도가 보다 높은 것인, 방법.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제32항에 있어서, γδ T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단의 것에 비해 CD27+ 세포의 빈도가 적어도 5% 보다 높은 것인, 방법.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제28항 중 어느 한 항에 있어서, Vδ1 T 세포의 증식된 집단은 CD27을 발현하는, 방법.",
+          "refers_to": [
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제34항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단보다 CD27의 평균 발현이 큰 것인, 방법.",
+          "refers_to": [
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단의 것에 비해 CD27의 평균 발현이 적어도 2배인 것인, 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제34항 내지 제36항 중 어느 한 항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단에 비해 CD27+ 세포의 빈도가 보다 큰 것인, 방법.",
+          "refers_to": [
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제37항에 있어서, Vδ1 T 세포의 증식된 집단이 Vδ1 T 세포의 분리된 집단의 것에 비해 CD27+ 세포의 빈도가 적어도 5% 보다 높은 것인, 방법.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제38항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단 보다, TIGIT의 평균 발현이 보다 적은 것인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단의 것에 비해 TIGIT의 평균 발현이 적어도 50% 미만인 것인, 방법.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39항 또는 제40항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단보다 TIGIT+ 세포의 빈도가 낮은 것인, 방법.",
+          "refers_to": [
+            39,
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단보다 TIGIT+ 세포의 빈도가 적어도 20% 보다 낮은 것인, 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제28항 또는 제34항 내지 제38항 중 어느 한 항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단보다 TIGIT의 평균 발현이 적은 것인, 방법.",
+          "refers_to": [
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단의 것보다 TIGIT의 평균 발현이 적어도 50% 미만인 것인, 방법.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제28항 또는 제34항 내지 제38항 중 어느 한 항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단보다 TIGIT+ 세포의 빈도가 낮은 것인, 방법.",
+          "refers_to": [
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제45항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단보다 TIGIT+ 세포의 빈도가 적어도 20%의 보다 낮은 것인, 방법.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제46항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 CD124, CD215, CD360, CTLA4, CD1b, BTLA, CD39, CD45RA, Fas 리간드, CD25, ICAM-1, CD31, KLRG1, CD30, 및 CD2로 이루어진 군으로부터 선택되는 하나 이상의 마커의 평균 발현이 보다 큰 것인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제47항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 CD124, CD215, CD360, CTLA4, CD1b, BTLA, CD39, CD45RA, Fas 리간드, CD25, ICAM-1, CD31, KLRG1, CD30, 및 CD2로 이루어진 군으로부터 선택되는 하나 이상의 마커를 발현하는 세포의 평균 빈도가 보다 큰 것인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제48항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 NKp44, NKp46, ICAM-2, CD70, CD28, CD103, NKp30, LAG3, CCR4, CD69, PD-1, 및 CD64로 이루어진 군으로부터 선택되는 하나 이상의 마커의 평균 발현이 보다 적은 것인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제49항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단이은γδ T 세포의 분리된 집단에 비해 NKp44, NKp46, ICAM-2, CD70, CD28, CD103, NKp30, LAG3, CCR4, CD69, PD-1, 및 CD64로 이루어진 군으로부터 선택되는 하나 이상의 마커를 발현하는 세포의 빈도가 보다 낮은 것인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제28항, 제34항 내지 제38항, 제43항 또는 제45항 중 어느 한 항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단에 비해 CD124, CD215, CD360, CTLA4, CD1b, BTLA, CD39, CD45RA, Fas 리간드, CD25, ICAM-1, CD31, KLRG1, CD30, 및 CD2로 이루어진 군으로부터 선택되는 하나 이상의 마커의 평균 발현이 보다 큰 것인, 방법.",
+          "refers_to": [
+            43,
+            45
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제28항, 제33항 내지 제38항, 제43항, 제45항 또는 제51항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 CD124, CD215, CD360, CTLA4, CD1b, BTLA, CD39, CD45RA, Fas 리간드, CD25, ICAM-1, CD31, KLRG1, CD30, 및 CD2로 이루어진 군으로부터 선택되는 하나 이상의 마커를 발현하는 세포의 빈도가 보다 큰 것인, 방법.",
+          "refers_to": [
+            45,
+            51
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제28항, 제34항 내지 제38항, 제43항, 제45항, 제51항 또는 제52항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 NKp44, NKp46, ICAM-2, CD70, CD28, CD103, NKp30, LAG3, CCR4, CD69, PD-1, 및 CD64로 이루어진 군으로부터 선택되는 하나 이상의 마커의 평균 발현이 보다 적은 것인, 방법.",
+          "refers_to": [
+            51,
+            52
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항 내지 제28항, 제34항 내지 제38항, 제43항, 제45항 또는 제51항 내지 제53항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 NKp44, NKp46, ICAM-2, CD70, CD28, CD103, NKp30, LAG3, CCR4, CD69, PD-1, 및 CD64로 이루어진 군으로부터 선택되는 하나 이상의 마커를 발현하는 세포의 빈도가 보다 낮은 것인, 방법.",
+          "refers_to": [
+            51,
+            52,
+            53
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 내지 제54항 중 어느 한 항에 있어서, 단계(iii)은 실질적인 기질 세포 접촉의 부재하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 내지 제55항 중 어느 한 항에 있어서, 단계(iii)은 실질적인 피더 세포 접촉의 부재하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 내지 제56항 중 어느 한 항에 있어서, 단계(iii)은 실질적 종양 세포 접촉의 부재하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56
+          ]
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제57항 중 어느 한 항에 있어서, 비-조혈 조직이 종양 조직이 아닌, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57
+          ]
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제58항 중 어느 한 항에 있어서, 비-조혈 조직이 피부인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58
+          ]
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제59항 중 어느 한 항의 방법에 의해 수득된 증식된 γδ T 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "γδ T 세포의 단리된 집단으로서, 단리된 집단의γδ T 세포의 적어도 50%는 CD27을 발현하고 실질적으로 TIGIT를 발현하지 않는, γδ T 세포의 단리된 집단.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61항에 있어서, 리된 집단의 γδ T 세포의 적어도 50%는 Vδ1을 발현하는, γδ T 세포의 단리된 집단.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제60항의 증식된 γδ T 세포 또는 제61항 또는 제62항의 γδ T 세포의 단리된 집단을 포함하는 약제학적 조성물.",
+          "refers_to": [
+            61,
+            62
+          ]
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체에서 암 또는 감염의 치료 방법에 사용하기 위한, 제63항의 약제학적 조성물.",
+          "refers_to": [
+            63
+          ]
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체에서 암 또는 감염의 치료를 위한 약물의 제조에서 제63항의 약제학적 조성물의 용도.",
+          "refers_to": [
+            63
+          ]
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "입양 T 세포 치료요법에 의해 대상체를 치료하는 방법으로서, 상기 방법은 제1항 내지 제59항 중 어느 한 항의 방법에 의해 수득되는 증식된 γδ T 세포, 제60항의 증식된 γδ T 세포, 제61항 또는 제62항의 단리된 집단, 또는 제63항의 약제학적 조성물의 치료학적 유효량을 이를 필요로 하는 대상체에게 투여하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            61,
+            62
+          ]
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제66항에 있어서, 증식된 γδ T 세포의 치료학적 유효량은 용량당 10 x 1012 세포 미만인, 방법.",
+          "refers_to": [
+            66
+          ]
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제66항 또는 제67항에 있어서, 하나 이상의 추가의 치료학적 제제를 이를 필요로 하는 대상체에게 투여하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            66,
+            67
+          ]
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제68항에 있어서, 하나 이상의 추가의 치료학적 제제가 면역치료학적 제제, 세포독성 제제, 성장 억제제, 방사선 치료제, 항-혈관형성 제제, 및 이들의 조합으로 이루어진 군으로부터 선택되는, 방법.",
+          "refers_to": [
+            68
+          ]
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제68항 또는 제69항에 있어서, 하나 이상의 추가의 치료학적 제제는 증식된 γδ T 세포와 동시에 투여되는, 방법.",
+          "refers_to": [
+            68,
+            69
+          ]
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제68항 또는 제69항에 있어서, 하나 이상의 추가의 치료학적 제제는 증식된 γδ T 세포의 투여 후 투여되는, 방법.",
+          "refers_to": [
+            68,
+            69
+          ]
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제68항 내지 제71항 중 어느 한 항에 있어서, 추가의 치료학적 제제는 면역치료학적 제제인, 방법.",
+          "refers_to": [
+            68,
+            69,
+            70,
+            71
+          ]
+        },
+        {
+          "claim_number": 73,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "입양 T 세포 치료요법에 의해 대상체를 치료하는 방법으로서, 상기 방법은 제63항의 약제학적 조성물의 치료학적 유효량을 이를 필요로 하는 대상체에게 투여하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            63
+          ]
+        },
+        {
+          "claim_number": 74,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제66항 내지 제73항 중 어느 한 항에 있어서, 대상체는 인간인, 방법.",
+          "refers_to": [
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73
+          ]
+        },
+        {
+          "claim_number": 75,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제74항에 있어서, 인간은 인간 암 환자인, 방법.",
+          "refers_to": [
+            74
+          ]
+        },
+        {
+          "claim_number": 76,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제75항에 있어서, 인간 암 환자는 고형 종양에 대해 치료받는 것인, 방법.",
+          "refers_to": [
+            75
+          ]
+        },
+        {
+          "claim_number": 77,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제76항에 있어서, 인간은 바이러스 감염에 대해 치료받는 인간 환자인, 방법.",
+          "refers_to": [
+            76
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 5,
+      "receipt_date": "20250124",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 77,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "γδ T 세포를 증식(expanding)시키는 방법으로서, 상기 방법은(i) 비-조혈 조직으로부터 수득된 γδ T 세포의 집단을 제공하는 단계; (ii) 상기 γδ T 세포를, γδ T 세포의 증식된 집단을 생성하는 유효량으로 적어도 5일 동안 (a) IL-2 또는 IL-9; (b) IL-15; 및 (c) IL-21의 존재하에 배양하는 단계 를 포함하고, 상기 방법은 단계(i) 후, 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 생성하는 단계를 추가로 포함하고;단계(ii)는 기질 세포 접촉의 부재 하에 γδ T 세포를 배양하는 단계를 포함하며; 그리고단계(ii)는 외인성 TCR 경로 효능제의 부재 하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 단계(ii)는 IL-4의 존재하에 γδ T 세포를 배양하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 단계(ii)는γδ T 세포를 (a) IL-2, (b) IL-15, 및 (c) IL-21, 기질 세포-유래된 인자(SDF), IL-1β, IL-12, IL-18, 및 IL-33으로 이루어진 군으로부터 선택되는 인자의 존재하에 배양하는 단계를 추가로 포함하며; 그리고상기 세포는 적어도 5일 동안 배양되어 γδ T 세포의 증식된 집단을 생성하는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 단계(ii)는 무혈청 배지에서 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 방법은 단계(i) 후, 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 생성하는 단계를 추가로 포함하고, 그리고 단계(ii)는 (a) 실질적인 종양 세포 접촉의 부재 하에 γδ T 세포를 배양하는 단계; 및/또는(b) 실질적인 피더 세포 접촉의 부재 하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 단계(ii)는 무혈청 배지에서 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, 비-조혈 세포로부터 γδ T 세포를 분리하는 단계는 비-조혈 조직으로부터 세포 이탈을 촉진시키도록 구성된 합성 스캐폴드 상에서 γδ T 세포 및 비-조혈 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, 비-조혈 세포로부터 γδ T 세포를 분리하는 단계는 IL-2 및/또는 IL-15의 존재하에 γδ T 세포 및 비-조혈 세포를 배양하는 단계를 포함하는, 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, 림프구의 분리된 집단은 γδ T 세포의 분리된 집단을 포함하고, 그리고 γδ T 세포의 분리된 집단이 Vδ1 T 세포의 분리된 집단을 포함하는, 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, (a) γδ T 세포의 분리된 집단의 적어도 80%는 증식 전 Vδ1 T 세포이고/이거나, (b) γδ T 세포의 분리된 집단의 10% 미만은 증식 전 Vδ2 T 세포인, 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, αβ T 세포 및/또는 NK 세포는 γδ T 세포의 분리된 집단으로부터 제거되는, 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 배양 14일 이내에, γδ T 세포의 증식된 집단은 증식 전 γδ T 세포의 분리된 집단에 비해 적어도 20배 수의 γδ T 세포를 포함하는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 배양 21일 이내에, γδ T 세포의 증식된 집단은 증식 전 γδ T 세포의 분리된 집단에 비해 적어도 50배 수의 γδ T 세포를 포함하는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, γδ T 세포의 증식된 집단은 Vδ1 T 세포의 증식된 집단을 포함하는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 배양 14일 이내에, Vδ1 T 세포의 증식된 집단은 증식 전 Vδ1 T 세포의 분리된 집단에 비해 적어도 20배 수의 Vδ1 T 세포를 포함하는, 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 배양 21일 이내에, Vδ1 T 세포의 증식된 집단은 증식 전 Vδ1 T 세포의 분리된 집단에 비해 적어도 50배 수의 Vδ1 T 세포를 포함하는, 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 비-조혈 조직이 피부인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 73,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 74,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 75,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 76,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 77,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20191202",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 77,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "γδ T 세포를 증식(expanding)시키는 방법으로서, 상기 방법은\n(i) 비-조혈 조직으로부터 수득된 γδ T 세포의 집단을 제공하는 단계; 및\n(ii) 상기 γδ T 세포를, γδ T 세포의 증식된 집단을 생성하는 유효량으로 적어도 5일 동안 \n(a) IL-2 또는 IL-9; \n(b) IL-15; 및 \n(c) IL-21의 존재하에 배양하는 단계 \n를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 단계(ii)는 IL-4의 존재하에 γδ T 세포를 배양하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "γδ T 세포를 증식시키는 방법으로서, 상기 방법은\n(i) 비-조혈 조직으로부터 수득된 γδ T 세포의 집단을 제공하는 단계; 및\n(ii) 상기 γδ T 세포를 IL-2, IL-15, 및 IL-21, 기질 세포-유래된 인자(SDF), IL-1β, IL-12, IL-18, 및 IL-33으로 이루어진 군으로부터 선택되는 인자의 존재하에 적어도 5일 동안 배양하여 γδ T 세포의 증식된 집단을 생성하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 단계(ii)는 외인성 TCR 경로 효능제의 부재하에 상기 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 단계(ii)는 무혈청 배지에서 상기 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 방법은 추가로 단계(i) 후, 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 생성하는 단계를 포함하고, 단계(ii)는 \n(a) 실질적인(substantial) 기질 세포 접촉의 부재하에 상기 γδ T 세포를 배양하는 단계;\n(b) 실질적인 종양 세포 접촉의 부재하에 상기 γδ T 세포를 배양하는 단계; 및/또는\n(c) 실질적인 피더 세포 접촉의 부재하에 상기 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "γδ T 세포를 증식시키는 방법으로서, 상기 방법은\n(i) 비-조혈 조직을 제공하는 단계로서, 상기 조직이 비-조혈 세포 및 γδ T 세포를 포함하는 단계;\n(ii) 상기 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 수득하는 단계; 및\n(iii) γδ T 세포를 IL-2, IL-15, 및 IL-21, SDF, IL-1β, IL-12, IL-18, 및 IL-33으로 이루어진 군으로부터 선택되는 인자의 존재하에 적어도 5일 동안 배양하여 γδ T 세포의 증식된 집단을 생성하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 비-조혈 조직은 인간 또는 비-인간 동물 대상체로부터 수득되는, 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 또는 제8항에 있어서, 단계(ii)는 IL-2, IL-15, 및 IL-21의 존재하에 γδ T 세포를 배양하는 단계를, 방법.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 내지 제9항 중 어느 한 항에 있어서, 단계(ii)는 무혈청 배지에서 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 내지 제10항 중 어느 한 항에 있어서, 단계(iii)은 γδ T 세포와의 실질적인 기질 세포 접촉의 부재하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 내지 제11항 중 어느 한 항에 있어서, 단계(iii)은 외인성 TCR 경로 효능제의 부재하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 내지 제12항 중 어느 한 항에 있어서, 비-조혈 세포로부터 γδ T 세포를 분리하는 단계는 비-조혈 조직으로부터 세포 이탈을 촉진시키도록 구성된 합성 스캐폴드 상에서 γδ T 세포 및 비-조혈 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 내지 제13항 중 어느 한 항에 있어서, 비-조혈 세포로부터 γδ T 세포를 분리하는 단계는 IL-2 및/또는 IL-15의 존재하에 γδ T 세포 및 비-조혈 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 내지 제14항 중 어느 한 항에 있어서, 림프구의 분리된 집단은 γδ T 세포의 분리된 집단을 포함하고, γδ T 세포의 분리된 집단이 Vδ1 T 세포의 분리된 집단을 포함하는, 방법.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 림프구의 분리된 집단의 1-10%는 증식 전 γδ T 세포인, 방법.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항 또는 제16항에 있어서, 림프구의 분리된 집단의 1-10%는 증식 전 Vδ1 T 세포인, 방법.",
+            "refers_to": [
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 내지 제17항 중 어느 한 항에 있어서, γδ T 세포의 분리된 집단의 적어도 80%는 증식 전 Vδ1 T 세포인, 방법.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 내지 제18항 중 어느 한 항에 있어서, γδ T 세포의 분리된 집단의 10% 미만은 증식 전 Vδ2 T 세포인, 방법.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 내지 제19항 중 어느 한 항에 있어서, αβ T 세포 및/또는 NK 세포는 γδ T 세포의 분리된 집단으로부터 제거되는, 방법.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 내지 제20항 중 어느 한 항에 있어서, 증식 전에, γδ T 세포의 분리된 집단은 적어도 10%의 CCR3+ 세포, 적어도 10%의 CCR4+ 세포, 적어도 10%의 CCR7+ 세포, 적어도 10%의 CCR8+ 세포 또는 적어도 10%의 CD103+ 세포를 포함하는, 방법.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 내지 제21항 중 어느 한 항에 있어서, 증식 전에, γδ T 세포의 분리된 집단은 혈액-거주 Vδ2 T 세포의 참조 집단에 비해 보다 높은 빈도의 CCR3+ 세포, CCR4+ 세포, CCR7+ 세포, 및/또는 CCR8+ 세포를 포함하는, 방법.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항 내지 제22항 중 어느 한 항에 있어서, Vδ1 T 세포의 분리된 집단은 혈액-거주 Vδ1 T 세포의 참조 집단에 비해 보다 높은 빈도의 NKG2D+ 세포, CD56+ 세포, CD69+ 세포, 및/또는 TIM3+ 세포를 포함하는, 방법.",
+            "refers_to": [
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제23항 중 어느 한 항에 있어서, 배양 14일 이내에, γδ T 세포의 증식된 집단은 증식 전 γδ T 세포의 분리된 집단에 비해 적어도 20배 수의 γδ T 세포를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제24항 중 어느 한 항에 있어서, 배양 21일 이내에, γδ T 세포의 증식된 집단은 증식 전 γδ T 세포의 분리된 집단에 비해 적어도 50배 수의 γδ T 세포를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제25항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 Vδ1 T 세포의 증식된 집단을 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 배양 14일 이내에, Vδ1 T 세포의 증식된 집단은 증식 전 Vδ1 T 세포의 분리된 집단에 비해 적어도 20배 수의 Vδ1 T 세포를 포함하는, 방법.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 또는 제27항에 있어서, 배양 21일 이내에, Vδ1 T 세포의 증식된 집단은 증식 전 Vδ1 T 세포의 분리된 집단에 비해 적어도 50배 수의 Vδ1 T 세포를 포함하는, 방법.",
+            "refers_to": [
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제28항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 CD27을 발현하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단 보다, CD27의 메디안 발현이 보다 큰 것인, 방법.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제30항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 CD27의 메디안 발현이 적어도 2배인 것인, 방법.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 CD27+ 세포의 빈도가 보다 높은 것인, 방법.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제32항에 있어서, γδ T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단의 것에 비해 CD27+ 세포의 빈도가 적어도 5% 보다 높은 것인, 방법.",
+            "refers_to": [
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제28항 중 어느 한 항에 있어서, Vδ1 T 세포의 증식된 집단은 CD27을 발현하는, 방법.",
+            "refers_to": [
+              26,
+              27,
+              28
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제34항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단보다 CD27의 평균 발현이 큰 것인, 방법.",
+            "refers_to": [
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단의 것에 비해 CD27의 평균 발현이 적어도 2배인 것인, 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제34항 내지 제36항 중 어느 한 항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단에 비해 CD27+ 세포의 빈도가 보다 큰 것인, 방법.",
+            "refers_to": [
+              34,
+              35,
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제37항에 있어서, Vδ1 T 세포의 증식된 집단이 Vδ1 T 세포의 분리된 집단의 것에 비해 CD27+ 세포의 빈도가 적어도 5% 보다 높은 것인, 방법.",
+            "refers_to": [
+              37
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제38항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단 보다, TIGIT의 평균 발현이 보다 적은 것인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단의 것에 비해 TIGIT의 평균 발현이 적어도 50% 미만인 것인, 방법.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39항 또는 제40항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단보다 TIGIT+ 세포의 빈도가 낮은 것인, 방법.",
+            "refers_to": [
+              39,
+              40
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단보다 TIGIT+ 세포의 빈도가 적어도 20% 보다 낮은 것인, 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제28항 또는 제34항 내지 제38항 중 어느 한 항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단보다 TIGIT의 평균 발현이 적은 것인, 방법.",
+            "refers_to": [
+              34,
+              35,
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단의 것보다 TIGIT의 평균 발현이 적어도 50% 미만인 것인, 방법.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제28항 또는 제34항 내지 제38항 중 어느 한 항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단보다 TIGIT+ 세포의 빈도가 낮은 것인, 방법.",
+            "refers_to": [
+              34,
+              35,
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제45항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단보다 TIGIT+ 세포의 빈도가 적어도 20%의 보다 낮은 것인, 방법.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제46항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 CD124, CD215, CD360, CTLA4, CD1b, BTLA, CD39, CD45RA, Fas 리간드, CD25, ICAM-1, CD31, KLRG1, CD30, 및 CD2로 이루어진 군으로부터 선택되는 하나 이상의 마커의 평균 발현이 보다 큰 것인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제47항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 CD124, CD215, CD360, CTLA4, CD1b, BTLA, CD39, CD45RA, Fas 리간드, CD25, ICAM-1, CD31, KLRG1, CD30, 및 CD2로 이루어진 군으로부터 선택되는 하나 이상의 마커를 발현하는 세포의 평균 빈도가 보다 큰 것인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제48항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 NKp44, NKp46, ICAM-2, CD70, CD28, CD103, NKp30, LAG3, CCR4, CD69, PD-1, 및 CD64로 이루어진 군으로부터 선택되는 하나 이상의 마커의 평균 발현이 보다 적은 것인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제49항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단이은γδ T 세포의 분리된 집단에 비해 NKp44, NKp46, ICAM-2, CD70, CD28, CD103, NKp30, LAG3, CCR4, CD69, PD-1, 및 CD64로 이루어진 군으로부터 선택되는 하나 이상의 마커를 발현하는 세포의 빈도가 보다 낮은 것인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제28항, 제34항 내지 제38항, 제43항 또는 제45항 중 어느 한 항에 있어서, Vδ1 T 세포의 증식된 집단은 Vδ1 T 세포의 분리된 집단에 비해 CD124, CD215, CD360, CTLA4, CD1b, BTLA, CD39, CD45RA, Fas 리간드, CD25, ICAM-1, CD31, KLRG1, CD30, 및 CD2로 이루어진 군으로부터 선택되는 하나 이상의 마커의 평균 발현이 보다 큰 것인, 방법.",
+            "refers_to": [
+              43,
+              45
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제28항, 제33항 내지 제38항, 제43항, 제45항 또는 제51항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 CD124, CD215, CD360, CTLA4, CD1b, BTLA, CD39, CD45RA, Fas 리간드, CD25, ICAM-1, CD31, KLRG1, CD30, 및 CD2로 이루어진 군으로부터 선택되는 하나 이상의 마커를 발현하는 세포의 빈도가 보다 큰 것인, 방법.",
+            "refers_to": [
+              45,
+              51
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제28항, 제34항 내지 제38항, 제43항, 제45항, 제51항 또는 제52항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 NKp44, NKp46, ICAM-2, CD70, CD28, CD103, NKp30, LAG3, CCR4, CD69, PD-1, 및 CD64로 이루어진 군으로부터 선택되는 하나 이상의 마커의 평균 발현이 보다 적은 것인, 방법.",
+            "refers_to": [
+              51,
+              52
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항 내지 제28항, 제34항 내지 제38항, 제43항, 제45항 또는 제51항 내지 제53항 중 어느 한 항에 있어서, γδ T 세포의 증식된 집단은 γδ T 세포의 분리된 집단에 비해 NKp44, NKp46, ICAM-2, CD70, CD28, CD103, NKp30, LAG3, CCR4, CD69, PD-1, 및 CD64로 이루어진 군으로부터 선택되는 하나 이상의 마커를 발현하는 세포의 빈도가 보다 낮은 것인, 방법.",
+            "refers_to": [
+              51,
+              52,
+              53
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 내지 제54항 중 어느 한 항에 있어서, 단계(iii)은 실질적인 기질 세포 접촉의 부재하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 내지 제55항 중 어느 한 항에 있어서, 단계(iii)은 실질적인 피더 세포 접촉의 부재하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54,
+              55
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 내지 제56항 중 어느 한 항에 있어서, 단계(iii)은 실질적 종양 세포 접촉의 부재하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54,
+              55,
+              56
+            ]
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제57항 중 어느 한 항에 있어서, 비-조혈 조직이 종양 조직이 아닌, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54,
+              55,
+              56,
+              57
+            ]
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제58항 중 어느 한 항에 있어서, 비-조혈 조직이 피부인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54,
+              55,
+              56,
+              57,
+              58
+            ]
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제59항 중 어느 한 항의 방법에 의해 수득된 증식된 γδ T 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "γδ T 세포의 단리된 집단으로서, 단리된 집단의γδ T 세포의 적어도 50%는 CD27을 발현하고 실질적으로 TIGIT를 발현하지 않는, γδ T 세포의 단리된 집단.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61항에 있어서, 리된 집단의 γδ T 세포의 적어도 50%는 Vδ1을 발현하는, γδ T 세포의 단리된 집단.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제60항의 증식된 γδ T 세포 또는 제61항 또는 제62항의 γδ T 세포의 단리된 집단을 포함하는 약제학적 조성물.",
+            "refers_to": [
+              61,
+              62
+            ]
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체에서 암 또는 감염의 치료 방법에 사용하기 위한, 제63항의 약제학적 조성물.",
+            "refers_to": [
+              63
+            ]
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체에서 암 또는 감염의 치료를 위한 약물의 제조에서 제63항의 약제학적 조성물의 용도.",
+            "refers_to": [
+              63
+            ]
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "입양 T 세포 치료요법에 의해 대상체를 치료하는 방법으로서, 상기 방법은 제1항 내지 제59항 중 어느 한 항의 방법에 의해 수득되는 증식된 γδ T 세포, 제60항의 증식된 γδ T 세포, 제61항 또는 제62항의 단리된 집단, 또는 제63항의 약제학적 조성물의 치료학적 유효량을 이를 필요로 하는 대상체에게 투여하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              61,
+              62
+            ]
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제66항에 있어서, 증식된 γδ T 세포의 치료학적 유효량은 용량당 10 x 1012 세포 미만인, 방법.",
+            "refers_to": [
+              66
+            ]
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제66항 또는 제67항에 있어서, 하나 이상의 추가의 치료학적 제제를 이를 필요로 하는 대상체에게 투여하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              66,
+              67
+            ]
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제68항에 있어서, 하나 이상의 추가의 치료학적 제제가 면역치료학적 제제, 세포독성 제제, 성장 억제제, 방사선 치료제, 항-혈관형성 제제, 및 이들의 조합으로 이루어진 군으로부터 선택되는, 방법.",
+            "refers_to": [
+              68
+            ]
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제68항 또는 제69항에 있어서, 하나 이상의 추가의 치료학적 제제는 증식된 γδ T 세포와 동시에 투여되는, 방법.",
+            "refers_to": [
+              68,
+              69
+            ]
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제68항 또는 제69항에 있어서, 하나 이상의 추가의 치료학적 제제는 증식된 γδ T 세포의 투여 후 투여되는, 방법.",
+            "refers_to": [
+              68,
+              69
+            ]
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제68항 내지 제71항 중 어느 한 항에 있어서, 추가의 치료학적 제제는 면역치료학적 제제인, 방법.",
+            "refers_to": [
+              68,
+              69,
+              70,
+              71
+            ]
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "입양 T 세포 치료요법에 의해 대상체를 치료하는 방법으로서, 상기 방법은 제63항의 약제학적 조성물의 치료학적 유효량을 이를 필요로 하는 대상체에게 투여하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              63
+            ]
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제66항 내지 제73항 중 어느 한 항에 있어서, 대상체는 인간인, 방법.",
+            "refers_to": [
+              66,
+              67,
+              68,
+              69,
+              70,
+              71,
+              72,
+              73
+            ]
+          },
+          {
+            "claim_number": 75,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제74항에 있어서, 인간은 인간 암 환자인, 방법.",
+            "refers_to": [
+              74
+            ]
+          },
+          {
+            "claim_number": 76,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제75항에 있어서, 인간 암 환자는 고형 종양에 대해 치료받는 것인, 방법.",
+            "refers_to": [
+              75
+            ]
+          },
+          {
+            "claim_number": 77,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제76항에 있어서, 인간은 바이러스 감염에 대해 치료받는 인간 환자인, 방법.",
+            "refers_to": [
+              76
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20210428",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 76,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "γδ T 세포를 증식(expanding)시키는 방법으로서, 상기 방법은\n(i) 비-조혈 조직으로부터 수득된 γδ T 세포의 집단을 제공하는 단계; \n(ii) 상기 γδ T 세포를, γδ T 세포의 증식된 집단을 생성하는 유효량으로 적어도 5일 동안 \n(a) IL-2 또는 IL-9; \n(b) IL-15; 및 \n(c) IL-21의 존재하에 배양하는 단계 \n를 포함하고, \n상기 방법은 단계(i) 후, 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 생성하는 단계를 추가로 포함하고, 그리고 단계(ii)는 실질적인 기질 세포 접촉의 부재 하에 γδ T 세포를 배양하는 단계를 포함하며, 그리고\n단계(ii)는 외인성 TCR 경로 효능제의 부재 하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 단계(ii)는\nγδ T 세포를 IL-2, IL-15, 및 \nIL-21, 기질 세포-유래된 인자(SDF), IL-1β, IL-12, IL-18, 및 IL-33으로 이루어진 군으로부터 선택되는 인자\n의 존재하에 적어도 5일 동안 배양하여 γδ T 세포의 증식된 집단을 생성하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 단계(ii)는 무혈청 배지에서 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 방법은 단계(i) 후, 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 생성하는 단계를 추가로 포함하고, 그리고 단계(ii)는 \n(a) 실질적인 종양 세포 접촉의 부재하에 γδ T 세포를 배양하는 단계; 및/또는\n(b) 실질적인 피더 세포 접촉의 부재하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 단계(ii)는 무혈청 배지에서 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 비-조혈 세포로부터 γδ T 세포를 분리하는 단계는 비-조혈 조직으로부터 세포 이탈을 촉진시키도록 구성된 합성 스캐폴드 상에서 γδ T 세포 및 비-조혈 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 비-조혈 세포로부터 γδ T 세포를 분리하는 단계는 IL-2 및/또는 IL-15의 존재하에 γδ T 세포 및 비-조혈 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 림프구의 분리된 집단은 γδ T 세포의 분리된 집단을 포함하고, 그리고 γδ T 세포의 분리된 집단이 Vδ1 T 세포의 분리된 집단을 포함하는, 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, (a) γδ T 세포의 분리된 집단의 적어도 80%는 증식 전 Vδ1 T 세포이고/이거나, (b) γδ T 세포의 분리된 집단의 10% 미만은 증식 전 Vδ2 T 세포인, 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, αβ T 세포 및/또는 NK 세포는 γδ T 세포의 분리된 집단으로부터 제거되는, 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 배양 14일 이내에, γδ T 세포의 증식된 집단은 증식 전 γδ T 세포의 분리된 집단에 비해 적어도 20배 수의 γδ T 세포를 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 배양 21일 이내에, γδ T 세포의 증식된 집단은 증식 전 γδ T 세포의 분리된 집단에 비해 적어도 50배 수의 γδ T 세포를 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, γδ T 세포의 증식된 집단은 Vδ1 T 세포의 증식된 집단을 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 배양 14일 이내에, Vδ1 T 세포의 증식된 집단은 증식 전 Vδ1 T 세포의 분리된 집단에 비해 적어도 20배 수의 Vδ1 T 세포를 포함하는, 방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 배양 21일 이내에, Vδ1 T 세포의 증식된 집단은 증식 전 Vδ1 T 세포의 분리된 집단에 비해 적어도 50배 수의 Vδ1 T 세포를 포함하는, 방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 비-조혈 조직이 피부인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 75,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 76,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 77,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20230829",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 3,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "γδ T 세포를 증식(expanding)시키는 방법으로서, 상기 방법은\n(i) 비-조혈 조직으로부터 수득된 γδ T 세포의 집단을 제공하는 단계; \n(ii) 상기 γδ T 세포를, γδ T 세포의 증식된 집단을 생성하는 유효량으로 적어도 5일 동안 \n(a) IL-2 또는 IL-9; \n(b) IL-15; 및 \n(c) IL-21의 존재하에 배양하는 단계 \n를 포함하고, \n상기 방법은 단계(i) 후, 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 생성하는 단계를 추가로 포함하고;\n단계(ii)의 배양물 중 최대 10%의 세포는 기질 세포이며; 그리고\n단계(ii)는 외인성 TCR 경로 효능제의 부재 하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 단계(ii)는\nγδ T 세포를 \n(a) IL-2, \n(b) IL-15, 및 \n(c) IL-21, 기질 세포-유래된 인자(SDF), IL-1β, IL-12, IL-18, 및 IL-33으로 이루어진 군으로부터 선택되는 인자\n의 존재하에 배양하는 단계를 추가로 포함하며; 그리고\n상기 세포는 적어도 5일 동안 배양되어 γδ T 세포의 증식된 집단을 생성하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 방법은 단계(i) 후, 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 생성하는 단계를 추가로 포함하고, 그리고 \n(a) 단계(ii)의 배양물 중 최대 10%의 세포는 종양 세포이고/이거나; \n(b) 단계(ii)의 배양물 중 최대 10%의 세포는 피더 세포인, 방법.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20240326",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "γδ T 세포를 증식(expanding)시키는 방법으로서, 상기 방법은\n(i) 비-조혈 조직으로부터 수득된 γδ T 세포의 집단을 제공하는 단계; \n(ii) 상기 γδ T 세포를, γδ T 세포의 증식된 집단을 생성하는 유효량으로 적어도 5일 동안 \n(a) IL-2 또는 IL-9; \n(b) IL-15; 및 \n(c) IL-21의 존재하에 배양하는 단계 \n를 포함하고, \n상기 방법은 단계(i) 후, 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 생성하는 단계를 추가로 포함하고;\n단계(ii)는 기질 세포 접촉의 부재 하에 γδ T 세포를 배양하는 단계를 포함하며; 그리고\n단계(ii)는 외인성 TCR 경로 효능제의 부재 하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 5,
+        "receipt_date": "20250124",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 방법은 단계(i) 후, 비-조혈 세포로부터 γδ T 세포를 분리하여 γδ T 세포의 분리된 집단을 생성하는 단계를 추가로 포함하고, 그리고 단계(ii)는 \n(a) 실질적인 종양 세포 접촉의 부재 하에 γδ T 세포를 배양하는 단계; 및/또는\n(b) 실질적인 피더 세포 접촉의 부재 하에 γδ T 세포를 배양하는 단계를 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 77,
+      "after_claim_count": 1,
+      "total_versions": 5
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020257016628"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2018.11.08",
+      "internationOpenNumber": "WO2018202808",
+      "internationalApplicationDate": "2018.05.03",
+      "internationalApplicationNumber": "PCT/EP2018/061413"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "영국, 런던 더블유씨*알 *엘에스, 스트랜드",
+        "code": "520030024372",
+        "country": "영국",
+        "engName": "KING'S COLLEGE LONDON",
+        "name": "킹즈 컬리지 런던"
+      },
+      {
+        "address": "영국 런던 킹덤 스트리트 * (우: 더블유* *비디)",
+        "code": "520190777001",
+        "country": "영국",
+        "engName": "GAMMADELTA THERAPEUTICS LTD",
+        "name": "감마델타 테라퓨틱스 엘티디"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "영국, 런던 더블유씨*알 *...",
+        "code": "",
+        "country": "",
+        "engName": "BEATSON, Richard",
+        "name": "빗슨, 리차드"
+      },
+      {
+        "address": "영국, 런던 더블유씨*알 *...",
+        "code": "",
+        "country": "",
+        "engName": "HAYDAY, Adrian",
+        "name": "헤이데이, 아드리안"
+      },
+      {
+        "address": "영국, 런던 더블유씨*알 *...",
+        "code": "",
+        "country": "",
+        "engName": "NUSSBAUMER, Oliver",
+        "name": "누스바우머, 올리버"
+      },
+      {
+        "address": "영국, 런던 더블유씨*알 *...",
+        "code": "",
+        "country": "",
+        "engName": "WOOLF, Richard",
+        "name": "울프, 리차드"
+      },
+      {
+        "address": "영국, 런던 더블유씨*알 *...",
+        "code": "",
+        "country": "",
+        "engName": "IANNITTO, Maria Luisa",
+        "name": "이아니토, 마리아 루이자"
+      },
+      {
+        "address": "영국, 런던 더블유** *에프큐, 화이트 시티 플...",
+        "code": "",
+        "country": "",
+        "engName": "MOUNT, Natalie",
+        "name": "마운트, 나탈리에"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 강남구 논현로 *** (역삼동) *층(안소영국제특허법률사무소)",
+      "code": "920000001555",
+      "country": "대한민국",
+      "engName": "Ahn, So Young",
+      "name": "안소영"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "영국",
+      "priorityApplicationDate": "2017.05.03",
+      "priorityApplicationNumber": "1707048.3"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2015189356 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2016198480 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Woolf Richard et al., The LANCET (2016) 387:108",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Ching-Liang CHu et al., The Journal of Immunology (1999) 1896-1903",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2019.12.02",
+        "receiptNumber": "1-1-2019-1245972-60"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2019.12.11",
+        "receiptNumber": "1-5-2019-0197811-27"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2020.02.06",
+        "receiptNumber": "1-1-2020-0126527-43"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2020.02.08",
+        "receiptNumber": "1-5-2020-0022019-48"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2020.02.20",
+        "receiptNumber": "1-1-2020-0183910-08"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.04.28",
+        "receiptNumber": "1-1-2021-0499068-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2021.04.28",
+        "receiptNumber": "1-1-2021-0499076-35"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.12.21",
+        "receiptNumber": "4-1-2022-5303010-69"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2023.05.31",
+        "receiptNumber": "9-5-2023-0495519-93"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2023.07.28",
+        "receiptNumber": "1-1-2023-0833918-90"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.08.29",
+        "receiptNumber": "1-1-2023-0953926-36"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2023.08.29",
+        "receiptNumber": "1-1-2023-0953925-91"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2024.01.26",
+        "receiptNumber": "9-5-2024-0087895-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.03.26",
+        "receiptNumber": "1-1-2024-0335160-86"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.03.26",
+        "receiptNumber": "1-1-2024-0335161-21"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2024.10.29",
+        "receiptNumber": "9-5-2024-0918409-69"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.01.24",
+        "receiptNumber": "1-1-2025-0106450-41"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2025.01.24",
+        "receiptNumber": "1-1-2025-0106451-97"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.02.20",
+        "receiptNumber": "9-5-2025-0178430-06"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2025.05.20",
+        "receiptNumber": "1-1-2025-0566082-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "등록지연에따른특허권존속기간연장등록출원서",
+        "receiptDate": "2025.08.19",
+        "receiptNumber": "1-1-2025-0946075-02"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020197035686.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93ebcc81bc5cc1a2d8ca6e6e88ce68e2f7183981542562edbb5078577b47ccf8045a3042b3471884801175eb7ebe84c9a8e6ce3f3b70e9522c",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf517d5eb0fc83a0926102a23a5cdb1fc090d9e058d9d610e4d64f012aed0e2e3b98f1aa3de7f9d89f43edaca28b4c51633e21b88f37bb7a4c"
+  },
+  "rndInfoArray": ""
+}

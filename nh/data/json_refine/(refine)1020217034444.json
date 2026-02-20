@@ -1,0 +1,1884 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.03.25",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7034444",
+      "claimCount": "20",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "세포 집단의 배양 방법 및 그 이용",
+      "inventionTitleEng": "METHOD FOR CULTURING CELL POPULATION AND USE THEREOF",
+      "openDate": "2021.12.16",
+      "openNumber": "10-2021-0153066",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.03.21",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2021.10.22"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/077"
+      },
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/32"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 19/00"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A01N 1/10"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은, Tie2 양성 줄기/전구 세포 (예를 들어, 수핵 줄기/전구 세포) 를 포함하는 세포 집단으로부터, 용도에 따른 소정의 형질을 갖는 세포 (예를 들어, II 형 콜라겐 양성 수핵 세포) 를 풍부하게 포함하는 세포 집단을, 효율적으로 조제하기 위한 수단을 제공하는 것을 과제로 한다. 본 발명의 배양 방법은, (1) 소화 처리되어 있지 않은 조직 중에 존재하는 상태에서, (2) 적어도 1 종의, 증식 인자 이외의 Tie2 발현 증강제가 첨가된 배지 중에서, (3) 세포의 부착성을 높이는 처리가 이루어진 배양 표면을 갖는 배양 용기에서, 또는 (4) 세포외 매트릭스 분해제가 첨가된 배지 중에서, 구상 콜로니의 형성을 억제하면서, Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는, 배양 방법이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217034444",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20211022",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 36,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Tie2 (tyrosine kinase with Ig and EGF homology domain-2) 의 발현이 양성인 줄기 세포 및/또는 전구 세포 (이하「Tie2 양성 줄기/전구 세포」라고 한다) 를 포함하는 세포 집단의 배양 방법으로서,\n소화 처리되어 있지 않은 조직 중에 존재하는 상태에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 1 배양 방법」이라고 한다).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\n상기 Tie2 양성 줄기/전구 세포가, 추간판의 수핵 조직에서 유래하는 Tie2 양성 줄기/전구 세포인, 제 1 배양 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 또는 제 2 항에 있어서,\n상기 소화 처리되어 있지 않은 조직이 추간판의 수핵 조직인, 제 1 배양 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n상기 소화 처리되어 있지 않은 조직이, 동결 보존된 조직을 해동한 조직인, 제 1 배양 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항에 있어서,\n세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 증폭시킬 때에 실시되는 것인, 제 1 배양 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 배양 방법으로서,\n적어도 1 종의, 증식 인자 이외의 Tie2 발현 증강제가 첨가된 배지 중에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 2 배양 방법」이라고 한다).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 6 항에 있어서,\n상기 증식 인자 이외의 Tie2 발현 증강제가, 동식물 유래 추출물인, 제 2 배양 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 7 항에 있어서,\n상기 식물이, 육계 (Cinnamomum) 속의 식물인, 제 2 배양 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 6 항 내지 제 8 항 중 어느 한 항에 있어서,\n세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 증폭시킬 때에 실시되는, 제 2 배양 방법.",
+          "refers_to": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 배양 방법으로서,\n세포의 부착성을 높이는 처리가 이루어진 배양 표면을 갖는 배양 용기에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 3 배양 방법」이라고 한다).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 10 항에 있어서,\n상기 Tie2 양성 줄기/전구 세포가, Tie2 발현 증강 처리가 이루어져 있는 것인, 제 3 배양 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 10 항 또는 제 11 항에 있어서,\n상기 세포의 부착성을 높이는 처리가, 세포외 매트릭스 및/또는 폴리아미노산을 함유하는 코팅제를 도포하는 처리인, 제 3 배양 방법.",
+          "refers_to": [
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,\n세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 목적 세포로 분화시킬 때에 실시되는, 제 3 배양 방법.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 12 항 또는 제 13 항에 있어서,\n상기 세포외 매트릭스 및/또는 폴리아미노산이, IV 형 콜라겐, 피브로넥틴 및 폴리리신으로 이루어지는 군에서 선택되는 적어도 1 종 이상인, 제 3 배양 방법.",
+          "refers_to": [
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 10 항 내지 제 14 항 중 어느 한 항에 있어서,\n세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 증폭시킬 때에 실시되는 것인, 제 3 배양 방법.",
+          "refers_to": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 12 항 내지 제 15 항 중 어느 한 항에 있어서,\n상기 세포외 매트릭스가 젤라틴인, 제 3 배양 방법.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 배양 방법으로서,\n세포외 매트릭스 분해제가 첨가된 배지 중에서, 구상 콜로니의 형성을 억제하면서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 4 배양 방법」이라고 한다).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 17 항에 있어서,\n상기 Tie2 양성 줄기/전구 세포가, Tie2 발현 증강 처리가 이루어져 있는 것인, 제 4 배양 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 17 항 또는 제 18 항에 있어서,\n상기 세포외 매트릭스 분해제가, 적어도 II 형 콜라겐에 대한 분해 활성을 갖는 프로테아제를 포함하는, 제 4 배양 방법.",
+          "refers_to": [
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,\n세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 목적 세포로 분화시킬 때에 실시되는, 제 4 배양 방법.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 조제 방법으로서,\n제 5 항에 기재된 제 1 배양 방법 및/또는 제 9 항에 기재된 제 2 배양 방법을 실시하는 공정을 포함하는, Tie2 양성 줄기/전구 세포의 Tie2 의 발현을 증강시킴과 함께, 세포 집단 중의 Tie2 양성 줄기/전구 세포를 증폭시키기 위한 배양 단계 (이하「증폭 배양 단계」라고 한다) 를 포함하는, 조제 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 21 항에 있어서,\n상기 증폭 배양 단계에 있어서 실시하는 공정이, 상기 제 1 배양 방법 및 상기 제 2 배양 방법을 동시에 실시하는 공정인, 조제 방법.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 21 항 또는 제 22 항에 있어서,\n상기 증폭 배양 단계가, Tie2 발현 증강제로서 Tie2 발현 증강 작용을 갖는 증식 인자만이 첨가된 배지 중에서 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 공정을 추가로 포함하는, 조제 방법.",
+          "refers_to": [
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단으로부터, 당해 Tie2 양성 줄기/전구 세포로부터 분화된 목적 세포를 포함하는 세포 집단의 조제 방법으로서,\n제 13 항 또는 제 14 항에 기재된 제 3 배양 방법 및/또는 제 20 항에 기재된 제 4 배양 방법을 실시하는 공정을 포함하는, Tie2 양성 줄기/전구 세포를 목적 세포로 분화 유도하기 위한 배양 단계 (이하「분화 배양 단계」라고 한다) 를 포함하는, 조제 방법.",
+          "refers_to": [
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 24 항에 있어서,\n상기 분화 배양 단계에 있어서 실시하는 공정이, 상기 제 3 배양 방법 및 상기 제 4 배양 방법을 동시에 실시하는 공정인, 조제 방법.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 24 항 또는 제 25 항에 있어서,\n상기 목적 세포가, 적어도 II 형 콜라겐을 발현하는 세포인, 조제 방법.",
+          "refers_to": [
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 26 항에 있어서,\n상기 적어도 II 형 콜라겐을 발현하는 세포가 수핵 세포인, 조제 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 24 항 내지 제 27 항 중 어느 한 항에 있어서,\n상기 분화 배양 단계에 의해, Tie2 양성 줄기/전구 세포도 잔존하고 있는 세포 집단을 얻는, 조제 방법.",
+          "refers_to": [
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단으로부터, 당해 Tie2 양성 줄기/전구 세포로부터 분화된 목적 세포를 포함하는 세포 집단으로의 조제 방법으로서,\n제 21 항 내지 제 23 항 중 어느 한 항에 기재된 증폭 배양 단계, 및\n제 24 항 내지 제 28 항 중 어느 한 항에 기재된 분화 배양 단계를 포함하는, 조제 방법.",
+          "refers_to": [
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 20 항 중 어느 한 항에 기재된 배양 방법에 의해 얻어진 세포 집단.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 20 항 중 어느 한 항에 기재된 배양 방법에 있어서의 배지와, 당해 배양 방법에 제공되는, 배양되어 있거나 또는 얻어진 세포 집단을 함유하는 배양물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 21 항 내지 제 29 항 중 어느 한 항에 기재된 조제 방법에 있어서의, 증폭 배양 단계 및/또는 분화 배양 단계에 의해 얻어진 세포 집단.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 21 항 내지 제 29 항 중 어느 한 항에 기재된 조제 방법에 있어서의, 증폭 배양 단계용 배지 또는 분화 배양 단계용 배지와, 각각, 당해 증폭 배양 단계 또는 분화 배양 단계에 제공되는, 배양되어 있거나 또는 얻어진 세포 집단을 함유하는 배양물.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 30 항 또는 제 32 항에 기재된 세포 집단을 함유하는, 세포 치료용 조성물.",
+          "refers_to": [
+            30,
+            32
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 34 항에 있어서,\n추간판의 장애, 변성 또는 헤르니아가 증상으로서 나타나는 질환에 대한 치료 또는 예방용인, 세포 치료용 조성물.",
+          "refers_to": [
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 보존 방법으로서,\n소화 처리되어 있지 않은 조직 중에 존재하는 상태에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 동결 보존함으로써, Tie2 가 활성화 및/또는 발현된 상태를 유지하거나, 혹은 상기 세포 집단 중의 Tie2 양성 줄기/전구 세포의 감소를 억제하는, 보존 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20230321",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 36,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Tie2 (tyrosine kinase with Ig and EGF homology domain-2) 의 발현이 양성인 줄기 세포 및/또는 전구 세포 (이하「Tie2 양성 줄기/전구 세포」라고 한다) 를 포함하는 세포 집단의 배양 방법으로서,소화 처리되어 있지 않은 조직 중에 존재하는 상태에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 1 배양 방법」이라고 한다).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서,상기 Tie2 양성 줄기/전구 세포가, 추간판의 수핵 조직에서 유래하는 Tie2 양성 줄기/전구 세포인, 제 1 배양 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,상기 소화 처리되어 있지 않은 조직이 추간판의 수핵 조직인, 제 1 배양 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,상기 소화 처리되어 있지 않은 조직이, 동결 보존된 조직을 해동한 조직인, 제 1 배양 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항에 있어서,세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 증폭시킬 때에 실시되는 것인, 제 1 배양 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 배양 방법으로서,적어도 1 종의, 증식 인자 이외의 Tie2 발현 증강제가 첨가된 배지 중에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 2 배양 방법」이라고 한다).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 6 항에 있어서,상기 증식 인자 이외의 Tie2 발현 증강제가, 동식물 유래 추출물인, 제 2 배양 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 7 항에 있어서,상기 식물이, 육계 (Cinnamomum) 속의 식물인, 제 2 배양 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 6 항 내지 제 8 항 중 어느 한 항에 있어서,세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 증폭시킬 때에 실시되는, 제 2 배양 방법.",
+          "refers_to": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 배양 방법으로서,세포의 부착성을 높이는 처리가 이루어진 배양 표면을 갖는 배양 용기에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 3 배양 방법」이라고 한다).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항에 있어서,상기 Tie2 양성 줄기/전구 세포가, Tie2 발현 증강 처리가 이루어져 있는 것인, 제 3 배양 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항 또는 제 11 항에 있어서,상기 세포의 부착성을 높이는 처리가, 세포외 매트릭스 및/또는 폴리아미노산을 함유하는 코팅제를 도포하는 처리인, 제 3 배양 방법.",
+          "refers_to": [
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 목적 세포로 분화시킬 때에 실시되는, 제 3 배양 방법.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 12 항 또는 제 13 항에 있어서,상기 세포외 매트릭스 및/또는 폴리아미노산이, IV 형 콜라겐, 피브로넥틴 및 폴리리신으로 이루어지는 군에서 선택되는 적어도 1 종 이상인, 제 3 배양 방법.",
+          "refers_to": [
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항 내지 제 14 항 중 어느 한 항에 있어서,세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 증폭시킬 때에 실시되는 것인, 제 3 배양 방법.",
+          "refers_to": [
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 12 항 내지 제 15 항 중 어느 한 항에 있어서,상기 세포외 매트릭스가 젤라틴인, 제 3 배양 방법.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 배양 방법으로서,세포외 매트릭스 분해제가 첨가된 배지 중에서, 구상 콜로니의 형성을 억제하면서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 4 배양 방법」이라고 한다).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항에 있어서,상기 Tie2 양성 줄기/전구 세포가, Tie2 발현 증강 처리가 이루어져 있는 것인, 제 4 배양 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항 또는 제 18 항에 있어서,상기 세포외 매트릭스 분해제가, 적어도 II 형 콜라겐에 대한 분해 활성을 갖는 프로테아제를 포함하는, 제 4 배양 방법.",
+          "refers_to": [
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 목적 세포로 분화시킬 때에 실시되는, 제 4 배양 방법.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 조제 방법으로서,제 5 항에 기재된 제 1 배양 방법 및/또는 제 9 항에 기재된 제 2 배양 방법을 실시하는 공정을 포함하는, Tie2 양성 줄기/전구 세포의 Tie2 의 발현을 증강시킴과 함께, 세포 집단 중의 Tie2 양성 줄기/전구 세포를 증폭시키기 위한 배양 단계 (이하「증폭 배양 단계」라고 한다) 를 포함하는, 조제 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 21 항에 있어서,상기 증폭 배양 단계에 있어서 실시하는 공정이, 상기 제 1 배양 방법 및 상기 제 2 배양 방법을 동시에 실시하는 공정인, 조제 방법.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 21 항 또는 제 22 항에 있어서,상기 증폭 배양 단계가, Tie2 발현 증강제로서 Tie2 발현 증강 작용을 갖는 증식 인자만이 첨가된 배지 중에서 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 공정을 추가로 포함하는, 조제 방법.",
+          "refers_to": [
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단으로부터, 당해 Tie2 양성 줄기/전구 세포로부터 분화된 목적 세포를 포함하는 세포 집단의 조제 방법으로서,제 13 항 또는 제 14 항에 기재된 제 3 배양 방법 및/또는 제 20 항에 기재된 제 4 배양 방법을 실시하는 공정을 포함하는, Tie2 양성 줄기/전구 세포를 목적 세포로 분화 유도하기 위한 배양 단계 (이하「분화 배양 단계」라고 한다) 를 포함하는, 조제 방법.",
+          "refers_to": [
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 24 항에 있어서,상기 분화 배양 단계에 있어서 실시하는 공정이, 상기 제 3 배양 방법 및 상기 제 4 배양 방법을 동시에 실시하는 공정인, 조제 방법.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 24 항 또는 제 25 항에 있어서,상기 목적 세포가, 적어도 II 형 콜라겐을 발현하는 세포인, 조제 방법.",
+          "refers_to": [
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 26 항에 있어서,상기 적어도 II 형 콜라겐을 발현하는 세포가 수핵 세포인, 조제 방법.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 24 항 내지 제 27 항 중 어느 한 항에 있어서,상기 분화 배양 단계에 의해, Tie2 양성 줄기/전구 세포도 잔존하고 있는 세포 집단을 얻는, 조제 방법.",
+          "refers_to": [
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단으로부터, 당해 Tie2 양성 줄기/전구 세포로부터 분화된 목적 세포를 포함하는 세포 집단으로의 조제 방법으로서,제 21 항 내지 제 23 항 중 어느 한 항에 기재된 증폭 배양 단계, 및제 24 항 내지 제 28 항 중 어느 한 항에 기재된 분화 배양 단계를 포함하는, 조제 방법.",
+          "refers_to": [
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 20 항 중 어느 한 항에 기재된 배양 방법에 의해 얻어진 세포 집단.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 20 항 중 어느 한 항에 기재된 배양 방법에 있어서의 배지와, 당해 배양 방법에 제공되는, 배양되어 있거나 또는 얻어진 세포 집단을 함유하는 배양물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 21 항 내지 제 29 항 중 어느 한 항에 기재된 조제 방법에 있어서의, 증폭 배양 단계 및/또는 분화 배양 단계에 의해 얻어진 세포 집단.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 21 항 내지 제 29 항 중 어느 한 항에 기재된 조제 방법에 있어서의, 증폭 배양 단계용 배지 또는 분화 배양 단계용 배지와, 각각, 당해 증폭 배양 단계 또는 분화 배양 단계에 제공되는, 배양되어 있거나 또는 얻어진 세포 집단을 함유하는 배양물.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 30 항 또는 제 32 항에 기재된 세포 집단을 함유하는, 세포 치료용 조성물.",
+          "refers_to": [
+            30,
+            32
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 34 항에 있어서,추간판의 장애, 변성 또는 헤르니아가 증상으로서 나타나는 질환에 대한 치료 또는 예방용인, 세포 치료용 조성물.",
+          "refers_to": [
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 보존 방법으로서,소화 처리되어 있지 않은 조직 중에 존재하는 상태에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 동결 보존함으로써, Tie2 가 활성화 및/또는 발현된 상태를 유지하거나, 혹은 상기 세포 집단 중의 Tie2 양성 줄기/전구 세포의 감소를 억제하는, 보존 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20211022",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 36,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Tie2 (tyrosine kinase with Ig and EGF homology domain-2) 의 발현이 양성인 줄기 세포 및/또는 전구 세포 (이하「Tie2 양성 줄기/전구 세포」라고 한다) 를 포함하는 세포 집단의 배양 방법으로서,\n소화 처리되어 있지 않은 조직 중에 존재하는 상태에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 1 배양 방법」이라고 한다).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\n상기 Tie2 양성 줄기/전구 세포가, 추간판의 수핵 조직에서 유래하는 Tie2 양성 줄기/전구 세포인, 제 1 배양 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n상기 소화 처리되어 있지 않은 조직이 추간판의 수핵 조직인, 제 1 배양 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n상기 소화 처리되어 있지 않은 조직이, 동결 보존된 조직을 해동한 조직인, 제 1 배양 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항에 있어서,\n세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 증폭시킬 때에 실시되는 것인, 제 1 배양 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 배양 방법으로서,\n적어도 1 종의, 증식 인자 이외의 Tie2 발현 증강제가 첨가된 배지 중에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 2 배양 방법」이라고 한다).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 6 항에 있어서,\n상기 증식 인자 이외의 Tie2 발현 증강제가, 동식물 유래 추출물인, 제 2 배양 방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7 항에 있어서,\n상기 식물이, 육계 (Cinnamomum) 속의 식물인, 제 2 배양 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 6 항 내지 제 8 항 중 어느 한 항에 있어서,\n세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 증폭시킬 때에 실시되는, 제 2 배양 방법.",
+            "refers_to": [
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 배양 방법으로서,\n세포의 부착성을 높이는 처리가 이루어진 배양 표면을 갖는 배양 용기에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 3 배양 방법」이라고 한다).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 10 항에 있어서,\n상기 Tie2 양성 줄기/전구 세포가, Tie2 발현 증강 처리가 이루어져 있는 것인, 제 3 배양 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 10 항 또는 제 11 항에 있어서,\n상기 세포의 부착성을 높이는 처리가, 세포외 매트릭스 및/또는 폴리아미노산을 함유하는 코팅제를 도포하는 처리인, 제 3 배양 방법.",
+            "refers_to": [
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,\n세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 목적 세포로 분화시킬 때에 실시되는, 제 3 배양 방법.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 12 항 또는 제 13 항에 있어서,\n상기 세포외 매트릭스 및/또는 폴리아미노산이, IV 형 콜라겐, 피브로넥틴 및 폴리리신으로 이루어지는 군에서 선택되는 적어도 1 종 이상인, 제 3 배양 방법.",
+            "refers_to": [
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 10 항 내지 제 14 항 중 어느 한 항에 있어서,\n세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 증폭시킬 때에 실시되는 것인, 제 3 배양 방법.",
+            "refers_to": [
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 12 항 내지 제 15 항 중 어느 한 항에 있어서,\n상기 세포외 매트릭스가 젤라틴인, 제 3 배양 방법.",
+            "refers_to": [
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 배양 방법으로서,\n세포외 매트릭스 분해제가 첨가된 배지 중에서, 구상 콜로니의 형성을 억제하면서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 4 배양 방법」이라고 한다).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 17 항에 있어서,\n상기 Tie2 양성 줄기/전구 세포가, Tie2 발현 증강 처리가 이루어져 있는 것인, 제 4 배양 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 17 항 또는 제 18 항에 있어서,\n상기 세포외 매트릭스 분해제가, 적어도 II 형 콜라겐에 대한 분해 활성을 갖는 프로테아제를 포함하는, 제 4 배양 방법.",
+            "refers_to": [
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,\n세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 목적 세포로 분화시킬 때에 실시되는, 제 4 배양 방법.",
+            "refers_to": [
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 조제 방법으로서,\n제 5 항에 기재된 제 1 배양 방법 및/또는 제 9 항에 기재된 제 2 배양 방법을 실시하는 공정을 포함하는, Tie2 양성 줄기/전구 세포의 Tie2 의 발현을 증강시킴과 함께, 세포 집단 중의 Tie2 양성 줄기/전구 세포를 증폭시키기 위한 배양 단계 (이하「증폭 배양 단계」라고 한다) 를 포함하는, 조제 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 21 항에 있어서,\n상기 증폭 배양 단계에 있어서 실시하는 공정이, 상기 제 1 배양 방법 및 상기 제 2 배양 방법을 동시에 실시하는 공정인, 조제 방법.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 21 항 또는 제 22 항에 있어서,\n상기 증폭 배양 단계가, Tie2 발현 증강제로서 Tie2 발현 증강 작용을 갖는 증식 인자만이 첨가된 배지 중에서 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 공정을 추가로 포함하는, 조제 방법.",
+            "refers_to": [
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단으로부터, 당해 Tie2 양성 줄기/전구 세포로부터 분화된 목적 세포를 포함하는 세포 집단의 조제 방법으로서,\n제 13 항 또는 제 14 항에 기재된 제 3 배양 방법 및/또는 제 20 항에 기재된 제 4 배양 방법을 실시하는 공정을 포함하는, Tie2 양성 줄기/전구 세포를 목적 세포로 분화 유도하기 위한 배양 단계 (이하「분화 배양 단계」라고 한다) 를 포함하는, 조제 방법.",
+            "refers_to": [
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 24 항에 있어서,\n상기 분화 배양 단계에 있어서 실시하는 공정이, 상기 제 3 배양 방법 및 상기 제 4 배양 방법을 동시에 실시하는 공정인, 조제 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 24 항 또는 제 25 항에 있어서,\n상기 목적 세포가, 적어도 II 형 콜라겐을 발현하는 세포인, 조제 방법.",
+            "refers_to": [
+              24,
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 26 항에 있어서,\n상기 적어도 II 형 콜라겐을 발현하는 세포가 수핵 세포인, 조제 방법.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 24 항 내지 제 27 항 중 어느 한 항에 있어서,\n상기 분화 배양 단계에 의해, Tie2 양성 줄기/전구 세포도 잔존하고 있는 세포 집단을 얻는, 조제 방법.",
+            "refers_to": [
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단으로부터, 당해 Tie2 양성 줄기/전구 세포로부터 분화된 목적 세포를 포함하는 세포 집단으로의 조제 방법으로서,\n제 21 항 내지 제 23 항 중 어느 한 항에 기재된 증폭 배양 단계, 및\n제 24 항 내지 제 28 항 중 어느 한 항에 기재된 분화 배양 단계를 포함하는, 조제 방법.",
+            "refers_to": [
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 20 항 중 어느 한 항에 기재된 배양 방법에 의해 얻어진 세포 집단.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 20 항 중 어느 한 항에 기재된 배양 방법에 있어서의 배지와, 당해 배양 방법에 제공되는, 배양되어 있거나 또는 얻어진 세포 집단을 함유하는 배양물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 21 항 내지 제 29 항 중 어느 한 항에 기재된 조제 방법에 있어서의, 증폭 배양 단계 및/또는 분화 배양 단계에 의해 얻어진 세포 집단.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 21 항 내지 제 29 항 중 어느 한 항에 기재된 조제 방법에 있어서의, 증폭 배양 단계용 배지 또는 분화 배양 단계용 배지와, 각각, 당해 증폭 배양 단계 또는 분화 배양 단계에 제공되는, 배양되어 있거나 또는 얻어진 세포 집단을 함유하는 배양물.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 30 항 또는 제 32 항에 기재된 세포 집단을 함유하는, 세포 치료용 조성물.",
+            "refers_to": [
+              30,
+              32
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 34 항에 있어서,\n추간판의 장애, 변성 또는 헤르니아가 증상으로서 나타나는 질환에 대한 치료 또는 예방용인, 세포 치료용 조성물.",
+            "refers_to": [
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단의 보존 방법으로서,\n소화 처리되어 있지 않은 조직 중에 존재하는 상태에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 동결 보존함으로써, Tie2 가 활성화 및/또는 발현된 상태를 유지하거나, 혹은 상기 세포 집단 중의 Tie2 양성 줄기/전구 세포의 감소를 억제하는, 보존 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20230321",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 36,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "Tie2 (tyrosine kinase with Ig and EGF homology domain-2) 의 발현이 양성인 줄기 세포 및/또는 전구 세포 (이하「Tie2 양성 줄기/전구 세포」라고 한다) 를 포함하는 세포 집단의 배양 방법으로서,\n소화 처리되어 있지 않은 조직 중에 존재하는 상태에서, 당해 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양함으로써, 당해 세포 집단 중의 당해 Tie2 양성 줄기/전구 세포를 증폭시키는 방법 (이하「제 1 배양 방법」이라고 한다).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n상기 소화 처리되어 있지 않은 조직이 추간판의 수핵 조직이고, 상기 Tie2 양성 줄기/전구 세포가, 추간판의 수핵 조직에서 유래하는 Tie2 양성 줄기/전구 세포인, 제 1 배양 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n상기 소화 처리되어 있지 않은 조직이 동결 보존된 조직을 해동한 조직인, 제 1 배양 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 3 항에 있어서,\n상기 동결 보존된 조직에 있어서, 상기 Tie2 양성 줄기/전구 세포의 Tie2 가 활성화 및/또는 발현된 상태가 유지되어 있거나, 혹은 상기 세포 집단 중의 상기 Tie2 양성 줄기/전구 세포의 감소가 억제되어 있는, 제 1 배양 방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n적어도 1 종의, 증식 인자 이외의 Tie2 발현 증강제가 첨가된 배지 중에서, 상기 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는, 제 1 배양 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 5 항에 있어서,\n상기 증식 인자 이외의 Tie2 발현 증강제가, 동식물 유래 추출물인, 제 1 배양 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 5 항에 있어서,\n상기 증식 인자 이외의 Tie2 발현 증강제가, 육계 (Cinnamomum) 속의 식물의 추출물 및/또는 올리브 과실의 추출물인, 제 1 배양 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "Tie2 양성 줄기/전구 세포를 포함하는 세포 집단으로부터, 당해 Tie2 양성 줄기/전구 세포로부터 분화된 목적 세포를 포함하는 세포 집단으로의 조제 방법으로서,\n제 1 항 내지 제 7 항 중 어느 한 항에 기재된 제 1 배양 방법을 실시하는 공정을 포함하는, Tie2 양성 줄기/전구 세포의 Tie2 의 발현을 증강시킴과 함께, 세포 집단 중의 상기 Tie2 양성 줄기/전구 세포를 증폭시키기 위한 배양 단계 (이하 「증폭 배양 단계」라고 한다) 를 적어도 포함하는, 조제 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 8 항에 있어서,\n상기 증폭 배양 단계가, Tie2 발현 증강제로서 Tie2 발현 증강 작용을 갖는 증식 인자만이 첨가된 배지 중에서 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 공정을 추가로 포함하는, 조제 방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 9 항에 있어서,\n상기 증폭 배양 단계가, 세포의 부착성을 높이는 처리가 이루어진 배양 표면을 갖는 배양 용기에서, 상기 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 3 배양 방법」이라고 한다) 을 실시하는 공정을 추가로 포함하는, 조제 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 10 항에 있어서,\n상기 증폭 배양 단계에 있어서의 제 3 배양 방법의 세포의 부착성을 높이는 처리가, 세포외 매트릭스 및/또는 폴리아미노산을 함유하는 코팅제를 도포하는 처리인, 조제 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 11 항에 있어서,\n상기 제 3 배양 방법에 있어서, 세포외 매트릭스 및/또는 폴리아미노산이 콜라겐, 피브로넥틴, 젤라틴, 라미닌 및 폴리리신으로 이루어지는 군에서 선택되는 적어도 1 종인, 조제 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 8 항에 있어서,\n상기 증폭 배양 단계 후에, Tie2 양성 줄기/전구 세포를 목적 세포로 분화 유도하기 위한 배양 단계 (이하「분화 배양 단계」라고 한다) 를 추가로 포함하는, 조제 방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 13 항에 있어서,\n상기 분화 배양 단계가, 상기 제 3 배양 방법, 및 또는 세포외 매트릭스 분해제가 첨가된 배지 중에서, 구상 콜로니의 형성을 억제하면서, 상기 Tie2 양성 줄기/전구 세포를 포함하는 세포 집단을 배양하는 방법 (이하「제 4 배양 방법」이라고 한다) 을 실시하는 공정을 포함하는, 조제 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 14 항에 있어서,\n상기 분화 배양 단계에 있어서의 제 3 배양 방법의 세포의 부착성을 높이는 처리가, 세포외 매트릭스 및/또는 폴리아미노산을 함유하는 코팅제를 도포하는 처리인, 조제 방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 15 항에 있어서,\n상기 제 3 배양 방법에 있어서, 세포외 매트릭스 및/또는 폴리아미노산이 콜라겐, 피브로넥틴, 젤라틴, 라미닌 및 폴리리신으로 이루어지는 군에서 선택되는 적어도 1 종인, 조제 방법.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 14 항에 있어서,\n상기 제 4 배양 방법의 상기 세포외 매트릭스 분해제가, 적어도 II 형 콜라겐에 대한 분해 활성을 갖는 프로테아제를 포함하는, 조제 방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 8 항에 있어서,\n상기 목적 세포가, 적어도 II 형 콜라겐을 발현하는 세포인, 조제 방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 8 항에 있어서,\n상기 목적 세포가 수핵 세포인, 조제 방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 13 항에 있어서,\n상기 분화 배양 단계에 의해, Tie2 양성 줄기/전구 세포도 잔존하고 있는 세포 집단을 얻는, 조제 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 36,
+      "after_claim_count": 36,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.10.01",
+      "internationOpenNumber": "WO2020196615",
+      "internationalApplicationDate": "2020.03.25",
+      "internationalApplicationNumber": "PCT/JP2020/013307"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "일본 도쿄도 시부야쿠 도미가야 *쵸메 **방 *고",
+        "code": "520020225729",
+        "country": "일본",
+        "engName": "TOKAI UNIVERSITY EDUCATIONAL SYSTEM",
+        "name": "토카이 유니버시티 에듀케이셔널시스템"
+      },
+      {
+        "address": "일본 오사카후 오사카시 쥬오쿠 히라노마치 *쵸메 *방 *고",
+        "code": "519980958513",
+        "country": "일본",
+        "engName": "NIPPON ZOKI PHARMACEUTICAL CO., LTD.",
+        "name": "니폰 조키 세야쿠 가부시키가이샤"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "일본 가나가와켕 이세하라시...",
+        "code": "",
+        "country": "",
+        "engName": "SAKAI, DAISUKE",
+        "name": "사카이 다이스케"
+      },
+      {
+        "address": "일본 가나가와켕 이세하라시...",
+        "code": "",
+        "country": "",
+        "engName": "NAKAMURA, YOSHIHIKO",
+        "name": "나카무라 요시히코"
+      },
+      {
+        "address": "일본 가나가와켕 이세하라시...",
+        "code": "",
+        "country": "",
+        "engName": "MATSUSHITA, ERIKA",
+        "name": "마츠시타 에리카"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 강남대로 **길 **(역삼동, 케이피빌딩)",
+      "code": "920011000013",
+      "country": "대한민국",
+      "engName": "Koreana Patent Firm",
+      "name": "특허법인코리아나"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "일본",
+      "priorityApplicationDate": "2019.03.25",
+      "priorityApplicationNumber": "PCT/JP2019/012571"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.10.22",
+        "receiptNumber": "1-1-2021-1215920-18"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2021.11.01",
+        "receiptNumber": "1-5-2021-0170495-74"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2021.11.17",
+        "receiptNumber": "1-1-2021-1328109-12"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.11.22",
+        "receiptNumber": "1-5-2021-0182317-92"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.11.02",
+        "receiptNumber": "4-1-2022-5257086-04"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.03.21",
+        "receiptNumber": "1-1-2023-0319080-11"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.03.21",
+        "receiptNumber": "1-1-2023-0319079-75"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.09.30",
+        "receiptNumber": "9-5-2025-0951735-92"
+      },
+      {
+        "commonCodeName": "접수중 (On receiving)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2026.01.30",
+        "receiptNumber": "1-1-2026-0132572-02"
+      },
+      {
+        "commonCodeName": "접수중 (On receiving)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2026.01.30",
+        "receiptNumber": "1-1-2026-0132571-56"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217034444.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c935e799443367d79f349149dc16a1884ba8749d512741b2e748a31398856503707e1bfd502cc4f830d9e33804ceae181d176cd0c1589d47f50",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf1fc2056333f2c76f3fcf60d8dc70ae7956d2948bf37715aadc4d97f2acf19fe7c74875ae49c56ef292c2468144732f457642c3502eb6c795"
+  },
+  "rndInfoArray": ""
+}

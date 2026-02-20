@@ -1,0 +1,725 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2013.10.10",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2018-7026771",
+      "claimCount": "13",
+      "examinerName": "이재정",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "항체-약물 콘주게이트",
+      "inventionTitleEng": "ANTIBODY-DRUG CONJUGATE",
+      "openDate": "2018.09.27",
+      "openNumber": "10-2018-0105271",
+      "originalApplicationDate": "2013.10.10",
+      "originalApplicationKind": "국제출원/분할",
+      "originalApplicationNumber": "10-2018-7007575",
+      "originalExaminationRequestDate": "2018.10.08",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2019.12.05",
+      "publicationNumber": "",
+      "registerDate": "2019.11.29",
+      "registerNumber": "10-2052319-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2018.09.14"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07D 459/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/48"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/68"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "항종양 효과와 안전성면이 우수한 항종양약으로서, 다음 식으로 나타내는 항종양성 화합물과 항체를, 다음 식 ： -L1-L2-LP-NH-(CH2)n1-La-Lb-Lc- 로 나타내는 구조의 링커를 개재하여 결합시킨 것을 특징으로 하는 항체-약물 콘주게이트 (항체는 L1 의 말단에 있어서 결합하고, 항종양성 화합물은 1 위치의 아미노기의 질소 원자를 결합 부위로서, Lc 의 말단에 있어서 결합한다) 를 제공한다."
+    }
+  },
+  "claims": {
+    "total_amendments": 1,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다음 식으로 나타내는, 링커 및 항종양성 화합물과, 항체가 결합한 항체-약물 콘주게이트:-(Succinimid-3-yl-N)-CH2CH2CH2CH2CH2-C(=O)-GGFG-NH-CH2-O-CH2-C(=O)-(NH-DX),여기에서, -(Succinimid-3-yl-N)- 은 다음 식: 으로 나타내는 구조이며, 이것의 3 위치에서 항체와 결합하고, 1 위치의 질소 원자 상에서 이것을 포함하는 링커 구조 내의 메틸렌기와 결합하고,-(NH-DX) 는 다음 식:으로 나타내고, 1 위치의 아미노기의 질소 원자가 결합 부위로 되어 있는 기를 나타냄.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 2 내지 8 개의 범위인 항체-약물 콘주게이트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 3 내지 8 개의 범위인 항체-약물 콘주게이트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 항체가 항 B7-H3 항체, 항 CD30 항체, 항 CD33 항체, 또는 항 CD70 항체인 항체-약물 콘주게이트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 항체가 항 B7-H3 항체인 항체-약물 콘주게이트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 5 항 중 어느 한 항에 기재된 항체-약물 콘주게이트 또는 그 염을 함유하는 항종양약 또는 항암약.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 6 항에 있어서,폐암, 신암, 요로 상피암, 대장암, 전립선암, 다형 신경 교아종, 난소암, 췌암, 유방암, 멜라노마, 간암, 방광암, 위암, 또는 식도암에 적용하기 위한 항종양약 또는 항암약.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 5 항 중 어느 한 항에 기재된 항체-약물 콘주게이트 또는 그 염을 활성 성분으로 하고, 약학적으로 허용되는 제제 성분을 함유하는 항종양 의약 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항체를 환원 조건에서 처리한 후에, 항체와 다음의 화합물: (maleimid-N-yl)-CH2CH2CH2CH2CH2-C(=O)-GGFG-NH-CH2-O-CH2-C(=O)-(NH-DX) 을 반응시키는 단계를 포함하는, 다음의 약물-링커 구조: -(Succinimid-3-yl-N)-CH2CH2CH2CH2CH2-C(=O)-GGFG-NH-CH2-O-CH2-C(=O)-(NH-DX) 를 티오에테르 결합을 개재하여 항체에 결합시킨 항체-약물 콘주게이트의 제조 방법,식 중,(maleimid-N-yl)- 은 다음 식: 으로 나타내는, 질소 원자가 결합 부위인 기이며,-(Succinimid-3-yl-N)- 은 다음 식： 으로 나타내는 구조이며, 이것의 3 위치에서 항체와 결합하고, 1 위치의 질소 원자 상에서 이것을 포함하는 링커 구조 내의 메틸렌기와 결합하고,-(NH-DX) 는 다음 식:으로 나타내고, 1 위치의 아미노기의 질소 원자가 결합 부위로 되어 있는 기를 나타냄.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 2 내지 8 개의 범위인 제조 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 3 내지 8 개의 범위인 제조 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항 내지 제 11 항 중 어느 한 항에 있어서, 항체가 항 B7-H3 항체, 항 CD30 항체, 항 CD33 항체, 또는 항 CD70 항체인 제조 방법.",
+          "refers_to": [
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항 내지 제 11 항 중 어느 한 항에 있어서, 항체가 항 B7-H3 항체인 제조 방법.",
+          "refers_to": [
+            9,
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다음 식으로 나타내는, 링커 및 항종양성 화합물과, 항체가 결합한 항체-약물 콘주게이트:-(Succinimid-3-yl-N)-CH2CH2CH2CH2CH2-C(=O)-GGFG-NH-CH2-O-CH2-C(=O)-(NH-DX),여기에서, -(Succinimid-3-yl-N)- 은 다음 식: 으로 나타내는 구조이며, 이것의 3 위치에서 항체와 결합하고, 1 위치의 질소 원자 상에서 이것을 포함하는 링커 구조 내의 메틸렌기와 결합하고,-(NH-DX) 는 다음 식:으로 나타내고, 1 위치의 아미노기의 질소 원자가 결합 부위로 되어 있는 기를 나타냄.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 2 내지 8 개의 범위인 항체-약물 콘주게이트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 3 내지 8 개의 범위인 항체-약물 콘주게이트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 항체가 항 B7-H3 항체, 항 CD30 항체, 항 CD33 항체, 또는 항 CD70 항체인 항체-약물 콘주게이트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 항체가 항 B7-H3 항체인 항체-약물 콘주게이트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 5 항 중 어느 한 항에 기재된 항체-약물 콘주게이트 또는 그 염을 함유하는 항종양약 또는 항암약.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 6 항에 있어서,폐암, 신암, 요로 상피암, 대장암, 전립선암, 다형 신경 교아종, 난소암, 췌암, 유방암, 멜라노마, 간암, 방광암, 위암, 또는 식도암에 적용하기 위한 항종양약 또는 항암약.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 5 항 중 어느 한 항에 기재된 항체-약물 콘주게이트 또는 그 염을 활성 성분으로 하고, 약학적으로 허용되는 제제 성분을 함유하는 항종양 의약 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항체를 환원 조건에서 처리한 후에, 항체와 다음의 화합물: (maleimid-N-yl)-CH2CH2CH2CH2CH2-C(=O)-GGFG-NH-CH2-O-CH2-C(=O)-(NH-DX) 을 반응시키는 단계를 포함하는, 다음의 약물-링커 구조: -(Succinimid-3-yl-N)-CH2CH2CH2CH2CH2-C(=O)-GGFG-NH-CH2-O-CH2-C(=O)-(NH-DX) 를 티오에테르 결합을 개재하여 항체에 결합시킨 항체-약물 콘주게이트의 제조 방법,식 중,(maleimid-N-yl)- 은 다음 식: 으로 나타내는, 질소 원자가 결합 부위인 기이며,-(Succinimid-3-yl-N)- 은 다음 식： 으로 나타내는 구조이며, 이것의 3 위치에서 항체와 결합하고, 1 위치의 질소 원자 상에서 이것을 포함하는 링커 구조 내의 메틸렌기와 결합하고,-(NH-DX) 는 다음 식:으로 나타내고, 1 위치의 아미노기의 질소 원자가 결합 부위로 되어 있는 기를 나타냄.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 2 내지 8 개의 범위인 제조 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 3 내지 8 개의 범위인 제조 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항 내지 제 11 항 중 어느 한 항에 있어서, 항체가 항 B7-H3 항체, 항 CD30 항체, 항 CD33 항체, 또는 항 CD70 항체인 제조 방법.",
+          "refers_to": [
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항 내지 제 11 항 중 어느 한 항에 있어서, 항체가 항 B7-H3 항체인 제조 방법.",
+          "refers_to": [
+            9,
+            10,
+            11
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "",
+        "document_name": "원본 (변동이력 없음)",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다음 식으로 나타내는, 링커 및 항종양성 화합물과, 항체가 결합한 항체-약물 콘주게이트:-(Succinimid-3-yl-N)-CH2CH2CH2CH2CH2-C(=O)-GGFG-NH-CH2-O-CH2-C(=O)-(NH-DX),여기에서, -(Succinimid-3-yl-N)- 은 다음 식: 으로 나타내는 구조이며, 이것의 3 위치에서 항체와 결합하고, 1 위치의 질소 원자 상에서 이것을 포함하는 링커 구조 내의 메틸렌기와 결합하고,-(NH-DX) 는 다음 식:으로 나타내고, 1 위치의 아미노기의 질소 원자가 결합 부위로 되어 있는 기를 나타냄.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 2 내지 8 개의 범위인 항체-약물 콘주게이트.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 3 내지 8 개의 범위인 항체-약물 콘주게이트.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 항체가 항 B7-H3 항체, 항 CD30 항체, 항 CD33 항체, 또는 항 CD70 항체인 항체-약물 콘주게이트.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 항체가 항 B7-H3 항체인 항체-약물 콘주게이트.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 5 항 중 어느 한 항에 기재된 항체-약물 콘주게이트 또는 그 염을 함유하는 항종양약 또는 항암약.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 6 항에 있어서,폐암, 신암, 요로 상피암, 대장암, 전립선암, 다형 신경 교아종, 난소암, 췌암, 유방암, 멜라노마, 간암, 방광암, 위암, 또는 식도암에 적용하기 위한 항종양약 또는 항암약.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 5 항 중 어느 한 항에 기재된 항체-약물 콘주게이트 또는 그 염을 활성 성분으로 하고, 약학적으로 허용되는 제제 성분을 함유하는 항종양 의약 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항체를 환원 조건에서 처리한 후에, 항체와 다음의 화합물: (maleimid-N-yl)-CH2CH2CH2CH2CH2-C(=O)-GGFG-NH-CH2-O-CH2-C(=O)-(NH-DX) 을 반응시키는 단계를 포함하는, 다음의 약물-링커 구조: -(Succinimid-3-yl-N)-CH2CH2CH2CH2CH2-C(=O)-GGFG-NH-CH2-O-CH2-C(=O)-(NH-DX) 를 티오에테르 결합을 개재하여 항체에 결합시킨 항체-약물 콘주게이트의 제조 방법,식 중,(maleimid-N-yl)- 은 다음 식: 으로 나타내는, 질소 원자가 결합 부위인 기이며,-(Succinimid-3-yl-N)- 은 다음 식： 으로 나타내는 구조이며, 이것의 3 위치에서 항체와 결합하고, 1 위치의 질소 원자 상에서 이것을 포함하는 링커 구조 내의 메틸렌기와 결합하고,-(NH-DX) 는 다음 식:으로 나타내고, 1 위치의 아미노기의 질소 원자가 결합 부위로 되어 있는 기를 나타냄.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 2 내지 8 개의 범위인 제조 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항에 있어서, 약물-링커 구조의 1 항체당 평균 결합수가 3 내지 8 개의 범위인 제조 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항 내지 제 11 항 중 어느 한 항에 있어서, 항체가 항 B7-H3 항체, 항 CD30 항체, 항 CD33 항체, 또는 항 CD70 항체인 제조 방법.",
+            "refers_to": [
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항 내지 제 11 항 중 어느 한 항에 있어서, 항체가 항 B7-H3 항체인 제조 방법.",
+            "refers_to": [
+              9,
+              10,
+              11
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 13,
+      "after_claim_count": 13,
+      "total_versions": 1
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020187007575"
+      },
+      {
+        "familyApplicationNumber": "1020197035246"
+      }
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2014.04.17",
+      "internationOpenNumber": "WO2014057687",
+      "internationalApplicationDate": "2013.10.10",
+      "internationalApplicationNumber": "PCT/JP2013/006069"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "일본 도쿄도 츄오쿠 니혼바시 혼쵸 *-*-*",
+      "code": "520070128039",
+      "country": "일본",
+      "engName": "DAIICHI SANKYO COMPANY, LIMITED",
+      "name": "다이이찌 산쿄 가부시키가이샤"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "일본 도쿄도 시나가와쿠 히로마치 *...",
+        "code": "",
+        "country": "",
+        "engName": "MASUDA, TAKESHI",
+        "name": "마스다 다케시"
+      },
+      {
+        "address": "일본 도쿄도 시나가와쿠 히로마치 *...",
+        "code": "",
+        "country": "",
+        "engName": "NAITO, HIROYUKI",
+        "name": "나이토 히로유키"
+      },
+      {
+        "address": "일본 도쿄도 시나가와쿠 히로마치 *...",
+        "code": "",
+        "country": "",
+        "engName": "NAKADA, TAKASHI",
+        "name": "나카다 다카시"
+      },
+      {
+        "address": "일본 도쿄도 시나가와쿠 히로마치 *...",
+        "code": "",
+        "country": "",
+        "engName": "YOSHIDA, MASAO",
+        "name": "요시다 마사오"
+      },
+      {
+        "address": "일본 도쿄도 시나가와쿠 히로마치 *...",
+        "code": "",
+        "country": "",
+        "engName": "ASHIDA, SHINJI",
+        "name": "아시다 신지"
+      },
+      {
+        "address": "일본 도쿄도 시나가와쿠 히로마치 *...",
+        "code": "",
+        "country": "",
+        "engName": "MIYAZAKI, HIDEKI",
+        "name": "미야자키 히데키"
+      },
+      {
+        "address": "일본 도쿄도 시나가와쿠 히로마치 *...",
+        "code": "",
+        "country": "",
+        "engName": "KASUYA, YUJI",
+        "name": "가스야 유지"
+      },
+      {
+        "address": "일본 도쿄도 시나가와쿠 히로마치 *...",
+        "code": "",
+        "country": "",
+        "engName": "MORITA, KOJI",
+        "name": "모리타 고지"
+      },
+      {
+        "address": "일본 도쿄도 시나가와쿠 히로마치 *...",
+        "code": "",
+        "country": "",
+        "engName": "ABE, YUKI",
+        "name": "아베 유키"
+      },
+      {
+        "address": "일본 도쿄도 시나가와쿠 히로마치 *...",
+        "code": "",
+        "country": "",
+        "engName": "OGITANI, YUSUKE",
+        "name": "오기타니 유스케"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 강남대로 **길 **(역삼동, 케이피빌딩)",
+      "code": "920011000013",
+      "country": "대한민국",
+      "engName": "Koreana Patent Firm",
+      "name": "특허법인코리아나"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "일본",
+      "priorityApplicationDate": "2012.10.11",
+      "priorityApplicationNumber": "JP-P-2012-225887"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020010052385 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020110044808 A",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2018.09.14",
+        "receiptNumber": "1-1-2018-0918348-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2018.10.08",
+        "receiptNumber": "1-1-2018-0991806-84"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2018.11.01",
+        "receiptNumber": "9-5-2018-0743309-45"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2018.12.13",
+        "receiptNumber": "1-1-2018-1254180-93"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.02.26",
+        "receiptNumber": "1-1-2019-0200388-94"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장 관련 안내서",
+        "receiptDate": "2019.02.27",
+        "receiptNumber": "1-5-2019-0035011-64"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Reference] Written Submission of Information",
+        "documentName": "[참고자료]정보제출서",
+        "receiptDate": "2019.04.26",
+        "receiptNumber": "1-1-2019-0435322-36"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2019.04.26",
+        "receiptNumber": "1-1-2019-0435321-91"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2019.09.04",
+        "receiptNumber": "9-5-2019-0642073-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2019.11.28",
+        "receiptNumber": "1-1-2019-1228789-67"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Application to Register Extension of Patent Right Term by Permission, etc.",
+        "documentName": "허가 등에 따른 특허권 존속기간 연장등록출원서",
+        "receiptDate": "2022.12.16",
+        "receiptNumber": "1-1-2022-1359969-11"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020187026771.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e004e938555fe3fdf0081e32342c1dcdf1fee2071221c9404eab90cbee861147814a7ccd0aed8a1dbaecbe7c34e014a7e7d5e04eb96be9398f2",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf76830a53936149921556b44c5b0b4f23c15e1ab04f9ae18f31801e14967b0f9f9d9f79ebc77e0f73758d76149299c13c05c5beb327ce5c61"
+  },
+  "rndInfoArray": ""
+}

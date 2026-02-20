@@ -1,0 +1,3646 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2013.04.05",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2020-7022397",
+      "claimCount": "5",
+      "examinerName": "이수정",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "발작성 야간혈색뇨증의 치료를 위해 MASP-1, MASP-2 및/또는 MASP-3를 억제하는 조성물 및 방법",
+      "inventionTitleEng": "COMPOSITIONS AND METHODS OF INHIBITING MASP-1, MASP-2  AND/OR MASP-3 FOR TREATMENT OF PAROXYSMAL NOCTURNAL  HEMOGLOBINURIA",
+      "openDate": "2020.08.19",
+      "openNumber": "10-2020-0097808",
+      "originalApplicationDate": "2013.04.05",
+      "originalApplicationKind": "국제출원/분할",
+      "originalApplicationNumber": "10-2014-7030787",
+      "originalExaminationRequestDate": "2020.08.03",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.11.02",
+      "publicationNumber": "",
+      "registerDate": "2021.10.22",
+      "registerNumber": "10-2318623-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2020.08.03"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/40"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 13/02"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 7/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 7/04"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 7/06"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "개체에 MASP-3-의존적 보체 활성화를 억제하기 위한 유효량으로 MASP-3 억제제의 양을 포함하는 조성물을 투여함으로써 발작성 야간혈색뇨증(paroxysmal nocturnal hemoglobinuria)으로 고통받는 개체에서 MASP-3-의존적 보체 활성화를 억제하기 위한 방법 및 조성물이 제공된다. 또한 개체에 적혈구 세포의 생존율을 증가시키는데 효과적인 MASP-1 억제제 및/또는 MASP-3 억제제 중 적어도 하나의 양을 포함하는 조성물을 투여함으로써 발작성 야간혈색뇨증으로 고통받는 개체에서 적혈구 세포의 생존율을 증가시키기 위한 방법 및 조성물이 제공된다. 개체에 MASP-2 억제제 및 MASP-1 억제제, MASP-2 억제제 및 MASP-3 억제제, MASP-3 억제제 및 MASP-1 억제제, 또는 MASP-1 억제제, MASP-2 억제제 및 MASP-3 억제제가 투여될 수도 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020207022397",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200803",
+      "document_name": "[분할출원(국제출원)]특허출원서",
+      "claim_count": 92,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "발작성 야간혈색뇨증 (PNH)으로 고통받는 개체에서 MASP-3-의존적 보체 활성화를 억제하는 방법으로서, 개체에 MASP-3-의존적 보체 활성화를 억제하는데 효과적인 MASP-3 억제제의 양을 포함하는 조성물을 투여하는 단계를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, MASP-3 억제제는 SEQ ID NO:8의 일부에 특이적으로 결합하는 MASP-3 단클론성 항체, 또는 이것의 단편인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, 개체에 MASP-1 억제제를 포함하는 조성물을 투여하는 단계를 더 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3 항에 있어서, MASP-1 억제제는 SEQ ID NO:10의 일부에 특이적으로 결합하는 MASP-1 단클론성 항체, 또는 이것의 단편인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, 개체에 MASP-2 억제제를 포함하는 조성물을 투여하는 단계를 더 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5 항에 있어서, SEQ ID NO:5의 일부에 특이적으로 결합하는 MASP-1 단클론성 항체, 또는 이것의 단편인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, 개체에 MASP-1 억제제 및 MASP-2 억제제를 포함하는 조성물을 투여하는 단계를 더 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항 내지 제7 항 중 어느 한 항에 있어서, 조성물은 개체에서 적혈구 세포의 생존율을 증가시키는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8 항에 있어서, 개체는 (i) 정상 수준 이하의 헤모글로빈, (ii) 정상 수준 이하의 혈소판; (iii) 정상 수준 이상의 망상적혈구, 및 (iv) 정상 수준 이상의 빌리루빈으로 구성된 군으로부터 선택된 하나 이상의 증상을 나타내는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, 개체는 보체 단백질 C5의 분할을 억제하는 말단 보체 억제자 치료를 이전에 경험하였거나, 현재 경험하고 있는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, 방법은 개체에 보체 단백질 C5의 분할을 억제하는 말단 보체 억제자를 투여하는 단계를 더 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11 항에 있어서, 말단 보체 억제자는 인간화된 항-C5 항체 또는 이것의 항원-결합 단편인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12 항에 있어서, 말단 보체 억제자는 에쿨리쥬맙인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, MASP-3 억제제는 대체-경로 구동된 C3b 침착을 억제하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, MASP-3 억제제는 인자 D 성숙화를 억제하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3 항에 있어서, MASP-1 억제제는 MASP-3 (SEQ ID NO:8)에 결합하는 것보다 적어도 10배 더 큰 친화도로 MASP-1의 일부에 특이적으로 결합하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3 항에 있어서, MASP-1 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10의 aa 449-694)에 특이적으로 결합하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, MASP-3 억제제는 또한 MASP-1의 일부 (SEQ ID NO:10)에 결합하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18 항에 있어서, MASP-3 억제제는 CUBI-CCP2 도메인 내 공통 영역에 결합하는 이중 MASP-1/MASP-3 억제자인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18 항에 있어서, MASP-3 억제제는 CCP2 도메인 내 공통 영역에 결합하는 이중 MASP-1/MASP-3 억제자인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18 항에 있어서, MASP-3 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10D의 aa 449- 694)에 결합하고 또한 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa 450- 711)에 결합하는 이중-특이적 단클론성 항체인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, MASP-3 억제제는 또한 MASP-2의 일부 (SEQ ID NO:5)에 결합하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22 항에 있어서, MASP-3 억제제는 MASP-3 및 MASP-2의 세린 프로테아제 도메인 내 보존된 영역에 결합하는 이중 MASP-3/MASP-2 억제자인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22 항에 있어서, MASP-3 억제제는 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa450-711)에 결합하고 또한 MASP-2의 세린 프로테아제 도메인 (SEQ ID NO:5의 aa 445-682) 또는 MASP-2의 CCP-1-CCP2 도메인 (SEQ ID NO:5의 aa300-431) 중 적어도 하나에 결합하는 이중 특이적 단클론성 항체인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, MASP-3 억제제는 MASP-3의 일부 (SEQ ID NO:8)에 결합하고 MASP-1 또는 MASP-2를 억제하지 않는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, MASP-3 억제제는 MASP-1 (SEQ ID NO:10)에 결합하는 것보다 적어도 10배 더 큰 친화도로 MASP-3의 일부에 특이적으로 결합하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, MASP-3 억제제는 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa 450-711)에 특이적으로 결합하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, MASP-3 억제제는 MASP-1, MASP-2 및 MASP-3의 전체 억제자(pan inhibitor)이고 CUB1-EGF-CUB2 도메인의 보존된 영역에 결합하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, MASP-3 억제제는 MASP-1, MASP-2 및 MASP-3의 삼중 특이적 억제자인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2 항에 있어서, 조성물은 MASP-2 항체를 더 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2 항에 있어서, 조성물은 MASP-1 항체를 더 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7 항에 있어서, 조성물은 MASP-1 항체, 및 MASP-2 항체 및 MASP-3 항체를 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7 항에 있어서, 방법은 MASP-2 항체, MASP-1 항체, 또는 MASP-3 항체 중 적어도 하나를 포함하는 조성물을 동시-투여하는 단계를 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18 항에 있어서, 조성물은 MASP-2 항체를 더 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22 항에 있어서, 조성물은 MASP-1 항체를 더 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, 항체 또는 이것의 단편은 재조합 항체, 효과기 기능(effector function)이 감소된 항체, 키메라, 및 인간화된 또는 인간 항체로 구성된 군으로부터 선택되는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 항에 있어서, 조성물은 전신으로 투여되는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제37 항에 있어서, 조성물은 피하, 근육 내, 정맥 내, 동맥 내 또는 흡입제로서 투여되는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "발작성 야간혈색뇨증 (PNH)으로 고통받는 개체에서 적혈구 세포의 생존율을 증가시키는 방법으로서, 개체에 적혈구 세포의 생존율을 증가시키는데 효과적인 MASP-1 억제제 및/또는 MASP-3 억제제 중 적어도 하나의 양을 포함하는 조성물을 투여하는 단계를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39 항에 있어서, 조성물은 MASP-1 억제제를 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39 항에 있어서, 조성물은 MASP-3 억제제를 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39 항에 있어서, 조성물은 MASP-1 억제제 및 MASP-3 억제제를 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39 항에 있어서, 개체에 MASP-2 억제제를 포함하는 조성물을 투여하는 단계를 더 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제40 항에 있어서, MASP-1 억제제는 MASP-1 단클론성 항체인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            40
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41 항에 있어서, MASP-3 억제제는 MASP-3 단클론성 항체인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43 항에 있어서, MASP-2 억제제는 MASP-2 단클론성 항체인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "적어도 하나의 보체 경로 억제제를 포함하는 약학적 조성물로서, 적어도 하나의 억제제는 MASP-2 억제제 및 MASP-3 억제제 및/또는 MASP-1 억제제 및 약학적으로 허용 가능한 담체 중 적어도 하나를 포함하는 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, 적어도 하나의 억제제는 MASP-3 억제제인 제1 분자 및 MASP-2 억제제인 제2 분자의 조합을 포함하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, 적어도 하나의 억제제는 MASP-3 억제제로서의 활성 및 MASP-2 억제제로서의 활성을 포함하는 단일 분자 실체물을 포함하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-3 억제제는 MASP-3 단클론성 항체, 또는 이것의 단편인 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-2 억제제는 MASP-2 항체, 또는 이것의 단편인 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-3 억제제는 인자 B의 MASP-3-매개된 분할을 억제하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-3 억제제는 인자 D 성숙화를 억제하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-1 억제제는 MASP-1 항체, 또는 이것의 단편인 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-1 억제제는 MASP-3 (SEQ ID NO:8)에 결합하는 것보다 적어도 10배 더 큰 친화도로 MASP-1의 일부에 특이적으로 결합하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-1 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10의 aa 449-694)에 특이적으로 결합하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-1 억제제는 또한 MASP-3의 일부 (SEQ ID NO:8)에 결합하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제57 항에 있어서, MASP-3 억제제는 CUBI-CCP2 도메인 내 공통 영역에 결합하는 이중 MASP-1/MASP-3 억제자인 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            57
+          ]
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제57 항에 있어서, MASP-3 억제제는 CCP2 도메인 내 공통 영역에 결합하는 이중 MASP-1/MASP-3 억제자인 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            57
+          ]
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제57 항에 있어서, MASP-3 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10의 aa 449-694)에 결합하고 또한 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa 450-711)에 결합하는 이중 특이적 단클론성 항체인 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            57
+          ]
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-1 억제제는 또한 MASP-2의 일부 (SEQ ID NO:5)에 결합하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61 항에 있어서, MASP-1 억제제는 MASP-1 및 MASP-2의 세린 프로테아제 도메인 내 보존된 영역에 결합하는 이중 MASP-1/MASP-2 억제자인 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61 항에 있어서, MASP-1 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10의 aa449-694)에 결합하고 또한 MASP-2의 세린 프로테아제 도메인 (SEQ ID NO:5의 aa 445-682) 또는 MASP-2의 CCP-1-CCP2 도메인 (SEQ ID NO:5의 aa300-431) 중 적어도 하나에 결합하는 이중 특이적 단클론성 항체인 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-3 억제제는 MASP-3의 일부 (SEQ ID NO:8 전장)에 특이적으로 결합하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-3 억제제는 MASP-1 (SEQ ID NO:10)에 결합하는 것보다 적어도 10배 더 큰 친화도로 MASP-3의 일부에 특이적으로 결합하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제64 항에 있어서, MASP-3 억제제는 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa 450-711)에 특이적으로 결합하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            64
+          ]
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-3 억제제는 또한 MASP-2의 일부 (SEQ ID NO:5)에 결합하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제67 항에 있어서, MASP-3 억제제는 MASP-2 및 MASP-3의 세린 프로테아제 도메인 내 보존된 영역에 결합하는 이중 MASP-2/MASP-3 억제자인 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제67 항에 있어서, MASP-3 억제제는 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa450-711)에 결합하고 또한 MASP-2의 세린 프로테아제 도메인 (SEQ ID NO:5의 aa 445-682) 또는 MASP-2의 CCP-1-CCP2 도메인 (SEQ ID NO:5의 aa300-431) 중 적어도 하나에 결합하는 이중 특이적 단클론성 항체인 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-3 억제제는 MASP-1, MASP-2 및 MASP-3의 전체 억제자이고 세 개의 단백질의 CUB1-EGF-CUB2 도메인에서 보존된 영역에 결합하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-3 억제제는 MASP-1, MASP-2 및 MASP-3의 삼중 특이적 억제자인 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-3 억제제는 MASP-3 항체이고, 조성물은 MASP-2 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 73,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-3 억제제는 MASP-3 항체이고, 조성물은 MASP-1 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 74,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-3 억제제는 MASP-3 항체이고, 조성물은 MASP-2 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 75,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, 조성물은 MASP-1 항체, 및 MASP-2 항체 및 MASP-3 항체를 포함하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 76,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제57 항에 있어서, 조성물은 MASP-2 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            57
+          ]
+        },
+        {
+          "claim_number": 77,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제61 항에 있어서, 조성물은 MASP-3 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            61
+          ]
+        },
+        {
+          "claim_number": 78,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제67 항에 있어서, 조성물은 MASP-1 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            67
+          ]
+        },
+        {
+          "claim_number": 79,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, 항체 또는 이것의 단편은 재조합 항체, 효과기 기능이 감소된 항체, 키메라, 및 인간화된 또는 인간 항체로 구성된 군으로부터 선택되는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 80,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, MASP-1 억제제는 인자 D 성숙화를 억제하는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 81,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47 항에 있어서, 조성물은 전신성 전달을 위해 제형화되는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 82,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제81 항에 있어서, 조성물은 피하, 근육 내, 정맥 내, 동맥 내 또는 흡입제로서 전달을 위해 제형화되는 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            81
+          ]
+        },
+        {
+          "claim_number": 83,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "MASP-1의 일부 (SEQ ID NO:10 전장)에 결합하고 또한 MASP-3의 일부 (SEQ ID NO:8)에 결합하는 MASP-3 억제제 및 약학적 담체를 포함하는 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 84,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제83 항에 있어서, MASP-3 억제제는 이중 MASP-1/MASP-3 억제자인 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            83
+          ]
+        },
+        {
+          "claim_number": 85,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제83 항에 있어서, MASP-3 억제제는 이중 특이적 항체인 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            83
+          ]
+        },
+        {
+          "claim_number": 86,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제85 항에 있어서, MASP-3 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10의 aa449-694)에 결합하고 또한 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa450-711)에 결합하는 이중 특이적 단클론성 항체인 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            85
+          ]
+        },
+        {
+          "claim_number": 87,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "MASP-2의 일부 (SEQ ID NO:5 전장)에 결합하고 또한 MASP-3의 일부 (SEQ ID NO:8)에 결합하는 MASP-3 억제제 및 약학적 담체를 포함하는 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 88,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제87 항에 있어서, MASP-3 억제제는 이중 MASP-2/MASP-3 억제자인 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            87
+          ]
+        },
+        {
+          "claim_number": 89,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제87 항에 있어서, MASP-3 억제제는 이중 특이적 MASP-2/MASP-3 항체인 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            87
+          ]
+        },
+        {
+          "claim_number": 90,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "MASP-1의 일부 (SEQ ID NO:10 전장)에 결합하고, MASP-2의 일부 (SEQ ID NO:5 전장)에 결합하고 또한 MASP-3의 일부 (SEQ ID NO:8)에 결합하는 MASP-3 억제제 및 약학적 담체를 포함하는 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 91,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제90 항에 있어서, 억제제는 전체-MASP 억제자인 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            90
+          ]
+        },
+        {
+          "claim_number": 92,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제90 항에 있어서, 억제제는 삼중 특이적 MASP-1, MASP-2 및 MASP-3 항체인 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            90
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20210310",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 92,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "필요로 하는 대상체에서 발작성 야간혈색뇨증(paroxysmal nocturnal hemoglobinuria: PNH)을 치료하기 위한 약학적 조성물로서, 인간 MASP-2에 특이적으로 결합하는 MASP-2 억제 단클론성 항체 또는 이것의 항원-결합 단편 및 SEQ ID NO:8의 아미노산 450-711로 제시된 MASP-3의 세린 프로테아제 도메인에 특이적으로 결합하고 인자 D 성숙화를 억제하는 MASP-3 억제 단클론성 항체 또는 이것의 항원-결합 단편, 및 약학적으로 허용 가능한 담체를 포함하고, 상기 조성물은 보체의 렉틴 경로 및 대체 경로 둘 다를 억제하는, 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1 항에 있어서, 상기 항체 또는 이것의 항원-결합 단편은 재조합 항체, 효과기 기능(effector function)이 감소된 항체, 키메라, 및 인간화된 또는 인간 항체로 구성된 군으로부터 선택된 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1 항 또는 제2 항에 있어서, 상기 조성물은 전신성 전달을 위해 제형화된 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1 항 또는 제2 항에 있어서, 상기 조성물은 피하, 근육 내, 정맥 내, 동맥 내 또는 흡입제로서 전달을 위해 제형화된 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3 항에 있어서, 상기 조성물은 피하, 근육 내, 정맥 내, 동맥 내 또는 흡입제로서 전달을 위해 제형화된 것을 특징으로 하는 약학적 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 73,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 74,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 75,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 76,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 77,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 78,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 79,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 80,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 81,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 82,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 83,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 84,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 85,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 86,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 87,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 88,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 89,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 90,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 91,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 92,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200803",
+        "document_name": "[분할출원(국제출원)]특허출원서",
+        "claim_count": 92,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "발작성 야간혈색뇨증 (PNH)으로 고통받는 개체에서 MASP-3-의존적 보체 활성화를 억제하는 방법으로서, 개체에 MASP-3-의존적 보체 활성화를 억제하는데 효과적인 MASP-3 억제제의 양을 포함하는 조성물을 투여하는 단계를 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, MASP-3 억제제는 SEQ ID NO:8의 일부에 특이적으로 결합하는 MASP-3 단클론성 항체, 또는 이것의 단편인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, 개체에 MASP-1 억제제를 포함하는 조성물을 투여하는 단계를 더 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3 항에 있어서, MASP-1 억제제는 SEQ ID NO:10의 일부에 특이적으로 결합하는 MASP-1 단클론성 항체, 또는 이것의 단편인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, 개체에 MASP-2 억제제를 포함하는 조성물을 투여하는 단계를 더 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5 항에 있어서, SEQ ID NO:5의 일부에 특이적으로 결합하는 MASP-1 단클론성 항체, 또는 이것의 단편인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, 개체에 MASP-1 억제제 및 MASP-2 억제제를 포함하는 조성물을 투여하는 단계를 더 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항 내지 제7 항 중 어느 한 항에 있어서, 조성물은 개체에서 적혈구 세포의 생존율을 증가시키는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8 항에 있어서, 개체는 (i) 정상 수준 이하의 헤모글로빈, (ii) 정상 수준 이하의 혈소판; (iii) 정상 수준 이상의 망상적혈구, 및 (iv) 정상 수준 이상의 빌리루빈으로 구성된 군으로부터 선택된 하나 이상의 증상을 나타내는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, 개체는 보체 단백질 C5의 분할을 억제하는 말단 보체 억제자 치료를 이전에 경험하였거나, 현재 경험하고 있는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, 방법은 개체에 보체 단백질 C5의 분할을 억제하는 말단 보체 억제자를 투여하는 단계를 더 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11 항에 있어서, 말단 보체 억제자는 인간화된 항-C5 항체 또는 이것의 항원-결합 단편인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12 항에 있어서, 말단 보체 억제자는 에쿨리쥬맙인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, MASP-3 억제제는 대체-경로 구동된 C3b 침착을 억제하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, MASP-3 억제제는 인자 D 성숙화를 억제하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3 항에 있어서, MASP-1 억제제는 MASP-3 (SEQ ID NO:8)에 결합하는 것보다 적어도 10배 더 큰 친화도로 MASP-1의 일부에 특이적으로 결합하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3 항에 있어서, MASP-1 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10의 aa 449-694)에 특이적으로 결합하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, MASP-3 억제제는 또한 MASP-1의 일부 (SEQ ID NO:10)에 결합하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18 항에 있어서, MASP-3 억제제는 CUBI-CCP2 도메인 내 공통 영역에 결합하는 이중 MASP-1/MASP-3 억제자인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18 항에 있어서, MASP-3 억제제는 CCP2 도메인 내 공통 영역에 결합하는 이중 MASP-1/MASP-3 억제자인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18 항에 있어서, MASP-3 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10D의 aa 449- 694)에 결합하고 또한 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa 450- 711)에 결합하는 이중-특이적 단클론성 항체인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, MASP-3 억제제는 또한 MASP-2의 일부 (SEQ ID NO:5)에 결합하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22 항에 있어서, MASP-3 억제제는 MASP-3 및 MASP-2의 세린 프로테아제 도메인 내 보존된 영역에 결합하는 이중 MASP-3/MASP-2 억제자인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22 항에 있어서, MASP-3 억제제는 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa450-711)에 결합하고 또한 MASP-2의 세린 프로테아제 도메인 (SEQ ID NO:5의 aa 445-682) 또는 MASP-2의 CCP-1-CCP2 도메인 (SEQ ID NO:5의 aa300-431) 중 적어도 하나에 결합하는 이중 특이적 단클론성 항체인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, MASP-3 억제제는 MASP-3의 일부 (SEQ ID NO:8)에 결합하고 MASP-1 또는 MASP-2를 억제하지 않는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, MASP-3 억제제는 MASP-1 (SEQ ID NO:10)에 결합하는 것보다 적어도 10배 더 큰 친화도로 MASP-3의 일부에 특이적으로 결합하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, MASP-3 억제제는 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa 450-711)에 특이적으로 결합하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, MASP-3 억제제는 MASP-1, MASP-2 및 MASP-3의 전체 억제자(pan inhibitor)이고 CUB1-EGF-CUB2 도메인의 보존된 영역에 결합하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, MASP-3 억제제는 MASP-1, MASP-2 및 MASP-3의 삼중 특이적 억제자인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2 항에 있어서, 조성물은 MASP-2 항체를 더 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2 항에 있어서, 조성물은 MASP-1 항체를 더 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7 항에 있어서, 조성물은 MASP-1 항체, 및 MASP-2 항체 및 MASP-3 항체를 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7 항에 있어서, 방법은 MASP-2 항체, MASP-1 항체, 또는 MASP-3 항체 중 적어도 하나를 포함하는 조성물을 동시-투여하는 단계를 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18 항에 있어서, 조성물은 MASP-2 항체를 더 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22 항에 있어서, 조성물은 MASP-1 항체를 더 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, 항체 또는 이것의 단편은 재조합 항체, 효과기 기능(effector function)이 감소된 항체, 키메라, 및 인간화된 또는 인간 항체로 구성된 군으로부터 선택되는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 항에 있어서, 조성물은 전신으로 투여되는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제37 항에 있어서, 조성물은 피하, 근육 내, 정맥 내, 동맥 내 또는 흡입제로서 투여되는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              37
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "발작성 야간혈색뇨증 (PNH)으로 고통받는 개체에서 적혈구 세포의 생존율을 증가시키는 방법으로서, 개체에 적혈구 세포의 생존율을 증가시키는데 효과적인 MASP-1 억제제 및/또는 MASP-3 억제제 중 적어도 하나의 양을 포함하는 조성물을 투여하는 단계를 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39 항에 있어서, 조성물은 MASP-1 억제제를 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39 항에 있어서, 조성물은 MASP-3 억제제를 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39 항에 있어서, 조성물은 MASP-1 억제제 및 MASP-3 억제제를 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39 항에 있어서, 개체에 MASP-2 억제제를 포함하는 조성물을 투여하는 단계를 더 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제40 항에 있어서, MASP-1 억제제는 MASP-1 단클론성 항체인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              40
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41 항에 있어서, MASP-3 억제제는 MASP-3 단클론성 항체인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43 항에 있어서, MASP-2 억제제는 MASP-2 단클론성 항체인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "적어도 하나의 보체 경로 억제제를 포함하는 약학적 조성물로서, 적어도 하나의 억제제는 MASP-2 억제제 및 MASP-3 억제제 및/또는 MASP-1 억제제 및 약학적으로 허용 가능한 담체 중 적어도 하나를 포함하는 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, 적어도 하나의 억제제는 MASP-3 억제제인 제1 분자 및 MASP-2 억제제인 제2 분자의 조합을 포함하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, 적어도 하나의 억제제는 MASP-3 억제제로서의 활성 및 MASP-2 억제제로서의 활성을 포함하는 단일 분자 실체물을 포함하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-3 억제제는 MASP-3 단클론성 항체, 또는 이것의 단편인 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-2 억제제는 MASP-2 항체, 또는 이것의 단편인 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-3 억제제는 인자 B의 MASP-3-매개된 분할을 억제하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-3 억제제는 인자 D 성숙화를 억제하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-1 억제제는 MASP-1 항체, 또는 이것의 단편인 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-1 억제제는 MASP-3 (SEQ ID NO:8)에 결합하는 것보다 적어도 10배 더 큰 친화도로 MASP-1의 일부에 특이적으로 결합하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-1 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10의 aa 449-694)에 특이적으로 결합하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-1 억제제는 또한 MASP-3의 일부 (SEQ ID NO:8)에 결합하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제57 항에 있어서, MASP-3 억제제는 CUBI-CCP2 도메인 내 공통 영역에 결합하는 이중 MASP-1/MASP-3 억제자인 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              57
+            ]
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제57 항에 있어서, MASP-3 억제제는 CCP2 도메인 내 공통 영역에 결합하는 이중 MASP-1/MASP-3 억제자인 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              57
+            ]
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제57 항에 있어서, MASP-3 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10의 aa 449-694)에 결합하고 또한 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa 450-711)에 결합하는 이중 특이적 단클론성 항체인 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              57
+            ]
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-1 억제제는 또한 MASP-2의 일부 (SEQ ID NO:5)에 결합하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61 항에 있어서, MASP-1 억제제는 MASP-1 및 MASP-2의 세린 프로테아제 도메인 내 보존된 영역에 결합하는 이중 MASP-1/MASP-2 억제자인 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61 항에 있어서, MASP-1 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10의 aa449-694)에 결합하고 또한 MASP-2의 세린 프로테아제 도메인 (SEQ ID NO:5의 aa 445-682) 또는 MASP-2의 CCP-1-CCP2 도메인 (SEQ ID NO:5의 aa300-431) 중 적어도 하나에 결합하는 이중 특이적 단클론성 항체인 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-3 억제제는 MASP-3의 일부 (SEQ ID NO:8 전장)에 특이적으로 결합하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-3 억제제는 MASP-1 (SEQ ID NO:10)에 결합하는 것보다 적어도 10배 더 큰 친화도로 MASP-3의 일부에 특이적으로 결합하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제64 항에 있어서, MASP-3 억제제는 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa 450-711)에 특이적으로 결합하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              64
+            ]
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-3 억제제는 또한 MASP-2의 일부 (SEQ ID NO:5)에 결합하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제67 항에 있어서, MASP-3 억제제는 MASP-2 및 MASP-3의 세린 프로테아제 도메인 내 보존된 영역에 결합하는 이중 MASP-2/MASP-3 억제자인 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              67
+            ]
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제67 항에 있어서, MASP-3 억제제는 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa450-711)에 결합하고 또한 MASP-2의 세린 프로테아제 도메인 (SEQ ID NO:5의 aa 445-682) 또는 MASP-2의 CCP-1-CCP2 도메인 (SEQ ID NO:5의 aa300-431) 중 적어도 하나에 결합하는 이중 특이적 단클론성 항체인 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              67
+            ]
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-3 억제제는 MASP-1, MASP-2 및 MASP-3의 전체 억제자이고 세 개의 단백질의 CUB1-EGF-CUB2 도메인에서 보존된 영역에 결합하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-3 억제제는 MASP-1, MASP-2 및 MASP-3의 삼중 특이적 억제자인 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-3 억제제는 MASP-3 항체이고, 조성물은 MASP-2 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-3 억제제는 MASP-3 항체이고, 조성물은 MASP-1 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-3 억제제는 MASP-3 항체이고, 조성물은 MASP-2 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 75,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, 조성물은 MASP-1 항체, 및 MASP-2 항체 및 MASP-3 항체를 포함하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 76,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제57 항에 있어서, 조성물은 MASP-2 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              57
+            ]
+          },
+          {
+            "claim_number": 77,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제61 항에 있어서, 조성물은 MASP-3 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 78,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제67 항에 있어서, 조성물은 MASP-1 항체를 더 포함하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              67
+            ]
+          },
+          {
+            "claim_number": 79,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, 항체 또는 이것의 단편은 재조합 항체, 효과기 기능이 감소된 항체, 키메라, 및 인간화된 또는 인간 항체로 구성된 군으로부터 선택되는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 80,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, MASP-1 억제제는 인자 D 성숙화를 억제하는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 81,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47 항에 있어서, 조성물은 전신성 전달을 위해 제형화되는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 82,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제81 항에 있어서, 조성물은 피하, 근육 내, 정맥 내, 동맥 내 또는 흡입제로서 전달을 위해 제형화되는 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              81
+            ]
+          },
+          {
+            "claim_number": 83,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "MASP-1의 일부 (SEQ ID NO:10 전장)에 결합하고 또한 MASP-3의 일부 (SEQ ID NO:8)에 결합하는 MASP-3 억제제 및 약학적 담체를 포함하는 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 84,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제83 항에 있어서, MASP-3 억제제는 이중 MASP-1/MASP-3 억제자인 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              83
+            ]
+          },
+          {
+            "claim_number": 85,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제83 항에 있어서, MASP-3 억제제는 이중 특이적 항체인 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              83
+            ]
+          },
+          {
+            "claim_number": 86,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제85 항에 있어서, MASP-3 억제제는 MASP-1의 세린 프로테아제 도메인 (SEQ ID NO:10의 aa449-694)에 결합하고 또한 MASP-3의 세린 프로테아제 도메인 (SEQ ID NO:8의 aa450-711)에 결합하는 이중 특이적 단클론성 항체인 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              85
+            ]
+          },
+          {
+            "claim_number": 87,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "MASP-2의 일부 (SEQ ID NO:5 전장)에 결합하고 또한 MASP-3의 일부 (SEQ ID NO:8)에 결합하는 MASP-3 억제제 및 약학적 담체를 포함하는 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 88,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제87 항에 있어서, MASP-3 억제제는 이중 MASP-2/MASP-3 억제자인 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              87
+            ]
+          },
+          {
+            "claim_number": 89,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제87 항에 있어서, MASP-3 억제제는 이중 특이적 MASP-2/MASP-3 항체인 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              87
+            ]
+          },
+          {
+            "claim_number": 90,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "MASP-1의 일부 (SEQ ID NO:10 전장)에 결합하고, MASP-2의 일부 (SEQ ID NO:5 전장)에 결합하고 또한 MASP-3의 일부 (SEQ ID NO:8)에 결합하는 MASP-3 억제제 및 약학적 담체를 포함하는 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 91,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제90 항에 있어서, 억제제는 전체-MASP 억제자인 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              90
+            ]
+          },
+          {
+            "claim_number": 92,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제90 항에 있어서, 억제제는 삼중 특이적 MASP-1, MASP-2 및 MASP-3 항체인 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              90
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200803",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 92,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "인간 MASP-2에 특이적으로 결합하는 MASP-2 억제 단클론성 항체 또는 이것의 항원-결합 단편 및 SEQ ID NO:8의 아미노산 450-711로 제시된 MASP-3의 세린 프로테아제 도메인에 특이적으로 결합하고 인자 D 성숙화를 억제하는 MASP-3 억제 단클론성 항체 또는 이것의 항원-결합 단편, 및 약학적으로 허용 가능한 담체를 포함하는 약학적 조성물로서, 상기 조성물은 보체의 렉틴 경로 및 대체 경로 둘 다를 억제하는, 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1 항에 있어서, 항체 또는 이것의 항원-결합 단편은 재조합 항체, 효과기 기능(effector function)이 감소된 항체, 키메라, 및 인간화된 또는 인간 항체로 구성된 군으로부터 선택된 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1 항 또는 제2 항에 있어서, 조성물은 전신성 전달을 위해 제형화된 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1 항 내지 제3 항 중 어느 한 항에 있어서, 조성물은 피하, 근육 내, 정맥 내, 동맥 내 또는 흡입제로서 전달을 위해 제형화된 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "필요로 하는 대상체에서 발작성 야간혈색뇨증 (PNH)를 치료하는 방법으로서, 대상체에게 제1 항 내지 제4 항 중 어느 한 항의 약학적 조성물을 투여하여, 대상체에서 PNH를 치료하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "필요로 하는 대상체에서 발작성 야간혈색뇨증 (PNH)의 치료를 위한 의약의 제조시 MASP-2 억제 단클론성 항체 또는 이것의 항원-결합 단편 및 MASP-3 억제 단클론성 항체 또는 이것의 항원-결합 단편의 용도로서, \nMASP-2 억제 단클론성 항체 또는 이것의 항원-결합 단편은 인간 MASP-2에 특이적으로 결합하고 MASP-3 억제 단클론성 항체 또는 이것의 항원-결합 단편은 인간 MASP-3의 세린 프로테아제 도메인에 특이적으로 결합하고 인자 D 성숙화를 억제하고, \n상기 의약은 보체의 렉틴 경로 및 대체 경로 둘 다를 억제하는, 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 75,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 76,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 77,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 78,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 79,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 80,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 81,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 82,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 83,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 84,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 85,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 86,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 87,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 88,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 89,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 90,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 91,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 92,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20210310",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 6,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "필요로 하는 대상체에서 발작성 야간혈색뇨증(paroxysmal nocturnal hemoglobinuria: PNH)을 치료하기 위한 약학적 조성물로서, 인간 MASP-2에 특이적으로 결합하는 MASP-2 억제 단클론성 항체 또는 이것의 항원-결합 단편 및 SEQ ID NO:8의 아미노산 450-711로 제시된 MASP-3의 세린 프로테아제 도메인에 특이적으로 결합하고 인자 D 성숙화를 억제하는 MASP-3 억제 단클론성 항체 또는 이것의 항원-결합 단편, 및 약학적으로 허용 가능한 담체를 포함하고, 상기 조성물은 보체의 렉틴 경로 및 대체 경로 둘 다를 억제하는, 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1 항에 있어서, 상기 항체 또는 이것의 항원-결합 단편은 재조합 항체, 효과기 기능(effector function)이 감소된 항체, 키메라, 및 인간화된 또는 인간 항체로 구성된 군으로부터 선택된 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1 항 또는 제2 항에 있어서, 상기 조성물은 전신성 전달을 위해 제형화된 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1 항 또는 제2 항에 있어서, 상기 조성물은 피하, 근육 내, 정맥 내, 동맥 내 또는 흡입제로서 전달을 위해 제형화된 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3 항에 있어서, 상기 조성물은 피하, 근육 내, 정맥 내, 동맥 내 또는 흡입제로서 전달을 위해 제형화된 것을 특징으로 하는 약학적 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 92,
+      "after_claim_count": 6,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": {
+      "familyApplicationNumber": "1020147030787"
+    }
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2013.12.05",
+      "internationOpenNumber": "WO2013180834",
+      "internationalApplicationDate": "2013.04.05",
+      "internationalApplicationNumber": "PCT/US2013/035488"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "미국, 워싱턴 *****, 시애틀, *** 엘리엇 에버뉴 웨스트",
+        "code": "519980751738",
+        "country": "미국",
+        "engName": "Omeros Corporation",
+        "name": "오메로스 코포레이션"
+      },
+      {
+        "address": "영국 엘이* *알에치 레스터셔 레스터 유니버시티 로드",
+        "code": "520080453231",
+        "country": "영국",
+        "engName": "UNIVERSITY OF LEICESTER",
+        "name": "유니버시티 오브 레스터"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "영국 레스터셔 엘이** ...",
+        "code": "",
+        "country": "",
+        "engName": "SCHWAEBLE, Hans-wilhelm",
+        "name": "쉬웨블 한스-윌헬"
+      },
+      {
+        "address": "미국 워싱턴 ***** 머서 ...",
+        "code": "",
+        "country": "",
+        "engName": "DEMOPULOS, Gregory, A.",
+        "name": "데모풀로스 그레고리 에이."
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구  테헤란로  *** ,**층 (역삼동, 한국기술센터)",
+      "code": "920171002811",
+      "country": "대한민국",
+      "engName": "Y.S.CHANG & ASSOCIATES",
+      "name": "특허법인와이에스장"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2012.04.06",
+      "priorityApplicationNumber": "61/621,461"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2005075665 A2",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2010080833 A1",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2020.08.03",
+        "receiptNumber": "1-1-2020-0811874-50"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2020.08.03",
+        "receiptNumber": "1-1-2020-0812069-91"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.08.03",
+        "receiptNumber": "1-1-2020-0811951-78"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.09.16",
+        "receiptNumber": "9-5-2020-0639126-83"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.11.09",
+        "receiptNumber": "1-1-2020-1191753-92"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.11.09",
+        "receiptNumber": "1-1-2020-1191772-59"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장 관련 안내서",
+        "receiptDate": "2020.11.11",
+        "receiptNumber": "1-5-2020-0169156-42"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.03.10",
+        "receiptNumber": "1-1-2021-0280046-07"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.03.10",
+        "receiptNumber": "1-1-2021-0280071-38"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.07.26",
+        "receiptNumber": "9-5-2021-0587382-35"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020207022397.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93023a42a95c40171ae5bd59e1b7c1a17b58ce287d287c851246100821b4d7d2d306f416f306c98eb0f5c28824bf0261d6d4527bfa87390d45",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf89e4ea5eca0c1e613e038bec2283fd4e95bc6674ffa45d50d7f8680cf954052e670a3e20cb5557d6569f9d7417b24eacf4fb263cf9d4f687"
+  },
+  "rndInfoArray": ""
+}

@@ -1,0 +1,792 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.09.26",
+      "applicationFlag": "",
+      "applicationNumber": "10-2017-0124181",
+      "claimCount": "4",
+      "examinerName": "이수정",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "마이크로 RNA miR-210 억제제를 유효성분으로 포함하는 노화 관련 대사질환 방지용 조성물 및 miR-210 억제제의 스크리닝 방법",
+      "inventionTitleEng": "Composition comprising inhibitors of miR-210 for  inhibiting age-related metabolic disease and its  screening method",
+      "openDate": "2019.04.03",
+      "openNumber": "10-2019-0035207",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.02.14",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.01.28",
+      "publicationNumber": "",
+      "registerDate": "2021.01.22",
+      "registerNumber": "10-2208777-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/713"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "G01N 33/68"
+      },
+      {
+        "ipcDate": "(2018.01.01)",
+        "ipcNumber": "C12Q 1/68"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 miR-210 억제제를 유효성분으로 포함하는 노화 관련 대사질환 방지용 조성물 및 miR-210 억제제의 스크리닝 방법에 관한 것으로, 보다 구체적으로는 miR-210의 발현 또는 그 기능을 억제하거나, miR-210에 의해 억제되는 ATG7 단백질의 발현을 향상시키는 물질을 유효성분으로 하는 노화 관련 대사질환 방지용 조성물 및 miR-210의 발현 수준 또는 miR-210에 의해 매개되는 ATG7 단백질의 양을 측정하는 단계를 포함하는 miR-210 억제제의 스크리닝 방법에 관한 것으로, 본 발명에 따른 노화 관련 대사질환을 방지하는 물질을 유효성분으로 포함하는 조성물은 ATG7 발현 저해를 억제하여, 자식작용 활성화를 유도하여 노화 관련 대사질환을 방지하는데 효과적이며, 본 발명의 스크리닝 방법은 시상하부 궁상핵에서 miR-210에 의한 ATG7 발현 저해를 억제하여 자식작용 활성화를 유도하여 노화 관련 대사질환을 방지하는 물질을 스크리닝 할 수 있어, 노화 관련 대사질환 방지용 물질의 스크리닝에 유용하다."
+    }
+  },
+  "claims": {
+    "application_number": "1020170124181",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20170926",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 11,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "miR-210 억제제를 유효성분으로 포함하는 노화 관련 대사질환 방지용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 miR-210 억제제는 miR-210에 특이적인 항체 또는 압타머; miR-210에 특이적인 siRNA; miR-210에 특이적인 shRNA를 포함하는 RNAi; miR-210을 흡수할 수 있는 miRNA 스폰지(miRNA sponge); 타겟 유전자 대신 miR-210에 결합할 수 있는 터프 디코이 miRNA(tough decoy miRNA); 또는 miR-210의 씨드 영역에 상보적으로 결합하는 안타고머(antagomiR) 인 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 타겟 유전자 대신 miR-210에 결합할 수 있는 터프 디코이 miRNA(tough decoy miRNA)는 서열번호 1의 염기서열로 표시되는 폴리뉴클레오타이드인 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 miR-210의 씨드 영역에 상보적으로 결합하는 안타고머(antagomiR)는 서열번호 2의 염기서열로 표시되는 폴리뉴클레오타이드인 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 노화 관련 대사질환은 시상하부 신호전달 경로의 변화에 의해 발생하는 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 노화 관련 대사질환은 비만, 당뇨, 당뇨 합병증, 고혈압, 동맥경화, 심장질환, 퇴행성 신경질환 및 암으로 구성된 군에서 선택되는 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 암은 흑색종, 갑상선암, 간암, 교세포종, 난소암, 대장암, 두경부암, 방광암, 신장세포암, 위암, 유방암, 전이암, 전립선암, 췌장암 및 폐암으로 구성된 군에서 선택되는 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다음 단계를 포함하는 노화 관련 대사질환을 방지하는 물질의 스크리닝 방법:\n(a) 후보물질을 miR-210이 도입된 세포에 접촉시키는 단계;\n(b) miR-210의 발현 수준을 측정하는 단계; 및\n(c) miR-210의 발현 수준을 억제하는 후보물질을 노화 관련 대사질환을 방지하는 물질로 선택하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다음 단계를 포함하는 노화 관련 대사질환을 방지하는 물질의 스크리닝 방법:\n(a) 후보물질을 miR-210이 도입된 세포에 접촉시키는 단계;\n(b) miR-210에 의해 조절되는 Atg7 단백질의 발현양을 측정하는 단계; 및\n(c) Atg7 단백질의 양을 증가시키는 후보물질을 노화 관련 대사질환을 방지하는 물질로 선택하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 또는 제9항에 있어서, 상기 후보 물질은 천연 화합물, 합성 화합물, DNA, RNA, 펩티드, 효소, 리간드, 세포 추출물 또는 포유동물의 분비물인 것을 특징으로 하는 노화 관련 대사질환을 방지하는 물질의 스크리닝 방법.",
+          "refers_to": [
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 또는 제9항에 있어서, 상기 세포는 HP1, HP2, A717, CCD-1109Sk 및 N1으로 구성된 군에서 선택되는 것을 특징으로 하는 화 관련 대사질환을 방지하는 물질의 스크리닝 방법.",
+          "refers_to": [
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20201120",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 11,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 1의 염기서열로 표시되는, miR-210에 결합할 수 있는 터프 디코이 miRNA(tough decoy miRNA)를 유효성분으로 포함하고, miR-210에 의해 억제되는 ATG7 단백질의 발현을 향상시켜 비만을 치료하기 위한 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "다음 단계를 포함하는 비만 치료용 물질의 시험관내 스크리닝 방법:(a) 후보물질을 miR-210이 도입된 세포에 접촉시키는 단계;(b) miR-210에 의해 조절되는 Atg7 단백질의 발현양을 측정하는 단계; 및(c) Atg7 단백질의 양을 증가시키는 후보물질을 비만 치료용 물질로 선택하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 후보 물질은 천연 화합물, 합성 화합물, DNA, RNA, 펩티드, 효소, 리간드, 세포 추출물 또는 포유동물의 분비물인 것을 특징으로 하는 비만 치료용 물질의 시험관내 스크리닝 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 세포는 HP1, HP2, A717, CCD-1109Sk 및 N1으로 구성된 군에서 선택되는 것을 특징으로 하는 비만 치료용 물질의 시험관내 스크리닝 방법.",
+          "refers_to": [
+            9
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20170926",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 11,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "miR-210 억제제를 유효성분으로 포함하는 노화 관련 대사질환 방지용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 miR-210 억제제는 miR-210에 특이적인 항체 또는 압타머; miR-210에 특이적인 siRNA; miR-210에 특이적인 shRNA를 포함하는 RNAi; miR-210을 흡수할 수 있는 miRNA 스폰지(miRNA sponge); 타겟 유전자 대신 miR-210에 결합할 수 있는 터프 디코이 miRNA(tough decoy miRNA); 또는 miR-210의 씨드 영역에 상보적으로 결합하는 안타고머(antagomiR) 인 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 타겟 유전자 대신 miR-210에 결합할 수 있는 터프 디코이 miRNA(tough decoy miRNA)는 서열번호 1의 염기서열로 표시되는 폴리뉴클레오타이드인 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 miR-210의 씨드 영역에 상보적으로 결합하는 안타고머(antagomiR)는 서열번호 2의 염기서열로 표시되는 폴리뉴클레오타이드인 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 노화 관련 대사질환은 시상하부 신호전달 경로의 변화에 의해 발생하는 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 노화 관련 대사질환은 비만, 당뇨, 당뇨 합병증, 고혈압, 동맥경화, 심장질환, 퇴행성 신경질환 및 암으로 구성된 군에서 선택되는 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 암은 흑색종, 갑상선암, 간암, 교세포종, 난소암, 대장암, 두경부암, 방광암, 신장세포암, 위암, 유방암, 전이암, 전립선암, 췌장암 및 폐암으로 구성된 군에서 선택되는 것을 특징으로 하는 노화 관련 대사질환 방지용 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다음 단계를 포함하는 노화 관련 대사질환을 방지하는 물질의 스크리닝 방법:\n(a) 후보물질을 miR-210이 도입된 세포에 접촉시키는 단계;\n(b) miR-210의 발현 수준을 측정하는 단계; 및\n(c) miR-210의 발현 수준을 억제하는 후보물질을 노화 관련 대사질환을 방지하는 물질로 선택하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다음 단계를 포함하는 노화 관련 대사질환을 방지하는 물질의 스크리닝 방법:\n(a) 후보물질을 miR-210이 도입된 세포에 접촉시키는 단계;\n(b) miR-210에 의해 조절되는 Atg7 단백질의 발현양을 측정하는 단계; 및\n(c) Atg7 단백질의 양을 증가시키는 후보물질을 노화 관련 대사질환을 방지하는 물질로 선택하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 또는 제9항에 있어서, 상기 후보 물질은 천연 화합물, 합성 화합물, DNA, RNA, 펩티드, 효소, 리간드, 세포 추출물 또는 포유동물의 분비물인 것을 특징으로 하는 노화 관련 대사질환을 방지하는 물질의 스크리닝 방법.",
+            "refers_to": [
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 또는 제9항에 있어서, 상기 세포는 HP1, HP2, A717, CCD-1109Sk 및 N1으로 구성된 군에서 선택되는 것을 특징으로 하는 화 관련 대사질환을 방지하는 물질의 스크리닝 방법.",
+            "refers_to": [
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200723",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 11,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 1의 염기서열로 표시되는, miR-210에 결합할 수 있는 터프 디코이 miRNA(tough decoy miRNA)를 유효성분으로 포함하는 비만 치료용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "다음 단계를 포함하는 비만 치료용 물질의 시험관내 스크리닝 방법:\n(a) 후보물질을 miR-210이 도입된 세포에 접촉시키는 단계;\n(b) miR-210의 발현 수준을 측정하는 단계; 및\n(c) miR-210의 발현 수준을 억제하는 후보물질을 비만 치료용 물질로 선택하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "다음 단계를 포함하는 비만 치료용 물질의 시험관내 스크리닝 방법:\n(a) 후보물질을 miR-210이 도입된 세포에 접촉시키는 단계;\n(b) miR-210에 의해 조절되는 Atg7 단백질의 발현양을 측정하는 단계; 및\n(c) Atg7 단백질의 양을 증가시키는 후보물질을 비만 치료용 물질로 선택하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항 또는 제9항에 있어서, 상기 후보 물질은 천연 화합물, 합성 화합물, DNA, RNA, 펩티드, 효소, 리간드, 세포 추출물 또는 포유동물의 분비물인 것을 특징으로 하는 비만 치료용 물질의 시험관내 스크리닝 방법.",
+            "refers_to": [
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항 또는 제9항에 있어서, 상기 세포는 HP1, HP2, A717, CCD-1109Sk 및 N1으로 구성된 군에서 선택되는 것을 특징으로 하는 비만 치료용 물질의 시험관내 스크리닝 방법.",
+            "refers_to": [
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20201120",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 1의 염기서열로 표시되는, miR-210에 결합할 수 있는 터프 디코이 miRNA(tough decoy miRNA)를 유효성분으로 포함하고, miR-210에 의해 억제되는 ATG7 단백질의 발현을 향상시켜 비만을 치료하기 위한 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 후보 물질은 천연 화합물, 합성 화합물, DNA, RNA, 펩티드, 효소, 리간드, 세포 추출물 또는 포유동물의 분비물인 것을 특징으로 하는 비만 치료용 물질의 시험관내 스크리닝 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 세포는 HP1, HP2, A717, CCD-1109Sk 및 N1으로 구성된 군에서 선택되는 것을 특징으로 하는 비만 치료용 물질의 시험관내 스크리닝 방법.",
+            "refers_to": [
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 11,
+      "after_claim_count": 4,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "대전광역시 유성구...",
+        "code": "120120549213",
+        "country": "대한민국",
+        "engName": "INSTITUTE FOR BASIC SCIENCE",
+        "name": "기초과학연구원"
+      },
+      {
+        "address": "대구 달성군 현풍...",
+        "code": "220050290674",
+        "country": "대한민국",
+        "engName": "Daegu Gyeongbuk Institute of Science and Technology",
+        "name": "재단법인대구경북과학기술원"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "대구광역시 달성군 현풍면 테크노중...",
+        "code": "",
+        "country": "",
+        "engName": "Kim, Keetae",
+        "name": "김기태"
+      },
+      {
+        "address": "대구광역시 중구...",
+        "code": "",
+        "country": "",
+        "engName": "Nam, Hong Gil",
+        "name": "남홍길"
+      },
+      {
+        "address": "대구광역시 달서구...",
+        "code": "",
+        "country": "",
+        "engName": "Park, Jun Soo",
+        "name": "박준수"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 강남구 언주로 ***, **층  (역삼동, 윤익빌딩)(*T국제특허법률사무소)",
+        "code": "920110000813",
+        "country": "대한민국",
+        "engName": "Je Hwan Chang",
+        "name": "장제환"
+      },
+      {
+        "address": "서울특별시 강남구 언주로 ***, **층 (역삼동, 윤익빌딩)(*T국제특허법률사무소)",
+        "code": "920030001189",
+        "country": "대한민국",
+        "engName": "LEECHEOYOUNG",
+        "name": "이처영"
+      }
+    ]
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2013117713 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Journal of Cellular Biochemistry, 제114권, 2699-2707면(2013)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Biochemical and Biophysical Research Communications, 437권, 433-439면 (2013)",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2017.09.26",
+        "receiptNumber": "1-1-2017-0941122-12"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2017.09.26",
+        "receiptNumber": "1-1-2017-0939575-88"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Reduction of Designated Period] Request for Extension of Period (Reduction, Expiry Reconsideration)",
+        "documentName": "[지정기간단축]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2017.10.12",
+        "receiptNumber": "1-1-2017-1003892-27"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2017.10.12",
+        "receiptNumber": "1-5-2017-0141743-06"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice for Disposition of Invalidation of Request for Examination",
+        "documentName": "심사청구 무효처분통지서",
+        "receiptDate": "2017.10.13",
+        "receiptNumber": "1-5-2017-0144173-06"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2018.01.24",
+        "receiptNumber": "4-1-2018-5013866-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2018.12.18",
+        "receiptNumber": "4-1-2018-5260250-39"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Preferential Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[우선심사신청]심사청구(우선심사신청)서",
+        "receiptDate": "2020.02.14",
+        "receiptNumber": "1-1-2020-0157616-24"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2020.02.14",
+        "receiptNumber": "1-1-2020-0157615-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Preferential Examination] Request for Prior Art Search",
+        "documentName": "[우선심사신청]선행기술조사의뢰서",
+        "receiptDate": "2020.02.20",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Preferential Examination] Report of Prior Art Search",
+        "documentName": "[우선심사신청]선행기술조사보고서",
+        "receiptDate": "2020.02.24",
+        "receiptNumber": "9-1-2020-0007446-94"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2020.06.18",
+        "receiptNumber": "4-1-2020-5134633-04"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.06.23",
+        "receiptNumber": "9-5-2020-0428738-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.07.23",
+        "receiptNumber": "1-1-2020-0770678-12"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.07.23",
+        "receiptNumber": "1-1-2020-0770679-57"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.09.24",
+        "receiptNumber": "9-5-2020-0660284-71"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.11.20",
+        "receiptNumber": "1-1-2020-1247811-99"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.11.20",
+        "receiptNumber": "1-1-2020-1247810-43"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.01.14",
+        "receiptNumber": "9-5-2021-0037353-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.07.29",
+        "receiptNumber": "4-1-2022-5178676-45"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020170124181.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c932274e3a66add912e77084dc28e15eb9bb8aba9f56ce5a1181aecdec03fc83a3ee5c2707fd6894835e18cfc54048888c564f9ce008f95c63c",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfb55cff1acd5e0bad65b8e78e25cc5af2560e4d1eb8b3ce903ea4bdcb18fb12ba7e92e44f5ec5a31dce371213703bfea5569e311d1f31fd1a"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "과학기술정보통신부",
+      "rndDuration": "2017.01.01 ~ 2017.12.31",
+      "rndManagingInstituteName": "기초과학연구원",
+      "rndProjectName": "캠퍼스연구단 연구사업",
+      "rndSpecialInstituteName": "기초과학연구원",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "식물 노화 및 생애주기의 시스템생물학적 연구",
+      "rndTaskNumber": "IBS-R013-D1-2017-a00"
+    }
+  }
+}

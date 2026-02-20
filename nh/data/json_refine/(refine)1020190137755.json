@@ -1,0 +1,534 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.10.31",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2019-0137755",
+      "claimCount": "7",
+      "examinerName": "홍성제",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "단백질 카이네이즈 D1 저해제를 포함하는 유방암 치료제 조성물",
+      "inventionTitleEng": "Therapeutic compositions for breast cancer containing  protein kinase D1",
+      "openDate": "2019.11.06",
+      "openNumber": "10-2019-0125278",
+      "originalApplicationDate": "2017.06.08",
+      "originalApplicationKind": "국내출원/분할",
+      "originalApplicationNumber": "10-2017-0071824",
+      "originalExaminationRequestDate": "2019.10.31",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2020.11.24",
+      "publicationNumber": "",
+      "registerDate": "2020.11.17",
+      "registerNumber": "10-2181813-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/506"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "인간 유방암의 특징 중 하나는 암 줄기세포성인데, 이는 자기개조 능력 및 약물 저항성으로 특징지어진다. 단백질 카이네이즈 D1 (PRKD1)은 많은 세포 과정의주요 조절자로서 기능하며 침윤성 유방암세포에서 저하조절된다. 본 발명은 PRKD1이 약물 저항성 특징이 있는 MCF-7-ADR 인간 유방암 세포에서 상향조절됨을 밝혔다. 또한, 본 발명자들은 miR-34a가 PRKD1 3'-UTR에 결합함으로써 PRKD1 발현이 음의 방향으로 조절됨을 밝혔다. MCF-7-ADR 세포에서 PRKD1 발현은 종양구 형성분석 수행 이후 증가하였다. 본 발명자들은 또 유방암 줄기세포에서 전위 miR-34a발현 또는 PRKD1 siRNA 처리에 의한 PRKD1 감소가 자기개조 능력을 억제함을 밝혔고, 나아가, PRKD1 저해제 CRT0066101이 인산화된 PKD/PKCμ를 감소시켜, GSK3/β-카테닌 신호전달을 통하여 유방암 줄기세포성을 억제함을 확인하였다. MCF-7-ADR 세포에서 PRKD1 저해는 또한 세포자기사멸 개시에 영향을 주었다. miR-34a 또는 CRT0066101로 처리된 누드 마우스의 종양에서는 종양 성장, 증식 및 유도된 세포자기사멸이 억제되었다. 이러한 결과는 새로운 miR-34a의 표적인 PRKD1 조절이 인간유방암에서 암세포 줄기성 및 약물 저항성을 극복하는데 기여할 것임을 입증한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020190137755",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20191031",
+      "document_name": "[분할출원]특허출원서",
+      "claim_count": 7,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "단백질 카이네이즈 D1(protein kinase D1)의 발현 또는 활성 억제제를 유효성분으로 함유하고,\n상기 발현 억제제는 단백질 카이네이즈 D1 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 작은 간섭 RNA(short interfering RNA) 및 짧은 헤어핀 RNA(short hairpin RNA)로 구성된 군으로부터 선택된 어느 하나이고,\n상기 활성 억제제는 단백질 카이네이즈 D1 단백질에 특이적으로 결합하는 화합물, 펩티드, 펩티드 미메틱스, 앱타머, 항체 및 CRT0066101로 구성된 군으로부터 선택된 어느 하나인,\n약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 상기 단백질 카이네이즈 D1은 서열번호 1로 기재되는 아미노산 서열을 갖는 것을 특징으로 하는, 약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 상기 유방암은 암 줄기세포 마커인 CD44+ 및 CD24-로 선별되는 것을 특징으로 하는, 약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 단백질 카이네이즈 D1 발현 또는 활성 억제제는 β-카테닌 발현을 억제하고, GSK3α 및 GSKβ 인산화을 억제하는 것을 특징으로 하는, 약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "단백질 카이네이즈 D1의 발현 또는 활성 억제제를 유효성분으로 함유하고,\n상기 발현 억제제는 단백질 카이네이즈 D1 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 작은 간섭 RNA(short interfering RNA) 및 짧은 헤어핀 RNA(short hairpin RNA)로 구성된 군으로부터 선택된 어느 하나이고,\n상기 활성 억제제는 단백질 카이네이즈 D1 단백질에 특이적으로 결합하는 화합물, 펩티드, 펩티드 미메틱스, 앱타머, 항체 및 CRT0066101로 구성된 군으로부터 선택된 어느 하나인,\n약물 저항성 유방암 재발 방지용 항암 보조제.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 5항에 있어서, 상기 단백질 카이네이즈 D1은 서열번호 1로 기재되는 아미노산 서열을 갖는 것을 특징으로 하는, 약물 저항성 유방암 재발 방지용 항암 보조제.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "개체에서 분리한 세포 또는 조직에서 단백질 카이네이즈 D1(protein kinase D1)의 발현 또는 활성을 측정하는 단계를 포함하는 약물 저항성 유방암 예후의 정보를 제공하기 위한 단백질 카이네이즈 D1 발현 또는 활성 측정 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20200722",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 7,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "단백질 카이네이즈 D1(protein kinase D1)의 발현 또는 활성 억제제를 유효성분으로 함유하고,상기 발현 억제제는 단백질 카이네이즈 D1 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 작은 간섭 RNA(short interfering RNA) 및 짧은 헤어핀 RNA(short hairpin RNA)로 구성된 군으로부터 선택된 어느 하나이고,상기 활성 억제제는 CRT0066101인,약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물로서,상기 약물 저항성 유방암은 독소루비신, 타목시펜 및 플루베스트란스로 이루어진 군에서 선택된 약물에 대한 저항성을 갖는 약물 저항성 유방암인, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, 상기 단백질 카이네이즈 D1은 서열번호 1로 기재되는 아미노산 서열을 갖는 것을 특징으로 하는, 약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, 상기 유방암은 암 줄기세포 마커인 CD44+ 및 CD24-로 선별되는 것을 특징으로 하는, 약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, 단백질 카이네이즈 D1 발현 또는 활성 억제제는 β-카테닌 발현을 억제하고, GSK3α 및 GSKβ 인산화을 억제하는 것을 특징으로 하는, 약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "단백질 카이네이즈 D1의 발현 또는 활성 억제제를 유효성분으로 함유하고,상기 발현 억제제는 단백질 카이네이즈 D1 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 작은 간섭 RNA(short interfering RNA) 및 짧은 헤어핀 RNA(short hairpin RNA)로 구성된 군으로부터 선택된 어느 하나이고,상기 활성 억제제는 CRT0066101인,약물 저항성 유방암 재발 방지용 항암 보조제로서,상기 약물 저항성 유방암은 독소루비신, 타목시펜 및 플루베스트란스로 이루어진 군에서 선택된 약물에 대한 저항성을 갖는 약물 저항성 유방암인, 항암 보조제.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 5항에 있어서, 상기 단백질 카이네이즈 D1은 서열번호 1로 기재되는 아미노산 서열을 갖는 것을 특징으로 하는, 약물 저항성 유방암 재발 방지용 항암 보조제.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "유방암을 갖는 개체에서 분리한 세포 또는 조직에서 단백질 카이네이즈 D1(protein kinase D1)의 발현 또는 활성을 측정하는 단계를 포함하는 약물 저항성 유방암 예후의 정보를 제공하기 위한 단백질 카이네이즈 D1 발현 또는 활성 측정 방법으로서,상기  단백질 카이네이즈 D1(protein kinase D1)의 발현 또는 활성이 정상 대조군에 비해 높은 경우 약물 저항성 유방암으로 판단하고, 상기 약물 저항성 유방암은 독소루비신, 타목시펜 및 플루베스트란스로 이루어진 군에서 선택된 약물에 대한 저항성을 갖는 약물 저항성 유방암인, 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20191031",
+        "document_name": "[분할출원]특허출원서",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "단백질 카이네이즈 D1(protein kinase D1)의 발현 또는 활성 억제제를 유효성분으로 함유하고,\n상기 발현 억제제는 단백질 카이네이즈 D1 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 작은 간섭 RNA(short interfering RNA) 및 짧은 헤어핀 RNA(short hairpin RNA)로 구성된 군으로부터 선택된 어느 하나이고,\n상기 활성 억제제는 단백질 카이네이즈 D1 단백질에 특이적으로 결합하는 화합물, 펩티드, 펩티드 미메틱스, 앱타머, 항체 및 CRT0066101로 구성된 군으로부터 선택된 어느 하나인,\n약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, 상기 단백질 카이네이즈 D1은 서열번호 1로 기재되는 아미노산 서열을 갖는 것을 특징으로 하는, 약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, 상기 유방암은 암 줄기세포 마커인 CD44+ 및 CD24-로 선별되는 것을 특징으로 하는, 약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, 단백질 카이네이즈 D1 발현 또는 활성 억제제는 β-카테닌 발현을 억제하고, GSK3α 및 GSKβ 인산화을 억제하는 것을 특징으로 하는, 약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "단백질 카이네이즈 D1의 발현 또는 활성 억제제를 유효성분으로 함유하고,\n상기 발현 억제제는 단백질 카이네이즈 D1 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 작은 간섭 RNA(short interfering RNA) 및 짧은 헤어핀 RNA(short hairpin RNA)로 구성된 군으로부터 선택된 어느 하나이고,\n상기 활성 억제제는 단백질 카이네이즈 D1 단백질에 특이적으로 결합하는 화합물, 펩티드, 펩티드 미메틱스, 앱타머, 항체 및 CRT0066101로 구성된 군으로부터 선택된 어느 하나인,\n약물 저항성 유방암 재발 방지용 항암 보조제.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 5항에 있어서, 상기 단백질 카이네이즈 D1은 서열번호 1로 기재되는 아미노산 서열을 갖는 것을 특징으로 하는, 약물 저항성 유방암 재발 방지용 항암 보조제.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "개체에서 분리한 세포 또는 조직에서 단백질 카이네이즈 D1(protein kinase D1)의 발현 또는 활성을 측정하는 단계를 포함하는 약물 저항성 유방암 예후의 정보를 제공하기 위한 단백질 카이네이즈 D1 발현 또는 활성 측정 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200121",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 3,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "단백질 카이네이즈 D1(protein kinase D1)의 발현 또는 활성 억제제를 유효성분으로 함유하고,\n상기 발현 억제제는 단백질 카이네이즈 D1 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 작은 간섭 RNA(short interfering RNA) 및 짧은 헤어핀 RNA(short hairpin RNA)로 구성된 군으로부터 선택된 어느 하나이고,\n상기 활성 억제제는 단백질 카이네이즈 D1 단백질에 특이적으로 결합하는 화합물, 펩티드, 펩티드 미메틱스, 앱타머, 항체 및 CRT0066101로 구성된 군으로부터 선택된 어느 하나인,\n약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물로서,\n상기 약물 저항성 유방암은 독소루비신, 타목시펜 및 플루베스트란스로 이루어진 군에서 선택된 약물에 대한 저항성을 갖는 약물 저항성 유방암인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "단백질 카이네이즈 D1의 발현 또는 활성 억제제를 유효성분으로 함유하고,\n상기 발현 억제제는 단백질 카이네이즈 D1 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 작은 간섭 RNA(short interfering RNA) 및 짧은 헤어핀 RNA(short hairpin RNA)로 구성된 군으로부터 선택된 어느 하나이고,\n상기 활성 억제제는 단백질 카이네이즈 D1 단백질에 특이적으로 결합하는 화합물, 펩티드, 펩티드 미메틱스, 앱타머, 항체 및 CRT0066101로 구성된 군으로부터 선택된 어느 하나인,\n약물 저항성 유방암 재발 방지용 항암 보조제로서,\n상기 약물 저항성 유방암은 독소루비신, 타목시펜 및 플루베스트란스로 이루어진 군에서 선택된 약물에 대한 저항성을 갖는 약물 저항성 유방암인, 항암 보조제.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "유방암을 갖는 개체에서 분리한 세포 또는 조직에서 단백질 카이네이즈 D1(protein kinase D1)의 발현 또는 활성을 측정하는 단계를 포함하는 약물 저항성 유방암 예후의 정보를 제공하기 위한 단백질 카이네이즈 D1 발현 또는 활성 측정 방법으로서,\n상기 단백질 카이네이즈 D1(protein kinase D1)의 발현 또는 활성이 정상 대조군에 비해 높은 경우 약물 저항성 유방암으로 판단하고, \n상기 약물 저항성 유방암은 독소루비신, 타목시펜 및 플루베스트란스로 이루어진 군에서 선택된 약물에 대한 저항성을 갖는 약물 저항성 유방암인, 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20200722",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "단백질 카이네이즈 D1(protein kinase D1)의 발현 또는 활성 억제제를 유효성분으로 함유하고,\n상기 발현 억제제는 단백질 카이네이즈 D1 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 작은 간섭 RNA(short interfering RNA) 및 짧은 헤어핀 RNA(short hairpin RNA)로 구성된 군으로부터 선택된 어느 하나이고,\n상기 활성 억제제는 CRT0066101인,\n약물 저항성 유방암 줄기세포 성장 억제용 약학적 조성물로서,\n상기 약물 저항성 유방암은 독소루비신, 타목시펜 및 플루베스트란스로 이루어진 군에서 선택된 약물에 대한 저항성을 갖는 약물 저항성 유방암인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "단백질 카이네이즈 D1의 발현 또는 활성 억제제를 유효성분으로 함유하고,\n상기 발현 억제제는 단백질 카이네이즈 D1 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 작은 간섭 RNA(short interfering RNA) 및 짧은 헤어핀 RNA(short hairpin RNA)로 구성된 군으로부터 선택된 어느 하나이고,\n상기 활성 억제제는 CRT0066101인,\n약물 저항성 유방암 재발 방지용 항암 보조제로서,\n상기 약물 저항성 유방암은 독소루비신, 타목시펜 및 플루베스트란스로 이루어진 군에서 선택된 약물에 대한 저항성을 갖는 약물 저항성 유방암인, 항암 보조제.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 7,
+      "after_claim_count": 2,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": {
+      "familyApplicationNumber": "1020170071824"
+    }
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 송파구...",
+      "code": "120180375412",
+      "country": "대한민국",
+      "engName": "GENINUS Inc.",
+      "name": "지니너스 주식회사"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 강남구...",
+        "code": "",
+        "country": "",
+        "engName": "Jong Hoon PARK",
+        "name": "박종훈"
+      },
+      {
+        "address": "서울특별시 은평구...",
+        "code": "",
+        "country": "",
+        "engName": "Do Yeon KIM",
+        "name": "김도연"
+      },
+      {
+        "address": "서울특별시 은평구...",
+        "code": "",
+        "country": "",
+        "engName": "Eun Young PARK",
+        "name": "박은영"
+      },
+      {
+        "address": "서울특별시 영등포구...",
+        "code": "",
+        "country": "",
+        "engName": "Kyung-Hee CHUN",
+        "name": "전경희"
+      },
+      {
+        "address": "서울시 용산구...",
+        "code": "",
+        "country": "",
+        "engName": "Eun Ji LEE",
+        "name": "이은지"
+      },
+      {
+        "address": "서울특별시 용산구...",
+        "code": "",
+        "country": "",
+        "engName": "Eun Sun CHANG",
+        "name": "장은선"
+      },
+      {
+        "address": "서울특별시 서대문구...",
+        "code": "",
+        "country": "",
+        "engName": "Hyeok-Gu KANG",
+        "name": "강혁구"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 논현로 **(양재동, 윈드스톤호피스텔빌딩) ****호(노바국제특허법률사무소)",
+      "code": "920110005661",
+      "country": "대한민국",
+      "engName": "Kim Bo Jung",
+      "name": "김보정"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "American Association for Cancer Research (2014)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Mol Cancer Ther",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application] Patent Application",
+        "documentName": "[분할출원]특허출원서",
+        "receiptDate": "2019.10.31",
+        "receiptNumber": "1-1-2019-1117828-80"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2019.11.21",
+        "receiptNumber": "9-5-2019-0842897-48"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2020.01.21",
+        "receiptNumber": "1-1-2020-0072356-32"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.01.21",
+        "receiptNumber": "1-1-2020-0072358-23"
+      },
+      {
+        "commonCodeName": "",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.01.21",
+        "receiptNumber": "1-1-2020-0072344-95"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment(Payer number)",
+        "documentName": "[출원서 등 보정]보정서(납부자번호)",
+        "receiptDate": "2020.01.31",
+        "receiptNumber": "1-1-2020-0102685-97"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2020.01.31",
+        "receiptNumber": "1-5-2020-0017587-31"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "",
+        "documentName": "보정의취하간주안내문",
+        "receiptDate": "2020.02.03",
+        "receiptNumber": "1-5-2020-0018645-60"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2020.06.26",
+        "receiptNumber": "9-5-2020-0439050-76"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2020.07.22",
+        "receiptNumber": "1-1-2020-0764934-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.07.22",
+        "receiptNumber": "1-1-2020-0764933-64"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2020.08.25",
+        "receiptNumber": "9-5-2020-0581056-92"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2020.10.26",
+        "receiptNumber": "1-1-2020-1134750-85"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020190137755.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e0017b4f682f08ae82a7b16117c8d493e22b44d53e221cae1a7027d74de7099ec3ca9160e20d2938dd6555f3d1215719e463eabb8ae932ef765",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf28d601de5f6da1a22dea82c0750e53744a72cbeb522fc000aaa55fa7732691ad6be8b98c0602950a44ee4d344fb2fc5e6f4bac61bb52f164"
+  },
+  "rndInfoArray": ""
+}

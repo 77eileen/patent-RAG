@@ -1,0 +1,2479 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.04.07",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7036014",
+      "claimCount": "16",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "CD19 항체 및 이의 사용 방법",
+      "inventionTitleEng": "CD19 ANTIBODIES AND METHODS OF USING THE SAME",
+      "openDate": "2022.01.14",
+      "openNumber": "10-2022-0006065",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.04.06",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2021.11.03"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 51/04"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 51/08"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본원은 일반적으로 CD19 단백질에 결합할 수 있는 면역글로불린-관련 조성물(예를 들어, 항체 또는 이의 항원 결합 단편)에 관한 것이다. 본 기술의 항체는 CD19 관련 자가면역 질환 또는 CD19 관련 암의 검출 또는 치료를 필요로 하는 대상체에서 CD19 관련 자가면역 질환 또는 CD19 관련 암을 검출 또는 치료하는 방법에 유용하다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217036014",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20211207",
+      "document_name": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+      "claim_count": 58,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "중쇄 면역글로불린 가변성 도메인(VH) 및 경쇄 면역글로불린 가변성 도메인(VL)을 포함하는 항체 또는 이의 항원 결합 단편으로서,\n(a) VH가 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되는 아미노산 서열을 포함하고/하거나;\n(b) VL이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 아미노산 서열을 포함하는\n항체 또는 이의 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \nIgG1, IgG2, IgG3, IgG4, IgA1, IgA2, IgM, IgD 및 IgE로 이루어진 군으로부터 선택되는 동종의 Fc 도메인을 추가로 포함하는, 항체 또는 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, \nN297A 및 K322A로 이루어진 군으로부터 선택되는 하나 이상의 아미노산 치환을 포함하는 IgG1 불변 영역을 포함하는, 항체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, \nS228P 돌연변이를 포함하는 IgG4 불변 영역을 포함하는, 항체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \nFab, F(ab')2, Fab', scFv 및 Fv로 이루어진 군으로부터 선택되는, 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, \n서열 식별 번호: 60 또는 서열 식별 번호: 61의 위치 29-118에 해당하는 아미노산 잔기를 포함하는 CD19 폴리펩티드에 결합하는, 항체 또는 항원 결합 단편.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 및 제6항 중 어느 한 항에 있어서, 항체가 단클론성 항체, 키메라 항체, 인간화 항체 또는 이중특이적 항체인, 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열 식별 번호: 22, 서열 식별 번호: 26, 서열 식별 번호: 29, 서열 식별 번호: 31, 서열 식별 번호: 45, 서열 식별 번호: 47, 또는 하나 이상의 보존적 아미노산 치환을 갖는 이의 변이체를 포함하는 중쇄(HC) 아미노산 서열; 및/또는\n서열 식별 번호: 20, 서열 식별 번호: 24, 서열 식별 번호: 28, 서열 식별 번호: 30, 서열 식별 번호: 44, 서열 식별 번호: 46, 또는 하나 이상의 보존적 아미노산 치환을 갖는 이의 변이체를 포함하는 경쇄(LC) 아미노산 서열\n을 포함하는 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서,\n서열 식별 번호: 22 및 서열 식별 번호: 20(chFMC63 x CD3 BsAb);\n서열 식별 번호: 26 및 서열 식별 번호: 24(BC250- hFMC63 VL-2/VH-1b x CD3 BsAb);\n서열 식별 번호: 29 및 서열 식별 번호: 28(mFMC63 x mC825 BsAb);\n서열 식별 번호: 31 및 서열 식별 번호: 30(mFMC63 x hC825 BsAb);\n서열 식별 번호: 45 및 서열 식별 번호: 44(hFMC63 VL-2VH-1b x mC825); 및\n서열 식별 번호: 47 및 서열 식별 번호: 46(hFMC63 VL-2VH-1b x hC825)\n으로 각각 이루어진 군으로부터 선택되는 HC 아미노산 서열 및 LC 아미노산 서열을 포함하는, 항체.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 서열 식별 번호: 17, 18 또는 19 중 어느 하나의 경쇄 면역글로불린 가변성 도메인 서열과 적어도 95% 동일한 경쇄 면역글로불린 가변성 도메인 서열; 및/또는 \n(b) 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 또는 12 중 어느 하나의 중쇄 면역글로불린 가변성 도메인 서열과 적어도 95% 동일한 중쇄 면역글로불린 가변성 도메인 서열\n을 포함하는 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 서열 식별 번호: 20, 24, 28, 30, 44 또는 46 중 어느 하나에 존재하는 LC 서열과 적어도 95% 동일한 LC 서열; 및/또는 \n(b) 서열 식별 번호: 22, 26, 29, 31, 45 또는 47 중 어느 하나에 존재하는 HC 서열과 적어도 95% 동일한 HC 서열\n을 포함하는 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 내지 제11항 중 어느 하나에 있어서, \n키메라 항체, 인간화 항체 또는 이중특이적 항체인, 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 내지 제12항 중 어느 한 항에 있어서, \n서열 식별 번호: 60 또는 서열 식별 번호: 61의 위치 29-118에 해당하는 아미노산 잔기를 포함하는 CD19 폴리펩티드에 결합하는, 항체.",
+          "refers_to": [
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 내지 제13항 중 어느 한 항에 있어서, \nN297A 및 K322A로 이루어진 군으로부터 선택되는 하나 이상의 아미노산 치환을 포함하는 IgG1 불변 영역을 포함하는, 항체.",
+          "refers_to": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 내지 제13항 중 어느 한 항에 있어서, \nS228P 돌연변이를 포함하는 IgG4 불변 영역을 포함하는, 항체.",
+          "refers_to": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열과 적어도 95% 동일한 아미노산 서열을 포함하는, 이중특이적 항체 또는 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서, 서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열을 포함하는, 항체 또는 항원 결합 단편.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편을 인코딩하는 재조합 핵산 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열 식별 번호: 21, 23, 25 및 27로 이루어진 군으로부터 선택되는 재조합 핵산 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항 또는 제19항의 재조합 핵산 서열을 포함하는 숙주 세포 또는 벡터.",
+          "refers_to": [
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항의 항체 또는 항원 결합 단편 및 악학적으로 허용가능한 담체를 포함하며, \n항체 또는 항원 결합 단편이 동위원소, 염료, 크로마젠, 조영제, 약물, 독소, 사이토카인, 효소, 효소 억제제, 호르몬, 호르몬 길항제, 성장 인자, 방사성핵종, 금속, 리포솜, 나노입자, RNA, DNA 또는 이들의 임의의 조합으로 이루어진 군으로부터 선택되는 작용제에 선택적으로 접합(conjugated)되는 것인,\n조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 내지 제17항 중 어느 한 항의 항체 및 악학적으로 허용가능한 담체를 포함하며,\n항체가 동위원소, 염료, 크로마젠, 조영제, 약물, 독소, 사이토카인, 효소, 효소 억제제, 호르몬, 호르몬 길항제, 성장 인자, 방사성핵종, 금속, 리포솜, 나노입자, RNA, DNA 또는 이들의 임의의 조합으로 이루어진 군으로부터 선택되는 작용제에 선택적으로 접합되는 것인,\n조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항, 제6항 및 제7항 중 어느 한 항에 있어서, \n항체가 α-1,6-푸코스 변형이 결여된 것인, 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 내지 제15항 중 어느 한 항에 있어서, \n항체가 α-1,6-푸코스 변형이 결여된 것인, 항체.",
+          "refers_to": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 또는 제12항에 있어서, \nT 세포, B-세포, 골수 세포, 형질 세포 또는 비만 세포에 결합하는, 이중특이적 항체.",
+          "refers_to": [
+            7,
+            12
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항, 제12항, 제16항 및 제17항 중 어느 한 항에 있어서, \nCD3, CD4, CD8, CD20, CD19, CD21, CD23, CD46, CD80, HLA-DR, CD74, CD19, CD14, CD15, CD16, CD123, TCR 감마/델타, NKp46, KIR 또는 소분자 DOTA 합텐에 결합하는, 이중특이적 항체 또는 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열 식별 번호: 22 및 서열 식별 번호: 20(chFMC63 x CD3 BsAb); \n서열 식별 번호: 26 및 서열 식별 번호: 24(BC250- hFMC63 VL-2/VH-1b x CD3 BsAb);\n서열 식별 번호: 29 및 서열 식별 번호: 28(mFMC63 x mC825 BsAb);\n서열 식별 번호: 31 및 서열 식별 번호: 30(mFMC63 x hC825 BsAb);\n서열 식별 번호: 45 및 서열 식별 번호: 44(hFMC63 VL-2VH-1b x mC825); 및\n서열 식별 번호: 47 및 서열 식별 번호: 46(hFMC63 VL-2VH-1b x hC825)\n으로 각각 이루어진 군으로부터 선택되는 서열을 각각 포함하는 HC 아미노산 서열 및 LC 아미노산 서열을 포함하는 항체를 유효량으로 대상체에게 투여하는 단계를 포함하고, \n항체가 CD19에 특이적으로 결합하는 것인, \nCD19 관련 암 또는 CD19 관련 자가면역 질환의 치료를 필요로 하는 대상체에서 CD19 관련 암 또는 CD19 관련 자가면역 질환을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열을 포함하는 이중특이적 항체 또는 항원 결합 단편을 유효량으로 대상체에게 투여하는 단계를 포함하는, CD19 관련 암 또는 CD19 관련 자가면역 질환의 치료를 필요로 하는 대상체에서 CD19 관련 암 또는 CD19 관련 자가면역 질환을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항 또는 제28항에 있어서, \nCD19 관련 암이 급성 골수성 백혈병, 골수이형성 증후군, 만성 골수성 백혈병, 만성 림프성 백혈병, 비-호지킨 림프종, 다발성 골수종, 형질세포종, 의미 미결정의 단클론성 감마글로불린증, 발덴스트롬 마크로글로불린혈증(림프형질세포성 림프종), 중쇄 질환, 일차성 아밀로이드증, 이식-후 림프구증식 장애, 호지킨 림프종, MALT 림프종, B 세포 림프종, 외투 세포 림프종, (배중심(germinal center)-유사) 미만성 거대 세포 림프종, 버킷 림프종, 이중 리니지(Bilineage) 백혈병, 이중 표현형 백혈병, 모발 세포 백혈병, 전구 B 급성 림프아구성 백혈병/림프종, 일차성 피부 모낭 중심 림프종, 소포 림프종 또는 변연부 B 세포 비-호지킨 림프종인, 방법.",
+          "refers_to": [
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항 또는 제28항에 있어서, \nCD19 관련 자가면역 질환이 다발성 경화증(MS), 류마티스 관절염(RA), 전신홍반루푸스, 부수종양성 증후군, 심상성천포창(Pemphigus Vulgaris), 2형 당뇨병 또는 이식편 대 숙주 질환인, 방법.",
+          "refers_to": [
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항 내지 제30항 중 어느 한 항에 있어서, \n항체 또는 항원 결합 단편이 추가 치료제와 별도로, 이에 후속하여 또는 이와 동시에 대상체에게 투여되는 것인, 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편을 유효량으로 대상체에게 투여하는 단계로서, 항체가 종양 발현 CD19에 국한되도록 구성되고 방사성 동위원소로 표지된 것인 단계; 및\n(b) 기준값 초과의 항체 또는 항원 결합 단편에 의해 방출되는 방사성 수준을 검출함으로써 대상체에서 종양의 존재를 검출하는 단계\n를 포함하는, 대상체의 종양을 생체내 검출하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제32항에 있어서, \n대상체가 CD19 관련 암을 가진 것으로 진단되거나 가진 것으로 의심되는, 방법.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제32항 또는 제33항에 있어서, \n항체 또는 항원 결합 단편에 의해 방출되는 방사성 수준이 양전자 방출 단층촬영 또는 단일 광자 방출 단층촬영(single photon emission computed tomography)을 사용하여 검출되는 것인, 방법.",
+          "refers_to": [
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제32항 내지 제34항 중 어느 한 항에 있어서, \n방사성핵종에 접합된 제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편을 포함하는 면역접합체(immunoconjugate)를 유효량으로 대상체에게 투여하는 단계를 추가로 포함하는 것인, 방법.",
+          "refers_to": [
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항에 있어서, \n방사성핵종이 알파 입자-방출 동위원소, 베타 입자-방출 동위원소, 오제(Auger)-이미터 또는 이들의 임의의 조합인, 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, \n베타 입자-방출 동위원소가 86Y, 90Y, 89Sr, 165Dy, 186Re, 188Re, 177Lu 및 67Cu로 이루어진 군으로부터 선택되는, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편 및 사용 설명서를 포함하는 키트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제38항에 있어서, \n제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편이 방사성 표지, 형광성 표지 및 색소생산성(chromogenic) 표지로 이루어진 군으로부터 선택되는 적어도 하나의 검출가능한 표지에 커플링되는, 키트.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제38항 또는 제39항에 있어서, \n제1항 내지 제17항 중 어느 한 항의 항체에 특이적으로 결합하는 2차 항체를 추가로 포함하는, 키트.",
+          "refers_to": [
+            38,
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항, 제12항, 제16항 및 제17항 중 어느 한 항에 있어서, \n이중특이적 항체가 방사성표지된 DOTA 합텐 및 CD19 항원에 결합하는, 이중특이적 항체 또는 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 방사성표지된 DOTA 합텐 및 제41항의 이중특이적 항체 또는 항원 결합 단편을 포함하고, CD19 발현 종양에 국한되도록 구성된 복합물을 유효량으로 대상체에게 투여하는 단계;\n(b) 복합물에 의해 방출되는 방사성 수준을 검출하는 단계; 및\n(c) 복합물에 의해 방출되는 방사성 수준이 기준값보다 높을 경우에 사전표적화된 방사선면역요법을 위한 대상체를 선정하는 단계\n를 포함하는, 사전표적화된 방사선면역요법을 위한 대상체를 선정하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "방사성표지된 DOTA 합텐 및 제41항의 이중특이적 항체 또는 항원 결합 단편을 포함하고, CD19 발현 종양에 국한되도록 구성된 복합물을 유효량으로 대상체에게 투여하는 단계를 포함하는, CD19 관련 암으로 진단된 대상체에서 방사선 요법에 대한 종양 민감도를 증가시키는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "방사성표지된 DOTA 합텐 및 제41항의 이중특이적 항체 또는 항원 결합 단편을 포함하고, CD19 발현 종양에 국한되도록 구성된 복합물을 유효량으로 대상체에게 투여하는 단계를 포함하는, 암의 치료를 필요로 하는 대상체에서 암을 치료하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) CD19 발현 종양에 국한되도록 구성된 제41항의 이중특이적 항체 또는 항원 결합 단편을 유효량으로 투여하는 단계; 및\n(b) 이중특이적 항체 또는 항원 결합 단편에 결합되도록 구성된 방사성표지된 DOTA 합텐을 유효량으로 대상체에게 투여하는 단계\n를 포함하는, CD19 관련 암으로 진단된 대상체에서 방사선 요법에 대한 종양 민감도를 증가시키는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) CD19 발현 종양에 국한되도록 구성된 제41항의 이중특이적 항체 또는 항원 결합 단편을 유효량으로 투여하는 단계; 및\n(b) 이중특이적 항체 또는 항원 결합 단편에 결합하도록 구성된 방사성표지된 DOTA 합텐을 유효량으로 대상체에게 투여하는 단계\n를 포함하는, 암의 치료를 필요로 하는 대상체에서 암을 치료하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제45항 또는 제46항에 있어서, \n방사성표지된 DOTA 합텐의 투여 전에, 클리어링제(clearing agent)를 유효량으로 대상체에게 투여하는 단계를 추가로 포함하는 것인, 방법.",
+          "refers_to": [
+            45,
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제42항 내지 제47항에 중 어느 한 항에 있어서, \n대상체가 인간인, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제42항 내지 제44항 중 어느 한 항에 있어서, \n복합물이 정맥내, 근육내, 동맥내, 척추강내, 피막내, 안와내, 피내, 복강내, 경기관경유(transtracheally), 피하, 뇌실내(intracerebroventricularly), 경구, 종양내 또는 비강내로 투여되는 것인, 방법.",
+          "refers_to": [
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제42항 내지 제49항 중 어느 한 항에 있어서, \n방사성표지된 DOTA 합텐이 알파 입자-방출 동위원소, 베타 입자-방출 동위원소 또는 오제-이미터를 포함하는 것인, 방법.",
+          "refers_to": [
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제42항 내지 제50항 중 어느 한 항에 있어서, \n방사성표지된 DOTA 합텐이 213Bi, 211At, 225Ac, 152Dy, 212Bi, 223Ra, 219Rn, 215Po, 211Bi, 221Fr, 217At, 255Fm, 86Y, 90Y, 89Sr, 165Dy, 186Re, 188Re, 177Lu, 67Cu, 111In, 67Ga, 51Cr, 58Co, 99mTc, 103mRh, 195mPt, 119Sb, 161Ho, 189mOs, 192Ir, 201Tl, 203Pb, 68Ga, 227Th 또는 64Cu를 포함하는 것인, 방법.",
+          "refers_to": [
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 폴리펩티드쇄를 포함하는 이중특이적 항원 결합 단편으로서, \n제1 폴리펩티드쇄가, N-말단에서 C-말단 방향으로,\n i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 중쇄 가변성 도메인;\n ii. 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커;\n iii. 제1 면역글로불린의 경쇄 가변성 도메인;\n iv. 아미노산 서열(GGGGS)4를 포함하는 가요성 펩티드 링커;\n v. 제2 에피토프에 특이적으로 결합할 수 있는 제2 면역글로불린의 중쇄 가변성 도메인;\n vi. 아미노산 서열(GGGGS)6를 포함하는 가요성 펩티드 링커;\n vii. 제2 면역글로불린의 경쇄 가변성 도메인; \n viii. 아미노산 서열 TPLGDTTHT를 포함하는 가요성 펩티드 링커 서열; 및\n ix. 자가-조립 분해(self-assembly disassembly, SADA) 폴리펩티드\n를 포함하고,\n제1 면역글로불린의 중쇄 가변성 도메인이 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되고/되거나; 제1 면역글로불린의 경쇄 가변성 도메인이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 것인,\n이중특이적 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 폴리펩티드쇄를 포함하는 이중특이적 항원 결합 단편으로서, \n제1 폴리펩티드쇄가, N-말단에서 C-말단 방향으로,\n i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 경쇄 가변성 도메인;\n ii. 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커;\n iii. 제1 면역글로불린의 중쇄 가변성 도메인;\n iv. 아미노산 서열(GGGGS)4를 포함하는 가요성 펩티드 링커;\n v. 제2 에피토프에 특이적으로 결합할 수 있는 제2 면역글로불린의 중쇄 가변성 도메인;\n vi. 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커;\n vii. 제2 면역글로불린의 경쇄 가변성 도메인; \n viii. 아미노산 서열 TPLGDTTHT를 포함하는 가요성 펩티드 링커 서열; 및\n ix. 자가-조립 분해(SADA) 폴리펩티드\n를 포함하고,\n제1 면역글로불린의 중쇄 가변성 도메인이 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되고/되거나; \n제1 면역글로불린의 경쇄 가변성 도메인이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 것인, \n이중특이적 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제52항 또는 제53항에 있어서, \nSADA 폴리펩티드가 사량체화, 오량체화 또는 육량체화 도메인을 포함하는, 항원 결합 단편.",
+          "refers_to": [
+            52,
+            53
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제54항에 있어서, \nSADA 폴리펩티드가 p53, p63, p73, hnRNPC, SNA-23, 스테핀 B, KCNQ4 또는 CBFA2T1 중 어느 하나의 사량체화 도메인을 포함하는, 항원 결합 단편.",
+          "refers_to": [
+            54
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제52항 내지 제55항 중 어느 한 항에 있어서, \n항원 결합 단편이 서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열을 포함하는, 항원 결합 단편.",
+          "refers_to": [
+            52,
+            53,
+            54,
+            55
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 폴리펩티드쇄, 제2 폴리펩티드쇄, 제3 폴리펩티드쇄 및 제4 폴리펩티드쇄를 포함하는 이중특이적 항체로서,\n제1 및 제2 폴리펩티드쇄가 서로 공유적으로 결합되고, \n제2 및 제3 폴리펩티드쇄가 서로 공유적으로 결합되고, \n제3 및 제4 폴리펩티드쇄가 서로 공유적으로 결합되고,\na. 제1 폴리펩티드쇄 및 제4 폴리펩티드쇄의 각각이, N-말단에서 C-말단 방향으로,\n i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 경쇄 가변성 도메인;\n ii. 제1 면역글로불린의 경쇄 불변 도메인;\n iii. 아미노산 서열(GGGGS)3을 포함하는 가요성 펩티드 링커; 및\n iv. 제2 면역글로불린의 경쇄 및 중쇄 가변성 도메인이 제2 에피토프에 특이적으로 결합할 수 있고, 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커를 통해 함께 연결되어 단일-쇄 가변성 단편을 형성하는 것인, 제2 면역글로불린의 상보성 중쇄 가변성 도메인에 연결되는 제2 면역글로불린의 경쇄 가변성 도메인 또는 제2 면역글로불린의 상보성 경쇄 가변성 도메인에 연결되는 제2 면역글로불린의 중쇄 가변성 도메인\n을 포함하고;\nb. 제2 폴리펩티드쇄 및 제3 폴리펩티드쇄의 각각이, N-말단에서 C-말단 방향으로,\n i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 중쇄 가변성 도메인; \n ii. 제1 면역글로불린의 중쇄 불변 도메인\n을 포함하고;\n제1 면역글로불린의 중쇄 가변성 도메인이 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되고/되거나; \n제1 면역글로불린의 경쇄 가변성 도메인이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 것인,\n이중특이적 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제57항에 있어서, \n제2 면역글로불린이 CD3, CD4, CD8, CD20, CD19, CD21, CD23, CD46, CD80, HLA-DR, CD74, CD19, CD14, CD15, CD16, CD123, TCR 감마/델타, NKp46, KIR 또는 소분자 DOTA 합텐에 결합하는, 이중특이적 항체.",
+          "refers_to": [
+            57
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20230406",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 58,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "중쇄 면역글로불린 가변성 도메인(VH) 및 경쇄 면역글로불린 가변성 도메인(VL)을 포함하는 항체 또는 이의 항원 결합 단편으로서,(a) VH가 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되는 아미노산 서열을 포함하고/하거나;(b) VL이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 아미노산 서열을 포함하는항체 또는 이의 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, IgG1, IgG2, IgG3, IgG4, IgA1, IgA2, IgM, IgD 및 IgE로 이루어진 군으로부터 선택되는 동종의 Fc 도메인을 추가로 포함하는, 항체 또는 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, N297A 및 K322A로 이루어진 군으로부터 선택되는 하나 이상의 아미노산 치환을 포함하는 IgG1 불변 영역을 포함하는, 항체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, S228P 돌연변이를 포함하는 IgG4 불변 영역을 포함하는, 항체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, Fab, F(ab')2, Fab', scFv 및 Fv로 이루어진 군으로부터 선택되는, 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 서열 식별 번호: 60 또는 서열 식별 번호: 61의 위치 29-118에 해당하는 아미노산 잔기를 포함하는 CD19 폴리펩티드에 결합하는, 항체 또는 항원 결합 단편.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 및 제6항 중 어느 한 항에 있어서, 항체가 단클론성 항체, 키메라 항체, 인간화 항체 또는 이중특이적 항체인, 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열 식별 번호: 22, 서열 식별 번호: 26, 서열 식별 번호: 29, 서열 식별 번호: 31, 서열 식별 번호: 45, 서열 식별 번호: 47, 또는 하나 이상의 보존적 아미노산 치환을 갖는 이의 변이체를 포함하는 중쇄(HC) 아미노산 서열; 및/또는서열 식별 번호: 20, 서열 식별 번호: 24, 서열 식별 번호: 28, 서열 식별 번호: 30, 서열 식별 번호: 44, 서열 식별 번호: 46, 또는 하나 이상의 보존적 아미노산 치환을 갖는 이의 변이체를 포함하는 경쇄(LC) 아미노산 서열을 포함하는 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서,서열 식별 번호: 22 및 서열 식별 번호: 20(chFMC63 x CD3 BsAb);서열 식별 번호: 26 및 서열 식별 번호: 24(BC250- hFMC63 VL-2/VH-1b x CD3 BsAb);서열 식별 번호: 29 및 서열 식별 번호: 28(mFMC63 x mC825 BsAb);서열 식별 번호: 31 및 서열 식별 번호: 30(mFMC63 x hC825 BsAb);서열 식별 번호: 45 및 서열 식별 번호: 44(hFMC63 VL-2VH-1b x mC825); 및서열 식별 번호: 47 및 서열 식별 번호: 46(hFMC63 VL-2VH-1b x hC825)으로 각각 이루어진 군으로부터 선택되는 HC 아미노산 서열 및 LC 아미노산 서열을 포함하는, 항체.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 서열 식별 번호: 17, 18 또는 19 중 어느 하나의 경쇄 면역글로불린 가변성 도메인 서열과 적어도 95% 동일한 경쇄 면역글로불린 가변성 도메인 서열; 및/또는 (b) 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 또는 12 중 어느 하나의 중쇄 면역글로불린 가변성 도메인 서열과 적어도 95% 동일한 중쇄 면역글로불린 가변성 도메인 서열을 포함하는 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 서열 식별 번호: 20, 24, 28, 30, 44 또는 46 중 어느 하나에 존재하는 LC 서열과 적어도 95% 동일한 LC 서열; 및/또는 (b) 서열 식별 번호: 22, 26, 29, 31, 45 또는 47 중 어느 하나에 존재하는 HC 서열과 적어도 95% 동일한 HC 서열을 포함하는 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항 내지 제11항 중 어느 하나에 있어서, 키메라 항체, 인간화 항체 또는 이중특이적 항체인, 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항 내지 제12항 중 어느 한 항에 있어서, 서열 식별 번호: 60 또는 서열 식별 번호: 61의 위치 29-118에 해당하는 아미노산 잔기를 포함하는 CD19 폴리펩티드에 결합하는, 항체.",
+          "refers_to": [
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항 내지 제13항 중 어느 한 항에 있어서, N297A 및 K322A로 이루어진 군으로부터 선택되는 하나 이상의 아미노산 치환을 포함하는 IgG1 불변 영역을 포함하는, 항체.",
+          "refers_to": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항 내지 제13항 중 어느 한 항에 있어서, S228P 돌연변이를 포함하는 IgG4 불변 영역을 포함하는, 항체.",
+          "refers_to": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열과 적어도 95% 동일한 아미노산 서열을 포함하는, 이중특이적 항체 또는 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, 서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열을 포함하는, 항체 또는 항원 결합 단편.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편을 인코딩하는 재조합 핵산 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열 식별 번호: 21, 23, 25 및 27로 이루어진 군으로부터 선택되는 재조합 핵산 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항 또는 제19항의 재조합 핵산 서열을 포함하는 숙주 세포 또는 벡터.",
+          "refers_to": [
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제7항 중 어느 한 항의 항체 또는 항원 결합 단편 및 악학적으로 허용가능한 담체를 포함하며, 항체 또는 항원 결합 단편이 동위원소, 염료, 크로마젠, 조영제, 약물, 독소, 사이토카인, 효소, 효소 억제제, 호르몬, 호르몬 길항제, 성장 인자, 방사성핵종, 금속, 리포솜, 나노입자, RNA, DNA 또는 이들의 임의의 조합으로 이루어진 군으로부터 선택되는 작용제에 선택적으로 접합(conjugated)되는 것인,조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항 내지 제17항 중 어느 한 항의 항체 및 악학적으로 허용가능한 담체를 포함하며,항체가 동위원소, 염료, 크로마젠, 조영제, 약물, 독소, 사이토카인, 효소, 효소 억제제, 호르몬, 호르몬 길항제, 성장 인자, 방사성핵종, 금속, 리포솜, 나노입자, RNA, DNA 또는 이들의 임의의 조합으로 이루어진 군으로부터 선택되는 작용제에 선택적으로 접합되는 것인,조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항, 제6항 및 제7항 중 어느 한 항에 있어서, 항체가 α-1,6-푸코스 변형이 결여된 것인, 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항 내지 제15항 중 어느 한 항에 있어서, 항체가 α-1,6-푸코스 변형이 결여된 것인, 항체.",
+          "refers_to": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항 또는 제12항에 있어서, T 세포, B-세포, 골수 세포, 형질 세포 또는 비만 세포에 결합하는, 이중특이적 항체.",
+          "refers_to": [
+            7,
+            12
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항, 제12항, 제16항 및 제17항 중 어느 한 항에 있어서, CD3, CD4, CD8, CD20, CD19, CD21, CD23, CD46, CD80, HLA-DR, CD74, CD19, CD14, CD15, CD16, CD123, TCR 감마/델타, NKp46, KIR 또는 소분자 DOTA 합텐에 결합하는, 이중특이적 항체 또는 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열 식별 번호: 22 및 서열 식별 번호: 20(chFMC63 x CD3 BsAb); 서열 식별 번호: 26 및 서열 식별 번호: 24(BC250- hFMC63 VL-2/VH-1b x CD3 BsAb);서열 식별 번호: 29 및 서열 식별 번호: 28(mFMC63 x mC825 BsAb);서열 식별 번호: 31 및 서열 식별 번호: 30(mFMC63 x hC825 BsAb);서열 식별 번호: 45 및 서열 식별 번호: 44(hFMC63 VL-2VH-1b x mC825); 및서열 식별 번호: 47 및 서열 식별 번호: 46(hFMC63 VL-2VH-1b x hC825)으로 각각 이루어진 군으로부터 선택되는 서열을 각각 포함하는 HC 아미노산 서열 및 LC 아미노산 서열을 포함하는 항체를 유효량으로 대상체에게 투여하는 단계를 포함하고, 항체가 CD19에 특이적으로 결합하는 것인, CD19 관련 암 또는 CD19 관련 자가면역 질환의 치료를 필요로 하는 대상체에서 CD19 관련 암 또는 CD19 관련 자가면역 질환을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열을 포함하는 이중특이적 항체 또는 항원 결합 단편을 유효량으로 대상체에게 투여하는 단계를 포함하는, CD19 관련 암 또는 CD19 관련 자가면역 질환의 치료를 필요로 하는 대상체에서 CD19 관련 암 또는 CD19 관련 자가면역 질환을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항 또는 제28항에 있어서, CD19 관련 암이 급성 골수성 백혈병, 골수이형성 증후군, 만성 골수성 백혈병, 만성 림프성 백혈병, 비-호지킨 림프종, 다발성 골수종, 형질세포종, 의미 미결정의 단클론성 감마글로불린증, 발덴스트롬 마크로글로불린혈증(림프형질세포성 림프종), 중쇄 질환, 일차성 아밀로이드증, 이식-후 림프구증식 장애, 호지킨 림프종, MALT 림프종, B 세포 림프종, 외투 세포 림프종, (배중심(germinal center)-유사) 미만성 거대 세포 림프종, 버킷 림프종, 이중 리니지(Bilineage) 백혈병, 이중 표현형 백혈병, 모발 세포 백혈병, 전구 B 급성 림프아구성 백혈병/림프종, 일차성 피부 모낭 중심 림프종, 소포 림프종 또는 변연부 B 세포 비-호지킨 림프종인, 방법.",
+          "refers_to": [
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항 또는 제28항에 있어서, CD19 관련 자가면역 질환이 다발성 경화증(MS), 류마티스 관절염(RA), 전신홍반루푸스, 부수종양성 증후군, 심상성천포창(Pemphigus Vulgaris), 2형 당뇨병 또는 이식편 대 숙주 질환인, 방법.",
+          "refers_to": [
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항 내지 제30항 중 어느 한 항에 있어서, 항체 또는 항원 결합 단편이 추가 치료제와 별도로, 이에 후속하여 또는 이와 동시에 대상체에게 투여되는 것인, 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편을 유효량으로 대상체에게 투여하는 단계로서, 항체가 종양 발현 CD19에 국한되도록 구성되고 방사성 동위원소로 표지된 것인 단계; 및(b) 기준값 초과의 항체 또는 항원 결합 단편에 의해 방출되는 방사성 수준을 검출함으로써 대상체에서 종양의 존재를 검출하는 단계를 포함하는, 대상체의 종양을 생체내 검출하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제32항에 있어서, 대상체가 CD19 관련 암을 가진 것으로 진단되거나 가진 것으로 의심되는, 방법.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제32항 또는 제33항에 있어서, 항체 또는 항원 결합 단편에 의해 방출되는 방사성 수준이 양전자 방출 단층촬영 또는 단일 광자 방출 단층촬영(single photon emission computed tomography)을 사용하여 검출되는 것인, 방법.",
+          "refers_to": [
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제32항 내지 제34항 중 어느 한 항에 있어서, 방사성핵종에 접합된 제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편을 포함하는 면역접합체(immunoconjugate)를 유효량으로 대상체에게 투여하는 단계를 추가로 포함하는 것인, 방법.",
+          "refers_to": [
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제35항에 있어서, 방사성핵종이 알파 입자-방출 동위원소, 베타 입자-방출 동위원소, 오제(Auger)-이미터 또는 이들의 임의의 조합인, 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 베타 입자-방출 동위원소가 86Y, 90Y, 89Sr, 165Dy, 186Re, 188Re, 177Lu 및 67Cu로 이루어진 군으로부터 선택되는, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편 및 사용 설명서를 포함하는 키트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제38항에 있어서, 제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편이 방사성 표지, 형광성 표지 및 색소생산성(chromogenic) 표지로 이루어진 군으로부터 선택되는 적어도 하나의 검출가능한 표지에 커플링되는, 키트.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제38항 또는 제39항에 있어서, 제1항 내지 제17항 중 어느 한 항의 항체에 특이적으로 결합하는 2차 항체를 추가로 포함하는, 키트.",
+          "refers_to": [
+            38,
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항, 제12항, 제16항 및 제17항 중 어느 한 항에 있어서, 이중특이적 항체가 방사성표지된 DOTA 합텐 및 CD19 항원에 결합하는, 이중특이적 항체 또는 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 방사성표지된 DOTA 합텐 및 제41항의 이중특이적 항체 또는 항원 결합 단편을 포함하고, CD19 발현 종양에 국한되도록 구성된 복합물을 유효량으로 대상체에게 투여하는 단계;(b) 복합물에 의해 방출되는 방사성 수준을 검출하는 단계; 및(c) 복합물에 의해 방출되는 방사성 수준이 기준값보다 높을 경우에 사전표적화된 방사선면역요법을 위한 대상체를 선정하는 단계를 포함하는, 사전표적화된 방사선면역요법을 위한 대상체를 선정하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "방사성표지된 DOTA 합텐 및 제41항의 이중특이적 항체 또는 항원 결합 단편을 포함하고, CD19 발현 종양에 국한되도록 구성된 복합물을 유효량으로 대상체에게 투여하는 단계를 포함하는, CD19 관련 암으로 진단된 대상체에서 방사선 요법에 대한 종양 민감도를 증가시키는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "방사성표지된 DOTA 합텐 및 제41항의 이중특이적 항체 또는 항원 결합 단편을 포함하고, CD19 발현 종양에 국한되도록 구성된 복합물을 유효량으로 대상체에게 투여하는 단계를 포함하는, 암의 치료를 필요로 하는 대상체에서 암을 치료하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) CD19 발현 종양에 국한되도록 구성된 제41항의 이중특이적 항체 또는 항원 결합 단편을 유효량으로 투여하는 단계; 및(b) 이중특이적 항체 또는 항원 결합 단편에 결합되도록 구성된 방사성표지된 DOTA 합텐을 유효량으로 대상체에게 투여하는 단계를 포함하는, CD19 관련 암으로 진단된 대상체에서 방사선 요법에 대한 종양 민감도를 증가시키는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) CD19 발현 종양에 국한되도록 구성된 제41항의 이중특이적 항체 또는 항원 결합 단편을 유효량으로 투여하는 단계; 및(b) 이중특이적 항체 또는 항원 결합 단편에 결합하도록 구성된 방사성표지된 DOTA 합텐을 유효량으로 대상체에게 투여하는 단계를 포함하는, 암의 치료를 필요로 하는 대상체에서 암을 치료하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제45항 또는 제46항에 있어서, 방사성표지된 DOTA 합텐의 투여 전에, 클리어링제(clearing agent)를 유효량으로 대상체에게 투여하는 단계를 추가로 포함하는 것인, 방법.",
+          "refers_to": [
+            45,
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제42항 내지 제47항에 중 어느 한 항에 있어서, 대상체가 인간인, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제42항 내지 제44항 중 어느 한 항에 있어서, 복합물이 정맥내, 근육내, 동맥내, 척추강내, 피막내, 안와내, 피내, 복강내, 경기관경유(transtracheally), 피하, 뇌실내(intracerebroventricularly), 경구, 종양내 또는 비강내로 투여되는 것인, 방법.",
+          "refers_to": [
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제42항 내지 제49항 중 어느 한 항에 있어서, 방사성표지된 DOTA 합텐이 알파 입자-방출 동위원소, 베타 입자-방출 동위원소 또는 오제-이미터를 포함하는 것인, 방법.",
+          "refers_to": [
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제42항 내지 제50항 중 어느 한 항에 있어서, 방사성표지된 DOTA 합텐이 213Bi, 211At, 225Ac, 152Dy, 212Bi, 223Ra, 219Rn, 215Po, 211Bi, 221Fr, 217At, 255Fm, 86Y, 90Y, 89Sr, 165Dy, 186Re, 188Re, 177Lu, 67Cu, 111In, 67Ga, 51Cr, 58Co, 99mTc, 103mRh, 195mPt, 119Sb, 161Ho, 189mOs, 192Ir, 201Tl, 203Pb, 68Ga, 227Th 또는 64Cu를 포함하는 것인, 방법.",
+          "refers_to": [
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1 폴리펩티드쇄를 포함하는 이중특이적 항원 결합 단편으로서, 제1 폴리펩티드쇄가, N-말단에서 C-말단 방향으로, i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 중쇄 가변성 도메인; ii. 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커; iii. 제1 면역글로불린의 경쇄 가변성 도메인; iv. 아미노산 서열(GGGGS)4를 포함하는 가요성 펩티드 링커; v. 제2 에피토프에 특이적으로 결합할 수 있는 제2 면역글로불린의 중쇄 가변성 도메인; vi. 아미노산 서열(GGGGS)6를 포함하는 가요성 펩티드 링커; vii. 제2 면역글로불린의 경쇄 가변성 도메인;  viii. 아미노산 서열 TPLGDTTHT를 포함하는 가요성 펩티드 링커 서열; 및 ix. 자가-조립 분해(self-assembly disassembly, SADA) 폴리펩티드를 포함하고,제1 면역글로불린의 중쇄 가변성 도메인이 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되고/되거나; 제1 면역글로불린의 경쇄 가변성 도메인이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 것인,이중특이적 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1 폴리펩티드쇄를 포함하는 이중특이적 항원 결합 단편으로서, 제1 폴리펩티드쇄가, N-말단에서 C-말단 방향으로, i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 경쇄 가변성 도메인; ii. 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커; iii. 제1 면역글로불린의 중쇄 가변성 도메인; iv. 아미노산 서열(GGGGS)4를 포함하는 가요성 펩티드 링커; v. 제2 에피토프에 특이적으로 결합할 수 있는 제2 면역글로불린의 중쇄 가변성 도메인; vi. 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커; vii. 제2 면역글로불린의 경쇄 가변성 도메인;  viii. 아미노산 서열 TPLGDTTHT를 포함하는 가요성 펩티드 링커 서열; 및 ix. 자가-조립 분해(SADA) 폴리펩티드를 포함하고,제1 면역글로불린의 중쇄 가변성 도메인이 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되고/되거나; 제1 면역글로불린의 경쇄 가변성 도메인이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 것인, 이중특이적 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제52항 또는 제53항에 있어서, SADA 폴리펩티드가 사량체화, 오량체화 또는 육량체화 도메인을 포함하는, 항원 결합 단편.",
+          "refers_to": [
+            52,
+            53
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제54항에 있어서, SADA 폴리펩티드가 p53, p63, p73, hnRNPC, SNA-23, 스테핀 B, KCNQ4 또는 CBFA2T1 중 어느 하나의 사량체화 도메인을 포함하는, 항원 결합 단편.",
+          "refers_to": [
+            54
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제52항 내지 제55항 중 어느 한 항에 있어서, 항원 결합 단편이 서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열을 포함하는, 항원 결합 단편.",
+          "refers_to": [
+            52,
+            53,
+            54,
+            55
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1 폴리펩티드쇄, 제2 폴리펩티드쇄, 제3 폴리펩티드쇄 및 제4 폴리펩티드쇄를 포함하는 이중특이적 항체로서,제1 및 제2 폴리펩티드쇄가 서로 공유적으로 결합되고, 제2 및 제3 폴리펩티드쇄가 서로 공유적으로 결합되고, 제3 및 제4 폴리펩티드쇄가 서로 공유적으로 결합되고,a. 제1 폴리펩티드쇄 및 제4 폴리펩티드쇄의 각각이, N-말단에서 C-말단 방향으로, i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 경쇄 가변성 도메인; ii. 제1 면역글로불린의 경쇄 불변 도메인; iii. 아미노산 서열(GGGGS)3을 포함하는 가요성 펩티드 링커; 및 iv. 제2 면역글로불린의 경쇄 및 중쇄 가변성 도메인이 제2 에피토프에 특이적으로 결합할 수 있고, 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커를 통해 함께 연결되어 단일-쇄 가변성 단편을 형성하는 것인, 제2 면역글로불린의 상보성 중쇄 가변성 도메인에 연결되는 제2 면역글로불린의 경쇄 가변성 도메인 또는 제2 면역글로불린의 상보성 경쇄 가변성 도메인에 연결되는 제2 면역글로불린의 중쇄 가변성 도메인을 포함하고;b. 제2 폴리펩티드쇄 및 제3 폴리펩티드쇄의 각각이, N-말단에서 C-말단 방향으로, i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 중쇄 가변성 도메인;  ii. 제1 면역글로불린의 중쇄 불변 도메인을 포함하고;제1 면역글로불린의 중쇄 가변성 도메인이 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되고/되거나; 제1 면역글로불린의 경쇄 가변성 도메인이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 것인,이중특이적 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제57항에 있어서, 제2 면역글로불린이 CD3, CD4, CD8, CD20, CD19, CD21, CD23, CD46, CD80, HLA-DR, CD74, CD19, CD14, CD15, CD16, CD123, TCR 감마/델타, NKp46, KIR 또는 소분자 DOTA 합텐에 결합하는, 이중특이적 항체.",
+          "refers_to": [
+            57
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20211207",
+        "document_name": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+        "claim_count": 58,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "중쇄 면역글로불린 가변성 도메인(VH) 및 경쇄 면역글로불린 가변성 도메인(VL)을 포함하는 항체 또는 이의 항원 결합 단편으로서,\n(a) VH가 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되는 아미노산 서열을 포함하고/하거나;\n(b) VL이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 아미노산 서열을 포함하는\n항체 또는 이의 항원 결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \nIgG1, IgG2, IgG3, IgG4, IgA1, IgA2, IgM, IgD 및 IgE로 이루어진 군으로부터 선택되는 동종의 Fc 도메인을 추가로 포함하는, 항체 또는 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, \nN297A 및 K322A로 이루어진 군으로부터 선택되는 하나 이상의 아미노산 치환을 포함하는 IgG1 불변 영역을 포함하는, 항체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, \nS228P 돌연변이를 포함하는 IgG4 불변 영역을 포함하는, 항체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \nFab, F(ab')2, Fab', scFv 및 Fv로 이루어진 군으로부터 선택되는, 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, \n서열 식별 번호: 60 또는 서열 식별 번호: 61의 위치 29-118에 해당하는 아미노산 잔기를 포함하는 CD19 폴리펩티드에 결합하는, 항체 또는 항원 결합 단편.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 및 제6항 중 어느 한 항에 있어서, 항체가 단클론성 항체, 키메라 항체, 인간화 항체 또는 이중특이적 항체인, 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열 식별 번호: 22, 서열 식별 번호: 26, 서열 식별 번호: 29, 서열 식별 번호: 31, 서열 식별 번호: 45, 서열 식별 번호: 47, 또는 하나 이상의 보존적 아미노산 치환을 갖는 이의 변이체를 포함하는 중쇄(HC) 아미노산 서열; 및/또는\n서열 식별 번호: 20, 서열 식별 번호: 24, 서열 식별 번호: 28, 서열 식별 번호: 30, 서열 식별 번호: 44, 서열 식별 번호: 46, 또는 하나 이상의 보존적 아미노산 치환을 갖는 이의 변이체를 포함하는 경쇄(LC) 아미노산 서열\n을 포함하는 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서,\n서열 식별 번호: 22 및 서열 식별 번호: 20(chFMC63 x CD3 BsAb);\n서열 식별 번호: 26 및 서열 식별 번호: 24(BC250- hFMC63 VL-2/VH-1b x CD3 BsAb);\n서열 식별 번호: 29 및 서열 식별 번호: 28(mFMC63 x mC825 BsAb);\n서열 식별 번호: 31 및 서열 식별 번호: 30(mFMC63 x hC825 BsAb);\n서열 식별 번호: 45 및 서열 식별 번호: 44(hFMC63 VL-2VH-1b x mC825); 및\n서열 식별 번호: 47 및 서열 식별 번호: 46(hFMC63 VL-2VH-1b x hC825)\n으로 각각 이루어진 군으로부터 선택되는 HC 아미노산 서열 및 LC 아미노산 서열을 포함하는, 항체.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 서열 식별 번호: 17, 18 또는 19 중 어느 하나의 경쇄 면역글로불린 가변성 도메인 서열과 적어도 95% 동일한 경쇄 면역글로불린 가변성 도메인 서열; 및/또는 \n(b) 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 또는 12 중 어느 하나의 중쇄 면역글로불린 가변성 도메인 서열과 적어도 95% 동일한 중쇄 면역글로불린 가변성 도메인 서열\n을 포함하는 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 서열 식별 번호: 20, 24, 28, 30, 44 또는 46 중 어느 하나에 존재하는 LC 서열과 적어도 95% 동일한 LC 서열; 및/또는 \n(b) 서열 식별 번호: 22, 26, 29, 31, 45 또는 47 중 어느 하나에 존재하는 HC 서열과 적어도 95% 동일한 HC 서열\n을 포함하는 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 내지 제11항 중 어느 하나에 있어서, \n키메라 항체, 인간화 항체 또는 이중특이적 항체인, 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 내지 제12항 중 어느 한 항에 있어서, \n서열 식별 번호: 60 또는 서열 식별 번호: 61의 위치 29-118에 해당하는 아미노산 잔기를 포함하는 CD19 폴리펩티드에 결합하는, 항체.",
+            "refers_to": [
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 내지 제13항 중 어느 한 항에 있어서, \nN297A 및 K322A로 이루어진 군으로부터 선택되는 하나 이상의 아미노산 치환을 포함하는 IgG1 불변 영역을 포함하는, 항체.",
+            "refers_to": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 내지 제13항 중 어느 한 항에 있어서, \nS228P 돌연변이를 포함하는 IgG4 불변 영역을 포함하는, 항체.",
+            "refers_to": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열과 적어도 95% 동일한 아미노산 서열을 포함하는, 이중특이적 항체 또는 항원 결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서, 서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열을 포함하는, 항체 또는 항원 결합 단편.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편을 인코딩하는 재조합 핵산 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열 식별 번호: 21, 23, 25 및 27로 이루어진 군으로부터 선택되는 재조합 핵산 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항 또는 제19항의 재조합 핵산 서열을 포함하는 숙주 세포 또는 벡터.",
+            "refers_to": [
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항의 항체 또는 항원 결합 단편 및 악학적으로 허용가능한 담체를 포함하며, \n항체 또는 항원 결합 단편이 동위원소, 염료, 크로마젠, 조영제, 약물, 독소, 사이토카인, 효소, 효소 억제제, 호르몬, 호르몬 길항제, 성장 인자, 방사성핵종, 금속, 리포솜, 나노입자, RNA, DNA 또는 이들의 임의의 조합으로 이루어진 군으로부터 선택되는 작용제에 선택적으로 접합(conjugated)되는 것인,\n조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 내지 제17항 중 어느 한 항의 항체 및 악학적으로 허용가능한 담체를 포함하며,\n항체가 동위원소, 염료, 크로마젠, 조영제, 약물, 독소, 사이토카인, 효소, 효소 억제제, 호르몬, 호르몬 길항제, 성장 인자, 방사성핵종, 금속, 리포솜, 나노입자, RNA, DNA 또는 이들의 임의의 조합으로 이루어진 군으로부터 선택되는 작용제에 선택적으로 접합되는 것인,\n조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항, 제6항 및 제7항 중 어느 한 항에 있어서, \n항체가 α-1,6-푸코스 변형이 결여된 것인, 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 내지 제15항 중 어느 한 항에 있어서, \n항체가 α-1,6-푸코스 변형이 결여된 것인, 항체.",
+            "refers_to": [
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 또는 제12항에 있어서, \nT 세포, B-세포, 골수 세포, 형질 세포 또는 비만 세포에 결합하는, 이중특이적 항체.",
+            "refers_to": [
+              7,
+              12
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항, 제12항, 제16항 및 제17항 중 어느 한 항에 있어서, \nCD3, CD4, CD8, CD20, CD19, CD21, CD23, CD46, CD80, HLA-DR, CD74, CD19, CD14, CD15, CD16, CD123, TCR 감마/델타, NKp46, KIR 또는 소분자 DOTA 합텐에 결합하는, 이중특이적 항체 또는 항원 결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열 식별 번호: 22 및 서열 식별 번호: 20(chFMC63 x CD3 BsAb); \n서열 식별 번호: 26 및 서열 식별 번호: 24(BC250- hFMC63 VL-2/VH-1b x CD3 BsAb);\n서열 식별 번호: 29 및 서열 식별 번호: 28(mFMC63 x mC825 BsAb);\n서열 식별 번호: 31 및 서열 식별 번호: 30(mFMC63 x hC825 BsAb);\n서열 식별 번호: 45 및 서열 식별 번호: 44(hFMC63 VL-2VH-1b x mC825); 및\n서열 식별 번호: 47 및 서열 식별 번호: 46(hFMC63 VL-2VH-1b x hC825)\n으로 각각 이루어진 군으로부터 선택되는 서열을 각각 포함하는 HC 아미노산 서열 및 LC 아미노산 서열을 포함하는 항체를 유효량으로 대상체에게 투여하는 단계를 포함하고, \n항체가 CD19에 특이적으로 결합하는 것인, \nCD19 관련 암 또는 CD19 관련 자가면역 질환의 치료를 필요로 하는 대상체에서 CD19 관련 암 또는 CD19 관련 자가면역 질환을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열을 포함하는 이중특이적 항체 또는 항원 결합 단편을 유효량으로 대상체에게 투여하는 단계를 포함하는, CD19 관련 암 또는 CD19 관련 자가면역 질환의 치료를 필요로 하는 대상체에서 CD19 관련 암 또는 CD19 관련 자가면역 질환을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항 또는 제28항에 있어서, \nCD19 관련 암이 급성 골수성 백혈병, 골수이형성 증후군, 만성 골수성 백혈병, 만성 림프성 백혈병, 비-호지킨 림프종, 다발성 골수종, 형질세포종, 의미 미결정의 단클론성 감마글로불린증, 발덴스트롬 마크로글로불린혈증(림프형질세포성 림프종), 중쇄 질환, 일차성 아밀로이드증, 이식-후 림프구증식 장애, 호지킨 림프종, MALT 림프종, B 세포 림프종, 외투 세포 림프종, (배중심(germinal center)-유사) 미만성 거대 세포 림프종, 버킷 림프종, 이중 리니지(Bilineage) 백혈병, 이중 표현형 백혈병, 모발 세포 백혈병, 전구 B 급성 림프아구성 백혈병/림프종, 일차성 피부 모낭 중심 림프종, 소포 림프종 또는 변연부 B 세포 비-호지킨 림프종인, 방법.",
+            "refers_to": [
+              27,
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항 또는 제28항에 있어서, \nCD19 관련 자가면역 질환이 다발성 경화증(MS), 류마티스 관절염(RA), 전신홍반루푸스, 부수종양성 증후군, 심상성천포창(Pemphigus Vulgaris), 2형 당뇨병 또는 이식편 대 숙주 질환인, 방법.",
+            "refers_to": [
+              27,
+              28
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항 내지 제30항 중 어느 한 항에 있어서, \n항체 또는 항원 결합 단편이 추가 치료제와 별도로, 이에 후속하여 또는 이와 동시에 대상체에게 투여되는 것인, 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편을 유효량으로 대상체에게 투여하는 단계로서, 항체가 종양 발현 CD19에 국한되도록 구성되고 방사성 동위원소로 표지된 것인 단계; 및\n(b) 기준값 초과의 항체 또는 항원 결합 단편에 의해 방출되는 방사성 수준을 검출함으로써 대상체에서 종양의 존재를 검출하는 단계\n를 포함하는, 대상체의 종양을 생체내 검출하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제32항에 있어서, \n대상체가 CD19 관련 암을 가진 것으로 진단되거나 가진 것으로 의심되는, 방법.",
+            "refers_to": [
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제32항 또는 제33항에 있어서, \n항체 또는 항원 결합 단편에 의해 방출되는 방사성 수준이 양전자 방출 단층촬영 또는 단일 광자 방출 단층촬영(single photon emission computed tomography)을 사용하여 검출되는 것인, 방법.",
+            "refers_to": [
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제32항 내지 제34항 중 어느 한 항에 있어서, \n방사성핵종에 접합된 제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편을 포함하는 면역접합체(immunoconjugate)를 유효량으로 대상체에게 투여하는 단계를 추가로 포함하는 것인, 방법.",
+            "refers_to": [
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항에 있어서, \n방사성핵종이 알파 입자-방출 동위원소, 베타 입자-방출 동위원소, 오제(Auger)-이미터 또는 이들의 임의의 조합인, 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, \n베타 입자-방출 동위원소가 86Y, 90Y, 89Sr, 165Dy, 186Re, 188Re, 177Lu 및 67Cu로 이루어진 군으로부터 선택되는, 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편 및 사용 설명서를 포함하는 키트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제38항에 있어서, \n제1항 내지 제17항 중 어느 한 항의 항체 또는 항원 결합 단편이 방사성 표지, 형광성 표지 및 색소생산성(chromogenic) 표지로 이루어진 군으로부터 선택되는 적어도 하나의 검출가능한 표지에 커플링되는, 키트.",
+            "refers_to": [
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제38항 또는 제39항에 있어서, \n제1항 내지 제17항 중 어느 한 항의 항체에 특이적으로 결합하는 2차 항체를 추가로 포함하는, 키트.",
+            "refers_to": [
+              38,
+              39
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항, 제12항, 제16항 및 제17항 중 어느 한 항에 있어서, \n이중특이적 항체가 방사성표지된 DOTA 합텐 및 CD19 항원에 결합하는, 이중특이적 항체 또는 항원 결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 방사성표지된 DOTA 합텐 및 제41항의 이중특이적 항체 또는 항원 결합 단편을 포함하고, CD19 발현 종양에 국한되도록 구성된 복합물을 유효량으로 대상체에게 투여하는 단계;\n(b) 복합물에 의해 방출되는 방사성 수준을 검출하는 단계; 및\n(c) 복합물에 의해 방출되는 방사성 수준이 기준값보다 높을 경우에 사전표적화된 방사선면역요법을 위한 대상체를 선정하는 단계\n를 포함하는, 사전표적화된 방사선면역요법을 위한 대상체를 선정하는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "방사성표지된 DOTA 합텐 및 제41항의 이중특이적 항체 또는 항원 결합 단편을 포함하고, CD19 발현 종양에 국한되도록 구성된 복합물을 유효량으로 대상체에게 투여하는 단계를 포함하는, CD19 관련 암으로 진단된 대상체에서 방사선 요법에 대한 종양 민감도를 증가시키는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "방사성표지된 DOTA 합텐 및 제41항의 이중특이적 항체 또는 항원 결합 단편을 포함하고, CD19 발현 종양에 국한되도록 구성된 복합물을 유효량으로 대상체에게 투여하는 단계를 포함하는, 암의 치료를 필요로 하는 대상체에서 암을 치료하는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) CD19 발현 종양에 국한되도록 구성된 제41항의 이중특이적 항체 또는 항원 결합 단편을 유효량으로 투여하는 단계; 및\n(b) 이중특이적 항체 또는 항원 결합 단편에 결합되도록 구성된 방사성표지된 DOTA 합텐을 유효량으로 대상체에게 투여하는 단계\n를 포함하는, CD19 관련 암으로 진단된 대상체에서 방사선 요법에 대한 종양 민감도를 증가시키는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) CD19 발현 종양에 국한되도록 구성된 제41항의 이중특이적 항체 또는 항원 결합 단편을 유효량으로 투여하는 단계; 및\n(b) 이중특이적 항체 또는 항원 결합 단편에 결합하도록 구성된 방사성표지된 DOTA 합텐을 유효량으로 대상체에게 투여하는 단계\n를 포함하는, 암의 치료를 필요로 하는 대상체에서 암을 치료하는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제45항 또는 제46항에 있어서, \n방사성표지된 DOTA 합텐의 투여 전에, 클리어링제(clearing agent)를 유효량으로 대상체에게 투여하는 단계를 추가로 포함하는 것인, 방법.",
+            "refers_to": [
+              45,
+              46
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제42항 내지 제47항에 중 어느 한 항에 있어서, \n대상체가 인간인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제42항 내지 제44항 중 어느 한 항에 있어서, \n복합물이 정맥내, 근육내, 동맥내, 척추강내, 피막내, 안와내, 피내, 복강내, 경기관경유(transtracheally), 피하, 뇌실내(intracerebroventricularly), 경구, 종양내 또는 비강내로 투여되는 것인, 방법.",
+            "refers_to": [
+              42,
+              43,
+              44
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제42항 내지 제49항 중 어느 한 항에 있어서, \n방사성표지된 DOTA 합텐이 알파 입자-방출 동위원소, 베타 입자-방출 동위원소 또는 오제-이미터를 포함하는 것인, 방법.",
+            "refers_to": [
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제42항 내지 제50항 중 어느 한 항에 있어서, \n방사성표지된 DOTA 합텐이 213Bi, 211At, 225Ac, 152Dy, 212Bi, 223Ra, 219Rn, 215Po, 211Bi, 221Fr, 217At, 255Fm, 86Y, 90Y, 89Sr, 165Dy, 186Re, 188Re, 177Lu, 67Cu, 111In, 67Ga, 51Cr, 58Co, 99mTc, 103mRh, 195mPt, 119Sb, 161Ho, 189mOs, 192Ir, 201Tl, 203Pb, 68Ga, 227Th 또는 64Cu를 포함하는 것인, 방법.",
+            "refers_to": [
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 폴리펩티드쇄를 포함하는 이중특이적 항원 결합 단편으로서, \n제1 폴리펩티드쇄가, N-말단에서 C-말단 방향으로,\n i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 중쇄 가변성 도메인;\n ii. 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커;\n iii. 제1 면역글로불린의 경쇄 가변성 도메인;\n iv. 아미노산 서열(GGGGS)4를 포함하는 가요성 펩티드 링커;\n v. 제2 에피토프에 특이적으로 결합할 수 있는 제2 면역글로불린의 중쇄 가변성 도메인;\n vi. 아미노산 서열(GGGGS)6를 포함하는 가요성 펩티드 링커;\n vii. 제2 면역글로불린의 경쇄 가변성 도메인; \n viii. 아미노산 서열 TPLGDTTHT를 포함하는 가요성 펩티드 링커 서열; 및\n ix. 자가-조립 분해(self-assembly disassembly, SADA) 폴리펩티드\n를 포함하고,\n제1 면역글로불린의 중쇄 가변성 도메인이 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되고/되거나; 제1 면역글로불린의 경쇄 가변성 도메인이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 것인,\n이중특이적 항원 결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 폴리펩티드쇄를 포함하는 이중특이적 항원 결합 단편으로서, \n제1 폴리펩티드쇄가, N-말단에서 C-말단 방향으로,\n i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 경쇄 가변성 도메인;\n ii. 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커;\n iii. 제1 면역글로불린의 중쇄 가변성 도메인;\n iv. 아미노산 서열(GGGGS)4를 포함하는 가요성 펩티드 링커;\n v. 제2 에피토프에 특이적으로 결합할 수 있는 제2 면역글로불린의 중쇄 가변성 도메인;\n vi. 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커;\n vii. 제2 면역글로불린의 경쇄 가변성 도메인; \n viii. 아미노산 서열 TPLGDTTHT를 포함하는 가요성 펩티드 링커 서열; 및\n ix. 자가-조립 분해(SADA) 폴리펩티드\n를 포함하고,\n제1 면역글로불린의 중쇄 가변성 도메인이 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되고/되거나; \n제1 면역글로불린의 경쇄 가변성 도메인이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 것인, \n이중특이적 항원 결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제52항 또는 제53항에 있어서, \nSADA 폴리펩티드가 사량체화, 오량체화 또는 육량체화 도메인을 포함하는, 항원 결합 단편.",
+            "refers_to": [
+              52,
+              53
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제54항에 있어서, \nSADA 폴리펩티드가 p53, p63, p73, hnRNPC, SNA-23, 스테핀 B, KCNQ4 또는 CBFA2T1 중 어느 하나의 사량체화 도메인을 포함하는, 항원 결합 단편.",
+            "refers_to": [
+              54
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제52항 내지 제55항 중 어느 한 항에 있어서, \n항원 결합 단편이 서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열을 포함하는, 항원 결합 단편.",
+            "refers_to": [
+              52,
+              53,
+              54,
+              55
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 폴리펩티드쇄, 제2 폴리펩티드쇄, 제3 폴리펩티드쇄 및 제4 폴리펩티드쇄를 포함하는 이중특이적 항체로서,\n제1 및 제2 폴리펩티드쇄가 서로 공유적으로 결합되고, \n제2 및 제3 폴리펩티드쇄가 서로 공유적으로 결합되고, \n제3 및 제4 폴리펩티드쇄가 서로 공유적으로 결합되고,\na. 제1 폴리펩티드쇄 및 제4 폴리펩티드쇄의 각각이, N-말단에서 C-말단 방향으로,\n i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 경쇄 가변성 도메인;\n ii. 제1 면역글로불린의 경쇄 불변 도메인;\n iii. 아미노산 서열(GGGGS)3을 포함하는 가요성 펩티드 링커; 및\n iv. 제2 면역글로불린의 경쇄 및 중쇄 가변성 도메인이 제2 에피토프에 특이적으로 결합할 수 있고, 아미노산 서열(GGGGS)6을 포함하는 가요성 펩티드 링커를 통해 함께 연결되어 단일-쇄 가변성 단편을 형성하는 것인, 제2 면역글로불린의 상보성 중쇄 가변성 도메인에 연결되는 제2 면역글로불린의 경쇄 가변성 도메인 또는 제2 면역글로불린의 상보성 경쇄 가변성 도메인에 연결되는 제2 면역글로불린의 중쇄 가변성 도메인\n을 포함하고;\nb. 제2 폴리펩티드쇄 및 제3 폴리펩티드쇄의 각각이, N-말단에서 C-말단 방향으로,\n i. 제1 에피토프에 특이적으로 결합할 수 있는 제1 면역글로불린의 중쇄 가변성 도메인; \n ii. 제1 면역글로불린의 중쇄 불변 도메인\n을 포함하고;\n제1 면역글로불린의 중쇄 가변성 도메인이 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되고/되거나; \n제1 면역글로불린의 경쇄 가변성 도메인이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 것인,\n이중특이적 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제57항에 있어서, \n제2 면역글로불린이 CD3, CD4, CD8, CD20, CD19, CD21, CD23, CD46, CD80, HLA-DR, CD74, CD19, CD14, CD15, CD16, CD123, TCR 감마/델타, NKp46, KIR 또는 소분자 DOTA 합텐에 결합하는, 이중특이적 항체.",
+            "refers_to": [
+              57
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20230406",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 58,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "중쇄 면역글로불린 가변성 도메인(VH) 및 경쇄 면역글로불린 가변성 도메인(VL)을 포함하는 항체 또는 이의 항원 결합 단편으로서,\n(a) VH가 서열 식별 번호: 5, 6, 7, 8, 9, 10, 11 및 12로 이루어진 군으로부터 선택되는 아미노산 서열을 포함하고/하거나;\n(b) VL이 서열 식별 번호: 17, 서열 식별 번호: 18 및 서열 식별 번호: 19로 이루어진 군으로부터 선택되는 아미노산 서열을 포함하고, 선택적으로\n항체 또는 항원 결합 단편이 서열 식별 번호: 60 또는 서열 식별 번호: 61의 위치 29-118에 해당하는 아미노산 잔기를 포함하는 CD19 폴리펩티드에 결합하거나,\n항체가 단클론성 항체, 키메라 항체, 인간화 항체 또는 이중특이적 항체이거나, 항원 결합 단편이 Fab, F(ab')2, Fab', scFv 및 Fv로 이루어진 군으로부터 선택되거나,\n이중특이적 항체가 T 세포, B-세포, 골수 세포, 형질 세포 또는 비만 세포에 결합하거나, 이중특이적 항체 또는 항원 결합 단편이 CD3, CD4, CD8, CD20, CD19, CD21, CD23, CD46, CD80, HLA-DR, CD74, CD19, CD14, CD15, CD16, CD123, TCR 감마/델타, NKp46, KIR 또는 소분자 DOTA 합텐에 결합하는,\n항체 또는 이의 항원 결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, \nIgG1, IgG2, IgG3, IgG4, IgA1, IgA2, IgM, IgD 및 IgE로 이루어진 군으로부터 선택되는 동종의 Fc 도메인을 추가로 포함하고, 선택적으로\nIgG1이 N297A 및 K322A로 이루어진 군으로부터 선택되는 하나 이상의 아미노산 치환을 포함하거나,\nIgG4가 S228P 돌연변이를 포함하거나,\n항체가 α-1,6-푸코스 변형이 결여된 것인,\n항체 또는 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열 식별 번호: 22, 서열 식별 번호: 26, 서열 식별 번호: 29, 서열 식별 번호: 31, 서열 식별 번호: 45, 서열 식별 번호: 47, 또는 하나 이상의 보존적 아미노산 치환을 갖는 이의 변이체를 포함하는 중쇄(HC) 아미노산 서열, 및/또는\n서열 식별 번호: 20, 서열 식별 번호: 24, 서열 식별 번호: 28, 서열 식별 번호: 30, 서열 식별 번호: 44, 서열 식별 번호: 46, 또는 하나 이상의 보존적 아미노산 치환을 갖는 이의 변이체를 포함하는 경쇄(LC) 아미노산 서열\n을 포함하고, 선택적으로 \n서열 식별 번호: 60 또는 서열 식별 번호: 61의 위치 29-118에 해당하는 아미노산 잔기를 포함하는 CD19 폴리펩티드에 결합하거나,\nα-1,6-푸코스 변형이 결여되거나,\n키메라 항체, 인간화 항체 또는 이중특이적 항체이고, 선택적으로 이중특이적 항체가 T 세포, B-세포, 골수 세포, 형질 세포 또는 비만 세포에 결합하거나, 이중특이적 항체가 CD3, CD4, CD8, CD20, CD19, CD21, CD23, CD46, CD80, HLA-DR, CD74, CD19, CD14, CD15, CD16, CD123, TCR 감마/델타, NKp46, KIR 또는 소분자 DOTA 합텐에 결합하는,\n항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서,\n서열 식별 번호: 22 및 서열 식별 번호: 20(chFMC63 x CD3 BsAb);\n서열 식별 번호: 26 및 서열 식별 번호: 24(BC250- hFMC63 VL-2/VH-1b x CD3 BsAb);\n서열 식별 번호: 29 및 서열 식별 번호: 28(mFMC63 x mC825 BsAb);\n서열 식별 번호: 31 및 서열 식별 번호: 30(mFMC63 x hC825 BsAb);\n서열 식별 번호: 45 및 서열 식별 번호: 44(hFMC63 VL-2VH-1b x mC825); 및\n서열 식별 번호: 47 및 서열 식별 번호: 46(hFMC63 VL-2VH-1b x hC825)\n으로 각각 이루어진 군으로부터 선택되는 HC 아미노산 서열 및 LC 아미노산 서열을 포함하는, 항체.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열 식별 번호: 32-43 또는 48-59 중 어느 하나로부터 선택되는 아미노산 서열을 포함하는 이중특이적 항체 또는 항원 결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항의 항체 또는 항원 결합 단편을 인코딩하고, 선택적으로 서열 식별 번호: 21, 23, 25 및 27로 이루어진 군으로부터 선택되는 재조합 핵산 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항의 재조합 핵산 서열을 포함하는 숙주 세포 또는 벡터.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항의 항체 또는 항원 결합 단편 및 악학적으로 허용가능한 담체를 포함하며, \n항체 또는 항원 결합 단편이 동위원소, 염료, 크로마젠, 조영제, 약물, 독소, 사이토카인, 효소, 효소 억제제, 호르몬, 호르몬 길항제, 성장 인자, 방사성핵종, 금속, 리포솜, 나노입자, RNA, DNA 또는 이들의 임의의 조합으로 이루어진 군으로부터 선택되는 작용제에 선택적으로 접합(conjugated)되는,\n조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항 또는 제5항의 항체를 포함하는, CD19 관련 암 또는 CD19 관련 자가면역 질환의 치료를 필요로 하는 대상체에서 CD19 관련 암 또는 CD19 관련 자가면역 질환을 치료하기 위한 약학 조성물로서,\n항체가 CD19에 특이적으로 결합하고, 선택적으로\nCD19 관련 암이 급성 골수성 백혈병, 골수이형성 증후군, 만성 골수성 백혈병, 만성 림프성 백혈병, 비-호지킨 림프종, 다발성 골수종, 형질세포종, 의미 미결정의 단클론성 감마글로불린증, 발덴스트롬 마크로글로불린혈증(림프형질세포성 림프종), 중쇄 질환, 일차성 아밀로이드증, 이식-후 림프구증식 장애, 호지킨 림프종, MALT 림프종, B 세포 림프종, 외투 세포 림프종, (배중심(germinal center)-유사) 미만성 거대 세포 림프종, 버킷 림프종, 이중 리니지(Bilineage) 백혈병, 이중 표현형 백혈병, 모발 세포 백혈병, 전구 B 급성 림프아구성 백혈병/림프종, 일차성 피부 모낭 중심 림프종, 소포 림프종 또는 변연부 B 세포 비-호지킨 림프종이거나,\nCD19 관련 자가면역 질환이 다발성 경화증(MS), 류마티스 관절염(RA), 전신홍반루푸스, 부수종양성 증후군, 심상성천포창(Pemphigus Vulgaris), 2형 당뇨병 또는 이식편 대 숙주 질환이거나,\n항체가 추가 치료제와 별도로, 이에 후속하여 또는 이와 동시에 대상체에 투여되도록 제형화되는,\n약학 조성물.",
+            "refers_to": [
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항의 항체 또는 항원 결합 단편을 포함하는, 대상체의 종양을 생체내 검출하기 위한 약학 조성물로서,\n항체 또는 항원 결합 단편이 종양 발현 CD19에 국한되도록 구성되고 방사성 동위원소로 표지되고, 선택적으로\n대상체가 CD19 관련 암을 가진 것으로 진단되거나 가진 것으로 의심되거나,\n항체 또는 항원 결합 단편에 의해 방출되는 방사성 수준이 양전자 방출 단층촬영 또는 단일 광자 방출 단층촬영(single photon emission computed tomography)을 사용하여 검출되는,\n약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, \n검출이 방사성핵종에 접합된 항체 또는 항원 결합 단편을 포함하는 면역접합체(immunoconjugate)를 유효량으로 대상체에게 투여하는 단계를 추가로 포함하고, 선택적으로 방사성핵종이 알파 입자-방출 동위원소, 베타 입자-방출 동위원소, 오제(Auger)-이미터 또는 이들의 임의의 조합이고, 선택적으로 베타 입자-방출 동위원소가 86Y, 90Y, 89Sr, 165Dy, 186Re, 188Re, 177Lu 및 67Cu로 이루어진 군으로부터 선택되는, 약학 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항의 항체 또는 항원 결합 단편 및 사용 설명서를 포함하고,\n제1항 내지 제5항 중 어느 한 항의 항체 또는 항원 결합 단편이 방사성 표지, 형광성 표지 및 색소생산성(chromogenic) 표지로 이루어진 군으로부터 선택되는 적어도 하나의 검출가능한 표지에 커플링되거나;\n제1항 내지 제5항 중 어느 한 항의 항체에 특이적으로 결합하는 2차 항체를 추가로 포함하는,\n키트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, \n이중특이적 항체가 방사성표지된 DOTA 합텐 및 CD19 항원에 결합하는, 이중특이적 항체 또는 항원 결합 단편.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "사전표적화된 방사선면역요법을 위한 대상체를 선정하기 위해 방사성표지된 DOTA 합텐 및 제13항의 이중특이적 항체 또는 항원 결합 단편을 포함하고,\nCD19 발현 종양에 국한되도록 구성되는,\n복합물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "CD19 관련 암으로 진단된 대상체에서 방사선 요법에 대한 종양 민감도를 증가시키거나 암의 치료를 필요로 하는 대상체에서 암을 치료하기 위해 방사성표지된 DOTA 합텐 및 제13항의 이중특이적 항체 또는 항원 결합 단편을 포함하고,\nCD19 발현 종양에 국한되도록 구성되는,\n복합물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "CD19 관련 암으로 진단된 대상체에서 방사선 요법에 대한 종양 민감도를 증가시키거나 암의 치료를 필요로 하는 대상체에서 암을 치료하는 방법에서 사용하기 위해 제13항의 이중특이적 항체 또는 항원 결합 단편을 포함하고, 방법이\n(a) CD19 발현 종양에 국한되도록 구성된 이중특이적 항체 또는 항원 결합 단편을 유효량으로 투여하는 단계; 및\n(b) 이중특이적 항체 또는 항원 결합 단편에 결합되도록 구성된 방사성표지된 DOTA 합텐을 유효량으로 대상체에게 투여하는 단계\n를 포함하고, 선택적으로\n방법이 방사성표지된 DOTA 합텐의 투여 전에, 클리어링제(clearing agent)를 유효량으로 대상체에게 투여하는 단계를 추가로 포함하거나, 대상체가 인간인,\n약학 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 58,
+      "after_claim_count": 58,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.10.15",
+      "internationOpenNumber": "WO2020210232",
+      "internationalApplicationDate": "2020.04.07",
+      "internationalApplicationNumber": "PCT/US2020/027071"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국, 뉴욕 *****, 뉴욕, 요크 애비뉴 ****",
+      "code": "520000222634",
+      "country": "미국",
+      "engName": "MEMORIAL SLOAN KETTERING CANCER CENTER",
+      "name": "메모리얼 슬로안 케터링 캔서 센터"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 뉴욕 ***** 뉴욕 요크 애...",
+        "code": "",
+        "country": "",
+        "engName": "CHEUNG, Nai-Kong V.",
+        "name": "청, 나이-콩 브이."
+      },
+      {
+        "address": "미국 뉴욕 ***** 뉴욕 요크 애...",
+        "code": "",
+        "country": "",
+        "engName": "HOSEINI, Sayed Shahabuddin",
+        "name": "호세이니, 사예드 샤하부딘"
+      },
+      {
+        "address": "미국 뉴욕 ***** 뉴욕 요크 애...",
+        "code": "",
+        "country": "",
+        "engName": "AHMED, Mahiuddin",
+        "name": "아흐메드, 마히우딘"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 중구 남대문로 **, *층(소공동, 한진빌딩 본관)",
+      "code": "920151000211",
+      "country": "대한민국",
+      "engName": "Lee & Ko IP",
+      "name": "특허법인광장리앤고"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2019.04.08",
+      "priorityApplicationNumber": "62/831,123"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.11.03",
+        "receiptNumber": "1-1-2021-1267757-13"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[New Translation under Article 201 of Patent Act or Article 35 of Utility Model Act] Submission of Document",
+        "documentName": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+        "receiptDate": "2021.12.07",
+        "receiptNumber": "1-1-2021-1419031-62"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.12.09",
+        "receiptNumber": "1-5-2021-0193807-10"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.04.06",
+        "receiptNumber": "1-1-2023-0388492-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.04.06",
+        "receiptNumber": "1-1-2023-0388509-13"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.10",
+        "receiptNumber": "9-5-2025-0973381-37"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217036014.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93d9a697ee3553ed4f1247da1905e714a4616b42982a7f3565d95e8c0995fef48750ca73cb7795c776aaf3a9f4c26e360bba3b339b233062f6",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf42a528a1caafe7f4f68c6c8ccbef8539466a68c9654b03b2be19d6a824e35ae79e0cb36470661d84bef469e6ef5959db5cdff0c72f455f32"
+  },
+  "rndInfoArray": ""
+}

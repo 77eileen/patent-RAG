@@ -1,0 +1,805 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.08.08",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0098347",
+      "claimCount": "2",
+      "examinerName": "",
+      "finalDisposal": "거절결정 후 재심사중",
+      "inventionTitle": "세포막단백질을 포함하는 지질나노구조물 복합체 및 이의 용도",
+      "inventionTitleEng": "Lipid nanostructure complex comprising cell membrane  protein, and uses thereof",
+      "openDate": "2024.02.15",
+      "openNumber": "10-2024-0020403",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.08.08",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 9/127"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 9/51"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/42"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 인간세포 유래 세포막단백질을 포함하는 지질나노구조물 복합체, 상기 지질나노구조물 복합체에 약물이 봉입(encapsulation)된 약물 전달체, 상기 약물 전달체를 포함하는 암치료용 약학 조성물 및 지질나노구조물 복합체의 제조방법에 관한 것이다. 본 발명의 지질나노구조물 복합체는 지질나노구조물의 표면 지질층에 HEK293T 세포 유래의 막단백질을 포함하여 면역세포의 식작용(phagocytosis) 억제효과를 가지며 외부물질의 반응에 의한 면역세포 활성화도 유발하지 않으므로 생체적합성을 높여 우수한 약물전달 효과를 갖는다. 특히, 본 발명의 지질나노구조물 복합체는 특정 암세포에 특이적으로 결합하는 리간드(ligand)를 결합할 경우, 암 표적성능이 매우 우수한 약물 전달 효과를 가짐을 시험관 내(in vitro) 및 생체 내(in vivo) 실험에서 입증 및 확인하였다. 따라서, 본 발명의 지질나노구조물 복합체는 다양한 종류의 암치료를 위한 약학 조성물의 활성성분으로 개발될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220098347",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220808",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 11,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(i) 지질나노구조물; 및 (ii) 상기 지질나노구조물의 표면 지질층(lipid layer)에 인간세포 유래 세포막단백질을 포함하는 지질나노구조물 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\n상기 인간세포는 HEK293T 세포인 것을 특징으로 하는 지질나노구조물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\n상기 지질나노구조물은 세포외소포체(extracellular vesicles), 리포좀 (liposome) 또는 지질나노입자(lipid nanoparticle)인 것을 특징으로 하는 지질나노구조물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\n상기 지질나노구조물 복합체는 세포막단백질 : 지질 = 1 : 10 - 2000의 중량비인 것을 특징으로 하는 지질나노구조물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\n상기 지질나노구조물의 표면 지질층은 표적세포에 특이적으로 결합하는 리간드(ligand)를 더 포함하는 것을 특징으로 하는 지질나노구조물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 5 항에 있어서,\n상기 리간드는 소분자(small molecule) 화합물, 압타머(aptamer), 펩타이드(peptide), 단백질 및 항체로 이루어지는 군에서 선택되는 1종 이상인 것을 특징으로 하는 지질나노구조물 복합체.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 6 항 중 어느 한 항에 따른 지질나노구조물 복합체에 약물이 봉입(encapsulation)된 약물 전달체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(i) 제 7 항에 따른 약물 전달체의 치료학적 유효량; 및 (ii) 약학적으로 허용되는 담체를 포함하는 암치료용 약학 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 8 항에 있어서, \n상기 암치료는 자궁경부암, 자궁암, 췌장암, 유방암, 담도암, 담낭암, 대장암, 식도암, 위암, 뇌암, 직장암, 폐암, 방광암, 신장암, 난소암, 전립선암, 두경부암, 피부암, 혈액암, 갑상선암, 부갑상선암, 골암, 소장암, 내분비선암, 부신암, 요도암 및 간암으로 이루어진 군에서 선택된 암을 치료하는 것을 특징으로 하는 약학 조성물",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다음의 단계를 포함하는 제 1 항 내지 제 6 항 중 어느 한 항에 따른 지질나노구조물 복합체의 제조방법:\n(a) 지질(lipid), 콜레스테롤(cholesterol) 및 폴리에틸렌 글리콜(polyethylen glycol)을 유기용매에 용해시켜 리포좀(liposome)을 준비하는 단계;\n(b) 인간세포로부터 세포막단백질을 분리하여 세포막단백질을 준비하는 단계; 및\n(c) 상기 준비된 리포좀과 세포막단백질을 혼합한 후 압출(extrusion)하여 지질나노구조물 복합체를 제조하는 단계.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 10 항에 있어서, \n상기 단계 (a)는 약물 봉입(encapsulation)하는 단계를 더 포함하는 것을 특징으로 하는 지질나노구조물 복합체의 제조방법.",
+          "refers_to": [
+            10
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20250929",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 11,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(i) 지질나노구조물; 및 (ii) 상기 지질나노구조물의 표면 지질층(lipid layer)에 인간세포 유래 세포막단백질을 포함하는 지질나노구조물 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서,상기 인간세포는 HEK293T 세포인 것을 특징으로 하는 지질나노구조물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서,상기 지질나노구조물은 세포외소포체(extracellular vesicles), 리포좀 (liposome) 또는 지질나노입자(lipid nanoparticle)인 것을 특징으로 하는 지질나노구조물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서,상기 지질나노구조물 복합체는 세포막단백질 : 지질 = 1 : 10 - 2000의 중량비인 것을 특징으로 하는 지질나노구조물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서,상기 지질나노구조물의 표면 지질층은 표적세포에 특이적으로 결합하는 리간드(ligand)를 더 포함하는 것을 특징으로 하는 지질나노구조물 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 5 항에 있어서,상기 리간드는 소분자(small molecule) 화합물, 압타머(aptamer), 펩타이드(peptide), 단백질 및 항체로 이루어지는 군에서 선택되는 1종 이상인 것을 특징으로 하는 지질나노구조물 복합체.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 6 항 중 어느 한 항에 따른 지질나노구조물 복합체에 약물이 봉입(encapsulation)된 약물 전달체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(i) 제 7 항에 따른 약물 전달체의 치료학적 유효량; 및 (ii) 약학적으로 허용되는 담체를 포함하는 암치료용 약학 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 8 항에 있어서, 상기 암치료는 자궁경부암, 자궁암, 췌장암, 유방암, 담도암, 담낭암, 대장암, 식도암, 위암, 뇌암, 직장암, 폐암, 방광암, 신장암, 난소암, 전립선암, 두경부암, 피부암, 혈액암, 갑상선암, 부갑상선암, 골암, 소장암, 내분비선암, 부신암, 요도암 및 간암으로 이루어진 군에서 선택된 암을 치료하는 것을 특징으로 하는 약학 조성물",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "다음의 단계를 포함하는 제 1 항 내지 제 6 항 중 어느 한 항에 따른 지질나노구조물 복합체의 제조방법:(a) 지질(lipid), 콜레스테롤(cholesterol) 및 폴리에틸렌 글리콜(polyethylen glycol)을 유기용매에 용해시켜 리포좀(liposome)을 준비하는 단계;(b) 인간세포로부터 세포막단백질을 분리하여 세포막단백질을 준비하는 단계; 및(c) 상기 준비된 리포좀과 세포막단백질을 혼합한 후 압출(extrusion)하여 지질나노구조물 복합체를 제조하는 단계.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항에 있어서, 상기 단계 (a)는 약물 봉입(encapsulation)하는 단계를 더 포함하는 것을 특징으로 하는 지질나노구조물 복합체의 제조방법.",
+          "refers_to": [
+            10
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220808",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 11,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(i) 지질나노구조물; 및 (ii) 상기 지질나노구조물의 표면 지질층(lipid layer)에 인간세포 유래 세포막단백질을 포함하는 지질나노구조물 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\n상기 인간세포는 HEK293T 세포인 것을 특징으로 하는 지질나노구조물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\n상기 지질나노구조물은 세포외소포체(extracellular vesicles), 리포좀 (liposome) 또는 지질나노입자(lipid nanoparticle)인 것을 특징으로 하는 지질나노구조물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\n상기 지질나노구조물 복합체는 세포막단백질 : 지질 = 1 : 10 - 2000의 중량비인 것을 특징으로 하는 지질나노구조물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\n상기 지질나노구조물의 표면 지질층은 표적세포에 특이적으로 결합하는 리간드(ligand)를 더 포함하는 것을 특징으로 하는 지질나노구조물 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 5 항에 있어서,\n상기 리간드는 소분자(small molecule) 화합물, 압타머(aptamer), 펩타이드(peptide), 단백질 및 항체로 이루어지는 군에서 선택되는 1종 이상인 것을 특징으로 하는 지질나노구조물 복합체.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 6 항 중 어느 한 항에 따른 지질나노구조물 복합체에 약물이 봉입(encapsulation)된 약물 전달체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(i) 제 7 항에 따른 약물 전달체의 치료학적 유효량; 및 (ii) 약학적으로 허용되는 담체를 포함하는 암치료용 약학 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8 항에 있어서, \n상기 암치료는 자궁경부암, 자궁암, 췌장암, 유방암, 담도암, 담낭암, 대장암, 식도암, 위암, 뇌암, 직장암, 폐암, 방광암, 신장암, 난소암, 전립선암, 두경부암, 피부암, 혈액암, 갑상선암, 부갑상선암, 골암, 소장암, 내분비선암, 부신암, 요도암 및 간암으로 이루어진 군에서 선택된 암을 치료하는 것을 특징으로 하는 약학 조성물",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다음의 단계를 포함하는 제 1 항 내지 제 6 항 중 어느 한 항에 따른 지질나노구조물 복합체의 제조방법:\n(a) 지질(lipid), 콜레스테롤(cholesterol) 및 폴리에틸렌 글리콜(polyethylen glycol)을 유기용매에 용해시켜 리포좀(liposome)을 준비하는 단계;\n(b) 인간세포로부터 세포막단백질을 분리하여 세포막단백질을 준비하는 단계; 및\n(c) 상기 준비된 리포좀과 세포막단백질을 혼합한 후 압출(extrusion)하여 지질나노구조물 복합체를 제조하는 단계.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 10 항에 있어서, \n상기 단계 (a)는 약물 봉입(encapsulation)하는 단계를 더 포함하는 것을 특징으로 하는 지질나노구조물 복합체의 제조방법.",
+            "refers_to": [
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20241209",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 11,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(i) 지질(lipid)에 의해 인공적으로 제조되며, 내부에 약물을 담지할 수 있는 공간이 형성된 지질나노구조 모사체; 및\n(ii) 상기 지질나노구조 모사체의 표면 지질층(lipid layer)에 인간세포 유래 세포막단백질 및 표적세포에 특이적으로 결합하는 리간드(ligand)을 포함하는 지질나노구조물 복합체인, 약물전달체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n상기 인간세포는 HEK293T 세포인 것을 특징으로 하는 약물전달체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n상기 지질나노구조 모사체는 리포좀 (liposome) 또는 지질나노입자(lipid nanoparticle)인 것을 특징으로 하는 약물전달체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n상기 지질나노구조물 복합체는 세포막단백질 : 지질 = 1 : 10 - 2000의 중량비인 것을 특징으로 하는 약물전달체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n상기 리간드는 소분자(small molecule) 화합물, 압타머(aptamer), 펩타이드(peptide), 단백질 및 항체로 이루어지는 군에서 선택되는 1종 이상인 것을 특징으로 하는 약물전달체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n상기 지질나노구조물 복합체에 약물이 봉입(encapsulation)된 약물 전달체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n상기 리간드는 자궁경부암 세포에 특이적으로 결합하는 폴레이트(folate) 화합물인, 약물 전달체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n상기 리간드는 췌장암 세포에 특이적으로 결합하는 NTSR-1 펩타이드인, 약물 전달체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "다음의 단계를 포함하는 제 1 항에 따른 지질나노구조물 복합체의 제조방법:\n(a) 지질(lipid), 콜레스테롤(cholesterol) 및 폴리에틸렌 글리콜(polyethylen glycol)을 유기용매에 용해시켜 리포좀(liposome)인 지질나노구조 모사체를 준비하는 단계;\n(b) 인간세포로부터 세포막단백질을 분리하여 세포막단백질을 준비하는 단계;\n(c) 상기 준비된 지질나노구조 모사체와 세포막단백질을 혼합한 후 압출(extrusion)하여 지질나노구조물 복합체를 제조하는 단계; 및\n(d) 상기 제조된 지질나노구조물 복합체 표면에 미세 유체(microfluidics) 방법으로 표적세포에 특이적으로 결합하는 리간드(ligand)를 결합시키는 단계.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 10 항에 있어서, \n상기 단계 (a)는 약물 봉입(encapsulation)하는 단계를 더 포함하는 것을 특징으로 하는 약물 전달체의 제조방법.",
+            "refers_to": [
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250929",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "지질(lipid)에 의해 인공적으로 제조되며, 내부에 약물을 담지할 수 있는 공간이 형성된 리포좀 (liposome)의 표면 지질층(lipid layer)에, HEK293T 세포 유래 세포막단백질 및 표적세포에 특이적으로 결합하는 리간드(ligand)을 형성시키되, 상기 리간드(ligand)는 미세 유체(microfluidics) 방법으로 리포좀의 표면 지질층(lipid layer)에 결합 형성시키고,\n상기 세포막단백질과 지질은 1 : 300의 중량비를 가지며,\n상기 리간드(ligand)는 자궁경부암세포에 특이적으로 결합하는 폴레이트(folate) 화합물, 또는 췌장암세포에 특이적으로 결합하는 NTSR-1 펩타이드인, 약물전달체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "다음의 단계를 포함하는 제 1 항에 따른 지질나노구조물 복합체의 제조방법:\n(a) 지질(lipid), 콜레스테롤(cholesterol) 및 폴리에틸렌 글리콜(polyethylen glycol)을 유기용매에 용해시켜 리포좀(liposome)인 지질나노구조 모사체를 준비하는 단계;\n(b) HEK293T 세포로부터 세포막단백질을 분리하여 세포막단백질을 준비하는 단계;\n(c) 상기 준비된 지질나노구조 모사체와 세포막단백질을 혼합한 후 압출(extrusion)하여 지질나노구조물 복합체를 제조하는 단계; 및\n(d) 상기 제조된 지질나노구조물 복합체 표면에 미세 유체(microfluidics) 방법으로, 자궁경부암세포에 특이적으로 결합하는 폴레이트(folate) 화합물, 또는 췌장암세포에 특이적으로 결합하는 NTSR-1 펩타이드인 리간드(ligand)를 결합시키는 단계",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 11,
+      "after_claim_count": 10,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 서초구...",
+      "code": "120200940350",
+      "country": "대한민국",
+      "engName": "SurgiNex Co.,Ltd.",
+      "name": "주식회사 서지넥스"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "충청남도 계룡시 장안로 **, ...",
+        "code": "",
+        "country": "",
+        "engName": "Kim, Ok Hee",
+        "name": "김옥희"
+      },
+      {
+        "address": "경기도 화성...",
+        "code": "",
+        "country": "",
+        "engName": "BAI CHENGZHE",
+        "name": "백성철"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 선릉로 ***, ***호(논현동,썬라이더빌딩)",
+      "code": "920121000224",
+      "country": "대한민국",
+      "engName": "Honesty&JR Partners Intellectual Property Law Group",
+      "name": "특허법인정안"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "CN111920769 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020180094232 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "CN110801518 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020210027080 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "연세대학교 석사학위논문. 2018",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.08.08",
+        "receiptNumber": "1-1-2022-0824766-01"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.10.28",
+        "receiptNumber": "4-1-2022-5253236-63"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2022.12.16",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2023.03.16",
+        "receiptNumber": "9-6-2024-0146873-57"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.09.24",
+        "receiptNumber": "9-5-2024-0809604-32"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2024.11.25",
+        "receiptNumber": "1-1-2024-1297917-84"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.12.09",
+        "receiptNumber": "1-1-2024-1360147-02"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.12.09",
+        "receiptNumber": "1-1-2024-1360148-47"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2025.06.27",
+        "receiptNumber": "9-5-2025-0610725-82"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.09.29",
+        "receiptNumber": "1-1-2025-1106899-50"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2025.09.29",
+        "receiptNumber": "1-1-2025-1106900-19"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220098347.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9349219f45fe26d536b59e32897081e7c59a997e9551472e1fe01434c5428e0e2d1fcf3a21e6aec37b9e7693706956b0ac8d9537740ebc58c9",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfbd1702667269dc4129d18e79b48e670e519d99991026a15f41740885f74ecfa72a8b7d444b523a9fceef1aba40dab8b5115e486ac34dd69b"
+  },
+  "rndInfoArray": ""
+}

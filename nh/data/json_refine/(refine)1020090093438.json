@@ -1,0 +1,632 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2009.09.30",
+      "applicationFlag": "",
+      "applicationNumber": "10-2009-0093438",
+      "claimCount": "13",
+      "examinerName": "이효진",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "ＣＸＣＲ3+ＣＣＲ4-를 발현하는 Ｔｈ1 세포와 수지상 세포를 이용한 세포독성 Ｔ 세포의 ｉｎ ｖｉｔｒｏ 유도방법",
+      "inventionTitleEng": "In vitro generation of cytotoxic T cells by using  CXCR3+CCR4-CD4+ T cells and dendritic cell",
+      "openDate": "2011.04.06",
+      "openNumber": "10-2011-0035633",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2009.09.30",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2012.03.09",
+      "publicationNumber": "",
+      "registerDate": "2012.01.30",
+      "registerNumber": "10-1112641-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/245"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 35/15"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0784"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/12"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 CXCR3+CCR4-를 발현하는 Th1 세포와 수지상 세포를 이용한 세포독성 T 세포의 in vitro 유도방법에 관한 것으로, 보다 상세하게는, CXCR3+CCR4-를 발현하는 Th1 세포는 미성숙 수지상 세포의 성숙을 유도하며, 이로부터 성숙된 수지상 세포는 in vitro에서 항원 특이 세포독성 T 세포를 유도할 수 있는 특성을 가지고 있어, 입양 T 세포 면역치료법에 적용할 수 있다.입양 면역치료(adoptive immunotherapy), 수지상 세포, 분화(differentiation), 성숙(maturation), 세포독성 T 세포(cytotoxic T lymphocyte), CCR4, CXCR3, Th 1 세포"
+    }
+  },
+  "claims": {
+    "application_number": "1020090093438",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20090930",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "CXCR3   high /CCR4   low 를 발현하는 Th1 세포를 포함하는 수지상 세포 성숙화 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "CXCR3   high /CCR4   low 를 발현하는 Th1 세포 및 미성숙 수지상 세포를 배양하는 단계를 포함하는 수지상 세포를 성숙시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "종양 또는 바이러스 항원이 감작된 수지상 세포; 및 CXCR3   high /CCR4   low 를 발현하는 Th1 세포를 포함하는 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 종양 항원이 Wilm's Tumor antigen 1 (WT-1) 펩타이드인 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 펩타이드는 서열번호 1에 기재된 아미노산 서열을 갖는 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 바이러스 항원이 Cytomegalovirus(CMV) 펩타이드인 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 펩타이드는 서열번호 2에 기재된 아미노산 서열을 갖는 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "종양 또는 바이러스 항원이 감작된 수지상 세포 및 CXCR3   high /CCR4   low 를 발현하는 Th1 세포를 이용하여 CD8   +  T 세포를 자극시키는 단계를 포함하는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 종양 항원이 Wilm's Tumor antigen 1 (WT-1) 펩타이드인 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 펩타이드는 서열번호 1에 기재된 아미노산 서열을 갖는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 바이러스 항원이 Cytomegalovirus(CMV) 펩타이드인 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 펩타이드는 서열번호 2에 기재된 아미노산 서열을 갖는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, CD8   +  T 세포는 종양 또는 바이러스 항원이 감작된 수지상 세포 및 CXCR3   high /CCR4   low 를 발현하는 Th1 세포에 대하여 세포수 대비 10 ∼ 20:2:1의 비율로 혼합되는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": [
+            8
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20110725",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "CXCR3high/CCR4low를 발현하는 Th1 세포를 포함하는 수지상 세포 성숙화 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "CXCR3high/CCR4low를 발현하는 Th1 세포 및 미성숙 수지상 세포를 배양하는 단계를 포함하는 수지상 세포를 성숙시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "CXCR3high/CCR4low를 발현하는 Th1 세포에 의해 성숙화되고, 종양 또는 바이러스 항원이 감작된 수지상 세포; 및CXCR3high/CCR4low를 발현하는 Th1 세포를 포함하는 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서,종양 항원이 Wilm''s Tumor antigen 1 (WT-1) 펩타이드인 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서,펩타이드는 서열번호 1에 기재된 아미노산 서열을 갖는 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서,바이러스 항원이 Cytomegalovirus(CMV) 펩타이드인 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서,펩타이드는 서열번호 2에 기재된 아미노산 서열을 갖는 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Th1 세포와 종양 또는 바이러스 항원이 감작된 성숙화된 수지상 세포를 자극원으로 하여 CD8+ T 세포로부터 항원 특이 세포독성 T 세포를 유도함에 있어서,미성숙 상태의 수지상 세포 및 CXCR3high/CCR4low를 발현하는 Th1 세포를 공동 배양하여 미성숙 상태의 수지상 세포를 성숙화 시키는 단계; 및상기 단계에서 성숙화된 수지상 세포를 종양 또는 바이러스 항원으로 감작시키고, 상기 항원이 감작된 수지상 세포와 CXCR3high/CCR4low를 발현하는 Th1 세포를 자극원으로 하여 CD8+ T 세포를 자극시키는 단계를 포함하는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서,종양 항원이 Wilm''s Tumor antigen 1 (WT-1) 펩타이드인 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서,펩타이드는 서열번호 1에 기재된 아미노산 서열을 갖는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서,바이러스 항원이 Cytomegalovirus(CMV) 펩타이드인 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서,펩타이드는 서열번호 2에 기재된 아미노산 서열을 갖는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서,CD8+ T 세포, 종양 또는 바이러스 항원이 감작된 수지상 세포 및 CXCR3high/CCR4low를 발현하는 Th1 세포는 10 ～ 20:1:2의 세포수 비율로 혼합되는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+          "refers_to": [
+            8
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20090930",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "CXCR3   high /CCR4   low 를 발현하는 Th1 세포를 포함하는 수지상 세포 성숙화 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "CXCR3   high /CCR4   low 를 발현하는 Th1 세포 및 미성숙 수지상 세포를 배양하는 단계를 포함하는 수지상 세포를 성숙시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "종양 또는 바이러스 항원이 감작된 수지상 세포; 및 CXCR3   high /CCR4   low 를 발현하는 Th1 세포를 포함하는 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 종양 항원이 Wilm's Tumor antigen 1 (WT-1) 펩타이드인 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 펩타이드는 서열번호 1에 기재된 아미노산 서열을 갖는 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 바이러스 항원이 Cytomegalovirus(CMV) 펩타이드인 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 펩타이드는 서열번호 2에 기재된 아미노산 서열을 갖는 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "종양 또는 바이러스 항원이 감작된 수지상 세포 및 CXCR3   high /CCR4   low 를 발현하는 Th1 세포를 이용하여 CD8   +  T 세포를 자극시키는 단계를 포함하는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, 종양 항원이 Wilm's Tumor antigen 1 (WT-1) 펩타이드인 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 펩타이드는 서열번호 1에 기재된 아미노산 서열을 갖는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, 바이러스 항원이 Cytomegalovirus(CMV) 펩타이드인 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 펩타이드는 서열번호 2에 기재된 아미노산 서열을 갖는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, CD8   +  T 세포는 종양 또는 바이러스 항원이 감작된 수지상 세포 및 CXCR3   high /CCR4   low 를 발현하는 Th1 세포에 대하여 세포수 대비 10 ∼ 20:2:1의 비율로 혼합되는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+            "refers_to": [
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20110725",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 3,
+        "claims": [
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "CXCR3   high /CCR4   low 를 발현하는 Th1 세포에 의해 성숙화되고, 종양 또는 바이러스 항원이 감작된 수지상 세포; 및 CXCR3   high /CCR4   low 를 발현하는 Th1 세포를 포함하는 종양 또는 바이러스성 질병 치료용 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "Th1 세포와 종양 또는 바이러스 항원이 감작된 성숙화된 수지상 세포를 자극원으로 하여 CD8   +  T 세포로부터 항원 특이 세포독성 T 세포를 유도함에 있어서, 미성숙 상태의 수지상 세포 및 CXCR3   high /CCR4   low 를 발현하는 Th1 세포를 공동 배양하여 미성숙 상태의 수지상 세포를 성숙화 시키는 단계; 및 상기 단계에서 성숙화된 수지상 세포를 종양 또는 바이러스 항원으로 감작시키고, 상기 항원이 감작된 수지상 세포와 CXCR3   high /CCR4   low 를 발현하는 Th1 세포를 자극원으로 하여 CD8   +  T 세포를 자극시키는 단계를 포함하는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, CD8   +  T 세포, 종양 또는 바이러스 항원이 감작된 수지상 세포 및 CXCR3   high /CCR4   low 를 발현하는 Th1 세포는 10 ∼ 20:1:2의 세포수 비율로 혼합되는 항원 특이 세포독성 T 세포를 in vitro 유도하는 방법.",
+            "refers_to": [
+              8
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 13,
+      "after_claim_count": 3,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 서초구...",
+      "code": "220050224041",
+      "country": "대한민국",
+      "engName": "THE CATHOLIC UNIVERSITY OF KOREA INDUSTRY-ACADEMIC COOPERATION FOUNDATION",
+      "name": "가톨릭대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "서울특별시 강남구...",
+      "code": "",
+      "country": "대한민국",
+      "engName": "KIM, Tai Gyu",
+      "name": "김태규"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 역삼로 *길 **, 신관 *층~*층, **층(역삼동, 광성빌딩)",
+      "code": "920081001218",
+      "country": "대한민국",
+      "engName": "DANA PATENT LAW FIRM",
+      "name": "특허법인다나"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "Human Immunology, vol.66, pp.884-891 (2005)",
+      "examinerQuotationFlag": ""
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2009.09.30",
+        "receiptNumber": "1-1-2009-0604533-37"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2010.12.02",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2011.01.17",
+        "receiptNumber": "9-1-2011-0004043-72"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2011.01.19",
+        "receiptNumber": "4-1-2011-5012285-79"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2011.05.23",
+        "receiptNumber": "9-5-2011-0273827-85"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2011.07.25",
+        "receiptNumber": "1-1-2011-0573378-98"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2011.07.25",
+        "receiptNumber": "1-1-2011-0573377-42"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2012.01.25",
+        "receiptNumber": "9-5-2012-0049179-98"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2015.03.05",
+        "receiptNumber": "4-1-2015-0012383-55"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.11.21",
+        "receiptNumber": "4-1-2019-5245084-94"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "112009060453337-pat00004.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=fa3ecff0fa8c8029e6745331d5639d6ffa7805178d483a25cf65e0099a38ec22e2de43817966e9798aaf7866af47445f6babb9fab83c2269c2332d8fc45e8fa9ce17692e60279f027bf1733da3431427518c9e50f3c9ef89",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=cc5b559e0a8e79ad94da229281fe9c15360dfc4411b1c0e75ca2241e8a2ea067b22bd01d1f62ab4aedddc3e22fed2cec4a141474baf993ee9e9615e842ea96f0e7503f6f375b67eb4ac271d8bfa5cdcc47ad95c88b658398431e9516eae6a2d0"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "보건복지부",
+      "rndDuration": "2006년 05월 01일 ~ 2009년 03월 31일",
+      "rndManagingInstituteName": "가톨릭대학교 산학협력단",
+      "rndProjectName": "2006년 암정복 추진연구사업",
+      "rndSpecialInstituteName": "",
+      "rndTaskContribution": "",
+      "rndTaskName": "EBV유전자발현 양상별 EBV양성 종양의 화학면역병용 치료법 개발",
+      "rndTaskNumber": "0620320"
+    }
+  }
+}

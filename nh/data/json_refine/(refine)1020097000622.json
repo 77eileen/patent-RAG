@@ -1,0 +1,4497 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2007.06.12",
+      "applicationFlag": "",
+      "applicationNumber": "10-2009-7000622",
+      "claimCount": "36",
+      "examinerName": "이미옥",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "효과기 기능을 갖는 단일쇄 다가 결합 단백질",
+      "inventionTitleEng": "Single-chain multivalent binding proteins with effector function",
+      "openDate": "2009.06.10",
+      "openNumber": "10-2009-0059104",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2012.06.12",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2015.11.23",
+      "publicationNumber": "",
+      "registerDate": "2015.11.17",
+      "registerNumber": "10-1571027-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2009.01.12"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 면역글로불린 효과기 기능을 갖는 이특이적 결합 펩타이드를 포함하는 다가 결합 펩타이드, 이를 암호화하는 핵산, 벡터 및 숙주 세포, 및 이러한 펩타이드를 제조하는 방법 및 각종 질병, 질환 또는 상태를 치료하거나 또는 예방하고 이러한 질병, 질환 또는 상태와 관련된 하나 이상의 증상을 완화시키기 위해 이러한 펩타이드를 사용하는 방법을 제공한다.효과기 기능, 단일쇄 다가 결합 단백질, 면역글로불린, 면역계"
+    }
+  },
+  "claims": {
+    "application_number": "1020097000622",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20090112",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 98,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "a. 면역글로불린 또는 면역글로불린-유사 분자로부터 유래된 제1 결합 도메인; b. 제1 결합 도메인에 대해 C-말단에 위치한, 효과기 기능을 제공하는 면역글로불린 불변 하위영역(constant sub-region); c. 상기 불변 하위영역에 대해 C-말단에 위치한 스콜피온(scorpion) 링커; 및 d. 상기 불변 하위영역에 대해 C-말단에 위치한, 면역글로불린 또는 면역글로불린-유사 분자로부터 유래된 제2 결합 도메인 을 포함함으로써, 제1 결합 도메인과 제2 결합 도메인 사이에 상기 불변 하위영역이 위치하는, 효과기 기능을 갖는 다가 단일쇄 결합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인이 제1 면역글로불린으로부터 유래된 가변 경쇄 영역 및 제2 면역글로불린으로부터 유래된 가변 중쇄 영역을 포함하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 제1 면역글로불린 및 제2 면역글로불린이 동일한 면역글로불린인 단백질.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제2 결합 도메인이 제1 면역글로불린으로부터 유래된 가변 경쇄 영역 및 제2 면역글로불린으로부터 유래된 가변 중쇄 영역을 포함하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 제1 면역글로불린 및 제2 면역글로불린이 동일한 면역글로불린인 단백질.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 분자 표적을 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 에피토프를 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 진핵 세포, 원핵 세포, 바이러스, 운반체(carrier) 또는 대상체 상에서 상이한 분자 표적을 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 물리적으로 상이한 진핵 세포, 원핵 세포, 바이러스, 운반체 또는 대상체와 관련된 분자 표적을 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 진핵 세포, 원핵 세포, 바이러스, 운반체 또는 대상체와 관련되지 않은 하나 이상의 분자 표적을 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인, 제2 결합 도메인 및 불변 하위영역이 각각 사람 면역글로불린으로부터 유래된 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 암세포상의 표적을 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 종양 항원, B-세포 표적, TNF 수용체 상과(superfamily) 구성원, 헤지호그계(Hedgehog family) 구성원, 수용체 타이로신 키나제, 프로테오글리칸-관련 분자, TGF-베타 상과 구성원, Wnt-관련 분자, 수용체 리간드, T-세포 표적, 수지상세포(Dendritic cell) 표적, NK 세포 표적, 단핵구/대식세포 표적 및 혈관신생 표적으로 이루어진 그룹 중에서 선택된 표적을 인식하는 단백질.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 종양 항원이 편평세포암종 항원 1, 평편세포암종 항원 2, 난소 암종 항원 CAl25, 뮤신(MUCIN) 1, CTCL 종양 항원 se1-1, CTCL 종양 항원  se14-3, CTCL 종양 항원 se20-4, CTCL 종양 항원 se20-9, CTCL 종양 항원 se33-1, CTCL 종양 항원 se37-2, CTCL 종양 항원 se57-1, CTCL 종양 항원 se89-1, 전립선-특이적 막 항원, 5T4 종양태아성 영양막 당단백질, Orf73 카포시 육종(Kaposi's sarcoma)-관련 헤르페스바이러스, MAGE-C1, MAGE-B1 항원, MAGE-B2 항원, MAGE-2 항원, MAGE-4a 항원, MAGE-4b 항원, 결장암 항원 NY-CO-45, 폐암 항원 NY-LU-12 변이체 A, 암 관련 표면 항원, 선암종 항원 ART1, 부종양성(paraneoplastic) 관련 뇌-고환-암 항원, 신경-종양학적 배쪽 항원 2, 간세포 암종 항원 유전자 520, 종양-관련 항원 CO-029, 종양-관련 항원 MAGE-X2, 활액 육종 X 브레이크포인트(breakpoint) 2, T 세포에 의해 인지되는 편평세포 암종 항원, 혈청학적으로 정의된 결장암 항원 1, 혈청학적으로 정의된 유방암 항원 NY-BR-15, 혈청학적으로 정의된 유방암 항원 NY-BR-16, 크로모그라닌 A; 부갑상선 분비 단백질 1, DUPAN-2, CA 19-9, CA 72-4, CA 195 및 L6으로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, B 세포 표적이 CD1O, CD19, CD20, CD21, CD22, CD23, CD24, CD37, CD38, CD39, CD40, CD72, CD73, CD74, CDw75, CDw76, CD77, CD78, CD79a/b, CD80, CD81, CD82, CD83, CD84, CD85, CD86, CD89, CD98, CD126, CD127, CDwl30, CD138 및 CDwl50으로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, TNF 수용체 상과 구성원이 4-1BB/TNFRSF9, NGF R/TNFRSF16, BAFF R/TNFRSF13C, 오스테오프로테게린/TNFRSF11B, BCMA/TNFRSF17,  OX40/TNFRSF4, CD27/TNFRSF7, RANK/TNFRSF11A, CD30/TNFRSF8, RELT/TNFRSF19L, CD40/TNFRSF5, TACI/TNFRSF13B, DcR3/TNFRSF6B, TNF RI/TNFRSF1A, DcTRAIL R1/TNFRSF23, TNF RII/TNFRSF1B, DcTRAIL R2/TNFRSF22, TRAIL R1/TNFRSF10A, DR3/TNFRSF25, TRAIL R2/TNFRSF10B, DR6/TNFRSF21, TRAIL R3/TNFRSF10C, EDAR, TRAIL R4/TNFRSF10D, Fas/TNFRSF6, TROY/TNFRSF19, GITR/TNFRSF18, TWEAK R/TNFRSF 12, HVEM/TNFRSF14, XEDAR, 림프독소 베타 R/TNFRSF3, 4-1BB 리간드/TNFSF9, 림프독소, APRIL/TNFSF13, 림프독소 베타/TNFSF3, BAFF/TNFSF13C, OX40 리간드/TNFSF4, CD27 리간드/TNFSF7, TL1A/TNFSF15, CD30 리간드/TNFSF8, TNF-알파/TNFSFIA, CD40 리간드/TNFSF5, TNF-베타/TNFSF1B, EDA-A2, TRAIL/TNFSF10, Fas 리간드/TNFSF6, TRANCE/TNFSF11, GITR 리간드/TNFSF18, TWEAK/TNFSF12 및 LIGHT/TNFSF14로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 헤지호그계 구성원이 패치드(Patched) 및 스무든드(Smoothened)로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 수용체 타이로신 키나제가 Ax1, FGF R4, C1q R1/CD93, FGF R5, DDR1, Flt-3, DDR2, HGF R, Dtk, IGF-I R, EGF R, IGF-II R, Eph, INSRR, EphA1, 인슐린 R/CD220, EphA2, M-CSF R, EphA3, Mer, EphA4, MSP R/Ron, EphA5, MuSK, EphA6, PDGF R 알파, EphA7, PDGF R 베타, EphA8, Ret, EphB1, ROR1, EphB2, R0R2, EphB3, SCF R/c-kit, EphB4, Tie-1, EphB6, Tie-2, ErbB2, TrkA, ErbB3,  TrkB, ErbB4, TrkC, FGF R1, VEGF R1/Flt-1, FGF R2, VEGF R2/Flk-1, FGF R3 및 VEGF R3/Flt-4로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 프로테오글리칸-관련 분자가 프로테오글리칸 및 이의 조절인자로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 형질전환 성장 인자(TGF)-베타 상과 구성원이 액티빈 RIA/ALK-2, GFR 알파-1, 액티빈 RIB/ALK-4, GFR 알파-2, 액티빈 RIIA, GFR 알파-3, 액티빈 RIIB, GFR 알파-4, ALK-1, MIS RII, ALK-7, Ret, BMPR-IA/ALK-3, TGF-베타 RI/ALK-5, BMPR-IB/ALK-6, TGF-베타 RII, BMPR-II, TGF-베타 RIIb, 엔도글린/CD105 및 TGF-베타 RIII로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, Wnt-관련 분자가 프리즐드(Frizzled)-1, 프리즐드-8, 프리즐드-2, 프리즐드-9, 프리즐드-3, sFRP-1, 프리즐드-4, sFRP-2, 프리즐드-5, sFRP-3, 프리즐드-6, sFRP-4, 프리즐드-7, MFRP, LRP 5, LRP 6, Wnt-1, Wnt-8a, Wnt-3a, Wnt-lOb, Wnt-4, Wnt-11, Wnt-5a, Wnt-9a 및 Wnt-7a로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 수용체 리간드가 4-1BB 리간드/TNFSF9, 림프독소, APRIL/TNFSF13, 림프독소 베타/TNFSF3, BAFF/TNFSF13C, OX40 리간드/TNFSF4, CD27  리간드/TNFSF7, TL1A/TNFSF15, CD30 리간드/TNFSF8, TNF-알파/TNFSF1A, CD40 리간드/TNFSF5, TNF-베타/TNFSF1B, EDA-A2, TRAIL/TNFSF10, Fas 리간드/TNFSF6, TRANCE/TNFSF11, GITR 리간드/TNFSF18, TWEAK/TNFSF12, LIGHT/TNFSF14, 앰피레귤린, NRG1 동형 GGF2, 베타셀룰린, NRG1 동형 SMDF, EGF, NRG 1-알파/HRG1-알파, 에피겐, NRG1-베타 1/HRG1-베타 1, 에피레귤린, TGF-알파, HB-EGF, TMEFF 1/토모레귤린-1, 뉴레귤린-3, TMEFF2, IGF-I, IGF-II, 인슐린, 액티빈 A, 액티빈 B, 액티빈 AB, 액티빈 C, BMP-2, BMP-7, BMP-3, BMP-8, BMP-3b/GDF-10, BMP-9, BMP-4, BMP- 15, BMP-5, 데카펜타플레직(Decapentaplegic), BMP-6, GDF-1, GDF-8, GDF-3, GDF-9, GDF-5, GDF-11, GDF-6, GDF-15, GDF-7, 아르테민, 뉴투린, GDNF, 페르세핀, TGF-베타, TGF-베타 2, TGF-베타 1, TGF-베타 3, LAP (TGF-베타 1), TGF-베타 5, 레이턴트(Latent) TGF-베타 1, 레이턴트 TGF-베타 bp1, TGF-베타 1.2, 레프티(Lefty), 노달(Nodal), MIS/AMH, FGF 산성, FGF-12, FGF 염기성, FGF-13, FGF-3, FGF-16, FGF-4, FGF-17, FGF-5, FGF-19, FGF-6, FGF-20, FGF-8, FGF-21, FGF-9, FGF-23, FGF-1O, KGF/FGF-7, FGF-11, 뉴로필린-1, P1GF, 뉴로필린-2, P1GF-2, PDGF, PDGF-A, VEGF, PDGF-B, VEGF-B, PDGF-C, VEGF-C, PDGF-D, VEGF-D 및 PDGF-AB로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, T-세포 수용체가 2B4/SLAMF4, IL-2R 알파, 4-1BB/TNFRSF9, IL-2R 베타, ALCAM, B7-1/CD80, IL-4R, B7-H3, BLAME/SLAMF8, BTLA, IL-6R, CCR3, IL-7R 알파, CCR4, CXCR1/IL-8 RA, CCR5, CCR6, IL-1OR 알파, CCR7, IL-1OR 베타,  CCR8, IL-12R 베타 1, CCR9, IL-12R 베타 2, CD2, IL-13R 알파 1, IL-13, CD3, CD4, ILT2/CD85j, ILT3/CD85k, ILT4/CD85d, ILT5/CD85a, 인테그린 알파 4/CD49d, CD5, 인테그린 알파 E/CD103, CD6, 인테그린 알파 M/CD11b, CD8, 인테그린 알파 X/CD11c, 인테그린 베타 2/CD18, KIR/CD158, CD27/TNFRSF7, KIR2DL1, CD28, KIR2DL3, CD30/TNFRSF8, KIR2DL4/CD158d, CD31/PECAM-1, KIR2DS4, CD40 리간드/TNFSF5, LAG-3, CD43, LAIR1, CD45, LAIR2, CD83, 류코트리엔 B4 R1, CD84/SLAMF5, NCAM-L1, CD94, NKG2A, CD97, NKG2C, CD229/SLAMF3, NKG2D, CD2F- 10/SLAMF9, NT-4, CD69, NTB-A/SLAMF6, 공통 감마쇄/IL-2R 감마, 오스테오폰틴, CRACC/SLAMF7, PD-1, CRTAM, PSGL-1, CTLA-4, RANK/TNFRSF11A, CX3CR1, CX3CL1, L-셀렉틴, CXCR3, SIRP 베타 1, CXCR4, SLAM, CXCR6, TCCR/WSX-1, DNAM-I, 티모포이에틴, EMMPRIN/CD147, TIM-1, EphB6, TIM-2, Fas/TNFRSF6, TIM-3, Fas 리간드/TNFSF6, TIM-4, Fc 감마 RIII/CD16, TIM-6, GITR/TNFRSF18, TNF RI/TNFRSF1A, 그라눌라이신, TNF RII/TNFRSF1B, HVEM/TNFRSF14, TRAIL R1/TNFRSF10A, ICAM-1/CD54, TRAIL R2/TNFRSF10B, ICAM-2/CD102, TRAIL R3/TNFRSF10C, IFN-감마 R1, TRAIL R4/TNFRSF10D, IFN-감마 R2, TSLP, IL-1 RI 및 TSLP R로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, NK 세포 수용체가 2B4/SLAMF4, KIR2DS4, CD155/PVR, KIR3DL1, CD94, LMIR1/CD300A, CD69, LMIR2/CD300c, CRACC/SLAMF7, LMIR3/CD300LF, DNAM-1, LMIR5/CD300LB, Fc 엡실론 RII, LMIR6/CD300LE, Fc 감마 RI/CD64, MICA,  Fc 감마 RIIB/CD32b, MICB, Fc 감마 RIIC/CD32c, MULT-1, Fc 감마 RIIA/CD32a, 넥틴-2/CDl 12, Fc 감마 RIII/CD16, NKG2A, FcRH1/IRTA5, NKG2C, FcRH2/IRTA4, NKG2D, FcRH4/IRTA1, NKp30, FcRH5/IRTA2, NKp44, Fc 수용체-유사 3/CD16-2, NKp46/NCR1, NKp80/KLRF1, NTB-A/SLAMF6, Rae-1, Rae-1 알파, Rae-1 베타, Rae-1 델타, H60, Rae-1 엡실론, ILT2/CD85j, Rae-1 감마, ILT3/CD85k, TREM-1, ILT4/CD85d, TREM-2, ILT5/CD85a, TREM-3, KIR/CD158, TREML1/TLT-1, KIR2DL1, ULBP-I, KIR2DL3, ULBP-2, KIR2DL4/CD158d 및 ULBP-3으로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 단핵구/대식세포 수용체가 B7-1/CD80, ILT4/CD85d, B7- H1, ILT5/CD85a, 공통 베타쇄, 인테그린 알파 4/CD49d, BLAME/SLAMF8, 인테그린 알파 X/CD11c, CCL6/C10, 인테그린 베타 2/CD18, CD155/PVR, 인테그린 베타 3/CD61, CD31/PECAM-1, 라텍신, CD36/SR-B3, 류코트리엔 B4 R1, CD40/TNFRSF5, LIMPII/SR-B2, CD43, LMIR1/CD300A, CD45, LMIR2/CD300c, CD68, LMIR3/CD300LF, CD84/SLAMF5, LMIR5/CD300LB, CD97, LMIR6/CD300LE, CD163, LRP-I, CD2F-10/SLAMF9, MARCO, CRACC/SLAMF7, MD-1, ECF-L, MD-2, EMMPRIN/CD147, MGL2, 엔도글린/CD105, 오스테오액티빈/GPNMB, Fc 감마 RI/CD64, 오스테오폰틴, Fc 감마 RIIB/CD32b, PD-L2, Fc 감마 RIIC/CD32c, 시글렉-3/CD33, Fc 감마 RIIA/CD32a, SIGNR1/CD209, Fc 감마 RIII/CD16, SLAM, GM-CSF R 알파, TCCR/WSX-1, ICAM-2/CD102, TLR3, IFN-감마 R1, TLR4, IFN-감마 R2, TREM-1, IL-1 RII, TREM-2, ILT2/CD85j, TREM-3, ILT3/CD85k,  TREML1/TLT-1, 2B4/SLAMF4, IL-1OR 알파, ALCAM, IL-1O R 베타, 아미노펩티다제 N/ANPEP, ILT2/CD85j, 공통 베타쇄, ILT3/CD85k, C1q R1/CD93, ILT4/CD85d, CCR1, ILT5/CD85a, CCR2, 인테그린 알파 4/CD49d, CCR5, 인테그린 알파 M/CD11b, CCR8, 인테그린 알파 X/CD11c, CD155/PVR, 인테그린 베타 2/CD18, CD14, 인테그린 베타 3/CD61, CD36/SR-B3, LAIR1, CD43, LAIR2, CD45, 류코트리엔 B4 R1, CD68, LIMPII/SR-B2, CD84/SLAMF5, LMIR1/CD300A, CD97, LMIR2/CD300c, CD163, LMIR3/CD300LF, 응고 인자 III/조직 인자, LMIR5/CD300LB, CX3CR1, CX3CL1, LMIR6/CD300LE, CXCR4, LRP-1, CXCR6, M-CSF R, DEP-1/CD148, MD-1, DNAM-1, MD-2, EMMPRIN/CD147, MMR, 엔도글린/CD105, NCAM-L1, Fc 감마 RI/CD64, PSGL-1, Fc 감마 RIII/CD16, RP105, G-CSF R, L-셀렉틴, GM-CSF R 알파, 시글렉-3/CD33, HVEM/TNFRSF14, SLAM, ICAM-1/CD54, TCCR/WSX-1, ICAM-2/CD102, TREM-1, IL-6 R, TREM-2, CXCR1/IL-8 RA, TREM-3 및 TREML1/TLT-1으로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 수지상세포 수용체가 CD36/SR-B3, LOX-1/SR-E1, CD68, MARCO, CD163, SR-AI/MSR, CD5L, SREC-I, CL-P1/COLEC12, SREC-II, LIMPII/SR-B2, RP105, TLR4, TLR1, TLR5, TLR2, TLR6, TLR3, TLR9, 4-1BB 리간드/TNFSF9, IL-12/IL-23 p40, 4-아미노-1,8-나프탈이미드, ILT2/CD85j, CCL21/6Ckine, ILT3/CD85k, 8-옥소-dG, ILT4/CD85d, 8D6A, ILT5/CD85a, A2B5, 인테그린 알파 4/CD49d, Aag, 인테그린 베타 2/CD18, AMICA, 란게린, B7-2/CD86, 류코트리엔 B4  R1, B7-H3, LMIR1/CD300A, BLAME/SLAMF8, LMIR2/CD300c, C1q R1/CD93, LMIR3/CD300LF, CCR6, LMIR5/CD300LB, CCR7, LMIR6/CD300LE, CD40/TNFRSF5, MAG/시글렉-4a, CD43, MCAM, CD45, MD-1, CD68, MD-2, CD83, MDL-1/CLEC5A, CD84/SLAMF5, MMR, CD97, NCAM-L1, CD2F-10/SLAMF9, 오스테오액티빈/GPNMB, Chem 23, PD-L2, CLEC-1, RP105, CLEC-2, 시글렉-2/CD22, CRACC/SLAMF7, 시글렉-3/CD33, DC-SIGN, 시글렉-5, DC-SIGNR/CD299, 시글렉-6, DCAR, 시글렉-7, DCIR/CLEC4A, 시글렉-9, DEC-205, 시글렉-10, 덱틴-1/CLEC7A, 시글렉-F, 덱틴-2/CLEC6A, SIGNR1/CD209, DEP-1/CD148, SIGNR4, DLEC, SLAM, EMMPRIN/CD147, TCCR/WSX-1, Fc 감마 RI/CD64, TLR3, Fc 감마 RIIB/CD32b, TREM-1, Fc 감마 RIIC/CD32c, TREM-2, Fc 감마 RIIA/CD32a, TREM-3, Fc 감마 RIII/CD16, TREML1/TLT-1, ICAM-2/CD102 및 바닐로이드 R1으로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 혈관신생 표적이 안지오포이에틴-1, 안지오포이에틴-유사 2, 안지오포이에틴-2, 안지오포이에틴-유사 3, 안지오포이에틴-3, 안지오포이에틴-유사 7/CDT6, 안지오포이에틴-4, Tie-1, 안지오포이에틴-유사 1, Tie-2, 안지오게닌, iNOS, 응고 인자 III/조직 인자, nNOS, CTGF/CCN2, NOV/CCN3, DANCE, OSM, EDG-1, Plfr, EG-VEGF/PK1, 프롤리페린, 엔도스타틴, ROBO4, 에리트로포이에틴, 트롬보스폰딘-1, 키니노스타틴, 트롬보스폰딘-2, MFG-E8, 트롬보스폰딘-4, 산화질소, VG5Q, eNOS, EphA1, EphA5, EphA2, EphA6, EphA3, EphA7, EphA4, EphA8, EphB1, EphB4, EphB2, EphB6, EphB3, 에프린-A1, 에프린-A4, 에프린-A2, 에프린-A5, 에프 린-A3, 에프린-B1, 에프린-B3, 에프린-B2, FGF 산성, FGF-12, FGF 염기성, FGF- 13, FGF-3, FGF-16, FGF-4, FGF-17, FGF-5, FGF-19, FGF-6, FGF-20, FGF-8, FGF-21, FGF-9, FGF-23, FGF-1O, KGF/FGF-7, FGF-11, FGF R1, FGF R4, FGF R2, FGF R5, FGF R3, 뉴로필린-1, 뉴로필린-2, 세마포린 3A, 세마포린 6B, 세마포린 3C, 세마포린 6C, 세마포린 3E, 세마포린 6D, 세마포린 6A, 세마포린 7A, MMP, MMP-11, MMP-1, MMP-12, MMP-2, MMP-13, MMP-3, MMP-14, MMP-7, MMP-15, MMP-8, MMP-16/MT3-MMP, MMP-9, MMP-24/MT5-MMP, MMP-IO, MMP-25/MT6-MMP, TIMP-1, TIMP-3, TIMP-2, TIMP-4, ACE, IL-13 R 알파 1, IL-13, C1q R1/CD93, 인테그린 알파 4/CD49d, VE-카드헤드린(Cadherin), 인테그린 베타 2/CD18, CD31/PECAM-1, KLF4, CD36/SR-B3, LYVE-1, CD151, MCAM, CL-P1/COLEC12, 넥틴-2/CD112, 응고 인자 III/조직 인자, E-셀렉틴, D6, P-셀렉틴, DC-SIGNR/CD299, SLAM, EMMPRIN/CD147, Tie-2, 엔도글린/CD105, TNF RI/TNFRSF1A, EPCR, TNF RII/TNFRSF1B, 에리트로포이에틴 R, TRAIL R1/TNFRSF10A, ESAM, TRAIL R2/TNFRSF10B, FABP5, VCAM-1, ICAM-1/CD54, VEGF R2/Flk-1, ICAM-2/CD102, VEGF R3/Flt-4, IL-1 RI 및 VG5Q로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 전립선-특이적인 막 항원(폴레이트 하이드롤라제 1), 상피 성장 인자 수용체, 최종 당화 산물(Advanced Glycation End product)에 대한 수용체, IL-17 A, IL- 17 F, P19, Dickkopf-1, NOTCH1, NG2, IgHE, IL-22R, IL-21, 아밀로이드 β 올리고머, 아 밀로이드 β 전구체 단백질, NOGO 수용체(RTN4R), 저밀도 지단백질 수용체-관련 단백질 5, IL-4, 마이오스타틴, 베리 레이트(Very Late) 항원 4 및 IGF-1R로 이루어진 그룹 중에서 선택된 표적에 특이적으로 결합하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 암세포가 형질전환된 조혈 세포인 단백질.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 B-세포 표적, T-세포 표적, 수지상세포 표적 또는 NK-세포 표적 중에서 선택된 표적을 인식하는 단백질.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 CD5, CD1O, CD1 Ic, CD15, CD19, CD20, CD21, CD22, CD23, CD25, CD27, CD30, CD38, CD45, CD70, CD80, CD86, CD103, IRTA1, IRTA2, IRTA3, IRTA4, IRTA5, B-B2, B-B8 및 B-세포 항원 수용체로 이루어진 그룹 중에서 선택된 표적을 인식하는 단백질.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 서열번호 2, 4, 6, 103, 105, 107, 109, 332, 333, 334 및 345로 이루어진 그룹 중에서 선택된 서열을 포함하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 서열번호 355, 356, 357, 358, 359, 360, 361, 362, 363, 364 및 365로 이루어진 그룹 중에서 선택된 서열을 포함하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 불변 하위영역이 효과기 세포 Fc 수용체를 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 불변 하위영역이 CD16, CD32a, CD32b, CD64, CD89, FcεR1, FcRn 및 pIgR로 이루어진 그룹 중에서 선택된 효과기 세포 표면 단백질을 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 불변 하위영역이 C   H2  도메인 및 C   H3  도메인을 포함하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, C   H3  도메인이 절두(truncated)되어 있고, 서열번호 366, 367, 368, 369, 370 및 371로 이루어진 그룹 중에서 선택된 C-말단 서열을 포함하는 단백질.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 스콜피온 링커가 면역글로불린 힌지(hinge)로부터 유래된 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제38항에 있어서, 스콜피온 링커가 이것이 유래한 힌지와 비교하여 감소된,  그러나 0이 아닌 수의 시스테인을 갖고, 여기서, 하나의 시스테인은 면역글로불린 힌지의 N-말단 힌지 시스테인에 상응하는 단백질.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39항에 있어서, 스콜피온 링커가 IgG1 힌지 영역으로부터 유래하고, 여기서 상기 링커는 1 또는 2개의 시스테인을 포함하며, 여기서, 상기 링커는 IgG1 힌지 영역의 N-말단 힌지 시스테인에 상응하는 시스테인을 보유하는 단백질.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 스콜피온 링커가 C-렉틴의 스톡(stalk) 영역으로부터 유래된 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 스콜피온 링커가 서열번호 373, 374, 375, 376 및 377로 이루어진 그룹 중에서 선택된 서열을 포함하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 스콜피온 링커가 서열번호 351, 352, 353 및 354로 이루어진 그룹 중에서 선택된 서열을 포함하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 불변 하위영역에 부착되고 제1 결합 도메인에 부착된 약 5개 이상의 아미노산의 링커를 추가로 포함함으로써, 불변 하위영역과 제1 결합 도메인 사이에 링커가 위치하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상의 결합 친화성이 10   -9  M 미만인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상의 결합 친화성이 10   -6  M 이상인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 효과기 기능이 항체-의존성 세포-매개된 세포독성(ADCC) 및 보체-의존성 세포독성(CDC)으로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 단백질의 생체내 반감기가 사람에서 28시간 이상인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 단백질 및 약제학적으로 허용되는 보조제, 담체 또는 부형제를 포함하는 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 단백질을 암호화하는 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제50항에 따른 핵산을 포함하는 벡터.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제51항에 따른 벡터를 포함하는 숙주 세포.",
+          "refers_to": [
+            51
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "a. 제1항에 따른 단백질을 암호화하는 핵산을 숙주 세포내로 도입시키는 단계; 및 b. 단백질의 발현에 적합한 조건하에 숙주 세포를 항온배양함으로써, 단백질을 1mg/ml 이상의 수준으로 발현시키는 단계 를 포함하여, 제1항에 따른 단백질을 생산하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제53항에 있어서, 단백질을 분리하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            53
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제53항에 있어서, 숙주 세포가 VERO 세포, HeLa 세포, CHO 세포, COS 세포, W138 세포, BHK 세포, HepG2 세포, 3T3 세포, RIN 세포, MDCK 세포, A549 세포, PC 12 세포, K562 세포, HEK293 세포, N 세포, 스포도프테라 프루기페르다(Spodoptera frugiperda) 세포, 사카로마이세스 세레비지아에(Saccharomyces cerevisiae) 세포, 피키아 파스토리스(Pichia pastoris) 세포, 진균 세포 및 세균 세포로 이루어진 그룹 중에서 선택되는 방법.",
+          "refers_to": [
+            53
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "a. 면역글로불린 가변 영역으로부터 유래된 제1 결합 도메인을 암호화하는 폴리뉴클레오타이드의 3' 말단을 불변 하위영역을 암호화하는 폴리뉴클레오타이드의 5' 말단에 공유적으로 연결시키는 단계; b. 스콜피온 링커를 암호화하는 폴리뉴클레오타이드의 5' 말단을 불변 하위 영역을 암호화하는 폴리뉴클레오타이드의 3' 말단에 공유적으로 연결시키는 단계; 및 c. 면역글로불린 가변 영역으로부터 유래된 제2 결합 도메인을 암호화하는 폴리뉴클레오타이드의 5' 말단을 스콜피온 링커를 암호화하는 폴리뉴클레오타이드의 3' 말단에 공유적으로 연결시킴으로써, 효과기 기능을 갖는 다가 결합 단백질을 암호화하는 핵산을 생성시키는 단계 를 포함하여, 제1항에 따른 단백질을 암호화하는 핵산을 생산하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제56항에 있어서, 제1 결합 도메인을 암호화하는 폴리뉴클레오타이드가 서열번호 1(항-CD20 가변 영역), 서열번호 3(항-CD28 가변 영역, V   L -V   H 로 배향) 및 서열번호 5(항-CD28 가변 영역, V   H -V   L 로 배향)으로 이루어진 그룹 중에서 선택된 서열을 포함하는 방법.",
+          "refers_to": [
+            56
+          ]
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제56항에 있어서, 제1 결합 도메인을 암호화하는 폴리뉴클레오타이드와 불변 하위영역을 암호화하는 폴리뉴클레오타이드 사이에 삽입된 링커 폴리뉴클레오타이드를 추가로 포함하는 방법으로서, 상기 링커 폴리뉴클레오타이드는 5개 이상의 아미노산의 펩타이드 링커를 암호화하는 방법.",
+          "refers_to": [
+            56
+          ]
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제56항에 있어서, 불변 하위영역을 암호화하는 폴리뉴클레오타이드와 제2 결 합 도메인을 암호화하는 폴리뉴클레오타이드 사이에 삽입된 링커 폴리뉴클레오타이드를 추가로 포함하는 방법으로서, 상기 링커 폴리뉴클레오타이드는 5개 이상의 아미노산의 펩타이드 링커를 암호화하는 방법.",
+          "refers_to": [
+            56
+          ]
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "표적 세포를 치료학적 유효량의 제1항에 따른 단백질과 접촉시킴을 포함하여, 표적 세포에 대해 손상을 유도하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제60항에 있어서, 단백질을 이를 필요로 하는 유기체에 투여함에 의해 표적 세포가 생체내에서 접촉되는 방법.",
+          "refers_to": [
+            60
+          ]
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료학적 유효량의 제1항에 따른 단백질을 이를 필요로 하는 유기체에 투여함을 포함하여, 세포 증식 질환을 치료하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제62항에 있어서, 질환이 암, 자가면역질환, 라우스 육종(Rous Sarcoma) 바이러스 감염 및 염증으로 이루어진 그룹 중에서 선택되는 방법.",
+          "refers_to": [
+            62
+          ]
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제62항에 있어서, 제1항에 따른 단백질을 암호화하는 핵산의 생체내 발현에 의해 단백질이 투여되는 방법.",
+          "refers_to": [
+            62
+          ]
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제62항에 있어서, 단백질이 정맥내 주사, 동맥내 주사, 근육내 주사, 피하  주사, 복강내 주사 및 직접적인 조직 주사로 이루어진 그룹 중에서 선택된 경로로 투여되는 방법.",
+          "refers_to": [
+            62
+          ]
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료학적 유효량의 제1항에 따른 단백질을 이를 필요로 하는 유기체에 투여함을 포함하여, 세포 증식 질환과 관련된 증상을 완화시키는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제66항에 있어서, 증상이 통증, 열, 종창 및 관절 강직으로 이루어진 그룹 중에서 선택되는 방법.",
+          "refers_to": [
+            66
+          ]
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료학적 유효량의 제1항에 따른 단백질을 이를 필요로 하는 환자에게 투여함을 포함하여, 감염원과 관련된 감염을 치료하는 방법으로서, 여기서, 상기 단백질은 감염원의 표적 분자에 특이적으로 결합하는 결합 도메인을 포함하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료학적 유효량의 제1항에 따른 단백질을 이를 필요로 하는 환자에게 투여함을 포함하여, 감염원과 관련된 감염의 증상을 완화시키는 방법으로서, 여기서, 상기 단백질은 감염원의 표적 분자에 특이적으로 결합하는 결합 도메인을 포함하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "예방학적 유효량의 제1항에 따른 단백질을 감염 발생 위험이 있는 환자에게 투여함을 포함하여, 감염원에 기인하는 감염의 위험을 감소시키는 방법으로서, 여 기서, 상기 단백질은 감염원의 표적 분자에 특이적으로 결합하는 결합 도메인을 포함하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 단백질, 및 세포 증식 질환을 치료하거나 또는 세포 증식 질환의 증상을 완화시키기 위한 상기 단백질의 투여에 관한 일련의 지침을 포함하는 키트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 CD19, CD20, CD21, CD22, CD23, CD30, CD37, CD40, CD70, CD72, CD79a, CD79b, CD80, CD81, CD86 및 주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원에 특이적으로 결합하는, 다가 단일쇄 결합 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 73,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제72항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나가 CD20에 특이적으로 결합하는 단백질.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 74,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제73항에 있어서, 다른 결합 도메인이 CD19, CD20, CD21, CD22, CD23, CD30, CD37, CD40, CD70, CD72, CD79a, CD79b, CD80, CD81, CD86 및 주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원에 특이적으로 결합하는 단백질.",
+          "refers_to": [
+            73
+          ]
+        },
+        {
+          "claim_number": 75,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제72항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나가 CD79b에 특이적으로 결합하는 단백질.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 76,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제75항에 있어서, 다른 결합 도메인이 CD19, CD20, CD21, CD22, CD23, CD30, CD37, CD40, CD70, CD72, CD79a, CD79b, CD80, CD81, CD86 및 주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원에 특이적으로 결합하는 단백질.",
+          "refers_to": [
+            75
+          ]
+        },
+        {
+          "claim_number": 77,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제72항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나가 주요 조직적합성 클래스 II 펩타이드에 특이적으로 결합하는 단백질.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 78,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제77항에 있어서, 다른 결합 도메인이 CD19, CD20, CD21, CD22, CD23, CD30, CD37, CD40, CD70, CD72, CD79a, CD79b, CD80, CD81, CD86 및 주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원에 특이적으로 결합하는 단백질.",
+          "refers_to": [
+            77
+          ]
+        },
+        {
+          "claim_number": 79,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제72항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나가 CD22에 특이적으로 결합하는 단백질.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 80,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제79항에 있어서, 다른 결합 도메인이 CD19, CD20, CD21, CD22, CD23, CD30,  CD37, CD40, CD70, CD72, CD79a, CD79b, CD80, CD81, CD86 및 주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원에 특이적으로 결합하는 단백질.",
+          "refers_to": [
+            79
+          ]
+        },
+        {
+          "claim_number": 81,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제72항에 있어서, 단백질이 결합 도메인 각각의 효과의 합과 비교하여 표적 세포 작용에 있어 상승 효과를 가지며, 여기서, 단백질은 CD20-CD19, CD20-CD21, CD20-CD22, CD20-CD40, CD20-CD79a, CD20-CD79b 및 CD20-CD81로 이루어진 그룹 중에서 선택된 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 단백질.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 82,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제72항에 있어서, 단백질이 결합 도메인 각각의 효과의 합과 비교하여 표적 세포 작용에 있어 상가 효과를 가지며, 여기서, 단백질은 CD20-CD23, CD20-CD30, CD20-CD37, CD20-CD70, CD20-CD80, CD20-CD86, CD79b-CD37, CD79b-CD81, 주요 조직적합성 복합체 클래스 II 펩타이드-CD30 및 주요 조직적합성 복합체 클래스 II 펩타이드-CD72로 이루어진 그룹 중에서 선택된 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 단백질.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 83,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제72항에 있어서, 단백질이 결합 도메인 각각의 효과의 합과 비교하여 표적 세포 작용에 있어 억제 효과를 가지며, 여기서, 단백질은 CD20-주요 조직적합성 복합체 클래스 II 펩타이드, CD79b-CD19, CD79b-CD20, CD79b-CD21, CD79b-CD22, CD79b-CD23, CD79b-CD30, CD79b-CD40, CD79b-CD70, CD79b-CD72, CD79b-CD79a,  CD79b-CD80, CD79b-CD86, CD79b-주요 조직적합성 복합체 클래스 II 펩타이드, 주요 조직적합성 복합체 클래스 II 펩타이드-CD19, 주요 조직적합성 복합체 클래스 II 펩타이드-CD20, 주요 조직적합성 복합체 클래스 II 펩타이드-CD21, 주요 조직적합성 복합체 클래스 II 펩타이드-CD22, 주요 조직적합성 복합체 클래스 II 펩타이드-CD23, 주요 조직적합성 복합체 클래스 II 펩타이드-CD37, 주요 조직적합성 복합체 클래스 II 펩타이드-CD40, 주요 조직적합성 복합체 클래스 II 펩타이드-CD70, 주요 조직적합성 복합체 클래스 II 펩타이드-CD79a, 주요 조직적합성 복합체 클래스 II 펩타이드-CD79b, 주요 조직적합성 복합체 클래스 II 펩타이드-CD80, 주요 조직적합성 복합체 클래스 II 펩타이드-CD81, 주요 조직적합성 복합체 클래스 II 펩타이드-CD86, CD22-CD19, CD22-CD40, CD22-CD79b, CD22-CD86 및 CD22-주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 단백질.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 84,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 항-동형 항체를 제1 항원을 특이적으로 인식하는 항체 및 제2 항원을 특이적으로 인식하는 항체와 접촉시키는 단계; (b) 하나 이상의 항원을 포함하는 표적을 단계 (a)의 조성물과 추가로 접촉시키는 단계; 및 (c) 표적의 활성을 측정하는 단계(여기서, 활성은 다가 결합 분자의 결합 도메인 중 하나 이상을 확인하는데 사용된다) 를 포함하여, 제1항에 따른 다가 결합 분자의 결합 도메인 중 하나 이상을  확인하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 85,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제84항에 있어서, 표적이 질병 세포인 방법.",
+          "refers_to": [
+            84
+          ]
+        },
+        {
+          "claim_number": 86,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제60항에 있어서, 다가 단일쇄 결합 단백질이, 제1 결합 도메인은 포함하지만 제2 결합 도메인은 포함하지 않는 제1 항체 및 제2 결합 도메인은 포함하지만 제1 결합 도메인은 포함하지 않는 제2 항체에 의해 유도된 손상의 합과 비교하여 표적 세포에 대해 상승적 양의 손상을 유도하는 방법.",
+          "refers_to": [
+            60
+          ]
+        },
+        {
+          "claim_number": 87,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제86항에 있어서, 다가 단일쇄 결합 단백질이 CD19/CD20, CD20/CD21, CD20/CD22, CD20/CD40, CD20/CD79a, CD20/CD79b, CD20/CD81, CD21/CD79b, CD37/CD79b, CD79b/CD81, CD19/CL II, CD20/CL II, CD30/CL II, CD37/CL II, CD72/CL II 및 CD79b/CL II로 이루어진 그룹 중에서 선택된 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 방법.",
+          "refers_to": [
+            86
+          ]
+        },
+        {
+          "claim_number": 88,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제60항에 있어서, 다가 단일쇄 결합 단백질이, 제1 결합 도메인은 포함하지만 제2 결합 도메인은 포함하지 않는 제1 항체 및 제2 결합 도메인은 포함하지만 제1 결합 도메인은 포함하지 않는 제2 항체에 의해 유도된 손상의 합과 비교하여 표적 세포에 대해 억제된 양의 손상을 유도하는 방법.",
+          "refers_to": [
+            60
+          ]
+        },
+        {
+          "claim_number": 89,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제88항에 있어서, 다가 단일쇄 결합 단백질이 CD20/CL II, CD21/CD79b, CD22/CD79b, CD40/CD79b, CD70/CD79b, CD72/CD79b, CD79a/CD79b, CD79b/CD80, CD79b/CD86, CD21/CL II, CD22/CL II, CD23/CL II, CD40/CL II, CD70/CL II, CD80/CL II, CD86/CL II, CD19/CD22, CD20/CD22, CD21/CD22, CD22/CD23, CD22/CD30, CD22/CD37, CD22/CD40, CD22/CD70, CD22/CD72, CD22/79a, CD22/79b, CD22/CD80, CD22/CD86 및 CD22/CL II로 이루어진 그룹 중에서 선택된 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 방법.",
+          "refers_to": [
+            88
+          ]
+        },
+        {
+          "claim_number": 90,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제60항에 있어서, 다수의 다가 단일쇄 결합 단백질을 추가로 포함하는 방법.",
+          "refers_to": [
+            60
+          ]
+        },
+        {
+          "claim_number": 91,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제90항에 있어서, 제1의 다가 단일쇄 결합 단백질의 결합 도메인 및 제2의 다가 단일쇄 결합 단백질의 결합 도메인이 표적 세포에 대해 상승적 양의 손상을 유도하는 방법.",
+          "refers_to": [
+            90
+          ]
+        },
+        {
+          "claim_number": 92,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제90항에 있어서, 제1의 다가 단일쇄 결합 단백질의 결합 도메인 및 제2의 다가 단일쇄 결합 단백질의 결합 도메인이 표적 세포에 대해 억제된 양의 손상을 유도하는 방법.",
+          "refers_to": [
+            90
+          ]
+        },
+        {
+          "claim_number": 93,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 다수의 다가 단일쇄 결합 단백질을 포함하는 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 94,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제93항에 있어서, 제1의 다가 단일쇄 결합 단백질의 결합 도메인 및 제2의 다가 단일쇄 결합 단백질의 결합 도메인이 표적 세포에 대해 상승적 양의 손상을 유도할 수 있는 조성물.",
+          "refers_to": [
+            93
+          ]
+        },
+        {
+          "claim_number": 95,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제93항에 있어서, 제1의 다가 단일쇄 결합 단백질의 결합 도메인 및 제2의 다가 단일쇄 결합 단백질의 결합 도메인이 표적 세포에 대해 상가적 양의 손상을 유도할 수 있는 조성물.",
+          "refers_to": [
+            93
+          ]
+        },
+        {
+          "claim_number": 96,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제93항에 있어서, 제1의 다가 단일쇄 결합 단백질의 결합 도메인 및 제2의 다가 단일쇄 결합 단백질의 결합 도메인이 표적 세포에 대해 억제된 양의 손상을 유도할 수 있는 조성물.",
+          "refers_to": [
+            93
+          ]
+        },
+        {
+          "claim_number": 97,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제93항에 따른 조성물 및 약제학적으로 허용되는 담체, 희석제 또는 부형제를 포함하는 약제학적 조성물.",
+          "refers_to": [
+            93
+          ]
+        },
+        {
+          "claim_number": 98,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제93항에 따른 조성물, 및 표적 세포를 손상시키기 위한 상기 조성물의 투여에 관한 일련의 지침을 포함하는 키트.",
+          "refers_to": [
+            93
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20150325",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 98,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 면역글로불린의 중쇄 및 경쇄의 가변 영역으로부터 유래되는 제1 결합 도메인;(b) 힌지 또는 힌지-유사 도메인, CH2 도메인 및 CH3 도메인을 포함하는 면역글로불린으로부터 유래되는 불변 하위영역 (constant sub-region);(c) 제II형 C-렉틴 단백질의 스톡 (stalk) 영역으로부터 유래되는 아미노산 서열을 포함하는 5 내지 45개 아미노산 길이의 링커 펩타이드; 및(d) 면역글로불린의 중쇄 및 경쇄의 가변 영역으로부터 유래되는 제2 결합 도메인을 아미노-말단으로부터 카복시-말단까지 포함하는, 단일쇄 다특이적 결합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상의 결합 도메인의 결합 친화성이 10-6 M 내지 10-9 M인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 물리적으로 상이한 세포 상에 위치된 상이한 표적 분자에 특이적으로 결합하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 결합 도메인 중 하나 이상이 서열번호 2, 4, 6, 103, 105, 107 및 109로부터 선택되는 서열을 포함하는 scFv인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 링커 펩타이드가 서열번호 373, 374, 375, 376 및 377로부터 선택되는 서열을 포함하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 키메라, 사람화된, 또는 사람 면역글로불린 가변 도메인을 포함하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 불변 하위영역이 사람 면역글로불린 불변 하위영역인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 단백질이 CD19/CD20, CD19/CD22, CD19/CL II, CD20/CD21, CD20/CD22, CD20/CD40, CD20/CD79a, CD20/CD79b, CD20/CD81, CD20/CL II, CD21/CD22, CD21/CD79b, CD21/CL II, CD22/CD23, CD22/CD30, CD22/CD37, CD22/CD40, CD22/CD70, CD22/CD72, CD22/CD79a, CD22/CD79b, CD22/CD80, CD22/CD86, CD22/CL II, CD23/CL II, CD30/CL II, CD37/CD79b, CD37/CL II, CD40/CD79b, CD40/CL II, CD70/CD79b, CD70/CL II, CD72/CD79b, CD72/CL II, CD79a/CD79b, CD79b/CD80, CD79b/CD81, CD79b/CD86, CD79b/CL II, CD80/CL II 및 CD86/CL II로부터 선택되는 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 단백질을 암호화하는 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 따른 핵산을 포함하는 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 따른 벡터를 포함하는 숙주 세포.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 따른 단일쇄 다특이적 결합 단백질 및 약제학적으로 허용되는 보조제, 담체 또는 부형제를 포함하는, 암을 치료하기 위한 약제학적 조성물.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 따른 단일쇄 다특이적 결합 단백질 및 약제학적으로 허용되는 보조제, 담체 또는 부형제를 포함하는, 자가면역 질환 또는 염증 질환을 치료하기 위한 약제학적 조성물.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 암이 종양 또는 B-세포 암인 약제학적 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 자가면역질환이 류마티스 관절염, 골관절염, 건선성 관절염, 건선, 염증성 장질환, 크론병 (Crohn's disease), 궤양성 결장염, 천식, 전신 홍반성 루푸스 (SLE), 당뇨병, 다발성 경화증, 실질기관 이식거부 및 이식편 대 숙주병 (GVHD)으로 이루어진 그룹으로부터 선택되는 약제학적 조성물.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 단일쇄 다특이적 결합 단백질 2개를 포함하는 단백질 이량체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 분자 표적물을 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 에피토프를 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 진핵 세포, 원핵 세포, 바이러스, 캐리어 또는 목적물 상의 상이한 분자 표적물을 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 물리적으로 상이한 진핵 세포, 원핵 세포, 바이러스, 캐리어 또는 목적물과 연합된 분자 표적물을 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 진핵 세포, 원핵 세포, 바이러스, 캐리어 또는 목적물과 연합되지 않은 하나 이상의 분자 표적물을 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 결합 도메인, 제2 결합 도메인 및 불변 하위영역이 각각 사람 면역글로불린으로부터 유래되는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 암세포 상의 표적물을 인식하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 불변 하위영역이 이펙터 기능을 제공하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 불변 하위영역이 이펙터 세포 Fc 수용체를 인식하는 단백질.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 이펙터 기능이 항체-의존성 세포-매개된 세포독성 (ADCC), 보체-의존성 세포독성 (CDC) 및 FcR 결합으로 이루어진 그룹 중에서 선택되는 단백질.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, CH3 도메인이 절두되어 있고 서열번호 366, 367, 368, 369, 370 및 371로 이루어진 그룹 중에서 선택되는 C-말단 서열을 포함하는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, CH2 및 CH3 도메인이 IgG 면역글로불린으로부터의 것인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 불변 하위영역이 면역글로불린의 CH1 도메인을 포함하지 않는 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제II형 C-렉틴 단백질이 CD69, CD72 또는 CD94인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제II형 C-렉틴 단백질이 NKG2A인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제II형 C-렉틴 단백질이 NKG2D인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 단백질의 생체내 반감기가 사람에서 28시간 이상인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 단백질이 당변이체인 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제34항에 있어서, 당변이체 단백질이 탄수화물 개질제의 존재 하에서 배양된 숙주 세포에서 단백질을 발현시킴으로써 생성되는 단백질.",
+          "refers_to": [
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제35항에 있어서, 탄수화물 개질제가 카스타노스페르민 또는 키푸넨신인 단백질.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 73,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 74,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 75,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 76,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 77,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 78,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 79,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 80,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 81,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 82,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 83,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 84,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 85,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 86,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 87,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 88,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 89,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 90,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 91,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 92,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 93,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 94,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 95,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 96,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 97,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 98,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20090112",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 98,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "a. 면역글로불린 또는 면역글로불린-유사 분자로부터 유래된 제1 결합 도메인; b. 제1 결합 도메인에 대해 C-말단에 위치한, 효과기 기능을 제공하는 면역글로불린 불변 하위영역(constant sub-region); c. 상기 불변 하위영역에 대해 C-말단에 위치한 스콜피온(scorpion) 링커; 및 d. 상기 불변 하위영역에 대해 C-말단에 위치한, 면역글로불린 또는 면역글로불린-유사 분자로부터 유래된 제2 결합 도메인 을 포함함으로써, 제1 결합 도메인과 제2 결합 도메인 사이에 상기 불변 하위영역이 위치하는, 효과기 기능을 갖는 다가 단일쇄 결합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인이 제1 면역글로불린으로부터 유래된 가변 경쇄 영역 및 제2 면역글로불린으로부터 유래된 가변 중쇄 영역을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 제1 면역글로불린 및 제2 면역글로불린이 동일한 면역글로불린인 단백질.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제2 결합 도메인이 제1 면역글로불린으로부터 유래된 가변 경쇄 영역 및 제2 면역글로불린으로부터 유래된 가변 중쇄 영역을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 제1 면역글로불린 및 제2 면역글로불린이 동일한 면역글로불린인 단백질.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 분자 표적을 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 에피토프를 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 진핵 세포, 원핵 세포, 바이러스, 운반체(carrier) 또는 대상체 상에서 상이한 분자 표적을 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 물리적으로 상이한 진핵 세포, 원핵 세포, 바이러스, 운반체 또는 대상체와 관련된 분자 표적을 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 진핵 세포, 원핵 세포, 바이러스, 운반체 또는 대상체와 관련되지 않은 하나 이상의 분자 표적을 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인, 제2 결합 도메인 및 불변 하위영역이 각각 사람 면역글로불린으로부터 유래된 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 암세포상의 표적을 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 종양 항원, B-세포 표적, TNF 수용체 상과(superfamily) 구성원, 헤지호그계(Hedgehog family) 구성원, 수용체 타이로신 키나제, 프로테오글리칸-관련 분자, TGF-베타 상과 구성원, Wnt-관련 분자, 수용체 리간드, T-세포 표적, 수지상세포(Dendritic cell) 표적, NK 세포 표적, 단핵구/대식세포 표적 및 혈관신생 표적으로 이루어진 그룹 중에서 선택된 표적을 인식하는 단백질.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 종양 항원이 편평세포암종 항원 1, 평편세포암종 항원 2, 난소 암종 항원 CAl25, 뮤신(MUCIN) 1, CTCL 종양 항원 se1-1, CTCL 종양 항원  se14-3, CTCL 종양 항원 se20-4, CTCL 종양 항원 se20-9, CTCL 종양 항원 se33-1, CTCL 종양 항원 se37-2, CTCL 종양 항원 se57-1, CTCL 종양 항원 se89-1, 전립선-특이적 막 항원, 5T4 종양태아성 영양막 당단백질, Orf73 카포시 육종(Kaposi's sarcoma)-관련 헤르페스바이러스, MAGE-C1, MAGE-B1 항원, MAGE-B2 항원, MAGE-2 항원, MAGE-4a 항원, MAGE-4b 항원, 결장암 항원 NY-CO-45, 폐암 항원 NY-LU-12 변이체 A, 암 관련 표면 항원, 선암종 항원 ART1, 부종양성(paraneoplastic) 관련 뇌-고환-암 항원, 신경-종양학적 배쪽 항원 2, 간세포 암종 항원 유전자 520, 종양-관련 항원 CO-029, 종양-관련 항원 MAGE-X2, 활액 육종 X 브레이크포인트(breakpoint) 2, T 세포에 의해 인지되는 편평세포 암종 항원, 혈청학적으로 정의된 결장암 항원 1, 혈청학적으로 정의된 유방암 항원 NY-BR-15, 혈청학적으로 정의된 유방암 항원 NY-BR-16, 크로모그라닌 A; 부갑상선 분비 단백질 1, DUPAN-2, CA 19-9, CA 72-4, CA 195 및 L6으로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, B 세포 표적이 CD1O, CD19, CD20, CD21, CD22, CD23, CD24, CD37, CD38, CD39, CD40, CD72, CD73, CD74, CDw75, CDw76, CD77, CD78, CD79a/b, CD80, CD81, CD82, CD83, CD84, CD85, CD86, CD89, CD98, CD126, CD127, CDwl30, CD138 및 CDwl50으로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, TNF 수용체 상과 구성원이 4-1BB/TNFRSF9, NGF R/TNFRSF16, BAFF R/TNFRSF13C, 오스테오프로테게린/TNFRSF11B, BCMA/TNFRSF17,  OX40/TNFRSF4, CD27/TNFRSF7, RANK/TNFRSF11A, CD30/TNFRSF8, RELT/TNFRSF19L, CD40/TNFRSF5, TACI/TNFRSF13B, DcR3/TNFRSF6B, TNF RI/TNFRSF1A, DcTRAIL R1/TNFRSF23, TNF RII/TNFRSF1B, DcTRAIL R2/TNFRSF22, TRAIL R1/TNFRSF10A, DR3/TNFRSF25, TRAIL R2/TNFRSF10B, DR6/TNFRSF21, TRAIL R3/TNFRSF10C, EDAR, TRAIL R4/TNFRSF10D, Fas/TNFRSF6, TROY/TNFRSF19, GITR/TNFRSF18, TWEAK R/TNFRSF 12, HVEM/TNFRSF14, XEDAR, 림프독소 베타 R/TNFRSF3, 4-1BB 리간드/TNFSF9, 림프독소, APRIL/TNFSF13, 림프독소 베타/TNFSF3, BAFF/TNFSF13C, OX40 리간드/TNFSF4, CD27 리간드/TNFSF7, TL1A/TNFSF15, CD30 리간드/TNFSF8, TNF-알파/TNFSFIA, CD40 리간드/TNFSF5, TNF-베타/TNFSF1B, EDA-A2, TRAIL/TNFSF10, Fas 리간드/TNFSF6, TRANCE/TNFSF11, GITR 리간드/TNFSF18, TWEAK/TNFSF12 및 LIGHT/TNFSF14로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 헤지호그계 구성원이 패치드(Patched) 및 스무든드(Smoothened)로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 수용체 타이로신 키나제가 Ax1, FGF R4, C1q R1/CD93, FGF R5, DDR1, Flt-3, DDR2, HGF R, Dtk, IGF-I R, EGF R, IGF-II R, Eph, INSRR, EphA1, 인슐린 R/CD220, EphA2, M-CSF R, EphA3, Mer, EphA4, MSP R/Ron, EphA5, MuSK, EphA6, PDGF R 알파, EphA7, PDGF R 베타, EphA8, Ret, EphB1, ROR1, EphB2, R0R2, EphB3, SCF R/c-kit, EphB4, Tie-1, EphB6, Tie-2, ErbB2, TrkA, ErbB3,  TrkB, ErbB4, TrkC, FGF R1, VEGF R1/Flt-1, FGF R2, VEGF R2/Flk-1, FGF R3 및 VEGF R3/Flt-4로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 프로테오글리칸-관련 분자가 프로테오글리칸 및 이의 조절인자로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 형질전환 성장 인자(TGF)-베타 상과 구성원이 액티빈 RIA/ALK-2, GFR 알파-1, 액티빈 RIB/ALK-4, GFR 알파-2, 액티빈 RIIA, GFR 알파-3, 액티빈 RIIB, GFR 알파-4, ALK-1, MIS RII, ALK-7, Ret, BMPR-IA/ALK-3, TGF-베타 RI/ALK-5, BMPR-IB/ALK-6, TGF-베타 RII, BMPR-II, TGF-베타 RIIb, 엔도글린/CD105 및 TGF-베타 RIII로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, Wnt-관련 분자가 프리즐드(Frizzled)-1, 프리즐드-8, 프리즐드-2, 프리즐드-9, 프리즐드-3, sFRP-1, 프리즐드-4, sFRP-2, 프리즐드-5, sFRP-3, 프리즐드-6, sFRP-4, 프리즐드-7, MFRP, LRP 5, LRP 6, Wnt-1, Wnt-8a, Wnt-3a, Wnt-lOb, Wnt-4, Wnt-11, Wnt-5a, Wnt-9a 및 Wnt-7a로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 수용체 리간드가 4-1BB 리간드/TNFSF9, 림프독소, APRIL/TNFSF13, 림프독소 베타/TNFSF3, BAFF/TNFSF13C, OX40 리간드/TNFSF4, CD27  리간드/TNFSF7, TL1A/TNFSF15, CD30 리간드/TNFSF8, TNF-알파/TNFSF1A, CD40 리간드/TNFSF5, TNF-베타/TNFSF1B, EDA-A2, TRAIL/TNFSF10, Fas 리간드/TNFSF6, TRANCE/TNFSF11, GITR 리간드/TNFSF18, TWEAK/TNFSF12, LIGHT/TNFSF14, 앰피레귤린, NRG1 동형 GGF2, 베타셀룰린, NRG1 동형 SMDF, EGF, NRG 1-알파/HRG1-알파, 에피겐, NRG1-베타 1/HRG1-베타 1, 에피레귤린, TGF-알파, HB-EGF, TMEFF 1/토모레귤린-1, 뉴레귤린-3, TMEFF2, IGF-I, IGF-II, 인슐린, 액티빈 A, 액티빈 B, 액티빈 AB, 액티빈 C, BMP-2, BMP-7, BMP-3, BMP-8, BMP-3b/GDF-10, BMP-9, BMP-4, BMP- 15, BMP-5, 데카펜타플레직(Decapentaplegic), BMP-6, GDF-1, GDF-8, GDF-3, GDF-9, GDF-5, GDF-11, GDF-6, GDF-15, GDF-7, 아르테민, 뉴투린, GDNF, 페르세핀, TGF-베타, TGF-베타 2, TGF-베타 1, TGF-베타 3, LAP (TGF-베타 1), TGF-베타 5, 레이턴트(Latent) TGF-베타 1, 레이턴트 TGF-베타 bp1, TGF-베타 1.2, 레프티(Lefty), 노달(Nodal), MIS/AMH, FGF 산성, FGF-12, FGF 염기성, FGF-13, FGF-3, FGF-16, FGF-4, FGF-17, FGF-5, FGF-19, FGF-6, FGF-20, FGF-8, FGF-21, FGF-9, FGF-23, FGF-1O, KGF/FGF-7, FGF-11, 뉴로필린-1, P1GF, 뉴로필린-2, P1GF-2, PDGF, PDGF-A, VEGF, PDGF-B, VEGF-B, PDGF-C, VEGF-C, PDGF-D, VEGF-D 및 PDGF-AB로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, T-세포 수용체가 2B4/SLAMF4, IL-2R 알파, 4-1BB/TNFRSF9, IL-2R 베타, ALCAM, B7-1/CD80, IL-4R, B7-H3, BLAME/SLAMF8, BTLA, IL-6R, CCR3, IL-7R 알파, CCR4, CXCR1/IL-8 RA, CCR5, CCR6, IL-1OR 알파, CCR7, IL-1OR 베타,  CCR8, IL-12R 베타 1, CCR9, IL-12R 베타 2, CD2, IL-13R 알파 1, IL-13, CD3, CD4, ILT2/CD85j, ILT3/CD85k, ILT4/CD85d, ILT5/CD85a, 인테그린 알파 4/CD49d, CD5, 인테그린 알파 E/CD103, CD6, 인테그린 알파 M/CD11b, CD8, 인테그린 알파 X/CD11c, 인테그린 베타 2/CD18, KIR/CD158, CD27/TNFRSF7, KIR2DL1, CD28, KIR2DL3, CD30/TNFRSF8, KIR2DL4/CD158d, CD31/PECAM-1, KIR2DS4, CD40 리간드/TNFSF5, LAG-3, CD43, LAIR1, CD45, LAIR2, CD83, 류코트리엔 B4 R1, CD84/SLAMF5, NCAM-L1, CD94, NKG2A, CD97, NKG2C, CD229/SLAMF3, NKG2D, CD2F- 10/SLAMF9, NT-4, CD69, NTB-A/SLAMF6, 공통 감마쇄/IL-2R 감마, 오스테오폰틴, CRACC/SLAMF7, PD-1, CRTAM, PSGL-1, CTLA-4, RANK/TNFRSF11A, CX3CR1, CX3CL1, L-셀렉틴, CXCR3, SIRP 베타 1, CXCR4, SLAM, CXCR6, TCCR/WSX-1, DNAM-I, 티모포이에틴, EMMPRIN/CD147, TIM-1, EphB6, TIM-2, Fas/TNFRSF6, TIM-3, Fas 리간드/TNFSF6, TIM-4, Fc 감마 RIII/CD16, TIM-6, GITR/TNFRSF18, TNF RI/TNFRSF1A, 그라눌라이신, TNF RII/TNFRSF1B, HVEM/TNFRSF14, TRAIL R1/TNFRSF10A, ICAM-1/CD54, TRAIL R2/TNFRSF10B, ICAM-2/CD102, TRAIL R3/TNFRSF10C, IFN-감마 R1, TRAIL R4/TNFRSF10D, IFN-감마 R2, TSLP, IL-1 RI 및 TSLP R로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, NK 세포 수용체가 2B4/SLAMF4, KIR2DS4, CD155/PVR, KIR3DL1, CD94, LMIR1/CD300A, CD69, LMIR2/CD300c, CRACC/SLAMF7, LMIR3/CD300LF, DNAM-1, LMIR5/CD300LB, Fc 엡실론 RII, LMIR6/CD300LE, Fc 감마 RI/CD64, MICA,  Fc 감마 RIIB/CD32b, MICB, Fc 감마 RIIC/CD32c, MULT-1, Fc 감마 RIIA/CD32a, 넥틴-2/CDl 12, Fc 감마 RIII/CD16, NKG2A, FcRH1/IRTA5, NKG2C, FcRH2/IRTA4, NKG2D, FcRH4/IRTA1, NKp30, FcRH5/IRTA2, NKp44, Fc 수용체-유사 3/CD16-2, NKp46/NCR1, NKp80/KLRF1, NTB-A/SLAMF6, Rae-1, Rae-1 알파, Rae-1 베타, Rae-1 델타, H60, Rae-1 엡실론, ILT2/CD85j, Rae-1 감마, ILT3/CD85k, TREM-1, ILT4/CD85d, TREM-2, ILT5/CD85a, TREM-3, KIR/CD158, TREML1/TLT-1, KIR2DL1, ULBP-I, KIR2DL3, ULBP-2, KIR2DL4/CD158d 및 ULBP-3으로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 단핵구/대식세포 수용체가 B7-1/CD80, ILT4/CD85d, B7- H1, ILT5/CD85a, 공통 베타쇄, 인테그린 알파 4/CD49d, BLAME/SLAMF8, 인테그린 알파 X/CD11c, CCL6/C10, 인테그린 베타 2/CD18, CD155/PVR, 인테그린 베타 3/CD61, CD31/PECAM-1, 라텍신, CD36/SR-B3, 류코트리엔 B4 R1, CD40/TNFRSF5, LIMPII/SR-B2, CD43, LMIR1/CD300A, CD45, LMIR2/CD300c, CD68, LMIR3/CD300LF, CD84/SLAMF5, LMIR5/CD300LB, CD97, LMIR6/CD300LE, CD163, LRP-I, CD2F-10/SLAMF9, MARCO, CRACC/SLAMF7, MD-1, ECF-L, MD-2, EMMPRIN/CD147, MGL2, 엔도글린/CD105, 오스테오액티빈/GPNMB, Fc 감마 RI/CD64, 오스테오폰틴, Fc 감마 RIIB/CD32b, PD-L2, Fc 감마 RIIC/CD32c, 시글렉-3/CD33, Fc 감마 RIIA/CD32a, SIGNR1/CD209, Fc 감마 RIII/CD16, SLAM, GM-CSF R 알파, TCCR/WSX-1, ICAM-2/CD102, TLR3, IFN-감마 R1, TLR4, IFN-감마 R2, TREM-1, IL-1 RII, TREM-2, ILT2/CD85j, TREM-3, ILT3/CD85k,  TREML1/TLT-1, 2B4/SLAMF4, IL-1OR 알파, ALCAM, IL-1O R 베타, 아미노펩티다제 N/ANPEP, ILT2/CD85j, 공통 베타쇄, ILT3/CD85k, C1q R1/CD93, ILT4/CD85d, CCR1, ILT5/CD85a, CCR2, 인테그린 알파 4/CD49d, CCR5, 인테그린 알파 M/CD11b, CCR8, 인테그린 알파 X/CD11c, CD155/PVR, 인테그린 베타 2/CD18, CD14, 인테그린 베타 3/CD61, CD36/SR-B3, LAIR1, CD43, LAIR2, CD45, 류코트리엔 B4 R1, CD68, LIMPII/SR-B2, CD84/SLAMF5, LMIR1/CD300A, CD97, LMIR2/CD300c, CD163, LMIR3/CD300LF, 응고 인자 III/조직 인자, LMIR5/CD300LB, CX3CR1, CX3CL1, LMIR6/CD300LE, CXCR4, LRP-1, CXCR6, M-CSF R, DEP-1/CD148, MD-1, DNAM-1, MD-2, EMMPRIN/CD147, MMR, 엔도글린/CD105, NCAM-L1, Fc 감마 RI/CD64, PSGL-1, Fc 감마 RIII/CD16, RP105, G-CSF R, L-셀렉틴, GM-CSF R 알파, 시글렉-3/CD33, HVEM/TNFRSF14, SLAM, ICAM-1/CD54, TCCR/WSX-1, ICAM-2/CD102, TREM-1, IL-6 R, TREM-2, CXCR1/IL-8 RA, TREM-3 및 TREML1/TLT-1으로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 수지상세포 수용체가 CD36/SR-B3, LOX-1/SR-E1, CD68, MARCO, CD163, SR-AI/MSR, CD5L, SREC-I, CL-P1/COLEC12, SREC-II, LIMPII/SR-B2, RP105, TLR4, TLR1, TLR5, TLR2, TLR6, TLR3, TLR9, 4-1BB 리간드/TNFSF9, IL-12/IL-23 p40, 4-아미노-1,8-나프탈이미드, ILT2/CD85j, CCL21/6Ckine, ILT3/CD85k, 8-옥소-dG, ILT4/CD85d, 8D6A, ILT5/CD85a, A2B5, 인테그린 알파 4/CD49d, Aag, 인테그린 베타 2/CD18, AMICA, 란게린, B7-2/CD86, 류코트리엔 B4  R1, B7-H3, LMIR1/CD300A, BLAME/SLAMF8, LMIR2/CD300c, C1q R1/CD93, LMIR3/CD300LF, CCR6, LMIR5/CD300LB, CCR7, LMIR6/CD300LE, CD40/TNFRSF5, MAG/시글렉-4a, CD43, MCAM, CD45, MD-1, CD68, MD-2, CD83, MDL-1/CLEC5A, CD84/SLAMF5, MMR, CD97, NCAM-L1, CD2F-10/SLAMF9, 오스테오액티빈/GPNMB, Chem 23, PD-L2, CLEC-1, RP105, CLEC-2, 시글렉-2/CD22, CRACC/SLAMF7, 시글렉-3/CD33, DC-SIGN, 시글렉-5, DC-SIGNR/CD299, 시글렉-6, DCAR, 시글렉-7, DCIR/CLEC4A, 시글렉-9, DEC-205, 시글렉-10, 덱틴-1/CLEC7A, 시글렉-F, 덱틴-2/CLEC6A, SIGNR1/CD209, DEP-1/CD148, SIGNR4, DLEC, SLAM, EMMPRIN/CD147, TCCR/WSX-1, Fc 감마 RI/CD64, TLR3, Fc 감마 RIIB/CD32b, TREM-1, Fc 감마 RIIC/CD32c, TREM-2, Fc 감마 RIIA/CD32a, TREM-3, Fc 감마 RIII/CD16, TREML1/TLT-1, ICAM-2/CD102 및 바닐로이드 R1으로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 혈관신생 표적이 안지오포이에틴-1, 안지오포이에틴-유사 2, 안지오포이에틴-2, 안지오포이에틴-유사 3, 안지오포이에틴-3, 안지오포이에틴-유사 7/CDT6, 안지오포이에틴-4, Tie-1, 안지오포이에틴-유사 1, Tie-2, 안지오게닌, iNOS, 응고 인자 III/조직 인자, nNOS, CTGF/CCN2, NOV/CCN3, DANCE, OSM, EDG-1, Plfr, EG-VEGF/PK1, 프롤리페린, 엔도스타틴, ROBO4, 에리트로포이에틴, 트롬보스폰딘-1, 키니노스타틴, 트롬보스폰딘-2, MFG-E8, 트롬보스폰딘-4, 산화질소, VG5Q, eNOS, EphA1, EphA5, EphA2, EphA6, EphA3, EphA7, EphA4, EphA8, EphB1, EphB4, EphB2, EphB6, EphB3, 에프린-A1, 에프린-A4, 에프린-A2, 에프린-A5, 에프 린-A3, 에프린-B1, 에프린-B3, 에프린-B2, FGF 산성, FGF-12, FGF 염기성, FGF- 13, FGF-3, FGF-16, FGF-4, FGF-17, FGF-5, FGF-19, FGF-6, FGF-20, FGF-8, FGF-21, FGF-9, FGF-23, FGF-1O, KGF/FGF-7, FGF-11, FGF R1, FGF R4, FGF R2, FGF R5, FGF R3, 뉴로필린-1, 뉴로필린-2, 세마포린 3A, 세마포린 6B, 세마포린 3C, 세마포린 6C, 세마포린 3E, 세마포린 6D, 세마포린 6A, 세마포린 7A, MMP, MMP-11, MMP-1, MMP-12, MMP-2, MMP-13, MMP-3, MMP-14, MMP-7, MMP-15, MMP-8, MMP-16/MT3-MMP, MMP-9, MMP-24/MT5-MMP, MMP-IO, MMP-25/MT6-MMP, TIMP-1, TIMP-3, TIMP-2, TIMP-4, ACE, IL-13 R 알파 1, IL-13, C1q R1/CD93, 인테그린 알파 4/CD49d, VE-카드헤드린(Cadherin), 인테그린 베타 2/CD18, CD31/PECAM-1, KLF4, CD36/SR-B3, LYVE-1, CD151, MCAM, CL-P1/COLEC12, 넥틴-2/CD112, 응고 인자 III/조직 인자, E-셀렉틴, D6, P-셀렉틴, DC-SIGNR/CD299, SLAM, EMMPRIN/CD147, Tie-2, 엔도글린/CD105, TNF RI/TNFRSF1A, EPCR, TNF RII/TNFRSF1B, 에리트로포이에틴 R, TRAIL R1/TNFRSF10A, ESAM, TRAIL R2/TNFRSF10B, FABP5, VCAM-1, ICAM-1/CD54, VEGF R2/Flk-1, ICAM-2/CD102, VEGF R3/Flt-4, IL-1 RI 및 VG5Q로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 전립선-특이적인 막 항원(폴레이트 하이드롤라제 1), 상피 성장 인자 수용체, 최종 당화 산물(Advanced Glycation End product)에 대한 수용체, IL-17 A, IL- 17 F, P19, Dickkopf-1, NOTCH1, NG2, IgHE, IL-22R, IL-21, 아밀로이드 β 올리고머, 아 밀로이드 β 전구체 단백질, NOGO 수용체(RTN4R), 저밀도 지단백질 수용체-관련 단백질 5, IL-4, 마이오스타틴, 베리 레이트(Very Late) 항원 4 및 IGF-1R로 이루어진 그룹 중에서 선택된 표적에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 암세포가 형질전환된 조혈 세포인 단백질.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 B-세포 표적, T-세포 표적, 수지상세포 표적 또는 NK-세포 표적 중에서 선택된 표적을 인식하는 단백질.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 CD5, CD1O, CD1 Ic, CD15, CD19, CD20, CD21, CD22, CD23, CD25, CD27, CD30, CD38, CD45, CD70, CD80, CD86, CD103, IRTA1, IRTA2, IRTA3, IRTA4, IRTA5, B-B2, B-B8 및 B-세포 항원 수용체로 이루어진 그룹 중에서 선택된 표적을 인식하는 단백질.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 서열번호 2, 4, 6, 103, 105, 107, 109, 332, 333, 334 및 345로 이루어진 그룹 중에서 선택된 서열을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 서열번호 355, 356, 357, 358, 359, 360, 361, 362, 363, 364 및 365로 이루어진 그룹 중에서 선택된 서열을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 불변 하위영역이 효과기 세포 Fc 수용체를 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 불변 하위영역이 CD16, CD32a, CD32b, CD64, CD89, FcεR1, FcRn 및 pIgR로 이루어진 그룹 중에서 선택된 효과기 세포 표면 단백질을 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 불변 하위영역이 C   H2  도메인 및 C   H3  도메인을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, C   H3  도메인이 절두(truncated)되어 있고, 서열번호 366, 367, 368, 369, 370 및 371로 이루어진 그룹 중에서 선택된 C-말단 서열을 포함하는 단백질.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 스콜피온 링커가 면역글로불린 힌지(hinge)로부터 유래된 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제38항에 있어서, 스콜피온 링커가 이것이 유래한 힌지와 비교하여 감소된,  그러나 0이 아닌 수의 시스테인을 갖고, 여기서, 하나의 시스테인은 면역글로불린 힌지의 N-말단 힌지 시스테인에 상응하는 단백질.",
+            "refers_to": [
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39항에 있어서, 스콜피온 링커가 IgG1 힌지 영역으로부터 유래하고, 여기서 상기 링커는 1 또는 2개의 시스테인을 포함하며, 여기서, 상기 링커는 IgG1 힌지 영역의 N-말단 힌지 시스테인에 상응하는 시스테인을 보유하는 단백질.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 스콜피온 링커가 C-렉틴의 스톡(stalk) 영역으로부터 유래된 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 스콜피온 링커가 서열번호 373, 374, 375, 376 및 377로 이루어진 그룹 중에서 선택된 서열을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 스콜피온 링커가 서열번호 351, 352, 353 및 354로 이루어진 그룹 중에서 선택된 서열을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 불변 하위영역에 부착되고 제1 결합 도메인에 부착된 약 5개 이상의 아미노산의 링커를 추가로 포함함으로써, 불변 하위영역과 제1 결합 도메인 사이에 링커가 위치하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상의 결합 친화성이 10   -9  M 미만인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상의 결합 친화성이 10   -6  M 이상인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 효과기 기능이 항체-의존성 세포-매개된 세포독성(ADCC) 및 보체-의존성 세포독성(CDC)으로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 단백질의 생체내 반감기가 사람에서 28시간 이상인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 단백질 및 약제학적으로 허용되는 보조제, 담체 또는 부형제를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 단백질을 암호화하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제50항에 따른 핵산을 포함하는 벡터.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제51항에 따른 벡터를 포함하는 숙주 세포.",
+            "refers_to": [
+              51
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "a. 제1항에 따른 단백질을 암호화하는 핵산을 숙주 세포내로 도입시키는 단계; 및 b. 단백질의 발현에 적합한 조건하에 숙주 세포를 항온배양함으로써, 단백질을 1mg/ml 이상의 수준으로 발현시키는 단계 를 포함하여, 제1항에 따른 단백질을 생산하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제53항에 있어서, 단백질을 분리하는 단계를 추가로 포함하는 방법.",
+            "refers_to": [
+              53
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제53항에 있어서, 숙주 세포가 VERO 세포, HeLa 세포, CHO 세포, COS 세포, W138 세포, BHK 세포, HepG2 세포, 3T3 세포, RIN 세포, MDCK 세포, A549 세포, PC 12 세포, K562 세포, HEK293 세포, N 세포, 스포도프테라 프루기페르다(Spodoptera frugiperda) 세포, 사카로마이세스 세레비지아에(Saccharomyces cerevisiae) 세포, 피키아 파스토리스(Pichia pastoris) 세포, 진균 세포 및 세균 세포로 이루어진 그룹 중에서 선택되는 방법.",
+            "refers_to": [
+              53
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "a. 면역글로불린 가변 영역으로부터 유래된 제1 결합 도메인을 암호화하는 폴리뉴클레오타이드의 3' 말단을 불변 하위영역을 암호화하는 폴리뉴클레오타이드의 5' 말단에 공유적으로 연결시키는 단계; b. 스콜피온 링커를 암호화하는 폴리뉴클레오타이드의 5' 말단을 불변 하위 영역을 암호화하는 폴리뉴클레오타이드의 3' 말단에 공유적으로 연결시키는 단계; 및 c. 면역글로불린 가변 영역으로부터 유래된 제2 결합 도메인을 암호화하는 폴리뉴클레오타이드의 5' 말단을 스콜피온 링커를 암호화하는 폴리뉴클레오타이드의 3' 말단에 공유적으로 연결시킴으로써, 효과기 기능을 갖는 다가 결합 단백질을 암호화하는 핵산을 생성시키는 단계 를 포함하여, 제1항에 따른 단백질을 암호화하는 핵산을 생산하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제56항에 있어서, 제1 결합 도메인을 암호화하는 폴리뉴클레오타이드가 서열번호 1(항-CD20 가변 영역), 서열번호 3(항-CD28 가변 영역, V   L -V   H 로 배향) 및 서열번호 5(항-CD28 가변 영역, V   H -V   L 로 배향)으로 이루어진 그룹 중에서 선택된 서열을 포함하는 방법.",
+            "refers_to": [
+              56
+            ]
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제56항에 있어서, 제1 결합 도메인을 암호화하는 폴리뉴클레오타이드와 불변 하위영역을 암호화하는 폴리뉴클레오타이드 사이에 삽입된 링커 폴리뉴클레오타이드를 추가로 포함하는 방법으로서, 상기 링커 폴리뉴클레오타이드는 5개 이상의 아미노산의 펩타이드 링커를 암호화하는 방법.",
+            "refers_to": [
+              56
+            ]
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제56항에 있어서, 불변 하위영역을 암호화하는 폴리뉴클레오타이드와 제2 결 합 도메인을 암호화하는 폴리뉴클레오타이드 사이에 삽입된 링커 폴리뉴클레오타이드를 추가로 포함하는 방법으로서, 상기 링커 폴리뉴클레오타이드는 5개 이상의 아미노산의 펩타이드 링커를 암호화하는 방법.",
+            "refers_to": [
+              56
+            ]
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "표적 세포를 치료학적 유효량의 제1항에 따른 단백질과 접촉시킴을 포함하여, 표적 세포에 대해 손상을 유도하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제60항에 있어서, 단백질을 이를 필요로 하는 유기체에 투여함에 의해 표적 세포가 생체내에서 접촉되는 방법.",
+            "refers_to": [
+              60
+            ]
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료학적 유효량의 제1항에 따른 단백질을 이를 필요로 하는 유기체에 투여함을 포함하여, 세포 증식 질환을 치료하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제62항에 있어서, 질환이 암, 자가면역질환, 라우스 육종(Rous Sarcoma) 바이러스 감염 및 염증으로 이루어진 그룹 중에서 선택되는 방법.",
+            "refers_to": [
+              62
+            ]
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제62항에 있어서, 제1항에 따른 단백질을 암호화하는 핵산의 생체내 발현에 의해 단백질이 투여되는 방법.",
+            "refers_to": [
+              62
+            ]
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제62항에 있어서, 단백질이 정맥내 주사, 동맥내 주사, 근육내 주사, 피하  주사, 복강내 주사 및 직접적인 조직 주사로 이루어진 그룹 중에서 선택된 경로로 투여되는 방법.",
+            "refers_to": [
+              62
+            ]
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료학적 유효량의 제1항에 따른 단백질을 이를 필요로 하는 유기체에 투여함을 포함하여, 세포 증식 질환과 관련된 증상을 완화시키는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제66항에 있어서, 증상이 통증, 열, 종창 및 관절 강직으로 이루어진 그룹 중에서 선택되는 방법.",
+            "refers_to": [
+              66
+            ]
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료학적 유효량의 제1항에 따른 단백질을 이를 필요로 하는 환자에게 투여함을 포함하여, 감염원과 관련된 감염을 치료하는 방법으로서, 여기서, 상기 단백질은 감염원의 표적 분자에 특이적으로 결합하는 결합 도메인을 포함하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료학적 유효량의 제1항에 따른 단백질을 이를 필요로 하는 환자에게 투여함을 포함하여, 감염원과 관련된 감염의 증상을 완화시키는 방법으로서, 여기서, 상기 단백질은 감염원의 표적 분자에 특이적으로 결합하는 결합 도메인을 포함하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "예방학적 유효량의 제1항에 따른 단백질을 감염 발생 위험이 있는 환자에게 투여함을 포함하여, 감염원에 기인하는 감염의 위험을 감소시키는 방법으로서, 여 기서, 상기 단백질은 감염원의 표적 분자에 특이적으로 결합하는 결합 도메인을 포함하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 단백질, 및 세포 증식 질환을 치료하거나 또는 세포 증식 질환의 증상을 완화시키기 위한 상기 단백질의 투여에 관한 일련의 지침을 포함하는 키트.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 CD19, CD20, CD21, CD22, CD23, CD30, CD37, CD40, CD70, CD72, CD79a, CD79b, CD80, CD81, CD86 및 주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원에 특이적으로 결합하는, 다가 단일쇄 결합 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제72항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나가 CD20에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              72
+            ]
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제73항에 있어서, 다른 결합 도메인이 CD19, CD20, CD21, CD22, CD23, CD30, CD37, CD40, CD70, CD72, CD79a, CD79b, CD80, CD81, CD86 및 주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              73
+            ]
+          },
+          {
+            "claim_number": 75,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제72항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나가 CD79b에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              72
+            ]
+          },
+          {
+            "claim_number": 76,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제75항에 있어서, 다른 결합 도메인이 CD19, CD20, CD21, CD22, CD23, CD30, CD37, CD40, CD70, CD72, CD79a, CD79b, CD80, CD81, CD86 및 주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              75
+            ]
+          },
+          {
+            "claim_number": 77,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제72항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나가 주요 조직적합성 클래스 II 펩타이드에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              72
+            ]
+          },
+          {
+            "claim_number": 78,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제77항에 있어서, 다른 결합 도메인이 CD19, CD20, CD21, CD22, CD23, CD30, CD37, CD40, CD70, CD72, CD79a, CD79b, CD80, CD81, CD86 및 주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              77
+            ]
+          },
+          {
+            "claim_number": 79,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제72항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나가 CD22에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              72
+            ]
+          },
+          {
+            "claim_number": 80,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제79항에 있어서, 다른 결합 도메인이 CD19, CD20, CD21, CD22, CD23, CD30,  CD37, CD40, CD70, CD72, CD79a, CD79b, CD80, CD81, CD86 및 주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              79
+            ]
+          },
+          {
+            "claim_number": 81,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제72항에 있어서, 단백질이 결합 도메인 각각의 효과의 합과 비교하여 표적 세포 작용에 있어 상승 효과를 가지며, 여기서, 단백질은 CD20-CD19, CD20-CD21, CD20-CD22, CD20-CD40, CD20-CD79a, CD20-CD79b 및 CD20-CD81로 이루어진 그룹 중에서 선택된 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 단백질.",
+            "refers_to": [
+              72
+            ]
+          },
+          {
+            "claim_number": 82,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제72항에 있어서, 단백질이 결합 도메인 각각의 효과의 합과 비교하여 표적 세포 작용에 있어 상가 효과를 가지며, 여기서, 단백질은 CD20-CD23, CD20-CD30, CD20-CD37, CD20-CD70, CD20-CD80, CD20-CD86, CD79b-CD37, CD79b-CD81, 주요 조직적합성 복합체 클래스 II 펩타이드-CD30 및 주요 조직적합성 복합체 클래스 II 펩타이드-CD72로 이루어진 그룹 중에서 선택된 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 단백질.",
+            "refers_to": [
+              72
+            ]
+          },
+          {
+            "claim_number": 83,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제72항에 있어서, 단백질이 결합 도메인 각각의 효과의 합과 비교하여 표적 세포 작용에 있어 억제 효과를 가지며, 여기서, 단백질은 CD20-주요 조직적합성 복합체 클래스 II 펩타이드, CD79b-CD19, CD79b-CD20, CD79b-CD21, CD79b-CD22, CD79b-CD23, CD79b-CD30, CD79b-CD40, CD79b-CD70, CD79b-CD72, CD79b-CD79a,  CD79b-CD80, CD79b-CD86, CD79b-주요 조직적합성 복합체 클래스 II 펩타이드, 주요 조직적합성 복합체 클래스 II 펩타이드-CD19, 주요 조직적합성 복합체 클래스 II 펩타이드-CD20, 주요 조직적합성 복합체 클래스 II 펩타이드-CD21, 주요 조직적합성 복합체 클래스 II 펩타이드-CD22, 주요 조직적합성 복합체 클래스 II 펩타이드-CD23, 주요 조직적합성 복합체 클래스 II 펩타이드-CD37, 주요 조직적합성 복합체 클래스 II 펩타이드-CD40, 주요 조직적합성 복합체 클래스 II 펩타이드-CD70, 주요 조직적합성 복합체 클래스 II 펩타이드-CD79a, 주요 조직적합성 복합체 클래스 II 펩타이드-CD79b, 주요 조직적합성 복합체 클래스 II 펩타이드-CD80, 주요 조직적합성 복합체 클래스 II 펩타이드-CD81, 주요 조직적합성 복합체 클래스 II 펩타이드-CD86, CD22-CD19, CD22-CD40, CD22-CD79b, CD22-CD86 및 CD22-주요 조직적합성 복합체 클래스 II 펩타이드로 이루어진 그룹 중에서 선택된 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 단백질.",
+            "refers_to": [
+              72
+            ]
+          },
+          {
+            "claim_number": 84,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 항-동형 항체를 제1 항원을 특이적으로 인식하는 항체 및 제2 항원을 특이적으로 인식하는 항체와 접촉시키는 단계; (b) 하나 이상의 항원을 포함하는 표적을 단계 (a)의 조성물과 추가로 접촉시키는 단계; 및 (c) 표적의 활성을 측정하는 단계(여기서, 활성은 다가 결합 분자의 결합 도메인 중 하나 이상을 확인하는데 사용된다) 를 포함하여, 제1항에 따른 다가 결합 분자의 결합 도메인 중 하나 이상을  확인하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 85,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제84항에 있어서, 표적이 질병 세포인 방법.",
+            "refers_to": [
+              84
+            ]
+          },
+          {
+            "claim_number": 86,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제60항에 있어서, 다가 단일쇄 결합 단백질이, 제1 결합 도메인은 포함하지만 제2 결합 도메인은 포함하지 않는 제1 항체 및 제2 결합 도메인은 포함하지만 제1 결합 도메인은 포함하지 않는 제2 항체에 의해 유도된 손상의 합과 비교하여 표적 세포에 대해 상승적 양의 손상을 유도하는 방법.",
+            "refers_to": [
+              60
+            ]
+          },
+          {
+            "claim_number": 87,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제86항에 있어서, 다가 단일쇄 결합 단백질이 CD19/CD20, CD20/CD21, CD20/CD22, CD20/CD40, CD20/CD79a, CD20/CD79b, CD20/CD81, CD21/CD79b, CD37/CD79b, CD79b/CD81, CD19/CL II, CD20/CL II, CD30/CL II, CD37/CL II, CD72/CL II 및 CD79b/CL II로 이루어진 그룹 중에서 선택된 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 방법.",
+            "refers_to": [
+              86
+            ]
+          },
+          {
+            "claim_number": 88,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제60항에 있어서, 다가 단일쇄 결합 단백질이, 제1 결합 도메인은 포함하지만 제2 결합 도메인은 포함하지 않는 제1 항체 및 제2 결합 도메인은 포함하지만 제1 결합 도메인은 포함하지 않는 제2 항체에 의해 유도된 손상의 합과 비교하여 표적 세포에 대해 억제된 양의 손상을 유도하는 방법.",
+            "refers_to": [
+              60
+            ]
+          },
+          {
+            "claim_number": 89,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제88항에 있어서, 다가 단일쇄 결합 단백질이 CD20/CL II, CD21/CD79b, CD22/CD79b, CD40/CD79b, CD70/CD79b, CD72/CD79b, CD79a/CD79b, CD79b/CD80, CD79b/CD86, CD21/CL II, CD22/CL II, CD23/CL II, CD40/CL II, CD70/CL II, CD80/CL II, CD86/CL II, CD19/CD22, CD20/CD22, CD21/CD22, CD22/CD23, CD22/CD30, CD22/CD37, CD22/CD40, CD22/CD70, CD22/CD72, CD22/79a, CD22/79b, CD22/CD80, CD22/CD86 및 CD22/CL II로 이루어진 그룹 중에서 선택된 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 방법.",
+            "refers_to": [
+              88
+            ]
+          },
+          {
+            "claim_number": 90,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제60항에 있어서, 다수의 다가 단일쇄 결합 단백질을 추가로 포함하는 방법.",
+            "refers_to": [
+              60
+            ]
+          },
+          {
+            "claim_number": 91,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제90항에 있어서, 제1의 다가 단일쇄 결합 단백질의 결합 도메인 및 제2의 다가 단일쇄 결합 단백질의 결합 도메인이 표적 세포에 대해 상승적 양의 손상을 유도하는 방법.",
+            "refers_to": [
+              90
+            ]
+          },
+          {
+            "claim_number": 92,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제90항에 있어서, 제1의 다가 단일쇄 결합 단백질의 결합 도메인 및 제2의 다가 단일쇄 결합 단백질의 결합 도메인이 표적 세포에 대해 억제된 양의 손상을 유도하는 방법.",
+            "refers_to": [
+              90
+            ]
+          },
+          {
+            "claim_number": 93,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 다수의 다가 단일쇄 결합 단백질을 포함하는 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 94,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제93항에 있어서, 제1의 다가 단일쇄 결합 단백질의 결합 도메인 및 제2의 다가 단일쇄 결합 단백질의 결합 도메인이 표적 세포에 대해 상승적 양의 손상을 유도할 수 있는 조성물.",
+            "refers_to": [
+              93
+            ]
+          },
+          {
+            "claim_number": 95,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제93항에 있어서, 제1의 다가 단일쇄 결합 단백질의 결합 도메인 및 제2의 다가 단일쇄 결합 단백질의 결합 도메인이 표적 세포에 대해 상가적 양의 손상을 유도할 수 있는 조성물.",
+            "refers_to": [
+              93
+            ]
+          },
+          {
+            "claim_number": 96,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제93항에 있어서, 제1의 다가 단일쇄 결합 단백질의 결합 도메인 및 제2의 다가 단일쇄 결합 단백질의 결합 도메인이 표적 세포에 대해 억제된 양의 손상을 유도할 수 있는 조성물.",
+            "refers_to": [
+              93
+            ]
+          },
+          {
+            "claim_number": 97,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제93항에 따른 조성물 및 약제학적으로 허용되는 담체, 희석제 또는 부형제를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              93
+            ]
+          },
+          {
+            "claim_number": 98,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제93항에 따른 조성물, 및 표적 세포를 손상시키기 위한 상기 조성물의 투여에 관한 일련의 지침을 포함하는 키트.",
+            "refers_to": [
+              93
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20120612",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 98,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 면역글로불린 또는 면역글로불린-유사 분자로부터 유래된 가변 영역을 포함하는 제1 결합 도메인; (b) 제1 링커 펩타이드; (c) 효과기 (effector) 기능을 제공하는 면역글로불린 불변 하위영역 (constant sub-region); (d) 제2 링커 펩타이드; 및  (e) 면역글로불린 또는 면역글로불린-유사 분자로부터 유래된 가변 영역을 포함하는 제2 결합 도메인 (여기서, 상기 제1 결합 도메인 및 제2 결합 도메인은 상이한 표적 분자를 인식한다) 을 아미노-말단으로부터 카복시-말단까지 포함하는, 효과기 기능을 갖는 단일쇄 다특이적 결합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인의 결합 친화성이 10   -6  M 이상인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 세포에 위치한 상이한 표적 분자에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 물리적으로 상이한 세포에 위치한 상이한 표적 분자에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 결합 도메인의 하나 이상이 세포-유리된 분자 표적에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 결합 도메인의 하나 이상이 서열번호 2, 4, 6, 103, 105, 107 및 109로부터 선택된 서열을 포함하는 scFv인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 링커 펩타이드의 하나 이상이 면역글로불린 힌지 영역 또는 제II형 C-렉틴 스톡(stalk) 영역으로부터 유래된 서열을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 링커 펩타이드의 하나 이상이 서열번호 373, 374, 375, 376 및 377로부터 선택된 서열을 포함하는 단백질.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 키메라, 사람화된, 또는 사람 면역글로불린 가변 도메인을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 불변 하위영역 (constant sub-region)이 IgG1 면역글로불린 C   H2  및 C   H3  도메인을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 불변 하위영역이 사람 면역글로불린 불변 하위영역인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 결합 도메인의 하나 이상이 종양 항원, B-세포 표적, TNF 수용체 상위계열 (superfamily) 일원, 헤지호그계(Hedgehog family) 일원, 수용체 타이로신 키나제, 프로테오글리칸-관련 분자, TGF-베타 상위계열 일원, Wnt-관련 분자, 수용체 리간드, T-세포 표적, 수지상세포(Dendritic cell) 표적, NK 세포 표적, 단핵구/대식세포 표적 및 혈관신생 표적으로부터 선택된 표적에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 두 개의 결합 도메인 중의 하나가 CD3, CD20, CD37, CD79b, CD80, CD86, IRTA1, IRTA2, IRTA3, IRTA4, IRTA5, TNFRI/TNFRSF1A, TNFRII/TNFRSF1B, Fas/TNFRSF6, TRAILR/TNFRSF10, RANK/TNFRSF11A, 오스테오프로테게린/TNFRSF11B, TWEAKR/TNFRSF12, HVEM/TNFRSF14, GITR/TNFRSF18, TNF-α/TNFSF1A, TNF-β/TNFSF1B, TRAIL/TNFSF10, Fas 리간드/TNFSF6, TWEAK/TNFSF12, APRIL/TNFSF13, LIGHT/TNFSF14, GITRL/TNFSF18, FGFR, Flt-3, HGFR, IGF-IR, IGF-IIR, MSPR/Ron, PDGFRα, PDGFRβ, EGFR, ErbB2, ErbB3, VEGFRl/Flt-1, VEGFR2/Flk-1, VEGFR3/Flt-4, TGF-βRI/ALK-5, TGF-βRII, TGF-βRIIb, EGF, TGF-α, IGF-I, IGF-II, BMP, TGF-β, FGF, PlGF, PDGF-A, PDGF-B, PDGF-C, PDGF-D, VEGF, VEGF-B, VEGF-C, VEGF-D, IL-2Rα, IL-2Rβ, IL-4R, B7-H3, IL-6R, IL-10Rα, IL-10Rβ, IL-12Rβ1, IL-12Rβ2, IL-13Rα1, 오스테오폰틴, PD-1, CTLA-4, IFN-γR1, IFN-γR2, 최종 당화 산물(Advanced Glycosylation End product)에 대한 수용체(RAGE), IL-13, IL-22R, IL-21 및 IL-4로부터 선택된 표적에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 단백질이 CD19/CD20, CD19/CD22, CD19/CL II, CD20/CD21, CD20/CD22, CD20/CD40, CD20/CD79a, CD20/CD79b, CD20/CD81, CD20/CLII, CD21/CD22, CD21/CD79b, CD21/CL II, CD22/CD23, CD22/CD30, CD22/CD37, CD22/CD40, CD22/CD70, CD22/CD72, CD22/CD79a, CD22/CD79b, CD22/CD80, CD22/CD86, CD22/CL II, CD23/CL II, CD30/CL II, CD37/CD79b, CD37/CL II, CD40/CD79b, CD40/CL II, CD70/CD79b, CD70/CL II, CD72/CD79b, CD72/CL II, CD79a/CD79b, CD79b/CD80, CD79b/CD81, CD79b/CD86, CD79b/CL II, CD80/CL II, 및 CD86/CL II로부터 선택된 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 단백질을 암호화하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 따른 핵산을 포함하는 벡터.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 따른 벡터를 포함하는 숙주 세포.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 단일쇄 다특이적 결합 단백질 및 약제학적으로 허용되는 보조제, 담체 또는 부형제를 포함하는, 세포 증식 질환을 치료하기 위한 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, 단일쇄 다특이적 결합 단백질의 결합 도메인의 하나 이상이 종양 항원, B-세포 표적, TNF 수용체 상위계열 (superfamily) 일원, 헤지호그계(Hedgehog family) 일원, 수용체 타이로신 키나제, 프로테오글리칸-관련 분자, TGF-베타 상위계열 일원, Wnt-관련 분자, 수용체 리간드, T-세포 표적, 수지상세포(Dendritic cell) 표적, NK 세포 표적, 단핵구/대식세포 표적 및 혈관신생 표적으로부터 선택된 표적에 특이적으로 결합함을 특징으로 하는, 약제학적 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, 세포 증식 질환이 암, 자가면역질환 및 염증 질환으로 이루어진 그룹 중에서 선택됨을 특징으로 하는, 약제학적 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 암이 종양 또는 B-세포 암임을 특징으로 하는, 약제학적 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 자가면역질환이 류마티스 관절염, 골관절염, 건성 관절염, 건선, 염증성 장질환, 크론병(Crohn's disease), 궤양성 결장염, 천식, 전신 홍반성 루푸스(SLE), 당뇨병, 다발성 경화증, 실질기관 이식거부 및 이식편 대 숙주병(GVHD)으로 이루어진 그룹으로부터 선택됨을 특징으로 하는 약제학적 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 단일쇄 다특이적 결합 단백질 2개를 포함하는 단백질 이량체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 75,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 76,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 77,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 78,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 79,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 80,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 81,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 82,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 83,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 84,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 85,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 86,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 87,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 88,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 89,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 90,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 91,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 92,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 93,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 94,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 95,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 96,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 97,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 98,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20140526",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 36,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 면역글로불린의 중쇄 및 경쇄의 가변 영역으로부터 유래되는 제1 결합 도메인; (b) 힌지 또는 힌지-유사 도메인, C   H2  도메인 및 C   H3  도메인을 포함하는 면역글로불린으로부터 유래되는 불변 하위영역 (constant sub-region); (c) 제II형 C-렉틴 단백질의 스톡 (stalk) 영역으로부터 유래되는 아미노산 서열을 포함하는 5 내지 45개 아미노산 길이의 링커 펩타이드; 및 (d) 면역글로불린의 중쇄 및 경쇄의 가변 영역으로부터 유래되는 제2 결합 도메인을 아미노-말단으로부터 카복시-말단까지 포함하는, 단일쇄 다특이적 결합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상의 결합 도메인의 결합 친화성이 약 10   -6  M 내지 10   -9  M인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 물리적으로 상이한 세포 상에 위치된 상이한 표적 분자에 특이적으로 결합하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 결합 도메인 중 하나 이상이 서열번호 2, 4, 6, 103, 105, 107 및 109로부터 선택되는 서열을 포함하는 scFv인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 링커 펩타이드가 서열번호 373, 374, 375, 376 및 377로부터 선택되는 서열을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 키메라, 사람화된, 또는 사람 면역글로불린 가변 도메인을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 불변 하위영역이 사람 면역글로불린 불변 하위영역인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 단백질이 CD19/CD20, CD19/CD22, CD19/CL II, CD20/CD21, CD20/CD22, CD20/CD40, CD20/CD79a, CD20/CD79b, CD20/CD81, CD20/CL II, CD21/CD22, CD21/CD79b, CD21/CL II, CD22/CD23, CD22/CD30, CD22/CD37, CD22/CD40, CD22/CD70, CD22/CD72, CD22/CD79a, CD22/CD79b, CD22/CD80, CD22/CD86, CD22/CL II, CD23/CL II, CD30/CL II, CD37/CD79b, CD37/CL II, CD40/CD79b, CD40/CL II, CD70/CD79b, CD70/CL II, CD72/CD79b, CD72/CL II, CD79a/CD79b, CD79b/CD80, CD79b/CD81, CD79b/CD86, CD79b/CL II, CD80/CL II 및 CD86/CL II로부터 선택되는 항원의 쌍을 특이적으로 인식하는 결합 도메인 쌍을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 단백질을 암호화하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 따른 핵산을 포함하는 벡터.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 따른 벡터를 포함하는 숙주 세포.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 단일쇄 다특이적 결합 단백질 및 약제학적으로 허용되는 보조제, 담체 또는 부형제를 포함하는, 암을 치료하기 위한 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 단일쇄 다특이적 결합 단백질 및 약제학적으로 허용되는 보조제, 담체 또는 부형제를 포함하는, 자가면역 질환 또는 염증 질환을 치료하기 위한 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 암이 종양 또는 B-세포 암인 약제학적 조성물.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 자가면역질환이 류마티스 관절염, 골관절염, 건선성 관절염, 건선, 염증성 장질환, 크론병 (Crohn's disease), 궤양성 결장염, 천식, 전신 홍반성 루푸스 (SLE), 당뇨병, 다발성 경화증, 실질기관 이식거부 및 이식편 대 숙주병 (GVHD)으로 이루어진 그룹으로부터 선택되는 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 단일쇄 다특이적 결합 단백질 2개를 포함하는 단백질 이량체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 분자 표적물을 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 에피토프를 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 동일한 진핵 세포, 원핵 세포, 바이러스, 캐리어 또는 목적물 상의 상이한 분자 표적물을 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인이 물리적으로 상이한 진핵 세포, 원핵 세포, 바이러스, 캐리어 또는 목적물과 연합된 분자 표적물을 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 진핵 세포, 원핵 세포, 바이러스, 캐리어 또는 목적물과 연합되지 않은 하나 이상의 분자 표적물을 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인, 제2 결합 도메인 및 불변 하위영역이 각각 사람 면역글로불린으로부터 유래되는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상이 암세포 상의 표적물을 인식하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 불변 하위영역이 이펙터 기능을 제공하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 불변 하위영역이 이펙터 세포 Fc 수용체를 인식하는 단백질.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 이펙터 기능이 항체-의존성 세포-매개된 세포독성 (ADCC), 보체-의존성 세포독성 (CDC) 및 FcR 결합으로 이루어진 그룹 중에서 선택되는 단백질.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, C   H3  도메인이 절두되어 있고 서열번호 366, 367, 368, 369, 370 및 371로 이루어진 그룹 중에서 선택되는 C-말단 서열을 포함하는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, C   H2  및 C   H3  도메인이 IgG 면역글로불린으로부터의 것인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 불변 하위영역이 면역글로불린의 C   H1  도메인을 포함하지 않는 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제II형 C-렉틴 단백질이 CD69, CD72 또는 CD94인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제II형 C-렉틴 단백질이 NKG2A인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제II형 C-렉틴 단백질이 NKG2D인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 단백질의 생체내 반감기가 사람에서 28시간 이상인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 단백질이 당변이체인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제34항에 있어서, 당변이체 단백질이 탄수화물 개질제의 존재 하에서 배양된 숙주 세포에서 단백질을 발현시킴으로써 생성되는 단백질.",
+            "refers_to": [
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항에 있어서, 탄수화물 개질제가 카스타노스페르민 또는 키푸넨신인 단백질.",
+            "refers_to": [
+              35
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20150325",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 3,
+        "claims": [
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 결합 도메인 및 제2 결합 도메인 중 하나 이상의 결합 도메인의 결합 친화성이 10   -6  M 내지 10   -9  M인 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 따른 단일쇄 다특이적 결합 단백질 및 약제학적으로 허용되는 보조제, 담체 또는 부형제를 포함하는, 암을 치료하기 위한 약제학적 조성물.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 따른 단일쇄 다특이적 결합 단백질 및 약제학적으로 허용되는 보조제, 담체 또는 부형제를 포함하는, 자가면역 질환 또는 염증 질환을 치료하기 위한 약제학적 조성물.",
+            "refers_to": [
+              8
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 98,
+      "after_claim_count": 3,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2007.12.21",
+      "internationOpenNumber": "WO2007146968",
+      "internationalApplicationDate": "2007.06.12",
+      "internationalApplicationNumber": "PCT/US2007/071052"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 워싱턴주 ***** 시애틀 스위트 **** 포스 애비뉴 ****",
+      "code": "520110003987",
+      "country": "미국",
+      "engName": "Aptevo Research and Development LLC",
+      "name": "압테보 리서치 앤드 디벨롭먼트 엘엘씨"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 워싱턴주 ***** 벨...",
+        "code": "",
+        "country": "미국",
+        "engName": "THOMPSON, Peter, Armstrong",
+        "name": "톰슨 피터 암스트롱"
+      },
+      {
+        "address": "미국 워싱턴주 ***** 쇼...",
+        "code": "",
+        "country": "미국",
+        "engName": "LEDBETTER, Jeffrey, A.",
+        "name": "레드베터 제프리 에이."
+      },
+      {
+        "address": "미국 워싱턴주 ***** 쇼...",
+        "code": "",
+        "country": "미국",
+        "engName": "HAYDEN-LEDBETTER, Martha, Susan",
+        "name": "헤이든-레드베터 마사 수잔"
+      },
+      {
+        "address": "미국 워싱턴주 ***** 호바...",
+        "code": "",
+        "country": "미국",
+        "engName": "GROSMAIRE, Laura, Sue",
+        "name": "그로스마이어 로라 수"
+      },
+      {
+        "address": "미국 워싱턴주 ***** 시애틀...",
+        "code": "",
+        "country": "미국",
+        "engName": "BADER, Robert",
+        "name": "베이더 로버트"
+      },
+      {
+        "address": "미국 워싱턴주 ***** 보...",
+        "code": "",
+        "country": "미국",
+        "engName": "BRADY, William",
+        "name": "브래디 윌리엄"
+      },
+      {
+        "address": "미국 매사추세츠주 ****...",
+        "code": "",
+        "country": "캐나다",
+        "engName": "TCHISTIAKOVA, Lioudmila",
+        "name": "치스티아코바 리우드밀라"
+      },
+      {
+        "address": "미국 매사추세츠주 **...",
+        "code": "",
+        "country": "미국",
+        "engName": "FOLLETTIE, Maximillian, T.",
+        "name": "폴레티 맥시밀리언 티."
+      },
+      {
+        "address": "미국 매사추세츠주 *****...",
+        "code": "",
+        "country": "프랑스",
+        "engName": "CALABRO, Valerie",
+        "name": "칼라브로 발레리"
+      },
+      {
+        "address": "미국 매사추세츠주 ***...",
+        "code": "",
+        "country": "네덜란드",
+        "engName": "SCHULER, Alwin",
+        "name": "슐러 알빈"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 종로구 세종대로 ***, **층 (세종로, 광화문빌딩)(법무법인센트럴)",
+        "code": "919990006014",
+        "country": "대한민국",
+        "engName": "HOON CHANG",
+        "name": "장훈"
+      },
+      {
+        "address": "서울 서초구 서초대로 *** 고덕빌딩 *층(샤인특허법률사무소)",
+        "code": "919990005963",
+        "country": "대한민국",
+        "engName": "LEE BUM RAE",
+        "name": "이범래"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2006.06.12",
+        "priorityApplicationNumber": "60/813,261"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2006.10.20",
+        "priorityApplicationNumber": "60/853,287"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2005070966 A2",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2004076489 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20060104971 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20050000899 A1",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2009.01.12",
+        "receiptNumber": "1-1-2009-0018926-32"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2009.01.29",
+        "receiptNumber": "1-5-2009-0006580-06"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2009.02.26",
+        "receiptNumber": "1-1-2009-0118782-77"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Sub-agent] Report on Agent (Representative)",
+        "documentName": "[복대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2009.03.02",
+        "receiptNumber": "1-1-2009-0125980-75"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of Change (Correction) of Information of Applicant",
+        "documentName": "출원인정보변경(경정)신고",
+        "receiptDate": "2009.12.10",
+        "receiptNumber": "4-1-2009-5242089-51"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2010.09.14",
+        "receiptNumber": "4-1-2010-5172241-44"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2011.10.10",
+        "receiptNumber": "1-1-2011-0787387-17"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2012.06.12",
+        "receiptNumber": "1-1-2012-0466455-63"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2012.06.12",
+        "receiptNumber": "1-1-2012-0466442-70"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2013.11.26",
+        "receiptNumber": "9-5-2013-0817575-58"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2014.01.27",
+        "receiptNumber": "1-1-2014-0080380-64"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2014.02.25",
+        "receiptNumber": "1-1-2014-0182664-95"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2014.02.25",
+        "receiptNumber": "4-1-2014-5024397-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2014.03.26",
+        "receiptNumber": "1-1-2014-0288060-81"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2014.04.25",
+        "receiptNumber": "1-1-2014-0395211-66"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장관련안내서",
+        "receiptDate": "2014.04.30",
+        "receiptNumber": "1-5-2014-0072029-14"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2014.05.26",
+        "receiptNumber": "1-1-2014-0496528-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2014.05.26",
+        "receiptNumber": "1-1-2014-0496515-21"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2014.09.25",
+        "receiptNumber": "9-5-2014-0656079-71"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2014.10.10",
+        "receiptNumber": "1-1-2014-0965573-37"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2014.11.25",
+        "receiptNumber": "1-1-2014-1141317-96"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2014.12.26",
+        "receiptNumber": "1-1-2014-1261263-00"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2015.01.26",
+        "receiptNumber": "1-1-2015-0080215-84"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2015.02.23",
+        "receiptNumber": "1-1-2015-0172558-19"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장 관련 안내서",
+        "receiptDate": "2015.02.27",
+        "receiptNumber": "1-5-2015-0042607-81"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2015.03.25",
+        "receiptNumber": "1-1-2015-0294019-49"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2015.03.25",
+        "receiptNumber": "1-1-2015-0294006-56"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2015.08.17",
+        "receiptNumber": "9-5-2015-0552035-02"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2017.07.03",
+        "receiptNumber": "4-1-2017-5104335-62"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020097000622.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00d427d8845eaed63993883244f44d3bf25b31e271a3b8f20c18a8a4208593a69f132f2f27f06c81ea4e26b33987d9c9e8c9a8334d0b9ef11f",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfba95f8a62eeaa0c7f7e2973f8bd3ca8f6f63d80017c373a87ce3e94eed6398ba382877c62c30087f2cc686b2b6634c62ab08cb70f6ff9338"
+  },
+  "rndInfoArray": ""
+}

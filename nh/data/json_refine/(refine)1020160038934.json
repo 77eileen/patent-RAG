@@ -1,0 +1,658 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2016.03.31",
+      "applicationFlag": "",
+      "applicationNumber": "10-2016-0038934",
+      "claimCount": "7",
+      "examinerName": "이수정",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "Ssu72를 유효성분으로 포함하는 자가면역질환의 예방 또는 치료용 조성물",
+      "inventionTitleEng": "Composition for preventing or treating autoimmune  diseases comprising Ssu72",
+      "openDate": "2016.10.10",
+      "openNumber": "10-2016-0117352",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2016.03.31",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2017.12.01",
+      "publicationNumber": "",
+      "registerDate": "2017.11.24",
+      "registerNumber": "10-1803636-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/16"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "G01N 33/50"
+      },
+      {
+        "ipcDate": "(2018.01.01)",
+        "ipcNumber": "C12Q 1/68"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "G01N 33/53"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 Ssu72를 유효성분으로 함유하는 자가면역질환의 예방 또는 치료용 조성물에 관한 것으로, 본 발명에 따른 Ssu72는 STAT3의 활성을 효과적으로 억제할 수 있는 효과가 있어, Ssu72를 과발현 시킨 경우 염증성 사이토카인의 발현을 억제할 수 있고 동시에 면역조절 T세포와 관련된 인자인 IL-4 및 IL-10의 발현은 촉진시키는 작용을 통해 궁극적으로 면역질환, 바람직하게는 STAT3 매개 질환을 효과적으로 예방 및 치료할 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020160038934",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20160331",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 9,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Ssu72 단백질 또는 Ssu72 단백질을 암호화하는 폴리뉴클레오티드를 포함하는 면역질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 Ssu72 단백질은 서열번호 1의 아미노산 서열로 이루어진 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 Ssu72 단백질을 암호화하는 폴리뉴클레오티드는 서열번호 2의 염기서열로 이루어진 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 폴리뉴클레오티드는 발현벡터 내에 포함되어 있는 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \n상기 면역질환은 STAT3의 활성화와 관련된 질환인 류마티스 관절염, 골다공증, 형질구 증가증, 초면역 글로불린 혈증, 빈혈, 신염, 악액질, 목축업자 질병, 맥관증식신염, 다발성 경화증, 포도막염, 만성 갑상선염, 지연과민증, 접촉피부염 아토피성 피부염, 전신성 에리테마토스, 크론병, 췌장염, 건선, 건성안, 쇼그렌 증후군, 다발성 경화증, 연소성 특발성 위축증, 당뇨병 및 알츠하이머로 이루어진 군 중에서 선택되는 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Ssu72 유전자 또는 Ssu72 단백질을 포함하는 세포 또는 조직에 후보물질을 처리하는 단계; 및\nSsu72 유전자의 발현양 또는 Ssu72 단백질의 양 또는 Ssu72 단백질의 활성을 측정하는 단계를 포함하는, STAT3의 활성화와 관련된 질환의 치료제를 스크리닝 하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서,\n상기 Ssu72 유전자의 발현양 또는 Ssu72 단백질의 양 또는 Ssu72 단백질 활성이 후보물질을 처리하지 않은 대조군에 비해 증가되는 경우, 상기 후보물질을 STAT3의 활성화와 관련된 질환의 예방 또는 치료용 물질로 판정하는 단계를 더 포함하는 것을 특징으로 하는 스크리닝 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서,\n상기 Ssu72 유전자의 발현양 또는 Ssu72 단백질의 양 또는 Ssu72 단백질의 활성은 역전사 중합효소연쇄반응(RT-PCR), 실시간 역전사 중합효소연쇄반응, 면역침전법(coimmunoprecipitation), 효소면역분석법(enzyme-linked immunosorbentassay), 방사능면역분석법(RIA), 면역조직화학, 웨스턴 블로팅(Western Blotting) 및 유세포 분석법(FACS)으로 이루어진 군 중에서 선택되는 어느 하나의 방법으로 수행하는 것을 특징으로 하는 스크리닝 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, \n상기 STAT3의 활성화와 관련된 질환은 류마티스 관절염, 골다공증, 형질구 증가증, 초면역 글로불린 혈증, 빈혈, 신염, 악액질, 목축업자 질병, 맥관증식신염, 다발성 경화증, 포도막염, 만성 갑상선염, 지연과민증, 접촉피부염 아토피성 피부염, 전신성 에리테마토스, 크론병, 췌장염, 건선, 건성안, 쇼그렌 증후군, 다발성 경화증, 비만, 대사 증후군 동반 자가면역질환, 연소성 특발성 위축증, 당뇨병 및 알츠하이머로 이루어진 군 중에서 선택되는 것임을 특징으로 하는 스크리닝 방법.",
+          "refers_to": [
+            6
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20170724",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 9,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Ssu72 단백질 또는 Ssu72 단백질을 암호화하는 폴리뉴클레오티드를 포함하는 류마티스 관절염 또는 쇼그렌 증후군의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 Ssu72 단백질은 서열번호 1의 아미노산 서열로 이루어진 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 Ssu72 단백질을 암호화하는 폴리뉴클레오티드는 서열번호 2의 염기서열로 이루어진 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 폴리뉴클레오티드는 발현벡터 내에 포함되어 있는 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Ssu72 유전자 또는 Ssu72 단백질을 포함하는 세포 또는 조직에 후보물질을 처리하는 단계; 및Ssu72 유전자의 발현양 또는 Ssu72 단백질의 양 또는 Ssu72 단백질의 활성을 측정하는 단계를 포함하는, 류마티스 관절염 또는 쇼그렌 증후군의 치료제를 스크리닝 하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서,상기 Ssu72 유전자의 발현양 또는 Ssu72 단백질의 양 또는 Ssu72 단백질 활성이 후보물질을 처리하지 않은 대조군에 비해 증가되는 경우, 상기 후보물질을 류마티스 관절염 또는 쇼그렌 증후군의 예방 또는 치료용 물질로 판정하는 단계를 더 포함하는 것을 특징으로 하는 스크리닝 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서,상기 Ssu72 유전자의 발현양 또는 Ssu72 단백질의 양 또는 Ssu72 단백질의 활성은 역전사 중합효소연쇄반응(RT-PCR), 실시간 역전사 중합효소연쇄반응, 면역침전법(coimmunoprecipitation), 효소면역분석법(enzyme-linked immunosorbentassay), 방사능면역분석법(RIA), 면역조직화학, 웨스턴 블로팅(Western Blotting) 및 유세포 분석법(FACS)으로 이루어진 군 중에서 선택되는 어느 하나의 방법으로 수행하는 것을 특징으로 하는 스크리닝 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20160331",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 9,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Ssu72 단백질 또는 Ssu72 단백질을 암호화하는 폴리뉴클레오티드를 포함하는 면역질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 Ssu72 단백질은 서열번호 1의 아미노산 서열로 이루어진 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 Ssu72 단백질을 암호화하는 폴리뉴클레오티드는 서열번호 2의 염기서열로 이루어진 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 폴리뉴클레오티드는 발현벡터 내에 포함되어 있는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \n상기 면역질환은 STAT3의 활성화와 관련된 질환인 류마티스 관절염, 골다공증, 형질구 증가증, 초면역 글로불린 혈증, 빈혈, 신염, 악액질, 목축업자 질병, 맥관증식신염, 다발성 경화증, 포도막염, 만성 갑상선염, 지연과민증, 접촉피부염 아토피성 피부염, 전신성 에리테마토스, 크론병, 췌장염, 건선, 건성안, 쇼그렌 증후군, 다발성 경화증, 연소성 특발성 위축증, 당뇨병 및 알츠하이머로 이루어진 군 중에서 선택되는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Ssu72 유전자 또는 Ssu72 단백질을 포함하는 세포 또는 조직에 후보물질을 처리하는 단계; 및\nSsu72 유전자의 발현양 또는 Ssu72 단백질의 양 또는 Ssu72 단백질의 활성을 측정하는 단계를 포함하는, STAT3의 활성화와 관련된 질환의 치료제를 스크리닝 하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서,\n상기 Ssu72 유전자의 발현양 또는 Ssu72 단백질의 양 또는 Ssu72 단백질 활성이 후보물질을 처리하지 않은 대조군에 비해 증가되는 경우, 상기 후보물질을 STAT3의 활성화와 관련된 질환의 예방 또는 치료용 물질로 판정하는 단계를 더 포함하는 것을 특징으로 하는 스크리닝 방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서,\n상기 Ssu72 유전자의 발현양 또는 Ssu72 단백질의 양 또는 Ssu72 단백질의 활성은 역전사 중합효소연쇄반응(RT-PCR), 실시간 역전사 중합효소연쇄반응, 면역침전법(coimmunoprecipitation), 효소면역분석법(enzyme-linked immunosorbentassay), 방사능면역분석법(RIA), 면역조직화학, 웨스턴 블로팅(Western Blotting) 및 유세포 분석법(FACS)으로 이루어진 군 중에서 선택되는 어느 하나의 방법으로 수행하는 것을 특징으로 하는 스크리닝 방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, \n상기 STAT3의 활성화와 관련된 질환은 류마티스 관절염, 골다공증, 형질구 증가증, 초면역 글로불린 혈증, 빈혈, 신염, 악액질, 목축업자 질병, 맥관증식신염, 다발성 경화증, 포도막염, 만성 갑상선염, 지연과민증, 접촉피부염 아토피성 피부염, 전신성 에리테마토스, 크론병, 췌장염, 건선, 건성안, 쇼그렌 증후군, 다발성 경화증, 비만, 대사 증후군 동반 자가면역질환, 연소성 특발성 위축증, 당뇨병 및 알츠하이머로 이루어진 군 중에서 선택되는 것임을 특징으로 하는 스크리닝 방법.",
+            "refers_to": [
+              6
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20170724",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 5,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "Ssu72 단백질 또는 Ssu72 단백질을 암호화하는 폴리뉴클레오티드를 포함하는 류마티스 관절염 또는 쇼그렌 증후군의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "Ssu72 유전자 또는 Ssu72 단백질을 포함하는 세포 또는 조직에 후보물질을 처리하는 단계; 및\nSsu72 유전자의 발현양 또는 Ssu72 단백질의 양 또는 Ssu72 단백질의 활성을 측정하는 단계를 포함하는, 류마티스 관절염 또는 쇼그렌 증후군의 치료제를 스크리닝 하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서,\n상기 Ssu72 유전자의 발현양 또는 Ssu72 단백질의 양 또는 Ssu72 단백질 활성이 후보물질을 처리하지 않은 대조군에 비해 증가되는 경우, 상기 후보물질을 류마티스 관절염 또는 쇼그렌 증후군의 예방 또는 치료용 물질로 판정하는 단계를 더 포함하는 것을 특징으로 하는 스크리닝 방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 9,
+      "after_claim_count": 5,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "서울특별시 서초구...",
+        "code": "220050224041",
+        "country": "대한민국",
+        "engName": "THE CATHOLIC UNIVERSITY OF KOREA INDUSTRY-ACADEMIC COOPERATION FOUNDATION",
+        "name": "가톨릭대학교 산학협력단"
+      },
+      {
+        "address": "경기도 수원시 장안구...",
+        "code": "220050013604",
+        "country": "대한민국",
+        "engName": "Research ＆ Business Foundation SUNGKYUNKWAN UNIVERSITY",
+        "name": "성균관대학교산학협력단"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 용산구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "CHO, Mi-La",
+        "name": "조미라"
+      },
+      {
+        "address": "서울특별시 서초구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "PARK, Sung-Hwan",
+        "name": "박성환"
+      },
+      {
+        "address": "경상북도 포항시 북구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "LEE, Chang-Woo",
+        "name": "이창우"
+      },
+      {
+        "address": "서울특별시 서초구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "KWOK, Seung-Ki",
+        "name": "곽승기"
+      },
+      {
+        "address": "서울특별시 서초구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "CHOI, Jong-Young",
+        "name": "최종영"
+      },
+      {
+        "address": "경기도 과천시 희망길 **...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "LEE, Seung-Hun",
+        "name": "이승훈"
+      },
+      {
+        "address": "서울특별시 동작구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "SEO, Hyeon-Beom",
+        "name": "서현범"
+      },
+      {
+        "address": "서울특별시 강서구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "MOON, Young-Mee",
+        "name": "문영미"
+      },
+      {
+        "address": "서울특별시 관악구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "PARK, Jin-Sil",
+        "name": "박진실"
+      },
+      {
+        "address": "서울특별시 구로구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "PARK, Min-Jung",
+        "name": "박민정"
+      },
+      {
+        "address": "경기도 수원시 영통구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "LEE, Jin-Kwan",
+        "name": "이진관"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 강남대로**길 ** (역삼동) 화성빌딩 *층(위특허법률사무소)",
+      "code": "920040001553",
+      "country": "대한민국",
+      "engName": "WIE Byoung Gap",
+      "name": "위병갑"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2015.03.31",
+      "priorityApplicationNumber": "1020150045114"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "US20150050288 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "The EMBO Journal, Vol.22, No.7. pp.1588-1598 (2003)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Journal of Biological Chemistry, Vol.286, No.7, pp.5717-5726 (2011)",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2016.03.31",
+        "receiptNumber": "1-1-2016-0309570-61"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2017.02.23",
+        "receiptNumber": "4-1-2017-5028829-43"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2017.05.24",
+        "receiptNumber": "9-5-2017-0364431-38"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2017.07.24",
+        "receiptNumber": "1-1-2017-0707062-48"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2017.07.24",
+        "receiptNumber": "1-1-2017-0707063-94"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2017.11.15",
+        "receiptNumber": "9-5-2017-0794777-38"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2018.01.02",
+        "receiptNumber": "1-1-2018-0002244-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.11.21",
+        "receiptNumber": "4-1-2019-5245084-94"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.12.14",
+        "receiptNumber": "4-1-2023-5331701-35"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.02.29",
+        "receiptNumber": "4-1-2024-5079838-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.04.09",
+        "receiptNumber": "4-1-2025-5096062-35"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020160038934.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e008a36d4063e184e85da05fadc21bb8768edff2275c7c9510f446b38e58d02b3fe558d6c48c2ce1b3943eb503805e3203469583e97efeedf76",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf3449dbe1ce9fa4c279ff7a7ed7bcda8ce0b4dbb1886704d8cdf5b91b9da20ae74962a2a2d209bbada25384e896e7e82153c34621f7b52d8f"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "교육부",
+        "rndDuration": "2013.06.01 ~ 2016.05.31",
+        "rndManagingInstituteName": "가톨릭대학교 산학협력단",
+        "rndProjectName": "기본연구지원사업",
+        "rndSpecialInstituteName": "한국연구재단(NRF)",
+        "rndTaskContribution": "1/3",
+        "rndTaskName": "비알코올성 지방간질환 환자군에서 liver X receptor (LXR)을 이용한 간세포 지방대사 및 Th17 염증병인세포 동시조절 기전 규명",
+        "rndTaskNumber": "2013R1A1A2011680"
+      },
+      {
+        "rndDepartmentName": "보건복지부",
+        "rndDuration": "2014.06.01 ~ 2015.05.31",
+        "rndManagingInstituteName": "가톨릭대학교 산학협력단",
+        "rndProjectName": "보건의료연구개발사업 (질환극복기술개발_ 희귀질환중개연구센터)",
+        "rndSpecialInstituteName": "한국보건산업진흥원",
+        "rndTaskContribution": "1/3",
+        "rndTaskName": "쇼그렌 동물 시스템 구축 및 질병 특이 진단과 치료표적 물질 발굴",
+        "rndTaskNumber": "HI13C0016"
+      },
+      {
+        "rndDepartmentName": "보건복지부",
+        "rndDuration": "2017.04.01 ~ 2018.01.31",
+        "rndManagingInstituteName": "가톨릭대학교 산학협력단",
+        "rndProjectName": "임상연구인프라조성사업",
+        "rndSpecialInstituteName": "한국보건산업진흥원",
+        "rndTaskContribution": "1/3",
+        "rndTaskName": "관절·면역질환 T2B 기반구축센터",
+        "rndTaskNumber": "HI15C1062"
+      }
+    ]
+  }
+}

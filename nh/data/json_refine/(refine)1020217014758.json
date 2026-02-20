@@ -1,0 +1,2297 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.10.18",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7014758",
+      "claimCount": "24",
+      "examinerName": "",
+      "finalDisposal": "거절결정 후 재심사중",
+      "inventionTitle": "절단 가능한 CXCR3의 활성제 및 이의 사용 방법",
+      "inventionTitleEng": "CLEAVABLE ACTIVATORS OF CXCR3 AND METHODS OF USE",
+      "openDate": "2021.07.01",
+      "openNumber": "10-2021-0081372",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.09.20",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2021.05.14"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/52"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 27/02"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 11/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "CXCR3의 절단 가능한 활성제 및 사용 방법 염증반응 동안 활성화된 프로테아제와 같은, 프로테아제에 대한 절단 부위를 도입하도록 변형된 재조합 C-X-C 모티프 케모카인 리간드 (CXCL) 펩티드가 기술된다. 상기 CXCL 펩티드는 프로테아제에 의해 절단될 때까지 CXCR3을 활성화하는 능력을 가지고 있다. 상기 CXCL 펩티드의 단백질 분해 절단은 전 염증 반응을 최소화하고 섬유증의 발생을 억제한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217014758",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210514",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 42,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "재조합 C-X-C 모티프 케모카인 리간드 (CXCL) 펩티드로, 상기 펩티드는 프로테아제에 대한 절단 부위를 도입하기 위한 야생형 CXCR 아미노산 서열에 대응하여 변형되는, 재조합 CXCL 펩티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 CXCL은 C-X-C 케모카인 수용체 3 (CXCR3)에 대한 리간드인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 CXCL은 CXCL10, CXCL4, CXCL9 또는 CXCL11 인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 프로테아제는 카텝신, 엘라스타제 또는 매트릭스 메탈로프로테이나제 (MMP) 인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 4 항에 있어서, 상기 카텝신은 카텝신G 인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 4 항에 있어서, 상기 카텝신은 카텝신K 인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 4 항에 있어서, 상기 엘라스타제는 호중구 엘라스타제인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 4 항에 있어서, 상기 MMP는 MMP2 인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 펩티드는 길이가 약 12 내지 약 30 개 아미노산인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 펩티드는 길이가 약 18 내지 약 25 개 아미노산인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 펩티드는 길이가 21 개 또는 22 개의 아미노산인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나와 적어도 90 % 동일한, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나와 적어도 95 % 동일한, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나를 포함하거나 또는 이 중 어느 하나로 구성되는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열번호 2를 포함하거나 또는 이로 구성되는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 펩티드는 적어도 하나의 화학적 변형을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 16 항에 있어서, 상기 적어도 하나의 화학적 변형은 상기 펩티드의 N- 말단에서의 변형, 상기 펩티드의 C- 말단에서의 변형 또는 둘 다를 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 17 항에 있어서, 상기 N-말단에서의 변형은 포르밀화, 아세틸화, 프로피 오닐화, 파이로글루타메이트 형성, 미리스토일화, 팔미틸화, S-팔미토일화, 모노-메틸화, 디-메틸화, 트리-메틸화 또는 이들의 임의의 조합을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 17 항에 있어서, 상기 C- 말단에서의 변형은 메틸화, 알파-아미드화 또는 이들의 조합을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 16 항에 있어서, 상기 적어도 하나의 화학적 변형은 비표준 펩티드 연결을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 적어도 하나의 D-아미노산을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 적어도 하나의 비정규 아미노산을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 22 항에 있어서, 상기 적어도 하나의 비정규 아미노산은 변형된 비정규 아미노산인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 23 항에 있어서, 상기 펩티드는 상기 펩티드의 N-말단, 상기 펩티드의 C-말단 또는 둘 다에 변형된 비정규 아미노산을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 24 항에 있어서, 상기 펩티드는 N-말단에 변형된 비정규 아미노산을 포함하고 및 상기 변형은 포밀화, 아세틸화, 프로피오닐화, 파이로글루타메이트 형성, 미리스토일화, 팔미틸화, S-팔미토일화, 모노-메틸화, 디-메틸화, 트리-메틸화 또는 이들의 임의의 조합을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 24 항에 있어서, 상기 펩티드는 C-말단에 변형된 비정규 아미노산을 포함하고 및 상기 변형은 메틸화, 알파-아미드화 또는 이들의 조합을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 22 항에 있어서, 상기 적어도 하나의 비정규 아미노산은 메틸화된 아미노산, 폴리에틸렌 글라이콜 중합체에 접합된 아미노산, 비오틴에 접합된 아미노산, 플루오레세인 이소티오시아네이트에 접합된 아미노산 (FITC), 캐리어 단백질에 접합 된 아미노산, 방사성 동위 원소로 표지된 아미노산, 또는 이들의 임의 조합인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 서방형 제제의, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 28 항에 있어서, 상기 서방형 제제는 폴리 (락틱-코-글라이콜 산) (PLGA), 하이드로겔 또는 코아세르베이트를 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항의 재조합 CXCL 펩티드 및 약학적으로 허용되는 담체를 포함하는 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 30 항에 있어서, 국소, 비강내, 흡입, 정맥내, 유리체내, 근육내, 피내 또는 피하 투여용으로 제형화된, 조성물.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 30 항에 있어서, 에어로졸화 또는 네뷸라이저에 의해 폐로 전달하기 위해 제형화된, 조성물.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 30 항에 있어서, 카테터 및 점적주입에 의해 방광으로 전달하기 위해 제형화된, 조성물.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 30 항에 있어서, 단위-용량 형태의, 조성물.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체에 제 1 항의 CXCL 펩티드를 투여하는 것을 포함하는, 대상체에서 섬유증을 억제하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 35 항에 있어서, 상기 대상체는 상처, 자가면역 질환, 염증성 질환 또는 장애, 또는 의원성 질환 또는 장애를 가진, 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 36 항에 있어서, 상기 자가면역 질환은 당뇨병, 경피증 또는 자가면역섬유증인, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 36 항에 있어서, 상기 염증성 질환 또는 장애는 특발성 폐섬유증 (IPF) 인, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 36 항에 있어서, 상기 의원성 질환 또는 장애는 약물 유발성 폐섬유증,바실러스 칼메테-게린 (BCG) 치료 유발성 방광섬유증 또는 화학요법 유발성 방광섬유증인, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체에 제 1 항의 CXCL 펩티드를 투여하는 것을 포함하는, 대상체에서 혈관신생을 억제하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 40 항에 있어서, 상기 대상체는 눈의 혈관신생 장애를 가진, 방법.",
+          "refers_to": [
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 41 항에 있어서, 상기 눈의 혈관신생 장애는 습성 황반변성, 당뇨병성 망막증, 미숙아 망막증, 녹내장 치료후 재협착증, 신생혈관 녹내장 또는 각막혈관신생인, 방법.",
+          "refers_to": [
+            41
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20251016",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 42,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "재조합 C-X-C 모티프 케모카인 리간드 (CXCL) 펩티드로, 상기 펩티드는 프로테아제에 대한 절단 부위를 도입하기 위한 야생형 CXCR 아미노산 서열에 대응하여 변형되는, 재조합 CXCL 펩티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 CXCL은 C-X-C 케모카인 수용체 3 (CXCR3)에 대한 리간드인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 CXCL은 CXCL10, CXCL4, CXCL9 또는 CXCL11 인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 프로테아제는 카텝신, 엘라스타제 또는 매트릭스 메탈로프로테이나제 (MMP) 인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 4 항에 있어서, 상기 카텝신은 카텝신G 인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 4 항에 있어서, 상기 카텝신은 카텝신K 인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 4 항에 있어서, 상기 엘라스타제는 호중구 엘라스타제인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 4 항에 있어서, 상기 MMP는 MMP2 인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 펩티드는 길이가 약 12 내지 약 30 개 아미노산인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 펩티드는 길이가 약 18 내지 약 25 개 아미노산인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 펩티드는 길이가 21 개 또는 22 개의 아미노산인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나와 적어도 90 % 동일한, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나와 적어도 95 % 동일한, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나를 포함하거나 또는 이 중 어느 하나로 구성되는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열번호 2를 포함하거나 또는 이로 구성되는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 펩티드는 적어도 하나의 화학적 변형을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 16 항에 있어서, 상기 적어도 하나의 화학적 변형은 상기 펩티드의 N- 말단에서의 변형, 상기 펩티드의 C- 말단에서의 변형 또는 둘 다를 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항에 있어서, 상기 N-말단에서의 변형은 포르밀화, 아세틸화, 프로피 오닐화, 파이로글루타메이트 형성, 미리스토일화, 팔미틸화, S-팔미토일화, 모노-메틸화, 디-메틸화, 트리-메틸화 또는 이들의 임의의 조합을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항에 있어서, 상기 C- 말단에서의 변형은 메틸화, 알파-아미드화 또는 이들의 조합을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 16 항에 있어서, 상기 적어도 하나의 화학적 변형은 비표준 펩티드 연결을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 적어도 하나의 D-아미노산을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 적어도 하나의 비정규 아미노산을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 22 항에 있어서, 상기 적어도 하나의 비정규 아미노산은 변형된 비정규 아미노산인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 23 항에 있어서, 상기 펩티드는 상기 펩티드의 N-말단, 상기 펩티드의 C-말단 또는 둘 다에 변형된 비정규 아미노산을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 24 항에 있어서, 상기 펩티드는 N-말단에 변형된 비정규 아미노산을 포함하고 및 상기 변형은 포밀화, 아세틸화, 프로피오닐화, 파이로글루타메이트 형성, 미리스토일화, 팔미틸화, S-팔미토일화, 모노-메틸화, 디-메틸화, 트리-메틸화 또는 이들의 임의의 조합을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 24 항에 있어서, 상기 펩티드는 C-말단에 변형된 비정규 아미노산을 포함하고 및 상기 변형은 메틸화, 알파-아미드화 또는 이들의 조합을 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 22 항에 있어서, 상기 적어도 하나의 비정규 아미노산은 메틸화된 아미노산, 폴리에틸렌 글라이콜 중합체에 접합된 아미노산, 비오틴에 접합된 아미노산, 플루오레세인 이소티오시아네이트에 접합된 아미노산 (FITC), 캐리어 단백질에 접합 된 아미노산, 방사성 동위 원소로 표지된 아미노산, 또는 이들의 임의 조합인, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 서방형 제제의, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 28 항에 있어서, 상기 서방형 제제는 폴리 (락틱-코-글라이콜 산) (PLGA), 하이드로겔 또는 코아세르베이트를 포함하는, 재조합 CXCL 펩티드.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항의 재조합 CXCL 펩티드 및 약학적으로 허용되는 담체를 포함하는 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 30 항에 있어서, 국소, 비강내, 흡입, 정맥내, 유리체내, 근육내, 피내 또는 피하 투여용으로 제형화된, 조성물.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 30 항에 있어서, 에어로졸화 또는 네뷸라이저에 의해 폐로 전달하기 위해 제형화된, 조성물.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 30 항에 있어서, 카테터 및 점적주입에 의해 방광으로 전달하기 위해 제형화된, 조성물.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 30 항에 있어서, 단위-용량 형태의, 조성물.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "대상체에 제 1 항의 CXCL 펩티드를 투여하는 것을 포함하는, 대상체에서 섬유증을 억제하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 35 항에 있어서, 상기 대상체는 상처, 자가면역 질환, 염증성 질환 또는 장애, 또는 의원성 질환 또는 장애를 가진, 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 36 항에 있어서, 상기 자가면역 질환은 당뇨병, 경피증 또는 자가면역섬유증인, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 36 항에 있어서, 상기 염증성 질환 또는 장애는 특발성 폐섬유증 (IPF) 인, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 36 항에 있어서, 상기 의원성 질환 또는 장애는 약물 유발성 폐섬유증,바실러스 칼메테-게린 (BCG) 치료 유발성 방광섬유증 또는 화학요법 유발성 방광섬유증인, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "대상체에 제 1 항의 CXCL 펩티드를 투여하는 것을 포함하는, 대상체에서 혈관신생을 억제하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 40 항에 있어서, 상기 대상체는 눈의 혈관신생 장애를 가진, 방법.",
+          "refers_to": [
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 41 항에 있어서, 상기 눈의 혈관신생 장애는 습성 황반변성, 당뇨병성 망막증, 미숙아 망막증, 녹내장 치료후 재협착증, 신생혈관 녹내장 또는 각막혈관신생인, 방법.",
+          "refers_to": [
+            41
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210514",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 42,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "재조합 C-X-C 모티프 케모카인 리간드 (CXCL) 펩티드로, 상기 펩티드는 프로테아제에 대한 절단 부위를 도입하기 위한 야생형 CXCR 아미노산 서열에 대응하여 변형되는, 재조합 CXCL 펩티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 CXCL은 C-X-C 케모카인 수용체 3 (CXCR3)에 대한 리간드인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 CXCL은 CXCL10, CXCL4, CXCL9 또는 CXCL11 인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 프로테아제는 카텝신, 엘라스타제 또는 매트릭스 메탈로프로테이나제 (MMP) 인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 4 항에 있어서, 상기 카텝신은 카텝신G 인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 4 항에 있어서, 상기 카텝신은 카텝신K 인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 4 항에 있어서, 상기 엘라스타제는 호중구 엘라스타제인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 4 항에 있어서, 상기 MMP는 MMP2 인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 펩티드는 길이가 약 12 내지 약 30 개 아미노산인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 펩티드는 길이가 약 18 내지 약 25 개 아미노산인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 펩티드는 길이가 21 개 또는 22 개의 아미노산인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나와 적어도 90 % 동일한, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나와 적어도 95 % 동일한, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나를 포함하거나 또는 이 중 어느 하나로 구성되는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 펩티드의 아미노산 서열은 서열번호 2를 포함하거나 또는 이로 구성되는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 펩티드는 적어도 하나의 화학적 변형을 포함하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 16 항에 있어서, 상기 적어도 하나의 화학적 변형은 상기 펩티드의 N- 말단에서의 변형, 상기 펩티드의 C- 말단에서의 변형 또는 둘 다를 포함하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 17 항에 있어서, 상기 N-말단에서의 변형은 포르밀화, 아세틸화, 프로피 오닐화, 파이로글루타메이트 형성, 미리스토일화, 팔미틸화, S-팔미토일화, 모노-메틸화, 디-메틸화, 트리-메틸화 또는 이들의 임의의 조합을 포함하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 17 항에 있어서, 상기 C- 말단에서의 변형은 메틸화, 알파-아미드화 또는 이들의 조합을 포함하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 16 항에 있어서, 상기 적어도 하나의 화학적 변형은 비표준 펩티드 연결을 포함하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 적어도 하나의 D-아미노산을 포함하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 적어도 하나의 비정규 아미노산을 포함하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 22 항에 있어서, 상기 적어도 하나의 비정규 아미노산은 변형된 비정규 아미노산인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 23 항에 있어서, 상기 펩티드는 상기 펩티드의 N-말단, 상기 펩티드의 C-말단 또는 둘 다에 변형된 비정규 아미노산을 포함하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 24 항에 있어서, 상기 펩티드는 N-말단에 변형된 비정규 아미노산을 포함하고 및 상기 변형은 포밀화, 아세틸화, 프로피오닐화, 파이로글루타메이트 형성, 미리스토일화, 팔미틸화, S-팔미토일화, 모노-메틸화, 디-메틸화, 트리-메틸화 또는 이들의 임의의 조합을 포함하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 24 항에 있어서, 상기 펩티드는 C-말단에 변형된 비정규 아미노산을 포함하고 및 상기 변형은 메틸화, 알파-아미드화 또는 이들의 조합을 포함하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 22 항에 있어서, 상기 적어도 하나의 비정규 아미노산은 메틸화된 아미노산, 폴리에틸렌 글라이콜 중합체에 접합된 아미노산, 비오틴에 접합된 아미노산, 플루오레세인 이소티오시아네이트에 접합된 아미노산 (FITC), 캐리어 단백질에 접합 된 아미노산, 방사성 동위 원소로 표지된 아미노산, 또는 이들의 임의 조합인, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 서방형 제제의, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 28 항에 있어서, 상기 서방형 제제는 폴리 (락틱-코-글라이콜 산) (PLGA), 하이드로겔 또는 코아세르베이트를 포함하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항의 재조합 CXCL 펩티드 및 약학적으로 허용되는 담체를 포함하는 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 30 항에 있어서, 국소, 비강내, 흡입, 정맥내, 유리체내, 근육내, 피내 또는 피하 투여용으로 제형화된, 조성물.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 30 항에 있어서, 에어로졸화 또는 네뷸라이저에 의해 폐로 전달하기 위해 제형화된, 조성물.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 30 항에 있어서, 카테터 및 점적주입에 의해 방광으로 전달하기 위해 제형화된, 조성물.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 30 항에 있어서, 단위-용량 형태의, 조성물.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체에 제 1 항의 CXCL 펩티드를 투여하는 것을 포함하는, 대상체에서 섬유증을 억제하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35 항에 있어서, 상기 대상체는 상처, 자가면역 질환, 염증성 질환 또는 장애, 또는 의원성 질환 또는 장애를 가진, 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 36 항에 있어서, 상기 자가면역 질환은 당뇨병, 경피증 또는 자가면역섬유증인, 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 36 항에 있어서, 상기 염증성 질환 또는 장애는 특발성 폐섬유증 (IPF) 인, 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 36 항에 있어서, 상기 의원성 질환 또는 장애는 약물 유발성 폐섬유증,바실러스 칼메테-게린 (BCG) 치료 유발성 방광섬유증 또는 화학요법 유발성 방광섬유증인, 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체에 제 1 항의 CXCL 펩티드를 투여하는 것을 포함하는, 대상체에서 혈관신생을 억제하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 40 항에 있어서, 상기 대상체는 눈의 혈관신생 장애를 가진, 방법.",
+            "refers_to": [
+              40
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 41 항에 있어서, 상기 눈의 혈관신생 장애는 습성 황반변성, 당뇨병성 망막증, 미숙아 망막증, 녹내장 치료후 재협착증, 신생혈관 녹내장 또는 각막혈관신생인, 방법.",
+            "refers_to": [
+              41
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220920",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 46,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "재조합 C-X-C 모티프 케모카인 리간드 (CXCL) 펩티드로, \n상기 펩티드는 프로테아제에 대한 절단 부위를 도입하기 위한 야생형 CXCR 아미노산 서열에 대응하여 변형되는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 CXCL은 C-X-C 케모카인 수용체 3 (CXCR3)에 대한 리간드인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 CXCL은 CXCL10, CXCL4, CXCL9 또는 CXCL11 인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 프로테아제는 카텝신, 엘라스타제 또는 매트릭스 메탈로프로테이나제 (MMP) 인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 4 항에 있어서, \n상기 카텝신은 카텝신G 인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 4 항에 있어서, \n상기 카텝신은 카텝신K 인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 4 항에 있어서, \n상기 엘라스타제는 호중구 엘라스타제인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 4 항에 있어서, \n상기 MMP는 MMP2 인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n 상기 펩티드는 길이가 약 12 내지 약 30 개 아미노산인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 펩티드는 길이가 약 18 내지 약 25 개 아미노산인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 펩티드는 길이가 21 개 또는 22 개의 아미노산인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나와 적어도 90 % 동일한 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나와 적어도 95 % 동일한 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 펩티드의 아미노산 서열은 서열 번호 2-7, 17-23 및 27-34 중 어느 하나를 포함하거나 또는 이 중 어느 하나로 구성되는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 펩티드의 아미노산 서열은 서열번호 2를 포함하거나 또는 이로 구성되는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 펩티드는 적어도 하나의 화학적 변형을 포함하는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 16 항에 있어서, \n상기 적어도 하나의 화학적 변형은 상기 펩티드의 N- 말단에서의 변형, 상기 펩티드의 C- 말단에서의 변형 또는 둘 모두를 포함하는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항에 있어서, \n상기 N- 말단에서의 변형은 포르밀화, 아세틸화, 프로피 오닐화, 피로글루타메이트 형성, 미리스토일화, 팔미틸화, S- 팔미토일화, 모노-메틸화, 디-메틸화, 트리-메틸화 또는 이들의 임의의 조합을 포함하는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항에 있어서, \n상기 C- 말단에서의 변형은 메틸화, 알파-아미드화 또는 이들의 조합을 포함하는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 16 항에 있어서, \n상기 적어도 하나의 화학적 변형은 비표준 펩티드 연결을 포함하는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n적어도 하나의 D-아미노산을 포함하는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n적어도 하나의 비정규 아미노산을 포함하는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 22 항에 있어서, \n상기 적어도 하나의 비정규 아미노산은 변형된 비정규 아미노산인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 23 항에 있어서, \n상기 펩티드는 상기 펩티드의 N-말단, 상기 펩티드의 C-말단 또는 둘 모두에 변형된 비정규 아미노산을 포함하는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 24 항에 있어서, \n상기 펩티드는 N- 말단에 변형된 비정규 아미노산을 포함하고, 상기 변형은 포밀화, 아세틸화, 프로피오닐화, 피로글루타메이트 형성, 미리스토일화, 팔미틸화, S-팔미토일화, 모노-메틸화, 디-메틸화, 트리-메틸화 또는 이들의 임의의 조합을 포함하는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 24 항에 있어서, \n상기 펩티드는 C- 말단에 변형된 비정규 아미노산을 포함하고, 상기 변형은 메틸화, 알파-아미드화 또는 이들의 조합을 포함하는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 22 항에 있어서, \n상기 적어도 하나의 비표준 아미노산은 메틸화된 아미노산, 폴리에틸렌 글리콜 중합체에 접합된 아미노산, 비오틴에 접합된 아미노산, 플루오레세인 이소티오시아네이트에 접합된 아미노산 (FITC), 캐리어 단백질에 접합 된 아미노산, 방사성 동위 원소로 표지된 아미노산, 또는 이들의 임의 조합인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 펩티드는 서방형 제제인 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 28 항에 있어서, \n상기 서방형 제제는 폴리 (락트-코-글리콜 산) (PLGA), 하이드로겔 또는 코아세르베이트를 포함하는 것을 특징으로 하는, 재조합 CXCL 펩티드.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 CXCL 펩티드를 포함하는 것을 특징으로 하는, 섬유증 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 35 항에 있어서, \n상기 조성물은 상처, 자가면역 질환, 염증성 질환 또는 장애, 및 의원성 질환 또는 장애를 가진 환자에게 투여되는 것을 특징으로 하는, 섬유증 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항에 있어서,\n상기 자가면역 질환은 당뇨병, 경피증 또는 자가면역섬유증인, 것을 특징으로 하는, 섬유증 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항에 있어서, \n상기 염증성 질환 또는 장애는 특발성 폐섬유증 (IPF) 인, 것을 특징으로 하는, 섬유증 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항에 있어서, \n상기 의원성 질환 또는 장애는 약물 유발성 폐섬유증, 바실러스 칼메테-게린 (BCG) 치료 유발성 방광섬유증 또는 화학요법 유발성 방광섬유증인, 것을 특징으로 하는, 섬유증 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 CXCL 펩티드를 포함하는 것을 특징으로 하는 혈관신생 장애 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 40 항에 있어서, \n상기 혈관신생 장애는 눈의 혈관신생 장애인 것을 특징으로 하는, 혈관신생 장애 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              40
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 41 항에 있어서, \n상기 눈의 혈관신생 장애는 습성 황반변성, 당뇨병성 망막증, 미숙아 망막증, 녹내장 치료후 재협착증, 신생혈관 녹내장 또는 각막혈관신생인 것을 특징으로 하는, 혈관신생 장애 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35항 또는 제40항에 있어서,\n상기 조성물은 국소, 비강내, 흡입, 정맥내, 유리체내, 근육내, 피내 또는 피하 투여용으로 제형화된 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              35,
+              40
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35항 또는 제40항에 있어서,\n상기 조성물은 에어로졸화 또는 네뷸라이저에 의해 폐로 전달하기 위해 제형화된 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              35,
+              40
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35항 또는 제40항에 있어서,\n상기 조성물은 카테터 및 점적주입에 의해 방광으로 전달하기 위해 제형화된 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              35,
+              40
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35항 또는 제40항에 있어서,\n상기 조성물은 단위-용량 형태인 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              35,
+              40
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250123",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 33,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "재조합 C-X-C 모티프 케모카인 리간드 10(CXCL10) 펩티드로서, \n상기 펩티드는 프로테아제에 대한 절단 부위를 도입하기 위하여 야생형 CXCL10을 기준으로 변형된 펩티드이고, \n상기 재조합 CXCL10의 아미노산 서열은 서열 번호 2를 포함하고,\n상기 프로테아제는 카텝신 또는 엘라스타제인, 재조합 CXCL10 펩티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 카텝신은 카텝신G 인 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 카텝신은 카텝신K 인 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 엘라스타제는 호중구 엘라스타제인 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n 상기 재조합 CXCL10 펩티드는 길이가 22 내지 30 개 아미노산인 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 재조합 CXCL10 펩티드는 길이가 22 내지 25 개 아미노산인 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 재조합 CXCL10 펩티드는 길이가 22 개의 아미노산인 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 재조합 CXCL10 펩티드의 아미노산 서열은 서열 번호 2인 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 재조합 CXCL10 펩티드는 적어도 하나의 화학적 변형을 더 포함하는 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 16 항에 있어서, \n상기 적어도 하나의 화학적 변형은 상기 재조합 CXCL10 펩티드의 N- 말단에서의 변형, 상기 펩티드의 C- 말단에서의 변형 또는 둘 모두를 더 포함하는 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항에 있어서, \n상기 N- 말단에서의 변형은 포르밀화, 아세틸화, 프로피 오닐화, 피로글루타메이트 형성, 미리스토일화, 팔미틸화, S- 팔미토일화, 모노-메틸화, 디-메틸화, 트리-메틸화 또는 이들의 임의의 조합을 포함하는 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항에 있어서, \n상기 C- 말단에서의 변형은 메틸화, 알파-아미드화 또는 이들의 조합을 포함하는 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 16 항에 있어서, \n상기 적어도 하나의 화학적 변형은 비표준 펩티드 연결을 포함하는 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 재조합 CXCL10 펩티드를 포함하는 것을 특징으로 하는, 섬유증 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 재조합 CXCL10 펩티드를 포함하는 것을 특징으로 하는 혈관신생 장애 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 35 항 또는 제 40 항에 있어서, \n상기 약학적 조성물은 서방형 제제인 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              35,
+              40
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 47 항에 있어서, \n상기 서방형 제제는 폴리(락트-코-글리콜산)(PLGA), 하이드로겔 또는 코아세르베이트를 포함하는 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              47
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20251016",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 5,
+        "claims": [
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 재조합 CXCL10 펩티드는 적어도 하나의 화학적 변형을 더 포함하는 것을 특징으로 하고,\n상기 적어도 하나의 화학적 변형은 상기 펩티드의 N- 말단에서의 변형, 상기 펩티드의 C- 말단에서의 변형 또는 둘 모두를 포함하고,\n상기 펩티드의 N-말단에서의 변형은 포르밀화, 아세틸화, 프로피 오닐화, 피로글루타메이트 형성, 미리스토일화, 팔미틸화, S- 팔미토일화, 모노-메틸화, 디-메틸화, 트리-메틸화 또는 이들의 임의의 조합을 포함하고,\n상기 펩티드의 C-말단에서의 변형은 메틸화, 알파-아미드화 또는 이들의 조합을 포함하는 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 16 항에 있어서, \n상기 적어도 하나의 화학적 변형은 비표준 펩티드 연결을 더 포함하는 것을 특징으로 하는, 재조합 CXCL10 펩티드.",
+            "refers_to": [
+              16
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 42,
+      "after_claim_count": 5,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.04.30",
+      "internationOpenNumber": "WO2020086400",
+      "internationalApplicationDate": "2019.10.18",
+      "internationalApplicationNumber": "PCT/US2019/056955"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 펜실베니아 *****, 피츠버그, *** 새커리 애비뉴, 퍼스트 플로어 가드너 스틸 컨퍼런스 센터",
+      "code": "519986041437",
+      "country": "미국",
+      "engName": "UNIVERSITY OF PITTSBURGH - OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION",
+      "name": "유니버시티 오브 피츠버그 - 오브 더 커먼웰쓰 시스템 오브 하이어 에듀케이션"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "미국, 펜실베니아 ****...",
+      "code": "",
+      "country": "",
+      "engName": "WELLS, Alan H.",
+      "name": "웰즈, 알란 에이치."
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 강남구 테헤란로 *** (역삼동) 성지하이츠 *차 *층(원국제특허법률사무소)",
+      "code": "919980003859",
+      "country": "대한민국",
+      "engName": "LEE, Won Hee",
+      "name": "이원희"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2018.10.22",
+      "priorityApplicationNumber": "62/748,711"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "JP2003526315 A",
+      "examinerQuotationFlag": "Y"
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.05.14",
+        "receiptNumber": "1-1-2021-0562246-68"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.05.25",
+        "receiptNumber": "1-5-2021-0083024-75"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.09.20",
+        "receiptNumber": "1-1-2022-0986600-96"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.09.20",
+        "receiptNumber": "1-1-2022-0986644-94"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of Return of Official Fee",
+        "documentName": "수수료 반환 안내서",
+        "receiptDate": "2022.09.21",
+        "receiptNumber": "1-5-2022-0140730-07"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.11.25",
+        "receiptNumber": "9-5-2024-1009878-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.01.23",
+        "receiptNumber": "1-1-2025-0094620-80"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.01.23",
+        "receiptNumber": "1-1-2025-0094600-77"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2025.07.25",
+        "receiptNumber": "9-5-2025-0704772-44"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2025.10.16",
+        "receiptNumber": "1-1-2025-1155283-84"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.10.16",
+        "receiptNumber": "1-1-2025-1155276-64"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217014758.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9316da55e3813547f06ddd2941603310e61e38cc9542961bef1820cc5b4bc031fb1e5dfdee86308b62263dd37277a5875d1e0be5c05e97b5bf",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf5041256476d79197b81b97c5ba29b660f9a78052c404e9b9f86bf53ebabfa11012da6916139bafa2f30a3de4b288d7469d9e296ba52eed1f"
+  },
+  "rndInfoArray": ""
+}

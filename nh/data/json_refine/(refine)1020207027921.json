@@ -1,0 +1,3315 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.02.27",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-7027921",
+      "claimCount": "20",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "재조합 T 세포 수용체 유전자를 사용하여 세포-기반 치료제를 생성하는 기술",
+      "inventionTitleEng": "TECHNIQUES FOR GENERATING CELL-BASED THERAPEUTICS USING RECOMBINANT T CELL RECEPTOR GENES",
+      "openDate": "2021.01.18",
+      "openNumber": "10-2021-0006330",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.02.18",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2020.09.28"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/86"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/725"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 기술은 일반적으로, 재조합 T 세포 수용체 (TCR) 라이브러리를 창출하기 위한 조성물 및 방법, 및 이들의 치료적 사용 방법에 관한 것이다. 본 기술의 조성물 및 방법은 암 및 바이러스 감염에 대한 개인화된 표적화 요법으로서 항원-특이적 TCR 레퍼토리의 신속한 단리에 유용하다."
+    }
+  },
+  "claims": {
+    "application_number": "1020207027921",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20201028",
+      "document_name": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+      "claim_count": 69,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기를 포함하는 재조합 T 세포 수용체 (TCR) 라이브러리 벡터로서:\n(a) 벡터 백본; 및\n(b) (i) TCRα 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRβ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드; 또는\n (ii) TCRγ 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRδ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드;\n여기서 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 동족 쌍이고, 여기서 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 특정 구획 내에 존재하는 단일 용해된 T 세포로부터 단리된 mRNA로부터 유래되는 것인\n벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 단일 용해된 T 세포의 mRNA가 mRNA 포획 시약 또는 역전사-PCR (RT-PCR)을 사용하여 단리되는 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가 임의적으로 링커 폴리뉴클레오티드를 통해 작동가능하게 연결되고, 임의적으로 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가 T 세포 mRNA의 역전사 및 PCR 증폭에 의해 작동가능하게 연결되는 것인 벡터.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가, TCR 유전자에서 천연적으로 발견되는 표적 제한 엔도뉴클레아제 부위에서의 절단에 의해 벡터 백본 내로 클로닝된 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 표적 제한 엔도뉴클레아제 부위가 낮은 빈도로 TCR 유전자에서 발생되는 것인 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가 표 7 또는 8에 개시된 적어도 하나의 표적 제한 엔도뉴클레아제 부위를 혼입하도록 변경된 것인 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 표적 제한 엔도뉴클레아제 부위가 침묵 돌연변이를 포함하는 것인 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, mRNA 포획 시약이 폴리(dT) 코팅된 비드, 올리고뉴클레오티드-코팅된 비드, 히드로겔 비드, 및 마이크로어레이 웰의 표면 상의 프린팅된 올리고로 이루어진 군으로부터 선택되는 것인 벡터.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 구획이 에멀젼 액적 또는 웰인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 웰이 프린팅된 중합체 슬라이드, 플라스틱 플레이트, 미세역가 플레이트, 또는 겔 내에 위치하는 것인 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 구획이 5 nL 이하의 용적을 갖는 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및/또는 제2 폴리뉴클레오티드에 작동가능하게 연결된 발현 제어 요소를 코딩하는 적어도 하나의 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 발현 제어 요소가 프로모터, p2A 서열, 및 IRES 서열로 이루어진 군으로부터 선택되는 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 프로모터가 EF1α 프로모터 또는 CMV 프로모터인 벡터.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 발현 제어 요소를 코딩하는 폴리뉴클레오티드가 제1 폴리뉴클레오티드와 제2 폴리뉴클레오티드 사이에 위치하는 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 벡터가 원형화되는 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 벡터가 발현 제어 요소의 벡터 내로의 혼입 전에 원형화된 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 벡터가 발현 제어 요소의 벡터 내로의 혼입 후에 원형화된 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 발현 제어 요소가 프로토스페이서 인접 모티프 (PAM) 근처에 혼입된 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 발현 제어 요소가 제한 효소 또는 TALEN으로부터 선택된 DNA-변형 효소를 사용하여 벡터 내로 혼입된 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드 중 적어도 하나에 연결된 트랜스포손을 코딩하는 하나 이상의 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 검출가능한 마커를 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 선택가능한 마커를 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드의 발현 및/또는 활성화를 제어하기 위한 스위치 메카니즘을 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 코작 컨센서스 서열 또는 인핸서를 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 벡터 백본이 레트로바이러스, 렌티바이러스, 아데노바이러스, 및 아데노-연관 바이러스 벡터 백본으로 이루어진 군으로부터 선택되는 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 벡터가 표적 세포 또는 질환 항원에 대한 결합 특이성을 갖는 TCR을 코딩하는 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 표적 세포가 암 세포 또는 바이러스에 감염된 세포이며, 임의적으로 표적 세포가 대상체로부터 단리된 것인 벡터.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 질환 항원이 바이러스 항원 또는 종양 항원이며, 임의적으로 항원이 항원:MHC 복합체 내로 로딩되는 것인 벡터.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 질환 항원이 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스로부터 유래된 바이러스 항원인 벡터.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 질환 항원이 CD45, 글리피칸-3, IGF2B3, 칼리크레인 4, KIF20A, 렝신, 멜로에, 뮤신 5AC (MUC5AC), 서바이빈, 시클린-A1, MAGE-A1, MAGE-C1, MAGE-C2, SSX2, XAGE1b/GAGED2A, CD19, CD20, CD22, CD52, 표피 성장 인자 수용체 (EGFR), 인간 표피 성장 인자 수용체 2 (HER2), 종양 괴사 인자 수용체 슈퍼패밀리, 멤버 10a (TRAILR1), 핵 인자 카파-B 리간드의 수용체 활성화제 (RANKL), 인슐린-유사 성장 인자 1 수용체 (IGF1R), 상피 세포 부착 분자 (EpCAM), 및 암배아성 항원 (CEA)으로 이루어진 군으로부터 선택된 종양 항원인 벡터.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제31항 중 어느 한 항의 벡터를 포함하는 재조합 세포로서, 임의적으로 박테리아 세포, 포유동물 세포, 또는 효모 세포인 재조합 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제31항 중 어느 한 항에 따른 복수개의 벡터를 포함하는 재조합 TCR 벡터 라이브러리.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제33항에 있어서, 복수개의 벡터가 TCR 레퍼토리를 포함하는 것인 재조합 TCR 벡터 라이브러리.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제33항에 있어서, 복수개의 벡터 내의 각각의 벡터가 하기 특징: TCR 클로날 출현율, 시험관내 검정으로부터의 TCR 강화 특징, TCR 결합 특이성, TCR V 세그먼트 서열, TCR D 세그먼트 서열, TCR J 세그먼트 서열, TCR 유전자 모티프, 및/또는 CDR3 유전자 모티프 중 하나 이상을 기반으로 하여 선택된 것인 재조합 TCR 벡터 라이브러리.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제33항에 있어서, 재조합 TCR 벡터 라이브러리가 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드의 핵산 시퀀싱에 의해 특징규명된 것인 재조합 TCR 벡터 라이브러리.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제31항 중 어느 한 항의 벡터를 포함하는 단리된 면역 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제37항에 있어서, 면역 세포가 조혈 줄기 세포, 조혈 전구 세포, T 세포, 또는 자연 살해 (NK) 세포인 단리된 면역 세포.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제31항 중 어느 한 항의 벡터, 또는 제33항 내지 제36항 중 어느 한 항의 벡터 라이브러리를 포함하는 세포 집단.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39항에 있어서, 집단이 조혈 줄기 세포, 조혈 전구 세포, T 세포, 및/또는 NK 세포를 포함하는 것인 세포 집단.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "재조합 TCR 라이브러리를 제조하는 방법으로서, 세포 집단을 제33항 내지 제36항 중 어느 한 항의 벡터 라이브러리로 형질전환시키는 것을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 세포가 조혈 줄기 세포, 조혈 전구 세포, T 세포, 또는 NK 세포인 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 라이브러리를 표적 세포에의 특이적 결합에 대하여 스크리닝하는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항에 있어서, 표적 세포가 암 세포 또는 바이러스에 감염된 세포이며, 임의적으로 세포가 대상체로부터 단리된 것인 방법.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 라이브러리를 항원:MHC 복합체에의 특이적 결합에 대하여 스크리닝하는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제45항에 있어서, 항원:MHC 복합체의 항원이 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스로부터 유래된 바이러스 항원인 방법.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제45항에 있어서, 항원:MHC 복합체의 항원이 CD45, 글리피칸-3, IGF2B3, 칼리크레인 4, KIF20A, 렝신, 멜로에, 뮤신 5AC (MUC5AC), 서바이빈, 시클린-A1, MAGE-A1, MAGE-C1, MAGE-C2, SSX2, XAGE1b/GAGED2A, CD19, CD20, CD22, CD52, EGFR, HER2, TRAILR1, RANKL, IGF1R, EpCAM, 및 CEA로 이루어진 군으로부터 선택된 종양 항원인 방법.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 라이브러리를 T 세포 표현형 마커에 대하여 스크리닝하는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 라이브러리를 공동-배양 시스템에서의 활성에 대하여 스크리닝하는 것을 추가로 포함하며, 여기서 공동-배양 시스템이 하기 중 적어도 하나를 포함하는 것인 방법:\n(a) 암 세포주;\n(b) 공지된 바이러스에 감염된 복수개의 세포;\n(c) 암 환자로부터 단리된 복수개의 종양 세포;\n(d) 불멸화된 세포주; 또는\n(e) 환자 조직 생검으로부터 유래된 복수개의 세포.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 형질전환된 세포 집단의 시험관내 활성화를 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제50항에 있어서, 시험관내 활성화가 하기 자극제: 항-CD3 항체, 항-CD8 항체, 항-CD27 항체, IL-2, IL-4, IL-21, 항-PD1 항체, 항-CTLA4 항체, 종양 세포 용해물, 바이러스 감염된 세포와의 세포성 공동-배양물, 및 종양 세포주 중 하나 이상을 사용하여 수행되는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 세포 집단을 전사 인자를 코딩하는 폴리뉴클레오티드로 형질전환시키는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제52항에 있어서, 전사 인자가 FOXP3, BLIMP-1, 이카로스, 헬리오스 및 TGF-베타로 이루어진 군으로부터 선택되는 것인 방법.",
+          "refers_to": [
+            52
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 하기 특징: TCR 클로날 출현율, 시험관내 검정으로부터의 TCR 강화 특징, TCR 결합 특이성, TCR V 세그먼트 서열, TCR D 세그먼트 서열, TCR J 세그먼트 서열, TCR 유전자 모티프, 및/또는 CDR3 유전자 모티프 중 하나 이상을 기반으로 하여 재조합 TCR 라이브러리에 포함시키기 위해 개별 벡터를 선택하는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제54항에 있어서, 선택이 개별 벡터를 규정된 비로 혼합하여 합성적으로 유래된 TCR 라이브러리를 생성하는 것을 포함하는 것인 방법.",
+          "refers_to": [
+            54
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 따른 방법에 의해 제조된 재조합 TCR 라이브러리.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제56항의 재조합 TCR 라이브러리 및 담체를 포함하는 조성물.",
+          "refers_to": [
+            56
+          ]
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제57항에 있어서, 담체가 제약상 허용되는 담체인 조성물.",
+          "refers_to": [
+            57
+          ]
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체를 치료하는 방법.",
+          "refers_to": [
+            57,
+            58
+          ]
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "암 치료를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체에서 암을 치료하는 방법.",
+          "refers_to": [
+            57,
+            58
+          ]
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제60항에 있어서, 암이 급성 림프모구성 백혈병 (ALL); 급성 골수성 백혈병 (AML); 부신피질 암종; AIDS-관련 암; 항문암; 충수암; 성상세포종; 비정형 기형양/횡문근양 종양, 뇌암; 피부의 기저 세포 암종; 담관암; 방광암; 골암; 유방암; 기관지 종양; 버킷 림프종; 카르시노이드 종양 (위장); 배세포 종양; 원발성 CNS 림프종; 자궁경부암; 담관암종; 척삭종; 만성 림프구성 백혈병 (CLL); 만성 골수성 백혈병 (CML); 만성 골수증식성 신생물; 결장직장암; 두개인두종; 피부 T-세포 림프종; 관 상피내 암종 (DCIS); 자궁내막암; 상의세포종; 식도암; 감각신경모세포종; 두개외 배세포 종양; 고환외 배세포 종양; 안암; 안내 흑색종; 망막모세포종; 난관암; 골의 섬유성 조직구종, 악성, 및 골육종; 담낭암; 위암; 위장 카르시노이드 종양; 위장 기질 종양 (GIST); 배세포 종양; 임신성 영양막 질환; 모발상 세포 백혈병; 두경부암; 심장 종양; 간세포성암; 조직구증, 랑게르한스 세포; 호지킨 림프종; 하인두암; 안내 흑색종; 섬 세포 종양, 췌장 신경내분비 종양; 신장암; 후두암; 백혈병; 구순 및 구강암; 간암; 폐암; 림프종; 남성 유방암; 골의 악성 섬유성 조직구종 및 골육종; 흑색종; 메르켈 세포 암종; 중피종; 전이성 암; 구강암; 다발성 내분비 신생물 증후군; 다발성 골수종/형질 세포 신생물; 균상 식육종; 골수이형성 증후군, 골수증식성 신생물, 만성; 비인두암; 신경모세포종; 비-호지킨 림프종; 비소세포 폐암; 구강암, 구인두암; 골육종; 난소암; 췌장암; 췌장 신경내분비 종양; 유두종증; 부신경절종; 부비동암; 부갑상선암; 인두암; 크롬친화세포종; 뇌하수체 종양; 흉막폐 모세포종; 전립선암; 직장암; 재발성 암; 신세포암; 망막모세포종; 횡문근육종; 타액선암; 육종; 유잉 육종; 카포시 육종; 골육종; 자궁 육종; 세자리 증후군; 피부암; 소세포 폐암; 소장암; 연부 조직 육종; 피부의 편평 세포 암종; 편평 경부암; 위암; T 세포 림프종; 고환암; 인후암; 비인두암; 하인두암; 흉선 암종; 갑상선암; 요도암; 자궁암; 질암; 혈관 종양; 외음부암; 또는 윌름스 종양인 방법.",
+          "refers_to": [
+            60
+          ]
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "종양 성장의 억제를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체에서 종양 성장을 억제하는 방법.",
+          "refers_to": [
+            57,
+            58
+          ]
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제62항에 있어서, 종양이 고형 종양인 방법.",
+          "refers_to": [
+            62
+          ]
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "바이러스 감염의 치료를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체에서 바이러스 감염을 치료하는 방법.",
+          "refers_to": [
+            57,
+            58
+          ]
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제64항에 있어서, 바이러스 감염이 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스에 의해 유발되는 것인 방법.",
+          "refers_to": [
+            64
+          ]
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제59항 내지 제65항 중 어느 한 항에 있어서, 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 제2 용량을 대상체에게 투여하는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65
+          ]
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제59항 내지 제66항 중 어느 한 항에 있어서, 재조합 TCR 라이브러리가 치료되는 대상체에 대해 자가이거나 또는 동종이계인 세포를 포함하는 것인 방법.",
+          "refers_to": [
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ]
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제59항 내지 제67항 중 어느 한 항에 있어서, 대상체가 인간, 동물, 비-인간 영장류, 개, 고양이, 양, 마우스, 말 또는 소인 방법.",
+          "refers_to": [
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ]
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제68항에 있어서, 대상체가 인간인 방법.",
+          "refers_to": [
+            68
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20250918",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 69,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기를 포함하는 재조합 T 세포 수용체 (TCR) 라이브러리 벡터로서:(a) 벡터 백본; 및(b) (i) TCRα 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRβ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드; 또는 (ii) TCRγ 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRδ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드;여기서 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 동족 쌍이고, 여기서 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 특정 구획 내에 존재하는 단일 용해된 T 세포로부터 단리된 mRNA로부터 유래되는 것인벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 단일 용해된 T 세포의 mRNA가 mRNA 포획 시약 또는 역전사-PCR (RT-PCR)을 사용하여 단리되는 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가 임의적으로 링커 폴리뉴클레오티드를 통해 작동가능하게 연결되고, 임의적으로 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가 T 세포 mRNA의 역전사 및 PCR 증폭에 의해 작동가능하게 연결되는 것인 벡터.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가, TCR 유전자에서 천연적으로 발견되는 표적 제한 엔도뉴클레아제 부위에서의 절단에 의해 벡터 백본 내로 클로닝된 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 표적 제한 엔도뉴클레아제 부위가 낮은 빈도로 TCR 유전자에서 발생되는 것인 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가 표 7 또는 8에 개시된 적어도 하나의 표적 제한 엔도뉴클레아제 부위를 혼입하도록 변경된 것인 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 표적 제한 엔도뉴클레아제 부위가 침묵 돌연변이를 포함하는 것인 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, mRNA 포획 시약이 폴리(dT) 코팅된 비드, 올리고뉴클레오티드-코팅된 비드, 히드로겔 비드, 및 마이크로어레이 웰의 표면 상의 프린팅된 올리고로 이루어진 군으로부터 선택되는 것인 벡터.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 구획이 에멀젼 액적 또는 웰인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 웰이 프린팅된 중합체 슬라이드, 플라스틱 플레이트, 미세역가 플레이트, 또는 겔 내에 위치하는 것인 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 구획이 5 nL 이하의 용적을 갖는 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및/또는 제2 폴리뉴클레오티드에 작동가능하게 연결된 발현 제어 요소를 코딩하는 적어도 하나의 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 발현 제어 요소가 프로모터, p2A 서열, 및 IRES 서열로 이루어진 군으로부터 선택되는 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 프로모터가 EF1α 프로모터 또는 CMV 프로모터인 벡터.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 발현 제어 요소를 코딩하는 폴리뉴클레오티드가 제1 폴리뉴클레오티드와 제2 폴리뉴클레오티드 사이에 위치하는 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 벡터가 원형화되는 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 벡터가 발현 제어 요소의 벡터 내로의 혼입 전에 원형화된 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 벡터가 발현 제어 요소의 벡터 내로의 혼입 후에 원형화된 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 발현 제어 요소가 프로토스페이서 인접 모티프 (PAM) 근처에 혼입된 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 발현 제어 요소가 제한 효소 또는 TALEN으로부터 선택된 DNA-변형 효소를 사용하여 벡터 내로 혼입된 것인 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드 중 적어도 하나에 연결된 트랜스포손을 코딩하는 하나 이상의 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 검출가능한 마커를 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 선택가능한 마커를 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드의 발현 및/또는 활성화를 제어하기 위한 스위치 메카니즘을 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 코작 컨센서스 서열 또는 인핸서를 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 벡터 백본이 레트로바이러스, 렌티바이러스, 아데노바이러스, 및 아데노-연관 바이러스 벡터 백본으로 이루어진 군으로부터 선택되는 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 벡터가 표적 세포 또는 질환 항원에 대한 결합 특이성을 갖는 TCR을 코딩하는 것인 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항에 있어서, 표적 세포가 암 세포 또는 바이러스에 감염된 세포이며, 임의적으로 표적 세포가 대상체로부터 단리된 것인 벡터.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항에 있어서, 질환 항원이 바이러스 항원 또는 종양 항원이며, 임의적으로 항원이 항원:MHC 복합체 내로 로딩되는 것인 벡터.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제29항에 있어서, 질환 항원이 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스로부터 유래된 바이러스 항원인 벡터.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제29항에 있어서, 질환 항원이 CD45, 글리피칸-3, IGF2B3, 칼리크레인 4, KIF20A, 렝신, 멜로에, 뮤신 5AC (MUC5AC), 서바이빈, 시클린-A1, MAGE-A1, MAGE-C1, MAGE-C2, SSX2, XAGE1b/GAGED2A, CD19, CD20, CD22, CD52, 표피 성장 인자 수용체 (EGFR), 인간 표피 성장 인자 수용체 2 (HER2), 종양 괴사 인자 수용체 슈퍼패밀리, 멤버 10a (TRAILR1), 핵 인자 카파-B 리간드의 수용체 활성화제 (RANKL), 인슐린-유사 성장 인자 1 수용체 (IGF1R), 상피 세포 부착 분자 (EpCAM), 및 암배아성 항원 (CEA)으로 이루어진 군으로부터 선택된 종양 항원인 벡터.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제31항 중 어느 한 항의 벡터를 포함하는 재조합 세포로서, 임의적으로 박테리아 세포, 포유동물 세포, 또는 효모 세포인 재조합 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제31항 중 어느 한 항에 따른 복수개의 벡터를 포함하는 재조합 TCR 벡터 라이브러리.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제33항에 있어서, 복수개의 벡터가 TCR 레퍼토리를 포함하는 것인 재조합 TCR 벡터 라이브러리.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제33항에 있어서, 복수개의 벡터 내의 각각의 벡터가 하기 특징: TCR 클로날 출현율, 시험관내 검정으로부터의 TCR 강화 특징, TCR 결합 특이성, TCR V 세그먼트 서열, TCR D 세그먼트 서열, TCR J 세그먼트 서열, TCR 유전자 모티프, 및/또는 CDR3 유전자 모티프 중 하나 이상을 기반으로 하여 선택된 것인 재조합 TCR 벡터 라이브러리.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제33항에 있어서, 재조합 TCR 벡터 라이브러리가 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드의 핵산 시퀀싱에 의해 특징규명된 것인 재조합 TCR 벡터 라이브러리.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제31항 중 어느 한 항의 벡터를 포함하는 단리된 면역 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제37항에 있어서, 면역 세포가 조혈 줄기 세포, 조혈 전구 세포, T 세포, 또는 자연 살해 (NK) 세포인 단리된 면역 세포.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제31항 중 어느 한 항의 벡터, 또는 제33항 내지 제36항 중 어느 한 항의 벡터 라이브러리를 포함하는 세포 집단.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제39항에 있어서, 집단이 조혈 줄기 세포, 조혈 전구 세포, T 세포, 및/또는 NK 세포를 포함하는 것인 세포 집단.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "재조합 TCR 라이브러리를 제조하는 방법으로서, 세포 집단을 제33항 내지 제36항 중 어느 한 항의 벡터 라이브러리로 형질전환시키는 것을 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 세포가 조혈 줄기 세포, 조혈 전구 세포, T 세포, 또는 NK 세포인 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 라이브러리를 표적 세포에의 특이적 결합에 대하여 스크리닝하는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항에 있어서, 표적 세포가 암 세포 또는 바이러스에 감염된 세포이며, 임의적으로 세포가 대상체로부터 단리된 것인 방법.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 라이브러리를 항원:MHC 복합체에의 특이적 결합에 대하여 스크리닝하는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제45항에 있어서, 항원:MHC 복합체의 항원이 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스로부터 유래된 바이러스 항원인 방법.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제45항에 있어서, 항원:MHC 복합체의 항원이 CD45, 글리피칸-3, IGF2B3, 칼리크레인 4, KIF20A, 렝신, 멜로에, 뮤신 5AC (MUC5AC), 서바이빈, 시클린-A1, MAGE-A1, MAGE-C1, MAGE-C2, SSX2, XAGE1b/GAGED2A, CD19, CD20, CD22, CD52, EGFR, HER2, TRAILR1, RANKL, IGF1R, EpCAM, 및 CEA로 이루어진 군으로부터 선택된 종양 항원인 방법.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 라이브러리를 T 세포 표현형 마커에 대하여 스크리닝하는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 라이브러리를 공동-배양 시스템에서의 활성에 대하여 스크리닝하는 것을 추가로 포함하며, 여기서 공동-배양 시스템이 하기 중 적어도 하나를 포함하는 것인 방법:(a) 암 세포주;(b) 공지된 바이러스에 감염된 복수개의 세포;(c) 암 환자로부터 단리된 복수개의 종양 세포;(d) 불멸화된 세포주; 또는(e) 환자 조직 생검으로부터 유래된 복수개의 세포.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 형질전환된 세포 집단의 시험관내 활성화를 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제50항에 있어서, 시험관내 활성화가 하기 자극제: 항-CD3 항체, 항-CD8 항체, 항-CD27 항체, IL-2, IL-4, IL-21, 항-PD1 항체, 항-CTLA4 항체, 종양 세포 용해물, 바이러스 감염된 세포와의 세포성 공동-배양물, 및 종양 세포주 중 하나 이상을 사용하여 수행되는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 세포 집단을 전사 인자를 코딩하는 폴리뉴클레오티드로 형질전환시키는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제52항에 있어서, 전사 인자가 FOXP3, BLIMP-1, 이카로스, 헬리오스 및 TGF-베타로 이루어진 군으로부터 선택되는 것인 방법.",
+          "refers_to": [
+            52
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 하기 특징: TCR 클로날 출현율, 시험관내 검정으로부터의 TCR 강화 특징, TCR 결합 특이성, TCR V 세그먼트 서열, TCR D 세그먼트 서열, TCR J 세그먼트 서열, TCR 유전자 모티프, 및/또는 CDR3 유전자 모티프 중 하나 이상을 기반으로 하여 재조합 TCR 라이브러리에 포함시키기 위해 개별 벡터를 선택하는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제54항에 있어서, 선택이 개별 벡터를 규정된 비로 혼합하여 합성적으로 유래된 TCR 라이브러리를 생성하는 것을 포함하는 것인 방법.",
+          "refers_to": [
+            54
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 따른 방법에 의해 제조된 재조합 TCR 라이브러리.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제56항의 재조합 TCR 라이브러리 및 담체를 포함하는 조성물.",
+          "refers_to": [
+            56
+          ]
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제57항에 있어서, 담체가 제약상 허용되는 담체인 조성물.",
+          "refers_to": [
+            57
+          ]
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "치료를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체를 치료하는 방법.",
+          "refers_to": [
+            57,
+            58
+          ]
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "암 치료를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체에서 암을 치료하는 방법.",
+          "refers_to": [
+            57,
+            58
+          ]
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제60항에 있어서, 암이 급성 림프모구성 백혈병 (ALL); 급성 골수성 백혈병 (AML); 부신피질 암종; AIDS-관련 암; 항문암; 충수암; 성상세포종; 비정형 기형양/횡문근양 종양, 뇌암; 피부의 기저 세포 암종; 담관암; 방광암; 골암; 유방암; 기관지 종양; 버킷 림프종; 카르시노이드 종양 (위장); 배세포 종양; 원발성 CNS 림프종; 자궁경부암; 담관암종; 척삭종; 만성 림프구성 백혈병 (CLL); 만성 골수성 백혈병 (CML); 만성 골수증식성 신생물; 결장직장암; 두개인두종; 피부 T-세포 림프종; 관 상피내 암종 (DCIS); 자궁내막암; 상의세포종; 식도암; 감각신경모세포종; 두개외 배세포 종양; 고환외 배세포 종양; 안암; 안내 흑색종; 망막모세포종; 난관암; 골의 섬유성 조직구종, 악성, 및 골육종; 담낭암; 위암; 위장 카르시노이드 종양; 위장 기질 종양 (GIST); 배세포 종양; 임신성 영양막 질환; 모발상 세포 백혈병; 두경부암; 심장 종양; 간세포성암; 조직구증, 랑게르한스 세포; 호지킨 림프종; 하인두암; 안내 흑색종; 섬 세포 종양, 췌장 신경내분비 종양; 신장암; 후두암; 백혈병; 구순 및 구강암; 간암; 폐암; 림프종; 남성 유방암; 골의 악성 섬유성 조직구종 및 골육종; 흑색종; 메르켈 세포 암종; 중피종; 전이성 암; 구강암; 다발성 내분비 신생물 증후군; 다발성 골수종/형질 세포 신생물; 균상 식육종; 골수이형성 증후군, 골수증식성 신생물, 만성; 비인두암; 신경모세포종; 비-호지킨 림프종; 비소세포 폐암; 구강암, 구인두암; 골육종; 난소암; 췌장암; 췌장 신경내분비 종양; 유두종증; 부신경절종; 부비동암; 부갑상선암; 인두암; 크롬친화세포종; 뇌하수체 종양; 흉막폐 모세포종; 전립선암; 직장암; 재발성 암; 신세포암; 망막모세포종; 횡문근육종; 타액선암; 육종; 유잉 육종; 카포시 육종; 골육종; 자궁 육종; 세자리 증후군; 피부암; 소세포 폐암; 소장암; 연부 조직 육종; 피부의 편평 세포 암종; 편평 경부암; 위암; T 세포 림프종; 고환암; 인후암; 비인두암; 하인두암; 흉선 암종; 갑상선암; 요도암; 자궁암; 질암; 혈관 종양; 외음부암; 또는 윌름스 종양인 방법.",
+          "refers_to": [
+            60
+          ]
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "종양 성장의 억제를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체에서 종양 성장을 억제하는 방법.",
+          "refers_to": [
+            57,
+            58
+          ]
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제62항에 있어서, 종양이 고형 종양인 방법.",
+          "refers_to": [
+            62
+          ]
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "바이러스 감염의 치료를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체에서 바이러스 감염을 치료하는 방법.",
+          "refers_to": [
+            57,
+            58
+          ]
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제64항에 있어서, 바이러스 감염이 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스에 의해 유발되는 것인 방법.",
+          "refers_to": [
+            64
+          ]
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제59항 내지 제65항 중 어느 한 항에 있어서, 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 제2 용량을 대상체에게 투여하는 것을 추가로 포함하는 방법.",
+          "refers_to": [
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65
+          ]
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제59항 내지 제66항 중 어느 한 항에 있어서, 재조합 TCR 라이브러리가 치료되는 대상체에 대해 자가이거나 또는 동종이계인 세포를 포함하는 것인 방법.",
+          "refers_to": [
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ]
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제59항 내지 제67항 중 어느 한 항에 있어서, 대상체가 인간, 동물, 비-인간 영장류, 개, 고양이, 양, 마우스, 말 또는 소인 방법.",
+          "refers_to": [
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67
+          ]
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제68항에 있어서, 대상체가 인간인 방법.",
+          "refers_to": [
+            68
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20201028",
+        "document_name": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+        "claim_count": 69,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기를 포함하는 재조합 T 세포 수용체 (TCR) 라이브러리 벡터로서:\n(a) 벡터 백본; 및\n(b) (i) TCRα 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRβ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드; 또는\n (ii) TCRγ 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRδ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드;\n여기서 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 동족 쌍이고, 여기서 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 특정 구획 내에 존재하는 단일 용해된 T 세포로부터 단리된 mRNA로부터 유래되는 것인\n벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 단일 용해된 T 세포의 mRNA가 mRNA 포획 시약 또는 역전사-PCR (RT-PCR)을 사용하여 단리되는 것인 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가 임의적으로 링커 폴리뉴클레오티드를 통해 작동가능하게 연결되고, 임의적으로 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가 T 세포 mRNA의 역전사 및 PCR 증폭에 의해 작동가능하게 연결되는 것인 벡터.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가, TCR 유전자에서 천연적으로 발견되는 표적 제한 엔도뉴클레아제 부위에서의 절단에 의해 벡터 백본 내로 클로닝된 것인 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 표적 제한 엔도뉴클레아제 부위가 낮은 빈도로 TCR 유전자에서 발생되는 것인 벡터.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가 표 7 또는 8에 개시된 적어도 하나의 표적 제한 엔도뉴클레아제 부위를 혼입하도록 변경된 것인 벡터.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 표적 제한 엔도뉴클레아제 부위가 침묵 돌연변이를 포함하는 것인 벡터.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, mRNA 포획 시약이 폴리(dT) 코팅된 비드, 올리고뉴클레오티드-코팅된 비드, 히드로겔 비드, 및 마이크로어레이 웰의 표면 상의 프린팅된 올리고로 이루어진 군으로부터 선택되는 것인 벡터.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 구획이 에멀젼 액적 또는 웰인 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 웰이 프린팅된 중합체 슬라이드, 플라스틱 플레이트, 미세역가 플레이트, 또는 겔 내에 위치하는 것인 벡터.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 구획이 5 nL 이하의 용적을 갖는 것인 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및/또는 제2 폴리뉴클레오티드에 작동가능하게 연결된 발현 제어 요소를 코딩하는 적어도 하나의 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 발현 제어 요소가 프로모터, p2A 서열, 및 IRES 서열로 이루어진 군으로부터 선택되는 것인 벡터.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 프로모터가 EF1α 프로모터 또는 CMV 프로모터인 벡터.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 발현 제어 요소를 코딩하는 폴리뉴클레오티드가 제1 폴리뉴클레오티드와 제2 폴리뉴클레오티드 사이에 위치하는 것인 벡터.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 벡터가 원형화되는 것인 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 벡터가 발현 제어 요소의 벡터 내로의 혼입 전에 원형화된 것인 벡터.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 벡터가 발현 제어 요소의 벡터 내로의 혼입 후에 원형화된 것인 벡터.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 발현 제어 요소가 프로토스페이서 인접 모티프 (PAM) 근처에 혼입된 것인 벡터.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 발현 제어 요소가 제한 효소 또는 TALEN으로부터 선택된 DNA-변형 효소를 사용하여 벡터 내로 혼입된 것인 벡터.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드 중 적어도 하나에 연결된 트랜스포손을 코딩하는 하나 이상의 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 검출가능한 마커를 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 선택가능한 마커를 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드의 발현 및/또는 활성화를 제어하기 위한 스위치 메카니즘을 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 코작 컨센서스 서열 또는 인핸서를 코딩하는 폴리뉴클레오티드를 추가로 포함하는 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 벡터 백본이 레트로바이러스, 렌티바이러스, 아데노바이러스, 및 아데노-연관 바이러스 벡터 백본으로 이루어진 군으로부터 선택되는 것인 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 벡터가 표적 세포 또는 질환 항원에 대한 결합 특이성을 갖는 TCR을 코딩하는 것인 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 표적 세포가 암 세포 또는 바이러스에 감염된 세포이며, 임의적으로 표적 세포가 대상체로부터 단리된 것인 벡터.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 질환 항원이 바이러스 항원 또는 종양 항원이며, 임의적으로 항원이 항원:MHC 복합체 내로 로딩되는 것인 벡터.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 질환 항원이 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스로부터 유래된 바이러스 항원인 벡터.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 질환 항원이 CD45, 글리피칸-3, IGF2B3, 칼리크레인 4, KIF20A, 렝신, 멜로에, 뮤신 5AC (MUC5AC), 서바이빈, 시클린-A1, MAGE-A1, MAGE-C1, MAGE-C2, SSX2, XAGE1b/GAGED2A, CD19, CD20, CD22, CD52, 표피 성장 인자 수용체 (EGFR), 인간 표피 성장 인자 수용체 2 (HER2), 종양 괴사 인자 수용체 슈퍼패밀리, 멤버 10a (TRAILR1), 핵 인자 카파-B 리간드의 수용체 활성화제 (RANKL), 인슐린-유사 성장 인자 1 수용체 (IGF1R), 상피 세포 부착 분자 (EpCAM), 및 암배아성 항원 (CEA)으로 이루어진 군으로부터 선택된 종양 항원인 벡터.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제31항 중 어느 한 항의 벡터를 포함하는 재조합 세포로서, 임의적으로 박테리아 세포, 포유동물 세포, 또는 효모 세포인 재조합 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제31항 중 어느 한 항에 따른 복수개의 벡터를 포함하는 재조합 TCR 벡터 라이브러리.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제33항에 있어서, 복수개의 벡터가 TCR 레퍼토리를 포함하는 것인 재조합 TCR 벡터 라이브러리.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제33항에 있어서, 복수개의 벡터 내의 각각의 벡터가 하기 특징: TCR 클로날 출현율, 시험관내 검정으로부터의 TCR 강화 특징, TCR 결합 특이성, TCR V 세그먼트 서열, TCR D 세그먼트 서열, TCR J 세그먼트 서열, TCR 유전자 모티프, 및/또는 CDR3 유전자 모티프 중 하나 이상을 기반으로 하여 선택된 것인 재조합 TCR 벡터 라이브러리.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제33항에 있어서, 재조합 TCR 벡터 라이브러리가 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드의 핵산 시퀀싱에 의해 특징규명된 것인 재조합 TCR 벡터 라이브러리.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제31항 중 어느 한 항의 벡터를 포함하는 단리된 면역 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제37항에 있어서, 면역 세포가 조혈 줄기 세포, 조혈 전구 세포, T 세포, 또는 자연 살해 (NK) 세포인 단리된 면역 세포.",
+            "refers_to": [
+              37
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제31항 중 어느 한 항의 벡터, 또는 제33항 내지 제36항 중 어느 한 항의 벡터 라이브러리를 포함하는 세포 집단.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39항에 있어서, 집단이 조혈 줄기 세포, 조혈 전구 세포, T 세포, 및/또는 NK 세포를 포함하는 것인 세포 집단.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "재조합 TCR 라이브러리를 제조하는 방법으로서, 세포 집단을 제33항 내지 제36항 중 어느 한 항의 벡터 라이브러리로 형질전환시키는 것을 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 세포가 조혈 줄기 세포, 조혈 전구 세포, T 세포, 또는 NK 세포인 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 라이브러리를 표적 세포에의 특이적 결합에 대하여 스크리닝하는 것을 추가로 포함하는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항에 있어서, 표적 세포가 암 세포 또는 바이러스에 감염된 세포이며, 임의적으로 세포가 대상체로부터 단리된 것인 방법.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 라이브러리를 항원:MHC 복합체에의 특이적 결합에 대하여 스크리닝하는 것을 추가로 포함하는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제45항에 있어서, 항원:MHC 복합체의 항원이 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스로부터 유래된 바이러스 항원인 방법.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제45항에 있어서, 항원:MHC 복합체의 항원이 CD45, 글리피칸-3, IGF2B3, 칼리크레인 4, KIF20A, 렝신, 멜로에, 뮤신 5AC (MUC5AC), 서바이빈, 시클린-A1, MAGE-A1, MAGE-C1, MAGE-C2, SSX2, XAGE1b/GAGED2A, CD19, CD20, CD22, CD52, EGFR, HER2, TRAILR1, RANKL, IGF1R, EpCAM, 및 CEA로 이루어진 군으로부터 선택된 종양 항원인 방법.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 라이브러리를 T 세포 표현형 마커에 대하여 스크리닝하는 것을 추가로 포함하는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 라이브러리를 공동-배양 시스템에서의 활성에 대하여 스크리닝하는 것을 추가로 포함하며, 여기서 공동-배양 시스템이 하기 중 적어도 하나를 포함하는 것인 방법:\n(a) 암 세포주;\n(b) 공지된 바이러스에 감염된 복수개의 세포;\n(c) 암 환자로부터 단리된 복수개의 종양 세포;\n(d) 불멸화된 세포주; 또는\n(e) 환자 조직 생검으로부터 유래된 복수개의 세포.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 형질전환된 세포 집단의 시험관내 활성화를 추가로 포함하는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제50항에 있어서, 시험관내 활성화가 하기 자극제: 항-CD3 항체, 항-CD8 항체, 항-CD27 항체, IL-2, IL-4, IL-21, 항-PD1 항체, 항-CTLA4 항체, 종양 세포 용해물, 바이러스 감염된 세포와의 세포성 공동-배양물, 및 종양 세포주 중 하나 이상을 사용하여 수행되는 것인 방법.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 세포 집단을 전사 인자를 코딩하는 폴리뉴클레오티드로 형질전환시키는 것을 추가로 포함하는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제52항에 있어서, 전사 인자가 FOXP3, BLIMP-1, 이카로스, 헬리오스 및 TGF-베타로 이루어진 군으로부터 선택되는 것인 방법.",
+            "refers_to": [
+              52
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 하기 특징: TCR 클로날 출현율, 시험관내 검정으로부터의 TCR 강화 특징, TCR 결합 특이성, TCR V 세그먼트 서열, TCR D 세그먼트 서열, TCR J 세그먼트 서열, TCR 유전자 모티프, 및/또는 CDR3 유전자 모티프 중 하나 이상을 기반으로 하여 재조합 TCR 라이브러리에 포함시키기 위해 개별 벡터를 선택하는 것을 추가로 포함하는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제54항에 있어서, 선택이 개별 벡터를 규정된 비로 혼합하여 합성적으로 유래된 TCR 라이브러리를 생성하는 것을 포함하는 것인 방법.",
+            "refers_to": [
+              54
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 따른 방법에 의해 제조된 재조합 TCR 라이브러리.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제56항의 재조합 TCR 라이브러리 및 담체를 포함하는 조성물.",
+            "refers_to": [
+              56
+            ]
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제57항에 있어서, 담체가 제약상 허용되는 담체인 조성물.",
+            "refers_to": [
+              57
+            ]
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체를 치료하는 방법.",
+            "refers_to": [
+              57,
+              58
+            ]
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "암 치료를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체에서 암을 치료하는 방법.",
+            "refers_to": [
+              57,
+              58
+            ]
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제60항에 있어서, 암이 급성 림프모구성 백혈병 (ALL); 급성 골수성 백혈병 (AML); 부신피질 암종; AIDS-관련 암; 항문암; 충수암; 성상세포종; 비정형 기형양/횡문근양 종양, 뇌암; 피부의 기저 세포 암종; 담관암; 방광암; 골암; 유방암; 기관지 종양; 버킷 림프종; 카르시노이드 종양 (위장); 배세포 종양; 원발성 CNS 림프종; 자궁경부암; 담관암종; 척삭종; 만성 림프구성 백혈병 (CLL); 만성 골수성 백혈병 (CML); 만성 골수증식성 신생물; 결장직장암; 두개인두종; 피부 T-세포 림프종; 관 상피내 암종 (DCIS); 자궁내막암; 상의세포종; 식도암; 감각신경모세포종; 두개외 배세포 종양; 고환외 배세포 종양; 안암; 안내 흑색종; 망막모세포종; 난관암; 골의 섬유성 조직구종, 악성, 및 골육종; 담낭암; 위암; 위장 카르시노이드 종양; 위장 기질 종양 (GIST); 배세포 종양; 임신성 영양막 질환; 모발상 세포 백혈병; 두경부암; 심장 종양; 간세포성암; 조직구증, 랑게르한스 세포; 호지킨 림프종; 하인두암; 안내 흑색종; 섬 세포 종양, 췌장 신경내분비 종양; 신장암; 후두암; 백혈병; 구순 및 구강암; 간암; 폐암; 림프종; 남성 유방암; 골의 악성 섬유성 조직구종 및 골육종; 흑색종; 메르켈 세포 암종; 중피종; 전이성 암; 구강암; 다발성 내분비 신생물 증후군; 다발성 골수종/형질 세포 신생물; 균상 식육종; 골수이형성 증후군, 골수증식성 신생물, 만성; 비인두암; 신경모세포종; 비-호지킨 림프종; 비소세포 폐암; 구강암, 구인두암; 골육종; 난소암; 췌장암; 췌장 신경내분비 종양; 유두종증; 부신경절종; 부비동암; 부갑상선암; 인두암; 크롬친화세포종; 뇌하수체 종양; 흉막폐 모세포종; 전립선암; 직장암; 재발성 암; 신세포암; 망막모세포종; 횡문근육종; 타액선암; 육종; 유잉 육종; 카포시 육종; 골육종; 자궁 육종; 세자리 증후군; 피부암; 소세포 폐암; 소장암; 연부 조직 육종; 피부의 편평 세포 암종; 편평 경부암; 위암; T 세포 림프종; 고환암; 인후암; 비인두암; 하인두암; 흉선 암종; 갑상선암; 요도암; 자궁암; 질암; 혈관 종양; 외음부암; 또는 윌름스 종양인 방법.",
+            "refers_to": [
+              60
+            ]
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "종양 성장의 억제를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체에서 종양 성장을 억제하는 방법.",
+            "refers_to": [
+              57,
+              58
+            ]
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제62항에 있어서, 종양이 고형 종양인 방법.",
+            "refers_to": [
+              62
+            ]
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "바이러스 감염의 치료를 필요로 하는 대상체에게 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 유효량을 투여하는 것을 포함하는, 상기 대상체에서 바이러스 감염을 치료하는 방법.",
+            "refers_to": [
+              57,
+              58
+            ]
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제64항에 있어서, 바이러스 감염이 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스에 의해 유발되는 것인 방법.",
+            "refers_to": [
+              64
+            ]
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제59항 내지 제65항 중 어느 한 항에 있어서, 제56항의 재조합 TCR 라이브러리 또는 제57항 또는 제58항의 조성물의 제2 용량을 대상체에게 투여하는 것을 추가로 포함하는 방법.",
+            "refers_to": [
+              59,
+              60,
+              61,
+              62,
+              63,
+              64,
+              65
+            ]
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제59항 내지 제66항 중 어느 한 항에 있어서, 재조합 TCR 라이브러리가 치료되는 대상체에 대해 자가이거나 또는 동종이계인 세포를 포함하는 것인 방법.",
+            "refers_to": [
+              59,
+              60,
+              61,
+              62,
+              63,
+              64,
+              65,
+              66
+            ]
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제59항 내지 제67항 중 어느 한 항에 있어서, 대상체가 인간, 동물, 비-인간 영장류, 개, 고양이, 양, 마우스, 말 또는 소인 방법.",
+            "refers_to": [
+              59,
+              60,
+              61,
+              62,
+              63,
+              64,
+              65,
+              66,
+              67
+            ]
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제68항에 있어서, 대상체가 인간인 방법.",
+            "refers_to": [
+              68
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220218",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 69,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 벡터 백본; 및\n(b) (i) TCRα 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRβ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드; 또는\n (ii) TCRγ 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRδ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드\n를 포함하는 재조합 T 세포 수용체 (TCR) 라이브러리 벡터로서,\n임의적으로 여기서 벡터 백본은 레트로바이러스, 렌티바이러스, 아데노바이러스, 및 아데노-연관 바이러스 벡터 백본으로 이루어진 군으로부터 선택되며,\n여기서 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 동족 쌍이고, 여기서 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 특정 구획 내에 존재하는 단일 용해된 T 세포로부터 단리된 mRNA로부터 유래되고, 임의적으로 여기서 \n구획은 5 nL 이하의 용적을 갖거나, 또는\n구획은 에멀젼 액적 또는 웰이며, 임의적으로 여기서 웰은 프린팅된 중합체 슬라이드, 플라스틱 플레이트, 미세역가 플레이트, 또는 겔 내에 위치하거나, 또는\n여기서 벡터는 원형화되는 것인,\n재조합 T 세포 수용체 (TCR) 라이브러리 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 단일 용해된 T 세포의 mRNA가 mRNA 포획 시약 또는 역전사-PCR (RT-PCR)을 사용하여 단리되며, 임의적으로 여기서 \n제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 링커 폴리뉴클레오티드를 통해 또는 T 세포 mRNA의 역전사 및 PCR 증폭에 의해 작동가능하게 연결되거나, 또는\nmRNA 포획 시약은 폴리(dT) 코팅된 비드, 올리고뉴클레오티드-코팅된 비드, 히드로겔 비드, 및 마이크로어레이 웰의 표면 상의 프린팅된 올리고로 이루어진 군으로부터 선택되는 것인 \n벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가, TCR 유전자에서 천연적으로 발견되는 표적 제한 엔도뉴클레아제 부위에서의 절단에 의해 벡터 백본 내로 클로닝되며, 임의적으로 여기서 \n표적 제한 엔도뉴클레아제 부위는 낮은 빈도로 TCR 유전자에서 발생되거나, 또는\n표적 제한 엔도뉴클레아제 부위는 침묵 돌연변이를 포함하거나, 또는\n제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 표 7 또는 8에 개시된 적어도 하나의 표적 제한 엔도뉴클레아제 부위를 혼입하도록 변경된 것인 \n벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및/또는 제2 폴리뉴클레오티드에 작동가능하게 연결된 발현 제어 요소를 코딩하는 적어도 하나의 폴리뉴클레오티드를 추가로 포함하며, 임의적으로 여기서 \n발현 제어 요소는 프로모터, EF1α 프로모터, CMV 프로모터, p2A 서열, 및 IRES 서열로 이루어진 군으로부터 선택되거나, 또는\n발현 제어 요소는 프로토스페이서 인접 모티프 (PAM) 근처에 혼입되거나, 또는\n발현 제어 요소는 제한 효소 또는 TALEN으로부터 선택된 DNA-변형 효소를 사용하여 벡터 내로 혼입된 것인 \n벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 발현 제어 요소를 코딩하는 폴리뉴클레오티드가 제1 폴리뉴클레오티드와 제2 폴리뉴클레오티드 사이에 위치하거나, 또는 벡터가 발현 제어 요소의 벡터 내로의 혼입 전 또는 후에 원형화된 것인 벡터.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, \n제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드 중 적어도 하나에 연결된 트랜스포손을 코딩하는 하나 이상의 폴리뉴클레오티드, 또는\n검출가능한 마커 또는 선택가능한 마커를 코딩하는 폴리뉴클레오티드, 또는\n제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드의 발현 및/또는 활성화를 제어하기 위한 스위치 메카니즘을 코딩하는 폴리뉴클레오티드, 또는\n코작 컨센서스 서열 또는 인핸서를 코딩하는 폴리뉴클레오티드\n를 추가로 포함하는 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 벡터가 표적 세포 또는 질환 항원에 대한 결합 특이성을 갖는 TCR을 코딩하는 것이며, 임의적으로 여기서 \n표적 세포는 암 세포 또는 바이러스에 감염된 세포이거나, 또는 \n표적 세포는 대상체로부터 단리된 것인 \n벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 질환 항원이 바이러스 항원 또는 종양 항원이며, \n임의적으로 여기서 질환 항원은 \n항원:MHC 복합체 내로 로딩되거나, 또는 \n아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스로부터 유래된 바이러스 항원이거나, 또는\nCD45, 글리피칸-3, IGF2B3, 칼리크레인 4, KIF20A, 렝신, 멜로에, 뮤신 5AC (MUC5AC), 서바이빈, 시클린-A1, MAGE-A1, MAGE-C1, MAGE-C2, SSX2, XAGE1b/GAGED2A, CD19, CD20, CD22, CD52, 표피 성장 인자 수용체 (EGFR), 인간 표피 성장 인자 수용체 2 (HER2), 종양 괴사 인자 수용체 슈퍼패밀리, 멤버 10a (TRAILR1), 핵 인자 카파-B 리간드의 수용체 활성화제 (RANKL), 인슐린-유사 성장 인자 1 수용체 (IGF1R), 상피 세포 부착 분자 (EpCAM), 및 암배아성 항원 (CEA)으로 이루어진 군으로부터 선택된 종양 항원인 \n벡터.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 벡터를 포함하는 재조합 세포로서, 임의적으로 여기서 재조합 세포는 박테리아 세포, 포유동물 세포 또는 효모 세포인, 재조합 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "복수개의 제1항에 따른 벡터를 포함하는 재조합 TCR 벡터 라이브러리로서, 임의적으로 여기서 \n복수개의 벡터는 TCR 레퍼토리를 포함하거나, 또는\n복수개의 벡터 내의 각각의 벡터는 하기 특징: TCR 클로날 출현율, 시험관내 검정으로부터의 TCR 강화 특징, TCR 결합 특이성, TCR V 세그먼트 서열, TCR D 세그먼트 서열, TCR J 세그먼트 서열, TCR 유전자 모티프 및/또는 CDR3 유전자 모티프 중 하나 이상을 기반으로 하여 선택되거나, 또는\n여기서 TCR 벡터 라이브러리는 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드의 핵산 시퀀싱에 의해 특징규명된 것인\n재조합 TCR 벡터 라이브러리.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 벡터를 포함하는 단리된 면역 세포로서, 임의적으로 여기서 면역 세포는 조혈 줄기 세포, 조혈 전구 세포, T 세포 또는 자연 살해 (NK) 세포인, 단리된 면역 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 벡터, 또는 제10항의 벡터 라이브러리를 포함하는 세포 집단으로서, 임의적으로 여기서 집단은 조혈 줄기 세포, 조혈 전구 세포, T 세포 및/또는 NK 세포를 포함하는 것인, 세포 집단.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "재조합 TCR 라이브러리를 제조하는 방법으로서, 방법은 세포 집단을 제10항의 벡터 라이브러리로 형질전환시키는 것을 포함하며, 임의적으로 여기서 세포는 조혈 줄기 세포, 조혈 전구 세포, T 세포 또는 NK 세포인, 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 라이브러리를 표적 세포에의 특이적 결합에 대하여 스크리닝하는 것을 추가로 포함하며, 임의적으로 여기서 \n표적 세포는 암 세포 또는 바이러스에 감염된 세포이거나, 또는 \n세포는 대상체로부터 단리된 것인, \n방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 라이브러리를 항원:MHC 복합체에의 특이적 결합에 대하여 스크리닝하는 것을 추가로 포함하며, 임의적으로 여기서 \n항원:MHC 복합체의 항원은 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스로부터 유래된 바이러스 항원이거나, 또는 \n항원:MHC 복합체의 항원은 CD45, 글리피칸-3, IGF2B3, 칼리크레인 4, KIF20A, 렝신, 멜로에, 뮤신 5AC (MUC5AC), 서바이빈, 시클린-A1, MAGE-A1, MAGE-C1, MAGE-C2, SSX2, XAGE1b/GAGED2A, CD19, CD20, CD22, CD52, EGFR, HER2, TRAILR1, RANKL, IGF1R, EpCAM, 및 CEA로 이루어진 군으로부터 선택된 종양 항원인\n방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, \n라이브러리를 T 세포 표현형 마커에 대하여 스크리닝하는 것, 또는\n라이브러리를 공동-배양 시스템에서의 활성에 대하여 스크리닝하는 것으로서, 여기서 공동-배양 시스템은\n(a) 암 세포주;\n(b) 공지된 바이러스에 감염된 복수개의 세포;\n(c) 암 환자로부터 단리된 복수개의 종양 세포;\n(d) 불멸화된 세포주; 또는\n(e) 환자 조직 생검으로부터 유래된 복수개의 세포\n중 적어도 하나를 포함하는 것, 또는\n형질전환된 세포 집단의 시험관내 활성화를 수행하는 것으로서, 임의적으로 여기서 시험관내 활성화는 하기 자극제: 항-CD3 항체, 항-CD8 항체, 항-CD27 항체, IL-2, IL-4, IL-21, 항-PD1 항체, 항-CTLA4 항체, 종양 세포 용해물, 바이러스 감염된 세포와의 세포성 공동-배양물, 및 종양 세포주 중 하나 이상을 사용하여 수행되는 것, 또는\n세포 집단을 전사 인자를 코딩하는 폴리뉴클레오티드로 형질전환시키는 것으로서, 임의적으로 여기서 전사 인자는 FOXP3, BLIMP-1, 이카로스, 헬리오스 및 TGF-베타로 이루어진 군으로부터 선택되는 것, 또는\n하기 특징: TCR 클로날 출현율, 시험관내 검정으로부터의 TCR 강화 특징, TCR 결합 특이성, TCR V 세그먼트 서열, TCR D 세그먼트 서열, TCR J 세그먼트 서열, TCR 유전자 모티프, 및/또는 CDR3 유전자 모티프 중 하나 이상을 기반으로 하여 재조합 TCR 라이브러리에 포함시키기 위해 개별 벡터를 선택하는 것으로서, 임의적으로 여기서 선택은 개별 벡터를 규정된 비로 혼합하여 합성적으로 유래된 TCR 라이브러리를 생성하는 것\n을 추가로 포함하는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 따른 방법에 의해 제조된 재조합 TCR 라이브러리 및 담체를 포함하는 조성물로서, 임의적으로 여기서 담체는 제약상 허용되는 담체인, 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항의 조성물의 유효량을 포함하는, 암 치료 또는 종양 성장의 억제를 필요로 하는 대상체에서의 암의 치료 또는 종양 성장의 억제에서 사용하기 위한 제약 조성물.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, 암이 급성 림프모구성 백혈병 (ALL); 급성 골수성 백혈병 (AML); 부신피질 암종; AIDS-관련 암; 항문암; 충수암; 성상세포종; 비정형 기형양/횡문근양 종양, 뇌암; 피부의 기저 세포 암종; 담관암; 방광암; 골암; 유방암; 기관지 종양; 버킷 림프종; 카르시노이드 종양 (위장); 배세포 종양; 원발성 CNS 림프종; 자궁경부암; 담관암종; 척삭종; 만성 림프구성 백혈병 (CLL); 만성 골수성 백혈병 (CML); 만성 골수증식성 신생물; 결장직장암; 두개인두종; 피부 T-세포 림프종; 관 상피내 암종 (DCIS); 자궁내막암; 상의세포종; 식도암; 감각신경모세포종; 두개외 배세포 종양; 고환외 배세포 종양; 안암; 안내 흑색종; 망막모세포종; 난관암; 골의 섬유성 조직구종, 악성, 및 골육종; 담낭암; 위암; 위장 카르시노이드 종양; 위장 기질 종양 (GIST); 배세포 종양; 임신성 영양막 질환; 모발상 세포 백혈병; 두경부암; 심장 종양; 간세포성암; 조직구증, 랑게르한스 세포; 호지킨 림프종; 하인두암; 안내 흑색종; 섬 세포 종양, 췌장 신경내분비 종양; 신장암; 후두암; 백혈병; 구순 및 구강암; 간암; 폐암; 림프종; 남성 유방암; 골의 악성 섬유성 조직구종 및 골육종; 흑색종; 메르켈 세포 암종; 중피종; 전이성 암; 구강암; 다발성 내분비 신생물 증후군; 다발성 골수종/형질 세포 신생물; 균상 식육종; 골수이형성 증후군, 골수증식성 신생물, 만성; 비인두암; 신경모세포종; 비-호지킨 림프종; 비소세포 폐암; 구강암, 구인두암; 골육종; 난소암; 췌장암; 췌장 신경내분비 종양; 유두종증; 부신경절종; 부비동암; 부갑상선암; 인두암; 크롬친화세포종; 뇌하수체 종양; 흉막폐 모세포종; 전립선암; 직장암; 재발성 암; 신세포암; 망막모세포종; 횡문근육종; 타액선암; 육종; 유잉 육종; 카포시 육종; 골육종; 자궁 육종; 세자리 증후군; 피부암; 소세포 폐암; 소장암; 연부 조직 육종; 피부의 편평 세포 암종; 편평 경부암; 위암; T 세포 림프종; 고환암; 인후암; 비인두암; 하인두암; 흉선 암종; 갑상선암; 요도암; 자궁암; 질암; 혈관 종양; 외음부암; 또는 윌름스 종양이거나; 또는\n종양이 고형 종양이거나; 또는\n재조합 TCR 라이브러리가 치료되는 대상체에 대해 자가이거나 또는 동종이계인 세포를 포함하거나; 또는\n대상체가 인간, 동물, 비-인간 영장류, 개, 고양이, 양, 마우스, 말 또는 소인\n제약 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항의 조성물의 유효량을 포함하는, 바이러스 감염의 치료를 필요로 하는 대상체에서의 바이러스 감염의 치료에서 사용하기 위한 제약 조성물.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 바이러스 감염이 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스에 의해 유발되거나, 또는\n재조합 TCR 라이브러리가 치료되는 대상체에 대해 자가이거나 또는 동종이계인 세포를 포함하거나, 또는\n대상체가 인간, 동물, 비-인간 영장류, 개, 고양이, 양, 마우스, 말 또는 소인 \n제약 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20241120",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 19,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 벡터 백본; 및\n(b) (i) TCRα 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRβ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드; 또는\n (ii) TCRγ 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRδ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드\n를 포함하는 재조합 T 세포 수용체 (TCR) 라이브러리 벡터로서,\n여기서 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 동족 쌍이고, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 구획 내에 존재하는 단일 용해된 T 세포로부터 단리된 mRNA로부터 유래되고, \n구획은 5 nL 이하의 용적을 갖고,\n구획은 에멀젼 액적 또는 웰이며, \n여기서 단일 용해된 T 세포의 mRNA는 폴리(dT) 코팅된 비드, 올리고뉴클레오티드-코팅된 비드, 히드로겔 비드, 및 마이크로어레이 웰의 표면 상의 프린팅된 올리고로 이루어진 군으로부터 선택되는 mRNA 포획 시약을 사용하여 단리되고, 중첩 연장 역전사 PCR(OE RT-PCR)에 의해 cDNA로 역전사되며, OE RT-PCR의 연결된 cDNA 산물은 네스티드 PCR을 사용하여 증폭되고, \n제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 링커 폴리뉴클레오티드를 통해 작동가능하게 연결되고, \n제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 TCR 유전자에서 천연적으로 발견되는 표적 제한 엔도뉴클레아제 부위에서의 절단에 의해 벡터 백본 내로 클로닝되며, 표적 제한 엔도뉴클레아제 부위는 낮은 빈도로 TCR 유전자에서 발생되는 것인,\n재조합 T 세포 수용체 (TCR) 라이브러리 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 벡터가 원형화되거나, 또는 웰이 프린팅된 중합체 슬라이드, 플라스틱 플레이트, 미세역가 플레이트, 또는 겔 내에 위치하는 것인, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드가 Age I, SpeI, XhoI, BsiWI, BstZI7I, BstBI 및 SphI로 이루어진 군으로부터 선택되는 적어도 하나의 표적 제한 엔도뉴클레아제 부위를 혼입하도록 변경되거나, 또는 \n표적 제한 엔도뉴클레아제 부위가 침묵 돌연변이를 포함하는 것인 \n벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1 폴리뉴클레오티드 및/또는 제2 폴리뉴클레오티드에 작동가능하게 연결된 발현 제어 요소를 코딩하는 적어도 하나의 폴리뉴클레오티드를 추가로 포함하며, 여기서 \n발현 제어 요소는 프로모터, EF1α 프로모터, CMV 프로모터, p2A 서열, 및 IRES 서열로 이루어진 군으로부터 선택되거나, 또는\n발현 제어 요소는 프로토스페이서 인접 모티프 (PAM) 근처에 혼입되거나, 또는\n발현 제어 요소는 제한 효소 또는 TALEN으로부터 선택된 DNA-변형 효소를 사용하여 벡터 내로 혼입된 것인 \n벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 벡터가 표적 세포 또는 질환 항원에 대한 결합 특이성을 갖는 TCR을 코딩하는 것이며, 여기서 \n표적 세포는 암 세포 또는 바이러스에 감염된 세포이거나, 또는 \n표적 세포는 대상체로부터 단리된 것인 \n벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 질환 항원이 바이러스 항원 또는 종양 항원이며, \n여기서 질환 항원은 \n항원:MHC 복합체 내로 로딩되거나, 또는 \n아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스로부터 유래된 바이러스 항원이거나, 또는\nCD45, 글리피칸-3, IGF2B3, 칼리크레인 4, KIF20A, 렝신, 멜로에, 뮤신 5AC (MUC5AC), 서바이빈, 시클린-A1, MAGE-A1, MAGE-C1, MAGE-C2, SSX2, XAGE1b/GAGED2A, CD19, CD20, CD22, CD52, 표피 성장 인자 수용체 (EGFR), 인간 표피 성장 인자 수용체 2 (HER2), 종양 괴사 인자 수용체 슈퍼패밀리, 멤버 10a (TRAILR1), 핵 인자 카파-B 리간드의 수용체 활성화제 (RANKL), 인슐린-유사 성장 인자 1 수용체 (IGF1R), 상피 세포 부착 분자 (EpCAM), 및 암배아성 항원 (CEA)으로 이루어진 군으로부터 선택된 종양 항원인 \n벡터.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 벡터를 포함하는 단리된 재조합 세포로서, 여기서 재조합 세포는 박테리아 세포, 포유동물 세포 또는 효모 세포인, 단리된 재조합 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 복수개의 벡터를 포함하는 재조합 TCR 벡터 라이브러리로서, 여기서 \n복수개의 벡터는 TCR 레퍼토리를 포함하거나, 또는\n여기서 TCR 벡터 라이브러리는 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드의 핵산 시퀀싱에 의해 특징규명된 것인\n재조합 TCR 벡터 라이브러리.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 벡터를 포함하는 단리된 면역 세포로서, 여기서 면역 세포는 조혈 줄기 세포, 조혈 전구 세포, T 세포 또는 자연 살해 (NK) 세포인, 단리된 면역 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 벡터, 또는 제10항의 벡터 라이브러리를 포함하는 단리된 세포 집단으로서, 여기서 단리된 집단은 조혈 줄기 세포, 조혈 전구 세포, T 세포 및/또는 NK 세포를 포함하는 것인, 단리된 세포 집단.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "재조합 TCR 라이브러리를 제조하는 방법으로서, 방법은 단리된 세포 집단을 제10항의 벡터 라이브러리로 형질전환시켜 재조합 TCR 라이브러리를 포함하는 단리된 세포 집단을 생성하는 것을 포함하는 , 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 재조합 TCR 라이브러리를 표적 세포에의 특이적 결합에 대하여 스크리닝하는 것을 추가로 포함하며, 여기서 표적 세포는 암 세포 또는 바이러스에 감염된 세포인 \n방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 재조합 TCR 라이브러리를 항원:MHC 복합체에의 특이적 결합에 대하여 스크리닝하는 것을 추가로 포함하며, 여기서 \n항원:MHC 복합체의 항원은 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스로부터 유래된 바이러스 항원이거나, 또는 \n항원:MHC 복합체의 항원은 CD45, 글리피칸-3, IGF2B3, 칼리크레인 4, KIF20A, 렝신, 멜로에, 뮤신 5AC (MUC5AC), 서바이빈, 시클린-A1, MAGE-A1, MAGE-C1, MAGE-C2, SSX2, XAGE1b/GAGED2A, CD19, CD20, CD22, CD52, EGFR, HER2, TRAILR1, RANKL, IGF1R, EpCAM, 및 CEA로 이루어진 군으로부터 선택된 종양 항원인\n방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, \n재조합 TCR 라이브러리를 T 세포 표현형 마커에 대하여 스크리닝하는 것, 또는\n재조합 TCR 라이브러리를 공동-배양 시스템에서의 활성에 대하여 스크리닝하는 것으로서, 여기서 공동-배양 시스템은\n(a) 암 세포주;\n(b) 공지된 바이러스에 감염된 복수개의 세포;\n(c) 암 환자로부터 단리된 복수개의 종양 세포;\n(d) 불멸화된 세포주; 또는\n(e) 환자 조직 생검으로부터 유래된 복수개의 세포\n중 적어도 하나를 포함하는 것, 또는\n형질전환된 세포 집단의 시험관내 활성화를 수행하는 것으로서, 여기서 시험관내 활성화는 다음의 자극제: 항-CD3 항체, 항-CD8 항체, 항-CD27 항체, IL-2, IL-4, IL-21, 항-PD1 항체, 항-CTLA4 항체, 종양 세포 용해물, 바이러스 감염된 세포와의 세포성 공동-배양물, 및 종양 세포주와의 세포성 공동-배양물 중 하나 이상을 사용하여 수행되는 것, 또는\n세포 집단을 전사 인자를 코딩하는 폴리뉴클레오티드로 형질전환시키는 것으로서, 여기서 전사 인자는 FOXP3, BLIMP-1, 이카로스, 헬리오스 및 TGF-베타로 이루어진 군으로부터 선택되는 것\n을 추가로 포함하는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항의 방법에 의해 제조된 유효량의 재조합 TCR 라이브러리 및 제약상 허용되는 담체를 포함하는, 암 치료 또는 종양 성장의 억제를 필요로 하는 대상체에서 암을 치료하거나 종양 성장을 억제하는 데 사용하기 위한 제약 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 암이 급성 림프모구성 백혈병 (ALL); 급성 골수성 백혈병 (AML); 부신피질 암종; AIDS-관련 암; 항문암; 충수암; 성상세포종; 비정형 기형양/횡문근양 종양, 뇌암; 피부의 기저 세포 암종; 담관암; 방광암; 골암; 유방암; 기관지 종양; 버킷 림프종; 카르시노이드 종양 (위장); 배세포 종양; 원발성 CNS 림프종; 자궁경부암; 담관암종; 척삭종; 만성 림프구성 백혈병 (CLL); 만성 골수성 백혈병 (CML); 만성 골수증식성 신생물; 결장직장암; 두개인두종; 피부 T-세포 림프종; 관 상피내 암종 (DCIS); 자궁내막암; 상의세포종; 식도암; 감각신경모세포종; 두개외 배세포 종양; 고환외 배세포 종양; 안암; 안내 흑색종; 망막모세포종; 난관암; 골의 섬유성 조직구종, 악성, 및 골육종; 담낭암; 위암; 위장 카르시노이드 종양; 위장 기질 종양 (GIST); 배세포 종양; 임신성 영양막 질환; 모발상 세포 백혈병; 두경부암; 심장 종양; 간세포성암; 조직구증, 랑게르한스 세포; 호지킨 림프종; 하인두암; 안내 흑색종; 섬 세포 종양, 췌장 신경내분비 종양; 신장암; 후두암; 백혈병; 구순 및 구강암; 간암; 폐암; 림프종; 남성 유방암; 골의 악성 섬유성 조직구종 및 골육종; 흑색종; 메르켈 세포 암종; 중피종; 전이성 암; 구강암; 다발성 내분비 신생물 증후군; 다발성 골수종/형질 세포 신생물; 균상 식육종; 골수이형성 증후군, 골수증식성 신생물, 만성; 비인두암; 신경모세포종; 비-호지킨 림프종; 비소세포 폐암; 구강암, 구인두암; 골육종; 난소암; 췌장암; 췌장 신경내분비 종양; 유두종증; 부신경절종; 부비동암; 부갑상선암; 인두암; 크롬친화세포종; 뇌하수체 종양; 흉막폐 모세포종; 전립선암; 직장암; 재발성 암; 신세포암; 망막모세포종; 횡문근육종; 타액선암; 육종; 유잉 육종; 카포시 육종; 골육종; 자궁 육종; 세자리 증후군; 피부암; 소세포 폐암; 소장암; 연부 조직 육종; 피부의 편평 세포 암종; 편평 경부암; 위암; T 세포 림프종; 고환암; 인후암; 비인두암; 하인두암; 흉선 암종; 갑상선암; 요도암; 자궁암; 질암; 혈관 종양; 외음부암; 또는 윌름스 종양이거나; 또는\n종양이 고형 종양이거나; 또는\n재조합 TCR 라이브러리가 치료되는 대상체에 대해 자가이거나 또는 동종이계인 세포를 포함하거나; 또는\n대상체가 인간, 동물, 비-인간 영장류, 개, 고양이, 양, 마우스, 말 또는 소인\n제약 조성물.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항의 방법에 의해 제조된 유효량의 재조합 TCR 라이브러리 및 제약상 허용되는 담체를 포함하는, 바이러스 감염의 치료를 필요로 하는 대상체에서 바이러스 감염을 치료하는 데 사용하기 위한 제약 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 바이러스 감염이 아데노바이러스, CMV, 코로나바이러스, 콕사키바이러스, 뎅기 바이러스, 엡스타인-바르 바이러스 (EBV), 엔테로바이러스 71 (EV71), 에볼라 바이러스, A형 간염 (HAV), B형 간염 (HBV), 시토메갈로바이러스 (CMV), C형 간염 (HCV), D형 간염 (HDV), E형 간염 (HEV), 인간 면역결핍 바이러스 (HIV), 인간 유두종바이러스 (HPV), 단순 포진 바이러스 (HSV), 인간 T-림프친화성 바이러스 (HTLV), 인플루엔자 A 바이러스, 인플루엔자 B 바이러스, 일본 뇌염, 백혈병 바이러스, 홍역 바이러스, 전염성 연속종, orf 바이러스, 파르보바이러스, 광견병 바이러스, 호흡기 세포융합 바이러스, 리프트 밸리 열 바이러스, 풍진 바이러스, 로타바이러스, 진드기-매개 뇌염 (TBEV), 유인원 면역결핍 바이러스, 담배 식각 바이러스 (TEV), 수두 대상포진 바이러스, 두창, 웨스트 나일 바이러스, 지카 바이러스, 및 치쿤군야 바이러스로 이루어진 군으로부터 선택된 바이러스에 의해 유발되거나, 또는\n재조합 TCR 라이브러리가 치료되는 대상체에 대해 자가이거나 또는 동종이계인 세포를 포함하거나, 또는\n대상체가 인간, 동물, 비-인간 영장류, 개, 고양이, 양, 마우스, 말 또는 소인 \n제약 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20250918",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 벡터 백본; 및\n(b) (i) TCRα 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRβ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드; 또는\n (ii) TCRγ 폴리펩티드를 코딩하는 제1 폴리뉴클레오티드 및 TCRδ 폴리펩티드를 코딩하는 제2 폴리뉴클레오티드\n를 포함하는 재조합 T 세포 수용체 (TCR) 라이브러리 벡터로서,\n여기서 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 동족 쌍이고, 제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 구획 내에 존재하는 단일 용해된 T 세포로부터 단리된 mRNA로부터 유래되는 전장 TCR 폴리펩티드를 코딩하는 cDNA 폴리뉴클레오티드이고, \n구획은 5 nL 이하의 용적을 갖고,\n구획은 에멀젼 액적 또는 웰이며, \n여기서 단일 용해된 T 세포의 mRNA는 폴리(dT) 코팅된 비드, 올리고뉴클레오티드-코팅된 비드, 히드로겔 비드, 및 마이크로어레이 웰의 표면 상의 프린팅된 올리고로 이루어진 군으로부터 선택되는 mRNA 포획 시약을 사용하여 단리되고, TCRα 및 TCRβ 폴리펩티드를 코딩하는 mRNA 또는 TCRγ 및 TCRδ 폴리펩티드를 코딩하는 mRNA에 특이적인 프라이머로 중첩 연장 역전사 PCR(OE RT-PCR)에 의해 cDNA로 역전사되며, OE RT-PCR의 연결된 cDNA 산물은 네스티드 PCR을 사용하여 증폭되고, \n제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 링커 폴리뉴클레오티드를 통해 작동가능하게 연결되고, \n제1 폴리뉴클레오티드 및 제2 폴리뉴클레오티드는 TCR 유전자에서 천연적으로 발견되는 표적 제한 엔도뉴클레아제 부위에서의 절단에 의해 벡터 백본 내로 클로닝되며, 표적 제한 엔도뉴클레아제 부위는 낮은 빈도로 TCR 유전자에서 발생되는 것인,\n재조합 T 세포 수용체 (TCR) 라이브러리 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "재조합 TCR 라이브러리를 제조하는 방법으로서, 방법은 단리된 세포 집단을 제10항의 벡터 라이브러리로 형질전환시켜 재조합 TCR 라이브러리를 포함하는 단리된 세포 집단을 생성하는 것을 포함하는, 방법.",
+            "refers_to": [
+              10
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 69,
+      "after_claim_count": 2,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2019.09.06",
+      "internationOpenNumber": "WO2019168923",
+      "internationalApplicationDate": "2019.02.27",
+      "internationalApplicationNumber": "PCT/US2019/019754"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 ***** 캔사스 로렌스 제이호크 블러바드 **** 스트롱 홀 ***",
+      "code": "519980619688",
+      "country": "미국",
+      "engName": "UNIVERSITY OF KANSAS",
+      "name": "유니버시티 오브 캔사스"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 ***** 캔사스주 로렌스 제이호크 ...",
+        "code": "",
+        "country": "",
+        "engName": "DEKOSKY, Brandon",
+        "name": "데코스키, 브랜든"
+      },
+      {
+        "address": "미국 ***** 캔사스주 로렌스...",
+        "code": "",
+        "country": "",
+        "engName": "CHUNG, Cheng-Yu",
+        "name": "충, 청-위"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980003619",
+        "country": "대한민국",
+        "engName": "YANG, Young June",
+        "name": "양영준"
+      },
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "920000001071",
+        "country": "대한민국",
+        "engName": "LEE, Sang Nam",
+        "name": "이상남"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2018.03.01",
+      "priorityApplicationNumber": "62/637,240"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2017096239 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2017180738 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "BMC Immunol, Vol.9, pp.50(2008.08.29.)",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2020.09.28",
+        "receiptNumber": "1-1-2020-1028732-54"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[New Translation under Article 201 of Patent Act or Article 35 of Utility Model Act] Submission of Document",
+        "documentName": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+        "receiptDate": "2020.10.28",
+        "receiptNumber": "1-1-2020-1144405-27"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2020.11.06",
+        "receiptNumber": "1-5-2020-0165979-18"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2020.12.09",
+        "receiptNumber": "1-1-2020-1333198-48"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2020.12.14",
+        "receiptNumber": "1-5-2020-0189551-32"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.02.18",
+        "receiptNumber": "1-1-2022-0182898-37"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.02.18",
+        "receiptNumber": "1-1-2022-0182891-18"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.09.20",
+        "receiptNumber": "9-5-2024-0796981-24"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.11.20",
+        "receiptNumber": "1-1-2024-1280145-56"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.11.20",
+        "receiptNumber": "1-1-2024-1280146-02"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2025.05.19",
+        "receiptNumber": "9-5-2025-0469863-09"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2025.07.18",
+        "receiptNumber": "1-1-2025-0817052-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2025.08.19",
+        "receiptNumber": "1-1-2025-0942054-50"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.09.18",
+        "receiptNumber": "1-1-2025-1073375-85"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.09.18",
+        "receiptNumber": "1-1-2025-1073374-39"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020207027921.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93b3a26c76cf871e6dc16bbaf53a985ebef4b328aea556c57b5a1f56a5759b6e6b25fbd25b5a597f570cef09f43820f8dc19e84739683e9053",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf6aacf688a5e1ca147ce1eafa42196ecc1b4b458b7ffb7d57bef73a3b9382a22e76a84798bf06fa9dd3f9fec59cdcd7b92317ac55c3a2a11b"
+  },
+  "rndInfoArray": ""
+}

@@ -1,0 +1,946 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.11.25",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0160375",
+      "claimCount": "10",
+      "examinerName": "고일영",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "암 표적 펩티드, 이를 포함하는 전구약물 나노입자 및 이를 포함하는 암 예방 또는 치료용 약학적 조성물",
+      "inventionTitleEng": "Tumor-targeting peptide, prodrug nanoparticles  containing the same and a pharmaceutical composition  for preventing or treating cancer comprising the same",
+      "openDate": "2024.06.19",
+      "openNumber": "10-2024-0086735",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.11.25",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.10.27",
+      "publicationNumber": "",
+      "registerDate": "2025.10.20",
+      "registerNumber": "10-2875469-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 5/107"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 7/06"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/64"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/69"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 암세포의 카텝신 B에 의해 절단될 수 있는 암 표적 펩티드에 관한 것으로서 항암제와 함께 전구약물 나노입자를 형성하는 것을 특징으로 하며, 담체없는 전구약물 나노입자를 제조함으로써 암 치료에 대한 새로운 접근방식을 제공할 수 있으며, 암 표적화 및 항암제의 치료 효능을 현저히 향상시킬 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220160375",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20221125",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기 일반식 1로 표시되는 펩티드로, 암세포의 카텝신 B에 의해 절단될 수 있는 암 표적 펩티드:\n[일반식 1]\nPhe-[Xaa1]n-Arg-Arg-[Xaa2]m-[Gly]o\n상기 식 1에서,\nXaa1 및 Xaa2는 각각 독립적으로 Leu 또는 Gly이고,\nn 내지 o는 각각 독립적으로 0 또는 1이며,\n단, 상기 n, m, o가 동시에 0이 되는 일은 없으며,\n상기 n이 0인 경우에는, m이 1이고, Xaa2는 Leu이다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 식 1에서 n+m+o는 2 이하인 것을 특징으로 하는 암 표적 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 식 1에서 n이 1인 경우에는 m 또는 o 중에서 어느 하나는 반드시 1인 것을 특징으로 하는 암 표적 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 펩티드는 서열번호 1 내지 3으로 표시되는 아미노산 서열 중에서 선택되는 어느 하나인 것을 특징으로 하는 암 표적 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 펩티드는 서열번호 1로 표시되는 것을 특징으로 하는 암 표적 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기 일반식 1로 표시되는 펩티드와 항암제가 결합된 형태의 접합체(conjugates):\n[일반식 1]\nPhe-[Xaa1]n-Arg-Arg-[Xaa2]m-[Gly]o\n상기 식 1에서,\nXaa1 및 Xaa2는 각각 독립적으로 Leu 또는 Gly이고,\nn 내지 o는 각각 독립적으로 0 또는 1이며,\n단, 상기 n, m, o가 동시에 0이 되는 일은 없으며,\n상기 n이 0인 경우에는, m이 1이고, Xaa2는 Leu이다.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, \n상기 식 1에서 n+m+o는 2 이하인 것을 특징으로 하는 접합체.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, \n상기 식 1에서 n이 1인 경우에는 m 또는 o 중에서 어느 하나는 반드시 1인 것을 특징으로 하는 접합체.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, \n상기 펩티드는 서열번호 1 내지 3으로 표시되는 아미노산 서열 중에서 선택되는 어느 하나인 것을 특징으로 하는 접합체.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, \n상기 펩티드는 서열번호 1로 표시되는 것을 특징으로 하는 접합체.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서,\n상기 접합체는 용액 상에서 자기조립을 통해 전구약물 나노입자 형태로 제조되는 것을 특징으로 하는 접합체.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서,\n상기 전구약물 나노입자는 평균 직경이 130 내지 170 nm인 것을 특징으로 하는 접합체.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서,\n상기 전구약물 나노입자는 전체 분자적 표면적 중에서 소수성 표면 비율이 55 내지 60%인 것을 특징으로 하는 접합체.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, \n상기 항암제는 택솔, 벤다무스틴, 부설판, 카무스틴, 클로람부실, 시클로포스파미드, 다카바진, 아드리아마이신, 다우노마이신(daunomycin), 이포스파미드, 멜팔란, 프로카바진, 스트렙토조신, 테모졸로미드, 아스파라기나제, 카페시타빈, 시타라빈, 5-플루오로우라실, 플루다라빈, 젬시타빈, 메토트렉세이트, 페메트렉세드, 랄티트렉세드, 액티노마이신-D, 블레오마이신, 다우노루비신, 독소루비신, 페길화 리포좀 독소루비신, 에피루비신, 이다루비신, 미토마이신, 미토잔트론, 에토포시드, 도세탁셀, 이리노테칸, 파클리탁셀, 토포테칸, 빈블라스틴, 빈크리스틴, 비노렐빈, 카보플라틴, 시스플라틴, 옥살리플라틴, 알렘투자맙, 비씨지, 베바시주맙, 세툭시맙, 데노수맙, 엘로티닙, 게피티닙, 이마티닙, 인터페론, 이필리무맙, 라파티닙, 파니투무맙, 리툭시맙, 수니티닙, 소라페닙, 템시롤리무스, 트라스투주맙, 클로드로네이트, 이반드론산, 파미드로네이트 및 졸레드론산으로 이루어진 군으로부터 선택되는 어느 하나인 것을 특징으로 하는 접합체.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 따른 접합체를 유효성분으로 포함하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서,\n상기 접합체는 암세포 내에 존재하는 카텝신 B에 의해 분해되어 활성화되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서,\n상기 약학적 조성물은 신장 조직 또는 간 조직보다 암 조직에 2배 이상 축적되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서,\n상기 암은 폐암, 위암, 신경교종, 간암, 흑색종, 신장암, 요로상피암, 두경부암, 메르켈세포종(Merkel-cell carcinoma), 전립선암, 혈액암, 유방암, 유선암, 대장암, 결장암, 직장암, 췌장암, 뇌암, 난소암, 방광암, 기관지암, 피부암, 자궁경부암, 자궁내막암, 식도암, 비인두 선암, 갑상선암, 골암 및 이들의 조합으로 이루어진 군으로부터 선택되는 어느 하나 이상인 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            15
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20250319",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 1 내지 3 중에서 어느 하나로 표시되는 펩티드로, 암세포의 카텝신 B에 의해 절단될 수 있는 암 표적 펩티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 펩티드는 서열번호 1로 표시되는 것을 특징으로 하는 암 표적 펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 1 내지 3 중에서 어느 하나로 표시되는 펩티드 및 항암제가 결합한 접합체(conjugates)를 유효성분으로 하고,상기 접합체는 상기 펩티드 C 말단과 항암제의 아민기가 결합되어 형성된 것을 특징으로 하며,상기 항암제는 다카바진, 독소루비신, 다우노마이신(daunomycin), 멜팔란, 테모졸로미드, 시타라빈, 5-플루오로우라실, 플루다라빈, 젬시타빈, 메토트렉세이트, 페메트렉세드, 블레오마이신, 다우노루비신, 페길화 리포좀 독소루비신, 에피루비신, 이다루비신 및 미토마이신으로 이루어진 군으로부터 선택되는 어느 하나인 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 펩티드는 서열번호 1로 표시되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서,상기 접합체는 용액 상에서 자기조립을 통해 전구약물 나노입자 형태로 제조되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서,상기 전구약물 나노입자는 평균 직경이 130 내지 170 nm인 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서,상기 전구약물 나노입자는 전체 분자적 표면적 중에서 소수성 표면 비율이 55 내지 60%인 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서,상기 접합체는 암세포 내에 존재하는 카텝신 B에 의해 분해되어 활성화되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서,상기 약학적 조성물은 신장 조직 또는 간 조직보다 암 조직에 2배 이상 축적되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서,상기 암은 폐암, 위암, 신경교종, 간암, 흑색종, 신장암, 요로상피암, 두경부암, 메르켈세포종(Merkel-cell carcinoma), 전립선암, 혈액암, 유방암, 유선암, 대장암, 결장암, 직장암, 췌장암, 뇌암, 난소암, 방광암, 기관지암, 피부암, 자궁경부암, 자궁내막암, 식도암, 비인두 선암, 갑상선암, 골암 및 이들의 조합으로 이루어진 군으로부터 선택되는 어느 하나 이상인 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20221125",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 18,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 일반식 1로 표시되는 펩티드로, 암세포의 카텝신 B에 의해 절단될 수 있는 암 표적 펩티드:\n[일반식 1]\nPhe-[Xaa1]n-Arg-Arg-[Xaa2]m-[Gly]o\n상기 식 1에서,\nXaa1 및 Xaa2는 각각 독립적으로 Leu 또는 Gly이고,\nn 내지 o는 각각 독립적으로 0 또는 1이며,\n단, 상기 n, m, o가 동시에 0이 되는 일은 없으며,\n상기 n이 0인 경우에는, m이 1이고, Xaa2는 Leu이다.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 식 1에서 n+m+o는 2 이하인 것을 특징으로 하는 암 표적 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 식 1에서 n이 1인 경우에는 m 또는 o 중에서 어느 하나는 반드시 1인 것을 특징으로 하는 암 표적 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 펩티드는 서열번호 1 내지 3으로 표시되는 아미노산 서열 중에서 선택되는 어느 하나인 것을 특징으로 하는 암 표적 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 펩티드는 서열번호 1로 표시되는 것을 특징으로 하는 암 표적 펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 일반식 1로 표시되는 펩티드와 항암제가 결합된 형태의 접합체(conjugates):\n[일반식 1]\nPhe-[Xaa1]n-Arg-Arg-[Xaa2]m-[Gly]o\n상기 식 1에서,\nXaa1 및 Xaa2는 각각 독립적으로 Leu 또는 Gly이고,\nn 내지 o는 각각 독립적으로 0 또는 1이며,\n단, 상기 n, m, o가 동시에 0이 되는 일은 없으며,\n상기 n이 0인 경우에는, m이 1이고, Xaa2는 Leu이다.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, \n상기 식 1에서 n+m+o는 2 이하인 것을 특징으로 하는 접합체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, \n상기 식 1에서 n이 1인 경우에는 m 또는 o 중에서 어느 하나는 반드시 1인 것을 특징으로 하는 접합체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, \n상기 펩티드는 서열번호 1 내지 3으로 표시되는 아미노산 서열 중에서 선택되는 어느 하나인 것을 특징으로 하는 접합체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, \n상기 펩티드는 서열번호 1로 표시되는 것을 특징으로 하는 접합체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서,\n상기 접합체는 용액 상에서 자기조립을 통해 전구약물 나노입자 형태로 제조되는 것을 특징으로 하는 접합체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서,\n상기 전구약물 나노입자는 평균 직경이 130 내지 170 nm인 것을 특징으로 하는 접합체.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서,\n상기 전구약물 나노입자는 전체 분자적 표면적 중에서 소수성 표면 비율이 55 내지 60%인 것을 특징으로 하는 접합체.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, \n상기 항암제는 택솔, 벤다무스틴, 부설판, 카무스틴, 클로람부실, 시클로포스파미드, 다카바진, 아드리아마이신, 다우노마이신(daunomycin), 이포스파미드, 멜팔란, 프로카바진, 스트렙토조신, 테모졸로미드, 아스파라기나제, 카페시타빈, 시타라빈, 5-플루오로우라실, 플루다라빈, 젬시타빈, 메토트렉세이트, 페메트렉세드, 랄티트렉세드, 액티노마이신-D, 블레오마이신, 다우노루비신, 독소루비신, 페길화 리포좀 독소루비신, 에피루비신, 이다루비신, 미토마이신, 미토잔트론, 에토포시드, 도세탁셀, 이리노테칸, 파클리탁셀, 토포테칸, 빈블라스틴, 빈크리스틴, 비노렐빈, 카보플라틴, 시스플라틴, 옥살리플라틴, 알렘투자맙, 비씨지, 베바시주맙, 세툭시맙, 데노수맙, 엘로티닙, 게피티닙, 이마티닙, 인터페론, 이필리무맙, 라파티닙, 파니투무맙, 리툭시맙, 수니티닙, 소라페닙, 템시롤리무스, 트라스투주맙, 클로드로네이트, 이반드론산, 파미드로네이트 및 졸레드론산으로 이루어진 군으로부터 선택되는 어느 하나인 것을 특징으로 하는 접합체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 따른 접합체를 유효성분으로 포함하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서,\n상기 접합체는 암세포 내에 존재하는 카텝신 B에 의해 분해되어 활성화되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서,\n상기 약학적 조성물은 신장 조직 또는 간 조직보다 암 조직에 2배 이상 축적되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서,\n상기 암은 폐암, 위암, 신경교종, 간암, 흑색종, 신장암, 요로상피암, 두경부암, 메르켈세포종(Merkel-cell carcinoma), 전립선암, 혈액암, 유방암, 유선암, 대장암, 결장암, 직장암, 췌장암, 뇌암, 난소암, 방광암, 기관지암, 피부암, 자궁경부암, 자궁내막암, 식도암, 비인두 선암, 갑상선암, 골암 및 이들의 조합으로 이루어진 군으로부터 선택되는 어느 하나 이상인 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20250319",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 17,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 1 내지 3 중에서 어느 하나로 표시되는 펩티드로, 암세포의 카텝신 B에 의해 절단될 수 있는 암 표적 펩티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 1 내지 3 중에서 어느 하나로 표시되는 펩티드 및 항암제가 결합한 접합체(conjugates)를 유효성분으로 하고,\n상기 접합체는 상기 펩티드 C 말단과 항암제의 아민기가 결합되어 형성된 것을 특징으로 하며,\n상기 항암제는 다카바진, 독소루비신, 다우노마이신(daunomycin), 멜팔란, 테모졸로미드, 시타라빈, 5-플루오로우라실, 플루다라빈, 젬시타빈, 메토트렉세이트, 페메트렉세드, 블레오마이신, 다우노루비신, 페길화 리포좀 독소루비신, 에피루비신, 이다루비신 및 미토마이신으로 이루어진 군으로부터 선택되는 어느 하나인 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, \n상기 펩티드는 서열번호 1로 표시되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서,\n상기 접합체는 용액 상에서 자기조립을 통해 전구약물 나노입자 형태로 제조되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서,\n상기 전구약물 나노입자는 평균 직경이 130 내지 170 nm인 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서,\n상기 전구약물 나노입자는 전체 분자적 표면적 중에서 소수성 표면 비율이 55 내지 60%인 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서,\n상기 접합체는 암세포 내에 존재하는 카텝신 B에 의해 분해되어 활성화되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서,\n상기 약학적 조성물은 신장 조직 또는 간 조직보다 암 조직에 2배 이상 축적되는 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서,\n상기 암은 폐암, 위암, 신경교종, 간암, 흑색종, 신장암, 요로상피암, 두경부암, 메르켈세포종(Merkel-cell carcinoma), 전립선암, 혈액암, 유방암, 유선암, 대장암, 결장암, 직장암, 췌장암, 뇌암, 난소암, 방광암, 기관지암, 피부암, 자궁경부암, 자궁내막암, 식도암, 비인두 선암, 갑상선암, 골암 및 이들의 조합으로 이루어진 군으로부터 선택되는 어느 하나 이상인 것을 특징으로 하는 암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 18,
+      "after_claim_count": 17,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 송파구...",
+      "code": "120190580864",
+      "country": "대한민국",
+      "engName": "Noxpharm Co., Ltd.",
+      "name": "녹스팜 주식회사"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 성북구...",
+        "code": "",
+        "country": "",
+        "engName": "Kim, Kwangmeyung",
+        "name": "김광명"
+      },
+      {
+        "address": "서울특별시 성북구...",
+        "code": "",
+        "country": "",
+        "engName": "Man Kyu Shim",
+        "name": "심만규"
+      },
+      {
+        "address": "서울특별시 성북구...",
+        "code": "",
+        "country": "",
+        "engName": "Hong Yeol Yoon",
+        "name": "윤홍열"
+      },
+      {
+        "address": "서울특별시 서대문구...",
+        "code": "",
+        "country": "",
+        "engName": "SHIM, Nayeon",
+        "name": "심나연"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 동산로 **, *층(양재동, 베델회관)",
+      "code": "920101000219",
+      "country": "대한민국",
+      "engName": "CHUNG HYUN PATENT&LAW FIRM",
+      "name": "특허법인충현"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020230085578 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020210104463 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR101930399 B1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2011116954 A2",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2004016653 A2",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.11.25",
+        "receiptNumber": "1-1-2022-1264966-79"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2022.12.09",
+        "receiptNumber": "1-5-2022-0186167-67"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.12.21",
+        "receiptNumber": "1-1-2022-1380753-49"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2024.01.12",
+        "receiptNumber": "1-1-2024-0044976-77"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.03.22",
+        "receiptNumber": "4-1-2024-5102250-75"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2024.12.23",
+        "receiptNumber": "1-1-2024-1425493-31"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.01.24",
+        "receiptNumber": "9-5-2025-0096850-67"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.03.19",
+        "receiptNumber": "1-1-2025-0309472-06"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.03.19",
+        "receiptNumber": "1-1-2025-0309459-12"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2025.03.19",
+        "receiptNumber": "1-1-2025-0309478-79"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.09.25",
+        "receiptNumber": "9-5-2025-0938044-01"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220160375.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c935572e74d92d597517edbbba526707f81b8c5b51881e7961e7465343d3cf52127d62c4733f3e4f68b9eb6b53d36ff277f8b87b7b807818dfa",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cff5553a08704d48203c58ac3134dd923fdd75582734dc6781ff802bb89cca661e5b9a8f237448ef70b9f7096071207ece18435a0839cd9350"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "과학기술정보통신부",
+      "rndDuration": "2019.03.01 ~ 2023.02.28",
+      "rndManagingInstituteName": "이화여자대학교 산합협력단",
+      "rndProjectName": "중견연구자지원사업",
+      "rndSpecialInstituteName": "한국연구재단",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "암 세포 특이적 항암제 전구체 나노약물을 이용한 종양 이질성 극복형 치료기술 개발",
+      "rndTaskNumber": "1711168319"
+    }
+  }
+}

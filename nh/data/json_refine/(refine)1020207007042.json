@@ -1,0 +1,1204 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2018.08.10",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-7007042",
+      "claimCount": "19",
+      "examinerName": "이현지",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "상용적인 암 면역요법의 플랫폼으로서 CD1D-제한된 NKT 세포",
+      "inventionTitleEng": "CD1D-RESTRICTED NKT CELLS AS A PLATFORM FOR OFF-THE-SHELF CANCER IMMUNOTHERAPY",
+      "openDate": "2020.04.06",
+      "openNumber": "10-2020-0036017",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.03.10",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.12.13",
+      "publicationNumber": "",
+      "registerDate": "2022.12.08",
+      "registerNumber": "10-2477124-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2020.03.10"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 5/10"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 35/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본원의 구현예는 숙주 개체에 보편적으로 허용될 수 있는 동종이계 세포를 포함하는 면역요법을 위한 방법 및 조성물을 포함한다. 특정 구현예에서, 세포는 내인성 β2-마이크로글로불린 (B2M) 및/또는 MHC 클래스 II-부속 불변 체인 (Ii)의 발현이 감소된 것이며, 특정 경우에 세포는 숙주 조직을 손상시키는 능력이 결핍되고, 숙주 면역 세포에 의한 인지가 현저하게 감소되고, 놀랍게도 숙주 NK 세포에 의한 파괴를 회피하는, NKT 세포이다. 일부 구현예에서, B2M- 및/또는 Ii-타겟팅 분자는, 예를 들어, 보편적으로 허용되는 상용 면역치료제를 원-히트 제조하기 위해, 재조합에 의해 조작된 수용체와 조합하여 (하나의 구조체 내에서) 발현되도록 조작된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020207007042",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200310",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 20,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a), (b) 또는 (c)의 발현이 감소되거나 또는 발현이 검출불가능한, 단리된 인간 NKT 세포 또는 이의 복수의 세포들:\n(a) 내인성 β-2-마이크로글로불린 (B2M); \n(b) 내인성 MHC 클래스 II-부속 불변 체인 (MHC class II-associated invariant chain) (Ii); 또는\n(c) (a) 및 (b).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 세포 또는 세포들이 B2M 유전자 또는 Ii 유전자를 타겟팅하는 합성 DNA 또는 RNA를 포함하는, 세포 또는 세포들.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\n상기 합성 DNA 또는 RNA가 B2M 유전자 또는 Ii 유전자의 3' 말단을 타겟팅하는, 세포 또는 세포들.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항 또는 제3항에 있어서,\n상기 합성 RNA가 shRNA 또는 CRISPR 가이드 RNA인, 세포 또는 세포들.",
+          "refers_to": [
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서,\n상기 세포가 하나 이상의 재조합에 의해 조작된 수용체를 포함하는, 세포 또는 세포들.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서,\n상기 수용체가 키메라 항원 수용체, 키메라 사이토카인 수용체 또는 T 세포 수용체인, 세포 또는 세포들.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서,\n상기 세포가 하나 이상의 사이토카인을 재조합에 의해 발현하는, 세포 또는 세포들.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n상기 사이토카인이 IL-15, IL-7, IL-12, IL-18, IL-21, IL-27, IL-33 또는 이들의 조합인, 세포 또는 세포들.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서,\nB2M 및/또는 Ii 이외의 다른 내인성 유전자의 발현이 추가적으로 감소된, 세포 또는 세포들.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 있어서,\n상기 세포 또는 세포들이 CD62L-양성 및/또는 CD4-양성 및/또는 PD1-음성/저 발현성 (low)의 NKT 세포인, 세포 또는 세포들.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 있어서,\n상기 세포 또는 세포들이 개체에 대해 자가 (autologous) 세포인, 세포 또는 세포들.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 있어서,\n상기 세포 또는 세포들이 개체에 동종이계 (allogeneic) 세포인, 세포 또는 세포들.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "NKT 세포를 (a), (b) 또는 (c)에 노출시키는 것을 포함하는, 제1항 내지 제10항 중 어느 한 항에 따른 세포 또는 세포들의 제조 방법:\n(a) 세포 및 세포들에서 내인성 B2M의 발현을 감소시키는 하나 이상의 물질;\n(b) 세포 및 세포들에서 내인성 Ii의 발현을 감소시키는 하나 이상의 물질; 또는\n(c) (a) 및 (b).",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서,\n상기 물질이 DNA 벡터, 모르폴리노, siRNA, S-DNA, TALEN, ZFN, shRNA 또는 CRISPR 가이드 RNA인, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 또는 제14항에 있어서,\n상기 NKT 세포가 재조합에 의해 조작된 수용체 및/또는 하나 이상의 사이토카인을 발현하도록 조작된, 방법.",
+          "refers_to": [
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제12항 중 어느 한 항에 따른 세포를 치료학적 함량으로 개체에 제공하는 단계를 포함하는, 필요한 개체에서 하나 이상의 의학적인 병태를 치료하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서,\n상기 의학적인 병태가 암 또는 전암성 병태 (premalignant condition)인, 방법.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서,\n상기 암이 신경모세포종, 유방암, 자궁경부암, 난소암, 자궁내막암, 흑색종, 방광암, 폐암, 췌장암, 대장암, 전립선암, 림프구 계열의 조혈 종양, 백혈병, 급성 림프성 백혈병, 만성 림프성 백혈병, B-세포 림프종, 버킷 림프종, 다발성 골수종, 호지킨 림프종, 비-호지킨 림프종, 골수성 백혈병, 급성 골수성 백혈병 (AML), 만성 골수성 백혈병, 갑상선암, 갑상선 여포암, 간엽계 종양, 섬유육종, 횡문근육종, 흑색종, 포도막 흑색종, 기형암종, 신경모세포종, 신경교종, 교모세포종, 피부의 양성 종양, 신장암, 역형성 거대-세포 림프종, 식도 편평 세포 암종, 간세포암, 여포성 수지상 세포 암종, 장암, 근-침윤성 암, 정낭 종양, 상피 암종, 비장암, 방광암, 두경부암, 위암, 간암, 골암, 뇌암, 망막암, 담관계 암, 소장암, 침샘암, 자궁암, 고환암, 결합 조직암, 전립선 비대증, 골수이형성증, 발덴스트롬의 마크로글로불린혈증, 비인두암, 신경내분비암, 골수이형성 증후군, 중피종, 혈관육종, 카포시 육종, 유암종, 위식도암, 자궁관암, 복막암, 유두상 장액성 뮐러암, 악성 복수, 위장관 기질 종양 (GIST), 또는 리-프라우메니 증후군 (Li-Fraumeni syndrome) 및 폰 히펠-린도우 증후군 (Von Hippel-Lindau syndrome, VHL)으로부터 선택되는 유전성 암 증후군이거나, 또는\n상기 전암성 병태가 골수이형성 증후군 (MDS)인, 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항 또는 제18항에 있어서,\n상기 개체는 암을 앓고 있으며, 부가적인 암 요법 (cancer therapy)이 제공되는, 방법.",
+          "refers_to": [
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서,\n상기 부가적인 암 요법이 수술, 방사선 치료, 화학요법, 면역요법, 양성자 치료 (proton therapy), 호르몬 요법 또는 이들의 조합인, 방법.",
+          "refers_to": [
+            19
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20211020",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 20,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a), (b) 또는 (c)의 발현이 감소되거나 또는 발현이 검출불가능한, 단리된 CD1d-제한된 인간 NKT 세포(natural killer T cell) 또는 이의 복수의 세포들:(a) 내인성 β-2-마이크로글로불린 (B2M); (b) 내인성 MHC 클래스 II-부속 불변 체인 (MHC class II-associated invariant chain) (Ii); 또는(c) (a) 및 (b).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 세포 또는 세포들이 B2M 유전자 또는 Ii 유전자를 타겟팅하는 합성 DNA 또는 RNA를 포함하는, 세포 또는 세포들.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서,상기 합성 DNA 또는 RNA가 B2M 유전자 또는 Ii 유전자의 3' 말단을 타겟팅하는, 세포 또는 세포들.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서,상기 합성 RNA가 shRNA 또는 CRISPR 가이드 RNA인, 세포 또는 세포들.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 세포가 하나 이상의 재조합에 의해 조작된 수용체를 포함하는, 세포 또는 세포들.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서,상기 수용체가 키메라 항원 수용체, 키메라 사이토카인 수용체 또는 T 세포 수용체인, 세포 또는 세포들.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 세포가 하나 이상의 사이토카인을 재조합에 의해 발현하는, 세포 또는 세포들.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서,상기 사이토카인이 IL-15, IL-7, IL-12, IL-18, IL-21, IL-27, IL-33 또는 이들의 조합인, 세포 또는 세포들.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,B2M 및/또는 Ii 이외의 다른 내인성 유전자의 발현이 추가적으로 감소된, 세포 또는 세포들.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 세포 또는 세포들이 CD62L-양성 또는 CD4-양성 또는 PD1-음성/저 발현성 (low)의 NKT 세포, 또는 이들의 혼합물인, 세포 또는 세포들.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 세포 또는 세포들이 개체에 대해 자가 (autologous) 세포인, 세포 또는 세포들.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 세포 또는 세포들이 개체에 동종이계 (allogeneic) 세포인, 세포 또는 세포들.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "NKT 세포를 (a), (b) 또는 (c)에 노출시키는 것을 포함하는, 제1항 내지 제12항 중 어느 한 항에 따른 세포 또는 세포들의 제조 방법:(a) 세포 및 세포들에서 내인성 B2M의 발현을 감소시키는 하나 이상의 물질;(b) 세포 및 세포들에서 내인성 Ii의 발현을 감소시키는 하나 이상의 물질; 또는(c) (a) 및 (b).",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서,상기 물질이 DNA 벡터, 모르폴리노, siRNA, S-DNA, TALEN, ZFN, shRNA 또는 CRISPR 가이드 RNA인, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서,상기 NKT 세포가 재조합에 의해 조작된 수용체 및/또는 하나 이상의 사이토카인을 발현하도록 조작된, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제12항 중 어느 한 항에 따른 세포를 포함하는,개체에서 암 또는 전암성 병태 (premalignant condition)를 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서,상기 암이 신경모세포종, 유방암, 자궁경부암, 난소암, 자궁내막암, 흑색종, 방광암, 폐암, 췌장암, 대장암, 전립선암, 림프구 계열의 조혈 종양, 백혈병, 급성 림프성 백혈병, 만성 림프성 백혈병, B-세포 림프종, 버킷 림프종, 다발성 골수종, 호지킨 림프종, 비-호지킨 림프종, 골수성 백혈병, 급성 골수성 백혈병 (AML), 만성 골수성 백혈병, 갑상선암, 갑상선 여포암, 간엽계 종양, 섬유육종, 횡문근육종, 흑색종, 포도막 흑색종, 기형암종, 신경모세포종, 신경교종, 교모세포종, 피부의 양성 종양, 신장암, 역형성 거대-세포 림프종, 식도 편평 세포 암종, 간세포암, 여포성 수지상 세포 암종, 장암, 근-침윤성 암, 정낭 종양, 상피 암종, 비장암, 방광암, 두경부암, 위암, 간암, 골암, 뇌암, 망막암, 담관계 암, 소장암, 침샘암, 자궁암, 고환암, 결합 조직암, 전립선 비대증, 골수이형성증, 발덴스트롬의 마크로글로불린혈증, 비인두암, 신경내분비암, 골수이형성 증후군, 중피종, 혈관육종, 카포시 육종, 유암종, 위식도암, 자궁관암, 복막암, 유두상 장액성 뮐러암, 악성 복수, 위장관 기질 종양 (GIST), 또는 리-프라우메니 증후군 (Li-Fraumeni syndrome) 및 폰 히펠-린도우 증후군 (Von Hippel-Lindau syndrome, VHL)으로부터 선택되는 유전성 암 증후군이거나, 또는상기 전암성 병태가 골수이형성 증후군 (MDS)인, 약학 조성물.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서,상기 개체는 암을 앓고 있으며, 부가적인 암 요법 (cancer therapy)을 제공받은 개체인, 약학 조성물.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서,상기 부가적인 암 요법이 수술, 방사선 치료, 화학요법, 면역요법, 양성자 치료 (proton therapy), 호르몬 요법 또는 이들의 조합인, 약학 조성물.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200310",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 20,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a), (b) 또는 (c)의 발현이 감소되거나 또는 발현이 검출불가능한, 단리된 인간 NKT 세포 또는 이의 복수의 세포들:\n(a) 내인성 β-2-마이크로글로불린 (B2M); \n(b) 내인성 MHC 클래스 II-부속 불변 체인 (MHC class II-associated invariant chain) (Ii); 또는\n(c) (a) 및 (b).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 세포 또는 세포들이 B2M 유전자 또는 Ii 유전자를 타겟팅하는 합성 DNA 또는 RNA를 포함하는, 세포 또는 세포들.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\n상기 합성 DNA 또는 RNA가 B2M 유전자 또는 Ii 유전자의 3' 말단을 타겟팅하는, 세포 또는 세포들.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항 또는 제3항에 있어서,\n상기 합성 RNA가 shRNA 또는 CRISPR 가이드 RNA인, 세포 또는 세포들.",
+            "refers_to": [
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서,\n상기 세포가 하나 이상의 재조합에 의해 조작된 수용체를 포함하는, 세포 또는 세포들.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서,\n상기 수용체가 키메라 항원 수용체, 키메라 사이토카인 수용체 또는 T 세포 수용체인, 세포 또는 세포들.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서,\n상기 세포가 하나 이상의 사이토카인을 재조합에 의해 발현하는, 세포 또는 세포들.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n상기 사이토카인이 IL-15, IL-7, IL-12, IL-18, IL-21, IL-27, IL-33 또는 이들의 조합인, 세포 또는 세포들.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서,\nB2M 및/또는 Ii 이외의 다른 내인성 유전자의 발현이 추가적으로 감소된, 세포 또는 세포들.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항에 있어서,\n상기 세포 또는 세포들이 CD62L-양성 및/또는 CD4-양성 및/또는 PD1-음성/저 발현성 (low)의 NKT 세포인, 세포 또는 세포들.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 있어서,\n상기 세포 또는 세포들이 개체에 대해 자가 (autologous) 세포인, 세포 또는 세포들.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 있어서,\n상기 세포 또는 세포들이 개체에 동종이계 (allogeneic) 세포인, 세포 또는 세포들.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "NKT 세포를 (a), (b) 또는 (c)에 노출시키는 것을 포함하는, 제1항 내지 제10항 중 어느 한 항에 따른 세포 또는 세포들의 제조 방법:\n(a) 세포 및 세포들에서 내인성 B2M의 발현을 감소시키는 하나 이상의 물질;\n(b) 세포 및 세포들에서 내인성 Ii의 발현을 감소시키는 하나 이상의 물질; 또는\n(c) (a) 및 (b).",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서,\n상기 물질이 DNA 벡터, 모르폴리노, siRNA, S-DNA, TALEN, ZFN, shRNA 또는 CRISPR 가이드 RNA인, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 또는 제14항에 있어서,\n상기 NKT 세포가 재조합에 의해 조작된 수용체 및/또는 하나 이상의 사이토카인을 발현하도록 조작된, 방법.",
+            "refers_to": [
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제12항 중 어느 한 항에 따른 세포를 치료학적 함량으로 개체에 제공하는 단계를 포함하는, 필요한 개체에서 하나 이상의 의학적인 병태를 치료하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서,\n상기 의학적인 병태가 암 또는 전암성 병태 (premalignant condition)인, 방법.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서,\n상기 암이 신경모세포종, 유방암, 자궁경부암, 난소암, 자궁내막암, 흑색종, 방광암, 폐암, 췌장암, 대장암, 전립선암, 림프구 계열의 조혈 종양, 백혈병, 급성 림프성 백혈병, 만성 림프성 백혈병, B-세포 림프종, 버킷 림프종, 다발성 골수종, 호지킨 림프종, 비-호지킨 림프종, 골수성 백혈병, 급성 골수성 백혈병 (AML), 만성 골수성 백혈병, 갑상선암, 갑상선 여포암, 간엽계 종양, 섬유육종, 횡문근육종, 흑색종, 포도막 흑색종, 기형암종, 신경모세포종, 신경교종, 교모세포종, 피부의 양성 종양, 신장암, 역형성 거대-세포 림프종, 식도 편평 세포 암종, 간세포암, 여포성 수지상 세포 암종, 장암, 근-침윤성 암, 정낭 종양, 상피 암종, 비장암, 방광암, 두경부암, 위암, 간암, 골암, 뇌암, 망막암, 담관계 암, 소장암, 침샘암, 자궁암, 고환암, 결합 조직암, 전립선 비대증, 골수이형성증, 발덴스트롬의 마크로글로불린혈증, 비인두암, 신경내분비암, 골수이형성 증후군, 중피종, 혈관육종, 카포시 육종, 유암종, 위식도암, 자궁관암, 복막암, 유두상 장액성 뮐러암, 악성 복수, 위장관 기질 종양 (GIST), 또는 리-프라우메니 증후군 (Li-Fraumeni syndrome) 및 폰 히펠-린도우 증후군 (Von Hippel-Lindau syndrome, VHL)으로부터 선택되는 유전성 암 증후군이거나, 또는\n상기 전암성 병태가 골수이형성 증후군 (MDS)인, 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항 또는 제18항에 있어서,\n상기 개체는 암을 앓고 있으며, 부가적인 암 요법 (cancer therapy)이 제공되는, 방법.",
+            "refers_to": [
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서,\n상기 부가적인 암 요법이 수술, 방사선 치료, 화학요법, 면역요법, 양성자 치료 (proton therapy), 호르몬 요법 또는 이들의 조합인, 방법.",
+            "refers_to": [
+              19
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20211020",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a), (b) 또는 (c)의 발현이 감소되거나 또는 발현이 검출불가능한, 단리된 CD1d-제한된 인간 NKT 세포(natural killer T cell) 또는 이의 복수의 세포들:\n(a) 내인성 β-2-마이크로글로불린 (B2M); \n(b) 내인성 MHC 클래스 II-부속 불변 체인 (MHC class II-associated invariant chain) (Ii); 또는\n(c) (a) 및 (b).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서,\n상기 합성 RNA가 shRNA 또는 CRISPR 가이드 RNA인, 세포 또는 세포들.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 세포가 하나 이상의 재조합에 의해 조작된 수용체를 포함하는, 세포 또는 세포들.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 세포가 하나 이상의 사이토카인을 재조합에 의해 발현하는, 세포 또는 세포들.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\nB2M 및/또는 Ii 이외의 다른 내인성 유전자의 발현이 추가적으로 감소된, 세포 또는 세포들.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 세포 또는 세포들이 CD62L-양성 또는 CD4-양성 또는 PD1-음성/저 발현성 (low)의 NKT 세포, 또는 이들의 혼합물인, 세포 또는 세포들.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 세포 또는 세포들이 개체에 대해 자가 (autologous) 세포인, 세포 또는 세포들.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 세포 또는 세포들이 개체에 동종이계 (allogeneic) 세포인, 세포 또는 세포들.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "NKT 세포를 (a), (b) 또는 (c)에 노출시키는 것을 포함하는, 제1항 내지 제12항 중 어느 한 항에 따른 세포 또는 세포들의 제조 방법:\n(a) 세포 및 세포들에서 내인성 B2M의 발현을 감소시키는 하나 이상의 물질;\n(b) 세포 및 세포들에서 내인성 Ii의 발현을 감소시키는 하나 이상의 물질; 또는\n(c) (a) 및 (b).",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서,\n상기 NKT 세포가 재조합에 의해 조작된 수용체 및/또는 하나 이상의 사이토카인을 발현하도록 조작된, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제12항 중 어느 한 항에 따른 세포를 포함하는,\n개체에서 암 또는 전암성 병태 (premalignant condition)를 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서,\n상기 암이 신경모세포종, 유방암, 자궁경부암, 난소암, 자궁내막암, 흑색종, 방광암, 폐암, 췌장암, 대장암, 전립선암, 림프구 계열의 조혈 종양, 백혈병, 급성 림프성 백혈병, 만성 림프성 백혈병, B-세포 림프종, 버킷 림프종, 다발성 골수종, 호지킨 림프종, 비-호지킨 림프종, 골수성 백혈병, 급성 골수성 백혈병 (AML), 만성 골수성 백혈병, 갑상선암, 갑상선 여포암, 간엽계 종양, 섬유육종, 횡문근육종, 흑색종, 포도막 흑색종, 기형암종, 신경모세포종, 신경교종, 교모세포종, 피부의 양성 종양, 신장암, 역형성 거대-세포 림프종, 식도 편평 세포 암종, 간세포암, 여포성 수지상 세포 암종, 장암, 근-침윤성 암, 정낭 종양, 상피 암종, 비장암, 방광암, 두경부암, 위암, 간암, 골암, 뇌암, 망막암, 담관계 암, 소장암, 침샘암, 자궁암, 고환암, 결합 조직암, 전립선 비대증, 골수이형성증, 발덴스트롬의 마크로글로불린혈증, 비인두암, 신경내분비암, 골수이형성 증후군, 중피종, 혈관육종, 카포시 육종, 유암종, 위식도암, 자궁관암, 복막암, 유두상 장액성 뮐러암, 악성 복수, 위장관 기질 종양 (GIST), 또는 리-프라우메니 증후군 (Li-Fraumeni syndrome) 및 폰 히펠-린도우 증후군 (Von Hippel-Lindau syndrome, VHL)으로부터 선택되는 유전성 암 증후군이거나, 또는\n상기 전암성 병태가 골수이형성 증후군 (MDS)인, 약학 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서,\n상기 개체는 암을 앓고 있으며, 부가적인 암 요법 (cancer therapy)을 제공받은 개체인, 약학 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서,\n상기 부가적인 암 요법이 수술, 방사선 치료, 화학요법, 면역요법, 양성자 치료 (proton therapy), 호르몬 요법 또는 이들의 조합인, 약학 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 20,
+      "after_claim_count": 15,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020227043135"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2019.02.14",
+      "internationOpenNumber": "WO2019033023",
+      "internationalApplicationDate": "2018.08.10",
+      "internationalApplicationNumber": "PCT/US2018/046306"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미합중국, 텍사스 *****, 휴스톤, 원 베이롤 플라자",
+      "code": "519980672156",
+      "country": "미국",
+      "engName": "Baylor College of Medicine",
+      "name": "베이롤 칼리지 오브 메드신"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 ***** 텍사스...",
+        "code": "",
+        "country": "",
+        "engName": "METELITSA, Leonid, S.",
+        "name": "메뗄리짜 레오니드 에스."
+      },
+      {
+        "address": "미국 ***** 텍사스주 ...",
+        "code": "",
+        "country": "",
+        "engName": "JIN, Jingling",
+        "name": "진 징링"
+      },
+      {
+        "address": "미국 ***** 텍사스주...",
+        "code": "",
+        "country": "",
+        "engName": "LIU, Bin",
+        "name": "류 빈"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 강남대로 ***, 산학협동재단빌딩 **층(서초동)",
+      "code": "920071000819",
+      "country": "대한민국",
+      "engName": "PanKorea Patent & Law Firm",
+      "name": "팬코리아특허법인"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "유럽특허청(EPO)",
+      "priorityApplicationDate": "2017.08.11",
+      "priorityApplicationNumber": "17185992.9"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "Immunology. 2002 Jul, 106(3): 363-372.",
+      "examinerQuotationFlag": ""
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2020.03.10",
+        "receiptNumber": "1-1-2020-0252556-34"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2020.03.12",
+        "receiptNumber": "1-5-2020-0039564-07"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.07.20",
+        "receiptNumber": "9-5-2021-0570245-02"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.09.17",
+        "receiptNumber": "1-1-2021-1080119-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.10.20",
+        "receiptNumber": "1-1-2021-1201276-39"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.10.20",
+        "receiptNumber": "1-1-2021-1201277-85"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2022.01.04",
+        "receiptNumber": "9-5-2022-0011098-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.03.02",
+        "receiptNumber": "1-1-2022-0228837-20"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.03.31",
+        "receiptNumber": "1-1-2022-0348268-32"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.05.03",
+        "receiptNumber": "1-1-2022-0472296-31"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.06.03",
+        "receiptNumber": "1-1-2022-0584634-19"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장 관련 안내서",
+        "receiptDate": "2022.06.07",
+        "receiptNumber": "1-5-2022-0085162-48"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.07.04",
+        "receiptNumber": "1-1-2022-0696746-73"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.09.07",
+        "receiptNumber": "9-5-2022-0683282-32"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2022.12.08",
+        "receiptNumber": "1-1-2022-1320279-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2022.12.29",
+        "receiptNumber": "1-1-2022-1418923-39"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020207007042.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93f3a3253aec6b83e217b61d3261b4d4dc66ba580e1da7dc350826b1f5441dd7d5af501fd09a1e4e7dc1940e0fff648c7822c913822fbb11b5",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfa276f647ead63f3975f9027ff39c5eb8f55dbd4dfcd1afd8e60bbf595a3f1c218e537fff1baa70ac7bc7fd9bf1df6b8717e3db9de5a63a1b"
+  },
+  "rndInfoArray": ""
+}

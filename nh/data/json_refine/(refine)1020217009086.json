@@ -1,0 +1,1599 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.08.30",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7009086",
+      "claimCount": "28",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "다수의 HLA-G 이소형에 대한 키메라 항원 수용체",
+      "inventionTitleEng": "CHIMERIC ANTIGEN RECEPTORS AGAINST MULTIPLE HLA-G ISOFORMS",
+      "openDate": "2021.09.14",
+      "openNumber": "10-2021-0112295",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.08.29",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2021.03.26"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/705"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/12"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 모두는 아니지만 다수의 인간 백혈구 항원 (HLA-G) 이소형에 대한 키메라 항원 수용체 (CAR)에 관한 것이다. 보다 구체적으로, 본 발명은 각각 HLA-G β2M-부재 또는 β2M-회합 면역억제 이소형에 특이적인 CAR에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217009086",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210326",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 23,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항-HLA-G 항체의 항원 결합 도메인, 막횡단 도메인 및 세포내 도메인을 포함하며, 1 내지 6종의 HLA-G 이소형(들), 바람직하게는 2 내지 5종의 HLA-G 이소형에 특이적으로 결합하는 키메라 항원 수용체 (CAR).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, β2M-부재 HLA-G 또는 β2M-회합 HLA-G 이소형에 특이적으로 결합하는 CAR.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, HLA-G의 알파1 도메인에 결합하지 않는 CAR.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, HLA-G1, HLA-G2, HLA-G5 및 HLA-G6으로 이루어진 군으로부터 선택된 HLA-G 이소형에 특이적으로 결합하거나; 또는 HLA-G1 및 HLA-G5 둘 다에, 또는 HLA-G2 및 HLA-G6 둘 다에 및/또는 HLA-G1/β2M-부재 및 HLA-G5/β2M-부재 이소형 둘 다에 특이적으로 결합하는 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 항원 결합 도메인이 β2M-회합 HLA-G에, 바람직하게는 HLA-G1 및 HLA-G5 둘 다에 특이적으로 결합하는 scFv이고, scFv가\n(a) (i) 서열식별번호: 1 또는 서열식별번호: 1과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 2 또는 서열식별번호: 2와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는\n(b) (i) 서열식별번호: 1을 포함하는 중쇄 가변 영역의 CDR (상보성 결정 영역) 1, CDR2 및 CDR3; 및 서열식별번호: 2를 포함하는 경쇄 가변 영역의 CDR1, CDR2 및 CDR3을 포함하거나;\n또는 항원 결합 도메인이 β2M-부재 HLA-G에, 바람직하게는 HLA-G2 및 HLA-G6 둘 다에 및/또는 HLA-G1/β2M-부재 및 HLA-G5/β2M-부재 이소형 둘 다에 특이적으로 결합하는 scFv이고, scFv가\n(c) (i) 서열식별번호: 3 또는 서열식별번호: 3과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 4 또는 서열식별번호: 4와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는\n(d) (i) 서열식별번호: 3을 포함하는 중쇄 가변 영역의 CDR (상보성 결정 영역) 1, CDR2 및 CDR3; 및 서열식별번호: 4를 포함하는 경쇄 가변 영역의 CDR1, CDR2 및 CDR3을 포함하는 것인 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 항-HLA-G 항체가\n(a) (i) 서열식별번호: 1 또는 서열식별번호: 1과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 2 또는 서열식별번호: 2와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는\n(b) (i) 서열식별번호: 3 또는 서열식별번호: 3과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 4 또는 서열식별번호: 4와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역\n을 포함하는 항-HLA-G scFv인 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 세포내 도메인이 CD3 제타 신호전달 도메인 및 임의로 CD28, 41BB, CD28, CD134, ICOS, OX40, CD149, DAP10, CD30, IL2-R, IL7r6, IL21-R, NKp30, NKp44, CD27, CD137 및 DNAM-1 공동자극 도메인으로부터 선택된 적어도 1개의 공동자극 도메인(들)을 포함하고, 바람직하게는 2개의 공동자극 도메인이 41BB 및 CD28 공동자극 도메인인 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 막횡단 도메인이 CD28, CD3 및 CD8 막횡단 도메인으로부터 선택되고, 바람직하게는 막횡단 도메인이 CD28 막횡단 도메인인 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, N에서 C 말단으로: 펩티드 신호 서열, 항-HLA-G 항체 또는 그의 항원 결합 단편, 스페이서 도메인, 막횡단 도메인, 세포내 도메인, 절단가능한 링커 및 말단절단된 인간 CD19 도메인을 순차적으로 포함하는 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 바람직하게는 (i) 인간 IgG4 힌지 도메인, (ii) 인간 IgG4 힌지 도메인 및 CH3 인간 IgG4 도메인, (iii) 돌연변이된 CH2 인간 IgG4 도메인, 인간 IgG4 힌지 도메인 및 CH3 인간 IgG4 힌지 도메인, (iv) CD28 힌지 및 (v) CD8a 힌지 도메인으로 이루어진 군으로부터 선택된, 항원 결합 도메인을 막횡단 도메인에 연결하는 힌지 영역을 추가로 포함하는 CAR.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 힌지 도메인이 (i) 서열식별번호: 25, (ii) 서열식별번호: 25 및 서열식별번호: 27, (iii) 서열식별번호: 25, 서열식별번호: 26 및 서열식별번호: 27, (iv) 서열식별번호: 18 또는 (v) 서열식별번호: 19에 제시된 서열 또는 그와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하거나 그로 이루어진 것인 CAR.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 내지 제11항 중 어느 한 항에 있어서, 신호 펩티드가 CD8a 신호 펩티드, 마우스 Ig 카파 신호 펩티드, 인간 IgG4 신호 펩티드, IL2 신호 펩티드, 인간 IgG2 신호 펩티드 및 가우시아 luc 신호 펩티드로 이루어진 군으로부터 선택된 것인 CAR.",
+          "refers_to": [
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 내지 제12항 중 어느 한 항에 있어서, 절단가능한 링커가 P2A, T2A, E2A, B2A 및 F2A로 이루어진 군으로부터 선택된 것인 CAR.",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 내지 제13항 중 어느 한 항에 있어서, 말단절단된 인간 CD19 도메인이 서열식별번호: 29에 제시된 서열로 이루어진 것인 CAR.",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "적어도 2개의 상이한 항원 결합 도메인, 막횡단 도메인 및 세포내 도메인을 포함하는 다중특이적 CAR 구축물이며, 여기서 항원 결합 도메인 중 적어도 1개는 HLA-G의 β2M 도메인과 회합된 HLA-G 이소형에 특이적으로 결합하고; 항원 결합 도메인 중 적어도 또 다른 것은 HLA-G의 β2M 도메인과 회합되지 않은 HLA-G 이소형에 특이적으로 결합하고, 바람직하게는 여기서 다중특이적 CAR 구축물은 (i) 각각 서열식별번호: 11, 12 및 13의 서열을 포함하는 CDR 1, 2 및 3 (HCDR1, HCDR2, HCDR3)을 포함하는 도메인, (ii) 각각 서열식별번호: 14, 15 및 16의 서열을 포함하는 CDR 1, 2 및 3 (LCDR1, LCDR2, LCDR3)을 포함하는 도메인, (iii) 각각 서열식별번호: 5, 6 및 7의 서열을 포함하는 CDR 1, 2 및 3 (HCDR1, HCDR2, HCDR3)을 포함하는 도메인, 및 (iv) 각각 서열식별번호: 8, 9 및 10의 서열을 포함하는 CDR 1, 2 및 3 (LCDR1, LCDR2, LCDR3)을 포함하는 도메인을 포함하는 이중특이적 CAR 구축물이고, 임의로 여기서 각각의 CDR은 1, 2, 3 또는 4개의 아미노산 치환, 결실 또는 삽입을 임의로 포함할 수 있는 것인 다중특이적 CAR 구축물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 중 어느 한 항의 CAR을 코딩하는 핵산 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항의 핵산 분자를 포함하는 발현 벡터.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 중 어느 한 항의 CAR 또는 제16항의 핵산 분자 또는 제17항의 발현 벡터를 포함하는 세포이며, 바람직하게는 T 세포, CD4+ T 세포, CD8+ T 세포, B 세포, NK 세포, NKT 세포, 단핵구 및 수지상 세포로 이루어진 군으로부터 선택되고, 바람직하게는 T 세포, B 세포 또는 NK 세포인 세포.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 따른 핵산 분자, 제17항에 따른 발현 벡터 또는 제18항에 따른 세포 및 임의로 제약상 허용되는 담체를 포함하는 제약 조성물.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, (i) 바람직하게는 제5항에 따른, β2M-회합 HLA-G에, 바람직하게는 HLA-G1 및 HLA-G5 둘 다에 특이적으로 결합하는 CAR을 포함하는 세포, 및 바람직하게는 제5항에 따른, β2M-부재 HLA-G에, 바람직하게는 HLA-G2 및 HLA-G6 둘 다에 및/또는 HLA-G1/β2M-부재 및 HLA-G5/β2M-부재 이소형 둘 다에 특이적으로 결합하는 CAR을 포함하는 세포; 또는 (ii) 바람직하게는 제5항에 따른, HLA-G1 및 HLA-G5 둘 다에 또는 β2M-부재 HLA-G 이소형에 특이적으로 결합하는 CAR, 및 바람직하게는 제5항에 따른, HLA-G2 및 HLA-G6 둘 다에 또는 β2M-회합 HLA-G 이소형에 특이적으로 결합하는 CAR을 포함하는 세포를 포함하는 제약 조성물.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항 내지 제20항 중 어느 한 항에 있어서, 암의 치료에 사용하기 위한 또는 바이러스 감염의 치료에 사용하기 위한 것이며, 바람직하게는 HLA-G를 표적화하지 않는 CAR 요법과 조합하여 투여되는 세포 또는 제약 조성물.",
+          "refers_to": [
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "HLA-G β2M-회합 이소형, 바람직하게는 HLA-G1 및 HLA-G5 둘 다에 특이적으로 결합하는 항-HLA-G 항체이며, 바람직하게는\n(a) (i) 서열식별번호: 1 또는 서열식별번호: 1과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 2 또는 서열식별번호: 2와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는\n(b) (i) 서열식별번호: 1을 포함하는 중쇄 가변 영역의 CDR (상보성 결정 영역) 1, CDR2 및 CDR3; 및 서열식별번호: 2를 포함하는 경쇄 가변 영역의 CDR1, CDR2 및 CDR3\n을 포함하는 항-HLA-G 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 및 제22항 중 어느 한 항에 있어서, 항-HLA-G 항체 또는 그의 항원 결합 단편, 바람직하게는 scFv가 β2M-부재 HLA-G 또는 β2M-회합 HLA-G 이소형에 선택적으로 결합하지만 모든 HLA-G 이소형에 결합하지는 않는 것인 CAR 또는 항-HLA-G 항체.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20250925",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 23,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "항-HLA-G 항체의 항원 결합 도메인, 막횡단 도메인 및 세포내 도메인을 포함하며, 1 내지 6종의 HLA-G 이소형(들), 바람직하게는 2 내지 5종의 HLA-G 이소형에 특이적으로 결합하는 키메라 항원 수용체 (CAR).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, β2M-부재 HLA-G 또는 β2M-회합 HLA-G 이소형에 특이적으로 결합하는 CAR.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, HLA-G의 알파1 도메인에 결합하지 않는 CAR.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, HLA-G1, HLA-G2, HLA-G5 및 HLA-G6으로 이루어진 군으로부터 선택된 HLA-G 이소형에 특이적으로 결합하거나; 또는 HLA-G1 및 HLA-G5 둘 다에, 또는 HLA-G2 및 HLA-G6 둘 다에 및/또는 HLA-G1/β2M-부재 및 HLA-G5/β2M-부재 이소형 둘 다에 특이적으로 결합하는 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 항원 결합 도메인이 β2M-회합 HLA-G에, 바람직하게는 HLA-G1 및 HLA-G5 둘 다에 특이적으로 결합하는 scFv이고, scFv가(a) (i) 서열식별번호: 1 또는 서열식별번호: 1과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 2 또는 서열식별번호: 2와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는(b) (i) 서열식별번호: 1을 포함하는 중쇄 가변 영역의 CDR (상보성 결정 영역) 1, CDR2 및 CDR3; 및 서열식별번호: 2를 포함하는 경쇄 가변 영역의 CDR1, CDR2 및 CDR3을 포함하거나;또는 항원 결합 도메인이 β2M-부재 HLA-G에, 바람직하게는 HLA-G2 및 HLA-G6 둘 다에 및/또는 HLA-G1/β2M-부재 및 HLA-G5/β2M-부재 이소형 둘 다에 특이적으로 결합하는 scFv이고, scFv가(c) (i) 서열식별번호: 3 또는 서열식별번호: 3과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 4 또는 서열식별번호: 4와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는(d) (i) 서열식별번호: 3을 포함하는 중쇄 가변 영역의 CDR (상보성 결정 영역) 1, CDR2 및 CDR3; 및 서열식별번호: 4를 포함하는 경쇄 가변 영역의 CDR1, CDR2 및 CDR3을 포함하는 것인 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 항-HLA-G 항체가(a) (i) 서열식별번호: 1 또는 서열식별번호: 1과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 2 또는 서열식별번호: 2와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는(b) (i) 서열식별번호: 3 또는 서열식별번호: 3과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 4 또는 서열식별번호: 4와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역을 포함하는 항-HLA-G scFv인 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 세포내 도메인이 CD3 제타 신호전달 도메인 및 임의로 CD28, 41BB, CD28, CD134, ICOS, OX40, CD149, DAP10, CD30, IL2-R, IL7r6, IL21-R, NKp30, NKp44, CD27, CD137 및 DNAM-1 공동자극 도메인으로부터 선택된 적어도 1개의 공동자극 도메인(들)을 포함하고, 바람직하게는 2개의 공동자극 도메인이 41BB 및 CD28 공동자극 도메인인 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 막횡단 도메인이 CD28, CD3 및 CD8 막횡단 도메인으로부터 선택되고, 바람직하게는 막횡단 도메인이 CD28 막횡단 도메인인 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, N에서 C 말단으로: 펩티드 신호 서열, 항-HLA-G 항체 또는 그의 항원 결합 단편, 스페이서 도메인, 막횡단 도메인, 세포내 도메인, 절단가능한 링커 및 말단절단된 인간 CD19 도메인을 순차적으로 포함하는 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 바람직하게는 (i) 인간 IgG4 힌지 도메인, (ii) 인간 IgG4 힌지 도메인 및 CH3 인간 IgG4 도메인, (iii) 돌연변이된 CH2 인간 IgG4 도메인, 인간 IgG4 힌지 도메인 및 CH3 인간 IgG4 힌지 도메인, (iv) CD28 힌지 및 (v) CD8a 힌지 도메인으로 이루어진 군으로부터 선택된, 항원 결합 도메인을 막횡단 도메인에 연결하는 힌지 영역을 추가로 포함하는 CAR.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 힌지 도메인이 (i) 서열식별번호: 25, (ii) 서열식별번호: 25 및 서열식별번호: 27, (iii) 서열식별번호: 25, 서열식별번호: 26 및 서열식별번호: 27, (iv) 서열식별번호: 18 또는 (v) 서열식별번호: 19에 제시된 서열 또는 그와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하거나 그로 이루어진 것인 CAR.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항 내지 제11항 중 어느 한 항에 있어서, 신호 펩티드가 CD8a 신호 펩티드, 마우스 Ig 카파 신호 펩티드, 인간 IgG4 신호 펩티드, IL2 신호 펩티드, 인간 IgG2 신호 펩티드 및 가우시아 luc 신호 펩티드로 이루어진 군으로부터 선택된 것인 CAR.",
+          "refers_to": [
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항 내지 제12항 중 어느 한 항에 있어서, 절단가능한 링커가 P2A, T2A, E2A, B2A 및 F2A로 이루어진 군으로부터 선택된 것인 CAR.",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항 내지 제13항 중 어느 한 항에 있어서, 말단절단된 인간 CD19 도메인이 서열식별번호: 29에 제시된 서열로 이루어진 것인 CAR.",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "적어도 2개의 상이한 항원 결합 도메인, 막횡단 도메인 및 세포내 도메인을 포함하는 다중특이적 CAR 구축물이며, 여기서 항원 결합 도메인 중 적어도 1개는 HLA-G의 β2M 도메인과 회합된 HLA-G 이소형에 특이적으로 결합하고; 항원 결합 도메인 중 적어도 또 다른 것은 HLA-G의 β2M 도메인과 회합되지 않은 HLA-G 이소형에 특이적으로 결합하고, 바람직하게는 여기서 다중특이적 CAR 구축물은 (i) 각각 서열식별번호: 11, 12 및 13의 서열을 포함하는 CDR 1, 2 및 3 (HCDR1, HCDR2, HCDR3)을 포함하는 도메인, (ii) 각각 서열식별번호: 14, 15 및 16의 서열을 포함하는 CDR 1, 2 및 3 (LCDR1, LCDR2, LCDR3)을 포함하는 도메인, (iii) 각각 서열식별번호: 5, 6 및 7의 서열을 포함하는 CDR 1, 2 및 3 (HCDR1, HCDR2, HCDR3)을 포함하는 도메인, 및 (iv) 각각 서열식별번호: 8, 9 및 10의 서열을 포함하는 CDR 1, 2 및 3 (LCDR1, LCDR2, LCDR3)을 포함하는 도메인을 포함하는 이중특이적 CAR 구축물이고, 임의로 여기서 각각의 CDR은 1, 2, 3 또는 4개의 아미노산 치환, 결실 또는 삽입을 임의로 포함할 수 있는 것인 다중특이적 CAR 구축물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제15항 중 어느 한 항의 CAR을 코딩하는 핵산 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항의 핵산 분자를 포함하는 발현 벡터.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제15항 중 어느 한 항의 CAR 또는 제16항의 핵산 분자 또는 제17항의 발현 벡터를 포함하는 세포이며, 바람직하게는 T 세포, CD4+ T 세포, CD8+ T 세포, B 세포, NK 세포, NKT 세포, 단핵구 및 수지상 세포로 이루어진 군으로부터 선택되고, 바람직하게는 T 세포, B 세포 또는 NK 세포인 세포.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 따른 핵산 분자, 제17항에 따른 발현 벡터 또는 제18항에 따른 세포 및 임의로 제약상 허용되는 담체를 포함하는 제약 조성물.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, (i) 바람직하게는 제5항에 따른, β2M-회합 HLA-G에, 바람직하게는 HLA-G1 및 HLA-G5 둘 다에 특이적으로 결합하는 CAR을 포함하는 세포, 및 바람직하게는 제5항에 따른, β2M-부재 HLA-G에, 바람직하게는 HLA-G2 및 HLA-G6 둘 다에 및/또는 HLA-G1/β2M-부재 및 HLA-G5/β2M-부재 이소형 둘 다에 특이적으로 결합하는 CAR을 포함하는 세포; 또는 (ii) 바람직하게는 제5항에 따른, HLA-G1 및 HLA-G5 둘 다에 또는 β2M-부재 HLA-G 이소형에 특이적으로 결합하는 CAR, 및 바람직하게는 제5항에 따른, HLA-G2 및 HLA-G6 둘 다에 또는 β2M-회합 HLA-G 이소형에 특이적으로 결합하는 CAR을 포함하는 세포를 포함하는 제약 조성물.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항 내지 제20항 중 어느 한 항에 있어서, 암의 치료에 사용하기 위한 또는 바이러스 감염의 치료에 사용하기 위한 것이며, 바람직하게는 HLA-G를 표적화하지 않는 CAR 요법과 조합하여 투여되는 세포 또는 제약 조성물.",
+          "refers_to": [
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "HLA-G β2M-회합 이소형, 바람직하게는 HLA-G1 및 HLA-G5 둘 다에 특이적으로 결합하는 항-HLA-G 항체이며, 바람직하게는(a) (i) 서열식별번호: 1 또는 서열식별번호: 1과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 2 또는 서열식별번호: 2와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는(b) (i) 서열식별번호: 1을 포함하는 중쇄 가변 영역의 CDR (상보성 결정 영역) 1, CDR2 및 CDR3; 및 서열식별번호: 2를 포함하는 경쇄 가변 영역의 CDR1, CDR2 및 CDR3을 포함하는 항-HLA-G 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제15항 및 제22항 중 어느 한 항에 있어서, 항-HLA-G 항체 또는 그의 항원 결합 단편, 바람직하게는 scFv가 β2M-부재 HLA-G 또는 β2M-회합 HLA-G 이소형에 선택적으로 결합하지만 모든 HLA-G 이소형에 결합하지는 않는 것인 CAR 또는 항-HLA-G 항체.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210326",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 23,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항-HLA-G 항체의 항원 결합 도메인, 막횡단 도메인 및 세포내 도메인을 포함하며, 1 내지 6종의 HLA-G 이소형(들), 바람직하게는 2 내지 5종의 HLA-G 이소형에 특이적으로 결합하는 키메라 항원 수용체 (CAR).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, β2M-부재 HLA-G 또는 β2M-회합 HLA-G 이소형에 특이적으로 결합하는 CAR.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, HLA-G의 알파1 도메인에 결합하지 않는 CAR.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, HLA-G1, HLA-G2, HLA-G5 및 HLA-G6으로 이루어진 군으로부터 선택된 HLA-G 이소형에 특이적으로 결합하거나; 또는 HLA-G1 및 HLA-G5 둘 다에, 또는 HLA-G2 및 HLA-G6 둘 다에 및/또는 HLA-G1/β2M-부재 및 HLA-G5/β2M-부재 이소형 둘 다에 특이적으로 결합하는 CAR.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 항원 결합 도메인이 β2M-회합 HLA-G에, 바람직하게는 HLA-G1 및 HLA-G5 둘 다에 특이적으로 결합하는 scFv이고, scFv가\n(a) (i) 서열식별번호: 1 또는 서열식별번호: 1과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 2 또는 서열식별번호: 2와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는\n(b) (i) 서열식별번호: 1을 포함하는 중쇄 가변 영역의 CDR (상보성 결정 영역) 1, CDR2 및 CDR3; 및 서열식별번호: 2를 포함하는 경쇄 가변 영역의 CDR1, CDR2 및 CDR3을 포함하거나;\n또는 항원 결합 도메인이 β2M-부재 HLA-G에, 바람직하게는 HLA-G2 및 HLA-G6 둘 다에 및/또는 HLA-G1/β2M-부재 및 HLA-G5/β2M-부재 이소형 둘 다에 특이적으로 결합하는 scFv이고, scFv가\n(c) (i) 서열식별번호: 3 또는 서열식별번호: 3과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 4 또는 서열식별번호: 4와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는\n(d) (i) 서열식별번호: 3을 포함하는 중쇄 가변 영역의 CDR (상보성 결정 영역) 1, CDR2 및 CDR3; 및 서열식별번호: 4를 포함하는 경쇄 가변 영역의 CDR1, CDR2 및 CDR3을 포함하는 것인 CAR.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 항-HLA-G 항체가\n(a) (i) 서열식별번호: 1 또는 서열식별번호: 1과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 2 또는 서열식별번호: 2와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는\n(b) (i) 서열식별번호: 3 또는 서열식별번호: 3과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 4 또는 서열식별번호: 4와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역\n을 포함하는 항-HLA-G scFv인 CAR.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 세포내 도메인이 CD3 제타 신호전달 도메인 및 임의로 CD28, 41BB, CD28, CD134, ICOS, OX40, CD149, DAP10, CD30, IL2-R, IL7r6, IL21-R, NKp30, NKp44, CD27, CD137 및 DNAM-1 공동자극 도메인으로부터 선택된 적어도 1개의 공동자극 도메인(들)을 포함하고, 바람직하게는 2개의 공동자극 도메인이 41BB 및 CD28 공동자극 도메인인 CAR.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 막횡단 도메인이 CD28, CD3 및 CD8 막횡단 도메인으로부터 선택되고, 바람직하게는 막횡단 도메인이 CD28 막횡단 도메인인 CAR.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, N에서 C 말단으로: 펩티드 신호 서열, 항-HLA-G 항체 또는 그의 항원 결합 단편, 스페이서 도메인, 막횡단 도메인, 세포내 도메인, 절단가능한 링커 및 말단절단된 인간 CD19 도메인을 순차적으로 포함하는 CAR.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 바람직하게는 (i) 인간 IgG4 힌지 도메인, (ii) 인간 IgG4 힌지 도메인 및 CH3 인간 IgG4 도메인, (iii) 돌연변이된 CH2 인간 IgG4 도메인, 인간 IgG4 힌지 도메인 및 CH3 인간 IgG4 힌지 도메인, (iv) CD28 힌지 및 (v) CD8a 힌지 도메인으로 이루어진 군으로부터 선택된, 항원 결합 도메인을 막횡단 도메인에 연결하는 힌지 영역을 추가로 포함하는 CAR.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 힌지 도메인이 (i) 서열식별번호: 25, (ii) 서열식별번호: 25 및 서열식별번호: 27, (iii) 서열식별번호: 25, 서열식별번호: 26 및 서열식별번호: 27, (iv) 서열식별번호: 18 또는 (v) 서열식별번호: 19에 제시된 서열 또는 그와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하거나 그로 이루어진 것인 CAR.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 내지 제11항 중 어느 한 항에 있어서, 신호 펩티드가 CD8a 신호 펩티드, 마우스 Ig 카파 신호 펩티드, 인간 IgG4 신호 펩티드, IL2 신호 펩티드, 인간 IgG2 신호 펩티드 및 가우시아 luc 신호 펩티드로 이루어진 군으로부터 선택된 것인 CAR.",
+            "refers_to": [
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 내지 제12항 중 어느 한 항에 있어서, 절단가능한 링커가 P2A, T2A, E2A, B2A 및 F2A로 이루어진 군으로부터 선택된 것인 CAR.",
+            "refers_to": [
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 내지 제13항 중 어느 한 항에 있어서, 말단절단된 인간 CD19 도메인이 서열식별번호: 29에 제시된 서열로 이루어진 것인 CAR.",
+            "refers_to": [
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "적어도 2개의 상이한 항원 결합 도메인, 막횡단 도메인 및 세포내 도메인을 포함하는 다중특이적 CAR 구축물이며, 여기서 항원 결합 도메인 중 적어도 1개는 HLA-G의 β2M 도메인과 회합된 HLA-G 이소형에 특이적으로 결합하고; 항원 결합 도메인 중 적어도 또 다른 것은 HLA-G의 β2M 도메인과 회합되지 않은 HLA-G 이소형에 특이적으로 결합하고, 바람직하게는 여기서 다중특이적 CAR 구축물은 (i) 각각 서열식별번호: 11, 12 및 13의 서열을 포함하는 CDR 1, 2 및 3 (HCDR1, HCDR2, HCDR3)을 포함하는 도메인, (ii) 각각 서열식별번호: 14, 15 및 16의 서열을 포함하는 CDR 1, 2 및 3 (LCDR1, LCDR2, LCDR3)을 포함하는 도메인, (iii) 각각 서열식별번호: 5, 6 및 7의 서열을 포함하는 CDR 1, 2 및 3 (HCDR1, HCDR2, HCDR3)을 포함하는 도메인, 및 (iv) 각각 서열식별번호: 8, 9 및 10의 서열을 포함하는 CDR 1, 2 및 3 (LCDR1, LCDR2, LCDR3)을 포함하는 도메인을 포함하는 이중특이적 CAR 구축물이고, 임의로 여기서 각각의 CDR은 1, 2, 3 또는 4개의 아미노산 치환, 결실 또는 삽입을 임의로 포함할 수 있는 것인 다중특이적 CAR 구축물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 중 어느 한 항의 CAR을 코딩하는 핵산 분자.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항의 핵산 분자를 포함하는 발현 벡터.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 중 어느 한 항의 CAR 또는 제16항의 핵산 분자 또는 제17항의 발현 벡터를 포함하는 세포이며, 바람직하게는 T 세포, CD4+ T 세포, CD8+ T 세포, B 세포, NK 세포, NKT 세포, 단핵구 및 수지상 세포로 이루어진 군으로부터 선택되고, 바람직하게는 T 세포, B 세포 또는 NK 세포인 세포.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 따른 핵산 분자, 제17항에 따른 발현 벡터 또는 제18항에 따른 세포 및 임의로 제약상 허용되는 담체를 포함하는 제약 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, (i) 바람직하게는 제5항에 따른, β2M-회합 HLA-G에, 바람직하게는 HLA-G1 및 HLA-G5 둘 다에 특이적으로 결합하는 CAR을 포함하는 세포, 및 바람직하게는 제5항에 따른, β2M-부재 HLA-G에, 바람직하게는 HLA-G2 및 HLA-G6 둘 다에 및/또는 HLA-G1/β2M-부재 및 HLA-G5/β2M-부재 이소형 둘 다에 특이적으로 결합하는 CAR을 포함하는 세포; 또는 (ii) 바람직하게는 제5항에 따른, HLA-G1 및 HLA-G5 둘 다에 또는 β2M-부재 HLA-G 이소형에 특이적으로 결합하는 CAR, 및 바람직하게는 제5항에 따른, HLA-G2 및 HLA-G6 둘 다에 또는 β2M-회합 HLA-G 이소형에 특이적으로 결합하는 CAR을 포함하는 세포를 포함하는 제약 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항 내지 제20항 중 어느 한 항에 있어서, 암의 치료에 사용하기 위한 또는 바이러스 감염의 치료에 사용하기 위한 것이며, 바람직하게는 HLA-G를 표적화하지 않는 CAR 요법과 조합하여 투여되는 세포 또는 제약 조성물.",
+            "refers_to": [
+              18,
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "HLA-G β2M-회합 이소형, 바람직하게는 HLA-G1 및 HLA-G5 둘 다에 특이적으로 결합하는 항-HLA-G 항체이며, 바람직하게는\n(a) (i) 서열식별번호: 1 또는 서열식별번호: 1과 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 중쇄 가변 영역; 및 (ii) 서열식별번호: 2 또는 서열식별번호: 2와 80% 초과, 바람직하게는 90% 초과, 보다 바람직하게는 95% 초과의 동일성을 나타내는 상동 서열을 포함하는 경쇄 가변 영역; 또는\n(b) (i) 서열식별번호: 1을 포함하는 중쇄 가변 영역의 CDR (상보성 결정 영역) 1, CDR2 및 CDR3; 및 서열식별번호: 2를 포함하는 경쇄 가변 영역의 CDR1, CDR2 및 CDR3\n을 포함하는 항-HLA-G 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 및 제22항 중 어느 한 항에 있어서, 항-HLA-G 항체 또는 그의 항원 결합 단편, 바람직하게는 scFv가 β2M-부재 HLA-G 또는 β2M-회합 HLA-G 이소형에 선택적으로 결합하지만 모든 HLA-G 이소형에 결합하지는 않는 것인 CAR 또는 항-HLA-G 항체.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220829",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 30,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 서열식별번호: 5의 중쇄 상보성 결정 영역 1 (HC CDR1), 서열식별번호: 6의 중쇄 상보성 결정 영역 2 (HC CDR2), 및 서열식별번호: 7의 중쇄 상보성 결정 영역 3 (HC CDR3)을 포함하는 중쇄 가변 영역 (VH); 및\n(b) 서열식별번호: 8의 경쇄 상보성 결정 영역 1 (LC CDR1), 서열식별번호: 9의 경쇄 상보성 결정 영역 2 (LC CDR2) 및 서열식별번호: 10의 경쇄 상보성 결정 영역 3 (LC CDR3)을 포함하는 경쇄 가변 영역 (VL)\n을 포함하는, 항-인간 백혈구 항원 G (HLA-G) 항체 또는 그의 항원-결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, VH가 서열식별번호: 1을 포함하고, VL이 서열식별번호: 2를 포함하는 것인 항체 또는 항원-결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 인간화된 것이거나 또는 키메라인 항체 또는 항원-결합 단편.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 독성제에 접합된 항체 또는 항원-결합 단편.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 항원-결합 단편이 scFv, Fv, Fab, Fab', 또는 F(ab')2인 항원-결합 단편.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 항체가 모노클로날인 항체 또는 항원-결합 단편.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) HLA-G에 특이적으로 결합하는 항원 결합 도메인을 포함하는 세포외 도메인이며, 여기서 항원 결합 도메인이 \n (i) 서열식별번호: 5의 중쇄 상보성 결정 영역 1 (HC CDR1), 서열식별번호: 6의 중쇄 상보성 결정 영역 2 (HC CDR2), 및 서열식별번호: 7의 중쇄 상보성 결정 영역 3 (HC CDR3)을 포함하는 VH; 및\n (ii) 서열식별번호: 8의 경쇄 상보성 결정 영역 1 (LC CDR1), 서열식별번호: 9의 경쇄 상보성 결정 영역 2 (LC CDR2) 및 서열식별번호: 10의 경쇄 상보성 결정 영역 3 (LC CDR3)을 포함하는 VL\n을 포함하는 것인 세포외 도메인;\n(b) 막횡단 도메인; 및 \n(c) 세포내 신호전달 도메인\n을 포함하는 키메라 항원 수용체 (CAR).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, VH가 서열식별번호: 1을 포함하고, VL이 서열식별번호: 2를 포함하는 것인 CAR.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항 또는 제8항에 있어서, 항원 결합 도메인이 scFv인 CAR.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 항원 결합 도메인이 서열식별번호: 31을 포함하는 것인 CAR.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항 또는 제8항에 있어서, 막횡단 도메인이 CD28 막횡단 도메인이고, 세포내 신호전달 도메인이 4-1BB 공동자극 신호전달 영역 및 CD3 제타 엔도도메인을 포함하는 것인 CAR.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, \nCD28 막횡단 도메인이 서열식별번호: 20을 포함하고, \n4-1BB 공동자극 신호전달 영역이 서열식별번호: 21을 포함하고, \nCD3 제타 엔도도메인이 서열식별번호: 22를 포함하는 것인 \nCAR.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 세포내 신호전달 도메인이 CD28 공동자극 도메인을 추가로 포함하는 것인 CAR.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항 또는 제8항에 있어서, 항원 결합 도메인을 막횡단 도메인에 연결하는 힌지 도메인을 추가로 포함하는 CAR.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 힌지 도메인이 (i) 인간 IgG4 힌지 도메인, (ii) 인간 IgG4 힌지 도메인 및 CH3 인간 IgG4 도메인, (iii) 돌연변이된 CH2 인간 IgG4 도메인, 인간 IgG4 힌지 도메인 및 CH3 인간 IgG4 힌지 도메인, (iv) CD28 힌지 또는 (v) CD8a 힌지 도메인인 CAR.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항 또는 제8항에 있어서, 서열식별번호: 32, 서열식별번호: 33, 서열식별번호: 34 또는 서열식별번호: 85를 포함하는 CAR.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항 또는 제8항의 CAR을 코딩하는 핵산 분자.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항의 핵산 분자를 포함하는 발현 벡터.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항의 핵산 분자를 포함하는 세포.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항의 발현 벡터를 포함하는 세포.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항 또는 제8항의 CAR을 포함하는 세포.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, T 세포, B 세포, NK 세포, NKT 세포, 단핵구 세포 또는 수지상 세포인 세포.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항의 세포 및 제약상 허용되는 담체를 포함하는 제약 조성물.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제23항에 있어서, 암의 치료에 사용하기 위한 제약 조성물.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 암이 고형 종양인 제약 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 암이 혈액암인 제약 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 암이 신세포 암종, 흑색종, 신장암, 방광암, 유방암, 난소암, 자궁암, 자궁내막암, 자궁경부암, 투명 신세포암, 결장직장암, 위암, 식도암, 폐암, 간세포성암, 담관암종, 신경모세포종, 설암, 구강암 및 인두암, 기관지원성 암, 후두암, 골육종, 전립선암, 고환암, 위장 기질 종양, 췌장암, 신장암, 결장암, 신경교종, 다형성 교모세포종, 수모세포종, 갑상선암, 부신 암종, 급성 골수성 백혈병, 만성 림프구성 백혈병, 비소세포 폐암, 다발성 골수종, 호지킨 림프종, 비-호지킨 림프종, B-세포 림프종, 단핵구성 림프종, 변연부 림프종, 버킷 림프종, T 세포 림프종, B 세포 림프종, 형질세포종, 전혈구성 백혈병, 급성 비-림프모구성 백혈병, 급성 림프모구성 백혈병, 적백혈병, 골수성 백혈병 또는 림프성 백혈병인 제약 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 세포가 자가인 제약 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 세포가 동종인 제약 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 정맥내, 종양내, 복강내, 근육내, 문맥내, 간내, 피하, 또는 피내 투여를 위해 제제화되는 제약 조성물.",
+            "refers_to": [
+              24
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250925",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 21,
+        "claims": [
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) HLA-G에 특이적으로 결합하는 항원 결합 도메인을 포함하는 세포외 도메인이며, 여기서 항원 결합 도메인이 \n (i) 서열식별번호: 5의 중쇄 상보성 결정 영역 1 (HC CDR1), 서열식별번호: 6의 중쇄 상보성 결정 영역 2 (HC CDR2), 및 서열식별번호: 7의 중쇄 상보성 결정 영역 3 (HC CDR3)을 포함하는 VH; 및\n (ii) 서열식별번호: 8의 경쇄 상보성 결정 영역 1 (LC CDR1), 서열식별번호: 9의 경쇄 상보성 결정 영역 2 (LC CDR2) 및 서열식별번호: 10의 경쇄 상보성 결정 영역 3 (LC CDR3)을 포함하는 VL\n을 포함하는 것인 세포외 도메인;\n(b) CD28 막횡단 도메인인 막횡단 도메인; 및 \n(c) 4-1BB 공동자극 신호전달 영역 및 CD3 제타 엔도도메인을 포함하는 세포내 신호전달 도메인\n을 포함하는 키메라 항원 수용체 (CAR).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, \nCD28 막횡단 도메인이 서열식별번호: 20을 포함하고, \n4-1BB 공동자극 신호전달 영역이 서열식별번호: 21을 포함하고, \nCD3 제타 엔도도메인이 서열식별번호: 22를 포함하는 것인 \nCAR.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 세포내 신호전달 도메인이 CD28 공동자극 도메인을 추가로 포함하는 것인 CAR.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항 또는 제8항에 있어서, 항원 결합 도메인을 막횡단 도메인에 연결하는 힌지 도메인을 추가로 포함하는 CAR.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 힌지 도메인이 (i) 인간 IgG4 힌지 도메인, (ii) 인간 IgG4 힌지 도메인 및 CH3 인간 IgG4 도메인, (iii) 돌연변이된 CH2 인간 IgG4 도메인, 인간 IgG4 힌지 도메인 및 CH3 인간 IgG4 힌지 도메인, (iv) CD28 힌지 또는 (v) CD8a 힌지 도메인인 CAR.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항 또는 제8항에 있어서, 서열식별번호: 32, 서열식별번호: 33, 서열식별번호: 34 또는 서열식별번호: 85를 포함하는 CAR.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항 또는 제8항의 CAR을 코딩하는 핵산 분자.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항의 핵산 분자를 포함하는 발현 벡터.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항의 핵산 분자를 포함하는 세포.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항의 발현 벡터를 포함하는 세포.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항 또는 제8항의 CAR을 포함하는 세포.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, T 세포, B 세포, NK 세포, NKT 세포, 단핵구 세포 또는 수지상 세포인 세포.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "암의 치료에 사용하기 위한, 제21항의 세포 및 허용되는 담체를 포함하는 제약 조성물.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제22항에 있어서, 암이 고형 종양인 제약 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제22항에 있어서, 암이 혈액암인 제약 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제22항에 있어서, 암이 신세포 암종, 흑색종, 신장암, 방광암, 유방암, 난소암, 자궁암, 자궁내막암, 자궁경부암, 투명 신세포암, 결장직장암, 위암, 식도암, 폐암, 간세포성암, 담관암종, 신경모세포종, 설암, 구강암 및 인두암, 기관지원성 암, 후두암, 골육종, 전립선암, 고환암, 위장 기질 종양, 췌장암, 신장암, 결장암, 신경교종, 다형성 교모세포종, 수모세포종, 갑상선암, 부신 암종, 급성 골수성 백혈병, 만성 림프구성 백혈병, 비소세포 폐암, 다발성 골수종, 호지킨 림프종, 비-호지킨 림프종, B-세포 림프종, 단핵구성 림프종, 변연부 림프종, 버킷 림프종, T 세포 림프종, B 세포 림프종, 형질세포종, 전혈구성 백혈병, 급성 비-림프모구성 백혈병, 급성 림프모구성 백혈병, 적백혈병, 골수성 백혈병 또는 림프성 백혈병인 제약 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제22항에 있어서, 세포가 자가인 제약 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제22항에 있어서, 세포가 동종인 제약 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제22항에 있어서, 정맥내, 종양내, 복강내, 근육내, 문맥내, 간내, 피하, 또는 피내 투여를 위해 제제화되는 제약 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 23,
+      "after_claim_count": 21,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.03.05",
+      "internationOpenNumber": "WO2020043899",
+      "internationalApplicationDate": "2019.08.30",
+      "internationalApplicationNumber": "PCT/EP2019/073257"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "프랑스공화국, 에프-***** 빠리, 뤼 뒤 독뙤르 루 **",
+      "code": "520140564487",
+      "country": "프랑스",
+      "engName": "Invectys SAS",
+      "name": "잉벡띠스 에스에이에스"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "프랑스 ****...",
+        "code": "",
+        "country": "",
+        "engName": "LOUSTAU, Maria",
+        "name": "루스또, 마리아"
+      },
+      {
+        "address": "프랑스 ***** 부르...",
+        "code": "",
+        "country": "",
+        "engName": "ANNA, Francois",
+        "name": "안나, 프랑수아"
+      },
+      {
+        "address": "프랑스 ***** 뇌이...",
+        "code": "",
+        "country": "",
+        "engName": "LANGLADE DEMOYEN, Pierre",
+        "name": "랑그라드 드무와이앙, 삐에르"
+      },
+      {
+        "address": "프랑스 ***** 르...",
+        "code": "",
+        "country": "",
+        "engName": "CAUMARTIN, Julien",
+        "name": "꼬마르땡, 줄리앙"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980003619",
+        "country": "대한민국",
+        "engName": "YANG, Young June",
+        "name": "양영준"
+      },
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "920080006883",
+        "country": "대한민국",
+        "engName": "LEE Yunki",
+        "name": "이윤기"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "유럽특허청(EPO)",
+        "priorityApplicationDate": "2018.08.31",
+        "priorityApplicationNumber": "18306153.0"
+      },
+      {
+        "priorityApplicationCountry": "유럽특허청(EPO)",
+        "priorityApplicationDate": "2019.06.21",
+        "priorityApplicationNumber": "19305809.6"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.03.26",
+        "receiptNumber": "1-1-2021-0357585-77"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2021.04.09",
+        "receiptNumber": "1-5-2021-0057775-80"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.06.09",
+        "receiptNumber": "1-1-2021-0664630-57"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.07.06",
+        "receiptNumber": "1-1-2021-0777249-81"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.08.03",
+        "receiptNumber": "4-1-2021-5209018-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2021.08.05",
+        "receiptNumber": "1-1-2021-0904166-36"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.08.09",
+        "receiptNumber": "1-5-2021-0126451-00"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.08.10",
+        "receiptNumber": "4-1-2022-5187755-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.08.29",
+        "receiptNumber": "1-1-2022-0903301-71"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.08.29",
+        "receiptNumber": "1-1-2022-0903285-27"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.03.26",
+        "receiptNumber": "9-5-2025-0300006-35"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2025.05.16",
+        "receiptNumber": "1-1-2025-0547835-92"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장 관련 안내서",
+        "receiptDate": "2025.05.27",
+        "receiptNumber": "1-5-2025-0087931-03"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.09.25",
+        "receiptNumber": "1-1-2025-1095887-54"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.09.25",
+        "receiptNumber": "1-1-2025-1095886-19"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217009086.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93d6a87886be57f59dffcd083657ab81cf2903a6a8b5d94911d1ef22dcb0247f28a3d64e54923e8da81532a69a15ba5365c53e03cb3d318973",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf56051ef7d3ec605c5aabf113777b624ae303663c244e56d5700e513d5bed6c1f6ec3fb085761a7f5f8f12ee0010262d7e64258fc67be23b8"
+  },
+  "rndInfoArray": ""
+}

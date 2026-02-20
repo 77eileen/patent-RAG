@@ -1,0 +1,3480 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2010.04.23",
+      "applicationFlag": "",
+      "applicationNumber": "10-2011-7028110",
+      "claimCount": "21",
+      "examinerName": "김은영",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "근육 성장을 증가시키기 위한 조성물 및 방법",
+      "inventionTitleEng": "COMPOSITIONS AND METHODS FOR INCREASING MUSCLE GROWTH",
+      "openDate": "2012.09.21",
+      "openNumber": "10-2012-0104490",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2015.04.06",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2018.03.08",
+      "publicationNumber": "",
+      "registerDate": "2018.03.02",
+      "registerNumber": "10-1836501-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2011.11.25"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/13"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 21/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 항-액티빈 수용체 IIB (ActRIIB) 항체 분야에 관한 것이다. 특히, 근육 장애, 예컨대 질환 또는 불사용으로 인한 근육 소모를 치료하기 위한 상기 항체의 용도에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020117028110",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20111125",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 48,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항-ActRIIB 치료용 항체 또는 기능적 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "ActRIIB의 리간드 결합 도메인에 결합하는 항-ActRIIB 항체 또는 기능적 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열 181의 아미노산 19-134 사이의 ActRIIB에 결합하는 항-ActRIIB 항체 또는 기능적 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 1 nM 이하, 바람직하게는 100 pM 이하의 KD로 ActRIIB에 결합하는 항-ActRIIB 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 미오스타틴이 ActRIIB에 결합하는 것을 억제하는 항-ActRIIB 항체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, Smad 의존성 리포터 유전자 검정에 의해 측정되는 바와 같이, 미오스타틴 유도된 신호전달을 억제하는 항-ActRIIB 항체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, ActRIIA에 결합하는 것보다 10 배 이상의 친화도로 ActRIIB에 결합하는 항-ActRIIB 항체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 1-84에 기재된 CDR 중 적어도 하나와 95％ 이상의 동일성을 갖는 하나 이상의 상보성 결정 영역을 포함하는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 29-42에 기재된 적어도 하나의 CDR3과 95％ 이상의 동일성을 갖는 하나 이상의 상보성 결정 영역을 포함하는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 99-112 중 적어도 하나와 95％ 이상의 서열 동일성을 갖는 VH 폴리펩티드 서열을 포함하는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 85-98 중 적어도 하나와 95％ 이상의 서열 동일성을 갖는 VL 폴리펩티드 서열을 포함하는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 99-112 중 적어도 하나와 95％ 이상의 서열 동일성을 갖는 VH 폴리펩티드 서열 및 서열 85-98 중 적어도 하나와 95％ 이상의 서열 동일성을 갖는 VL 폴리펩티드 서열을 포함하는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 1-14로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 중쇄 가변 영역 CDR1; 서열 15-28로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 중쇄 가변 영역 CDR2; 서열 29-42로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 중쇄 가변 영역 CDR3; 서열 43-56으로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 경쇄 가변 영역 CDR1; 서열 57-70으로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 경쇄 가변 영역 CDR2; 및 서열 71-84로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 경쇄 가변 영역 CDR3을 포함하는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n(a) 서열 1의 중쇄 가변 영역 CDR1; 서열 15의 중쇄 가변 영역 CDR2; 서열 29의 중쇄 가변 영역 CDR3; 서열 43의 경쇄 가변 영역 CDR1; 서열 57의 경쇄 가변 영역 CDR2; 및 서열 71의 경쇄 가변 영역 CDR3,\n(b) 서열 2의 중쇄 가변 영역 CDR1; 서열 16의 중쇄 가변 영역 CDR2; 서열 30의 중쇄 가변 영역 CDR3; 서열 44의 경쇄 가변 영역 CDR1; 서열 58의 경쇄 가변 영역 CDR2; 및 서열 72의 경쇄 가변 영역 CDR3,\n(c) 서열 3의 중쇄 가변 영역 CDR1; 서열 17의 중쇄 가변 영역 CDR2; 서열 31의 중쇄 가변 영역 CDR3; 서열 45의 경쇄 가변 영역 CDR1; 서열 59의 경쇄 가변 영역 CDR2; 및 서열 73의 경쇄 가변 영역 CDR3,\n(d) 서열 4의 중쇄 가변 영역 CDR1; 서열 18의 중쇄 가변 영역 CDR2; 서열 32의 중쇄 가변 영역 CDR3; 서열 46의 경쇄 가변 영역 CDR1; 서열 60의 경쇄 가변 영역 CDR2; 및 서열 74의 경쇄 가변 영역 CDR3,\n(e) 서열 5의 중쇄 가변 영역 CDR1; 서열 19의 중쇄 가변 영역 CDR2; 서열 33의 중쇄 가변 영역 CDR3; 서열 47의 경쇄 가변 영역 CDR1; 서열 61의 경쇄 가변 영역 CDR2; 및 서열 75의 경쇄 가변 영역 CDR3,\n(f) 서열 6의 중쇄 가변 영역 CDR1; 서열 20의 중쇄 가변 영역 CDR2; 서열 34의 중쇄 가변 영역 CDR3; 서열 48의 경쇄 가변 영역 CDR1; 서열 62의 경쇄 가변 영역 CDR2; 및 서열 76의 경쇄 가변 영역 CDR3,\n(g) 서열 7의 중쇄 가변 영역 CDR1; 서열 21의 중쇄 가변 영역 CDR2; 서열 35의 중쇄 가변 영역 CDR3; 서열 49의 경쇄 가변 영역 CDR1; 서열 63의 경쇄 가변 영역 CDR2; 및 서열 77의 경쇄 가변 영역 CDR3,\n(h) 서열 8의 중쇄 가변 영역 CDR1; 서열 22의 중쇄 가변 영역 CDR2; 서열 36의 중쇄 가변 영역 CDR3; 서열 50의 경쇄 가변 영역 CDR1; 서열 64의 경쇄 가변 영역 CDR2; 및 서열 78의 경쇄 가변 영역 CDR3,\n(i) 서열 9의 중쇄 가변 영역 CDR1; 서열 23의 중쇄 가변 영역 CDR2; 서열 37의 중쇄 가변 영역 CDR3; 서열 51의 경쇄 가변 영역 CDR1; 서열 65의 경쇄 가변 영역 CDR2; 및 서열 79의 경쇄 가변 영역 CDR3,\n(j) 서열 10의 중쇄 가변 영역 CDR1; 서열 24의 중쇄 가변 영역 CDR2; 서열 38의 중쇄 가변 영역 CDR3; 서열 52의 경쇄 가변 영역 CDR1; 서열 66의 경쇄 가변 영역 CDR2; 및 서열 80의 경쇄 가변 영역 CDR3,\n(k) 서열 11의 중쇄 가변 영역 CDR1; 서열 25의 중쇄 가변 영역 CDR2; 서열 39의 중쇄 가변 영역 CDR3; 서열 53의 경쇄 가변 영역 CDR1; 서열 67의 경쇄 가변 영역 CDR2; 및 서열 81의 경쇄 가변 영역 CDR3,\n(l) 서열 12의 중쇄 가변 영역 CDR1; 서열 26의 중쇄 가변 영역 CDR2; 서열 40의 중쇄 가변 영역 CDR3; 서열 54의 경쇄 가변 영역 CDR1; 서열 68의 경쇄 가변 영역 CDR2; 및 서열 82의 경쇄 가변 영역 CDR3,\n(m) 서열 13의 중쇄 가변 영역 CDR1; 서열 27의 중쇄 가변 영역 CDR2; 서열 41의 중쇄 가변 영역 CDR3; 서열 55의 경쇄 가변 영역 CDR1; 서열 69의 경쇄 가변 영역 CDR2; 및 서열 83의 경쇄 가변 영역 CDR3, 또는\n(n) 서열 14의 중쇄 가변 영역 CDR1; 서열 28의 중쇄 가변 영역 CDR2; 서열 42의 중쇄 가변 영역 CDR3; 서열 56의 경쇄 가변 영역 CDR1; 서열 70의 경쇄 가변 영역 CDR2; 및 서열 84의 경쇄 가변 영역 CDR3\n을 포함하는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 146-150 및 156-160으로 이루어진 군으로부터 선택된 적어도 하나의 서열과 95％ 이상의 서열 동일성을 갖는 전장 중쇄 아미노산 서열을 포함하는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 141-145 및 151-155로 이루어진 군으로부터 선택된 적어도 하나의 서열과 95％ 이상의 서열 동일성을 갖는 전장 경쇄 아미노산 서열을 포함하는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 서열 85의 가변 중쇄 서열 및 서열 99의 가변 경쇄 서열;\n(b) 서열 86의 가변 중쇄 서열 및 서열 100의 가변 경쇄 서열;\n(c) 서열 87의 가변 중쇄 서열 및 서열 101의 가변 경쇄 서열;\n(d) 서열 88의 가변 중쇄 서열 및 서열 102의 가변 경쇄 서열;\n(e) 서열 89의 가변 중쇄 서열 및 서열 103의 가변 경쇄 서열;\n(f) 서열 90의 가변 중쇄 서열 및 서열 104의 가변 경쇄 서열;\n(g) 서열 91의 가변 중쇄 서열 및 서열 105의 가변 경쇄 서열;\n(h) 서열 92의 가변 중쇄 서열 및 서열 106의 가변 경쇄 서열;\n(i) 서열 93의 가변 중쇄 서열 및 서열 107의 가변 경쇄 서열;\n(j) 서열 94의 가변 중쇄 서열 및 서열 108의 가변 경쇄 서열;\n(k) 서열 95의 가변 중쇄 서열 및 서열 109의 가변 경쇄 서열;\n(l) 서열 96의 가변 중쇄 서열 및 서열 110의 가변 경쇄 서열;\n(m) 서열 97의 가변 중쇄 서열 및 서열 111의 가변 경쇄 서열; 또는\n(n) 서열 98의 가변 중쇄 서열 및 서열 112의 가변 경쇄 서열\n을 포함하는 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 서열 146의 중쇄 서열 및 서열 141의 경쇄 서열;\n(b) 서열 147의 중쇄 서열 및 서열 142의 경쇄 서열;\n(c) 서열 148의 중쇄 서열 및 서열 143의 경쇄 서열;\n(d) 서열 149의 중쇄 서열 및 서열 144의 경쇄 서열;\n(e) 서열 150의 중쇄 서열 및 서열 145의 경쇄 서열;\n(f) 서열 156의 중쇄 서열 및 서열 151의 경쇄 서열;\n(g) 서열 157의 중쇄 서열 및 서열 152의 경쇄 서열;\n(h) 서열 158의 중쇄 서열 및 서열 153의 경쇄 서열;\n(i) 서열 159의 중쇄 서열 및 서열 154의 경쇄 서열; 또는\n(j) 서열 160의 중쇄 서열 및 서열 155의 경쇄 서열\n을 포함하는 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "ActRIIB에 대한 결합을 교차 차단하거나, ActRIIB에 대한 결합이 제18항의 적어도 하나의 항체에 의해 교차 차단되는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제17항 중 어느 한 항에 있어서, ActRIIB에 대한 결합을 교차 차단하거나, ActRIIB에 대한 결합이 제18항의 적어도 하나의 항체에 의해 교차 차단되는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항 또는 제18항의 항체에 의해 인식되는 에피토프에 결합하는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 제17항 또는 제18항의 항체에 의해 인식되는 에피토프에 결합하는 항체 또는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제18항 중 어느 한 항에 있어서, 다음을 포함하거나 다음으로 이루어진 에피토프에 결합하는 항체:\n(a) 서열 181의 아미노산 78-83 [이미지];\n(b) 서열 181의 아미노산 76-84 [이미지];\n(c) 서열 181의 아미노산 75-85 [이미지];\n(d) 서열 181의 아미노산 52-56 [이미지];\n(e) 서열 181의 아미노산 49-63 [이미지]; 또는\n(f) 서열 181의 아미노산 78-83 (WLDDFN) 및 서열 181의 아미노산 52-56 (EQDKR).",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항 내지 제22항 중 어느 한 항에 있어서, 교차 차단 또는 동일한 에피토프에의 결합이 비아코어 검정 또는 ELISA에서 검출되는 것인 항체 또는 기능적 단백질.",
+          "refers_to": [
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제24항 중 어느 한 항에 있어서, IgG1 이소형인 항-ActRIIB 항체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제25항 중 어느 한 항에 있어서, Fc 영역의 돌연변이를 통해 변경된 이펙터 기능을 갖는 항-ActRIIB 항체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질을 코딩하는 단리된 폴리뉴클레오티드 서열.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 서열 113-140 또는 161-180 중 하나 이상을 포함하는 단리된 폴리뉴클레오티드 서열.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항 또는 제28항에 따른 하나 이상의 단리된 폴리뉴클레오티드 서열을 포함하는 클로닝 또는 발현 벡터.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 하나 이상의 서열 113-140 또는 161-180, 또는 적어도 하나의 CDR 영역을 코딩하는 그의 단편을 포함하는 벡터.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항 또는 제30항에 따른 하나 이상의 벡터를 포함하는 숙주 세포.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항의 숙주세포를 배양하는 단계 및 제1항 내지 제26항 중 어느 한 항의 항체 또는 기능적 단백질을 단리하는 단계를 포함하는, 상기 항체 또는 기능적 단백질의 생산 방법.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질 또는 제27항 또는 제28항에 따른 폴리뉴클레오티드 서열을 포함하는 제약 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제33항에 있어서, 제약상 허용되는 희석제 또는 담체를 추가로 포함하는 제약 조성물.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제33항 또는 제34항에 있어서, 하나 이상의 추가의 활성제를 추가로 포함하는 제약 조성물.",
+          "refers_to": [
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항에 있어서, 상기 추가의 활성제가 IGF-1, IGF-2 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린(Ghrelin) 효능제, SARM, GH 효능제/모방체 또는 폴리스타틴으로부터 선택된 것인 제약 조성물.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "근골격 질환 또는 장애; 급성 및/또는 만성 신장 질환 또는 부전; 간 섬유증 또는 경변증; 암, 예컨대 유방암; 파킨슨병; 뉴런 사멸과 관련된 상태, 예컨대 ALS, 뇌 위축, 또는 치매 및 빈혈; 간, 신장 및 폐 섬유증; 연령-관련 상태; 및 횡문근육종, 골 손실 유도 암, 간세포 암종, 위장암으로 예시되지만 이들로 한정되는 것은 아닌 암 환자에게 제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질의 유효 용량을 투여하는 것을 포함하는, 상기 환자의 치료 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "의약으로서 사용하기 위한, 제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질, 제27항 또는 제28항에 따른 폴리뉴클레오티드 서열, 또는 제33항 내지 제36항 중 어느 한 항에 따른 제약 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "근골격 질환 또는 장애; 급성 및/또는 만성 신장 질환 또는 부전; 간 섬유증 또는 경변증; 암, 예컨대 유방암; 파킨슨병; 뉴런 사멸과 관련된 상태, 예컨대 ALS, 뇌 위축, 또는 치매 및 빈혈; 간, 신장 및 폐 섬유증; 연령-관련 상태; 및 횡문근육종, 골 손실 유도 암, 간세포 암종, 위장암으로 예시되지만 이들로 한정되는 것은 아닌 암의 치료를 위한 의약의 제조에서의 제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질, 제27항 또는 제28항에 따른 폴리뉴클레오티드 서열, 또는 제33항 내지 제36항 중 어느 한 항에 따른 제약 조성물의 용도.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "근골격 질환 또는 장애; 급성 및/또는 만성 신장 질환 또는 부전; 간 섬유증 또는 경변증; 암, 예컨대 유방암; 파킨슨병; 뉴런 사멸과 관련된 상태, 예컨대 ALS, 뇌 위축, 또는 치매 및 빈혈; 간, 신장 및 폐 섬유증; 및 횡문근육종, 골 손실 유도 암, 간세포 암종, 위장암으로 예시되지만 이들로 한정되는 것은 아닌 암을 치료하는데 사용하기 위한 제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질, 제27항 또는 제28항에 따른 폴리뉴클레오티드 서열, 또는 제33항 내지 제36항 중 어느 한 항에 따른 제약 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39항 또는 제40항에 있어서, 상기 근골격 질환 또는 장애가 근육 위축, 예를 들어 근병증, 예컨대 근긴장증, 선천성 근병증 (네말린 근병증, 멀티/미니코어 근병증 및 근세관성 (중심핵성) 근병증 포함), 미토콘드리아 근병증, 가족성 주기성 마비, 염증성 근병증, 대사성 근병증, 예컨대 글리코겐 또는 지질 축적 질환에 의해 유발되는 것, 피부근염, 다발성근염, 봉입체 근염, 골화성 근염, 횡문근융해증 및 미오글루빈뇨증; 이영양증, 예컨대 뒤시엔느(Duchenne), 베커(Becker), 근긴장성, 안면견갑상완, 에머리-드레이푸스(Emery-Dreifuss), 안인두, 견갑상완, 지대, 후쿠야마(Fukuyama), 선천성 근이영양증, 또는 유전성 원위 근병증; 골다공증; 골절; 단신; 왜소증; 장기간 침상 안정; 수의 비활동; 또는 불수의 비활동에 의해 유발된 것인 용도.",
+          "refers_to": [
+            39,
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 치료하고자 하는 환자가 IGF-1, IGF-2 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린 효능제, SARM, GH 효능제/모방체 또는 폴리스타틴으로 사전 치료받은 환자인 용도.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 치료하고자 하는 환자가 종전의 IGF-1, IGF-2 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린 효능제, SARM, GH 효능제/모방체 또는 폴리스타틴에 의한 치료에 대해 불응성인 용도.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 치료하고자 하는 환자가 연로하거나, 무중력 환경에서 시간을 보내거나, 또는 비활동 기간을 겪은 자인 용도.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "강요된 비활동 기간 또는 무중력 환경에서 보내는 시간 이전에 제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질의 유효 용량을 투여하는 것을 포함하는, 상기 강요된 비활동 또는 무중력 환경에서 보낸 시간의 근육 소모 효과를 개선하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 치료하고자 하는 환자가 사지 (즉, 다리 또는 팔) 또는 관절 (즉, 무릎 또는 엉덩이)에 골절을 가진 환자인 용도.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 환자가 고관절 또는 슬관절 치환 수술을 받았거나 받을 예정인 용도.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "pBW522 (DSM22873) 또는 pBW524 (DSM22874)에 의해 코딩된 항체.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20170823",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 48,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "a) 서열 9의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR1; 서열 23의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR2; 서열 37의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR3; 서열 51의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR1; 서열 65의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR2; 및 서열 79의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR3, 또는b) 서열 10의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR1; 서열 24의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR2; 서열 38의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR3; 서열 52의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR1; 서열 66의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR2; 및 서열 80의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR3을 포함하는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 서열 93의 가변 경쇄 서열 및 서열 107의 가변 중쇄 서열; 또는 서열 94의 가변 경쇄 서열 및 서열 108의 가변 중쇄 서열을 포함하는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 서열 93의 가변 경쇄 서열 및 서열 146의 중쇄 서열에 포함되는 아미노산 1-115로 이루어진 가변 중쇄 서열을 포함하는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, (a) 서열 146의 중쇄 서열 및 서열 141의 경쇄 서열;(b) 서열 147의 중쇄 서열 및 서열 142의 경쇄 서열;(c) 서열 156의 중쇄 서열 및 서열 151의 경쇄 서열; 또는 (d) 서열 157의 중쇄 서열 및 서열 152의 경쇄 서열을 포함하는 인간 모노클로날 치료용 항-ActRIIB 항체.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 다음을 포함하거나 다음으로 이루어진 에피토프에 결합하는 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질:(a) 서열 181의 아미노산 78-83 ;(b) 서열 181의 아미노산 76-84 ;(c) 서열 181의 아미노산 75-85 ;(d) 서열 181의 아미노산 52-56 ;(e) 서열 181의 아미노산 49-63 ; 또는(f) 서열 181의 아미노산 78-83 (WLDDFN) 및 서열 181의 아미노산 52-56 (EQDKR).",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, IgG1 이소형인 항-ActRIIB 항체.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 서열 121, 122, 135, 136, 161, 162, 166, 167, 171, 172, 176 또는 177의 핵산 서열을 포함하는, 제1항 또는 제2항에 따른 항체 또는 기능적 단백질을 코딩하는 단리된 폴리뉴클레오티드.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 따른 하나 이상의 단리된 폴리뉴클레오티드를 포함하는 클로닝 또는 발현 벡터.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 따른 하나 이상의 벡터를 포함하는 숙주 세포.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질을 코딩하는 하나 이상의 단리된 폴리뉴클레오티드를 포함하는 하나 이상의 클로닝 또는 발현 벡터를 포함하는 숙주 세포를 배양하는 단계, 및 상기 항체 또는 기능적 단백질을 단리하는 단계를 포함하는, 제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질의 생산 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질, 또는 제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질을 코딩하는 폴리뉴클레오티드를 포함하는, 근골격 질환 또는 장애를 치료하기 위한 제약 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 제약상 허용되는 희석제 또는 담체를 추가로 포함하는 제약 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 하나 이상의 추가의 활성제를 추가로 포함하는 제약 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 따른 항체 또는 기능적 단백질의 유효 용량을 포함하는, 근골격 질환 또는 장애를 치료하기 위한 제약 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 근골격 질환 또는 장애가 근육 위축인 제약 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서, 치료하고자 하는 환자가 연로하거나, 무중력 환경에서 시간을 보내거나, 또는 비활동 기간을 겪은 자인 제약 조성물.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 따른 항체 또는 기능적 단백질의 유효 용량을 포함하고, 강요된 비활동 기간 또는 무중력 환경에서 보내는 시간 이전에 투여되는, 상기 강요된 비활동 또는 무중력 환경에서 보낸 시간의 근육 소모 효과를 개선하기 위한 제약 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서, 치료하고자 하는 환자가 사지 또는 관절에 골절을 가진 환자인 제약 조성물.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서, 환자가 고관절 또는 슬관절 치환 수술을 받았거나 받을 예정인 제약 조성물.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, pBW522 (DSM22873) 또는 pBW524 (DSM22874)에 의해 코딩된 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, (a) 서열 93의 가변 경쇄 서열 및 (b) 서열 146의 중쇄 서열에 포함되는 아미노산 1-115로 이루어진 가변 중쇄 서열을 포함하는, 항-ActRIIB 항체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20111125",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 48,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항-ActRIIB 치료용 항체 또는 기능적 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "ActRIIB의 리간드 결합 도메인에 결합하는 항-ActRIIB 항체 또는 기능적 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열 181의 아미노산 19-134 사이의 ActRIIB에 결합하는 항-ActRIIB 항체 또는 기능적 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 1 nM 이하, 바람직하게는 100 pM 이하의 KD로 ActRIIB에 결합하는 항-ActRIIB 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 미오스타틴이 ActRIIB에 결합하는 것을 억제하는 항-ActRIIB 항체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, Smad 의존성 리포터 유전자 검정에 의해 측정되는 바와 같이, 미오스타틴 유도된 신호전달을 억제하는 항-ActRIIB 항체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, ActRIIA에 결합하는 것보다 10 배 이상의 친화도로 ActRIIB에 결합하는 항-ActRIIB 항체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 1-84에 기재된 CDR 중 적어도 하나와 95％ 이상의 동일성을 갖는 하나 이상의 상보성 결정 영역을 포함하는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 29-42에 기재된 적어도 하나의 CDR3과 95％ 이상의 동일성을 갖는 하나 이상의 상보성 결정 영역을 포함하는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 99-112 중 적어도 하나와 95％ 이상의 서열 동일성을 갖는 VH 폴리펩티드 서열을 포함하는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 85-98 중 적어도 하나와 95％ 이상의 서열 동일성을 갖는 VL 폴리펩티드 서열을 포함하는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 99-112 중 적어도 하나와 95％ 이상의 서열 동일성을 갖는 VH 폴리펩티드 서열 및 서열 85-98 중 적어도 하나와 95％ 이상의 서열 동일성을 갖는 VL 폴리펩티드 서열을 포함하는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 1-14로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 중쇄 가변 영역 CDR1; 서열 15-28로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 중쇄 가변 영역 CDR2; 서열 29-42로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 중쇄 가변 영역 CDR3; 서열 43-56으로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 경쇄 가변 영역 CDR1; 서열 57-70으로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 경쇄 가변 영역 CDR2; 및 서열 71-84로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 경쇄 가변 영역 CDR3을 포함하는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n(a) 서열 1의 중쇄 가변 영역 CDR1; 서열 15의 중쇄 가변 영역 CDR2; 서열 29의 중쇄 가변 영역 CDR3; 서열 43의 경쇄 가변 영역 CDR1; 서열 57의 경쇄 가변 영역 CDR2; 및 서열 71의 경쇄 가변 영역 CDR3,\n(b) 서열 2의 중쇄 가변 영역 CDR1; 서열 16의 중쇄 가변 영역 CDR2; 서열 30의 중쇄 가변 영역 CDR3; 서열 44의 경쇄 가변 영역 CDR1; 서열 58의 경쇄 가변 영역 CDR2; 및 서열 72의 경쇄 가변 영역 CDR3,\n(c) 서열 3의 중쇄 가변 영역 CDR1; 서열 17의 중쇄 가변 영역 CDR2; 서열 31의 중쇄 가변 영역 CDR3; 서열 45의 경쇄 가변 영역 CDR1; 서열 59의 경쇄 가변 영역 CDR2; 및 서열 73의 경쇄 가변 영역 CDR3,\n(d) 서열 4의 중쇄 가변 영역 CDR1; 서열 18의 중쇄 가변 영역 CDR2; 서열 32의 중쇄 가변 영역 CDR3; 서열 46의 경쇄 가변 영역 CDR1; 서열 60의 경쇄 가변 영역 CDR2; 및 서열 74의 경쇄 가변 영역 CDR3,\n(e) 서열 5의 중쇄 가변 영역 CDR1; 서열 19의 중쇄 가변 영역 CDR2; 서열 33의 중쇄 가변 영역 CDR3; 서열 47의 경쇄 가변 영역 CDR1; 서열 61의 경쇄 가변 영역 CDR2; 및 서열 75의 경쇄 가변 영역 CDR3,\n(f) 서열 6의 중쇄 가변 영역 CDR1; 서열 20의 중쇄 가변 영역 CDR2; 서열 34의 중쇄 가변 영역 CDR3; 서열 48의 경쇄 가변 영역 CDR1; 서열 62의 경쇄 가변 영역 CDR2; 및 서열 76의 경쇄 가변 영역 CDR3,\n(g) 서열 7의 중쇄 가변 영역 CDR1; 서열 21의 중쇄 가변 영역 CDR2; 서열 35의 중쇄 가변 영역 CDR3; 서열 49의 경쇄 가변 영역 CDR1; 서열 63의 경쇄 가변 영역 CDR2; 및 서열 77의 경쇄 가변 영역 CDR3,\n(h) 서열 8의 중쇄 가변 영역 CDR1; 서열 22의 중쇄 가변 영역 CDR2; 서열 36의 중쇄 가변 영역 CDR3; 서열 50의 경쇄 가변 영역 CDR1; 서열 64의 경쇄 가변 영역 CDR2; 및 서열 78의 경쇄 가변 영역 CDR3,\n(i) 서열 9의 중쇄 가변 영역 CDR1; 서열 23의 중쇄 가변 영역 CDR2; 서열 37의 중쇄 가변 영역 CDR3; 서열 51의 경쇄 가변 영역 CDR1; 서열 65의 경쇄 가변 영역 CDR2; 및 서열 79의 경쇄 가변 영역 CDR3,\n(j) 서열 10의 중쇄 가변 영역 CDR1; 서열 24의 중쇄 가변 영역 CDR2; 서열 38의 중쇄 가변 영역 CDR3; 서열 52의 경쇄 가변 영역 CDR1; 서열 66의 경쇄 가변 영역 CDR2; 및 서열 80의 경쇄 가변 영역 CDR3,\n(k) 서열 11의 중쇄 가변 영역 CDR1; 서열 25의 중쇄 가변 영역 CDR2; 서열 39의 중쇄 가변 영역 CDR3; 서열 53의 경쇄 가변 영역 CDR1; 서열 67의 경쇄 가변 영역 CDR2; 및 서열 81의 경쇄 가변 영역 CDR3,\n(l) 서열 12의 중쇄 가변 영역 CDR1; 서열 26의 중쇄 가변 영역 CDR2; 서열 40의 중쇄 가변 영역 CDR3; 서열 54의 경쇄 가변 영역 CDR1; 서열 68의 경쇄 가변 영역 CDR2; 및 서열 82의 경쇄 가변 영역 CDR3,\n(m) 서열 13의 중쇄 가변 영역 CDR1; 서열 27의 중쇄 가변 영역 CDR2; 서열 41의 중쇄 가변 영역 CDR3; 서열 55의 경쇄 가변 영역 CDR1; 서열 69의 경쇄 가변 영역 CDR2; 및 서열 83의 경쇄 가변 영역 CDR3, 또는\n(n) 서열 14의 중쇄 가변 영역 CDR1; 서열 28의 중쇄 가변 영역 CDR2; 서열 42의 중쇄 가변 영역 CDR3; 서열 56의 경쇄 가변 영역 CDR1; 서열 70의 경쇄 가변 영역 CDR2; 및 서열 84의 경쇄 가변 영역 CDR3\n을 포함하는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 146-150 및 156-160으로 이루어진 군으로부터 선택된 적어도 하나의 서열과 95％ 이상의 서열 동일성을 갖는 전장 중쇄 아미노산 서열을 포함하는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 서열 141-145 및 151-155로 이루어진 군으로부터 선택된 적어도 하나의 서열과 95％ 이상의 서열 동일성을 갖는 전장 경쇄 아미노산 서열을 포함하는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 서열 85의 가변 중쇄 서열 및 서열 99의 가변 경쇄 서열;\n(b) 서열 86의 가변 중쇄 서열 및 서열 100의 가변 경쇄 서열;\n(c) 서열 87의 가변 중쇄 서열 및 서열 101의 가변 경쇄 서열;\n(d) 서열 88의 가변 중쇄 서열 및 서열 102의 가변 경쇄 서열;\n(e) 서열 89의 가변 중쇄 서열 및 서열 103의 가변 경쇄 서열;\n(f) 서열 90의 가변 중쇄 서열 및 서열 104의 가변 경쇄 서열;\n(g) 서열 91의 가변 중쇄 서열 및 서열 105의 가변 경쇄 서열;\n(h) 서열 92의 가변 중쇄 서열 및 서열 106의 가변 경쇄 서열;\n(i) 서열 93의 가변 중쇄 서열 및 서열 107의 가변 경쇄 서열;\n(j) 서열 94의 가변 중쇄 서열 및 서열 108의 가변 경쇄 서열;\n(k) 서열 95의 가변 중쇄 서열 및 서열 109의 가변 경쇄 서열;\n(l) 서열 96의 가변 중쇄 서열 및 서열 110의 가변 경쇄 서열;\n(m) 서열 97의 가변 중쇄 서열 및 서열 111의 가변 경쇄 서열; 또는\n(n) 서열 98의 가변 중쇄 서열 및 서열 112의 가변 경쇄 서열\n을 포함하는 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 서열 146의 중쇄 서열 및 서열 141의 경쇄 서열;\n(b) 서열 147의 중쇄 서열 및 서열 142의 경쇄 서열;\n(c) 서열 148의 중쇄 서열 및 서열 143의 경쇄 서열;\n(d) 서열 149의 중쇄 서열 및 서열 144의 경쇄 서열;\n(e) 서열 150의 중쇄 서열 및 서열 145의 경쇄 서열;\n(f) 서열 156의 중쇄 서열 및 서열 151의 경쇄 서열;\n(g) 서열 157의 중쇄 서열 및 서열 152의 경쇄 서열;\n(h) 서열 158의 중쇄 서열 및 서열 153의 경쇄 서열;\n(i) 서열 159의 중쇄 서열 및 서열 154의 경쇄 서열; 또는\n(j) 서열 160의 중쇄 서열 및 서열 155의 경쇄 서열\n을 포함하는 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "ActRIIB에 대한 결합을 교차 차단하거나, ActRIIB에 대한 결합이 제18항의 적어도 하나의 항체에 의해 교차 차단되는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제17항 중 어느 한 항에 있어서, ActRIIB에 대한 결합을 교차 차단하거나, ActRIIB에 대한 결합이 제18항의 적어도 하나의 항체에 의해 교차 차단되는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항 또는 제18항의 항체에 의해 인식되는 에피토프에 결합하는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 제17항 또는 제18항의 항체에 의해 인식되는 에피토프에 결합하는 항체 또는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제18항 중 어느 한 항에 있어서, 다음을 포함하거나 다음으로 이루어진 에피토프에 결합하는 항체:\n(a) 서열 181의 아미노산 78-83 [이미지];\n(b) 서열 181의 아미노산 76-84 [이미지];\n(c) 서열 181의 아미노산 75-85 [이미지];\n(d) 서열 181의 아미노산 52-56 [이미지];\n(e) 서열 181의 아미노산 49-63 [이미지]; 또는\n(f) 서열 181의 아미노산 78-83 (WLDDFN) 및 서열 181의 아미노산 52-56 (EQDKR).",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항 내지 제22항 중 어느 한 항에 있어서, 교차 차단 또는 동일한 에피토프에의 결합이 비아코어 검정 또는 ELISA에서 검출되는 것인 항체 또는 기능적 단백질.",
+            "refers_to": [
+              19,
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제24항 중 어느 한 항에 있어서, IgG1 이소형인 항-ActRIIB 항체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제25항 중 어느 한 항에 있어서, Fc 영역의 돌연변이를 통해 변경된 이펙터 기능을 갖는 항-ActRIIB 항체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질을 코딩하는 단리된 폴리뉴클레오티드 서열.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 서열 113-140 또는 161-180 중 하나 이상을 포함하는 단리된 폴리뉴클레오티드 서열.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항 또는 제28항에 따른 하나 이상의 단리된 폴리뉴클레오티드 서열을 포함하는 클로닝 또는 발현 벡터.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 하나 이상의 서열 113-140 또는 161-180, 또는 적어도 하나의 CDR 영역을 코딩하는 그의 단편을 포함하는 벡터.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항 또는 제30항에 따른 하나 이상의 벡터를 포함하는 숙주 세포.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항의 숙주세포를 배양하는 단계 및 제1항 내지 제26항 중 어느 한 항의 항체 또는 기능적 단백질을 단리하는 단계를 포함하는, 상기 항체 또는 기능적 단백질의 생산 방법.",
+            "refers_to": [
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질 또는 제27항 또는 제28항에 따른 폴리뉴클레오티드 서열을 포함하는 제약 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제33항에 있어서, 제약상 허용되는 희석제 또는 담체를 추가로 포함하는 제약 조성물.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제33항 또는 제34항에 있어서, 하나 이상의 추가의 활성제를 추가로 포함하는 제약 조성물.",
+            "refers_to": [
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항에 있어서, 상기 추가의 활성제가 IGF-1, IGF-2 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린(Ghrelin) 효능제, SARM, GH 효능제/모방체 또는 폴리스타틴으로부터 선택된 것인 제약 조성물.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "근골격 질환 또는 장애; 급성 및/또는 만성 신장 질환 또는 부전; 간 섬유증 또는 경변증; 암, 예컨대 유방암; 파킨슨병; 뉴런 사멸과 관련된 상태, 예컨대 ALS, 뇌 위축, 또는 치매 및 빈혈; 간, 신장 및 폐 섬유증; 연령-관련 상태; 및 횡문근육종, 골 손실 유도 암, 간세포 암종, 위장암으로 예시되지만 이들로 한정되는 것은 아닌 암 환자에게 제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질의 유효 용량을 투여하는 것을 포함하는, 상기 환자의 치료 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "의약으로서 사용하기 위한, 제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질, 제27항 또는 제28항에 따른 폴리뉴클레오티드 서열, 또는 제33항 내지 제36항 중 어느 한 항에 따른 제약 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "근골격 질환 또는 장애; 급성 및/또는 만성 신장 질환 또는 부전; 간 섬유증 또는 경변증; 암, 예컨대 유방암; 파킨슨병; 뉴런 사멸과 관련된 상태, 예컨대 ALS, 뇌 위축, 또는 치매 및 빈혈; 간, 신장 및 폐 섬유증; 연령-관련 상태; 및 횡문근육종, 골 손실 유도 암, 간세포 암종, 위장암으로 예시되지만 이들로 한정되는 것은 아닌 암의 치료를 위한 의약의 제조에서의 제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질, 제27항 또는 제28항에 따른 폴리뉴클레오티드 서열, 또는 제33항 내지 제36항 중 어느 한 항에 따른 제약 조성물의 용도.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "근골격 질환 또는 장애; 급성 및/또는 만성 신장 질환 또는 부전; 간 섬유증 또는 경변증; 암, 예컨대 유방암; 파킨슨병; 뉴런 사멸과 관련된 상태, 예컨대 ALS, 뇌 위축, 또는 치매 및 빈혈; 간, 신장 및 폐 섬유증; 및 횡문근육종, 골 손실 유도 암, 간세포 암종, 위장암으로 예시되지만 이들로 한정되는 것은 아닌 암을 치료하는데 사용하기 위한 제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질, 제27항 또는 제28항에 따른 폴리뉴클레오티드 서열, 또는 제33항 내지 제36항 중 어느 한 항에 따른 제약 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39항 또는 제40항에 있어서, 상기 근골격 질환 또는 장애가 근육 위축, 예를 들어 근병증, 예컨대 근긴장증, 선천성 근병증 (네말린 근병증, 멀티/미니코어 근병증 및 근세관성 (중심핵성) 근병증 포함), 미토콘드리아 근병증, 가족성 주기성 마비, 염증성 근병증, 대사성 근병증, 예컨대 글리코겐 또는 지질 축적 질환에 의해 유발되는 것, 피부근염, 다발성근염, 봉입체 근염, 골화성 근염, 횡문근융해증 및 미오글루빈뇨증; 이영양증, 예컨대 뒤시엔느(Duchenne), 베커(Becker), 근긴장성, 안면견갑상완, 에머리-드레이푸스(Emery-Dreifuss), 안인두, 견갑상완, 지대, 후쿠야마(Fukuyama), 선천성 근이영양증, 또는 유전성 원위 근병증; 골다공증; 골절; 단신; 왜소증; 장기간 침상 안정; 수의 비활동; 또는 불수의 비활동에 의해 유발된 것인 용도.",
+            "refers_to": [
+              39,
+              40
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 치료하고자 하는 환자가 IGF-1, IGF-2 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린 효능제, SARM, GH 효능제/모방체 또는 폴리스타틴으로 사전 치료받은 환자인 용도.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 치료하고자 하는 환자가 종전의 IGF-1, IGF-2 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린 효능제, SARM, GH 효능제/모방체 또는 폴리스타틴에 의한 치료에 대해 불응성인 용도.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 치료하고자 하는 환자가 연로하거나, 무중력 환경에서 시간을 보내거나, 또는 비활동 기간을 겪은 자인 용도.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "강요된 비활동 기간 또는 무중력 환경에서 보내는 시간 이전에 제1항 내지 제26항 중 어느 한 항에 따른 항체 또는 기능적 단백질의 유효 용량을 투여하는 것을 포함하는, 상기 강요된 비활동 또는 무중력 환경에서 보낸 시간의 근육 소모 효과를 개선하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 치료하고자 하는 환자가 사지 (즉, 다리 또는 팔) 또는 관절 (즉, 무릎 또는 엉덩이)에 골절을 가진 환자인 용도.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 환자가 고관절 또는 슬관절 치환 수술을 받았거나 받을 예정인 용도.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "pBW522 (DSM22873) 또는 pBW524 (DSM22874)에 의해 코딩된 항체.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20150406",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 48,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열 99-112 중 적어도 하나와 95％ 이상의 서열 동일성을 갖는 VH 폴리펩티드 서열 및 서열 85-98 중 적어도 하나와 95％ 이상의 서열 동일성을 갖는 VL 폴리펩티드 서열을 포함하는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 서열 1-14로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 중쇄 가변 영역 CDR1; 서열 15-28로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 중쇄 가변 영역 CDR2; 서열 29-42로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 중쇄 가변 영역 CDR3; 서열 43-56으로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 경쇄 가변 영역 CDR1; 서열 57-70으로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 경쇄 가변 영역 CDR2; 및 서열 71-84로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는 경쇄 가변 영역 CDR3을 포함하는, 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서,\n(a) 서열 1의 중쇄 가변 영역 CDR1; 서열 15의 중쇄 가변 영역 CDR2; 서열 29의 중쇄 가변 영역 CDR3; 서열 43의 경쇄 가변 영역 CDR1; 서열 57의 경쇄 가변 영역 CDR2; 및 서열 71의 경쇄 가변 영역 CDR3,\n(b) 서열 2의 중쇄 가변 영역 CDR1; 서열 16의 중쇄 가변 영역 CDR2; 서열 30의 중쇄 가변 영역 CDR3; 서열 44의 경쇄 가변 영역 CDR1; 서열 58의 경쇄 가변 영역 CDR2; 및 서열 72의 경쇄 가변 영역 CDR3,\n(c) 서열 3의 중쇄 가변 영역 CDR1; 서열 17의 중쇄 가변 영역 CDR2; 서열 31의 중쇄 가변 영역 CDR3; 서열 45의 경쇄 가변 영역 CDR1; 서열 59의 경쇄 가변 영역 CDR2; 및 서열 73의 경쇄 가변 영역 CDR3,\n(d) 서열 4의 중쇄 가변 영역 CDR1; 서열 18의 중쇄 가변 영역 CDR2; 서열 32의 중쇄 가변 영역 CDR3; 서열 46의 경쇄 가변 영역 CDR1; 서열 60의 경쇄 가변 영역 CDR2; 및 서열 74의 경쇄 가변 영역 CDR3,\n(e) 서열 5의 중쇄 가변 영역 CDR1; 서열 19의 중쇄 가변 영역 CDR2; 서열 33의 중쇄 가변 영역 CDR3; 서열 47의 경쇄 가변 영역 CDR1; 서열 61의 경쇄 가변 영역 CDR2; 및 서열 75의 경쇄 가변 영역 CDR3,\n(f) 서열 6의 중쇄 가변 영역 CDR1; 서열 20의 중쇄 가변 영역 CDR2; 서열 34의 중쇄 가변 영역 CDR3; 서열 48의 경쇄 가변 영역 CDR1; 서열 62의 경쇄 가변 영역 CDR2; 및 서열 76의 경쇄 가변 영역 CDR3,\n(g) 서열 7의 중쇄 가변 영역 CDR1; 서열 21의 중쇄 가변 영역 CDR2; 서열 35의 중쇄 가변 영역 CDR3; 서열 49의 경쇄 가변 영역 CDR1; 서열 63의 경쇄 가변 영역 CDR2; 및 서열 77의 경쇄 가변 영역 CDR3,\n(h) 서열 8의 중쇄 가변 영역 CDR1; 서열 22의 중쇄 가변 영역 CDR2; 서열 36의 중쇄 가변 영역 CDR3; 서열 50의 경쇄 가변 영역 CDR1; 서열 64의 경쇄 가변 영역 CDR2; 및 서열 78의 경쇄 가변 영역 CDR3,\n(i) 서열 9의 중쇄 가변 영역 CDR1; 서열 23의 중쇄 가변 영역 CDR2; 서열 37의 중쇄 가변 영역 CDR3; 서열 51의 경쇄 가변 영역 CDR1; 서열 65의 경쇄 가변 영역 CDR2; 및 서열 79의 경쇄 가변 영역 CDR3,\n(j) 서열 10의 중쇄 가변 영역 CDR1; 서열 24의 중쇄 가변 영역 CDR2; 서열 38의 중쇄 가변 영역 CDR3; 서열 52의 경쇄 가변 영역 CDR1; 서열 66의 경쇄 가변 영역 CDR2; 및 서열 80의 경쇄 가변 영역 CDR3,\n(k) 서열 11의 중쇄 가변 영역 CDR1; 서열 25의 중쇄 가변 영역 CDR2; 서열 39의 중쇄 가변 영역 CDR3; 서열 53의 경쇄 가변 영역 CDR1; 서열 67의 경쇄 가변 영역 CDR2; 및 서열 81의 경쇄 가변 영역 CDR3,\n(l) 서열 12의 중쇄 가변 영역 CDR1; 서열 26의 중쇄 가변 영역 CDR2; 서열 40의 중쇄 가변 영역 CDR3; 서열 54의 경쇄 가변 영역 CDR1; 서열 68의 경쇄 가변 영역 CDR2; 및 서열 82의 경쇄 가변 영역 CDR3,\n(m) 서열 13의 중쇄 가변 영역 CDR1; 서열 27의 중쇄 가변 영역 CDR2; 서열 41의 중쇄 가변 영역 CDR3; 서열 55의 경쇄 가변 영역 CDR1; 서열 69의 경쇄 가변 영역 CDR2; 및 서열 83의 경쇄 가변 영역 CDR3, 또는\n(n) 서열 14의 중쇄 가변 영역 CDR1; 서열 28의 중쇄 가변 영역 CDR2; 서열 42의 중쇄 가변 영역 CDR3; 서열 56의 경쇄 가변 영역 CDR1; 서열 70의 경쇄 가변 영역 CDR2; 및 서열 84의 경쇄 가변 영역 CDR3\n을 포함하는, 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 서열 9의 중쇄 가변 영역 CDR1; 서열 23의 중쇄 가변 영역 CDR2; 서열 37의 중쇄 가변 영역 CDR3; 서열 51의 경쇄 가변 영역 CDR1; 서열 65의 경쇄 가변 영역 CDR2; 및 서열 79의 경쇄 가변 영역 CDR3 을 포함하는, 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 서열 146-150 및 156-160으로 이루어진 군으로부터 선택된 적어도 하나의 서열과 95％ 이상의 서열 동일성을 갖는 전장 중쇄 아미노산 서열을 포함하고, 서열 141-145 및 151-155로 이루어진 군으로부터 선택된 적어도 하나의 서열과 95％ 이상의 서열 동일성을 갖는 전장 경쇄 아미노산 서열을 포함하는, 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 서열 85의 가변 경쇄 서열 및 서열 99의 가변 중쇄 서열;\n(b) 서열 86의 가변 경쇄 서열 및 서열 100의 가변 중쇄 서열;\n(c) 서열 87의 가변 경쇄 서열 및 서열 101의 가변 중쇄 서열;\n(d) 서열 88의 가변 경쇄 서열 및 서열 102의 가변 중쇄 서열;\n(e) 서열 89의 가변 경쇄 서열 및 서열 103의 가변 중쇄 서열;\n(f) 서열 90의 가변 경쇄 서열 및 서열 104의 가변 중쇄 서열;\n(g) 서열 91의 가변 경쇄 서열 및 서열 105의 가변 중쇄 서열;\n(h) 서열 92의 가변 경쇄 서열 및 서열 106의 가변 중쇄 서열;\n(i) 서열 93의 가변 경쇄 서열 및 서열 107의 가변 중쇄 서열;\n(j) 서열 94의 가변 경쇄 서열 및 서열 108의 가변 중쇄 서열;\n(k) 서열 95의 가변 경쇄 서열 및 서열 109의 가변 중쇄 서열;\n(l) 서열 96의 가변 경쇄 서열 및 서열 110의 가변 중쇄 서열;\n(m) 서열 97의 가변 경쇄 서열 및 서열 111의 가변 중쇄 서열; 또는\n(n) 서열 98의 가변 경쇄 서열 및 서열 112의 가변 중쇄 서열\n을 포함하는 인간 모노클로날 치료용 항-ActRIIB 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 서열 93의 가변 경쇄 서열 및 서열 107의 가변 중쇄 서열을 포함하는 인간 모노클로날 치료용 항-ActRIIB 항체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 서열 146의 중쇄 서열 및 서열 141의 경쇄 서열;\n(b) 서열 147의 중쇄 서열 및 서열 142의 경쇄 서열;\n(c) 서열 148의 중쇄 서열 및 서열 143의 경쇄 서열;\n(d) 서열 149의 중쇄 서열 및 서열 144의 경쇄 서열;\n(e) 서열 150의 중쇄 서열 및 서열 145의 경쇄 서열;\n(f) 서열 156의 중쇄 서열 및 서열 151의 경쇄 서열;\n(g) 서열 157의 중쇄 서열 및 서열 152의 경쇄 서열;\n(h) 서열 158의 중쇄 서열 및 서열 153의 경쇄 서열;\n(i) 서열 159의 중쇄 서열 및 서열 154의 경쇄 서열; 또는\n(j) 서열 160의 중쇄 서열 및 서열 155의 경쇄 서열\n을 포함하는 인간 모노클로날 치료용 항-ActRIIB 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "ActRIIB에 대한 결합을 교차 차단하거나, ActRIIB에 대한 결합이 제8항의 적어도 하나의 항체에 의해 교차 차단되는 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항 내지 제8항 중 어느 한 항의 항체에 의해 인식되는 에피토프에 결합하는 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 있어서, 제6항 내지 제8항 중 어느 한 항의 항체에 의해 인식되는 에피토프에 결합하는 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 있어서, 다음을 포함하거나 다음으로 이루어진 에피토프에 결합하는 인간 모노클로날 치료용 항-ActRIIB 항체:\n(a) 서열 181의 아미노산 78-83 [이미지];\n(b) 서열 181의 아미노산 76-84 [이미지];\n(c) 서열 181의 아미노산 75-85 [이미지];\n(d) 서열 181의 아미노산 52-56 [이미지];\n(e) 서열 181의 아미노산 49-63 [이미지]; 또는\n(f) 서열 181의 아미노산 78-83 (WLDDFN) 및 서열 181의 아미노산 52-56 (EQDKR).",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 교차 차단 또는 동일한 에피토프에의 결합이 비아코어 검정 또는 ELISA에서 검출되는 것인 항체 또는 기능적 단백질.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 있어서, IgG1 이소형인 항-ActRIIB 항체.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 있어서, Fc 영역의 돌연변이를 통해 변경된 이펙터 기능을 갖는 항-ActRIIB 항체.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 따른 항체 또는 기능적 단백질을 코딩하는 단리된 폴리뉴클레오티드 서열.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 서열 113-140 또는 161-180 중 하나 이상을 포함하는 단리된 폴리뉴클레오티드 서열.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 따른 하나 이상의 단리된 폴리뉴클레오티드 서열을 포함하는 클로닝 또는 발현 벡터.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, 서열 113-140 또는 161-180 중 하나 이상, 또는 적어도 하나의 CDR 영역을 코딩하는 그의 단편을 포함하는 벡터.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 따른 하나 이상의 벡터를 포함하는 숙주 세포.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질을 코딩하는 하나 이상의 단리된 폴리뉴클레오티드 서열을 포함하는 하나 이상의 클로닝 또는 발현 벡터를 포함하는 숙주 세포를 배양하는 단계, 및 제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질을 단리하는 단계를 포함하는, 상기 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질의 생산 방법.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질, 또는 제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 따른 항체 또는 기능적 단백질을 코딩하는 폴리뉴클레오티드 서열을 포함하는 제약 조성물.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제22항에 있어서, 제약상 허용되는 희석제 또는 담체를 추가로 포함하는 제약 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제23항에 있어서, 하나 이상의 추가의 활성제를 추가로 포함하는 제약 조성물.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 추가의 활성제가 IGF-1, IGF-2, 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린(Ghrelin) 효능제, SARM, GH 효능제/모방체, 또는 폴리스타틴으로부터 선택된 것인 제약 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 따른 항체 또는 기능적 단백질의 유효 용량을 포함하는, 근골격 질환 또는 장애; 급성 및/또는 만성 신장 질환 또는 부전; 간 섬유증 또는 경변증; 암, 예컨대 유방암; 파킨슨병; 뉴런 사멸과 관련된 상태, 예컨대 ALS, 뇌 위축, 또는 치매 및 빈혈; 간, 신장 및 폐 섬유증; 연령-관련 상태; 및 횡문근육종, 골 손실 유도 암, 간세포 암종, 위장암으로 예시되지만 이들로 한정되는 것은 아닌 암 환자를 치료하기 위한 제약 조성물.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질, 또는 제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질을 코딩하는 폴리뉴클레오티드 서열을 포함하는, 근골격 질환 또는 장애; 급성 및/또는 만성 신장 질환 또는 부전; 간 섬유증 또는 경변증; 암, 예컨대 유방암; 파킨슨병; 뉴런 사멸과 관련된 상태, 예컨대 ALS, 뇌 위축, 또는 치매 및 빈혈; 간, 신장 및 폐 섬유증; 연령-관련 상태; 및 횡문근육종, 골 손실 유도 암, 간세포 암종, 위장암으로 예시되지만 이들로 한정되는 것은 아닌 암 환자를 치료하기 위한 제약 조성물.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제27항에 있어서, 상기 근골격 질환 또는 장애가 근육 위축, 예를 들어 근병증, 예컨대 근긴장증, 선천성 근병증 (네말린 근병증, 멀티/미니코어 근병증 및 근세관성 (중심핵성) 근병증 포함), 미토콘드리아 근병증, 가족성 주기성 마비, 염증성 근병증, 대사성 근병증, 예컨대 글리코겐 또는 지질 축적 질환에 의해 유발되는 것, 피부근염, 다발성근염, 봉입체 근염, 골화성 근염, 횡문근융해증 및 미오글루빈뇨증; 이영양증, 예컨대 뒤시엔느(Duchenne), 베커(Becker), 근긴장성, 안면견갑상완, 에머리-드레이푸스(Emery-Dreifuss), 안인두, 견갑상완, 지대, 후쿠야마(Fukuyama), 선천성 근이영양증, 또는 유전성 원위 근병증; 골다공증; 골절; 단신; 왜소증; 장기간 침상 안정; 수의 비활동; 또는 불수의 비활동에 의해 유발된 것인 제약 조성물.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제28항에 있어서, 치료하고자 하는 환자가 IGF-1, IGF-2, 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린 효능제, SARM, GH 효능제/모방체, 또는 폴리스타틴으로 사전 치료받은 환자인 제약 조성물.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제28항에 있어서, 치료하고자 하는 환자가 종전의 IGF-1, IGF-2, 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린 효능제, SARM, GH 효능제/모방체, 또는 폴리스타틴에 의한 치료에 대해 불응성인 제약 조성물.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제28항에 있어서, 치료하고자 하는 환자가 연로하거나, 무중력 환경에서 시간을 보내거나, 또는 비활동 기간을 겪은 자인 제약 조성물.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제2항 및 제5항 내지 제8항 중 어느 한 항에 따른 항체 또는 기능적 단백질의 유효 용량을 포함하고, 강요된 비활동 기간 또는 무중력 환경에서 보내는 시간 이전에 투여되는, 상기 강요된 비활동 또는 무중력 환경에서 보낸 시간의 근육 소모 효과를 개선하기 위한 제약 조성물.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제28항에 있어서, 치료하고자 하는 환자가 사지 (즉, 다리 또는 팔) 또는 관절 (즉, 무릎 또는 엉덩이)에 골절을 가진 환자인 제약 조성물.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제28항에 있어서, 환자가 고관절 또는 슬관절 치환 수술을 받았거나 받을 예정인 제약 조성물.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, pBW522 (DSM22873) 또는 pBW524 (DSM22874)에 의해 코딩된 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20161219",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 35,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(i) 서열 93의 가변 경쇄 서열 및 서열 107과 96％ 이상의 서열 동일성을 갖는 가변 중쇄 서열, 또는\n(ii) 서열 94의 가변 경쇄 서열 및 서열 108과 96％ 이상의 서열 동일성을 갖는 가변 중쇄 서열\n을 포함하는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "a) 서열 9의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR1; 서열 23의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR2; 서열 37의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR3; 서열 51의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR1; 서열 65의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR2; 및 서열 79의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR3, 또는\nb) 서열 10의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR1; 서열 24의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR2; 서열 38의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR3; 서열 52의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR1; 서열 66의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR2; 및 서열 80의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR3\n을 포함하는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 서열 93의 가변 경쇄 서열 및 서열 107의 가변 중쇄 서열; 또는 서열 94의 가변 경쇄 서열 및 서열 108의 가변 중쇄 서열을 포함하는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 서열 93의 가변 경쇄 서열 및 서열 146의 중쇄 서열에 포함되는 아미노산 1-115로 이루어진 가변 중쇄 서열을 포함하는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, \n(a) 서열 146의 중쇄 서열 및 서열 141의 경쇄 서열;\n(b) 서열 147의 중쇄 서열 및 서열 142의 경쇄 서열;\n(c) 서열 156의 중쇄 서열 및 서열 151의 경쇄 서열; 또는 \n(d) 서열 157의 중쇄 서열 및 서열 152의 경쇄 서열\n을 포함하는 인간 모노클로날 치료용 항-ActRIIB 항체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "ActRIIB에 대한 결합을 교차 차단하거나, ActRIIB에 대한 결합이 제5항의 적어도 하나의 항체에 의해 교차 차단되는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 다음을 포함하거나 다음으로 이루어진 에피토프에 결합하는 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질:\n(a) 서열 181의 아미노산 78-83 [이미지];\n(b) 서열 181의 아미노산 76-84 [이미지];\n(c) 서열 181의 아미노산 75-85 [이미지];\n(d) 서열 181의 아미노산 52-56 [이미지];\n(e) 서열 181의 아미노산 49-63 [이미지]; 또는\n(f) 서열 181의 아미노산 78-83 (WLDDFN) 및 서열 181의 아미노산 52-56 (EQDKR).",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, IgG1 이소형인 항-ActRIIB 항체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, Fc 영역의 돌연변이를 통해 변경된 이펙터 기능을 갖고, 여기서 상기 변경된 이펙터 기능은 침묵된 항체 의존성 세포성 세포독성 및 보체 의존성 세포독성인 항-ActRIIB 항체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 서열 121, 122, 135, 136, 161, 162, 166, 167, 171, 172, 176 또는 177의 핵산 서열\n을 포함하는, 제1항 또는 제2항에 따른 항체 또는 기능적 단백질을 코딩하는 단리된 폴리뉴클레오티드.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 따른 하나 이상의 단리된 폴리뉴클레오티드를 포함하는 클로닝 또는 발현 벡터.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 따른 하나 이상의 벡터를 포함하는 숙주 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질을 코딩하는 하나 이상의 단리된 폴리뉴클레오티드를 포함하는 하나 이상의 클로닝 또는 발현 벡터를 포함하는 숙주 세포를 배양하는 단계, 및 상기 항체 또는 기능적 단백질을 단리하는 단계를 포함하는, 제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질의 생산 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질, 또는 제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질을 코딩하는 폴리뉴클레오티드를 포함하는, 근골격 질환 또는 장애를 치료하기 위한 제약 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 제약상 허용되는 희석제 또는 담체를 추가로 포함하는 제약 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 있어서, 하나 이상의 추가의 활성제를 추가로 포함하는 제약 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 상기 추가의 활성제가 IGF-1, IGF-2, 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린(Ghrelin) 효능제, SARM, GH 효능제/모방체, 또는 폴리스타틴으로부터 선택된 것인 제약 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 따른 항체 또는 기능적 단백질의 유효 용량을 포함하는, 근골격 질환 또는 장애를 치료하기 위한 제약 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 근골격 질환 또는 장애가 근육 위축인 제약 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 치료하고자 하는 환자가 IGF-1, IGF-2, 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린 효능제, SARM, GH 효능제/모방체, 또는 폴리스타틴으로 사전 치료받은 환자인 제약 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 치료하고자 하는 환자가 종전의 IGF-1, IGF-2, 또는 IGF-1 또는 IGF-2의 변이체, 항-미오스타틴 항체, 미오스타틴 프로펩티드, ActRIIB에 결합하지만 그것을 활성화시키지는 않는 미오스타틴 디코이 단백질, 베타 2 효능제, 그렐린 효능제, SARM, GH 효능제/모방체, 또는 폴리스타틴에 의한 치료에 대해 불응성인 제약 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 치료하고자 하는 환자가 연로하거나, 무중력 환경에서 시간을 보내거나, 또는 비활동 기간을 겪은 자인 제약 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 따른 항체 또는 기능적 단백질의 유효 용량을 포함하고, 강요된 비활동 기간 또는 무중력 환경에서 보내는 시간 이전에 투여되는, 상기 강요된 비활동 또는 무중력 환경에서 보낸 시간의 근육 소모 효과를 개선하기 위한 제약 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 치료하고자 하는 환자가 사지 또는 관절에 골절을 가진 환자인 제약 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 환자가 고관절 또는 슬관절 치환 수술을 받았거나 받을 예정인 제약 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, pBW522 (DSM22873) 또는 pBW524 (DSM22874)에 의해 코딩된 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20170823",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 26,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "a) 서열 9의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR1; 서열 23의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR2; 서열 37의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR3; 서열 51의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR1; 서열 65의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR2; 및 서열 79의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR3, 또는\nb) 서열 10의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR1; 서열 24의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR2; 서열 38의 아미노산 서열을 포함하는 중쇄 가변 영역 CDR3; 서열 52의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR1; 서열 66의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR2; 및 서열 80의 아미노산 서열을 포함하는 경쇄 가변 영역 CDR3\n을 포함하는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 서열 93의 가변 경쇄 서열 및 서열 107의 가변 중쇄 서열; 또는 서열 94의 가변 경쇄 서열 및 서열 108의 가변 중쇄 서열을 포함하는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 서열 93의 가변 경쇄 서열 및 서열 146의 중쇄 서열에 포함되는 아미노산 1-115로 이루어진 가변 중쇄 서열을 포함하는, 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, \n(a) 서열 146의 중쇄 서열 및 서열 141의 경쇄 서열;\n(b) 서열 147의 중쇄 서열 및 서열 142의 경쇄 서열;\n(c) 서열 156의 중쇄 서열 및 서열 151의 경쇄 서열; 또는 \n(d) 서열 157의 중쇄 서열 및 서열 152의 경쇄 서열\n을 포함하는 인간 모노클로날 치료용 항-ActRIIB 항체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 다음을 포함하거나 다음으로 이루어진 에피토프에 결합하는 인간 모노클로날 치료용 항-ActRIIB 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질:\n(a) 서열 181의 아미노산 78-83 [이미지];\n(b) 서열 181의 아미노산 76-84 [이미지];\n(c) 서열 181의 아미노산 75-85 [이미지];\n(d) 서열 181의 아미노산 52-56 [이미지];\n(e) 서열 181의 아미노산 49-63 [이미지]; 또는\n(f) 서열 181의 아미노산 78-83 (WLDDFN) 및 서열 181의 아미노산 52-56 (EQDKR).",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, IgG1 이소형인 항-ActRIIB 항체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 서열 121, 122, 135, 136, 161, 162, 166, 167, 171, 172, 176 또는 177의 핵산 서열\n을 포함하는, 제1항 또는 제2항에 따른 항체 또는 기능적 단백질을 코딩하는 단리된 폴리뉴클레오티드.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 따른 하나 이상의 단리된 폴리뉴클레오티드를 포함하는 클로닝 또는 발현 벡터.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 따른 하나 이상의 벡터를 포함하는 숙주 세포.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질을 코딩하는 하나 이상의 단리된 폴리뉴클레오티드를 포함하는 하나 이상의 클로닝 또는 발현 벡터를 포함하는 숙주 세포를 배양하는 단계, 및 상기 항체 또는 기능적 단백질을 단리하는 단계를 포함하는, 제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질의 생산 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질, 또는 제1항 또는 제2항에 따른 항체 또는 그의 항원 결합 부분을 포함하는 기능적 단백질을 코딩하는 폴리뉴클레오티드를 포함하는, 근골격 질환 또는 장애를 치료하기 위한 제약 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 제약상 허용되는 희석제 또는 담체를 추가로 포함하는 제약 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 하나 이상의 추가의 활성제를 추가로 포함하는 제약 조성물.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 따른 항체 또는 기능적 단백질의 유효 용량을 포함하는, 근골격 질환 또는 장애를 치료하기 위한 제약 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 근골격 질환 또는 장애가 근육 위축인 제약 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 있어서, 치료하고자 하는 환자가 연로하거나, 무중력 환경에서 시간을 보내거나, 또는 비활동 기간을 겪은 자인 제약 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 따른 항체 또는 기능적 단백질의 유효 용량을 포함하고, 강요된 비활동 기간 또는 무중력 환경에서 보내는 시간 이전에 투여되는, 상기 강요된 비활동 또는 무중력 환경에서 보낸 시간의 근육 소모 효과를 개선하기 위한 제약 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 있어서, 치료하고자 하는 환자가 사지 또는 관절에 골절을 가진 환자인 제약 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 있어서, 환자가 고관절 또는 슬관절 치환 수술을 받았거나 받을 예정인 제약 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, pBW522 (DSM22873) 또는 pBW524 (DSM22874)에 의해 코딩된 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, (a) 서열 93의 가변 경쇄 서열 및 (b) 서열 146의 중쇄 서열에 포함되는 아미노산 1-115로 이루어진 가변 중쇄 서열을 포함하는, 항-ActRIIB 항체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 48,
+      "after_claim_count": 26,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2010.11.04",
+      "internationOpenNumber": "WO2010125003",
+      "internationalApplicationDate": "2010.04.23",
+      "internationalApplicationNumber": "PCT/EP2010/055458"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "스위스 체하-**** 바젤 리히트스트라쎄 **",
+      "code": "519980603002",
+      "country": "스위스",
+      "engName": "Novartis AG",
+      "name": "노파르티스 아게"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "독일 ***** 게...",
+        "code": "",
+        "country": "독일",
+        "engName": "BERGER, Catrin",
+        "name": "베르거, 카트린"
+      },
+      {
+        "address": "독일 ***** 뮌...",
+        "code": "",
+        "country": "독일",
+        "engName": "HERRMANN, Tanja",
+        "name": "헤르만, 타냐"
+      },
+      {
+        "address": "중국 ****** 상하이 장지앙 하이-테크 파크 푸둥 뉴 에어리어 레...",
+        "code": "",
+        "country": "미국",
+        "engName": "LU, Chris",
+        "name": "루, 크리스"
+      },
+      {
+        "address": "미국 ***** 메사추세츠주 캠브리지 메사추세...",
+        "code": "",
+        "country": "미국",
+        "engName": "SHEPPARD, Kelly-Ann",
+        "name": "셰퍼드, 켈리-앤"
+      },
+      {
+        "address": "스위스 체하-**** 바...",
+        "code": "",
+        "country": "프랑스",
+        "engName": "TRIFILIEFF, Estelle",
+        "name": "트리필리에프, 에스텔르"
+      },
+      {
+        "address": "독일 ***** ...",
+        "code": "",
+        "country": "독일",
+        "engName": "URLINGER, Stefanie",
+        "name": "울링거, 스테파니"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울시 서울(특허사무소 퇴사후 미신고)",
+        "code": "919980003774",
+        "country": "대한민국",
+        "engName": "Wee Hye Suk",
+        "name": "위혜숙"
+      },
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "920000000962",
+        "country": "대한민국",
+        "engName": "Lee Sang Young",
+        "name": "이상영"
+      },
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980003619",
+        "country": "대한민국",
+        "engName": "YANG, Young June",
+        "name": "양영준"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2009.04.27",
+        "priorityApplicationNumber": "61/173,004"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2010.02.19",
+        "priorityApplicationNumber": "61/306,137"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020040002927 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Journal of Neuroendocrinology. Vol. 9, pp. 105-111 (1997)",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2011.11.25",
+        "receiptNumber": "1-1-2011-0934644-51"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2012.01.09",
+        "receiptNumber": "1-5-2012-0004615-52"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2015.04.06",
+        "receiptNumber": "1-1-2015-0334134-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Representative for Transmittal of Document] Report on Agent (Representative)",
+        "documentName": "[서류송달대표자선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2015.04.06",
+        "receiptNumber": "1-1-2015-0334149-04"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2015.04.06",
+        "receiptNumber": "1-1-2015-0334157-69"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2015.04.06",
+        "receiptNumber": "1-1-2015-0334166-70"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2016.08.20",
+        "receiptNumber": "9-5-2016-0597024-22"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2016.10.12",
+        "receiptNumber": "1-1-2016-0987114-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2016.11.21",
+        "receiptNumber": "1-1-2016-1132620-84"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.12.19",
+        "receiptNumber": "1-1-2016-1245220-41"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2016.12.19",
+        "receiptNumber": "1-1-2016-1245239-18"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2017.04.27",
+        "receiptNumber": "9-5-2017-0302990-07"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2017.06.27",
+        "receiptNumber": "1-1-2017-0613410-18"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2017.08.23",
+        "receiptNumber": "1-1-2017-0813535-41"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2017.08.23",
+        "receiptNumber": "1-1-2017-0813530-13"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2017.12.22",
+        "receiptNumber": "9-5-2017-0899617-26"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2018.03.19",
+        "receiptNumber": "4-1-2018-5046881-64"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2020.06.30",
+        "receiptNumber": "4-1-2020-5144620-90"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020117028110.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e003eb3eea75b67e208e3c956492b8a3f897a4073380ced1dc5f6c79549ef5f2ca75ff71fdadfea3d9aefaa42c6f8d0d61d33657a4d68b93a0b",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cff721b7073d52ccd4db380b3bcc009f14174eed243c8b5ce8e01ea6f9528c9eb6442c51db731fe5f32b0ed94c4df2cd7d20d5dafed87af0d8"
+  },
+  "rndInfoArray": ""
+}

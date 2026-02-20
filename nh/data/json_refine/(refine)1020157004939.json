@@ -1,0 +1,4638 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2013.07.21",
+      "applicationFlag": "",
+      "applicationNumber": "10-2015-7004939",
+      "claimCount": "24",
+      "examinerName": "김민정",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "유도 ＤＮＡ 결합 단백질 및 게놈 교란 도구 및 이의 적용",
+      "inventionTitleEng": "INDUCIBLE DNA BINDING PROTEINS AND GENOME  PERTURBATION TOOLS AND APPLICATIONS THEREOF",
+      "openDate": "2015.05.26",
+      "openNumber": "10-2015-0056539",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2018.07.20",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2023.05.08",
+      "publicationNumber": "",
+      "registerDate": "2023.05.03",
+      "registerNumber": "10-2530118-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2015.02.25"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/63"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/62"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/90"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 일반적으로 유도 전사 효과기를 사용할 수 있는 유전자 발현의 공간적이고 시간적인 제어에 사용되는 방법 및 조성물에 관한 것이다. 본 발명은 특히 세포에서의 관심 게놈 유전자좌의 발현을 변형하거나 교란하는 유도 방법에 관한 것이며, 이때 상기 게놈 유전자좌는 데옥시리보핵산 (DNA) 결합 폴리펩티드를 포함하는 비-자연발생적 또는 조작된 조성물과 접촉될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020157004939",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20150225",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 61,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "TALE 또는 CRISPR-Cas 시스템의 활성이 스위치에 대한 하나 이상의 유도물질 에너지원과의 접촉에 의해 제어되는, 하나 이상의 스위치를 포함하는 비-자연 발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, TALE 또는 CRISPR-Cas 시스템의 하나 이상의 스위치 또는 활성에 관한 제어가 활성화되고, 증진되고, 종료되거나 억제되는 시스템.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 또는 제 2 항에 있어서, 하나 이상의 유도물질 에너지원과의 접촉이 제 1 효과 및 제 2 효과를 초래하는 시스템.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 3 항에 있어서, 제 1 효과가 핵 이입, 핵 이출, 2 차 성분 (예컨대 효과기 분자) 의 영입, 형태적 변화 (단백질, DNA 또는 RNA 의), 절단, 카고 (cargo) (예컨대 갇혀있는 분자 또는 보조-인자) 의 배출, 결합 또는 해리 중 하나 이상인 시스템.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 3 항에 있어서, 제 2 효과가 TALE 또는 CRISPR-Cas 시스템의 하나 이상의 스위치 또는 활성에 관한 제어의 활성화, 증진, 종료 또는 억제 중 하나 이상인 시스템.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 3 항 내지 제 5 항 중 어느 한 항에 있어서, 제 1 효과 및 제 2 효과가 캐스케이드로 발생하는 시스템.",
+          "refers_to": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 6 항 중 어느 한 항에 있어서, TALE 또는 CRISPR-Cas 시스템이 하나 이상의 핵 국부화 신호 (NLS), 핵 이출 신호 (NES), 기능적 도메인, 유연성 링커, 돌연변이, 결실, 변형 또는 절두를 추가로 포함하는 시스템.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 7 항에 있어서, NLS, NES 또는 기능적 도메인 중 하나 이상이 조건적으로 활성화되거나 불활성화되는 시스템.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 7 항에 있어서, 돌연변이가 전사 인자 상동 부위에서의 돌연변이, DNA 결합 도메인에서의 돌연변이 (예컨대 염기성 헬릭스 루프 헬릭스의 염기성 잔기 돌연변이화), 내인성 NLS 에서의 돌연변이 또는 내인성 NES 에서의 돌연변이 중 하나 이상인 시스템.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 9 항 중 어느 한 항에 있어서, 유도물질 에너지원이 열, 초음파, 전자기 에너지 및 화학 물질인 시스템.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 10 항 중 어느 한 항에 있어서, 유도물질 에너지원이 항생제, 소분자, 호르몬, 호르몬 유도체, 스테로이드 또는 스테로이드 유도체인 시스템.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 11 항 중 어느 한 항에 있어서, 유도물질 에너지원이 아브시스산 (ABA), 독시사이클린 (DOX), 큐메이트, 라파마이신, 4-히드록시타목시펜 (4OHT), 에스트로겐 또는 엑디손인 시스템.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 12 항 중 어느 한 항에 있어서, 하나 이상의 스위치가 항생제 기반 유도 시스템, 전자기 에너지 기반 유도 시스템, 소분자 기반 유도 시스템, 핵 수용체 기반 유도 시스템 및 호르몬 기반 유도 시스템으로 이루어지는 군에서 선택되는 시스템.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 13 항 중 어느 한 항에 있어서, 하나 이상의 스위치가 테트라사이클린 (Tet)/DOX 유도 시스템, 광 유도 시스템, ABA 유도 시스템, 큐메이트 억제제/오퍼레이터 시스템, 4OHT/에스트로겐 유도 시스템, 엑디손-기반 유도 시스템 및 FKBP12/FRAP (FKBP12-라파마이신 복합체) 유도 시스템으로 이루어지는 군에서 선택되는 시스템.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 10 항에 있어서, 유도물질 에너지원이 전자기 에너지인 시스템.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 15 항에 있어서, 전자기 에너지가 가시광의 성분인 시스템.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 16 항에 있어서, 가시광의 성분이 450nm-700nm 범위의 파장을 갖는 시스템.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 17 항에 있어서, 가시광의 성분이 450nm-500nm 범위의 파장을 갖는 시스템.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 18 항에 있어서, 가시광의 성분이 청색광인 시스템.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 19 항에 있어서, 청색광이 0.2mW/cm2 이상의 강도를 갖는 시스템.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 19 항에 있어서, 청색광이 4mW/cm2 이상의 강도를 갖는 시스템.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 17 항에 있어서, 가시광의 성분이 620-700nm 범위의 파장을 갖는 시스템.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 22 항에 있어서, 가시광의 성분이 적색광인 시스템.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 7 항에 있어서, 하나 이상의 기능적 도메인이 하기로 이루어지는 군에서 선택되는 시스템:\n트랜스포사아제 도메인, 인테그라아제 도메인, 재조합효소 도메인, 리졸바아제 도메인, 인버타아제 도메인, 프로테아제 도메인, DNA 메틸트랜스퍼라아제 도메인, DNA 히드록실메틸라아제 도메인, DNA 데메틸라아제 도메인, 히스톤 아세틸라아제 도메인, 히스톤 데아세틸라아제 도메인, 뉴클레아제 도메인, 억제제 도메인, 활성제 도메인, 핵-국부화 신호 도메인, 전사-조절 단백질 (또는 전사 복합체 영입) 도메인, 세포 흡수 활성 관련 도메인, 핵산 결합 도메인, 항체 제시 도메인, 히스톤 개질 효소, 히스톤 개질 효소의 영입제; 히스톤 개질 효소의 저해제, 히스톤 메틸트랜스퍼라아제, 히스톤 데메틸라아제, 히스톤 키나아제, 히스톤 포스파타아제, 히스톤 리보실라아제, 히스톤 데리보실라아제, 히스톤 유비퀴티나아제, 히스톤 데유비퀴티나아제, 히스톤 비오티나아제 및 히스톤 테일 프로테아제.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "관심 게놈 또는 비유전적 유전자좌를 교란하기 위한 제 1 항 내지 제 24 항 중 어느 한 항에 따른 시스템의 용도.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약학 화합물의 제조를 위한 제 1 항 내지 제 24 항 중 어느 한 항에 따른 시스템의 용도.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "TALE 또는 CRISPR-Cas 시스템의 활성이 스위치에 대한 하나 이상의 유도물질 에너지원과의 접촉에 의해 제어되는, 하나 이상의 스위치를 포함하는 TALE 또는 CRISPR-Cas 시스템을 제공하는 것을 포함하는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 27 항에 있어서, TALE 또는 CRISPR-Cas 시스템의 하나 이상의 스위치 또는 활성에 관한 제어가 활성화되고, 증진되고, 완료되거나 억제되는 방법.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 27 항 또는 제 28 항에 있어서, 하나 이상의 유도물질 에너지원과의 접촉이 제 1 효과 및 제 2 효과를 초래하는 방법.",
+          "refers_to": [
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 29 항에 있어서, 제 1 효과가 핵 이입, 핵 이출, 2 차 성분 (예컨대 효과기 분자) 의 영입, 형태적 변화 (단백질, DNA 또는 RNA 의), 절단, 카고 (예컨대 갇혀있는 분자 또는 보조-인자) 의 배출, 결합 또는 해리 중 하나 이상인 방법.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 29 항에 있어서, 제 2 효과가 TALE 또는 CRISPR-Cas 시스템의 하나 이상의 스위치 또는 활성에 관한 제어의 활성화, 증진, 종료 또는 억제 중 하나 이상인 방법.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 29 항 내지 제 31 항 중 어느 한 항에 있어서, 제 1 효과 및 제 2 효과가 캐스케이드로 발생하는 방법.",
+          "refers_to": [
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 27 항 내지 제 32 항 중 어느 한 항에 있어서, TALE 또는 CRISPR-Cas 시스템이 하나 이상의 핵 국부화 신호 (NLS), 핵 이출 신호 (NES), 기능적 도메인, 유연성 링커, 돌연변이, 결실, 변형 또는 절두를 추가로 포함하는 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 33 항에 있어서, NLS, NES 또는 기능적 도메인 중 하나 이상이 조건적으로 활성화되거나 불활성화되는 방법.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 33 항에 있어서, 돌연변이가 전사 인자 상동 부위에서의 돌연변이, DNA 결합 도메인에서의 돌연변이 (예컨대 염기성 헬릭스 루프 헬릭스의 염기성 잔기 돌연변이화), 내인성 NLS 에서의 돌연변이 또는 내인성 NES 에서의 돌연변이 중 하나 이상인 방법.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 27 항 내지 제 35 항 중 어느 한 항에 있어서, 유도물질 에너지원이 열, 초음파, 전자기 에너지 또는 화학 물질인 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 27 항 내지 제 36 항 중 어느 한 항에 있어서, 유도물질 에너지원이 항생제, 소분자, 호르몬, 호르몬 유도체, 스테로이드 또는 스테로이드 유도체인 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 27 항 내지 제 37 항 중 어느 한 항에 있어서, 유도물질 에너지원이 아브시스산 (ABA), 독시사이클린 (DOX), 큐메이트, 라파마이신, 4-히드록시타목시펜 (4OHT), 에스트로겐 또는 엑디손인 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 27 항 내지 제 38 항 중 어느 한 항에 있어서, 하나 이상의 스위치가 항생제 기반 유도 시스템, 전자기 에너지 기반 유도 시스템, 소분자 기반 유도 시스템, 핵 수용체 기반 유도 시스템 및 호르몬 기반 유도 시스템으로 이루어지는 군에서 선택되는 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 27 항 내지 제 39 항 중 어느 한 항에 있어서, 하나 이상의 스위치가 테트라사이클린 (Tet)/DOX 유도 시스템, 광 유도 시스템, ABA 유도 시스템, 큐메이트 억제제/오퍼레이터 시스템, 4OHT/에스트로겐 유도 시스템, 엑디손-기반 유도 시스템 및 FKBP12/FRAP (FKBP12-라파마이신 복합체) 유도 시스템으로 이루어지는 군에서 선택되는 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 36 항에 있어서, 유도물질 에너지원이 전자기 에너지인 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 41 항에 있어서, 전자기 에너지가 가시광의 성분인 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 42 항에 있어서, 가시광의 성분이 450nm-700nm 범위의 파장을 갖는 방법.",
+          "refers_to": [
+            42
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 43 항에 있어서, 가시광의 성분이 450nm-500nm 범위의 파장을 갖는 방법.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 44 항에 있어서, 가시광의 성분이 청색광인 방법.",
+          "refers_to": [
+            44
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 45 항에 있어서, 청색광이 0.2mW/cm2 이상의 강도를 갖는 방법.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 45 항에 있어서, 청색광이 4mW/cm2 이상의 강도를 갖는 방법.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 43 항에 있어서, 가시광의 성분이 620-700nm 범위의 파장을 갖는 방법.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 48 항에 있어서, 가시광의 성분이 적색광인 방법.",
+          "refers_to": [
+            48
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 33 항에 있어서, 하나 이상의 기능적 도메인이 하기로 이루어지는 군에서 선택되는 방법:\n트랜스포사아제 도메인, 인테그라아제 도메인, 재조합효소 도메인, 리졸바아제 도메인, 인버타아제 도메인, 프로테아제 도메인, DNA 메틸트랜스퍼라아제 도메인, DNA 히드록실메틸라아제 도메인, DNA 데메틸라아제 도메인, 히스톤 아세틸라아제 도메인, 히스톤 데아세틸라아제 도메인, 뉴클레아제 도메인, 억제제 도메인, 활성제 도메인, 핵-국부화 신호 도메인, 전사-조절 단백질 (또는 전사 복합체 영입) 도메인, 세포 흡수 활성 관련 도메인, 핵산 결합 도메인, 항체 제시 도메인, 히스톤 개질 효소, 히스톤 개질 효소의 영입제; 히스톤 개질 효소의 저해제, 히스톤 메틸트랜스퍼라아제, 히스톤 데메틸라아제, 히스톤 키나아제, 히스톤 포스파타아제, 히스톤 리보실라아제, 히스톤 데리보실라아제, 히스톤 유비퀴티나아제, 히스톤 데유비퀴티나아제, 히스톤 비오티나아제 및 히스톤 테일 프로테아제.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 50 항 중 어느 한 항에 있어서, TALE 시스템이 하기를 포함하는 DNA 결합 폴리펩티드를 포함하는 시스템 또는 방법:\n(i) 에너지 민감성 단백질 또는 이의 단편에 연결된 적어도 하나 이상의 효과기 도메인 또는 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 5 개 이상의 전사 활성제-유사 효과기 (TALE) 단량체 및 적어도 하나 이상의 반-단량체를 포함하는 DNA 결합 도메인 (이때 상기 에너지 민감성 단백질 또는 이의 단편은 유도물질 에너지원에 의한 유도시 형태적 변화를 거쳐, 상호작용 파트너와 결합할 수 있음), 및/또는 \n(ii) 상호작용 파트너에 연결된 적어도 하나 이상의 효과기 도메인 또는 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 하나 이상의 TALE 단량체 또는 반-단량체를 포함하는 DNA 결합 도메인 (이때 상기 에너지 민감성 단백질 또는 이의 단편은 유도물질 에너지원에 의한 유도시 상호작용 파트너에 결합함).",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 51 항에 있어서, DNA 결합 폴리펩티드가 하기를 포함하는 시스템 또는 방법으로서:\n(a) N-말단 캡핑 부위 \n(b) 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 5 내지 40 개의 전사 활성제-유사 효과기 (TALE) 단량체 및 적어도 하나 이상의 반-단량체를 포함하는 DNA 결합 도메인, 및 \n(c) C-말단 캡핑 부위,\n이때 (a), (b) 및 (c) 가 사전결정된 N-말단에서 C-말단의 배향으로 배열되고,\n게놈 유전자좌가 표적 DNA 서열 5'-T0N1N2....Nz Nz+1-3' (여기서 T0 및 N = A, G, T 또는 C 임) 을 포함하고, \n상기 표적 DNA 서열이 DNA 결합 도메인에 결합하고, DNA 결합 도메인이 (X1-11-X12X13-X14-33 또는 34 또는 35)z (여기서 X1-11 은 11 개의 인접한 아미노산 사슬이고, X12X13 은 반복 가변 이중잔기 (RVD) 이고, X14-33 또는 34 또는 35 는 21, 22 또는 23 개의 인접한 아미노산 사슬이고, z 는 적어도 5 내지 40 임) 를 포함하고,\n상기 폴리펩티드가 코돈 최적화된 핵산 분자에 의해 인코딩되고 이로부터 번역되어 폴리펩티드가 바람직하게는 관심 유전자좌의 DNA 에 결합하는, 시스템 또는 방법.",
+          "refers_to": [
+            51
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 52 항에 있어서:\nN-말단 캡핑 부위 또는 이의 단편이 야생형 N-말단 캡핑 부위의 147 개의 인접한 아미노산을 포함하거나,\nC-말단 캡핑 부위 또는 이의 단편이 야생형 C-말단 캡핑 부위의 68 개의 인접한 아미노산을 포함하거나,\nN-말단 캡핑 부위 또는 이의 단편이 야생형 N-말단 캡핑 부위의 136 개의 인접한 아미노산을 포함하고 C-말단 캡핑 부위 또는 이의 단편이 야생형 C-말단 캡핑 부위의 183 개의 인접한 아미노산을 포함하는 시스템 또는 방법.",
+          "refers_to": [
+            52
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 52 항에 있어서, 하나 이상의 RVD 가 (a) 구아닌 (G) 의 인지를 위한 HH, KH, NH, NK, NQ, RH, RN, SS, NN, SN, KN; (b) 아데닌 (A) 의 인지를 위한 NI, KI, RI, HI, SI; (c) 티민 (T) 의 인지를 위한 NG, HG, KG, RG; (d) 시토신 (C) 의 인지를 위한 RD, SD, HD, ND, KD, YG; (e) A 또는 G 의 인지를 위한 NV, HN; 및 (f) A 또는 T 또는 G 또는 C 의 인지를 위한 H*, HA, KA, N*, NA, NC, NS, RA, S* (여기서 (*) 는 X13 에서의 아미노산이 부재함을 의미함) 로 이루어지는 군에서 선택되는 시스템 또는 방법.",
+          "refers_to": [
+            52
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 54 항에 있어서, 하나 이상의 RVD 가 (a) 구아닌 (G) 의 인지를 위한 HH, KH, NH, NK, NQ, RH, RN, SS; (b) 아데닌 (A) 의 인지를 위한 SI; (c) 티민 (T) 의 인지를 위한 HG, KG, RG; (d) 시토신 (C) 의 인지를 위한 RD, SD; (e) A 또는 G 의 인지를 위한 NV, HN 및 (f) A 또는 T 또는 G 또는 C 의 인지를 위한 H*, HA, KA, N*, NA, NC, NS, RA, S* (여기서 (*) 는 X13 에서의 아미노산이 부재함을 의미함) 로 이루어지는 군에서 선택되는 시스템 또는 방법.",
+          "refers_to": [
+            54
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 55 항에 있어서:\nG 의 인지를 위한 RVD 가 RN, NH, RH 또는 KH 이거나; \nA 의 인지를 위한 RVD 가 SI 이거나; \nT 의 인지를 위한 RVD 가 KG 또는 RG 이고; \nC 의 인지를 위한 RVD 가 SD 또는 RD 인 시스템 또는 방법.",
+          "refers_to": [
+            55
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 52 항에 있어서, 하기 중 하나 이상이 존재하는 시스템 또는 방법: \nX1-4 에서의 [LTLD] 또는 [LTLA] 또는 [LTQV], 또는 \n위치 X30-33 또는 X31-34 또는 X32-35 에서의 [EQHG] 또는 [RDHG].",
+          "refers_to": [
+            52
+          ]
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 51 항 내지 제 57 항 중 어느 한 항에 있어서, TALE 시스템이 AAV 또는 렌티바이러스 벡터 내로 패키징되는 시스템 또는 방법.",
+          "refers_to": [
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57
+          ]
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 50 항 중 어느 한 항에 있어서, CRISPR 시스템이 하기를 포함하는 벡터 시스템을 포함하는 시스템 또는 방법으로서:\na) 관심 유전자좌를 표적화하는 CRISPR-Cas 시스템 안내 RNA 에 작동가능하게 연결된 제 1 조절 요소, \nb) Cas 단백질에 작동가능하게 연결된 제 2 조절 유도 요소, \n이때 성분 (a) 및 (b) 가 시스템의 동일하거나 상이한 벡터 상에 위치하고, 안내 RNA 가 관심 유전자좌의 DNA 를 표적화하고, Cas 단백질 및 안내 RNA 가 함께 자연적으로 발생하지 않는, 시스템 또는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 59 항에 있어서, Cas 단백질이 Cas9 효소인 시스템 또는 방법.",
+          "refers_to": [
+            59
+          ]
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 59 항 또는 제 60 항에 있어서, 벡터가 AAV 또는 렌티바이러스인 시스템 또는 방법.",
+          "refers_to": [
+            59,
+            60
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20200508",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 72,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기를 포함하는, 군집화된 규칙적 공간화 단길이 회귀성 반복물(CRISPR)-Cas 복합체로서:- Cas9, 여기에서 Cas9 은 둘 이상의 핵 국부화 신호를 갖고; - tracr mate 서열에 연결된 안내 서열, 및- tracr mate 서열의 전부 또는 일부와 하이브리드화 가능한 tracr 서열;여기에서, 안내 서열은 진핵세포에서의 표적 서열과 상보성을 갖도록 설계되고, 진핵세포에서의 표적 서열에 대한 CRISPR 복합체의 서열-특이적 결합을 유도할 수 있는 CRISPR-Cas 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기를 포함하는, 군집화된 규칙적 공간화 단길이 회귀성 반복물(CRISPR)-Cas 벡터 시스템으로서:a) (1) tracr mate 서열에 연결된 안내 서열 및 (2) tracr mate 서열의 전부 또는 일부와 하이브리드화 가능한 tracr 서열;을 인코딩하는 하나 이상의 서열에 작동가능하게 연결된 제 1 조절 요소;b) Cas9 을 인코딩하는 서열에 작동가능하게 연결된 제 2 조절 요소, 여기에서 Cas9 은 둘 이상의 핵 국부화 신호를 갖고;이때, 성분 a) 및 b) 는 시스템의 동일하거나 상이한 벡터 상에 위치하고, 안내 서열은 진핵세포에서의 표적 서열과 상보성을 갖도록 설계되는 CRISPR-Cas 벡터 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항에 있어서, Cas9 를 인코딩하는 서열이 진핵세포에서의 발현을 위해 최적화된 코돈인 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항에 있어서, 둘 이상의 안내 서열을 포함하는 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항에 있어서, 상기 동일하거나 상이한 벡터는 하나 이상의 바이러스 벡터인 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 5 항에 있어서, 상기 하나 이상의 바이러스 벡터는 하나 이상의 레트로바이러스, 아데노바이러스, 아데노-연관 알파바이러스 또는 단순포진 바이러스 벡터인 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 6 항에 있어서, 상기 레트로바이러스는 렌티바이러스인 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 6 항에 있어서, 상기 알파바이러스는 신드비스 바이러스 (Sindbis virus), 셈리키 삼림 바이러스 (Semliki Forest virus) 또는 베네수엘라 말 뇌염 바이러스 (Venezuelan equine encephalitis virus) 인 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항에 있어서, 성분 a) 및 b) 는 동일한 벡터 상에 위치한 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, tracr mate 서열은 tracr 서열에 연결되어 키메라 RNA (chiRNA) 를 형성하는 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 은 표적 서열을 함유하는 표적 폴리뉴클레오티드의 둘 모두의 가닥의 절단을 유도하는 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 S. 피오게네스 Cas9 의 위치 번호와 관련된 D10A, H840A, N854A 및 N863A 로 이루어진 군으로부터 선택되는 돌연변이를 포함하는 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 아미노-말단에서 하나 이상의 핵 국부화 신호, 및 카르복시-말단에서 하나 이상의 핵 국부화 신호를 포함하는 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 S. 피오게네스 Cas9 인 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 S. 써모필루스 Cas9 인 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, 치료에 사용되는 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, 게놈 조작에 사용되는 CRISPR-Cas 벡터 시스템으로서, 상기 사용이 치료에 의한 동물 또는 인간 신체의 처치 방법이 아니고, 상기 사용이 인간의 생식-계열 유전적 동일성을 변형시키는 과정이 아닌 CRISPR-Cas 벡터 시스템.",
+          "refers_to": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, tracr mate 서열은 tracr 서열에 연결되어 키메라 RNA (chiRNA) 를 형성하는 CRISPR-Cas 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, Cas9 은 표적 서열을 함유하는 표적 폴리뉴클레오티드의 둘 모두의 가닥의 절단을 유도하는 CRISPR-Cas 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항, 제 18 항 및 제 19 항 중 어느 한 항에 있어서, Cas9 는 S. 피오게네스 Cas9 의 위치 번호와 관련된 D10A, H840A, N854A 및 N863A 로 이루어진 군으로부터 선택되는 돌연변이를 포함하는 CRISPR-Cas 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항, 제 18 항 및 제 19 항 중 어느 한 항에 있어서, Cas9 는 아미노-말단에서 하나 이상의 핵 국부화 신호, 및 카르복시-말단에서 하나 이상의 핵 국부화 신호를 포함하는 CRISPR-Cas 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항, 제 18 항 및 제 19 항 중 어느 한 항에 있어서, Cas9 는 S. 피오게네스 Cas9 인 CRISPR-Cas 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항, 제 18 항 및 제 19 항 중 어느 한 항에 있어서, Cas9 는 S. 써모필루스 Cas9 인 CRISPR-Cas 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항, 제 18 항 및 제 19 항 중 어느 한 항에 있어서, 치료에 사용되는 CRISPR-Cas 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20150225",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 61,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "TALE 또는 CRISPR-Cas 시스템의 활성이 스위치에 대한 하나 이상의 유도물질 에너지원과의 접촉에 의해 제어되는, 하나 이상의 스위치를 포함하는 비-자연 발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, TALE 또는 CRISPR-Cas 시스템의 하나 이상의 스위치 또는 활성에 관한 제어가 활성화되고, 증진되고, 종료되거나 억제되는 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 또는 제 2 항에 있어서, 하나 이상의 유도물질 에너지원과의 접촉이 제 1 효과 및 제 2 효과를 초래하는 시스템.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 3 항에 있어서, 제 1 효과가 핵 이입, 핵 이출, 2 차 성분 (예컨대 효과기 분자) 의 영입, 형태적 변화 (단백질, DNA 또는 RNA 의), 절단, 카고 (cargo) (예컨대 갇혀있는 분자 또는 보조-인자) 의 배출, 결합 또는 해리 중 하나 이상인 시스템.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 3 항에 있어서, 제 2 효과가 TALE 또는 CRISPR-Cas 시스템의 하나 이상의 스위치 또는 활성에 관한 제어의 활성화, 증진, 종료 또는 억제 중 하나 이상인 시스템.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 3 항 내지 제 5 항 중 어느 한 항에 있어서, 제 1 효과 및 제 2 효과가 캐스케이드로 발생하는 시스템.",
+            "refers_to": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 6 항 중 어느 한 항에 있어서, TALE 또는 CRISPR-Cas 시스템이 하나 이상의 핵 국부화 신호 (NLS), 핵 이출 신호 (NES), 기능적 도메인, 유연성 링커, 돌연변이, 결실, 변형 또는 절두를 추가로 포함하는 시스템.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7 항에 있어서, NLS, NES 또는 기능적 도메인 중 하나 이상이 조건적으로 활성화되거나 불활성화되는 시스템.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7 항에 있어서, 돌연변이가 전사 인자 상동 부위에서의 돌연변이, DNA 결합 도메인에서의 돌연변이 (예컨대 염기성 헬릭스 루프 헬릭스의 염기성 잔기 돌연변이화), 내인성 NLS 에서의 돌연변이 또는 내인성 NES 에서의 돌연변이 중 하나 이상인 시스템.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 9 항 중 어느 한 항에 있어서, 유도물질 에너지원이 열, 초음파, 전자기 에너지 및 화학 물질인 시스템.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 10 항 중 어느 한 항에 있어서, 유도물질 에너지원이 항생제, 소분자, 호르몬, 호르몬 유도체, 스테로이드 또는 스테로이드 유도체인 시스템.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 11 항 중 어느 한 항에 있어서, 유도물질 에너지원이 아브시스산 (ABA), 독시사이클린 (DOX), 큐메이트, 라파마이신, 4-히드록시타목시펜 (4OHT), 에스트로겐 또는 엑디손인 시스템.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 12 항 중 어느 한 항에 있어서, 하나 이상의 스위치가 항생제 기반 유도 시스템, 전자기 에너지 기반 유도 시스템, 소분자 기반 유도 시스템, 핵 수용체 기반 유도 시스템 및 호르몬 기반 유도 시스템으로 이루어지는 군에서 선택되는 시스템.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 13 항 중 어느 한 항에 있어서, 하나 이상의 스위치가 테트라사이클린 (Tet)/DOX 유도 시스템, 광 유도 시스템, ABA 유도 시스템, 큐메이트 억제제/오퍼레이터 시스템, 4OHT/에스트로겐 유도 시스템, 엑디손-기반 유도 시스템 및 FKBP12/FRAP (FKBP12-라파마이신 복합체) 유도 시스템으로 이루어지는 군에서 선택되는 시스템.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 10 항에 있어서, 유도물질 에너지원이 전자기 에너지인 시스템.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 15 항에 있어서, 전자기 에너지가 가시광의 성분인 시스템.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 16 항에 있어서, 가시광의 성분이 450nm-700nm 범위의 파장을 갖는 시스템.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 17 항에 있어서, 가시광의 성분이 450nm-500nm 범위의 파장을 갖는 시스템.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 18 항에 있어서, 가시광의 성분이 청색광인 시스템.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 19 항에 있어서, 청색광이 0.2mW/cm2 이상의 강도를 갖는 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 19 항에 있어서, 청색광이 4mW/cm2 이상의 강도를 갖는 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 17 항에 있어서, 가시광의 성분이 620-700nm 범위의 파장을 갖는 시스템.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 22 항에 있어서, 가시광의 성분이 적색광인 시스템.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7 항에 있어서, 하나 이상의 기능적 도메인이 하기로 이루어지는 군에서 선택되는 시스템:\n트랜스포사아제 도메인, 인테그라아제 도메인, 재조합효소 도메인, 리졸바아제 도메인, 인버타아제 도메인, 프로테아제 도메인, DNA 메틸트랜스퍼라아제 도메인, DNA 히드록실메틸라아제 도메인, DNA 데메틸라아제 도메인, 히스톤 아세틸라아제 도메인, 히스톤 데아세틸라아제 도메인, 뉴클레아제 도메인, 억제제 도메인, 활성제 도메인, 핵-국부화 신호 도메인, 전사-조절 단백질 (또는 전사 복합체 영입) 도메인, 세포 흡수 활성 관련 도메인, 핵산 결합 도메인, 항체 제시 도메인, 히스톤 개질 효소, 히스톤 개질 효소의 영입제; 히스톤 개질 효소의 저해제, 히스톤 메틸트랜스퍼라아제, 히스톤 데메틸라아제, 히스톤 키나아제, 히스톤 포스파타아제, 히스톤 리보실라아제, 히스톤 데리보실라아제, 히스톤 유비퀴티나아제, 히스톤 데유비퀴티나아제, 히스톤 비오티나아제 및 히스톤 테일 프로테아제.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "관심 게놈 또는 비유전적 유전자좌를 교란하기 위한 제 1 항 내지 제 24 항 중 어느 한 항에 따른 시스템의 용도.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약학 화합물의 제조를 위한 제 1 항 내지 제 24 항 중 어느 한 항에 따른 시스템의 용도.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "TALE 또는 CRISPR-Cas 시스템의 활성이 스위치에 대한 하나 이상의 유도물질 에너지원과의 접촉에 의해 제어되는, 하나 이상의 스위치를 포함하는 TALE 또는 CRISPR-Cas 시스템을 제공하는 것을 포함하는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 27 항에 있어서, TALE 또는 CRISPR-Cas 시스템의 하나 이상의 스위치 또는 활성에 관한 제어가 활성화되고, 증진되고, 완료되거나 억제되는 방법.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 27 항 또는 제 28 항에 있어서, 하나 이상의 유도물질 에너지원과의 접촉이 제 1 효과 및 제 2 효과를 초래하는 방법.",
+            "refers_to": [
+              27,
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 29 항에 있어서, 제 1 효과가 핵 이입, 핵 이출, 2 차 성분 (예컨대 효과기 분자) 의 영입, 형태적 변화 (단백질, DNA 또는 RNA 의), 절단, 카고 (예컨대 갇혀있는 분자 또는 보조-인자) 의 배출, 결합 또는 해리 중 하나 이상인 방법.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 29 항에 있어서, 제 2 효과가 TALE 또는 CRISPR-Cas 시스템의 하나 이상의 스위치 또는 활성에 관한 제어의 활성화, 증진, 종료 또는 억제 중 하나 이상인 방법.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 29 항 내지 제 31 항 중 어느 한 항에 있어서, 제 1 효과 및 제 2 효과가 캐스케이드로 발생하는 방법.",
+            "refers_to": [
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 27 항 내지 제 32 항 중 어느 한 항에 있어서, TALE 또는 CRISPR-Cas 시스템이 하나 이상의 핵 국부화 신호 (NLS), 핵 이출 신호 (NES), 기능적 도메인, 유연성 링커, 돌연변이, 결실, 변형 또는 절두를 추가로 포함하는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 33 항에 있어서, NLS, NES 또는 기능적 도메인 중 하나 이상이 조건적으로 활성화되거나 불활성화되는 방법.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 33 항에 있어서, 돌연변이가 전사 인자 상동 부위에서의 돌연변이, DNA 결합 도메인에서의 돌연변이 (예컨대 염기성 헬릭스 루프 헬릭스의 염기성 잔기 돌연변이화), 내인성 NLS 에서의 돌연변이 또는 내인성 NES 에서의 돌연변이 중 하나 이상인 방법.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 27 항 내지 제 35 항 중 어느 한 항에 있어서, 유도물질 에너지원이 열, 초음파, 전자기 에너지 또는 화학 물질인 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 27 항 내지 제 36 항 중 어느 한 항에 있어서, 유도물질 에너지원이 항생제, 소분자, 호르몬, 호르몬 유도체, 스테로이드 또는 스테로이드 유도체인 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 27 항 내지 제 37 항 중 어느 한 항에 있어서, 유도물질 에너지원이 아브시스산 (ABA), 독시사이클린 (DOX), 큐메이트, 라파마이신, 4-히드록시타목시펜 (4OHT), 에스트로겐 또는 엑디손인 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 27 항 내지 제 38 항 중 어느 한 항에 있어서, 하나 이상의 스위치가 항생제 기반 유도 시스템, 전자기 에너지 기반 유도 시스템, 소분자 기반 유도 시스템, 핵 수용체 기반 유도 시스템 및 호르몬 기반 유도 시스템으로 이루어지는 군에서 선택되는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 27 항 내지 제 39 항 중 어느 한 항에 있어서, 하나 이상의 스위치가 테트라사이클린 (Tet)/DOX 유도 시스템, 광 유도 시스템, ABA 유도 시스템, 큐메이트 억제제/오퍼레이터 시스템, 4OHT/에스트로겐 유도 시스템, 엑디손-기반 유도 시스템 및 FKBP12/FRAP (FKBP12-라파마이신 복합체) 유도 시스템으로 이루어지는 군에서 선택되는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 36 항에 있어서, 유도물질 에너지원이 전자기 에너지인 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 41 항에 있어서, 전자기 에너지가 가시광의 성분인 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 42 항에 있어서, 가시광의 성분이 450nm-700nm 범위의 파장을 갖는 방법.",
+            "refers_to": [
+              42
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 43 항에 있어서, 가시광의 성분이 450nm-500nm 범위의 파장을 갖는 방법.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 44 항에 있어서, 가시광의 성분이 청색광인 방법.",
+            "refers_to": [
+              44
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 45 항에 있어서, 청색광이 0.2mW/cm2 이상의 강도를 갖는 방법.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 45 항에 있어서, 청색광이 4mW/cm2 이상의 강도를 갖는 방법.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 43 항에 있어서, 가시광의 성분이 620-700nm 범위의 파장을 갖는 방법.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 48 항에 있어서, 가시광의 성분이 적색광인 방법.",
+            "refers_to": [
+              48
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 33 항에 있어서, 하나 이상의 기능적 도메인이 하기로 이루어지는 군에서 선택되는 방법:\n트랜스포사아제 도메인, 인테그라아제 도메인, 재조합효소 도메인, 리졸바아제 도메인, 인버타아제 도메인, 프로테아제 도메인, DNA 메틸트랜스퍼라아제 도메인, DNA 히드록실메틸라아제 도메인, DNA 데메틸라아제 도메인, 히스톤 아세틸라아제 도메인, 히스톤 데아세틸라아제 도메인, 뉴클레아제 도메인, 억제제 도메인, 활성제 도메인, 핵-국부화 신호 도메인, 전사-조절 단백질 (또는 전사 복합체 영입) 도메인, 세포 흡수 활성 관련 도메인, 핵산 결합 도메인, 항체 제시 도메인, 히스톤 개질 효소, 히스톤 개질 효소의 영입제; 히스톤 개질 효소의 저해제, 히스톤 메틸트랜스퍼라아제, 히스톤 데메틸라아제, 히스톤 키나아제, 히스톤 포스파타아제, 히스톤 리보실라아제, 히스톤 데리보실라아제, 히스톤 유비퀴티나아제, 히스톤 데유비퀴티나아제, 히스톤 비오티나아제 및 히스톤 테일 프로테아제.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 50 항 중 어느 한 항에 있어서, TALE 시스템이 하기를 포함하는 DNA 결합 폴리펩티드를 포함하는 시스템 또는 방법:\n(i) 에너지 민감성 단백질 또는 이의 단편에 연결된 적어도 하나 이상의 효과기 도메인 또는 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 5 개 이상의 전사 활성제-유사 효과기 (TALE) 단량체 및 적어도 하나 이상의 반-단량체를 포함하는 DNA 결합 도메인 (이때 상기 에너지 민감성 단백질 또는 이의 단편은 유도물질 에너지원에 의한 유도시 형태적 변화를 거쳐, 상호작용 파트너와 결합할 수 있음), 및/또는 \n(ii) 상호작용 파트너에 연결된 적어도 하나 이상의 효과기 도메인 또는 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 하나 이상의 TALE 단량체 또는 반-단량체를 포함하는 DNA 결합 도메인 (이때 상기 에너지 민감성 단백질 또는 이의 단편은 유도물질 에너지원에 의한 유도시 상호작용 파트너에 결합함).",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 51 항에 있어서, DNA 결합 폴리펩티드가 하기를 포함하는 시스템 또는 방법으로서:\n(a) N-말단 캡핑 부위 \n(b) 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 5 내지 40 개의 전사 활성제-유사 효과기 (TALE) 단량체 및 적어도 하나 이상의 반-단량체를 포함하는 DNA 결합 도메인, 및 \n(c) C-말단 캡핑 부위,\n이때 (a), (b) 및 (c) 가 사전결정된 N-말단에서 C-말단의 배향으로 배열되고,\n게놈 유전자좌가 표적 DNA 서열 5'-T0N1N2....Nz Nz+1-3' (여기서 T0 및 N = A, G, T 또는 C 임) 을 포함하고, \n상기 표적 DNA 서열이 DNA 결합 도메인에 결합하고, DNA 결합 도메인이 (X1-11-X12X13-X14-33 또는 34 또는 35)z (여기서 X1-11 은 11 개의 인접한 아미노산 사슬이고, X12X13 은 반복 가변 이중잔기 (RVD) 이고, X14-33 또는 34 또는 35 는 21, 22 또는 23 개의 인접한 아미노산 사슬이고, z 는 적어도 5 내지 40 임) 를 포함하고,\n상기 폴리펩티드가 코돈 최적화된 핵산 분자에 의해 인코딩되고 이로부터 번역되어 폴리펩티드가 바람직하게는 관심 유전자좌의 DNA 에 결합하는, 시스템 또는 방법.",
+            "refers_to": [
+              51
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 52 항에 있어서:\nN-말단 캡핑 부위 또는 이의 단편이 야생형 N-말단 캡핑 부위의 147 개의 인접한 아미노산을 포함하거나,\nC-말단 캡핑 부위 또는 이의 단편이 야생형 C-말단 캡핑 부위의 68 개의 인접한 아미노산을 포함하거나,\nN-말단 캡핑 부위 또는 이의 단편이 야생형 N-말단 캡핑 부위의 136 개의 인접한 아미노산을 포함하고 C-말단 캡핑 부위 또는 이의 단편이 야생형 C-말단 캡핑 부위의 183 개의 인접한 아미노산을 포함하는 시스템 또는 방법.",
+            "refers_to": [
+              52
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 52 항에 있어서, 하나 이상의 RVD 가 (a) 구아닌 (G) 의 인지를 위한 HH, KH, NH, NK, NQ, RH, RN, SS, NN, SN, KN; (b) 아데닌 (A) 의 인지를 위한 NI, KI, RI, HI, SI; (c) 티민 (T) 의 인지를 위한 NG, HG, KG, RG; (d) 시토신 (C) 의 인지를 위한 RD, SD, HD, ND, KD, YG; (e) A 또는 G 의 인지를 위한 NV, HN; 및 (f) A 또는 T 또는 G 또는 C 의 인지를 위한 H*, HA, KA, N*, NA, NC, NS, RA, S* (여기서 (*) 는 X13 에서의 아미노산이 부재함을 의미함) 로 이루어지는 군에서 선택되는 시스템 또는 방법.",
+            "refers_to": [
+              52
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 54 항에 있어서, 하나 이상의 RVD 가 (a) 구아닌 (G) 의 인지를 위한 HH, KH, NH, NK, NQ, RH, RN, SS; (b) 아데닌 (A) 의 인지를 위한 SI; (c) 티민 (T) 의 인지를 위한 HG, KG, RG; (d) 시토신 (C) 의 인지를 위한 RD, SD; (e) A 또는 G 의 인지를 위한 NV, HN 및 (f) A 또는 T 또는 G 또는 C 의 인지를 위한 H*, HA, KA, N*, NA, NC, NS, RA, S* (여기서 (*) 는 X13 에서의 아미노산이 부재함을 의미함) 로 이루어지는 군에서 선택되는 시스템 또는 방법.",
+            "refers_to": [
+              54
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 55 항에 있어서:\nG 의 인지를 위한 RVD 가 RN, NH, RH 또는 KH 이거나; \nA 의 인지를 위한 RVD 가 SI 이거나; \nT 의 인지를 위한 RVD 가 KG 또는 RG 이고; \nC 의 인지를 위한 RVD 가 SD 또는 RD 인 시스템 또는 방법.",
+            "refers_to": [
+              55
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 52 항에 있어서, 하기 중 하나 이상이 존재하는 시스템 또는 방법: \nX1-4 에서의 [LTLD] 또는 [LTLA] 또는 [LTQV], 또는 \n위치 X30-33 또는 X31-34 또는 X32-35 에서의 [EQHG] 또는 [RDHG].",
+            "refers_to": [
+              52
+            ]
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 51 항 내지 제 57 항 중 어느 한 항에 있어서, TALE 시스템이 AAV 또는 렌티바이러스 벡터 내로 패키징되는 시스템 또는 방법.",
+            "refers_to": [
+              51,
+              52,
+              53,
+              54,
+              55,
+              56,
+              57
+            ]
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 50 항 중 어느 한 항에 있어서, CRISPR 시스템이 하기를 포함하는 벡터 시스템을 포함하는 시스템 또는 방법으로서:\na) 관심 유전자좌를 표적화하는 CRISPR-Cas 시스템 안내 RNA 에 작동가능하게 연결된 제 1 조절 요소, \nb) Cas 단백질에 작동가능하게 연결된 제 2 조절 유도 요소, \n이때 성분 (a) 및 (b) 가 시스템의 동일하거나 상이한 벡터 상에 위치하고, 안내 RNA 가 관심 유전자좌의 DNA 를 표적화하고, Cas 단백질 및 안내 RNA 가 함께 자연적으로 발생하지 않는, 시스템 또는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50
+            ]
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 59 항에 있어서, Cas 단백질이 Cas9 효소인 시스템 또는 방법.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 59 항 또는 제 60 항에 있어서, 벡터가 AAV 또는 렌티바이러스인 시스템 또는 방법.",
+            "refers_to": [
+              59,
+              60
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20180720",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 57,
+        "claims": [
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, 하나 이상의 유도물질 에너지원과의 접촉이 제 1 효과 및 제 2 효과를 초래하는 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 3 항에 있어서, 제 1 효과가 핵 이입, 핵 이출, 2 차 성분 (효과기 분자) 의 영입, 형태적 변화 (단백질, DNA 또는 RNA 의), 절단, 카고 (cargo) (갇혀있는 분자 또는 보조-인자) 의 배출, 결합 또는 해리 중 하나 이상인 시스템.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 3 항에 있어서, 제 1 효과 및 제 2 효과가 캐스케이드로 발생하는 시스템.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, TALE 또는 CRISPR-Cas 시스템이 하나 이상의 핵 국부화 신호 (NLS), 핵 이출 신호 (NES), 기능적 도메인, 유연성 링커, 돌연변이, 결실, 변형 또는 절두를 추가로 포함하는 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 7 항에 있어서, 돌연변이가 전사 인자 상동 부위에서의 돌연변이, DNA 결합 도메인에서의 돌연변이 (염기성 헬릭스 루프 헬릭스의 염기성 잔기 돌연변이화), 내인성 NLS 에서의 돌연변이 또는 내인성 NES 에서의 돌연변이 중 하나 이상인 시스템.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, 유도물질 에너지원이 열, 초음파, 전자기 에너지 또는 화학 물질인 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, 유도물질 에너지원이 항생제, 소분자, 호르몬, 호르몬 유도체, 스테로이드 또는 스테로이드 유도체인 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, 유도물질 에너지원이 아브시스산 (ABA), 독시사이클린 (DOX), 큐메이트, 라파마이신, 4-히드록시타목시펜 (4OHT), 에스트로겐 또는 엑디손인 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, 하나 이상의 스위치가 항생제 기반 유도 시스템, 전자기 에너지 기반 유도 시스템, 소분자 기반 유도 시스템, 핵 수용체 기반 유도 시스템 및 호르몬 기반 유도 시스템으로 이루어지는 군에서 선택되는 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, 하나 이상의 스위치가 테트라사이클린 (Tet)/DOX 유도 시스템, 광 유도 시스템, ABA 유도 시스템, 큐메이트 억제제/오퍼레이터 시스템, 4OHT/에스트로겐 유도 시스템, 엑디손-기반 유도 시스템 및 FKBP12/FRAP (FKBP12-라파마이신 복합체) 유도 시스템으로 이루어지는 군에서 선택되는 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 24 항 중 어느 한 항에 있어서, 관심 게놈 또는 비유전적 유전자좌를 교란하기 위해 사용되는 시스템.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 24 항 중 어느 한 항에 있어서, 약학 화합물의 제조를 위해 사용되는 시스템.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 27 항에 있어서, TALE 또는 CRISPR-Cas 시스템의 하나 이상의 스위치 또는 활성에 관한 제어가 활성화되고, 증진되고, 완료되거나 억제되는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 27 항에 있어서, 하나 이상의 유도물질 에너지원과의 접촉이 제 1 효과 및 제 2 효과를 초래하는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 29 항에 있어서, 제 1 효과가 핵 이입, 핵 이출, 2 차 성분 (효과기 분자) 의 영입, 형태적 변화 (단백질, DNA 또는 RNA 의), 절단, 카고 (갇혀있는 분자 또는 보조-인자) 의 배출, 결합 또는 해리 중 하나 이상인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 29 항에 있어서, 제 2 효과가 TALE 또는 CRISPR-Cas 시스템의 하나 이상의 스위치 또는 활성에 관한 제어의 활성화, 증진, 종료 또는 억제 중 하나 이상인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 29 항에 있어서, 제 1 효과 및 제 2 효과가 캐스케이드로 발생하는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 27 항에 있어서, TALE 또는 CRISPR-Cas 시스템이 하나 이상의 핵 국부화 신호 (NLS), 핵 이출 신호 (NES), 기능적 도메인, 유연성 링커, 돌연변이, 결실, 변형 또는 절두를 추가로 포함하는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 33 항에 있어서, NLS, NES 또는 기능적 도메인 중 하나 이상이 조건적으로 활성화되거나 불활성화되는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 33 항에 있어서, 돌연변이가 전사 인자 상동 부위에서의 돌연변이, DNA 결합 도메인에서의 돌연변이 (염기성 헬릭스 루프 헬릭스의 염기성 잔기 돌연변이화), 내인성 NLS 에서의 돌연변이 또는 내인성 NES 에서의 돌연변이 중 하나 이상인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 27 항 내지 제 35 항 중 어느 한 항에 있어서, 유도물질 에너지원이 열, 초음파, 전자기 에너지 또는 화학 물질인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 27 항 내지 제 35 항 중 어느 한 항에 있어서, 유도물질 에너지원이 항생제, 소분자, 호르몬, 호르몬 유도체, 스테로이드 또는 스테로이드 유도체인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 27 항 내지 제 35 항 중 어느 한 항에 있어서, 유도물질 에너지원이 아브시스산 (ABA), 독시사이클린 (DOX), 큐메이트, 라파마이신, 4-히드록시타목시펜 (4OHT), 에스트로겐 또는 엑디손인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 27 항 내지 제 35 항 중 어느 한 항에 있어서, 하나 이상의 스위치가 항생제 기반 유도 시스템, 전자기 에너지 기반 유도 시스템, 소분자 기반 유도 시스템, 핵 수용체 기반 유도 시스템 및 호르몬 기반 유도 시스템으로 이루어지는 군에서 선택되는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 27 항 내지 제 35 항 중 어느 한 항에 있어서, 하나 이상의 스위치가 테트라사이클린 (Tet)/DOX 유도 시스템, 광 유도 시스템, ABA 유도 시스템, 큐메이트 억제제/오퍼레이터 시스템, 4OHT/에스트로겐 유도 시스템, 엑디손-기반 유도 시스템 및 FKBP12/FRAP (FKBP12-라파마이신 복합체) 유도 시스템으로 이루어지는 군에서 선택되는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항에 있어서, 유도물질 에너지원이 전자기 에너지인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 41 항에 있어서, 전자기 에너지가 가시광의 성분인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 42 항에 있어서, 가시광의 성분이 450nm-700nm 범위의 파장을 갖는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              42
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 43 항에 있어서, 가시광의 성분이 450nm-500nm 범위의 파장을 갖는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 44 항에 있어서, 가시광의 성분이 청색광인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              44
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 45 항에 있어서, 청색광이 0.2mW/cm2 이상의 강도를 갖는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 45 항에 있어서, 청색광이 4mW/cm2 이상의 강도를 갖는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 43 항에 있어서, 가시광의 성분이 620-700nm 범위의 파장을 갖는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 48 항에 있어서, 가시광의 성분이 적색광인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              48
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 33 항에 있어서, 하나 이상의 기능적 도메인이 하기로 이루어지는 군에서 선택되는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법:\n트랜스포사아제 도메인, 인테그라아제 도메인, 재조합효소 도메인, 리졸바아제 도메인, 인버타아제 도메인, 프로테아제 도메인, DNA 메틸트랜스퍼라아제 도메인, DNA 히드록실메틸라아제 도메인, DNA 데메틸라아제 도메인, 히스톤 아세틸라아제 도메인, 히스톤 데아세틸라아제 도메인, 뉴클레아제 도메인, 억제제 도메인, 활성제 도메인, 핵-국부화 신호 도메인, 전사-조절 단백질 (또는 전사 복합체 영입) 도메인, 세포 흡수 활성 관련 도메인, 핵산 결합 도메인, 항체 제시 도메인, 히스톤 개질 효소, 히스톤 개질 효소의 영입제; 히스톤 개질 효소의 저해제, 히스톤 메틸트랜스퍼라아제, 히스톤 데메틸라아제, 히스톤 키나아제, 히스톤 포스파타아제, 히스톤 리보실라아제, 히스톤 데리보실라아제, 히스톤 유비퀴티나아제, 히스톤 데유비퀴티나아제, 히스톤 비오티나아제 및 히스톤 테일 프로테아제.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 24 항 중 어느 한 항에 있어서, TALE 시스템이 하기를 포함하는 DNA 결합 폴리펩티드를 포함하는 시스템:\n(i) 에너지 민감성 단백질 또는 이의 단편에 연결된 적어도 하나 이상의 효과기 도메인 또는 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 5 개 이상의 전사 활성제-유사 효과기 (TALE) 단량체 및 적어도 하나 이상의 반-단량체를 포함하는 DNA 결합 도메인 (이때 상기 에너지 민감성 단백질 또는 이의 단편은 유도물질 에너지원에 의한 유도시 형태적 변화를 거쳐, 상호작용 파트너와 결합할 수 있음), 및/또는 \n(ii) 상호작용 파트너에 연결된 적어도 하나 이상의 효과기 도메인 또는 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 하나 이상의 TALE 단량체 또는 반-단량체를 포함하는 DNA 결합 도메인 (이때 상기 에너지 민감성 단백질 또는 이의 단편은 유도물질 에너지원에 의한 유도시 상호작용 파트너에 결합함).",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 51 항에 있어서, DNA 결합 폴리펩티드가 하기를 포함하는 시스템으로서:\n(a) N-말단 캡핑 부위 \n(b) 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 5 내지 40 개의 전사 활성제-유사 효과기 (TALE) 단량체 및 적어도 하나 이상의 반-단량체를 포함하는 DNA 결합 도메인, 및 \n(c) C-말단 캡핑 부위,\n이때 (a), (b) 및 (c) 가 사전결정된 N-말단에서 C-말단의 배향으로 배열되고,\n게놈 유전자좌가 표적 DNA 서열 5'-T0N1N2....Nz Nz+1-3' (여기서 T0 및 N = A, G, T 또는 C 임) 을 포함하고, \n상기 표적 DNA 서열이 DNA 결합 도메인에 결합하고, DNA 결합 도메인이 (X1-11-X12X13-X14-33 또는 34 또는 35)z (여기서 X1-11 은 11 개의 인접한 아미노산 사슬이고, X12X13 은 반복 가변 이중잔기 (RVD) 이고, X14-33 또는 34 또는 35 는 21, 22 또는 23 개의 인접한 아미노산 사슬이고, z 는 적어도 5 내지 40 임) 를 포함하고,\n상기 폴리펩티드가 코돈 최적화된 핵산 분자에 의해 인코딩되고 이로부터 번역되어 폴리펩티드가 관심 유전자좌의 DNA 에 우선적으로 결합하는, 시스템.",
+            "refers_to": [
+              51
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 52 항에 있어서:\nN-말단 캡핑 부위 또는 이의 단편이 야생형 N-말단 캡핑 부위의 147 개의 인접한 아미노산을 포함하거나,\nC-말단 캡핑 부위 또는 이의 단편이 야생형 C-말단 캡핑 부위의 68 개의 인접한 아미노산을 포함하거나,\nN-말단 캡핑 부위 또는 이의 단편이 야생형 N-말단 캡핑 부위의 136 개의 인접한 아미노산을 포함하고 C-말단 캡핑 부위 또는 이의 단편이 야생형 C-말단 캡핑 부위의 183 개의 인접한 아미노산을 포함하는 시스템.",
+            "refers_to": [
+              52
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 52 항에 있어서, 하나 이상의 RVD 가 (a) 구아닌 (G) 의 인지를 위한 HH, KH, NH, NK, NQ, RH, RN, SS, NN, SN, KN; (b) 아데닌 (A) 의 인지를 위한 NI, KI, RI, HI, SI; (c) 티민 (T) 의 인지를 위한 NG, HG, KG, RG; (d) 시토신 (C) 의 인지를 위한 RD, SD, HD, ND, KD, YG; (e) A 또는 G 의 인지를 위한 NV, HN; 및 (f) A 또는 T 또는 G 또는 C 의 인지를 위한 H*, HA, KA, N*, NA, NC, NS, RA, S* (여기서 (*) 는 X13 에서의 아미노산이 부재함을 의미함) 로 이루어지는 군에서 선택되는 시스템.",
+            "refers_to": [
+              52
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 54 항에 있어서, 하나 이상의 RVD 가 (a) 구아닌 (G) 의 인지를 위한 HH, KH, NH, NK, NQ, RH, RN, SS; (b) 아데닌 (A) 의 인지를 위한 SI; (c) 티민 (T) 의 인지를 위한 HG, KG, RG; (d) 시토신 (C) 의 인지를 위한 RD, SD; (e) A 또는 G 의 인지를 위한 NV, HN 및 (f) A 또는 T 또는 G 또는 C 의 인지를 위한 H*, HA, KA, N*, NA, NC, NS, RA, S* (여기서 (*) 는 X13 에서의 아미노산이 부재함을 의미함) 로 이루어지는 군에서 선택되는 시스템.",
+            "refers_to": [
+              54
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 55 항에 있어서:\nG 의 인지를 위한 RVD 가 RN, NH, RH 또는 KH 이거나; \nA 의 인지를 위한 RVD 가 SI 이거나; \nT 의 인지를 위한 RVD 가 KG 또는 RG 이고; \nC 의 인지를 위한 RVD 가 SD 또는 RD 인 시스템.",
+            "refers_to": [
+              55
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 52 항에 있어서, 하기 중 하나 이상이 존재하는 시스템: \nX1-4 에서의 [LTLD] 또는 [LTLA] 또는 [LTQV], 또는 \n위치 X30-33 또는 X31-34 또는 X32-35 에서의 [EQHG] 또는 [RDHG].",
+            "refers_to": [
+              52
+            ]
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 51 항에 있어서, TALE 시스템이 AAV 또는 렌티바이러스 벡터 내로 패키징되는 시스템.",
+            "refers_to": [
+              51
+            ]
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 24 항 중 어느 한 항에 있어서, CRISPR 시스템이 하기를 포함하는 벡터 시스템을 포함하는 시스템으로서:\na) 관심 유전자좌를 표적화하는 CRISPR-Cas 시스템 안내 RNA 에 작동가능하게 연결된 제 1 조절 요소, \nb) Cas 단백질에 작동가능하게 연결된 제 2 조절 유도 요소, \n이때 성분 (a) 및 (b) 가 시스템의 동일하거나 상이한 벡터 상에 위치하고, 안내 RNA 가 관심 유전자좌의 DNA 를 표적화하고, Cas 단백질 및 안내 RNA 가 함께 자연적으로 발생하지 않는, 시스템.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 59 항에 있어서, Cas 단백질이 Cas9 효소인 시스템.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 59 항에 있어서, 벡터가 AAV 또는 렌티바이러스인 시스템.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 27 항 내지 제 35 항 중 어느 한 항에 있어서, TALE 시스템이 하기를 포함하는 DNA 결합 폴리펩티드를 포함하는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법:\n(i) 에너지 민감성 단백질 또는 이의 단편에 연결된 적어도 하나 이상의 효과기 도메인 또는 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 5 개 이상의 전사 활성제-유사 효과기 (TALE) 단량체 및 적어도 하나 이상의 반-단량체를 포함하는 DNA 결합 도메인 (이때 상기 에너지 민감성 단백질 또는 이의 단편은 유도물질 에너지원에 의한 유도시 형태적 변화를 거쳐, 상호작용 파트너와 결합할 수 있음), 및/또는 \n(ii) 상호작용 파트너에 연결된 적어도 하나 이상의 효과기 도메인 또는 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 하나 이상의 TALE 단량체 또는 반-단량체를 포함하는 DNA 결합 도메인 (이때 상기 에너지 민감성 단백질 또는 이의 단편은 유도물질 에너지원에 의한 유도시 상호작용 파트너에 결합함).",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 62 항에 있어서, DNA 결합 폴리펩티드가 하기를 포함하는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법으로서:\n(a) N-말단 캡핑 부위 \n(b) 관심 유전자좌를 표적화하도록 특이적으로 유도된 적어도 5 내지 40 개의 전사 활성제-유사 효과기 (TALE) 단량체 및 적어도 하나 이상의 반-단량체를 포함하는 DNA 결합 도메인, 및 \n(c) C-말단 캡핑 부위,\n이때 (a), (b) 및 (c) 가 사전결정된 N-말단에서 C-말단의 배향으로 배열되고,\n게놈 유전자좌가 표적 DNA 서열 5'-T0N1N2....Nz Nz+1-3' (여기서 T0 및 N = A, G, T 또는 C 임) 을 포함하고, \n상기 표적 DNA 서열이 DNA 결합 도메인에 결합하고, DNA 결합 도메인이 (X1-11-X12X13-X14-33 또는 34 또는 35)z (여기서 X1-11 은 11 개의 인접한 아미노산 사슬이고, X12X13 은 반복 가변 이중잔기 (RVD) 이고, X14-33 또는 34 또는 35 는 21, 22 또는 23 개의 인접한 아미노산 사슬이고, z 는 적어도 5 내지 40 임) 를 포함하고,\n상기 폴리펩티드가 코돈 최적화된 핵산 분자에 의해 인코딩되고 이로부터 번역되어 폴리펩티드가 관심 유전자좌의 DNA 에 우선적으로 결합하는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              62
+            ]
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 63 항에 있어서:\nN-말단 캡핑 부위 또는 이의 단편이 야생형 N-말단 캡핑 부위의 147 개의 인접한 아미노산을 포함하거나,\nC-말단 캡핑 부위 또는 이의 단편이 야생형 C-말단 캡핑 부위의 68 개의 인접한 아미노산을 포함하거나,\nN-말단 캡핑 부위 또는 이의 단편이 야생형 N-말단 캡핑 부위의 136 개의 인접한 아미노산을 포함하고 C-말단 캡핑 부위 또는 이의 단편이 야생형 C-말단 캡핑 부위의 183 개의 인접한 아미노산을 포함하는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              63
+            ]
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 63 항에 있어서, 하나 이상의 RVD 가 (a) 구아닌 (G) 의 인지를 위한 HH, KH, NH, NK, NQ, RH, RN, SS, NN, SN, KN; (b) 아데닌 (A) 의 인지를 위한 NI, KI, RI, HI, SI; (c) 티민 (T) 의 인지를 위한 NG, HG, KG, RG; (d) 시토신 (C) 의 인지를 위한 RD, SD, HD, ND, KD, YG; (e) A 또는 G 의 인지를 위한 NV, HN; 및 (f) A 또는 T 또는 G 또는 C 의 인지를 위한 H*, HA, KA, N*, NA, NC, NS, RA, S* (여기서 (*) 는 X13 에서의 아미노산이 부재함을 의미함) 로 이루어지는 군에서 선택되는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              63
+            ]
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 65 항에 있어서, 하나 이상의 RVD 가 (a) 구아닌 (G) 의 인지를 위한 HH, KH, NH, NK, NQ, RH, RN, SS; (b) 아데닌 (A) 의 인지를 위한 SI; (c) 티민 (T) 의 인지를 위한 HG, KG, RG; (d) 시토신 (C) 의 인지를 위한 RD, SD; (e) A 또는 G 의 인지를 위한 NV, HN 및 (f) A 또는 T 또는 G 또는 C 의 인지를 위한 H*, HA, KA, N*, NA, NC, NS, RA, S* (여기서 (*) 는 X13 에서의 아미노산이 부재함을 의미함) 로 이루어지는 군에서 선택되는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              65
+            ]
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 66 항에 있어서:\nG 의 인지를 위한 RVD 가 RN, NH, RH 또는 KH 이거나; \nA 의 인지를 위한 RVD 가 SI 이거나; \nT 의 인지를 위한 RVD 가 KG 또는 RG 이고; \nC 의 인지를 위한 RVD 가 SD 또는 RD 인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              66
+            ]
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 63 항에 있어서, 하기 중 하나 이상이 존재하는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법: \nX1-4 에서의 [LTLD] 또는 [LTLA] 또는 [LTQV], 또는 \n위치 X30-33 또는 X31-34 또는 X32-35 에서의 [EQHG] 또는 [RDHG].",
+            "refers_to": [
+              63
+            ]
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 62 항에 있어서, TALE 시스템이 AAV 또는 렌티바이러스 벡터 내로 패키징되는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              62
+            ]
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 27 항 내지 제 35 항 중 어느 한 항에 있어서, CRISPR 시스템이 하기를 포함하는 벡터 시스템을 포함하는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법으로서:\na) 관심 유전자좌를 표적화하는 CRISPR-Cas 시스템 안내 RNA 에 작동가능하게 연결된 제 1 조절 요소, \nb) Cas 단백질에 작동가능하게 연결된 제 2 조절 유도 요소, \n이때 성분 (a) 및 (b) 가 시스템의 동일하거나 상이한 벡터 상에 위치하고, 안내 RNA 가 관심 유전자좌의 DNA 를 표적화하고, Cas 단백질 및 안내 RNA 가 함께 자연적으로 발생하지 않는, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 70 항에 있어서, Cas 단백질이 Cas9 효소인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              70
+            ]
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 70 항에 있어서, 벡터가 AAV 또는 렌티바이러스인, 비-자연발생적 또는 조작된 TALE 또는 CRISPR-Cas 시스템을 제어하는 방법.",
+            "refers_to": [
+              70
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20191031",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 72,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기를 포함하는, 군집화된 규칙적 공간화 단길이 회귀성 반복물(CRISPR)-Cas 복합체로서:\n- Cas9, 여기에서 Cas9 은 둘 이상의 핵 국부화 신호를 갖고; \n- tracr mate 서열에 연결된 안내 서열, 및\n- tracr mate 서열의 전부 또는 일부와 하이브리드화 가능한 tracr 서열;\n여기에서, 안내 서열은 진핵세포에서의 표적 서열과 상보성을 갖도록 설계되고, 진핵세포에서의 표적 서열에 대한 CRISPR 복합체의 서열-특이적 결합을 유도할 수 있는 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기를 포함하는, 군집화된 규칙적 공간화 단길이 회귀성 반복물(CRISPR)-Cas 벡터 시스템으로서:\na) (1) tracr mate 서열에 연결된 안내 서열 및 (2) tracr mate 서열의 전부 또는 일부와 하이브리드화 가능한 tracr 서열;을 인코딩하는 하나 이상의 서열에 작동가능하게 연결된 제 1 조절 요소;\nb) Cas9 을 인코딩하는 서열에 작동가능하게 연결된 제 2 조절 요소, 여기에서 Cas9 은 둘 이상의 핵 국부화 신호를 갖고;\n이때, 성분 a) 및 b) 는 시스템의 동일하거나 상이한 벡터 상에 위치하고, 안내 서열은 진핵세포에서의 표적 서열과 상보성을 갖도록 설계되는 CRISPR-Cas 벡터 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항에 있어서, Cas9 를 인코딩하는 서열이 진핵세포에서의 발현을 위해 최적화된 코돈인 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항에 있어서, 둘 이상의 안내 서열을 포함하는 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항에 있어서, 상기 동일하거나 상이한 벡터는 하나 이상의 바이러스 벡터인 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 5 항에 있어서, 상기 하나 이상의 바이러스 벡터는 하나 이상의 레트로바이러스, 아데노바이러스, 아데노-연관 알파바이러스 또는 단순포진 바이러스 벡터인 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 6 항에 있어서, 상기 레트로바이러스는 렌티바이러스인 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 6 항에 있어서, 상기 알파바이러스는 신드비스 바이러스 (Sindbis virus), 셈리키 삼림 바이러스 (Semliki Forest virus) 또는 베네수엘라 말 뇌염 바이러스 (Venezuelan equine encephalitis virus) 인 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항에 있어서, 성분 a) 및 b) 는 동일한 벡터 상에 위치한 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, tracr mate 서열은 tracr 서열에 연결되어 키메라 RNA (chiRNA) 를 형성하는 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 은 표적 서열을 함유하는 표적 폴리뉴클레오티드의 둘 모두의 가닥의 절단을 유도하는 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 상응하는 야생형 Cas9 에 대하여 돌연변이화되어 상기 돌연변이화된 Cas9 이 표적 서열을 함유하는 표적 폴리뉴클레오티드의 하나 또는 둘 모두의 가닥을 절단하는 능력이 소실되는 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, S. 피오게네스 Cas9 의 위치 번호와 관련된 D10A, H840A, N854A 및 N863A 로 이루어진 군으로부터 선택되는 돌연변이를 포함하는 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 아미노-말단에서 하나 이상의 핵 국부화 신호, 및 카르복시-말단에서 하나 이상의 핵 국부화 신호를 포함하는 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 S. 피오게네스 Cas9 인 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 S. 써모필루스 Cas9 인 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, 치료에 사용되는 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, 게놈 조작에 사용되는 CRISPR-Cas 벡터 시스템으로서, 상기 사용이 치료에 의한 동물 또는 인간 신체의 처치 방법이 아니고, 상기 사용이 인간의 생식-계열 유전적 동일성을 변형시키는 과정이 아닌 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, tracr mate 서열은 tracr 서열에 연결되어 키메라 RNA (chiRNA) 를 형성하는 CRISPR-Cas 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, Cas9 은 표적 서열을 함유하는 표적 폴리뉴클레오티드의 둘 모두의 가닥의 절단을 유도하는 CRISPR-Cas 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 19 항 및 제 20 항 중 어느 한 항에 있어서, Cas9 는 상응하는 야생형 Cas9 에 대하여 돌연변이화되어 상기 돌연변이화된 Cas9 이 표적 서열을 함유하는 표적 폴리뉴클레오티드의 하나 또는 둘 모두의 가닥을 절단하는 능력이 소실되는 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 19 항 및 제 20 항 중 어느 한 항에 있어서, S. 피오게네스 Cas9 의 위치 번호와 관련된 D10A, H840A, N854A 및 N863A 로 이루어진 군으로부터 선택되는 돌연변이를 포함하는 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 19 항 및 제 20 항 중 어느 한 항에 있어서, Cas9 는 아미노-말단에서 하나 이상의 핵 국부화 신호, 및 카르복시-말단에서 하나 이상의 핵 국부화 신호를 포함하는 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 19 항 및 제 20 항 중 어느 한 항에 있어서, Cas9 는 S. 피오게네스 Cas9 인 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 19 항 및 제 20 항 중 어느 한 항에 있어서, Cas9 는 S. 써모필루스 Cas9 인 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 19 항 및 제 20 항 중 어느 한 항에 있어서, 치료에 사용되는 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 19 항 및 제 20 항 중 어느 한 항에 있어서, 게놈 조작에 사용되는 CRISPR-Cas 벡터 시스템으로서, 상기 사용이 치료에 의한 동물 또는 인간 신체의 처치 방법이 아니고, 상기 사용이 인간의 생식-계열 유전적 동일성을 변형시키는 과정이 아닌 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20200508",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 16,
+        "claims": [
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 S. 피오게네스 Cas9 의 위치 번호와 관련된 D10A, H840A, N854A 및 N863A 로 이루어진 군으로부터 선택되는 돌연변이를 포함하는 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 아미노-말단에서 하나 이상의 핵 국부화 신호, 및 카르복시-말단에서 하나 이상의 핵 국부화 신호를 포함하는 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 S. 피오게네스 Cas9 인 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, Cas9 는 S. 써모필루스 Cas9 인 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, 치료에 사용되는 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 9 항 중 어느 한 항에 있어서, 게놈 조작에 사용되는 CRISPR-Cas 벡터 시스템으로서, 상기 사용이 치료에 의한 동물 또는 인간 신체의 처치 방법이 아니고, 상기 사용이 인간의 생식-계열 유전적 동일성을 변형시키는 과정이 아닌 CRISPR-Cas 벡터 시스템.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, tracr mate 서열은 tracr 서열에 연결되어 키메라 RNA (chiRNA) 를 형성하는 CRISPR-Cas 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, Cas9 은 표적 서열을 함유하는 표적 폴리뉴클레오티드의 둘 모두의 가닥의 절단을 유도하는 CRISPR-Cas 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 18 항 및 제 19 항 중 어느 한 항에 있어서, Cas9 는 S. 피오게네스 Cas9 의 위치 번호와 관련된 D10A, H840A, N854A 및 N863A 로 이루어진 군으로부터 선택되는 돌연변이를 포함하는 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 18 항 및 제 19 항 중 어느 한 항에 있어서, Cas9 는 아미노-말단에서 하나 이상의 핵 국부화 신호, 및 카르복시-말단에서 하나 이상의 핵 국부화 신호를 포함하는 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 18 항 및 제 19 항 중 어느 한 항에 있어서, Cas9 는 S. 피오게네스 Cas9 인 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 18 항 및 제 19 항 중 어느 한 항에 있어서, Cas9 는 S. 써모필루스 Cas9 인 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 18 항 및 제 19 항 중 어느 한 항에 있어서, 치료에 사용되는 CRISPR-Cas 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 61,
+      "after_claim_count": 16,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020237014846"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2014.01.30",
+      "internationOpenNumber": "WO2014018423",
+      "internationalApplicationDate": "2013.07.21",
+      "internationalApplicationNumber": "PCT/US2013/051418"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "미국 ***** 매사 추세츠주 캠브리지 메인 스트리트 ***",
+        "code": "520120489444",
+        "country": "미국",
+        "engName": "THE BROAD INSTITUTE, INC",
+        "name": "더 브로드 인스티튜트, 인코퍼레이티드"
+      },
+      {
+        "address": "미국 ***** 메사추세츠 캠브리지 메사추세츠 애브뉴 **",
+        "code": "519981074348",
+        "country": "미국",
+        "engName": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+        "name": "메사추세츠 인스티튜트 오브 테크놀로지"
+      },
+      {
+        "address": "미합중국, 메사추세츠 *****, 캠브리지, 퀸시스트리트**",
+        "code": "519980829941",
+        "country": "미국",
+        "engName": "President and Fellows of Harvard College",
+        "name": "프레지던트 앤드 펠로우즈 오브 하바드 칼리지"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 ***** 매사추세츠주 캠브리지 메인...",
+        "code": "",
+        "country": "",
+        "engName": "ZHANG, FENG",
+        "name": "장 펑"
+      },
+      {
+        "address": "미국 ***** 매사추...",
+        "code": "",
+        "country": "",
+        "engName": "BRIGHAM, MARK",
+        "name": "브리검 마크"
+      },
+      {
+        "address": "미국 ***** 매사추세츠주 캠브...",
+        "code": "",
+        "country": "",
+        "engName": "CONG, LE",
+        "name": "콩 레"
+      },
+      {
+        "address": "미국 ***** 매사추세츠주 캠브리지 매사...",
+        "code": "",
+        "country": "",
+        "engName": "KONERMANN, SILVANA",
+        "name": "코네르만 질파나"
+      },
+      {
+        "address": "미국 ***** 매사추세츠주 캠브리지 매사...",
+        "code": "",
+        "country": "",
+        "engName": "SANJANA, NEVILLE ESPI",
+        "name": "샌자나 네빌 에스피"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 강남대로 **길 **(역삼동, 케이피빌딩)",
+      "code": "920011000013",
+      "country": "대한민국",
+      "engName": "Koreana Patent Firm",
+      "name": "특허법인코리아나"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2012.07.25",
+        "priorityApplicationNumber": "61/675,778"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2012.11.01",
+        "priorityApplicationNumber": "61/721,283"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2012.12.12",
+        "priorityApplicationNumber": "61/736,465"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2013.03.15",
+        "priorityApplicationNumber": "61/794,458"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2013.06.17",
+        "priorityApplicationNumber": "61/835,973"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Nature Methods (2013.07.25.) 10(10):973-976",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Acta Nature (2014) 6(3)22:19-40",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Nature (2013.07.23.) 500:472-475",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Cell (2013) 154(2):442-451",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Nature Methods (2010) 7(12):973-975",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "FEBS Letters (2012.03.03.) 586:2084-2096",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Molecular Therapy (2012.05.) 20(Supplement 1):S194-S195",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20110145940 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "US20110301073 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2013082519 A2",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR101844123 B1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020150101476 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020150016588 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR101656236 B1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2014018423 A2",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2015.02.25",
+        "receiptNumber": "1-1-2015-0189007-61"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2015.03.12",
+        "receiptNumber": "1-5-2015-0053194-73"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2015.04.14",
+        "receiptNumber": "1-1-2015-0363129-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2015.06.30",
+        "receiptNumber": "4-1-2015-5087693-78"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2018.07.20",
+        "receiptNumber": "1-1-2018-0721081-79"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2018.07.20",
+        "receiptNumber": "1-1-2018-0721080-23"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2019.09.02",
+        "receiptNumber": "9-5-2019-0630931-42"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2019.10.31",
+        "receiptNumber": "1-1-2019-1118930-18"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.10.31",
+        "receiptNumber": "1-1-2019-1118931-53"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2020.03.24",
+        "receiptNumber": "9-5-2020-0214436-20"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2020.03.24",
+        "receiptNumber": "9-5-2020-0214435-85"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.05.08",
+        "receiptNumber": "1-1-2020-0469176-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.05.08",
+        "receiptNumber": "1-1-2020-0469175-75"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.05.27",
+        "receiptNumber": "1-1-2020-0535564-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.06.29",
+        "receiptNumber": "1-1-2020-0670810-20"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.07.30",
+        "receiptNumber": "1-1-2020-0803021-00"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.08.28",
+        "receiptNumber": "1-1-2020-0912422-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.09.29",
+        "receiptNumber": "1-1-2020-1042084-05"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2020.10.06",
+        "receiptNumber": "1-5-2020-0148034-44"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2020.10.07",
+        "receiptNumber": "1-1-2020-1061959-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.10.30",
+        "receiptNumber": "1-1-2020-1161287-79"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.11.27",
+        "receiptNumber": "1-1-2020-1282618-48"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.12.30",
+        "receiptNumber": "1-1-2020-1434726-47"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.01.29",
+        "receiptNumber": "1-1-2021-0123116-12"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.02.26",
+        "receiptNumber": "1-1-2021-0238869-25"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.03.30",
+        "receiptNumber": "1-1-2021-0371976-44"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.04.29",
+        "receiptNumber": "1-1-2021-0502045-03"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.05.28",
+        "receiptNumber": "1-1-2021-0621487-72"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.06.29",
+        "receiptNumber": "1-1-2021-0750068-47"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.07.30",
+        "receiptNumber": "1-1-2021-0883534-08"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.08.30",
+        "receiptNumber": "1-1-2021-1000481-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.09.29",
+        "receiptNumber": "1-1-2021-1116955-50"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.10.28",
+        "receiptNumber": "1-1-2021-1242847-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.11.29",
+        "receiptNumber": "1-1-2021-1379568-39"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.12.29",
+        "receiptNumber": "1-1-2021-1519750-94"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.01.25",
+        "receiptNumber": "1-1-2022-0096696-71"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.01.25",
+        "receiptNumber": "1-1-2022-0096695-25"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.01.27",
+        "receiptNumber": "1-1-2022-0106766-59"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.02.25",
+        "receiptNumber": "1-1-2022-0214201-31"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.03.29",
+        "receiptNumber": "1-1-2022-0338484-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.04.28",
+        "receiptNumber": "1-1-2022-0458828-03"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.05.27",
+        "receiptNumber": "1-1-2022-0562812-35"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.06.22",
+        "receiptNumber": "1-1-2022-0654376-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.06.22",
+        "receiptNumber": "1-1-2022-0654377-55"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Deferment (Postponement) of Processing of Examination",
+        "documentName": "심사처리보류(연기)보고서",
+        "receiptDate": "2022.10.18",
+        "receiptNumber": "9-6-2022-0184006-11"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Deferment (Postponement) of Processing of Examination",
+        "documentName": "심사처리보류(연기)보고서",
+        "receiptDate": "2022.12.13",
+        "receiptNumber": "9-6-2022-0224486-29"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2023.02.08",
+        "receiptNumber": "9-5-2023-0132231-81"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2023.04.28",
+        "receiptNumber": "1-1-2023-0483568-47"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Opinion of Examiner",
+        "documentName": "심사관의견요청서",
+        "receiptDate": "2023.12.26",
+        "receiptNumber": "7-8-2023-0021823-86"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020157004939.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93125479fa97d4f1774d3667331a321f8d48ab9ad84aaef7ab9324cc1ff239036393a6880a0a20fbe9cd98371de6f6a4166db6bf8f7bf96b43",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf567edd4ffca1197bc08cc9d04382ea4aeb78e59377c12d35c33a35790f25c08c439f0cd273fdb5dd80473b721449101ee377a3196775c597"
+  },
+  "rndInfoArray": ""
+}

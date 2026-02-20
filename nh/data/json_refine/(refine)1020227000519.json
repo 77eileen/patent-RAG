@@ -1,0 +1,2361 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.06.05",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-7000519",
+      "claimCount": "36",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "자동화된 T세포 배양",
+      "inventionTitleEng": "AUTOMATED T CELL CULTURE",
+      "openDate": "2022.03.11",
+      "openNumber": "10-2022-0031614",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.06.05",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2022.01.06"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12M 1/36"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12M 1/32"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "C12M 1/42"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12M 1/34"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/86"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/62"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "G01N 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A01N 1/10"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "G01N 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "T세포 부피 축소 처리의 자동화된 방법이 제공된다. 상기 방법은 T세포를 하나 이상의 활성화 시약과 자동으로 접촉시켜 T세포를 활성화하는 단계; T세포를 재조합 바이러스 벡터와 자동으로 접촉시켜 T세포를 형질도입하는 단계; T세포를 자동으로 접종하는 단계; T세포를 자동으로 확장하는 단계; 선택적으로, T세포를 자동으로 디비딩(debeading)하는 단계; 및 T세포를 자동으로 수확하는 단계를 포함한다. 또한 T세포 부피 축소 처리의 자동화된 방법을 위한 시스템이 제공된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020227000519",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220113",
+      "document_name": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+      "claim_count": 60,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "T세포 부피 축소 처리를 위한 자동화된 방법으로서, 상기 방법은, \n활성화된 T세포 세트를 생성하기 위해 한 명 이상의 공여자로부터 얻은 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시킴으로써 입력 T세포 세트를 활성화하는 단계; \n상기 활성화된 T세포 세트의 바이러스 감염을 촉진하는 조건 하에 상기 활성화된 T세포 세트를 재조합 바이러스 벡터와 자동으로 접촉시켜 상기 활성화된 T세포 세트를 형질도입하는 단계로서, 상기 재조합 바이러스 벡터는 이종 재조합 단백질을 코딩하는 핵산을 포함하여 형질도입된 T세포 세트를 생성시키고; \n상기 형질도입된 T세포 세트를 확장하는 단계; \n확장 배지로부터 상기 형질도입된 T세포 세트를 자동으로 회수하는 단계; 및\n수확된 형질도입된 T세포 세트를 생성하기 위해 상기 형질도입된 T세포 세트를 자동으로 동결보존함으로써 형질도입된 T세포 세트를 수확하는 단계를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에서, \n상기 활성화된 T세포 세트를 접종 배지 내로 자동 전달함으로써 활성화된 T세포 세트를 접종하는 단계를 더 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에서,\n상기 활성화 단계는 \n상기 입력 T세포 세트를 자동으로 세척하는 단계;\n선택적으로, 생존 세포 계수를 위해 상기 세척된 입력 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n상기 세척된 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시키는 단계; 및\n선택적으로, 생존 세포 계수를 위한 하나 이상의 활성화 시약과 접촉한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계를 포함하는 것인 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에서, \n상기 형질도입 단계는\n선택적으로, 생존 세포 계수를 위해 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n회전 접종을 위해 상기 활성화된 T세포 세트를 자동으로 준비하는 단계;\n상기 활성화된 T세포 세트를 상기 재조합 바이러스 벡터와 접촉시키고 상기 활성화된 T세포 세트에 원심력을 가함으로써 상기 활성화된 T세포 세트를 자동으로 회전 접종하는 단계; 및\n선택적으로, 형질도입 후 포유동물 세포 인큐베이터에서 상기 활성화된 T세포 세트를 부화(incubate)하거나 접종하는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에서, \n상기 접종 단계는\n선택적으로, 생존 세포 계수를 위해 형질도입한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계; 및\n상기 활성화된 T세포 세트를 확장 플레이트에 자동으로 옮기고 상기 활성화된 T세포 세트를 포함하는 확장 플레이트를 포유동물 세포 인큐베이터에 배치함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에서, \n상기 확장 단계는\n생존 세포 계수를 위해 상기 형질도입된 T세포 세트의 시험 샘플을 얻는 단계; 및\n자동으로 모의 관류/세포 배양 배지 교환을 수행하는 단계를 더 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에서, \n디비딩(debeading) 단계를 더 포함하고,\n상기 디비딩 단계는 자기장을 적용하여 상기 형질도입된 T세포 세트 및/또는 상기 활성화된 T세포 세트를 자동으로 디비딩하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에서, \n상기 수확하는 단계는 \n상기 형질도입된 T세포 세트를 동결보존 배지를 구비한 동결 바이알에 배치하는 단계; 및\n액체 질소 탱크에 상기 동결 바이알을 배치하는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에서, \n상기 T세포는 CD4+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에서, \n상기 T세포는 CD8+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에서, \n상기 T세포는 CD4+ T세포 및 CD8+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제11항 중 어느 한 항에서, \n상기 이종 재조합 단백질은 재조합 수용체를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에서, \n상기 재조합 수용체는 질병, 장애 또는 상태의 세포 또는 조직과 연관되거나, 특이적 및/또는 발현되는 표적 항원에 결합할 수 있는 것인 방법.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에서, \n상기 질병, 장애 또는 상태는 전염성 질환 또는 장애, 자가면역 질환, 염증성 질환, 또는 종양 또는 암인 것인 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 또는 제14항에서, \n상기 표적 항원은 종양 항원인 것인 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 내지 제15항 중 어느 한 항에서,\n상기 재조합 수용체는 기능적 비-TCR 항원 수용체 또는 TCR 또는 그의 항원 결합 단편이거나 이를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 내지 제15항 중 어느 한 항에서,\n상기 재조합 수용체는 키메라 항원 수용체(CAR)인 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제17항 중 어느 한 항에서,\n상기 재조합 바이러스 벡터는 레트로바이러스 벡터를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에서,\n상기 레트로바이러스 벡터는 렌티바이러스 벡터 또는 감마레트로바이러스 벡터인 것인 방법.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제19항 중 어느 한 항에서,\n상기 T세포는 한 명 이상의 공여자로부터 얻은 1차 T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에서,\n상기 한 명 이상의 공여자는 인간 대상체인 것인 방법.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "T세포 부피 축소 처리를 위한 자동화 방법으로서, 상기 방법은\n활성화된 T세포 세트를 생성하기 위해 한 명 이상의 공여자로부터 얻은 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시킴으로써 입력 T세포 세트를 활성화하는 단계;\n재조합 폴리뉴클레오티드의 상기 활성화된 T세포 내로의 혼입을 촉진하는 조건 하에 상기 활성화된 T세포를 재조합 폴리뉴클레오티드와 접촉시킴으로써 상기 활성화된 T세포 세트를 변형시키는 단계로서, 상기 재조합 폴리뉴클레오티드는 이종 재조합 단백질을 암호화하는 핵산을 포함하여 변형된 T세포 세트를 생성하고;\n상기 변형된 T세포 세트를 확장하는 단계;\n확장 배지로부터 상기 변형된 T세포 세트를 회수하는 단계; 및\n상기 변형된 T세포의 수확된 세트를 생성하기 위해 상기 변형된 T세포 세트를 자동으로 동결보존함으로써 상기 변형된 T세포 세트를 수확하는 단계를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에서, \n상기 변형 단계는 형질도입, 전기천공, 시약 기반 형질감염, 세포 압축, 또는 압착을 포함하는 것인 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 또는 제23항에서, \n상기 방법의 하나 이상의 단계는 자동으로 및/또는 작업자의 개입 없이 수행되는 것인 방법.",
+          "refers_to": [
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제24항 중 어느 한 항에서, \n상기 활성화된 T세포 세트를 접종 배지에 자동으로 전달함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 더 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제25항 중 어느 한 항에서,\n상기 활성화 단계는\n상기 입력 T세포 세트를 자동으로 세척하는 단계;\n선택적으로, 생존 세포 계수를 위해 상기 세척된 입력 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n상기 세척된 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시키는 단계; 및\n선택적으로, 생존 세포 계수를 위한 하나 이상의 활성화 시약과 접촉한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제23항 내지 제26항 중 어느 한 항에서,\n상기 형질도입 단계는\n선택적으로, 생존 세포 계수를 위해 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n회전 접종을 위해 상기 활성화된 T세포 세트를 자동으로 준비하는 단계;\n상기 활성화된 T세포 세트를 재조합 바이러스 벡터와 접촉시키고 상기 활성화된 T세포 세트에 원심력을 가함으로써 상기 활성화된 T세포 세트를 자동으로 회전 접종(spinoculation)하는 단계; 및\n선택적으로, 형질도입 후 포유동물 세포 인큐베이터에서 상기 활성화된 T세포 세트를 부화하거나 접종하는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에서, \n상기 접종 단계는 \n선택적으로, 생존 세포 계수를 위해 형질도입한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계; 및\n상기 활성화된 T세포 세트를 확장 플레이트에 자동으로 옮기고 상기 활성화된 T세포 세트를 포함하는 확장 플레이트를 포유동물 세포 인큐베이터에 배치함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 포함하는 것인 방법.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제28항 중 어느 한 항에서,\n상기 확장 단계는\n생존 세포 계수를 위해 상기 변형된 T세포 세트의 시험 샘플을 얻는 단계; 및\n자동으로 모의 관류/세포 배양 배지 교환을 수행하는 단계를 더 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제29항 중 어느 한 항에서, \n디비딩 단계를 더 포함하고,\n상기 디비딩 단계는 자기장을 적용하여 상기 변형된 T세포 세트 및/또는 상기 활성화된 T세포 세트를 자동으로 디비딩하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제30항 중 어느 한 항에서,\n상기 수확하는 단계는 \n상기 변형된 T세포 세트를 동결보존 배지를 구비한 동결 바이알에 배치하는 단계; 및\n액체 질소 탱크에 상기 동결 바이알을 배치하는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제31항 중 어느 한 항에서, \n상기 T세포는 CD4+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제31항 중 어느 한 항에서,\n상기 T세포는 CD8+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제31항 중 어느 한 항에서,\n상기 T세포는 CD4+ T세포 및 CD8+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제34항 중 어느 한 항에서,\n상기 이종 재조합 단백질은 재조합 수용체를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항에서, \n상기 재조합 수용체는 질병, 장애 또는 상태의 세포 또는 조직과 연관되거나, 특이적 및/또는 발현되는 표적 항원에 결합할 수 있는 것인 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에서, \n상기 질병, 장애 또는 상태는 전염성 질환 또는 장애, 자가면역 질환, 염증성 질환, 또는 종양 또는 암인 것인 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항 또는 제37항에서, \n상기 표적 항원은 종양 항원인 것인 방법.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항 내지 제38항 중 어느 한 항에서,\n상기 재조합 수용체는 기능적 비-TCR 항원 수용체 또는 TCR 또는 그의 항원 결합 단편이거나 이를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항 내지 제38항 중 어느 한 항에서,\n상기 재조합 수용체는 키메라 항원 수용체(CAR)인 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제40항 중 어느 한 항에서,\n상기 T세포는 한 명 이상의 공여자로부터 얻은 1차 T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에서,\n상기 한 명 이상의 공여자는 인간 대상체인 것인 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "T세포 형질도입을 위한 다중 자동화 시스템으로서, \n자동화 액체 취급 시스템; 및 \n상기 자동화 액체 취급 시스템과 통신하는 제어 시스템으로서, 상기 제어 시스템은 하기 단위 프로세스를 수행하기 위해 상기 자동화 액체 취급 시스템을 제어하도록 프로그래밍된 하나 이상의 프로세서를 포함하는 것인 시스템:\nT세포 세트를 활성화하는 단계; \n상기 T세포 세트를 변형하는 단계;\n상기 T세포 세트를 디비딩하는 단계; \n상기 T세포 세트를 접종하는 단계; \n상기 T세포 세트를 확장하는 단계; 및 \n상기 T세포 세트를 수확하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항에서,\n상기 자동화 액체 취급 시스템은 독립적인 다중채널 피펫 형식으로 액체를 전달하도록 구성된 가요성 채널 액체 조작 모듈을 포함하고,\n여기서 각 피펫은 독립적으로 작동하도록 구성되는 것인 시스템.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제44항에서,\n상기 가요성 채널 액체 조작 모듈은 액체 등급의 결정을 기반으로 약 0.5-5000 μL 사이의 유체 부피를 정확하게 조작하도록 구성되는 것인 시스템.",
+          "refers_to": [
+            44
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제44항 또는 제45항에서,\n상기 가요성 채널 액체 조작 모듈은 멸균 배양을 제공하기 위해 일회용 팁을 사용하도록 구성되는 것인 시스템.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제44항 내지 제46항 중 어느 한 항에서,\n상기 가요성 채널 액체 조작 모듈은 액체 변위 가요성 채널 아암인 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제47항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 다중채널 피펫 형식으로 액체를 전달하도록 구성된 정적 다중채널 액체 조작 모듈을 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제48항에서,\n상기 정적 다중채널 액체 조작 모듈은 액체 변위 가요성 채널 아암 또는 다중채널 아암인 것인 시스템.",
+          "refers_to": [
+            48
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제49항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 호환 가능한 그리퍼 구성이 있는 용기 조작 모듈을 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제50항에서,\n상기 호환 가능한 그리퍼 구성은 실험실 산물의 수평 접근 및 운송을 위해 구성된 편심 핑거; 실험실 산물에 수직 접근을 위해 구성된 중심 핑거; 및 튜브형 실험기구의 운송을 위해 구성된 튜브 핑거를 포함하는 것인 시스템.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제50항 또는 제51항에서,\n상기 용기 조작 모듈은 긴 z축 로봇 그리퍼 아암인 것인 시스템.",
+          "refers_to": [
+            51
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제52항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 활성화, 변형, 접종, 확장, 디비딩 및 수확 단위 작업을 위해 독립적으로 구성 가능한 작업대를 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제53항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 온도 제어 로봇 원심분리기를 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제54항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 둥근 실험기구를 잡고 쥐도록 구성된 바이알 그리퍼 모듈을 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제55항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 생존 가능한 세포 수 측정을 수행하도록 구성된 자동화된 세포 계수 모듈을 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제56항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 저온 바이알을 유지하도록 구성된 휴대용 저온 냉각 챔버/캡 홀더를 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제57항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 멸균 환경을 제공하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제58항 중 어느 한 항에서,\n포유동물 세포 인큐베이터를 더 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제59항 중 어느 한 항에서,\n상기 제어 시스템은 \n재조합 폴리뉴클레오티드의 상기 T세포 세트 내로의 혼입을 촉진하는 조건 하에 상기 T세포 세트를 재조합 폴리뉴클레오티드와 접촉시킴으로써 상기 T세포 세트를 변형시키기 위해 상기 자동화 액체 취급 시스템을 제어하도록 추가로 프로그래밍되고; 및\n상기 T세포 세트를 변형시키는 것은 상기 재조합 폴리뉴클레오티드를 상기 T세포 세트에 혼입시키기 위한 형질도입, 형질감염, 세포 압축, 또는 세포 압착 작업 중 하나를 포함하는 것인 시스템.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20230605",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 60,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "T세포 부피 축소 처리를 위한 자동화된 방법으로서, 상기 방법은, 활성화된 T세포 세트를 생성하기 위해 한 명 이상의 공여자로부터 얻은 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시킴으로써 입력 T세포 세트를 활성화하는 단계; 상기 활성화된 T세포 세트의 바이러스 감염을 촉진하는 조건 하에 상기 활성화된 T세포 세트를 재조합 바이러스 벡터와 자동으로 접촉시켜 상기 활성화된 T세포 세트를 형질도입하는 단계로서, 상기 재조합 바이러스 벡터는 이종 재조합 단백질을 코딩하는 핵산을 포함하여 형질도입된 T세포 세트를 생성시키고; 상기 형질도입된 T세포 세트를 확장하는 단계; 확장 배지로부터 상기 형질도입된 T세포 세트를 자동으로 회수하는 단계; 및수확된 형질도입된 T세포 세트를 생성하기 위해 상기 형질도입된 T세포 세트를 자동으로 동결보존함으로써 형질도입된 T세포 세트를 수확하는 단계를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에서, 상기 활성화된 T세포 세트를 접종 배지 내로 자동 전달함으로써 활성화된 T세포 세트를 접종하는 단계를 더 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에서,상기 활성화 단계는 상기 입력 T세포 세트를 자동으로 세척하는 단계;선택적으로, 생존 세포 계수를 위해 상기 세척된 입력 T세포 세트의 시험 샘플을 자동으로 얻는 단계;상기 세척된 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시키는 단계; 및선택적으로, 생존 세포 계수를 위한 하나 이상의 활성화 시약과 접촉한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계를 포함하는 것인 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제3항 중 어느 한 항에서, 상기 형질도입 단계는선택적으로, 생존 세포 계수를 위해 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계;회전 접종을 위해 상기 활성화된 T세포 세트를 자동으로 준비하는 단계;상기 활성화된 T세포 세트를 상기 재조합 바이러스 벡터와 접촉시키고 상기 활성화된 T세포 세트에 원심력을 가함으로써 상기 활성화된 T세포 세트를 자동으로 회전 접종하는 단계; 및선택적으로, 형질도입 후 포유동물 세포 인큐베이터에서 상기 활성화된 T세포 세트를 부화(incubate)하거나 접종하는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 한 항에서, 상기 접종 단계는선택적으로, 생존 세포 계수를 위해 형질도입한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계; 및상기 활성화된 T세포 세트를 확장 플레이트에 자동으로 옮기고 상기 활성화된 T세포 세트를 포함하는 확장 플레이트를 포유동물 세포 인큐베이터에 배치함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에서, 상기 확장 단계는생존 세포 계수를 위해 상기 형질도입된 T세포 세트의 시험 샘플을 얻는 단계; 및자동으로 모의 관류/세포 배양 배지 교환을 수행하는 단계를 더 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제6항 중 어느 한 항에서, 디비딩(debeading) 단계를 더 포함하고,상기 디비딩 단계는 자기장을 적용하여 상기 형질도입된 T세포 세트 및/또는 상기 활성화된 T세포 세트를 자동으로 디비딩하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제7항 중 어느 한 항에서, 상기 수확하는 단계는 상기 형질도입된 T세포 세트를 동결보존 배지를 구비한 동결 바이알에 배치하는 단계; 및액체 질소 탱크에 상기 동결 바이알을 배치하는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제8항 중 어느 한 항에서, 상기 T세포는 CD4+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제8항 중 어느 한 항에서, 상기 T세포는 CD8+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제8항 중 어느 한 항에서, 상기 T세포는 CD4+ T세포 및 CD8+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제11항 중 어느 한 항에서, 상기 이종 재조합 단백질은 재조합 수용체를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에서, 상기 재조합 수용체는 질병, 장애 또는 상태의 세포 또는 조직과 연관되거나, 특이적 및/또는 발현되는 표적 항원에 결합할 수 있는 것인 방법.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에서, 상기 질병, 장애 또는 상태는 전염성 질환 또는 장애, 자가면역 질환, 염증성 질환, 또는 종양 또는 암인 것인 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항 또는 제14항에서, 상기 표적 항원은 종양 항원인 것인 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 내지 제15항 중 어느 한 항에서,상기 재조합 수용체는 기능적 비-TCR 항원 수용체 또는 TCR 또는 그의 항원 결합 단편이거나 이를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 내지 제15항 중 어느 한 항에서,상기 재조합 수용체는 키메라 항원 수용체(CAR)인 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제17항 중 어느 한 항에서,상기 재조합 바이러스 벡터는 레트로바이러스 벡터를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에서,상기 레트로바이러스 벡터는 렌티바이러스 벡터 또는 감마레트로바이러스 벡터인 것인 방법.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제19항 중 어느 한 항에서,상기 T세포는 한 명 이상의 공여자로부터 얻은 1차 T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항에서,상기 한 명 이상의 공여자는 인간 대상체인 것인 방법.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "T세포 부피 축소 처리를 위한 자동화 방법으로서, 상기 방법은활성화된 T세포 세트를 생성하기 위해 한 명 이상의 공여자로부터 얻은 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시킴으로써 입력 T세포 세트를 활성화하는 단계;재조합 폴리뉴클레오티드의 상기 활성화된 T세포 내로의 혼입을 촉진하는 조건 하에 상기 활성화된 T세포를 재조합 폴리뉴클레오티드와 접촉시킴으로써 상기 활성화된 T세포 세트를 변형시키는 단계로서, 상기 재조합 폴리뉴클레오티드는 이종 재조합 단백질을 암호화하는 핵산을 포함하여 변형된 T세포 세트를 생성하고;상기 변형된 T세포 세트를 확장하는 단계;확장 배지로부터 상기 변형된 T세포 세트를 회수하는 단계; 및상기 변형된 T세포의 수확된 세트를 생성하기 위해 상기 변형된 T세포 세트를 자동으로 동결보존함으로써 상기 변형된 T세포 세트를 수확하는 단계를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항에서, 상기 변형 단계는 형질도입, 전기천공, 시약 기반 형질감염, 세포 압축, 또는 압착을 포함하는 것인 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 또는 제23항에서, 상기 방법의 하나 이상의 단계는 자동으로 및/또는 작업자의 개입 없이 수행되는 것인 방법.",
+          "refers_to": [
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제24항 중 어느 한 항에서, 상기 활성화된 T세포 세트를 접종 배지에 자동으로 전달함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 더 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제25항 중 어느 한 항에서,상기 활성화 단계는상기 입력 T세포 세트를 자동으로 세척하는 단계;선택적으로, 생존 세포 계수를 위해 상기 세척된 입력 T세포 세트의 시험 샘플을 자동으로 얻는 단계;상기 세척된 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시키는 단계; 및선택적으로, 생존 세포 계수를 위한 하나 이상의 활성화 시약과 접촉한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제23항 내지 제26항 중 어느 한 항에서,상기 형질도입 단계는선택적으로, 생존 세포 계수를 위해 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계;회전 접종을 위해 상기 활성화된 T세포 세트를 자동으로 준비하는 단계;상기 활성화된 T세포 세트를 재조합 바이러스 벡터와 접촉시키고 상기 활성화된 T세포 세트에 원심력을 가함으로써 상기 활성화된 T세포 세트를 자동으로 회전 접종(spinoculation)하는 단계; 및선택적으로, 형질도입 후 포유동물 세포 인큐베이터에서 상기 활성화된 T세포 세트를 부화하거나 접종하는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항에서, 상기 접종 단계는 선택적으로, 생존 세포 계수를 위해 형질도입한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계; 및상기 활성화된 T세포 세트를 확장 플레이트에 자동으로 옮기고 상기 활성화된 T세포 세트를 포함하는 확장 플레이트를 포유동물 세포 인큐베이터에 배치함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 포함하는 것인 방법.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제28항 중 어느 한 항에서,상기 확장 단계는생존 세포 계수를 위해 상기 변형된 T세포 세트의 시험 샘플을 얻는 단계; 및자동으로 모의 관류/세포 배양 배지 교환을 수행하는 단계를 더 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제29항 중 어느 한 항에서, 디비딩 단계를 더 포함하고,상기 디비딩 단계는 자기장을 적용하여 상기 변형된 T세포 세트 및/또는 상기 활성화된 T세포 세트를 자동으로 디비딩하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제30항 중 어느 한 항에서,상기 수확하는 단계는 상기 변형된 T세포 세트를 동결보존 배지를 구비한 동결 바이알에 배치하는 단계; 및액체 질소 탱크에 상기 동결 바이알을 배치하는 단계를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제31항 중 어느 한 항에서, 상기 T세포는 CD4+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제31항 중 어느 한 항에서,상기 T세포는 CD8+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제31항 중 어느 한 항에서,상기 T세포는 CD4+ T세포 및 CD8+ T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제34항 중 어느 한 항에서,상기 이종 재조합 단백질은 재조합 수용체를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제35항에서, 상기 재조합 수용체는 질병, 장애 또는 상태의 세포 또는 조직과 연관되거나, 특이적 및/또는 발현되는 표적 항원에 결합할 수 있는 것인 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에서, 상기 질병, 장애 또는 상태는 전염성 질환 또는 장애, 자가면역 질환, 염증성 질환, 또는 종양 또는 암인 것인 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항 또는 제37항에서, 상기 표적 항원은 종양 항원인 것인 방법.",
+          "refers_to": [
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제35항 내지 제38항 중 어느 한 항에서,상기 재조합 수용체는 기능적 비-TCR 항원 수용체 또는 TCR 또는 그의 항원 결합 단편이거나 이를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제35항 내지 제38항 중 어느 한 항에서,상기 재조합 수용체는 키메라 항원 수용체(CAR)인 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제40항 중 어느 한 항에서,상기 T세포는 한 명 이상의 공여자로부터 얻은 1차 T세포를 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에서,상기 한 명 이상의 공여자는 인간 대상체인 것인 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "T세포 형질도입을 위한 다중 자동화 시스템으로서, 자동화 액체 취급 시스템; 및 상기 자동화 액체 취급 시스템과 통신하는 제어 시스템으로서, 상기 제어 시스템은 하기 단위 프로세스를 수행하기 위해 상기 자동화 액체 취급 시스템을 제어하도록 프로그래밍된 하나 이상의 프로세서를 포함하는 것인 시스템:T세포 세트를 활성화하는 단계; 상기 T세포 세트를 변형하는 단계;상기 T세포 세트를 디비딩하는 단계; 상기 T세포 세트를 접종하는 단계; 상기 T세포 세트를 확장하는 단계; 및 상기 T세포 세트를 수확하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항에서,상기 자동화 액체 취급 시스템은 독립적인 다중채널 피펫 형식으로 액체를 전달하도록 구성된 가요성 채널 액체 조작 모듈을 포함하고,여기서 각 피펫은 독립적으로 작동하도록 구성되는 것인 시스템.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제44항에서,상기 가요성 채널 액체 조작 모듈은 액체 등급의 결정을 기반으로 약 0.5-5000 μL 사이의 유체 부피를 정확하게 조작하도록 구성되는 것인 시스템.",
+          "refers_to": [
+            44
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제44항 또는 제45항에서,상기 가요성 채널 액체 조작 모듈은 멸균 배양을 제공하기 위해 일회용 팁을 사용하도록 구성되는 것인 시스템.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제44항 내지 제46항 중 어느 한 항에서,상기 가요성 채널 액체 조작 모듈은 액체 변위 가요성 채널 아암인 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항 내지 제47항 중 어느 한 항에서,상기 자동화 액체 취급 시스템은 다중채널 피펫 형식으로 액체를 전달하도록 구성된 정적 다중채널 액체 조작 모듈을 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제48항에서,상기 정적 다중채널 액체 조작 모듈은 액체 변위 가요성 채널 아암 또는 다중채널 아암인 것인 시스템.",
+          "refers_to": [
+            48
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항 내지 제49항 중 어느 한 항에서,상기 자동화 액체 취급 시스템은 호환 가능한 그리퍼 구성이 있는 용기 조작 모듈을 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제50항에서,상기 호환 가능한 그리퍼 구성은 실험실 산물의 수평 접근 및 운송을 위해 구성된 편심 핑거; 실험실 산물에 수직 접근을 위해 구성된 중심 핑거; 및 튜브형 실험기구의 운송을 위해 구성된 튜브 핑거를 포함하는 것인 시스템.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제50항 또는 제51항에서,상기 용기 조작 모듈은 긴 z축 로봇 그리퍼 아암인 것인 시스템.",
+          "refers_to": [
+            51
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항 내지 제52항 중 어느 한 항에서,상기 자동화 액체 취급 시스템은 활성화, 변형, 접종, 확장, 디비딩 및 수확 단위 작업을 위해 독립적으로 구성 가능한 작업대를 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항 내지 제53항 중 어느 한 항에서,상기 자동화 액체 취급 시스템은 온도 제어 로봇 원심분리기를 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항 내지 제54항 중 어느 한 항에서,상기 자동화 액체 취급 시스템은 둥근 실험기구를 잡고 쥐도록 구성된 바이알 그리퍼 모듈을 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항 내지 제55항 중 어느 한 항에서,상기 자동화 액체 취급 시스템은 생존 가능한 세포 수 측정을 수행하도록 구성된 자동화된 세포 계수 모듈을 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항 내지 제56항 중 어느 한 항에서,상기 자동화 액체 취급 시스템은 저온 바이알을 유지하도록 구성된 휴대용 저온 냉각 챔버/캡 홀더를 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항 내지 제57항 중 어느 한 항에서,상기 자동화 액체 취급 시스템은 멸균 환경을 제공하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항 내지 제58항 중 어느 한 항에서,포유동물 세포 인큐베이터를 더 포함하는 것인 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항 내지 제59항 중 어느 한 항에서,상기 제어 시스템은 재조합 폴리뉴클레오티드의 상기 T세포 세트 내로의 혼입을 촉진하는 조건 하에 상기 T세포 세트를 재조합 폴리뉴클레오티드와 접촉시킴으로써 상기 T세포 세트를 변형시키기 위해 상기 자동화 액체 취급 시스템을 제어하도록 추가로 프로그래밍되고; 및상기 T세포 세트를 변형시키는 것은 상기 재조합 폴리뉴클레오티드를 상기 T세포 세트에 혼입시키기 위한 형질도입, 형질감염, 세포 압축, 또는 세포 압착 작업 중 하나를 포함하는 것인 시스템.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220113",
+        "document_name": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+        "claim_count": 60,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "T세포 부피 축소 처리를 위한 자동화된 방법으로서, 상기 방법은, \n활성화된 T세포 세트를 생성하기 위해 한 명 이상의 공여자로부터 얻은 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시킴으로써 입력 T세포 세트를 활성화하는 단계; \n상기 활성화된 T세포 세트의 바이러스 감염을 촉진하는 조건 하에 상기 활성화된 T세포 세트를 재조합 바이러스 벡터와 자동으로 접촉시켜 상기 활성화된 T세포 세트를 형질도입하는 단계로서, 상기 재조합 바이러스 벡터는 이종 재조합 단백질을 코딩하는 핵산을 포함하여 형질도입된 T세포 세트를 생성시키고; \n상기 형질도입된 T세포 세트를 확장하는 단계; \n확장 배지로부터 상기 형질도입된 T세포 세트를 자동으로 회수하는 단계; 및\n수확된 형질도입된 T세포 세트를 생성하기 위해 상기 형질도입된 T세포 세트를 자동으로 동결보존함으로써 형질도입된 T세포 세트를 수확하는 단계를 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에서, \n상기 활성화된 T세포 세트를 접종 배지 내로 자동 전달함으로써 활성화된 T세포 세트를 접종하는 단계를 더 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에서,\n상기 활성화 단계는 \n상기 입력 T세포 세트를 자동으로 세척하는 단계;\n선택적으로, 생존 세포 계수를 위해 상기 세척된 입력 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n상기 세척된 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시키는 단계; 및\n선택적으로, 생존 세포 계수를 위한 하나 이상의 활성화 시약과 접촉한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에서, \n상기 형질도입 단계는\n선택적으로, 생존 세포 계수를 위해 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n회전 접종을 위해 상기 활성화된 T세포 세트를 자동으로 준비하는 단계;\n상기 활성화된 T세포 세트를 상기 재조합 바이러스 벡터와 접촉시키고 상기 활성화된 T세포 세트에 원심력을 가함으로써 상기 활성화된 T세포 세트를 자동으로 회전 접종하는 단계; 및\n선택적으로, 형질도입 후 포유동물 세포 인큐베이터에서 상기 활성화된 T세포 세트를 부화(incubate)하거나 접종하는 단계를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에서, \n상기 접종 단계는\n선택적으로, 생존 세포 계수를 위해 형질도입한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계; 및\n상기 활성화된 T세포 세트를 확장 플레이트에 자동으로 옮기고 상기 활성화된 T세포 세트를 포함하는 확장 플레이트를 포유동물 세포 인큐베이터에 배치함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에서, \n상기 확장 단계는\n생존 세포 계수를 위해 상기 형질도입된 T세포 세트의 시험 샘플을 얻는 단계; 및\n자동으로 모의 관류/세포 배양 배지 교환을 수행하는 단계를 더 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에서, \n디비딩(debeading) 단계를 더 포함하고,\n상기 디비딩 단계는 자기장을 적용하여 상기 형질도입된 T세포 세트 및/또는 상기 활성화된 T세포 세트를 자동으로 디비딩하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에서, \n상기 수확하는 단계는 \n상기 형질도입된 T세포 세트를 동결보존 배지를 구비한 동결 바이알에 배치하는 단계; 및\n액체 질소 탱크에 상기 동결 바이알을 배치하는 단계를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에서, \n상기 T세포는 CD4+ T세포를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에서, \n상기 T세포는 CD8+ T세포를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에서, \n상기 T세포는 CD4+ T세포 및 CD8+ T세포를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제11항 중 어느 한 항에서, \n상기 이종 재조합 단백질은 재조합 수용체를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에서, \n상기 재조합 수용체는 질병, 장애 또는 상태의 세포 또는 조직과 연관되거나, 특이적 및/또는 발현되는 표적 항원에 결합할 수 있는 것인 방법.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에서, \n상기 질병, 장애 또는 상태는 전염성 질환 또는 장애, 자가면역 질환, 염증성 질환, 또는 종양 또는 암인 것인 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 또는 제14항에서, \n상기 표적 항원은 종양 항원인 것인 방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 내지 제15항 중 어느 한 항에서,\n상기 재조합 수용체는 기능적 비-TCR 항원 수용체 또는 TCR 또는 그의 항원 결합 단편이거나 이를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 내지 제15항 중 어느 한 항에서,\n상기 재조합 수용체는 키메라 항원 수용체(CAR)인 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제17항 중 어느 한 항에서,\n상기 재조합 바이러스 벡터는 레트로바이러스 벡터를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에서,\n상기 레트로바이러스 벡터는 렌티바이러스 벡터 또는 감마레트로바이러스 벡터인 것인 방법.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제19항 중 어느 한 항에서,\n상기 T세포는 한 명 이상의 공여자로부터 얻은 1차 T세포를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에서,\n상기 한 명 이상의 공여자는 인간 대상체인 것인 방법.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "T세포 부피 축소 처리를 위한 자동화 방법으로서, 상기 방법은\n활성화된 T세포 세트를 생성하기 위해 한 명 이상의 공여자로부터 얻은 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시킴으로써 입력 T세포 세트를 활성화하는 단계;\n재조합 폴리뉴클레오티드의 상기 활성화된 T세포 내로의 혼입을 촉진하는 조건 하에 상기 활성화된 T세포를 재조합 폴리뉴클레오티드와 접촉시킴으로써 상기 활성화된 T세포 세트를 변형시키는 단계로서, 상기 재조합 폴리뉴클레오티드는 이종 재조합 단백질을 암호화하는 핵산을 포함하여 변형된 T세포 세트를 생성하고;\n상기 변형된 T세포 세트를 확장하는 단계;\n확장 배지로부터 상기 변형된 T세포 세트를 회수하는 단계; 및\n상기 변형된 T세포의 수확된 세트를 생성하기 위해 상기 변형된 T세포 세트를 자동으로 동결보존함으로써 상기 변형된 T세포 세트를 수확하는 단계를 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에서, \n상기 변형 단계는 형질도입, 전기천공, 시약 기반 형질감염, 세포 압축, 또는 압착을 포함하는 것인 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 또는 제23항에서, \n상기 방법의 하나 이상의 단계는 자동으로 및/또는 작업자의 개입 없이 수행되는 것인 방법.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제24항 중 어느 한 항에서, \n상기 활성화된 T세포 세트를 접종 배지에 자동으로 전달함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 더 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제25항 중 어느 한 항에서,\n상기 활성화 단계는\n상기 입력 T세포 세트를 자동으로 세척하는 단계;\n선택적으로, 생존 세포 계수를 위해 상기 세척된 입력 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n상기 세척된 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시키는 단계; 및\n선택적으로, 생존 세포 계수를 위한 하나 이상의 활성화 시약과 접촉한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제23항 내지 제26항 중 어느 한 항에서,\n상기 형질도입 단계는\n선택적으로, 생존 세포 계수를 위해 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n회전 접종을 위해 상기 활성화된 T세포 세트를 자동으로 준비하는 단계;\n상기 활성화된 T세포 세트를 재조합 바이러스 벡터와 접촉시키고 상기 활성화된 T세포 세트에 원심력을 가함으로써 상기 활성화된 T세포 세트를 자동으로 회전 접종(spinoculation)하는 단계; 및\n선택적으로, 형질도입 후 포유동물 세포 인큐베이터에서 상기 활성화된 T세포 세트를 부화하거나 접종하는 단계를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에서, \n상기 접종 단계는 \n선택적으로, 생존 세포 계수를 위해 형질도입한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계; 및\n상기 활성화된 T세포 세트를 확장 플레이트에 자동으로 옮기고 상기 활성화된 T세포 세트를 포함하는 확장 플레이트를 포유동물 세포 인큐베이터에 배치함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제28항 중 어느 한 항에서,\n상기 확장 단계는\n생존 세포 계수를 위해 상기 변형된 T세포 세트의 시험 샘플을 얻는 단계; 및\n자동으로 모의 관류/세포 배양 배지 교환을 수행하는 단계를 더 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제29항 중 어느 한 항에서, \n디비딩 단계를 더 포함하고,\n상기 디비딩 단계는 자기장을 적용하여 상기 변형된 T세포 세트 및/또는 상기 활성화된 T세포 세트를 자동으로 디비딩하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제30항 중 어느 한 항에서,\n상기 수확하는 단계는 \n상기 변형된 T세포 세트를 동결보존 배지를 구비한 동결 바이알에 배치하는 단계; 및\n액체 질소 탱크에 상기 동결 바이알을 배치하는 단계를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제31항 중 어느 한 항에서, \n상기 T세포는 CD4+ T세포를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제31항 중 어느 한 항에서,\n상기 T세포는 CD8+ T세포를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제31항 중 어느 한 항에서,\n상기 T세포는 CD4+ T세포 및 CD8+ T세포를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제34항 중 어느 한 항에서,\n상기 이종 재조합 단백질은 재조합 수용체를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항에서, \n상기 재조합 수용체는 질병, 장애 또는 상태의 세포 또는 조직과 연관되거나, 특이적 및/또는 발현되는 표적 항원에 결합할 수 있는 것인 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에서, \n상기 질병, 장애 또는 상태는 전염성 질환 또는 장애, 자가면역 질환, 염증성 질환, 또는 종양 또는 암인 것인 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항 또는 제37항에서, \n상기 표적 항원은 종양 항원인 것인 방법.",
+            "refers_to": [
+              37
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항 내지 제38항 중 어느 한 항에서,\n상기 재조합 수용체는 기능적 비-TCR 항원 수용체 또는 TCR 또는 그의 항원 결합 단편이거나 이를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항 내지 제38항 중 어느 한 항에서,\n상기 재조합 수용체는 키메라 항원 수용체(CAR)인 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제40항 중 어느 한 항에서,\n상기 T세포는 한 명 이상의 공여자로부터 얻은 1차 T세포를 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에서,\n상기 한 명 이상의 공여자는 인간 대상체인 것인 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "T세포 형질도입을 위한 다중 자동화 시스템으로서, \n자동화 액체 취급 시스템; 및 \n상기 자동화 액체 취급 시스템과 통신하는 제어 시스템으로서, 상기 제어 시스템은 하기 단위 프로세스를 수행하기 위해 상기 자동화 액체 취급 시스템을 제어하도록 프로그래밍된 하나 이상의 프로세서를 포함하는 것인 시스템:\nT세포 세트를 활성화하는 단계; \n상기 T세포 세트를 변형하는 단계;\n상기 T세포 세트를 디비딩하는 단계; \n상기 T세포 세트를 접종하는 단계; \n상기 T세포 세트를 확장하는 단계; 및 \n상기 T세포 세트를 수확하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항에서,\n상기 자동화 액체 취급 시스템은 독립적인 다중채널 피펫 형식으로 액체를 전달하도록 구성된 가요성 채널 액체 조작 모듈을 포함하고,\n여기서 각 피펫은 독립적으로 작동하도록 구성되는 것인 시스템.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제44항에서,\n상기 가요성 채널 액체 조작 모듈은 액체 등급의 결정을 기반으로 약 0.5-5000 μL 사이의 유체 부피를 정확하게 조작하도록 구성되는 것인 시스템.",
+            "refers_to": [
+              44
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제44항 또는 제45항에서,\n상기 가요성 채널 액체 조작 모듈은 멸균 배양을 제공하기 위해 일회용 팁을 사용하도록 구성되는 것인 시스템.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제44항 내지 제46항 중 어느 한 항에서,\n상기 가요성 채널 액체 조작 모듈은 액체 변위 가요성 채널 아암인 것인 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제47항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 다중채널 피펫 형식으로 액체를 전달하도록 구성된 정적 다중채널 액체 조작 모듈을 포함하는 것인 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제48항에서,\n상기 정적 다중채널 액체 조작 모듈은 액체 변위 가요성 채널 아암 또는 다중채널 아암인 것인 시스템.",
+            "refers_to": [
+              48
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제49항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 호환 가능한 그리퍼 구성이 있는 용기 조작 모듈을 포함하는 것인 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제50항에서,\n상기 호환 가능한 그리퍼 구성은 실험실 산물의 수평 접근 및 운송을 위해 구성된 편심 핑거; 실험실 산물에 수직 접근을 위해 구성된 중심 핑거; 및 튜브형 실험기구의 운송을 위해 구성된 튜브 핑거를 포함하는 것인 시스템.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제50항 또는 제51항에서,\n상기 용기 조작 모듈은 긴 z축 로봇 그리퍼 아암인 것인 시스템.",
+            "refers_to": [
+              51
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제52항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 활성화, 변형, 접종, 확장, 디비딩 및 수확 단위 작업을 위해 독립적으로 구성 가능한 작업대를 포함하는 것인 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제53항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 온도 제어 로봇 원심분리기를 포함하는 것인 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제54항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 둥근 실험기구를 잡고 쥐도록 구성된 바이알 그리퍼 모듈을 포함하는 것인 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제55항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 생존 가능한 세포 수 측정을 수행하도록 구성된 자동화된 세포 계수 모듈을 포함하는 것인 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제56항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 저온 바이알을 유지하도록 구성된 휴대용 저온 냉각 챔버/캡 홀더를 포함하는 것인 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제57항 중 어느 한 항에서,\n상기 자동화 액체 취급 시스템은 멸균 환경을 제공하는 것인 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제58항 중 어느 한 항에서,\n포유동물 세포 인큐베이터를 더 포함하는 것인 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제59항 중 어느 한 항에서,\n상기 제어 시스템은 \n재조합 폴리뉴클레오티드의 상기 T세포 세트 내로의 혼입을 촉진하는 조건 하에 상기 T세포 세트를 재조합 폴리뉴클레오티드와 접촉시킴으로써 상기 T세포 세트를 변형시키기 위해 상기 자동화 액체 취급 시스템을 제어하도록 추가로 프로그래밍되고; 및\n상기 T세포 세트를 변형시키는 것은 상기 재조합 폴리뉴클레오티드를 상기 T세포 세트에 혼입시키기 위한 형질도입, 형질감염, 세포 압축, 또는 세포 압착 작업 중 하나를 포함하는 것인 시스템.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20230605",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 58,
+        "claims": [
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에서,\n상기 활성화 단계는 \n상기 입력 T세포 세트를 자동으로 세척하는 단계;\n선택적으로, 생존 세포 계수를 위해 상기 세척된 입력 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n상기 세척된 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시키는 단계; 및\n선택적으로, 생존 세포 계수를 위한 하나 이상의 활성화 시약과 접촉한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에서,\n상기 형질도입 단계는\n선택적으로, 생존 세포 계수를 위해 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n회전 접종을 위해 상기 활성화된 T세포 세트를 자동으로 준비하는 단계;\n상기 활성화된 T세포 세트를 상기 재조합 바이러스 벡터와 접촉시키고 상기 활성화된 T세포 세트에 원심력을 가함으로써 상기 활성화된 T세포 세트를 자동으로 회전 접종하는 단계; 및\n선택적으로, 형질도입 후 포유동물 세포 인큐베이터에서 상기 활성화된 T세포 세트를 부화(incubate)하거나 접종하는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에서,\n상기 접종 단계는\n선택적으로, 생존 세포 계수를 위해 형질도입한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계; 및\n상기 활성화된 T세포 세트를 확장 플레이트에 자동으로 옮기고 상기 활성화된 T세포 세트를 포함하는 확장 플레이트를 포유동물 세포 인큐베이터에 배치함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에서,\n상기 확장 단계는\n생존 세포 계수를 위해 상기 형질도입된 T세포 세트의 시험 샘플을 얻는 단계; 및\n자동으로 모의 관류/세포 배양 배지 교환을 수행하는 단계를 더 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에서,\n디비딩(debeading) 단계를 더 포함하고,\n상기 디비딩 단계는 자기장을 적용하여 상기 형질도입된 T세포 세트 및/또는 상기 활성화된 T세포 세트를 자동으로 디비딩하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에서,\n상기 수확하는 단계는 \n상기 형질도입된 T세포 세트를 동결보존 배지를 구비한 동결 바이알에 배치하는 단계; 및\n액체 질소 탱크에 상기 동결 바이알을 배치하는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에서,\n상기 T세포는 CD4+ T세포, 또는 CD8+ T세포, 또는 CD4+ T세포 및 CD8+ T세포를 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "T세포 부피 축소 처리를 위한 자동화 방법으로서, 상기 방법은\n활성화된 T세포 세트를 생성하기 위해 한 명 이상의 공여자로부터 얻은 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시킴으로써 입력 T세포 세트를 활성화하는 단계;\n재조합 폴리뉴클레오티드의 상기 활성화된 T세포 내로의 혼입을 촉진하는 조건 하에 상기 활성화된 T세포를 재조합 폴리뉴클레오티드와 접촉시킴으로써 상기 활성화된 T세포 세트를 변형시키는 단계로서, 상기 재조합 폴리뉴클레오티드는 이종 재조합 단백질을 암호화하는 핵산을 포함하여 변형된 T세포 세트를 생성하고;\n상기 변형된 T세포 세트를 확장하는 단계;\n확장 배지로부터 상기 변형된 T세포 세트를 회수하는 단계; 및\n상기 변형된 T세포의 수확된 세트를 생성하기 위해 상기 변형된 T세포 세트를 자동으로 동결보존함으로써 상기 변형된 T세포 세트를 수확하는 단계를 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에서,\n상기 활성화된 T세포 세트를 접종 배지에 자동으로 전달함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 더 포함하는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에서,\n상기 활성화 단계는\n상기 입력 T세포 세트를 자동으로 세척하는 단계;\n선택적으로, 생존 세포 계수를 위해 상기 세척된 입력 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n상기 세척된 입력 T세포 세트를 하나 이상의 활성화 시약과 자동으로 접촉시키는 단계; 및\n선택적으로, 생존 세포 계수를 위한 하나 이상의 활성화 시약과 접촉한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에서,\n상기 형질도입 단계는\n선택적으로, 생존 세포 계수를 위해 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계;\n회전 접종을 위해 상기 활성화된 T세포 세트를 자동으로 준비하는 단계;\n상기 활성화된 T세포 세트를 재조합 바이러스 벡터와 접촉시키고 상기 활성화된 T세포 세트에 원심력을 가함으로써 상기 활성화된 T세포 세트를 자동으로 회전 접종(spinoculation)하는 단계; 및\n선택적으로, 형질도입 후 포유동물 세포 인큐베이터에서 상기 활성화된 T세포 세트를 부화하거나 접종하는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에서, \n상기 접종 단계는 \n선택적으로, 생존 세포 계수를 위해 형질도입한 후 상기 활성화된 T세포 세트의 시험 샘플을 자동으로 얻는 단계; 및\n상기 활성화된 T세포 세트를 확장 플레이트에 자동으로 옮기고 상기 활성화된 T세포 세트를 포함하는 확장 플레이트를 포유동물 세포 인큐베이터에 배치함으로써 상기 활성화된 T세포 세트를 접종하는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에서,\n상기 확장 단계는\n생존 세포 계수를 위해 상기 변형된 T세포 세트의 시험 샘플을 얻는 단계; 및\n자동으로 모의 관류/세포 배양 배지 교환을 수행하는 단계를 더 포함하는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에서, \n디비딩 단계를 더 포함하고,\n상기 디비딩 단계는 자기장을 적용하여 상기 변형된 T세포 세트 및/또는 상기 활성화된 T세포 세트를 자동으로 디비딩하는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에서,\n상기 수확하는 단계는 \n상기 변형된 T세포 세트를 동결보존 배지를 구비한 동결 바이알에 배치하는 단계; 및\n액체 질소 탱크에 상기 동결 바이알을 배치하는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에서, \n상기 T세포는 CD4+ T세포, 또는 CD8+ T세포, 또는 CD4+ T세포 및 CD8+ T세포를 포함하는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "T세포 형질도입을 위한 다중 자동화 시스템으로서, \n자동화 액체 취급 시스템; 및 \n상기 자동화 액체 취급 시스템과 통신하는 제어 시스템으로서, 상기 제어 시스템은 하기 단위 프로세스를 수행하기 위해 상기 자동화 액체 취급 시스템을 제어하도록 프로그래밍된 하나 이상의 프로세서를 포함하는 것인 시스템:\nT세포 세트를 활성화하는 단계; \n상기 T세포 세트를 변형하는 단계;\n상기 T세포 세트를 디비딩하는 단계; \n상기 T세포 세트를 접종하는 단계; \n상기 T세포 세트를 확장하는 단계; 및 \n상기 T세포 세트를 수확하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n상기 자동화 액체 취급 시스템은 독립적인 다중채널 피펫 형식으로 액체를 전달하도록 구성된 가요성 채널 액체 조작 모듈을 포함하고,\n여기서 각 피펫은 독립적으로 작동하도록 구성되는 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에서,\n상기 가요성 채널 액체 조작 모듈은 액체 등급의 결정을 기반으로 약 0.5-5000 μL 사이의 유체 부피를 정확하게 조작하도록 구성되는 것인 시스템.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에서,\n상기 가요성 채널 액체 조작 모듈은 멸균 배양을 제공하기 위해 일회용 팁을 사용하도록 구성되는 것인 시스템.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에서,\n상기 가요성 채널 액체 조작 모듈은 액체 변위 가요성 채널 아암인 것인 시스템.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n상기 자동화 액체 취급 시스템은 다중채널 피펫 형식으로 액체를 전달하도록 구성된 정적 다중채널 액체 조작 모듈을 포함하는 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에서,\n상기 정적 다중채널 액체 조작 모듈은 액체 변위 가요성 채널 아암 또는 다중채널 아암인 것인 시스템.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n상기 자동화 액체 취급 시스템은 호환 가능한 그리퍼 구성이 있는 용기 조작 모듈을 포함하는 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제26항에서,\n상기 호환 가능한 그리퍼 구성은 실험실 산물의 수평 접근 및 운송을 위해 구성된 편심 핑거; 실험실 산물에 수직 접근을 위해 구성된 중심 핑거; 및 튜브형 실험기구의 운송을 위해 구성된 튜브 핑거를 포함하는 것인 시스템.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n상기 용기 조작 모듈은 긴 z축 로봇 그리퍼 아암인 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n상기 자동화 액체 취급 시스템은 활성화, 변형, 접종, 확장, 디비딩 및 수확 단위 작업을 위해 독립적으로 구성 가능한 작업대를 포함하는 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n상기 자동화 액체 취급 시스템은 온도 제어 로봇 원심분리기를 포함하는 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n상기 자동화 액체 취급 시스템은 둥근 실험기구를 잡고 쥐도록 구성된 바이알 그리퍼 모듈을 포함하는 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n상기 자동화 액체 취급 시스템은 생존 가능한 세포 수 측정을 수행하도록 구성된 자동화된 세포 계수 모듈을 포함하는 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n상기 자동화 액체 취급 시스템은 저온 바이알을 유지하도록 구성된 휴대용 저온 냉각 챔버/캡 홀더를 포함하는 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n상기 자동화 액체 취급 시스템은 멸균 환경을 제공하는 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n포유동물 세포 인큐베이터를 더 포함하는 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에서,\n상기 제어 시스템은 \n재조합 폴리뉴클레오티드의 상기 T세포 세트 내로의 혼입을 촉진하는 조건 하에 상기 T세포 세트를 재조합 폴리뉴클레오티드와 접촉시킴으로써 상기 T세포 세트를 변형시키기 위해 상기 자동화 액체 취급 시스템을 제어하도록 추가로 프로그래밍되고; 및\n상기 T세포 세트를 변형시키는 것은 상기 재조합 폴리뉴클레오티드를 상기 T세포 세트에 혼입시키기 위한 형질도입, 형질감염, 세포 압축, 또는 세포 압착 작업 중 하나를 포함하는 것인 시스템.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 60,
+      "after_claim_count": 58,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.12.10",
+      "internationOpenNumber": "WO2020247832",
+      "internationalApplicationDate": "2020.06.05",
+      "internationalApplicationNumber": "PCT/US2020/036442"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 워싱턴 ***** 시애틀 스위트 **** 덱스터 애비뉴 노스 ***",
+      "code": "520150160494",
+      "country": "미국",
+      "engName": "Juno Therapeutics, Inc.",
+      "name": "주노 쎄러퓨티크스 인코퍼레이티드"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국, 워싱턴주 *****, 시애...",
+        "code": "",
+        "country": "",
+        "engName": "AIFUWA, Ivie",
+        "name": "아이후와, 아이비"
+      },
+      {
+        "address": "미국, 워싱턴주 *****, ...",
+        "code": "",
+        "country": "",
+        "engName": "BEAUCHESNE, Pascal",
+        "name": "보센느, 파스칼"
+      },
+      {
+        "address": "미국, 워싱턴주 *****,...",
+        "code": "",
+        "country": "",
+        "engName": "KHUU-DUONG, Kien",
+        "name": "쿠-두옹, 키엔"
+      },
+      {
+        "address": "미국, 워싱턴주 *****, ...",
+        "code": "",
+        "country": "",
+        "engName": "LEUBA, Kohana",
+        "name": "레우바, 코하나"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 역삼로 *** *층 (역삼동, 현죽빌딩)",
+      "code": "920181000011",
+      "country": "대한민국",
+      "engName": "SUNGAM SUH INTERNATIONAL PATENT & LAW FIRM",
+      "name": "특허법인성암"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2019.06.07",
+      "priorityApplicationNumber": "62/858,736"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2022.01.06",
+        "receiptNumber": "1-1-2022-0018368-04"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[New Translation under Article 201 of Patent Act or Article 35 of Utility Model Act] Submission of Document",
+        "documentName": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+        "receiptDate": "2022.01.13",
+        "receiptNumber": "1-1-2022-0047818-17"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2022.02.08",
+        "receiptNumber": "1-5-2022-0020972-57"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.02.09",
+        "receiptNumber": "1-1-2022-0144798-90"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2022.02.09",
+        "receiptNumber": "1-5-2022-0021502-91"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.06.05",
+        "receiptNumber": "1-1-2023-0618436-52"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.06.05",
+        "receiptNumber": "1-1-2023-0618423-69"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2025.09.18",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2025.10.01",
+        "receiptNumber": "9-6-2025-0191586-37"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.23",
+        "receiptNumber": "9-5-2025-1026541-13"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020227000519.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93c3842bda46d63a0e359589e763aec76e675d189a655e0a95f94620cd7a24836872a5eafab42963d17e2fbeef6ef308d6928aede481b32942",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfeaf8e3570281ea82996ca07aa2f2eae76a82cb082773d3191fab0a298ea54e9472a9eb5de59da02b338deda36c2235ee75aeae73639945d4"
+  },
+  "rndInfoArray": ""
+}

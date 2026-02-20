@@ -1,0 +1,754 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.03.03",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-0026733",
+      "claimCount": "8",
+      "examinerName": "문명순",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "PCV2d 재조합 단백질을 포함하는 백신 조성물",
+      "inventionTitleEng": "Vaccine composition comprising PCV2d  recombinant protein",
+      "openDate": "",
+      "openNumber": "",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.03.03",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2020.10.21",
+      "publicationNumber": "",
+      "registerDate": "2020.10.15",
+      "registerNumber": "10-2168646-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/005"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/12"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/20"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 돼지 써코바이러스 2형 (Porcine circovirus 2, PCV2) 예방용 백신에 관한 것으로, 더욱 상세하게는 곤충세포에서 유전자 번역 효율을 높이기 위해, 재조합 단백질의 ORF2 (Open reading frame 2) 코돈을 최적화한 염기서열을 기반으로 제작한 돼지 써코바이러스 2형 백신 조성물에 관한 것이다. 본 발명의 PCV2를 예방하는 돼지 써코바이러스 백신 조성물은 기존 백신의 문제점을 효과적으로 보완하여 PCV2a, PCV2b, PCV2c 및 PCV2d 네가지 타입의 돼지 써코바이러스에 모두 효과를 나타내며, 기존 PCV2의 ORF2 서열을 최적화함으로써 단백질 발현 수준을 현저히 높여 생산단가가 절감된 백신이기 때문에 가격 경쟁력 또한 우수하다."
+    }
+  },
+  "claims": {
+    "application_number": "1020200026733",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200303",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 3의 염기서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2(open reading frame, ORF2) 재조합 유전자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 재조합 유전자는 암호화하는 아미노산 서열에 대한 코돈 최적화된 것인, 재조합 유전자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항의 재조합 유전자를 포함하는, 재조합 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항의 재조합 벡터가 형질도입된 재조합 베큘로바이러스.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항의 베큘로바이러스를 세포에 접종하는 단계를 포함하는, 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질 제조 방법.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항의 제조 방법에 의해 제조된, 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 7의 아미노산 서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 서열번호 7의 아미노산 서열은 서열번호 3의 염기서열에 의해 암호화 되는 것인, 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 7의 아미노산 서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질을 포함하는, 돼지 써코바이러스 감염성 질환의 예방용 백신 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 돼지 써코바이러스 감염성 질환은 이유후 전신성 소모성 증후군 (PMWS; Post-weaning Multisystemic Wasting Syndrome), 가성 광견병 (pseudorabies), 돼지 생식기 및 호흡기 증후군 (PRRS: Porcine Reproductive and Respiratory Syndrome), 글래서병 (Glasser's disease), 연쇄구균성 수막염 (streptococcal meningitis), 살모넬라증 (salmonellosis), 이유후 대장균증 (postweaning colibacillosis), 식이성 간증 (dietetic hepatosis) 및 화농성 기관지폐렴 (suppurative bronchopneumonia)으로 이루어진 군에서 선택된 어느 하나인, 돼지 써코바이러스 감염성 질환의 예방용 백신 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 백신 조성물은 PCV2a, PCV2b 및 PCV2d 바이러스에 교차반응을 나타내는 것인, 돼지 써코바이러스 감염성 질환의 예방용 백신 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항의 백신 조성물을 인간을 제외한 개체에 투여하는 단계를 포함하는, 돼지 써코바이러스 감염성 질환의 예방 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 개체는 돼지인, 돼지 써코바이러스 감염성 질환의 예방 방법.",
+          "refers_to": [
+            12
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20200609",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 3의 염기서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2(open reading frame, ORF2) 재조합 유전자에 의해 암호화된 아미노산 서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질을 포함하며, 상기 재조합 단백질은 PCV2a, PCV2b 및 PCV2d 바이러스에 교차반응을 나타내는 것인, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 재조합 유전자는 암호화하는 아미노산 서열에 대한 코돈 최적화된 것인, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 3의 염기서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2(open reading frame, ORF2) 재조합 유전자를 포함하는 재조합 벡터를 베큘로바이러스에 형질도입하는 단계; 상기 베큘로바이러스를 세포에 접종하는 단계; 및상기 세포로부터 PCV2a, PCV2b 및 PCV2d 바이러스에 교차반응을 나타내는 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2(open reading frame, ORF2) 재조합 단백질을 수득하는 단계;를 포함하는 PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물 제조 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항의 제조방법에 의해 제조된, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 7의 아미노산 서열로 이루어지고, PCV2a, PCV2b 및 PCV2d 바이러스에 교차반응을 나타내는 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질을 포함하는, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 PCV2a, PCV2b 및 PCV2d 감염성 질환은 이유후 전신성 소모성 증후군 (PMWS; Post-weaning Multisystemic Wasting Syndrome), 가성 광견병 (pseudorabies), 돼지 생식기 및 호흡기 증후군 (PRRS: Porcine Reproductive and Respiratory Syndrome), 글래서병 (Glasser's disease), 연쇄구균성 수막염 (streptococcal meningitis), 살모넬라증 (salmonellosis), 이유후 대장균증 (postweaning colibacillosis), 식이성 간증 (dietetic hepatosis) 및 화농성 기관지폐렴 (suppurative bronchopneumonia)으로 이루어진 군에서 선택된 어느 하나인, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항의 백신 조성물을 인간을 제외한 개체에 투여하는 단계를 포함하는, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection) 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 개체는 돼지인, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection) 방법.",
+          "refers_to": [
+            12
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200303",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 3의 염기서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2(open reading frame, ORF2) 재조합 유전자.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 재조합 유전자는 암호화하는 아미노산 서열에 대한 코돈 최적화된 것인, 재조합 유전자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항의 재조합 유전자를 포함하는, 재조합 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항의 재조합 벡터가 형질도입된 재조합 베큘로바이러스.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항의 베큘로바이러스를 세포에 접종하는 단계를 포함하는, 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질 제조 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항의 제조 방법에 의해 제조된, 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 7의 아미노산 서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 서열번호 7의 아미노산 서열은 서열번호 3의 염기서열에 의해 암호화 되는 것인, 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 7의 아미노산 서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질을 포함하는, 돼지 써코바이러스 감염성 질환의 예방용 백신 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 돼지 써코바이러스 감염성 질환은 이유후 전신성 소모성 증후군 (PMWS; Post-weaning Multisystemic Wasting Syndrome), 가성 광견병 (pseudorabies), 돼지 생식기 및 호흡기 증후군 (PRRS: Porcine Reproductive and Respiratory Syndrome), 글래서병 (Glasser's disease), 연쇄구균성 수막염 (streptococcal meningitis), 살모넬라증 (salmonellosis), 이유후 대장균증 (postweaning colibacillosis), 식이성 간증 (dietetic hepatosis) 및 화농성 기관지폐렴 (suppurative bronchopneumonia)으로 이루어진 군에서 선택된 어느 하나인, 돼지 써코바이러스 감염성 질환의 예방용 백신 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 백신 조성물은 PCV2a, PCV2b 및 PCV2d 바이러스에 교차반응을 나타내는 것인, 돼지 써코바이러스 감염성 질환의 예방용 백신 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항의 백신 조성물을 인간을 제외한 개체에 투여하는 단계를 포함하는, 돼지 써코바이러스 감염성 질환의 예방 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 개체는 돼지인, 돼지 써코바이러스 감염성 질환의 예방 방법.",
+            "refers_to": [
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200609",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 3의 염기서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2(open reading frame, ORF2) 재조합 유전자에 의해 암호화된 아미노산 서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질을 포함하며, 상기 재조합 단백질은 PCV2a, PCV2b 및 PCV2d 바이러스에 교차반응을 나타내는 것인, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 재조합 유전자는 암호화하는 아미노산 서열에 대한 코돈 최적화된 것인, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 3의 염기서열로 이루어진 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2(open reading frame, ORF2) 재조합 유전자를 포함하는 재조합 벡터를 베큘로바이러스에 형질도입하는 단계; \n상기 베큘로바이러스를 세포에 접종하는 단계; 및\n상기 세포로부터 PCV2a, PCV2b 및 PCV2d 바이러스에 교차반응을 나타내는 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2(open reading frame, ORF2) 재조합 단백질을 수득하는 단계;를 포함하는 PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항의 제조방법에 의해 제조된, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 7의 아미노산 서열로 이루어지고, PCV2a, PCV2b 및 PCV2d 바이러스에 교차반응을 나타내는 돼지 써코바이러스 2d(PCV2d)의 오픈 리딩 프레임 2 재조합 단백질을 포함하는, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 PCV2a, PCV2b 및 PCV2d 감염성 질환은 이유후 전신성 소모성 증후군 (PMWS; Post-weaning Multisystemic Wasting Syndrome), 가성 광견병 (pseudorabies), 돼지 생식기 및 호흡기 증후군 (PRRS: Porcine Reproductive and Respiratory Syndrome), 글래서병 (Glasser's disease), 연쇄구균성 수막염 (streptococcal meningitis), 살모넬라증 (salmonellosis), 이유후 대장균증 (postweaning colibacillosis), 식이성 간증 (dietetic hepatosis) 및 화농성 기관지폐렴 (suppurative bronchopneumonia)으로 이루어진 군에서 선택된 어느 하나인, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection)용 백신 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항의 백신 조성물을 인간을 제외한 개체에 투여하는 단계를 포함하는, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection) 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 상기 개체는 돼지인, PCV2a, PCV2b 및 PCV2d 감염성 질환의 교차 예방(cross protection) 방법.",
+            "refers_to": [
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 13,
+      "after_claim_count": 13,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "경상북도 김천시 ...",
+        "code": "219981064455",
+        "country": "대한민국",
+        "engName": "REPUBLIC OF KOREA(Animal and Plant Quarantine Agency)",
+        "name": "대한민국(농림축산식품부 농림축산검역본부장)"
+      },
+      {
+        "address": "충청남도 예산군...",
+        "code": "120020128040",
+        "country": "대한민국",
+        "engName": "KBNP, INC.",
+        "name": "주식회사 고려비엔피"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "충청남도 천안시 서북구...",
+        "code": "",
+        "country": "",
+        "engName": "Cha, Sang Ho",
+        "name": "차상호"
+      },
+      {
+        "address": "경상북도 김천시 혁신*로 **...",
+        "code": "",
+        "country": "",
+        "engName": "Kang, Seok Jin",
+        "name": "강석진"
+      },
+      {
+        "address": "경기도 의왕...",
+        "code": "",
+        "country": "",
+        "engName": "You, Su Hwa",
+        "name": "유수화"
+      },
+      {
+        "address": "경상북도 김천시 용전*로 *...",
+        "code": "",
+        "country": "",
+        "engName": "Hyun, Bang Hun",
+        "name": "현방훈"
+      },
+      {
+        "address": "경기도 안양시 동안구...",
+        "code": "",
+        "country": "",
+        "engName": "Bae, Sung Min",
+        "name": "배성민"
+      },
+      {
+        "address": "경기도 성남시 분당구...",
+        "code": "",
+        "country": "",
+        "engName": "Shin, Dong Ju",
+        "name": "신동주"
+      },
+      {
+        "address": "경기도 광명...",
+        "code": "",
+        "country": "",
+        "engName": "Choi, Chi Won",
+        "name": "최치원"
+      },
+      {
+        "address": "서울특별시 서초구...",
+        "code": "",
+        "country": "",
+        "engName": "Lee, Nak Hyung",
+        "name": "이낙형"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 구로구 디지털로**길 **, 에이스테크노타워*차 ***-*호(특허법인정진)",
+      "code": "920060005344",
+      "country": "대한민국",
+      "engName": "KIM,SOON-WOONG",
+      "name": "김순웅"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020190014263 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2019025519 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020140140158 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020170050990 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "K. Kim 등, Korean J. Vet. Res., Vol.58, No.3, p.143-146 (2018)",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2020.03.03",
+        "receiptNumber": "1-1-2020-0227405-73"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Preferential Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[우선심사신청]심사청구(우선심사신청)서",
+        "receiptDate": "2020.03.17",
+        "receiptNumber": "1-1-2020-0281000-41"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.04.17",
+        "receiptNumber": "9-5-2020-0271879-13"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.06.09",
+        "receiptNumber": "1-1-2020-0593281-37"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.06.09",
+        "receiptNumber": "1-1-2020-0593282-83"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2020.08.19",
+        "receiptNumber": "9-5-2020-0564670-62"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020200026733.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00db94ef702403c766df60a28d9f4dce16aaff3101bc799a8eb2bdd69e5c5e4d5534fffe1a2637ceaeb0ee56ab355fd6be3b28a28a92eec685",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf46a90d4e44069ac219c2a2d4c01aa6ede60549db0b5fb7a715ab477cdfe9616d59a6f6e635bec1179c87dbbcbc6a2fc19459f8142153be47"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "농림축산식품부",
+      "rndDuration": "2019.02.28 ~ 2021.12.31",
+      "rndManagingInstituteName": "농림축산검역본부",
+      "rndProjectName": "농림축산검역검사기술개발",
+      "rndSpecialInstituteName": "농림축산검역본부",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "최근 국내 유행 써코바이러스 type 2(PCV2) 야외분리주를 이용한 백신개발",
+      "rndTaskNumber": "1545019630"
+    }
+  }
+}

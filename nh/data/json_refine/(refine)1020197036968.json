@@ -1,0 +1,1025 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2018.06.08",
+      "applicationFlag": "",
+      "applicationNumber": "10-2019-7036968",
+      "claimCount": "20",
+      "examinerName": "김채연",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "신생항원 동정, 제조, 및 용도",
+      "inventionTitleEng": "NEOANTIGEN IDENTIFICATION, MANUFACTURE, AND USE",
+      "openDate": "2020.02.14",
+      "openNumber": "10-2020-0016265",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2021.06.07",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2024.11.13",
+      "publicationNumber": "",
+      "registerDate": "2024.11.08",
+      "registerNumber": "10-2729393-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2019.12.13"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2019.01.01)",
+        "ipcNumber": "G16B 30/10"
+      },
+      {
+        "ipcDate": "(2019.01.01)",
+        "ipcNumber": "G16B 20/20"
+      },
+      {
+        "ipcDate": "(2019.01.01)",
+        "ipcNumber": "G16B 5/00"
+      },
+      {
+        "ipcDate": "(2018.01.01)",
+        "ipcNumber": "G16H 70/60"
+      },
+      {
+        "ipcDate": "(2018.01.01)",
+        "ipcNumber": "G16H 20/10"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/47"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "G01N 33/68"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/00"
+      },
+      {
+        "ipcDate": "(2018.01.01)",
+        "ipcNumber": "G16H 50/30"
+      },
+      {
+        "ipcDate": "(2019.01.01)",
+        "ipcNumber": "G16B 40/20"
+      },
+      {
+        "ipcDate": "(2018.01.01)",
+        "ipcNumber": "G16H 10/40"
+      },
+      {
+        "ipcDate": "(2018.01.01)",
+        "ipcNumber": "G16H 10/60"
+      },
+      {
+        "ipcDate": "(2019.01.01)",
+        "ipcNumber": "G06N 20/00"
+      },
+      {
+        "ipcDate": "(2019.01.01)",
+        "ipcNumber": "G16B 40/10"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "개체의 종양 돌연변이에 기초하여 결정된 대립유전자, 신생항원, 및 백신 조성물을 결정하기 위한 시스템 및 방 법이 본원에서 개시된다.또한,종양으로부터 고품질 서열분석 데이터를 얻기 위한 시스템 및 방법이 개시된다.또한, 다형성 게놈 데이터에서 체세포 변화를 동정하기 위한 시스템 및 방법이 기재된다. 또한, 치료를 위한 환자의 서브셋을 선택하기 위한 시스템 및 방법이 기재된다. 종양 세포의 표면 상에 제시된 신생항원의 추정 수를 나타내는 유용성 스코어가 환자에 대해 동정된 하나 이상의 신생항원에 기초하여 각각의 환자에 대해 결정된다. 환자의 서브셋은 결정된 유용성 스토어에 기초하여 선택된다. 선택된 환자의 서브셋은 신생항원 백신 또는 체크포인트 억제제 요법 등의 치료를 수용할 수 있다. 마지막으로, 특유의 암 백신이 본원에 기재된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020197036968",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20191213",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 20,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기 단계들을 포함하는, 치료를 위한 환자의 서브셋을 동정하는 방법:\n각각의 환자에 대하여, 환자의 종양 세포 및 정상 세포로부터 엑솜, 전사체, 또는 전체 게놈 종양 뉴클레오타이드 서열분석 데이터 중 적어도 하나를 얻는 단계로서, 종양 뉴클레오타이드 서열분석 데이터는 종양 세포로부터의 뉴클레오타이드 서열분석 데이터와 정상 세포로부터의 뉴클레오타이드 서열분석 데이터를 비교함으로써 동정된 신생항원 세트 각각의 펩타이드 서열을 얻는 데 사용되고, 환자에 대한 각각의 신생항원의 펩타이드 서열은 환자의 정상 세포로부터 동정된 상응하는 야생형 모 펩타이드 서열과 구별되게 하는 적어도 하나의 변경을 포함하는 것인 단계;\n각각의 환자에 대하여, 신생항원의 세트 각각의 펩타이드 서열을 기계 학습 제시 모델에 입력하여, 환자에 대한 신생항원의 세트에 대한 수치상 제시 가능성의 세트를 생성하는 단계로서, 각각의 제시 가능성은, 상응하는 신생항원이 환자의 종양 세포의 표면 상의 하나 이상의 MHC 대립유전자에 의해 제시되는 가능성을 나타내고, 제시 가능성의 세트는 적어도 질량 분광분석 데이터에 기초하여 동정되는 것인 단계;\n각각의 환자에 대하여, 환자에 대한 신생항원의 세트로부터 하나 이상의 신생항원을 동정하는 단계; \n각각의 환자에 대하여, 환자에 대한 하나 이상의 신생항원에 대한 상응하는 제시 가능성에 의해 결정되는 환자의 종양 세포의 표면 상에 제시된 신생항원의 추정 수를 나타내는 유용성 스코어를 결정하는 단계; 및\n치료를 위한 환자의 서브셋을 선택하는 단계로서, 환자의 서브셋의 각각의 환자는 소정의 포함 기준을 만족하는 유용성 스코어와 관련되는 것인 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 환자에 대한 하나 이상의 신생항원의 동정이, 환자에 대한 신생항원의 세트에서 신생항원의 서브셋을 선택하는 단계를 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 신생항원의 서브셋이 상기 환자에 대한 제시 가능성의 세트에서 최고 제시 가능성을 갖는 신생항원인 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 선택된 환자의 서브셋에서 각각의 환자에 대하여, 환자에 대해 동정된 하나 이상의 신생항원 중 적어도 하나를 포함하는 상응하는 신생항원 백신으로 치료하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 선택된 환자의 서브셋에서 각각의 환자에 대하여, 환자에 대해 동정된 하나 이상의 신생항원 중 적어도 하나에 대하여 항원-특이적인 하나 이상의 T-세포 또는 T-세포 수용체를 동정하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 환자에 대한 하나 이상의 신생항원의 동정하는 단계는, 환자에 대해 동정된 신생항원의 전체 세트를 선택하는 단계를 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 선택된 환자의 서브셋에서 각각의 환자에게 체크포인트 억제제 치료제를 투여하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 치료를 위한 상기 환자의 서브셋을 선택하는 단계는, 최소 임계치 초과의 종양 돌연변이 부담 (TMB)을 갖는 환자의 서브셋을 선택하는 단계를 포함하며, 여기서 환자에 대한 TMB는 환자와 관련된 신생항원의 세트에서의 신생항원의 수를 나타내는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 치료를 위한 환자의 서브셋의 선택하는 단계는, 최소 임계치 초과의 유용성 스코어를 갖는 환자의 서브셋을 선택하는 단계를 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 유용성 스코어가, 환자의 신생항원의 동정된 서브셋에서 각각의 신생항원에 대한 제시 가능성의 합계인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 유용성 스코어가, 환자에 대한 동정된 하나 이상의 신생항원에서 제시된 신생항원의 수가 최소 임계치 초과일 확률인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 기계 학습 제시 모델이 하기를 포함하는, 방법:\n 복수의 샘플 중 적어도 하나에 존재하는 것으로 동정된 적어도 하나의 MHC 대립유전자에 결합된 펩타이드의 존재를 측정하는 질량 분광분석에 의해 얻어진 라벨,\n 훈련 펩타이드 서열을 구성하는 복수의 아미노산 및 훈련 펩타이드 서열에서 아미노산의 위치의 세트에 대한 정보를 포함하는 훈련 펩타이드 서열, 및\n 훈련 펩타이드 서열과 관련된 적어도 하나의 MHC 대립유전자\n를 포함하는 적어도 훈련 데이터 세트에 기초하여 동정된 복수의 파라미터; 및\n복수의 파라미터에 기초한 제시 가능성과 펩타이드 서열 사이의 관계를 나타내는 함수.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 훈련 데이터 세트가 하기 중 적어도 하나를 추가로 포함하는, 방법:\n(a) 단리된 펩타이드 중 적어도 하나에 대해 펩타이드-MHC 결합 친화성 측정과 관련된 데이터; 및\n(b) 단리된 펩타이드 중 적어도 하나에 대해 펩타이드-MHC 결합 안정성 측정과 관련된 데이터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 수치상 가능성의 세트가 하기 중 적어도 하나를 포함하는 특징에 의해 추가로 동정되는 것인 방법:\n(a) 원천 단백질 서열 내에서 신생항원 암호화 펩타이드 서열에 측접하는 C-말단 서열; 및\n(b) 원천 단백질 서열 내에서 신생항원 암호화 펩타이드에 측접하는 N-말단 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제시 가능성의 세트를, RNA-seq 또는 질량 분광분석에 의해 측정된, 대상체에서의 하나 이상의 MHC 대립유전자의 적어도 발현 수준에 의해 추가로 동정하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제시 가능성의 세트를 하기 중 적어도 하나를 포함하는 특징에 의해 추가로 동정하는 것인 방법:\n(a) 신생항원 세트에서 신생항원과 하나 이상의 MHC 대립유전자 사이의 예측 친화성; 및\n(b) 신생항원 암호화된 펩타이드-MHC 복합체의 예측 안정성.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 펩타이드 서열의 기계 학습 제시 모델로의 입력이,\n각각의 신생항원의 펩타이드 서열에 기계 학습 제시 모델을 적용하여, MHC 대립유전자가 펩타이드 서열의 특정 위치에서 특정 아미노산에 기초한 신생항원을 제시할 것인지 여부를 나타내는 하나 이상의 MHC 대립유전자 각각에 대한 의존성 스코어를 생성하는 것\n을 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 펩타이드 서열의 기계 학습 제시 모델로의 입력이 하기 단계들을 포함하는 것인 방법:\n의존성 스코어를 변환하여, 상응하는 MHC 대립유전자가 상응하는 신생항원을 제시할 가능성을 나타내는 각각의 MHC 대립유전자에 대한 상응하는 과-대립유전자 가능성을 생성하는 단계; 및\n과-대립유전자 가능성을 조합하여 신생항원의 제시 가능성을 생성하는 단계.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 의존성 스코어의 변환하는 단계는 하나 이상의 부류 II MHC 대립유전자에 걸쳐 상호 배타적인 것으로 신생항원의 제시를 모델링하는 방법.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 상기 펩타이드 서열의 기계 학습 제시 모델로의 입력이 의존성 스코어의 조합을 변환하여 제시 가능성을 생성하는 것을 포함하며, 여기서 의존성 스코어의 조합의 변환은 하나 이상의 부류 MHC 대립유전자 사이의 간섭으로서 신생항원의 제시를 모델링하는 것인 방법.",
+          "refers_to": [
+            17
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20240219",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 23,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기 단계들을 포함하는, 치료를 위한 환자의 서브셋을 동정하는 방법:각각의 환자에 대하여, 환자의 종양 세포 및 정상 세포로부터 엑솜, 전사체, 또는 전체 게놈 종양 뉴클레오타이드 서열분석 데이터 중 적어도 하나를 얻는 단계로서, 종양 뉴클레오타이드 서열분석 데이터는 종양 세포로부터의 뉴클레오타이드 서열분석 데이터와 정상 세포로부터의 뉴클레오타이드 서열분석 데이터를 비교함으로써 동정된 신생항원 세트 각각의 펩타이드 서열을 얻는 데 사용되고, 환자에 대한 각각의 신생항원의 펩타이드 서열은 환자의 정상 세포로부터 동정된 상응하는 야생형 모 펩타이드 서열과 구별되게 하는 적어도 하나의 변경을 포함하는 것인 단계;각각의 환자에 대하여, 신생항원의 세트 각각의 펩타이드 서열을 기계 학습 제시 모델에 입력하여, 환자에 대한 신생항원의 세트에 대한 수치상 제시 가능성의 세트를 생성하는 단계로서, 각각의 제시 가능성은, 상응하는 신생항원이 환자의 종양 세포의 표면 상의 하나 이상의 MHC 대립유전자에 의해 제시되는 가능성을 나타내고, 제시 가능성의 세트는 적어도 질량 분광분석 데이터에 기초하여 동정되는 것이고, 기계 학습 제시 모델이 하기를 포함하는, 단계:\t복수의 샘플 중 적어도 하나에 존재하는 것으로 동정된 적어도 하나의 MHC 대립유전자에 결합된 펩타이드의 존재를 측정하는 질량 분광분석에 의해 얻어진 라벨,\t훈련 펩타이드 서열을 구성하는 복수의 아미노산 및 훈련 펩타이드 서열에서 아미노산의 위치의 세트에 대한 정보를 포함하는 훈련 펩타이드 서열, 및\t훈련 펩타이드 서열과 관련된 적어도 하나의 MHC 대립유전자를 포함하는 적어도 훈련 데이터 세트에 기초하여 동정된 복수의 파라미터; 및복수의 파라미터에 기초한 제시 가능성과 펩타이드 서열 사이의 관계를 나타내는 함수;각각의 환자에 대하여, 환자에 대한 신생항원의 세트로부터 하나 이상의 신생항원을 동정하는 단계; 각각의 환자에 대하여, 환자에 대한 하나 이상의 신생항원에 대한 상응하는 제시 가능성에 의해 결정되는 환자의 종양 세포의 표면 상에 제시된 신생항원의 추정 수를 나타내는 유용성 스코어를 결정하는 단계; 및치료를 위한 환자의 서브셋을 선택하는 단계로서, 환자의 서브셋의 각각의 환자는 소정의 포함 기준을 만족하는 유용성 스코어와 관련되는 것인 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 환자에 대한 하나 이상의 신생항원의 동정이, 환자에 대한 신생항원의 세트에서 신생항원의 서브셋을 선택하는 단계를 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 신생항원의 서브셋이 상기 환자에 대한 제시 가능성의 세트에서 최고 제시 가능성을 갖는 신생항원인 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 선택된 환자의 서브셋에서 각각의 환자에 대하여, 환자에 대해 동정된 하나 이상의 신생항원 중 적어도 하나에 대하여 항원-특이적인 하나 이상의 T-세포 또는 T-세포 수용체를 동정하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 환자에 대한 하나 이상의 신생항원의 동정하는 단계는, 환자에 대해 동정된 신생항원의 전체 세트를 선택하는 단계를 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 치료를 위한 상기 환자의 서브셋을 선택하는 단계는, 최소 임계치 초과의 종양 돌연변이 부담 (TMB)을 갖는 환자의 서브셋을 선택하는 단계를 포함하며, 여기서 환자에 대한 TMB는 환자와 관련된 신생항원의 세트에서의 신생항원의 수를 나타내는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 치료를 위한 환자의 서브셋의 선택하는 단계는, 최소 임계치 초과의 유용성 스코어를 갖는 환자의 서브셋을 선택하는 단계를 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 유용성 스코어가, 환자의 신생항원의 동정된 서브셋에서 각각의 신생항원에 대한 제시 가능성의 합계인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 유용성 스코어가, 환자에 대한 동정된 하나 이상의 신생항원에서 제시된 신생항원의 수가 최소 임계치 초과일 확률인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 훈련 데이터 세트가 하기 중 적어도 하나를 추가로 포함하는, 방법:(a) 단리된 펩타이드 중 적어도 하나에 대해 펩타이드-MHC 결합 친화성 측정과 관련된 데이터; 및(b) 단리된 펩타이드 중 적어도 하나에 대해 펩타이드-MHC 결합 안정성 측정과 관련된 데이터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 수치상 가능성의 세트가 하기 중 적어도 하나를 포함하는 특징에 의해 추가로 동정되는 것인 방법:(a) 원천 단백질 서열 내에서 신생항원 암호화 펩타이드 서열에 측접하는 C-말단 서열; 및(b) 원천 단백질 서열 내에서 신생항원 암호화 펩타이드에 측접하는 N-말단 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제시 가능성의 세트를, RNA-seq 또는 질량 분광분석에 의해 측정된, 대상체에서의 하나 이상의 MHC 대립유전자의 적어도 발현 수준에 의해 추가로 동정하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제시 가능성의 세트를 하기 중 적어도 하나를 포함하는 특징에 의해 추가로 동정하는 것인 방법:(a) 신생항원 세트에서 신생항원과 하나 이상의 MHC 대립유전자 사이의 예측 친화성; 및(b) 신생항원 암호화된 펩타이드-MHC 복합체의 예측 안정성.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 펩타이드 서열의 기계 학습 제시 모델로의 입력이,각각의 신생항원의 펩타이드 서열에 기계 학습 제시 모델을 적용하여, MHC 대립유전자가 펩타이드 서열의 특정 위치에서 특정 아미노산에 기초한 신생항원을 제시할 것인지 여부를 나타내는 하나 이상의 MHC 대립유전자 각각에 대한 의존성 스코어를 생성하는 것을 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, 펩타이드 서열의 기계 학습 제시 모델로의 입력이 하기 단계들을 포함하는 것인 방법:의존성 스코어를 변환하여, 상응하는 MHC 대립유전자가 상응하는 신생항원을 제시할 가능성을 나타내는 각각의 MHC 대립유전자에 대한 상응하는 과-대립유전자 가능성을 생성하는 단계; 및과-대립유전자 가능성을 조합하여 신생항원의 제시 가능성을 생성하는 단계.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 의존성 스코어를 변환하는 단계는 하나 이상의 부류 II MHC 대립유전자에 걸쳐 상호 배타적인 것으로 신생항원의 제시를 모델링하는 방법.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, 상기 펩타이드 서열의 기계 학습 제시 모델로의 입력이 의존성 스코어의 조합을 변환하여 제시 가능성을 생성하는 것을 포함하며, 여기서 의존성 스코어의 조합의 변환은 하나 이상의 부류 MHC 대립유전자 사이의 간섭으로서 신생항원의 제시를 모델링하는 것인 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기 단계들을 포함하는, 치료를 위한 환자의 서브셋을 동정하는 방법:각각의 환자에 대하여, 환자의 종양 세포 및 정상 세포로부터 엑솜, 전사체, 또는 전체 게놈 종양 뉴클레오타이드 서열분석 데이터 중 적어도 하나를 얻는 단계로서, 종양 뉴클레오타이드 서열분석 데이터는 종양 세포로부터의 뉴클레오타이드 서열분석 데이터와 정상 세포로부터의 뉴클레오타이드 서열분석 데이터를 비교함으로써 동정된 신생항원 세트 각각의 펩타이드 서열을 얻는 데 사용되고, 환자에 대한 각각의 신생항원의 펩타이드 서열은 환자의 정상 세포로부터 동정된 상응하는 야생형 모 펩타이드 서열과 구별되게 하는 적어도 하나의 변경을 포함하는 것인 단계;각각의 환자에 대하여, 신생항원의 세트 각각의 펩타이드 서열을 기계 학습 제시 모델에 입력하여, 환자에 대한 신생항원의 세트에 대한 수치상 제시 가능성의 세트를 생성하는 단계로서, 각각의 제시 가능성은, 상응하는 신생항원이 환자의 종양 세포의 표면 상의 하나 이상의 MHC 대립유전자에 의해 제시되는 가능성을 나타내고, 제시 가능성의 세트는 적어도 질량 분광분석 데이터에 기초하여 동정되는 것이며, 펩타이드 서열의 기계 학습 제시 모델로의 입력이,\t각각의 신생항원의 펩타이드 서열에 기계 학습 제시 모델을 적용하여, MHC 대립유전자가 펩타이드 서열의 특정 위치에서 특정 아미노산에 기초한 신생항원을 제시할 것인지 여부를 나타내는 하나 이상의 MHC 대립유전자 각각에 대한 의존성 스코어를 생성하는 것\t을 포함하는 것인 단계;각각의 환자에 대하여, 환자에 대한 신생항원의 세트로부터 하나 이상의 신생항원을 동정하는 단계; 각각의 환자에 대하여, 환자에 대한 하나 이상의 신생항원에 대한 상응하는 제시 가능성에 의해 결정되는 환자의 종양 세포의 표면 상에 제시된 신생항원의 추정 수를 나타내는 유용성 스코어를 결정하는 단계; 및치료를 위한 환자의 서브셋을 선택하는 단계로서, 환자의 서브셋의 각각의 환자는 소정의 포함 기준을 만족하는 유용성 스코어와 관련되는 것인 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 펩타이드 서열의 기계 학습 제시 모델로의 입력이 하기 단계들을 포함하는 것인 방법:의존성 스코어를 변환하여, 상응하는 MHC 대립유전자가 상응하는 신생항원을 제시할 가능성을 나타내는 각각의 MHC 대립유전자에 대한 상응하는 과-대립유전자 가능성을 생성하는 단계로서, 의존성 스코어를 변환하는 단계는 하나 이상의 부류 II MHC 대립유전자에 걸쳐 상호 배타적인 것으로 신생항원의 제시를 모델링하는 단계; 및과-대립유전자 가능성을 조합하여 신생항원의 제시 가능성을 생성하는 단계.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 펩타이드 서열의 기계 학습 제시 모델로의 입력이 의존성 스코어의 조합을 변환하여 제시 가능성을 생성하는 것을 포함하며, 여기서 의존성 스코어의 조합의 변환은 하나 이상의 부류 MHC 대립유전자 사이의 간섭으로서 신생항원의 제시를 모델링하는 것인 방법.",
+          "refers_to": [
+            21
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20191213",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 20,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 단계들을 포함하는, 치료를 위한 환자의 서브셋을 동정하는 방법:\n각각의 환자에 대하여, 환자의 종양 세포 및 정상 세포로부터 엑솜, 전사체, 또는 전체 게놈 종양 뉴클레오타이드 서열분석 데이터 중 적어도 하나를 얻는 단계로서, 종양 뉴클레오타이드 서열분석 데이터는 종양 세포로부터의 뉴클레오타이드 서열분석 데이터와 정상 세포로부터의 뉴클레오타이드 서열분석 데이터를 비교함으로써 동정된 신생항원 세트 각각의 펩타이드 서열을 얻는 데 사용되고, 환자에 대한 각각의 신생항원의 펩타이드 서열은 환자의 정상 세포로부터 동정된 상응하는 야생형 모 펩타이드 서열과 구별되게 하는 적어도 하나의 변경을 포함하는 것인 단계;\n각각의 환자에 대하여, 신생항원의 세트 각각의 펩타이드 서열을 기계 학습 제시 모델에 입력하여, 환자에 대한 신생항원의 세트에 대한 수치상 제시 가능성의 세트를 생성하는 단계로서, 각각의 제시 가능성은, 상응하는 신생항원이 환자의 종양 세포의 표면 상의 하나 이상의 MHC 대립유전자에 의해 제시되는 가능성을 나타내고, 제시 가능성의 세트는 적어도 질량 분광분석 데이터에 기초하여 동정되는 것인 단계;\n각각의 환자에 대하여, 환자에 대한 신생항원의 세트로부터 하나 이상의 신생항원을 동정하는 단계; \n각각의 환자에 대하여, 환자에 대한 하나 이상의 신생항원에 대한 상응하는 제시 가능성에 의해 결정되는 환자의 종양 세포의 표면 상에 제시된 신생항원의 추정 수를 나타내는 유용성 스코어를 결정하는 단계; 및\n치료를 위한 환자의 서브셋을 선택하는 단계로서, 환자의 서브셋의 각각의 환자는 소정의 포함 기준을 만족하는 유용성 스코어와 관련되는 것인 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 환자에 대한 하나 이상의 신생항원의 동정이, 환자에 대한 신생항원의 세트에서 신생항원의 서브셋을 선택하는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 신생항원의 서브셋이 상기 환자에 대한 제시 가능성의 세트에서 최고 제시 가능성을 갖는 신생항원인 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 선택된 환자의 서브셋에서 각각의 환자에 대하여, 환자에 대해 동정된 하나 이상의 신생항원 중 적어도 하나를 포함하는 상응하는 신생항원 백신으로 치료하는 단계를 추가로 포함하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 선택된 환자의 서브셋에서 각각의 환자에 대하여, 환자에 대해 동정된 하나 이상의 신생항원 중 적어도 하나에 대하여 항원-특이적인 하나 이상의 T-세포 또는 T-세포 수용체를 동정하는 단계를 추가로 포함하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 환자에 대한 하나 이상의 신생항원의 동정하는 단계는, 환자에 대해 동정된 신생항원의 전체 세트를 선택하는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 선택된 환자의 서브셋에서 각각의 환자에게 체크포인트 억제제 치료제를 투여하는 단계를 추가로 포함하는 방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 치료를 위한 상기 환자의 서브셋을 선택하는 단계는, 최소 임계치 초과의 종양 돌연변이 부담 (TMB)을 갖는 환자의 서브셋을 선택하는 단계를 포함하며, 여기서 환자에 대한 TMB는 환자와 관련된 신생항원의 세트에서의 신생항원의 수를 나타내는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 치료를 위한 환자의 서브셋의 선택하는 단계는, 최소 임계치 초과의 유용성 스코어를 갖는 환자의 서브셋을 선택하는 단계를 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 유용성 스코어가, 환자의 신생항원의 동정된 서브셋에서 각각의 신생항원에 대한 제시 가능성의 합계인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 유용성 스코어가, 환자에 대한 동정된 하나 이상의 신생항원에서 제시된 신생항원의 수가 최소 임계치 초과일 확률인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 기계 학습 제시 모델이 하기를 포함하는, 방법:\n 복수의 샘플 중 적어도 하나에 존재하는 것으로 동정된 적어도 하나의 MHC 대립유전자에 결합된 펩타이드의 존재를 측정하는 질량 분광분석에 의해 얻어진 라벨,\n 훈련 펩타이드 서열을 구성하는 복수의 아미노산 및 훈련 펩타이드 서열에서 아미노산의 위치의 세트에 대한 정보를 포함하는 훈련 펩타이드 서열, 및\n 훈련 펩타이드 서열과 관련된 적어도 하나의 MHC 대립유전자\n를 포함하는 적어도 훈련 데이터 세트에 기초하여 동정된 복수의 파라미터; 및\n복수의 파라미터에 기초한 제시 가능성과 펩타이드 서열 사이의 관계를 나타내는 함수.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 훈련 데이터 세트가 하기 중 적어도 하나를 추가로 포함하는, 방법:\n(a) 단리된 펩타이드 중 적어도 하나에 대해 펩타이드-MHC 결합 친화성 측정과 관련된 데이터; 및\n(b) 단리된 펩타이드 중 적어도 하나에 대해 펩타이드-MHC 결합 안정성 측정과 관련된 데이터.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 수치상 가능성의 세트가 하기 중 적어도 하나를 포함하는 특징에 의해 추가로 동정되는 것인 방법:\n(a) 원천 단백질 서열 내에서 신생항원 암호화 펩타이드 서열에 측접하는 C-말단 서열; 및\n(b) 원천 단백질 서열 내에서 신생항원 암호화 펩타이드에 측접하는 N-말단 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제시 가능성의 세트를, RNA-seq 또는 질량 분광분석에 의해 측정된, 대상체에서의 하나 이상의 MHC 대립유전자의 적어도 발현 수준에 의해 추가로 동정하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제시 가능성의 세트를 하기 중 적어도 하나를 포함하는 특징에 의해 추가로 동정하는 것인 방법:\n(a) 신생항원 세트에서 신생항원과 하나 이상의 MHC 대립유전자 사이의 예측 친화성; 및\n(b) 신생항원 암호화된 펩타이드-MHC 복합체의 예측 안정성.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 펩타이드 서열의 기계 학습 제시 모델로의 입력이,\n각각의 신생항원의 펩타이드 서열에 기계 학습 제시 모델을 적용하여, MHC 대립유전자가 펩타이드 서열의 특정 위치에서 특정 아미노산에 기초한 신생항원을 제시할 것인지 여부를 나타내는 하나 이상의 MHC 대립유전자 각각에 대한 의존성 스코어를 생성하는 것\n을 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 펩타이드 서열의 기계 학습 제시 모델로의 입력이 하기 단계들을 포함하는 것인 방법:\n의존성 스코어를 변환하여, 상응하는 MHC 대립유전자가 상응하는 신생항원을 제시할 가능성을 나타내는 각각의 MHC 대립유전자에 대한 상응하는 과-대립유전자 가능성을 생성하는 단계; 및\n과-대립유전자 가능성을 조합하여 신생항원의 제시 가능성을 생성하는 단계.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 의존성 스코어의 변환하는 단계는 하나 이상의 부류 II MHC 대립유전자에 걸쳐 상호 배타적인 것으로 신생항원의 제시를 모델링하는 방법.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 상기 펩타이드 서열의 기계 학습 제시 모델로의 입력이 의존성 스코어의 조합을 변환하여 제시 가능성을 생성하는 것을 포함하며, 여기서 의존성 스코어의 조합의 변환은 하나 이상의 부류 MHC 대립유전자 사이의 간섭으로서 신생항원의 제시를 모델링하는 것인 방법.",
+            "refers_to": [
+              17
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20240219",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 9,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기 단계들을 포함하는, 치료를 위한 환자의 서브셋을 동정하는 방법:\n각각의 환자에 대하여, 환자의 종양 세포 및 정상 세포로부터 엑솜, 전사체, 또는 전체 게놈 종양 뉴클레오타이드 서열분석 데이터 중 적어도 하나를 얻는 단계로서, 종양 뉴클레오타이드 서열분석 데이터는 종양 세포로부터의 뉴클레오타이드 서열분석 데이터와 정상 세포로부터의 뉴클레오타이드 서열분석 데이터를 비교함으로써 동정된 신생항원 세트 각각의 펩타이드 서열을 얻는 데 사용되고, 환자에 대한 각각의 신생항원의 펩타이드 서열은 환자의 정상 세포로부터 동정된 상응하는 야생형 모 펩타이드 서열과 구별되게 하는 적어도 하나의 변경을 포함하는 것인 단계;\n각각의 환자에 대하여, 신생항원의 세트 각각의 펩타이드 서열을 기계 학습 제시 모델에 입력하여, 환자에 대한 신생항원의 세트에 대한 수치상 제시 가능성의 세트를 생성하는 단계로서, 각각의 제시 가능성은, 상응하는 신생항원이 환자의 종양 세포의 표면 상의 하나 이상의 MHC 대립유전자에 의해 제시되는 가능성을 나타내고, 제시 가능성의 세트는 적어도 질량 분광분석 데이터에 기초하여 동정되는 것이고, 기계 학습 제시 모델이 하기를 포함하는, 단계:\n 복수의 샘플 중 적어도 하나에 존재하는 것으로 동정된 적어도 하나의 MHC 대립유전자에 결합된 펩타이드의 존재를 측정하는 질량 분광분석에 의해 얻어진 라벨,\n 훈련 펩타이드 서열을 구성하는 복수의 아미노산 및 훈련 펩타이드 서열에서 아미노산의 위치의 세트에 대한 정보를 포함하는 훈련 펩타이드 서열, 및\n 훈련 펩타이드 서열과 관련된 적어도 하나의 MHC 대립유전자\n를 포함하는 적어도 훈련 데이터 세트에 기초하여 동정된 복수의 파라미터; 및\n복수의 파라미터에 기초한 제시 가능성과 펩타이드 서열 사이의 관계를 나타내는 함수;\n각각의 환자에 대하여, 환자에 대한 신생항원의 세트로부터 하나 이상의 신생항원을 동정하는 단계; \n각각의 환자에 대하여, 환자에 대한 하나 이상의 신생항원에 대한 상응하는 제시 가능성에 의해 결정되는 환자의 종양 세포의 표면 상에 제시된 신생항원의 추정 수를 나타내는 유용성 스코어를 결정하는 단계; 및\n치료를 위한 환자의 서브셋을 선택하는 단계로서, 환자의 서브셋의 각각의 환자는 소정의 포함 기준을 만족하는 유용성 스코어와 관련되는 것인 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 훈련 데이터 세트가 하기 중 적어도 하나를 추가로 포함하는, 방법:\n(a) 단리된 펩타이드 중 적어도 하나에 대해 펩타이드-MHC 결합 친화성 측정과 관련된 데이터; 및\n(b) 단리된 펩타이드 중 적어도 하나에 대해 펩타이드-MHC 결합 안정성 측정과 관련된 데이터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, 의존성 스코어를 변환하는 단계는 하나 이상의 부류 II MHC 대립유전자에 걸쳐 상호 배타적인 것으로 신생항원의 제시를 모델링하는 방법.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 단계들을 포함하는, 치료를 위한 환자의 서브셋을 동정하는 방법:\n각각의 환자에 대하여, 환자의 종양 세포 및 정상 세포로부터 엑솜, 전사체, 또는 전체 게놈 종양 뉴클레오타이드 서열분석 데이터 중 적어도 하나를 얻는 단계로서, 종양 뉴클레오타이드 서열분석 데이터는 종양 세포로부터의 뉴클레오타이드 서열분석 데이터와 정상 세포로부터의 뉴클레오타이드 서열분석 데이터를 비교함으로써 동정된 신생항원 세트 각각의 펩타이드 서열을 얻는 데 사용되고, 환자에 대한 각각의 신생항원의 펩타이드 서열은 환자의 정상 세포로부터 동정된 상응하는 야생형 모 펩타이드 서열과 구별되게 하는 적어도 하나의 변경을 포함하는 것인 단계;\n각각의 환자에 대하여, 신생항원의 세트 각각의 펩타이드 서열을 기계 학습 제시 모델에 입력하여, 환자에 대한 신생항원의 세트에 대한 수치상 제시 가능성의 세트를 생성하는 단계로서, 각각의 제시 가능성은, 상응하는 신생항원이 환자의 종양 세포의 표면 상의 하나 이상의 MHC 대립유전자에 의해 제시되는 가능성을 나타내고, 제시 가능성의 세트는 적어도 질량 분광분석 데이터에 기초하여 동정되는 것이며, 펩타이드 서열의 기계 학습 제시 모델로의 입력이,\n 각각의 신생항원의 펩타이드 서열에 기계 학습 제시 모델을 적용하여, MHC 대립유전자가 펩타이드 서열의 특정 위치에서 특정 아미노산에 기초한 신생항원을 제시할 것인지 여부를 나타내는 하나 이상의 MHC 대립유전자 각각에 대한 의존성 스코어를 생성하는 것\n 을 포함하는 것인 단계;\n각각의 환자에 대하여, 환자에 대한 신생항원의 세트로부터 하나 이상의 신생항원을 동정하는 단계; \n각각의 환자에 대하여, 환자에 대한 하나 이상의 신생항원에 대한 상응하는 제시 가능성에 의해 결정되는 환자의 종양 세포의 표면 상에 제시된 신생항원의 추정 수를 나타내는 유용성 스코어를 결정하는 단계; 및\n치료를 위한 환자의 서브셋을 선택하는 단계로서, 환자의 서브셋의 각각의 환자는 소정의 포함 기준을 만족하는 유용성 스코어와 관련되는 것인 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 펩타이드 서열의 기계 학습 제시 모델로의 입력이 하기 단계들을 포함하는 것인 방법:\n의존성 스코어를 변환하여, 상응하는 MHC 대립유전자가 상응하는 신생항원을 제시할 가능성을 나타내는 각각의 MHC 대립유전자에 대한 상응하는 과-대립유전자 가능성을 생성하는 단계로서, 의존성 스코어를 변환하는 단계는 하나 이상의 부류 II MHC 대립유전자에 걸쳐 상호 배타적인 것으로 신생항원의 제시를 모델링하는 단계; 및\n과-대립유전자 가능성을 조합하여 신생항원의 제시 가능성을 생성하는 단계.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 상기 펩타이드 서열의 기계 학습 제시 모델로의 입력이 의존성 스코어의 조합을 변환하여 제시 가능성을 생성하는 것을 포함하며, 여기서 의존성 스코어의 조합의 변환은 하나 이상의 부류 MHC 대립유전자 사이의 간섭으로서 신생항원의 제시를 모델링하는 것인 방법.",
+            "refers_to": [
+              21
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 20,
+      "after_claim_count": 9,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020247037251"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2018.12.13",
+      "internationOpenNumber": "WO2018227030",
+      "internationalApplicationDate": "2018.06.08",
+      "internationalApplicationNumber": "PCT/US2018/036571"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국, 캘리포니아 *****, 에머리빌, 스위트 ***, 호튼 스트리트 ****",
+      "code": "520180388463",
+      "country": "미국",
+      "engName": "GRITSTONE BIO, INC.",
+      "name": "그릿스톤 바이오, 인코포레이티드"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국, 캘리포니아 *****, 에머리빌, 스위트...",
+        "code": "",
+        "country": "",
+        "engName": "BULIK-SULLIVAN, Brendan",
+        "name": "불릭-술리반, 브렌던"
+      },
+      {
+        "address": "미국, 캘리포니아 *****, 에머리빌, 스위트...",
+        "code": "",
+        "country": "",
+        "engName": "YELENSKY, Roman",
+        "name": "옐렌스키, 로만"
+      },
+      {
+        "address": "미국, 캘리포니아 *****, 에머리빌, 스위트...",
+        "code": "",
+        "country": "",
+        "engName": "BUSBY, Jennifer",
+        "name": "버스비, 제니퍼"
+      },
+      {
+        "address": "미국, 캘리포니아 *****, 에머리빌, 스위트...",
+        "code": "",
+        "country": "",
+        "engName": "DERTI, Adnan",
+        "name": "데르티, 아드난"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울 종로구 종로*길 ** (수송동, **, **층)(법무법인케이씨엘)",
+        "code": "919980001311",
+        "country": "대한민국",
+        "engName": "KIM, Sun Young",
+        "name": "김 순 영"
+      },
+      {
+        "address": "서울 종로구 종로*길 ** (수송동, **, **층)(법무법인케이씨엘)",
+        "code": "919980000403",
+        "country": "대한민국",
+        "engName": "KIM, Young Chol",
+        "name": "김영철"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2017.06.09",
+      "priorityApplicationNumber": "62/517,786"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "G. V. Masucci 외, \"Validation of biomarkers to predict response to immunotherapy in cancer: Volume I  pre-analytical and analytical validation\", Journal for ImmunoTherapy of Cancer, 4:76. (2016.11.15.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "M. Bassani-Sternberg 외, \"Direct identification of clinically relevant neoepitopes presented on native human melanoma tissue by mass spectrometry\", Nature Communications, 7:13404. (2016.11.21.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "S. Gupta 외, \"A Platform for Designing Genome-Based Personalized Immunotherapy or Vaccine against Cancer\", PLoS ONE, 11(11):e0166372. (2016.11.10.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "M. Andreatta 외, “Gapped sequence alignment using artificial neural networks: application to the MHC class I system”, Bioinformatics, 32(4):511-517. (2015.10.29.)",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2019.12.13",
+        "receiptNumber": "1-1-2019-1290256-32"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2020.01.10",
+        "receiptNumber": "1-5-2020-0006554-88"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2020.06.15",
+        "receiptNumber": "4-1-2020-5132068-60"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.06.07",
+        "receiptNumber": "1-1-2021-0654575-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2021.06.07",
+        "receiptNumber": "1-1-2021-0654576-00"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.07.01",
+        "receiptNumber": "4-1-2021-5179449-21"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2023.12.20",
+        "receiptNumber": "9-5-2023-1144788-48"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.02.19",
+        "receiptNumber": "1-1-2024-0188329-90"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.02.19",
+        "receiptNumber": "1-1-2024-0188328-44"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2024.08.08",
+        "receiptNumber": "9-5-2024-0666048-91"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2024.11.08",
+        "receiptNumber": "1-1-2024-1226428-16"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020197036968.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93a1a01821aa822f078a2559ddc2d70dbedf1b64eb333d381347fd98eb531b59667a49fe5fbd14d6f8af593e0fbeb97723f02abdbee6b7fcff",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf993a7418fa198a134cc7ee7ffc9a7df2c3f5fffe5450f4b067982978b006bc4721a101ead7122b521e5b64a17c2bbbf2870dfc9a6961812d"
+  },
+  "rndInfoArray": ""
+}

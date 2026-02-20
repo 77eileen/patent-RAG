@@ -1,0 +1,36 @@
+# 환경 변수 (API 키, DB 비밀번호)
+.env
+
+# 대용량 데이터
+dj/data/json_refine/
+dj/data/keywords_output/
+
+# 스크립트 출력물 (CSV, 로그)
+dj/scripts/keywords_josa/output/
+dj/scripts/keywords/
+dj/scripts/morph/
+
+# 로그
+dj/logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+# Chroma DB
+chroma_db/
+chroma_db_parent/
+
+# Logs
+log/
+logs/
+
+# Python cache
+*.egg-info/
+.pytest_cache/
+dist/

@@ -1,0 +1,960 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.11.02",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0144790",
+      "claimCount": "15",
+      "examinerName": "",
+      "finalDisposal": "거절결정 후 재심사중",
+      "inventionTitle": "대장암 진단 및 치료용 DNA 압타머",
+      "inventionTitleEng": "DNA Aptamer for colorectal cancer diagnostics  and therapeutics",
+      "openDate": "2024.05.16",
+      "openNumber": "10-2024-0066514",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.11.02",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/115"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "C12N 15/10"
+      },
+      {
+        "ipcDate": "(2026.01.01)",
+        "ipcNumber": "C12Q 1/6886"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/7088"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 대장암 진단용 DNA 압타머에 관한 것으로, 구체적으로 서열번호 4 내지 17의 염기서열로 이루어질 수 있으며, 상기 압타머를 포함하는 대장암 진단용 조성물, 키트 및 대장암 특이적 약물 전달 조성물에 관한 것이다. 본 발명의 압타머는 대장암 세포 유래 엑소좀에 대하여 높은 친화도 및 특이성을 나타내는 바, 특이적이고 정확한 대장암 진단에 이용될 수 있으며, 엑소좀 외막에 존재하는 특정 단백질 바이오 마커와의 강한 결합으로 엑소좀에 의한 암 전이성을 억제하여 대장암 치료에도 활용할 수 있을 것으로 기대한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220144790",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20221102",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 4 내지 17의 염기서열로 이루어진 군에서 선택되는 어느 하나 이상의 대장암 진단 또는 치료용 DNA 압타머.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \n상기 압타머는 대장암 세포 유래 엑소좀에 특이적으로 결합하는, DNA 압타머.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \n상기 압타머는 정방향 프라이머 및 역방향 프라이머 서열로 이루어진 군에서 선택되는 하나 이상을 추가로 포함하는, DNA 압타머.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, \n상기 정방향 프라이머의 서열은 서열번호 2의 염기서열로 이루어진, DNA 압타머.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, \n상기 역방향 프라이머의 서열은 서열번호 3의 염기서열로 이루어진, DNA 압타머.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \n상기 DNA 압타머는 서열번호 13의 염기서열로 이루어진, DNA 압타머.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, \n상기 서열번호 13의 염기서열로 이루어진 DNA 압타머는, 정방향 프라이머 염기서열 및 역방향 프라이머 염기서열 중 어느 하나 이상이 추가적으로 연결된 DNA 압타머.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, \n상기 DNA 압타머는 서열벌호 15의 염기서열로 이루어진, DNA 압타머.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, \n상기 DNA 압타머는 결합 해리상수로 3 내지 4 nM를 갖는, DNA 압타머.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항의 압타머를 포함하는 대장암 진단 또는 치료용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항의 조성물을 포함하는, 대장암 진단 또는 치료용 키트.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, \n상기 키트는 진단용 센서, RT-PCR 키트, 경쟁적 RT-PCR 키트, 실시간 RT-PCR 키트, DNA 칩 키트 및 단백질 칩으로 이루어진 군에서 선택되는 어느 하나인, 키트.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항의 DNA 압타머 제조 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 방법은\na) 랜덤 라이브러리를 생성하는 단계;\nb) E-SELEX를 수행하는 단계; \nc) NGS 기법을 통해 DNA 압타머 서열 분석하는 단계; 및\nd) DNA 압타머 특성화하는 단계;\n단계를 포함하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서,\n상기 압타머는 대장암 세포 유래 엑소좀에 특이적으로 결합하는, 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항의 DNA 압타머를 이용한 대장암 진단 또는 치료를 위한 정보를 제공하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항의 압타머를 이용한 대장암 엑소좀 특이적 표면 바이오마커의 검출방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항의 압타머를 포함하는 대장암 특이적 약물전달 조성물.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20251017",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 4 내지 17의 염기서열로 이루어진 군에서 선택되는 어느 하나 이상의 대장암 진단 또는 치료용 DNA 압타머.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 압타머는 대장암 세포 유래 엑소좀에 특이적으로 결합하는, DNA 압타머.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 압타머는 정방향 프라이머 및 역방향 프라이머 서열로 이루어진 군에서 선택되는 하나 이상을 추가로 포함하는, DNA 압타머.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 상기 정방향 프라이머의 서열은 서열번호 2의 염기서열로 이루어진, DNA 압타머.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 상기 역방향 프라이머의 서열은 서열번호 3의 염기서열로 이루어진, DNA 압타머.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 DNA 압타머는 서열번호 13의 염기서열로 이루어진, DNA 압타머.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 서열번호 13의 염기서열로 이루어진 DNA 압타머는, 정방향 프라이머 염기서열 및 역방향 프라이머 염기서열 중 어느 하나 이상이 추가적으로 연결된 DNA 압타머.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 상기 DNA 압타머는 서열벌호 15의 염기서열로 이루어진, DNA 압타머.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서, 상기 DNA 압타머는 결합 해리상수로 3 내지 4 nM를 갖는, DNA 압타머.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제9항 중 어느 한 항의 압타머를 포함하는 대장암 진단 또는 치료용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항의 조성물을 포함하는, 대장암 진단 또는 치료용 키트.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 키트는 진단용 센서, RT-PCR 키트, 경쟁적 RT-PCR 키트, 실시간 RT-PCR 키트, DNA 칩 키트 및 단백질 칩으로 이루어진 군에서 선택되는 어느 하나인, 키트.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제9항 중 어느 한 항의 DNA 압타머 제조 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 방법은a) 랜덤 라이브러리를 생성하는 단계;b) E-SELEX를 수행하는 단계; c) NGS 기법을 통해 DNA 압타머 서열 분석하는 단계; 및d) DNA 압타머 특성화하는 단계;단계를 포함하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서,상기 압타머는 대장암 세포 유래 엑소좀에 특이적으로 결합하는, 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제9항 중 어느 한 항의 DNA 압타머를 이용한 대장암 진단 또는 치료를 위한 정보를 제공하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제9항 중 어느 한 항의 압타머를 이용한 대장암 엑소좀 특이적 표면 바이오마커의 검출방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제9항 중 어느 한 항의 압타머를 포함하는 대장암 특이적 약물전달 조성물.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20221102",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 18,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 4 내지 17의 염기서열로 이루어진 군에서 선택되는 어느 하나 이상의 대장암 진단 또는 치료용 DNA 압타머.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \n상기 압타머는 대장암 세포 유래 엑소좀에 특이적으로 결합하는, DNA 압타머.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \n상기 압타머는 정방향 프라이머 및 역방향 프라이머 서열로 이루어진 군에서 선택되는 하나 이상을 추가로 포함하는, DNA 압타머.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, \n상기 정방향 프라이머의 서열은 서열번호 2의 염기서열로 이루어진, DNA 압타머.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, \n상기 역방향 프라이머의 서열은 서열번호 3의 염기서열로 이루어진, DNA 압타머.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \n상기 DNA 압타머는 서열번호 13의 염기서열로 이루어진, DNA 압타머.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, \n상기 서열번호 13의 염기서열로 이루어진 DNA 압타머는, 정방향 프라이머 염기서열 및 역방향 프라이머 염기서열 중 어느 하나 이상이 추가적으로 연결된 DNA 압타머.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, \n상기 DNA 압타머는 서열벌호 15의 염기서열로 이루어진, DNA 압타머.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, \n상기 DNA 압타머는 결합 해리상수로 3 내지 4 nM를 갖는, DNA 압타머.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항의 압타머를 포함하는 대장암 진단 또는 치료용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항의 조성물을 포함하는, 대장암 진단 또는 치료용 키트.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, \n상기 키트는 진단용 센서, RT-PCR 키트, 경쟁적 RT-PCR 키트, 실시간 RT-PCR 키트, DNA 칩 키트 및 단백질 칩으로 이루어진 군에서 선택되는 어느 하나인, 키트.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항의 DNA 압타머 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 방법은\na) 랜덤 라이브러리를 생성하는 단계;\nb) E-SELEX를 수행하는 단계; \nc) NGS 기법을 통해 DNA 압타머 서열 분석하는 단계; 및\nd) DNA 압타머 특성화하는 단계;\n단계를 포함하는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서,\n상기 압타머는 대장암 세포 유래 엑소좀에 특이적으로 결합하는, 방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항의 DNA 압타머를 이용한 대장암 진단 또는 치료를 위한 정보를 제공하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항의 압타머를 이용한 대장암 엑소좀 특이적 표면 바이오마커의 검출방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항의 압타머를 포함하는 대장암 특이적 약물전달 조성물.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20250106",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 13의 염기서열로 이루어진, 대장암 진단 또는 치료용 DNA 압타머.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, \n상기 압타머는 역방향 프라이머 서열; 또는 정방향 프라이머 및 역방향 프라이머 서열;을 추가로 포함하는, DNA 압타머.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, \n상기 DNA 압타머는 서열번호 14 또는 서열벌호 15의 염기서열로 이루어진 것인, DNA 압타머.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항, 제8항 및 제9항 중 어느 한 항의 압타머를 포함하는 대장암 진단 또는 치료용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항, 제8항 및 제9항 중 어느 한 항의 DNA 압타머 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항, 제8항 및 제9항 중 어느 한 항의 DNA 압타머를 이용한 대장암 진단 또는 치료를 위한 정보를 제공하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항, 제8항 및 제9항 중 어느 한 항의 압타머를 이용한 대장암 엑소좀 특이적 표면 바이오마커의 검출방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항, 제8항 및 제9항 중 어느 한 항의 압타머를 포함하는 대장암 특이적 약물전달 조성물.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20251017",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 13의 염기서열로 이루어지며, 대장암 세포 유래 엑소좀에 특이적으로 결합하는, 대장암 진단 또는 치료용 DNA 압타머.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제3항 내지 제5항, 제8항 및 제9항 중 어느 한 항의 압타머를 포함하는 대장암 진단 또는 치료용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제3항 내지 제5항, 제8항 및 제9항 중 어느 한 항의 DNA 압타머 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제3항 내지 제5항, 제8항 및 제9항 중 어느 한 항의 DNA 압타머를 이용한 대장암 진단 또는 치료를 위한 정보를 제공하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제3항 내지 제5항, 제8항 및 제9항 중 어느 한 항의 압타머를 이용한 대장암 세포 유래 엑소좀 특이적 표면 바이오마커의 검출방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제3항 내지 제5항, 제8항 및 제9항 중 어느 한 항의 압타머를 포함하는 대장암 세포 유래 엑소좀 특이적 약물전달 조성물.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 18,
+      "after_claim_count": 7,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 광진구...",
+      "code": "220040157648",
+      "country": "대한민국",
+      "engName": "Konkuk University Industrial Cooperation Corp",
+      "name": "건국대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 광진구...",
+        "code": "",
+        "country": "",
+        "engName": "Park, Ki Soo",
+        "name": "박기수"
+      },
+      {
+        "address": "경기도 화성...",
+        "code": "",
+        "country": "",
+        "engName": "Cha, Byung Seok",
+        "name": "차병석"
+      },
+      {
+        "address": "경기도 성남시 분당구...",
+        "code": "",
+        "country": "",
+        "engName": "JANG YOUNG JUN",
+        "name": "장영준"
+      },
+      {
+        "address": "서울특별시 성동구...",
+        "code": "",
+        "country": "",
+        "engName": "Lee, Eun Sung",
+        "name": "이은성"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 사평대로 ***, *층 (반포동)",
+      "code": "920161000615",
+      "country": "대한민국",
+      "engName": "Jipyong Intellectual Property Law Firm",
+      "name": "특허법인지평"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Wang, H. 등, Talanta, 184, 페이지 219-226, 2018.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Chinnappan, R. 등, Bioelectronics, 220, 114856, 2023(2022.10.29.).",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "CN112501173 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020210112875 A",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.11.02",
+        "receiptNumber": "1-1-2022-1166001-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2023.07.18",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2023.08.25",
+        "receiptNumber": "9-6-2024-0148352-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.10.05",
+        "receiptNumber": "4-1-2023-5259157-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.10.19",
+        "receiptNumber": "4-1-2023-5273399-99"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.05.14",
+        "receiptNumber": "4-1-2024-5152097-91"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.11.04",
+        "receiptNumber": "9-5-2024-0941119-63"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.11.15",
+        "receiptNumber": "4-1-2024-5333987-56"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.01.06",
+        "receiptNumber": "1-1-2025-0014194-77"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.01.06",
+        "receiptNumber": "1-1-2025-0014195-12"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.05.12",
+        "receiptNumber": "4-1-2025-5126023-14"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2025.07.16",
+        "receiptNumber": "9-5-2025-0677125-01"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.07.29",
+        "receiptNumber": "4-1-2025-5208084-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.10.17",
+        "receiptNumber": "1-1-2025-1164371-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2025.10.17",
+        "receiptNumber": "1-1-2025-1164372-50"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220144790.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93db8b76472a45e38fb6a0c794f62d46ea5ef8898b0c99bebafa900330c4e46272f7b3a7e5e42abced0793597b06e0045a224f372bf8312ec5",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf9940cf183a4cd1ef5938f72d2a17a051ca0a937288ef8211a9a090e36d398aebbfec31cdefb0b68d338a32c6806c9d91230a43dbd93f1a8b"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "과학기술정보통신부",
+      "rndDuration": "2022.03.01 ~ 2023.02.28",
+      "rndManagingInstituteName": "건국대학교",
+      "rndProjectName": "개인기초연구(과기정통부)",
+      "rndSpecialInstituteName": "한국연구재단",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "엑소좀 SELEX 기술(E-SELEX)과 이를 이용한 암 진단 바이오 마커 발굴 및 초고감도 검출 시스템 개발",
+      "rndTaskNumber": "1711157003"
+    }
+  }
+}

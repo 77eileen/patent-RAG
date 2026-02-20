@@ -1,0 +1,575 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2008.09.26",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2021-7040531",
+      "claimCount": "10",
+      "examinerName": "최준호",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "항체 정상영역 개변체",
+      "inventionTitleEng": "Modified antibody constant region",
+      "openDate": "2021.12.24",
+      "openNumber": "10-2021-0156290",
+      "originalApplicationDate": "2008.09.26",
+      "originalApplicationKind": "국제출원/분할",
+      "originalApplicationNumber": "10-2021-7006046",
+      "originalExaminationRequestDate": "2021.12.10",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.11.14",
+      "publicationNumber": "",
+      "registerDate": "2022.11.10",
+      "registerNumber": "10-2467302-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2021.12.10"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/18"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명자 등은, 항체의 정상영역에 있어서, 산성조건하에서의 안정성, 힌지영역의 디설피드에 유래하는 이질성(heterogeneity), H사슬 C말단에 유래하는 이질성, 고농도 제제에 있어서의 안정성을 개선시키는 것에 성공하였다. 추가적으로 새로운 T-cell 에피토프 펩티드의 출현을 최소한으로 억제하면서, Fcγ 수용체에 결합을 저하시킨 신규한 정상영역 서열을 발견하는 것에 성공하였다. 이것에 의해, 물성(안정성 및 균일성), 면역원성, 안전성, 또한, 약물동태를 개선시킨 항체 정상영역을 발견하는데 성공하였다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217040531",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20211210",
+      "document_name": "[분할출원(국제출원)]특허출원서",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열에 있어서, 적어도 14번째(EU 넘버링 131번째)의 아미노산이 Ser로 치환되고, 102번째(EU 넘버링 219번째)의 아미노산이 Ser로 치환된, 불변영역 개변체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열을 포함하는 항체와 비교하여 힌지영역의 이질성(heterogeneity)이 개선되어 있는, 불변영역 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서,\n서열번호:2에 기재된 아미노산 서열에 있어서, 20번째(EU 넘버링 137번째) 및 21번째(EU 넘버링 138번째)의 아미노산이 추가적으로, 각각 Gly 및 Gly로 치환되어 있는 것을 특징으로 하는, 불변영역 개변체.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호:57(M40△GK)에 기재된 아미노산 서열을 갖는 불변영역 개변체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 기재된 불변영역 개변체를 포함하는 항체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서,\n상기 항체가 키메라 항체, 인간화 항체, 완전 인간화 항체, 또는 인간 항체인, 항체.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항 또는 제6항에 있어서,\n상기 항체가 이중 특이성 항체이거나, 또는, 항IL-6 수용체 항체, 항IL-31 수용체 항체, 또는 RANKL 항체인, 항체.",
+          "refers_to": [
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 기재된 불변영역 개변체 또는 제5항 내지 제7항 중 어느 한 항에 기재된 항체를 포함하는, 의약 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열에 있어서, 14번째(EU 넘버링 131번째)의 아미노산이 Ser로 치환되고, 102번째(EU 넘버링 219번째)의 아미노산이 Ser로 치환되는 항체를 포함하는, 항체의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "IgG2 불변영역 개변체를 포함하는 항체의 제조방법으로서, 서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열에 있어서, 14번째(EU 넘버링 131번째)의 아미노산이 Ser로 치환되고, 102번째(EU 넘버링 219번째)의 아미노산이 Ser로 치환되어 있는, IgG2 불변영역 개변체를 코드하는 DNA가 도입된 숙주세포를 배양하는 공정을 포함하는, 항체의 제조방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20220706",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열에 있어서, 적어도 14번째(EU 넘버링 131번째)의 아미노산이 Ser로 치환되고, 102번째(EU 넘버링 219번째)의 아미노산이 Ser로 치환된, 불변영역 개변체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열을 포함하는 항체와 비교하여 힌지영역의 이질성(heterogeneity)이 개선되어 있는, 불변영역 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,서열번호:2에 기재된 아미노산 서열에 있어서, 20번째(EU 넘버링 137번째) 및 21번째(EU 넘버링 138번째)의 아미노산이 추가적으로, 각각 Gly 및 Gly로 치환되어 있는 것을 특징으로 하는, 불변영역 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호:57(M40△GK)에 기재된 아미노산 서열을 갖는 불변영역 개변체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 기재된 불변영역 개변체를 포함하는 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서,상기 항체가 키메라 항체, 인간화 항체, 완전 인간화 항체, 또는 인간 항체인, 항체.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서,상기 항체가 이중 특이성 항체이거나, 또는, 항IL-6 수용체 항체, 항IL-31 수용체 항체, 또는 RANKL 항체인, 항체.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 한 항에 기재된 불변영역 개변체 또는 제5항 내지 제7항 중 어느 한 항에 기재된 항체를 포함하는, 류머티스성 관절염의 치료 또는 예방을 위한 의약 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열에 있어서, 14번째(EU 넘버링 131번째)의 아미노산이 Ser로 치환되고, 102번째(EU 넘버링 219번째)의 아미노산이 Ser로 치환되는 항체를 포함하는, 항체의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "IgG2 불변영역 개변체를 포함하는 항체의 제조방법으로서, 서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열에 있어서, 14번째(EU 넘버링 131번째)의 아미노산이 Ser로 치환되고, 102번째(EU 넘버링 219번째)의 아미노산이 Ser로 치환되어 있는, IgG2 불변영역 개변체를 코드하는 DNA가 도입된 숙주세포를 배양하는 공정을 포함하는, 항체의 제조방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20211210",
+        "document_name": "[분할출원(국제출원)]특허출원서",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열에 있어서, 적어도 14번째(EU 넘버링 131번째)의 아미노산이 Ser로 치환되고, 102번째(EU 넘버링 219번째)의 아미노산이 Ser로 치환된, 불변영역 개변체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열을 포함하는 항체와 비교하여 힌지영역의 이질성(heterogeneity)이 개선되어 있는, 불변영역 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서,\n서열번호:2에 기재된 아미노산 서열에 있어서, 20번째(EU 넘버링 137번째) 및 21번째(EU 넘버링 138번째)의 아미노산이 추가적으로, 각각 Gly 및 Gly로 치환되어 있는 것을 특징으로 하는, 불변영역 개변체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호:57(M40△GK)에 기재된 아미노산 서열을 갖는 불변영역 개변체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 기재된 불변영역 개변체를 포함하는 항체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서,\n상기 항체가 키메라 항체, 인간화 항체, 완전 인간화 항체, 또는 인간 항체인, 항체.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항 또는 제6항에 있어서,\n상기 항체가 이중 특이성 항체이거나, 또는, 항IL-6 수용체 항체, 항IL-31 수용체 항체, 또는 RANKL 항체인, 항체.",
+            "refers_to": [
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 기재된 불변영역 개변체 또는 제5항 내지 제7항 중 어느 한 항에 기재된 항체를 포함하는, 의약 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열에 있어서, 14번째(EU 넘버링 131번째)의 아미노산이 Ser로 치환되고, 102번째(EU 넘버링 219번째)의 아미노산이 Ser로 치환되는 항체를 포함하는, 항체의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "IgG2 불변영역 개변체를 포함하는 항체의 제조방법으로서, 서열번호:2(IgG2 불변영역)에 기재된 아미노산 서열에 있어서, 14번째(EU 넘버링 131번째)의 아미노산이 Ser로 치환되고, 102번째(EU 넘버링 219번째)의 아미노산이 Ser로 치환되어 있는, IgG2 불변영역 개변체를 코드하는 DNA가 도입된 숙주세포를 배양하는 공정을 포함하는, 항체의 제조방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220706",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n서열번호:2에 기재된 아미노산 서열에 있어서, 20번째(EU 넘버링 137번째) 및 21번째(EU 넘버링 138번째)의 아미노산이 추가적으로, 각각 Gly 및 Gly로 치환되어 있는 것을 특징으로 하는, 불변영역 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 기재된 불변영역 개변체를 포함하는 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서,\n상기 항체가 이중 특이성 항체이거나, 또는, 항IL-6 수용체 항체, 항IL-31 수용체 항체, 또는 RANKL 항체인, 항체.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항에 기재된 불변영역 개변체 또는 제5항 내지 제7항 중 어느 한 항에 기재된 항체를 포함하는, 류머티스성 관절염의 치료 또는 예방을 위한 의약 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 10,
+      "after_claim_count": 4,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": {
+      "familyApplicationNumber": "1020217006046"
+    }
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2009.04.02",
+      "internationOpenNumber": "WO2009041613",
+      "internationalApplicationDate": "2008.09.26",
+      "internationalApplicationNumber": "PCT/JP2008/067483"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "일본국 도쿄도 기타쿠 우키마 *쵸메 *반 *고",
+      "code": "520000045945",
+      "country": "일본",
+      "engName": "CHUGAI SEIYAKU KABUSHIKI KAISHA (Chugai Pharmaceutical Co., Ltd.)",
+      "name": "추가이 세이야쿠 가부시키가이샤"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "일본국 시즈오카 고텐바시 고마카도...",
+        "code": "",
+        "country": "",
+        "engName": "IGAWA, Tomoyuki",
+        "name": "이가와 도모유키"
+      },
+      {
+        "address": "일본국 시즈오카 고텐바시 고마카도...",
+        "code": "",
+        "country": "",
+        "engName": "SHIRAIWA, Hirotake",
+        "name": "시라이와 히로타케"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 서초대로**길 ** (서초동, 성운빌딩) *층 세일국제특허법률사무소(세일국제특허법률사무소)",
+      "code": "919980002838",
+      "country": "대한민국",
+      "engName": "SUH, Jong Wan",
+      "name": "서종완"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "일본",
+      "priorityApplicationDate": "2007.09.26",
+      "priorityApplicationNumber": "JP-P-2007-250147"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "US20070036799 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "NCBI Genbank Accession No. AAG00910.2 (2001.05.14.)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2005092925 A2",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2021.12.10",
+        "receiptNumber": "1-1-2021-1431991-49"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2022.01.24",
+        "receiptNumber": "9-5-2022-0065562-93"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.02.21",
+        "receiptNumber": "1-1-2022-0189538-24"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장 관련 안내서",
+        "receiptDate": "2022.02.24",
+        "receiptNumber": "1-5-2022-0030931-75"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.07.06",
+        "receiptNumber": "1-1-2022-0703572-91"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.07.06",
+        "receiptNumber": "1-1-2022-0703508-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.10.27",
+        "receiptNumber": "9-5-2022-0826242-82"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.02.28",
+        "receiptNumber": "4-1-2023-5049938-55"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.03.07",
+        "receiptNumber": "4-1-2025-5062399-75"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217040531.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93d9ba0f7e94ba92035e4d57b6a82e30203745a57952fd8c84e4063edf5f84356cc593b8bde3b4790e44529c2c01a36165081d469da967002a",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf54f6718fe1139ed598eea65c274d11828c6479c72667cab390e624323442217e0fe5ef34ed81aabdd8393887c16f157c6c25019ae1b57438"
+  },
+  "rndInfoArray": ""
+}

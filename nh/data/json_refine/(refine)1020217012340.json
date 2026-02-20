@@ -1,0 +1,1583 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.09.26",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7012340",
+      "claimCount": "16",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "키메라 항원 수용체",
+      "inventionTitleEng": "CHIMERIC ANTIGEN RECEPTOR",
+      "openDate": "2021.06.07",
+      "openNumber": "10-2021-0066865",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.07.26",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2021.04.23"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 저밀도 표적 항원에 결합하는 키메라 항원 수용체(CAR)로서, Fab 항원 결합 도메인을 포함하는 CAR을 제공한다. 본 발명은 또한 상기 CAR을 발현하는 세포 및 질환 치료에 있어 이들의 용도에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217012340",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210423",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 25,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "저밀도 표적 항원에 결합하는 키메라 항원 수용체(CAR: chimeric antigen receptor)로서, Fab 항원 결합 도메인을 포함하는 CAR.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 표적 항원은 표적 세포당 1500 카피 미만의 평균 밀도로 발현되는 것인 CAR.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 표적 항원은 ROR1, Tyrp-1, TACI, ALK 및 BCMA로부터 선택되는 것인 CAR.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 표적 항원은 BCMA인 CAR.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, Fab 항원 결합 도메인은 다음을 포함하는 것인 CAR:\na) 다음 서열을 갖는 상보성 결정 영역(CDR: complementarity determining region)을 갖는 중쇄 가변 영역(VH):\n[이미지]\nb) 다음 서열을 갖는 상보성 결정 영역(CDR)을 갖는 경쇄 가변 영역(VL):\n[이미지]",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, Fab 항원 결합 도메인은 서열 번호 29로 나타낸 서열을 갖는 VH 도메인; 및 서열 번호 30으로 나타낸 서열을 갖는 VL 도메인을 포함하는 것인 CAR.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 하나의 항에 있어서, Fab 항원 결합 도메인은 제1 표적 항원에 결합하는 제1 결합 도메인 및 제2 표적 항원에 결합하는 제2 결합 도메인을 포함하는 것인 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 제1 표적 항원 또는 제2 표적 항원은 BCMA인 CAR.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 또는 제8항에 있어서, 제1 및 제2 결합 도메인 사이에 절단 가능한 링커를 포함하는 CAR.",
+          "refers_to": [
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 링커는 매트릭스 메탈로프로테이나제(MMP: matrix metalloproteinase)로 절단 가능한 것인 CAR.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 하나의 항에 따른 CAR을 코딩하는 핵산 서열.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 하나의 항에 따른 CAR을 코딩하고 다음 일반 구조 중 하나를 갖는 핵산 구축물:\nVH-CH-spacer-TM-endo-coexpr-VL-CL;\nVL-CL-coexpr-VH-CH-spacer-TM-endo;\nVL-CL-spacer-TM-endo-coexpr-VH-CH; 또는\nVH-CH-coexpr-VL-CL-spacer-TM-endo;\n여기서:\nVH는 중쇄 가변 영역을 코딩하는 핵산 서열이고;\nCH는 중쇄 불변 영역을 코딩하는 핵산 서열이고;\nspacer는 스페이서를 코딩하는 핵산이고;\nTM은 막 횡단 도메인을 코딩하는 핵산 서열이고;\nendo는 엔도도메인을 코딩하는 핵산 서열이고;\ncoexpr은 제1 및 제2 폴리펩티드의 공동 발현을 가능하게 하는 핵산 서열이고;\nVL은 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nCL은 경쇄 불변 영역을 코딩하는 핵산 서열이다.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 내지 제10항 중 어느 하나의 항에 따른 CAR을 코딩하고 다음 일반 구조 중 하나를 갖는 핵산 구축물:\nVH1-L1-VH2-CH-spacer-TM-endo-coexpr-VL1-L2-VL2-CL;\nVL1-L1-VL2-CL-coexpr-VH1-L2-VH2-CH-spacer-TM-endo;\nVL1-L1-VL2-CL-spacer-TM-endo-coexpr-VH1-L2-VH2-CH; 또는\nVH1-L1-VH2-CH-coexpr-VL1-L2-VL2-CL-spacer-TM-endo\n여기서:\nVH1은 제1 결합 도메인의 중쇄 가변 영역을 코딩하는 핵산 서열이고;\n동일하거나 상이할 수 있는 L1 및 L2는 절단 가능한 링커이고;\nVH2는 제2 결합 도메인의 중쇄 가변 영역을 코딩하는 핵산 서열이고;\nCH는 중쇄 불변 영역을 코딩하는 핵산 서열이고;\nspacer는 스페이서를 코딩하는 핵산이고;\nTM은 막 횡단 도메인을 코딩하는 핵산 서열이고;\nendo는 엔도도메인을 코딩하는 핵산 서열이고;\ncoexpr은 제1 및 제2 폴리펩티드의 공동 발현을 가능하게 하는 핵산 서열이고;\nVL1은 제1 결합 도메인의 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nVL2는 제2 결합 도메인의 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nCL은 경쇄 불변 영역을 코딩하는 핵산 서열이다.",
+          "refers_to": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 또는 제13항에 있어서, 도메인 항체(dAb), scFv 또는 Fab 항원 결합 도메인을 갖는 제2 키메라 항원 수용체를 또한 코딩하는 핵산 구축물.",
+          "refers_to": [
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 제2 키메라 항원 수용체는 이하의 항원: CD19, FcRL5 및 TACI 중 하나에 결합하는 것인 핵산 구축물.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 따른 핵산 서열 또는 제12항 내지 제15항 중 어느 하나의 항에 따른 핵산 구축물을 포함하는 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 하나의 항에 따른 CAR을 발현하는 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 하나의 항에 따른 제1 CAR, 및 제14항 또는 제15항에 정의된 제2 키메라 항원 수용체를 발현하는 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항 또는 제18항에 있어서, 구성적으로 활성인 사이토카인 수용체를 또한 발현하는 세포.",
+          "refers_to": [
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항 내지 제19항 중 어느 하나의 항에 따른 세포를 제조하는 방법으로서, 제11항에 따른 핵산 서열; 제12항 내지 제15항 중 어느 하나의 항에 따른 핵산 구축물; 또는 제16항에 따른 벡터를 생체 외 세포 내로 도입하는 단계를 포함하는 방법.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약학적으로 허용 가능한 담체, 희석제 또는 부형제와 함께 제17항 내지 제19항 중 어느 하나의 항에 따른 복수의 세포를 포함하는 약학 조성물.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 따른 약학 조성물을 대상체에게 투여하는 단계를 포함하는 암 치료 방법.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 암은 다발성 골수종인 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, 암 치료에 사용하기 위한 약학 조성물.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "암 치료를 위한 약학 조성물의 제조에 있어 제17항 내지 제19항 중 어느 하나의 항에 따른 세포의 용도.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20250324",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 25,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "저밀도 표적 항원에 결합하는 키메라 항원 수용체(CAR: chimeric antigen receptor)로서, Fab 항원 결합 도메인을 포함하는 CAR.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 표적 항원은 표적 세포당 1500 카피 미만의 평균 밀도로 발현되는 것인 CAR.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 표적 항원은 ROR1, Tyrp-1, TACI, ALK 및 BCMA로부터 선택되는 것인 CAR.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 표적 항원은 BCMA인 CAR.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, Fab 항원 결합 도메인은 다음을 포함하는 것인 CAR:a) 다음 서열을 갖는 상보성 결정 영역(CDR: complementarity determining region)을 갖는 중쇄 가변 영역(VH):b) 다음 서열을 갖는 상보성 결정 영역(CDR)을 갖는 경쇄 가변 영역(VL):",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, Fab 항원 결합 도메인은 서열 번호 29로 나타낸 서열을 갖는 VH 도메인; 및 서열 번호 30으로 나타낸 서열을 갖는 VL 도메인을 포함하는 것인 CAR.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제6항 중 어느 하나의 항에 있어서, Fab 항원 결합 도메인은 제1 표적 항원에 결합하는 제1 결합 도메인 및 제2 표적 항원에 결합하는 제2 결합 도메인을 포함하는 것인 CAR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 제1 표적 항원 또는 제2 표적 항원은 BCMA인 CAR.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항 또는 제8항에 있어서, 제1 및 제2 결합 도메인 사이에 절단 가능한 링커를 포함하는 CAR.",
+          "refers_to": [
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 링커는 매트릭스 메탈로프로테이나제(MMP: matrix metalloproteinase)로 절단 가능한 것인 CAR.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제10항 중 어느 하나의 항에 따른 CAR을 코딩하는 핵산 서열.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제6항 중 어느 하나의 항에 따른 CAR을 코딩하고 다음 일반 구조 중 하나를 갖는 핵산 구축물:VH-CH-spacer-TM-endo-coexpr-VL-CL;VL-CL-coexpr-VH-CH-spacer-TM-endo;VL-CL-spacer-TM-endo-coexpr-VH-CH; 또는VH-CH-coexpr-VL-CL-spacer-TM-endo;여기서:VH는 중쇄 가변 영역을 코딩하는 핵산 서열이고;CH는 중쇄 불변 영역을 코딩하는 핵산 서열이고;spacer는 스페이서를 코딩하는 핵산이고;TM은 막 횡단 도메인을 코딩하는 핵산 서열이고;endo는 엔도도메인을 코딩하는 핵산 서열이고;coexpr은 제1 및 제2 폴리펩티드의 공동 발현을 가능하게 하는 핵산 서열이고;VL은 경쇄 가변 영역을 코딩하는 핵산 서열이고;CL은 경쇄 불변 영역을 코딩하는 핵산 서열이다.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항 내지 제10항 중 어느 하나의 항에 따른 CAR을 코딩하고 다음 일반 구조 중 하나를 갖는 핵산 구축물:VH1-L1-VH2-CH-spacer-TM-endo-coexpr-VL1-L2-VL2-CL;VL1-L1-VL2-CL-coexpr-VH1-L2-VH2-CH-spacer-TM-endo;VL1-L1-VL2-CL-spacer-TM-endo-coexpr-VH1-L2-VH2-CH; 또는VH1-L1-VH2-CH-coexpr-VL1-L2-VL2-CL-spacer-TM-endo여기서:VH1은 제1 결합 도메인의 중쇄 가변 영역을 코딩하는 핵산 서열이고;동일하거나 상이할 수 있는 L1 및 L2는 절단 가능한 링커이고;VH2는 제2 결합 도메인의 중쇄 가변 영역을 코딩하는 핵산 서열이고;CH는 중쇄 불변 영역을 코딩하는 핵산 서열이고;spacer는 스페이서를 코딩하는 핵산이고;TM은 막 횡단 도메인을 코딩하는 핵산 서열이고;endo는 엔도도메인을 코딩하는 핵산 서열이고;coexpr은 제1 및 제2 폴리펩티드의 공동 발현을 가능하게 하는 핵산 서열이고;VL1은 제1 결합 도메인의 경쇄 가변 영역을 코딩하는 핵산 서열이고;VL2는 제2 결합 도메인의 경쇄 가변 영역을 코딩하는 핵산 서열이고;CL은 경쇄 불변 영역을 코딩하는 핵산 서열이다.",
+          "refers_to": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 또는 제13항에 있어서, 도메인 항체(dAb), scFv 또는 Fab 항원 결합 도메인을 갖는 제2 키메라 항원 수용체를 또한 코딩하는 핵산 구축물.",
+          "refers_to": [
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 제2 키메라 항원 수용체는 이하의 항원: CD19, FcRL5 및 TACI 중 하나에 결합하는 것인 핵산 구축물.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 따른 핵산 서열 또는 제12항 내지 제15항 중 어느 하나의 항에 따른 핵산 구축물을 포함하는 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제10항 중 어느 하나의 항에 따른 CAR을 발현하는 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제10항 중 어느 하나의 항에 따른 제1 CAR, 및 제14항 또는 제15항에 정의된 제2 키메라 항원 수용체를 발현하는 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항 또는 제18항에 있어서, 구성적으로 활성인 사이토카인 수용체를 또한 발현하는 세포.",
+          "refers_to": [
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항 내지 제19항 중 어느 하나의 항에 따른 세포를 제조하는 방법으로서, 제11항에 따른 핵산 서열; 제12항 내지 제15항 중 어느 하나의 항에 따른 핵산 구축물; 또는 제16항에 따른 벡터를 생체 외 세포 내로 도입하는 단계를 포함하는 방법.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "약학적으로 허용 가능한 담체, 희석제 또는 부형제와 함께 제17항 내지 제19항 중 어느 하나의 항에 따른 복수의 세포를 포함하는 약학 조성물.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 따른 약학 조성물을 대상체에게 투여하는 단계를 포함하는 암 치료 방법.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항에 있어서, 암은 다발성 골수종인 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 암 치료에 사용하기 위한 약학 조성물.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "암 치료를 위한 약학 조성물의 제조에 있어 제17항 내지 제19항 중 어느 하나의 항에 따른 세포의 용도.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210423",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "저밀도 표적 항원에 결합하는 키메라 항원 수용체(CAR: chimeric antigen receptor)로서, Fab 항원 결합 도메인을 포함하는 CAR.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 표적 항원은 표적 세포당 1500 카피 미만의 평균 밀도로 발현되는 것인 CAR.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 표적 항원은 ROR1, Tyrp-1, TACI, ALK 및 BCMA로부터 선택되는 것인 CAR.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 표적 항원은 BCMA인 CAR.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, Fab 항원 결합 도메인은 다음을 포함하는 것인 CAR:\na) 다음 서열을 갖는 상보성 결정 영역(CDR: complementarity determining region)을 갖는 중쇄 가변 영역(VH):\n[이미지]\nb) 다음 서열을 갖는 상보성 결정 영역(CDR)을 갖는 경쇄 가변 영역(VL):\n[이미지]",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, Fab 항원 결합 도메인은 서열 번호 29로 나타낸 서열을 갖는 VH 도메인; 및 서열 번호 30으로 나타낸 서열을 갖는 VL 도메인을 포함하는 것인 CAR.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 하나의 항에 있어서, Fab 항원 결합 도메인은 제1 표적 항원에 결합하는 제1 결합 도메인 및 제2 표적 항원에 결합하는 제2 결합 도메인을 포함하는 것인 CAR.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 제1 표적 항원 또는 제2 표적 항원은 BCMA인 CAR.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 또는 제8항에 있어서, 제1 및 제2 결합 도메인 사이에 절단 가능한 링커를 포함하는 CAR.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 링커는 매트릭스 메탈로프로테이나제(MMP: matrix metalloproteinase)로 절단 가능한 것인 CAR.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 하나의 항에 따른 CAR을 코딩하는 핵산 서열.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 하나의 항에 따른 CAR을 코딩하고 다음 일반 구조 중 하나를 갖는 핵산 구축물:\nVH-CH-spacer-TM-endo-coexpr-VL-CL;\nVL-CL-coexpr-VH-CH-spacer-TM-endo;\nVL-CL-spacer-TM-endo-coexpr-VH-CH; 또는\nVH-CH-coexpr-VL-CL-spacer-TM-endo;\n여기서:\nVH는 중쇄 가변 영역을 코딩하는 핵산 서열이고;\nCH는 중쇄 불변 영역을 코딩하는 핵산 서열이고;\nspacer는 스페이서를 코딩하는 핵산이고;\nTM은 막 횡단 도메인을 코딩하는 핵산 서열이고;\nendo는 엔도도메인을 코딩하는 핵산 서열이고;\ncoexpr은 제1 및 제2 폴리펩티드의 공동 발현을 가능하게 하는 핵산 서열이고;\nVL은 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nCL은 경쇄 불변 영역을 코딩하는 핵산 서열이다.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 내지 제10항 중 어느 하나의 항에 따른 CAR을 코딩하고 다음 일반 구조 중 하나를 갖는 핵산 구축물:\nVH1-L1-VH2-CH-spacer-TM-endo-coexpr-VL1-L2-VL2-CL;\nVL1-L1-VL2-CL-coexpr-VH1-L2-VH2-CH-spacer-TM-endo;\nVL1-L1-VL2-CL-spacer-TM-endo-coexpr-VH1-L2-VH2-CH; 또는\nVH1-L1-VH2-CH-coexpr-VL1-L2-VL2-CL-spacer-TM-endo\n여기서:\nVH1은 제1 결합 도메인의 중쇄 가변 영역을 코딩하는 핵산 서열이고;\n동일하거나 상이할 수 있는 L1 및 L2는 절단 가능한 링커이고;\nVH2는 제2 결합 도메인의 중쇄 가변 영역을 코딩하는 핵산 서열이고;\nCH는 중쇄 불변 영역을 코딩하는 핵산 서열이고;\nspacer는 스페이서를 코딩하는 핵산이고;\nTM은 막 횡단 도메인을 코딩하는 핵산 서열이고;\nendo는 엔도도메인을 코딩하는 핵산 서열이고;\ncoexpr은 제1 및 제2 폴리펩티드의 공동 발현을 가능하게 하는 핵산 서열이고;\nVL1은 제1 결합 도메인의 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nVL2는 제2 결합 도메인의 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nCL은 경쇄 불변 영역을 코딩하는 핵산 서열이다.",
+            "refers_to": [
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 또는 제13항에 있어서, 도메인 항체(dAb), scFv 또는 Fab 항원 결합 도메인을 갖는 제2 키메라 항원 수용체를 또한 코딩하는 핵산 구축물.",
+            "refers_to": [
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, 제2 키메라 항원 수용체는 이하의 항원: CD19, FcRL5 및 TACI 중 하나에 결합하는 것인 핵산 구축물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 따른 핵산 서열 또는 제12항 내지 제15항 중 어느 하나의 항에 따른 핵산 구축물을 포함하는 벡터.",
+            "refers_to": [
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 하나의 항에 따른 CAR을 발현하는 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 하나의 항에 따른 제1 CAR, 및 제14항 또는 제15항에 정의된 제2 키메라 항원 수용체를 발현하는 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항 또는 제18항에 있어서, 구성적으로 활성인 사이토카인 수용체를 또한 발현하는 세포.",
+            "refers_to": [
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항 내지 제19항 중 어느 하나의 항에 따른 세포를 제조하는 방법으로서, 제11항에 따른 핵산 서열; 제12항 내지 제15항 중 어느 하나의 항에 따른 핵산 구축물; 또는 제16항에 따른 벡터를 생체 외 세포 내로 도입하는 단계를 포함하는 방법.",
+            "refers_to": [
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약학적으로 허용 가능한 담체, 희석제 또는 부형제와 함께 제17항 내지 제19항 중 어느 하나의 항에 따른 복수의 세포를 포함하는 약학 조성물.",
+            "refers_to": [
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 따른 약학 조성물을 대상체에게 투여하는 단계를 포함하는 암 치료 방법.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, 암은 다발성 골수종인 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 암 치료에 사용하기 위한 약학 조성물.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "암 치료를 위한 약학 조성물의 제조에 있어 제17항 내지 제19항 중 어느 하나의 항에 따른 세포의 용도.",
+            "refers_to": [
+              17,
+              18,
+              19
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220726",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "B 세포 성숙 항원(BCMA)에 결합하는 키메라 항원 수용체(CAR)로서, Fab 항원 결합 도메인을 포함하는 CAR.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, Fab 항원 결합 도메인은 다음을 포함하는 것인 CAR:\na) 다음 서열을 갖는 상보성 결정 영역(CDR)을 갖는 중쇄 가변 영역(VH):\n[이미지]\nb) 다음 서열을 갖는 상보성 결정 영역(CDR)을 갖는 경쇄 가변 영역(VL):\n[이미지]",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, Fab 항원 결합 도메인은 서열 번호 29로 나타낸 서열을 갖는 VH 도메인; 및 서열 번호 30으로 나타낸 서열을 갖는 VL 도메인을 포함하는 것인 CAR.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, Fab 항원 결합 도메인은 제1 표적 항원에 결합하는 제1 결합 도메인 및 제2 표적 항원에 결합하는 제2 결합 도메인을 포함하는 것인 CAR.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 CAR을 코딩하는 핵산 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 CAR을 코딩하고 다음 일반 구조 중 하나를 갖는 핵산 구축물:\nVH-CH-spacer-TM-endo-coexpr-VL-CL;\nVL-CL-coexpr-VH-CH-spacer-TM-endo;\nVL-CL-spacer-TM-endo-coexpr-VH-CH; 또는\nVH-CH-coexpr-VL-CL-spacer-TM-endo;\n여기서:\nVH는 중쇄 가변 영역을 코딩하는 핵산 서열이고;\nCH는 중쇄 불변 영역을 코딩하는 핵산 서열이고;\nspacer는 스페이서를 코딩하는 핵산이고;\nTM은 막 횡단 도메인을 코딩하는 핵산 서열이고;\nendo는 엔도도메인을 코딩하는 핵산 서열이고;\ncoexpr은 제1 및 제2 폴리펩티드의 공동 발현을 가능하게 하는 핵산 서열이고;\nVL은 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nCL은 경쇄 불변 영역을 코딩하는 핵산 서열이다.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 따른 CAR을 코딩하고 다음 일반 구조 중 하나를 갖는 핵산 구축물:\nVH1-L1-VH2-CH-spacer-TM-endo-coexpr-VL1-L2-VL2-CL;\nVL1-L1-VL2-CL-coexpr-VH1-L2-VH2-CH-spacer-TM-endo;\nVL1-L1-VL2-CL-spacer-TM-endo-coexpr-VH1-L2-VH2-CH; 또는\nVH1-L1-VH2-CH-coexpr-VL1-L2-VL2-CL-spacer-TM-endo\n여기서:\nVH1은 제1 결합 도메인의 중쇄 가변 영역을 코딩하는 핵산 서열이고;\n동일하거나 상이할 수 있는 L1 및 L2는 절단 가능한 링커이고;\nVH2는 제2 결합 도메인의 중쇄 가변 영역을 코딩하는 핵산 서열이고;\nCH는 중쇄 불변 영역을 코딩하는 핵산 서열이고;\nspacer는 스페이서를 코딩하는 핵산이고;\nTM은 막 횡단 도메인을 코딩하는 핵산 서열이고;\nendo는 엔도도메인을 코딩하는 핵산 서열이고;\ncoexpr은 제1 및 제2 폴리펩티드의 공동 발현을 가능하게 하는 핵산 서열이고;\nVL1은 제1 결합 도메인의 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nVL2는 제2 결합 도메인의 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nCL은 경쇄 불변 영역을 코딩하는 핵산 서열이다.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, CD19에 결합하는 제2 키메라 항원 수용체를 또한 코딩하는 핵산 구축물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 따른 핵산 서열을 포함하는 벡터.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 CAR을 발현하는 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 제1 CAR, 및 CD19에 결합하는 제2 키메라 항원 수용체를 발현하는 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 따른 핵산 서열을 생체 외 세포 내로 도입하는 단계를 포함하는, 제10항에 따른 세포의 제조 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 따른 복수의 세포를 약학적으로 허용 가능한 담체, 희석제 또는 부형제와 함께 포함하는 약학 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 암 치료에 사용하기 위한 약학 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 암이 다발성 골수종인 약학 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250324",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "B 세포 성숙 항원(BCMA)에 결합하는 키메라 항원 수용체(CAR)로서, Fab 항원 결합 도메인을 포함하고, Fab 항원 결합 도메인은 다음을 포함하는 것인 CAR:\na) 다음 서열을 갖는 상보성 결정 영역(CDR)을 갖는 중쇄 가변 영역(VH):\nCDR1 - GFIFSDYN (서열 번호 79)\nCDR2 - IIYDGSST (서열 번호 80)\nCDR3 - ATRPGPFAY (서열 번호 81)\nb) 다음 서열을 갖는 상보성 결정 영역(CDR)을 갖는 경쇄 가변 영역(VL):\nCDR1 - QSLLHSNGNTY (서열 번호 82)\nCDR2 - LVS (서열 번호 83)\nCDR3 - VHGTHAWT (서열 번호 84).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, Fab 항원 결합 도메인은 서열 번호 29로 나타낸 서열을 갖는 VH 도메인; 및 서열 번호 30으로 나타낸 서열을 갖는 VL 도메인을 포함하는 것인 CAR.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, Fab 항원 결합 도메인은 제1 표적 항원에 결합하는 제1 결합 도메인 및 제2 표적 항원에 결합하는 제2 결합 도메인을 포함하는 것인 CAR.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 CAR을 코딩하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 CAR을 코딩하고 다음 일반 구조 중 하나를 갖는 핵산 구축물:\nVH-CH-spacer-TM-endo-coexpr-VL-CL;\nVL-CL-coexpr-VH-CH-spacer-TM-endo;\nVL-CL-spacer-TM-endo-coexpr-VH-CH; 또는\nVH-CH-coexpr-VL-CL-spacer-TM-endo;\n여기서:\nVH는 중쇄 가변 영역을 코딩하는 핵산 서열이고;\nCH는 중쇄 불변 영역을 코딩하는 핵산 서열이고;\nspacer는 스페이서를 코딩하는 핵산이고;\nTM은 막 횡단 도메인을 코딩하는 핵산 서열이고;\nendo는 엔도도메인을 코딩하는 핵산 서열이고;\ncoexpr은 제1 및 제2 폴리펩티드의 공동 발현을 가능하게 하는 핵산 서열이고;\nVL은 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nCL은 경쇄 불변 영역을 코딩하는 핵산 서열이다.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 따른 CAR을 코딩하고 다음 일반 구조 중 하나를 갖는 핵산 구축물:\nVH1-L1-VH2-CH-spacer-TM-endo-coexpr-VL1-L2-VL2-CL;\nVL1-L1-VL2-CL-coexpr-VH1-L2-VH2-CH-spacer-TM-endo;\nVL1-L1-VL2-CL-spacer-TM-endo-coexpr-VH1-L2-VH2-CH; 또는\nVH1-L1-VH2-CH-coexpr-VL1-L2-VL2-CL-spacer-TM-endo\n여기서:\nVH1은 제1 결합 도메인의 중쇄 가변 영역을 코딩하는 핵산 서열이고;\n동일하거나 상이할 수 있는 L1 및 L2는 절단 가능한 링커이고;\nVH2는 제2 결합 도메인의 중쇄 가변 영역을 코딩하는 핵산 서열이고;\nCH는 중쇄 불변 영역을 코딩하는 핵산 서열이고;\nspacer는 스페이서를 코딩하는 핵산이고;\nTM은 막 횡단 도메인을 코딩하는 핵산 서열이고;\nendo는 엔도도메인을 코딩하는 핵산 서열이고;\ncoexpr은 제1 및 제2 폴리펩티드의 공동 발현을 가능하게 하는 핵산 서열이고;\nVL1은 제1 결합 도메인의 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nVL2는 제2 결합 도메인의 경쇄 가변 영역을 코딩하는 핵산 서열이고;\nCL은 경쇄 불변 영역을 코딩하는 핵산 서열이다.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, CD19에 결합하는 제2 키메라 항원 수용체를 또한 코딩하는 핵산 구축물.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 따른 핵산을 포함하는 벡터.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항 내지 제8항 중 어느 한 항에 따른 핵산 구축물을 포함하는 벡터.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 CAR을 발현하는 단리된 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 제1 CAR, 및 CD19에 결합하는 제2 키메라 항원 수용체를 발현하는 단리된 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 따른 핵산 또는 제5항 내지 제8항 중 어느 한 항에 따른 핵산 구축물을 생체 외 세포 내로 도입하는 단계를 포함하는, 제11항 또는 제12항에 따른 단리된 세포의 제조 방법.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 따른 벡터를 생체 외 세포 내로 도입하는 단계를 포함하는, 제11항 또는 제12항에 따른 단리된 세포의 제조 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "암 또는 아밀로이드증의 치료를 위한, 제11항 또는 제12항에 따른 복수의 단리된 세포를 약학적으로 허용 가능한 담체, 희석제 또는 부형제와 함께 포함하는 약학 조성물.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 암이 다발성 골수종인 약학 조성물.",
+            "refers_to": [
+              15
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 25,
+      "after_claim_count": 15,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.04.02",
+      "internationOpenNumber": "WO2020065330",
+      "internationalApplicationDate": "2019.09.26",
+      "internationalApplicationNumber": "PCT/GB2019/052726"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "영국 런던 *** 우드 레인 더 미디어웍스 (우편번호: 더블유** *에프피)",
+      "code": "520170246621",
+      "country": "영국",
+      "engName": "Autolus Limited",
+      "name": "오토러스 리미티드"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "영국 더블유** *알제트 런던 우...",
+        "code": "",
+        "country": "",
+        "engName": "PULE, Martin",
+        "name": "풀레 마틴"
+      },
+      {
+        "address": "영국 더블유** *알제트 런던 우...",
+        "code": "",
+        "country": "",
+        "engName": "CORDOBA, Shaun",
+        "name": "코르도바 샤운"
+      },
+      {
+        "address": "영국 더블유** *알제트 런던 우...",
+        "code": "",
+        "country": "",
+        "engName": "THOMAS, Simon",
+        "name": "토마스 시몬"
+      },
+      {
+        "address": "영국 더블유** *알제트 런던 우...",
+        "code": "",
+        "country": "",
+        "engName": "ONUOHA, Shimobi",
+        "name": "오누오하 시모비"
+      },
+      {
+        "address": "영국 더블유** *알제트 런던 우...",
+        "code": "",
+        "country": "",
+        "engName": "CHEAN LIM, Wen",
+        "name": "체안 림 웬"
+      },
+      {
+        "address": "영국 더블유** *알제트 런던 우...",
+        "code": "",
+        "country": "",
+        "engName": "MA, Biao",
+        "name": "마 바이아오"
+      },
+      {
+        "address": "영국 더블유** *알제트 런던 우...",
+        "code": "",
+        "country": "",
+        "engName": "FERRARI, Mathieu",
+        "name": "페라리 마티우"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001573",
+        "country": "대한민국",
+        "engName": "Kim Jin Hoe",
+        "name": "김진회"
+      },
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001580",
+        "country": "대한민국",
+        "engName": "Kim Tae Hong",
+        "name": "김태홍"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "영국",
+        "priorityApplicationDate": "2018.09.27",
+        "priorityApplicationNumber": "1815775.0"
+      },
+      {
+        "priorityApplicationCountry": "영국",
+        "priorityApplicationDate": "2019.02.14",
+        "priorityApplicationNumber": "1902021.3"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2017156479 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20180147271 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020170037626 A",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.04.23",
+        "receiptNumber": "1-1-2021-0479998-47"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.04.30",
+        "receiptNumber": "1-5-2021-0070182-76"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.11.08",
+        "receiptNumber": "4-1-2021-5291632-86"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.07.26",
+        "receiptNumber": "1-1-2022-0781640-15"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.07.26",
+        "receiptNumber": "1-1-2022-0781639-68"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.02.05",
+        "receiptNumber": "9-5-2025-0124632-12"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.03.24",
+        "receiptNumber": "1-1-2025-0329890-35"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.03.24",
+        "receiptNumber": "1-1-2025-0329889-99"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2025.10.15",
+        "receiptNumber": "9-5-2025-0995795-30"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217012340.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93c30122da6f4bce23dc6fb7e611bb6f5afa9b75390993ee699da126dfe524a23f68600aade0b40c073ac7cf95eb5b13311460a4d6d437f067",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf7f21190286d6ae9443aa25e6c4ad64fe5a8b9a9304bc9a7b5fcb1236ee4c1e194880a015bb51869b037204c568c67ce4a57e517af243ec40"
+  },
+  "rndInfoArray": ""
+}

@@ -1,0 +1,2531 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2018.11.09",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-7016690",
+      "claimCount": "33",
+      "examinerName": "",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "표적화된 CRISPR 전달 플랫폼",
+      "inventionTitleEng": "TARGETED CRISPR DELIVERY PLATFORMS",
+      "openDate": "2020.07.06",
+      "openNumber": "10-2020-0080314",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2021.11.08",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "2026.01.30",
+      "registerNumber": "10-2922730-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2020.06.10"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/113"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 9/22"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/86"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/12"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 3/06"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 유전자 요법을 위한 조성물 및 방법에 관한 것이다. 본원에 기재된 여러 방법들은 초정확 CRISPR 유전자 편집 플랫폼을 제공하는 네이세리아 메닝기티디스(Neisseria meningitidis) Cas9 시스템을 사용한다. 뿐만 아니라, 본 발명은 완전한 sgRNA-Nme1Cas9 벡터가 생체내 투여에 적합한 아데노 관련 바이러스 플라스미드 내로 삽입될 수 있게 하는 전체 길이 단일 가이드 RNA 서열 및 단축형 단일 가이드 RNA 서열을 포함한다. 나아가, 1개 내지 4개의 필수 뉴클레오타이드로 한정된 프로토스페이서 인접 모티프 서열을 표적화하는 II-C형 Cas9 오르톨로그가 확인되었다."
+    }
+  },
+  "claims": {
+    "application_number": "1020207016690",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200610",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 57,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "단축형(truncated) 반복부:역반복부 영역을 포함하는 단일 가이드 리보핵산(sgRNA) 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 단축형 줄기 2 영역을 추가로 포함하는 sgRNA 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 단축형 스페이서 영역을 추가로 포함하는 sgRNA 서열.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 121개 뉴클레오타이드의 길이를 갖는 sgRNA 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 sgRNA 서열 길이가 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택되는 것인 sgRNA 서열.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 100개 뉴클레오타이드의 길이를 갖는 sgRNA 서열.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, Nme1Cas9 단일 가이드 리보핵산 서열 또는 Nme2Cas9 단일 가이드 리보핵산 서열인 sgRNA 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "단축형 줄기 2 영역을 포함하는 단일 가이드 리보핵산(sgRNA) 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 단축형 반복부:역반복부 영역을 추가로 포함하는 sgRNA 서열.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 단축형 스페이서 영역을 추가로 포함하는 sgRNA 서열.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 sgRNA 서열 길이가 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택되는 것인 sgRNA 서열.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 100개 뉴클레오타이드의 길이를 갖는 sgRNA 서열.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "단일 가이드 리보핵산-네이세리아 메닝기티디스(Neisseria meningitidis) Cas9 핵산 벡터를 포함하는 아데노 관련 바이러스(AAV) 플라스미드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 단일 가이드 리보핵산-네이세리아 메닝기티디스 Cas9 핵산 벡터가 적어도 하나의 프로모터를 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 상기 적어도 하나의 프로모터가 U6 프로모터 및 U1a 프로모터로 구성된 군으로부터 선택되는 것인 AAV 플라스미드.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 단일 가이드 리보핵산-네이세리아 메닝기티디스 Cas9 핵산 벡터가 코작(Kozak) 서열을 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 sgRNA가 관심 있는 유전자 서열에 상보적인 핵산 서열을 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 상기 관심 있는 유전자 서열이 PCSK9 서열 및 ROSA26 서열로 구성된 군으로부터 선택되는 것인 AAV 플라스미드.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 서열을 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 상기 sgRNA 서열이 121개 뉴클레오타이드의 길이를 갖는 것인 AAV 플라스미드.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 AAV 플라스미드.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 AAV 플라스미드.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 AAV 플라스미드.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 AAV 플라스미드.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "a) i) 의학적 상태의 적어도 하나의 증상을 나타내고 상기 의학적 상태와 관련된 복수의 유전자들을 포함하는 환자, \n ii) 단일 가이드 리보핵산-네이세리아 메닝기티디스 Cas9 핵산 벡터를 포함하는 아데노 관련 바이러스(AAV) 플라스미드로서, 상기 sgRNA가 상기 복수의 유전자들 중 적어도 한 유전자의 일부에 상보적인 핵산 서열을 포함하는 것인 AAV 플라스미드\n를 제공하는 단계; 및\nb) 상기 의학적 상태의 상기 적어도 하나의 증상이 감소되도록 하는 조건 하에서 상기 AAV 플라스미드를 상기 환자에게 투여하는 단계\n를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제30항에 있어서, 상기 의학적 상태가 고콜레스테롤혈증을 포함하는 것인 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제30항에 있어서, 상기 복수의 유전자들 중 상기 적어도 한 유전자가 PCSK9 유전자인 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제32항에 있어서, 상기 sgRNA 핵산이 상기 PCSK9 유전자의 일부에 상보적인 것인 방법.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제30항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 서열을 포함하는 것인 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제34항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 추가로 포함하는 것인 방법.",
+          "refers_to": [
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제34항에 있어서, 상기 sgRNA 서열이 121개 뉴클레오타이드의 길이를 갖는 것인 방법.",
+          "refers_to": [
+            34
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 방법.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제30항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 포함하는 것인 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제40항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 영역을 추가로 포함하는 것인 방법.",
+          "refers_to": [
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제42항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 방법.",
+          "refers_to": [
+            42
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "1개 내지 4개의 필수 뉴클레오타이드를 포함하는 프로토스페이서(protospacer) 인접 모티프 서열에 대한 결합 부위를 갖도록 구성된 프로토스페이서 인접 모티프 인식 도메인을 포함하는 II-C형 Cas9 뉴클레아제 단백질을 코딩하는 아데노 관련 바이러스(AAV) 플라스미드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제45항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 네이세리아 메닝기티디스 균주 De10444 Nme2Cas9 뉴클레아제 단백질, 해모필루스 파라인플루엔자(Haemophilus parainfluenzae) HpaCas9 뉴클레아제 단백질 및 시몬시엘라 뮤엘레리(Simonsiella muelleri) SmuCas9 뉴클레아제 단백질로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제46항에 있어서, 1개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열이 N4CN3, N4CT, N4CCN, N4CCA 및 N4GNT3로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+          "refers_to": [
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제45항에 있어서, 상기 1개 내지 4개의 필수 뉴클레오타이드가 C, CC, CT, CCN, CCA, CN3 및 GNT2로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제45항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 단축형 sgRNA에 결합되는 것인 아데노 관련 바이러스 플라스미드.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "a) i) 의학적 상태의 적어도 하나의 증상을 나타내고, 상기 의학적 상태와 관련된 복수의 유전자들을 포함하는 환자로서, 상기 복수의 유전자들이 2개 내지 4개의 필수 뉴클레오타이드를 포함하는 프로토스페이서 인접 모티프를 포함하는 것인 환자, \n ii) 2개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열에 대한 결합 부위를 갖도록 구성된 프로토스페이서 인접 모티프 인식 도메인을 포함하는 II-C형 Cas9 뉴클레아제 단백질을 코딩하는 적어도 하나의 핵산을 포함하는 전달 플랫폼\n을 제공하는 단계; 및\nb) 상기 의학적 상태의 상기 적어도 하나의 증상이 감소되도록 하는 조건 하에서 상기 전달 플랫폼을 상기 환자에게 투여하는 단계\n를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제50항에 있어서, 상기 전달 플랫폼이 아데노 관련 바이러스 플라스미드를 포함하는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제50항에 있어서, 상기 전달 플랫폼이 마이크로입자를 포함하는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제50항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 네이세리아 메닝기티디스 균주 De10444 Nme2Cas9 뉴클레아제 단백질, 해모필루스 파라인플루엔자 HpaCas9 뉴클레아제 단백질 및 시몬시엘라 뮤엘레리 SmuCas9 뉴클레아제 단백질로 구성된 군으로부터 선택되는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제50항에 있어서, 1개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열이 N4C3, N4CT, N4CCN, N4CCA 및 N4GNT3로 구성된 군으로부터 선택되는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제50항에 있어서, 상기 1개 내지 4개의 필수 뉴클레오타이드가 C, CC, CT, CCN, CCA, CN3 및 GNT2로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제50항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 단축형 sgRNA에 결합되는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제50항에 있어서, 상기 의학적 상태가 고지혈증 및 티로신혈증으로 구성된 군으로부터 선택되는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20250422",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 57,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "단축형(truncated) 반복부:역반복부 영역을 포함하는 단일 가이드 리보핵산(sgRNA) 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 단축형 줄기 2 영역을 추가로 포함하는 sgRNA 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 단축형 스페이서 영역을 추가로 포함하는 sgRNA 서열.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 121개 뉴클레오타이드의 길이를 갖는 sgRNA 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 sgRNA 서열 길이가 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택되는 것인 sgRNA 서열.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 100개 뉴클레오타이드의 길이를 갖는 sgRNA 서열.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, Nme1Cas9 단일 가이드 리보핵산 서열 또는 Nme2Cas9 단일 가이드 리보핵산 서열인 sgRNA 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "단축형 줄기 2 영역을 포함하는 단일 가이드 리보핵산(sgRNA) 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서, 단축형 반복부:역반복부 영역을 추가로 포함하는 sgRNA 서열.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 단축형 스페이서 영역을 추가로 포함하는 sgRNA 서열.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 sgRNA 서열 길이가 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택되는 것인 sgRNA 서열.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 100개 뉴클레오타이드의 길이를 갖는 sgRNA 서열.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "단일 가이드 리보핵산-네이세리아 메닝기티디스(Neisseria meningitidis) Cas9 핵산 벡터를 포함하는 아데노 관련 바이러스(AAV) 플라스미드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 단일 가이드 리보핵산-네이세리아 메닝기티디스 Cas9 핵산 벡터가 적어도 하나의 프로모터를 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 상기 적어도 하나의 프로모터가 U6 프로모터 및 U1a 프로모터로 구성된 군으로부터 선택되는 것인 AAV 플라스미드.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 단일 가이드 리보핵산-네이세리아 메닝기티디스 Cas9 핵산 벡터가 코작(Kozak) 서열을 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 sgRNA가 관심 있는 유전자 서열에 상보적인 핵산 서열을 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, 상기 관심 있는 유전자 서열이 PCSK9 서열 및 ROSA26 서열로 구성된 군으로부터 선택되는 것인 AAV 플라스미드.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 서열을 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, 상기 sgRNA 서열이 121개 뉴클레오타이드의 길이를 갖는 것인 AAV 플라스미드.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 AAV 플라스미드.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 AAV 플라스미드.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제25항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제26항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제26항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 AAV 플라스미드.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 AAV 플라스미드.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "a) i) 의학적 상태의 적어도 하나의 증상을 나타내고 상기 의학적 상태와 관련된 복수의 유전자들을 포함하는 환자,   ii) 단일 가이드 리보핵산-네이세리아 메닝기티디스 Cas9 핵산 벡터를 포함하는 아데노 관련 바이러스(AAV) 플라스미드로서, 상기 sgRNA가 상기 복수의 유전자들 중 적어도 한 유전자의 일부에 상보적인 핵산 서열을 포함하는 것인 AAV 플라스미드를 제공하는 단계; 및b) 상기 의학적 상태의 상기 적어도 하나의 증상이 감소되도록 하는 조건 하에서 상기 AAV 플라스미드를 상기 환자에게 투여하는 단계를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제30항에 있어서, 상기 의학적 상태가 고콜레스테롤혈증을 포함하는 것인 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제30항에 있어서, 상기 복수의 유전자들 중 상기 적어도 한 유전자가 PCSK9 유전자인 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제32항에 있어서, 상기 sgRNA 핵산이 상기 PCSK9 유전자의 일부에 상보적인 것인 방법.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제30항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 서열을 포함하는 것인 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제34항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 추가로 포함하는 것인 방법.",
+          "refers_to": [
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제35항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제34항에 있어서, 상기 sgRNA 서열이 121개 뉴클레오타이드의 길이를 갖는 것인 방법.",
+          "refers_to": [
+            34
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제35항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 방법.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제30항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 포함하는 것인 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제40항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 영역을 추가로 포함하는 것인 방법.",
+          "refers_to": [
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 방법.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제42항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 방법.",
+          "refers_to": [
+            42
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "1개 내지 4개의 필수 뉴클레오타이드를 포함하는 프로토스페이서(protospacer) 인접 모티프 서열에 대한 결합 부위를 갖도록 구성된 프로토스페이서 인접 모티프 인식 도메인을 포함하는 II-C형 Cas9 뉴클레아제 단백질을 코딩하는 아데노 관련 바이러스(AAV) 플라스미드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제45항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 네이세리아 메닝기티디스 균주 De10444 Nme2Cas9 뉴클레아제 단백질, 해모필루스 파라인플루엔자(Haemophilus parainfluenzae) HpaCas9 뉴클레아제 단백질 및 시몬시엘라 뮤엘레리(Simonsiella muelleri) SmuCas9 뉴클레아제 단백질로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제46항에 있어서, 1개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열이 N4CN3, N4CT, N4CCN, N4CCA 및 N4GNT3로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+          "refers_to": [
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제45항에 있어서, 상기 1개 내지 4개의 필수 뉴클레오타이드가 C, CC, CT, CCN, CCA, CN3 및 GNT2로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제45항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 단축형 sgRNA에 결합되는 것인 아데노 관련 바이러스 플라스미드.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "a) i) 의학적 상태의 적어도 하나의 증상을 나타내고, 상기 의학적 상태와 관련된 복수의 유전자들을 포함하는 환자로서, 상기 복수의 유전자들이 2개 내지 4개의 필수 뉴클레오타이드를 포함하는 프로토스페이서 인접 모티프를 포함하는 것인 환자,   ii) 2개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열에 대한 결합 부위를 갖도록 구성된 프로토스페이서 인접 모티프 인식 도메인을 포함하는 II-C형 Cas9 뉴클레아제 단백질을 코딩하는 적어도 하나의 핵산을 포함하는 전달 플랫폼을 제공하는 단계; 및b) 상기 의학적 상태의 상기 적어도 하나의 증상이 감소되도록 하는 조건 하에서 상기 전달 플랫폼을 상기 환자에게 투여하는 단계를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제50항에 있어서, 상기 전달 플랫폼이 아데노 관련 바이러스 플라스미드를 포함하는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제50항에 있어서, 상기 전달 플랫폼이 마이크로입자를 포함하는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제50항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 네이세리아 메닝기티디스 균주 De10444 Nme2Cas9 뉴클레아제 단백질, 해모필루스 파라인플루엔자 HpaCas9 뉴클레아제 단백질 및 시몬시엘라 뮤엘레리 SmuCas9 뉴클레아제 단백질로 구성된 군으로부터 선택되는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제50항에 있어서, 1개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열이 N4C3, N4CT, N4CCN, N4CCA 및 N4GNT3로 구성된 군으로부터 선택되는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제50항에 있어서, 상기 1개 내지 4개의 필수 뉴클레오타이드가 C, CC, CT, CCN, CCA, CN3 및 GNT2로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제50항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 단축형 sgRNA에 결합되는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제50항에 있어서, 상기 의학적 상태가 고지혈증 및 티로신혈증으로 구성된 군으로부터 선택되는 것인 방법.",
+          "refers_to": [
+            50
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200610",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 57,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "단축형(truncated) 반복부:역반복부 영역을 포함하는 단일 가이드 리보핵산(sgRNA) 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 단축형 줄기 2 영역을 추가로 포함하는 sgRNA 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 단축형 스페이서 영역을 추가로 포함하는 sgRNA 서열.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 121개 뉴클레오타이드의 길이를 갖는 sgRNA 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 sgRNA 서열 길이가 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택되는 것인 sgRNA 서열.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 100개 뉴클레오타이드의 길이를 갖는 sgRNA 서열.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, Nme1Cas9 단일 가이드 리보핵산 서열 또는 Nme2Cas9 단일 가이드 리보핵산 서열인 sgRNA 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "단축형 줄기 2 영역을 포함하는 단일 가이드 리보핵산(sgRNA) 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, 단축형 반복부:역반복부 영역을 추가로 포함하는 sgRNA 서열.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 단축형 스페이서 영역을 추가로 포함하는 sgRNA 서열.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 sgRNA 서열 길이가 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택되는 것인 sgRNA 서열.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 100개 뉴클레오타이드의 길이를 갖는 sgRNA 서열.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "단일 가이드 리보핵산-네이세리아 메닝기티디스(Neisseria meningitidis) Cas9 핵산 벡터를 포함하는 아데노 관련 바이러스(AAV) 플라스미드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 단일 가이드 리보핵산-네이세리아 메닝기티디스 Cas9 핵산 벡터가 적어도 하나의 프로모터를 포함하는 것인 AAV 플라스미드.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, 상기 적어도 하나의 프로모터가 U6 프로모터 및 U1a 프로모터로 구성된 군으로부터 선택되는 것인 AAV 플라스미드.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 단일 가이드 리보핵산-네이세리아 메닝기티디스 Cas9 핵산 벡터가 코작(Kozak) 서열을 포함하는 것인 AAV 플라스미드.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 sgRNA가 관심 있는 유전자 서열에 상보적인 핵산 서열을 포함하는 것인 AAV 플라스미드.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 상기 관심 있는 유전자 서열이 PCSK9 서열 및 ROSA26 서열로 구성된 군으로부터 선택되는 것인 AAV 플라스미드.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 서열을 포함하는 것인 AAV 플라스미드.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 상기 sgRNA 서열이 121개 뉴클레오타이드의 길이를 갖는 것인 AAV 플라스미드.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 AAV 플라스미드.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 AAV 플라스미드.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 포함하는 것인 AAV 플라스미드.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제25항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 AAV 플라스미드.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 AAV 플라스미드.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 AAV 플라스미드.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "a) i) 의학적 상태의 적어도 하나의 증상을 나타내고 상기 의학적 상태와 관련된 복수의 유전자들을 포함하는 환자, \n ii) 단일 가이드 리보핵산-네이세리아 메닝기티디스 Cas9 핵산 벡터를 포함하는 아데노 관련 바이러스(AAV) 플라스미드로서, 상기 sgRNA가 상기 복수의 유전자들 중 적어도 한 유전자의 일부에 상보적인 핵산 서열을 포함하는 것인 AAV 플라스미드\n를 제공하는 단계; 및\nb) 상기 의학적 상태의 상기 적어도 하나의 증상이 감소되도록 하는 조건 하에서 상기 AAV 플라스미드를 상기 환자에게 투여하는 단계\n를 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제30항에 있어서, 상기 의학적 상태가 고콜레스테롤혈증을 포함하는 것인 방법.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제30항에 있어서, 상기 복수의 유전자들 중 상기 적어도 한 유전자가 PCSK9 유전자인 방법.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제32항에 있어서, 상기 sgRNA 핵산이 상기 PCSK9 유전자의 일부에 상보적인 것인 방법.",
+            "refers_to": [
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제30항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 서열을 포함하는 것인 방법.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제34항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 추가로 포함하는 것인 방법.",
+            "refers_to": [
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제34항에 있어서, 상기 sgRNA 서열이 121개 뉴클레오타이드의 길이를 갖는 것인 방법.",
+            "refers_to": [
+              34
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 방법.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제30항에 있어서, 상기 sgRNA가 단축형 줄기 2 영역을 포함하는 것인 방법.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제40항에 있어서, 상기 sgRNA가 단축형 반복부:역반복부 영역을 추가로 포함하는 것인 방법.",
+            "refers_to": [
+              40
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 상기 sgRNA가 단축형 스페이서 영역을 추가로 포함하는 것인 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 상기 sgRNA 서열이 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로 구성된 군으로부터 선택된 길이를 갖는 것인 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제42항에 있어서, 상기 sgRNA 서열이 100개 뉴클레오타이드의 길이를 갖는 것인 방법.",
+            "refers_to": [
+              42
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "1개 내지 4개의 필수 뉴클레오타이드를 포함하는 프로토스페이서(protospacer) 인접 모티프 서열에 대한 결합 부위를 갖도록 구성된 프로토스페이서 인접 모티프 인식 도메인을 포함하는 II-C형 Cas9 뉴클레아제 단백질을 코딩하는 아데노 관련 바이러스(AAV) 플라스미드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제45항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 네이세리아 메닝기티디스 균주 De10444 Nme2Cas9 뉴클레아제 단백질, 해모필루스 파라인플루엔자(Haemophilus parainfluenzae) HpaCas9 뉴클레아제 단백질 및 시몬시엘라 뮤엘레리(Simonsiella muelleri) SmuCas9 뉴클레아제 단백질로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제46항에 있어서, 1개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열이 N4CN3, N4CT, N4CCN, N4CCA 및 N4GNT3로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+            "refers_to": [
+              46
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제45항에 있어서, 상기 1개 내지 4개의 필수 뉴클레오타이드가 C, CC, CT, CCN, CCA, CN3 및 GNT2로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제45항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 단축형 sgRNA에 결합되는 것인 아데노 관련 바이러스 플라스미드.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "a) i) 의학적 상태의 적어도 하나의 증상을 나타내고, 상기 의학적 상태와 관련된 복수의 유전자들을 포함하는 환자로서, 상기 복수의 유전자들이 2개 내지 4개의 필수 뉴클레오타이드를 포함하는 프로토스페이서 인접 모티프를 포함하는 것인 환자, \n ii) 2개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열에 대한 결합 부위를 갖도록 구성된 프로토스페이서 인접 모티프 인식 도메인을 포함하는 II-C형 Cas9 뉴클레아제 단백질을 코딩하는 적어도 하나의 핵산을 포함하는 전달 플랫폼\n을 제공하는 단계; 및\nb) 상기 의학적 상태의 상기 적어도 하나의 증상이 감소되도록 하는 조건 하에서 상기 전달 플랫폼을 상기 환자에게 투여하는 단계\n를 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제50항에 있어서, 상기 전달 플랫폼이 아데노 관련 바이러스 플라스미드를 포함하는 것인 방법.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제50항에 있어서, 상기 전달 플랫폼이 마이크로입자를 포함하는 것인 방법.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제50항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 네이세리아 메닝기티디스 균주 De10444 Nme2Cas9 뉴클레아제 단백질, 해모필루스 파라인플루엔자 HpaCas9 뉴클레아제 단백질 및 시몬시엘라 뮤엘레리 SmuCas9 뉴클레아제 단백질로 구성된 군으로부터 선택되는 것인 방법.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제50항에 있어서, 1개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열이 N4C3, N4CT, N4CCN, N4CCA 및 N4GNT3로 구성된 군으로부터 선택되는 것인 방법.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제50항에 있어서, 상기 1개 내지 4개의 필수 뉴클레오타이드가 C, CC, CT, CCN, CCA, CN3 및 GNT2로 구성된 군으로부터 선택되는 것인 아데노 관련 바이러스 플라스미드.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제50항에 있어서, 상기 II-C형 Cas9 뉴클레아제 단백질이 단축형 sgRNA에 결합되는 것인 방법.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제50항에 있어서, 상기 의학적 상태가 고지혈증 및 티로신혈증으로 구성된 군으로부터 선택되는 것인 방법.",
+            "refers_to": [
+              50
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20240816",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 57,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "단축형(truncated) crRNA 반복부:tracrRNA 역반복부 영역 및 단축형 tracrRNA 줄기 2 영역을 포함하는 네이세리아 메닝기티디스(Neisseria meningitidis, Nme) 단일 가이드 리보핵산(sgRNA)으로서, 상기 줄기 2 영역은 8개 이상의 3' 말단 뉴클레오타이드를 포함하는 NMe sgRNA.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, crRNA 스페이서 영역을 추가로 포함하는 NMe sgRNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 NMe sgRNA 길이가 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로부터 선택되는 NMe sgRNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 101개 뉴클레오타이드의 길이를 갖는 NMe sgRNA.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, Nme sgRNA가 Nme2Cas9 단일 가이드 리보핵산 서열을 포함하는 NMe sgRNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "i) 단축형 crRNA 반복부:tracrRNA 역반복부 영역 및 ii) 단축형 tracrRNA 줄기 2 영역을 포함하는 Nme sgRNA를 코딩하는 아데노 관련 바이러스(AAV) 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 적어도 하나의 프로모터를 포함하는 AAV 벡터.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 적어도 하나의 프로모터가 U6 프로모터 및 U1a 프로모터로부터 선택되는 AAV 벡터.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 코작(Kozak) 서열을 포함하는 AAV 벡터.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 crRNA가 관심 있는 유전자에 상보적인 핵산 스페이서를 포함하는 AAV 벡터.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 관심 있는 유전자가 PCSK9 서열 및 ROSA26 서열로부터 선택되는 서열을 포함하는 AAV 벡터.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 crRNA, 상기 tracrRNA 및 핵산 스페이서가 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로부터 선택된 조합된 길이를 갖는 AAV 벡터.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 crRNA, 상기 tracrRNA 및 상기 핵산 스페이서가 합쳐서 101개 뉴클레오타이드의 조합된 길이를 갖는 AAV 벡터.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "환자의 의학적 상태의 적어도 하나의 증상을 감소시키기 위한 약학 조성물로서, 상기 환자는 의학적 상태와 관련된 복수의 유전자를 포함하고, 상기 조성물은 아데노 관련 바이러스(AAV) 벡터를 포함하고, \n상기 AAV 벡터는 \ni) 네이세리아 메닝기티디스 단일 가이드 리보핵산(sgRNA)로서, a) 단축형 반복부 영역 및 상기 복수의 유전자 중 적어도 하나의 일부에 상보적인 핵산 스페이서를 포함하는 crRNA; 및 b) 단축형 역반복부 영역 및 단축형 줄기 2 영역을 포함하는 tracrRNA를 포함하는 sgRNA; 및\nii) 네이세리아 메닝기티디스 Cas9 뉴클레아제\n를 코딩하는 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제30항에 있어서, 상기 의학적 상태가 고콜레스테롤혈증을 포함하는 약학 조성물.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제30항에 있어서, 상기 복수의 유전자 중 상기 적어도 하나가 PCSK9 유전자인 약학 조성물.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제32항에 있어서, 상기 핵산 스페이서 서열이 상기 PCSK9 유전자의 일부에 상보적인 약학 조성물.",
+            "refers_to": [
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제30항에 있어서, 상기 핵산 스페이서가 단축된 약학 조성물.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제30항에 있어서, 상기 crRNA, 상기 tracrRNA 및 상기 핵산 스페이서가 111개 뉴클레오타이드, 107개 뉴클레오타이드, 105개 뉴클레오타이드, 103개 뉴클레오타이드, 102개 뉴클레오타이드, 101개 뉴클레오타이드 및 99개 뉴클레오타이드로부터 선택된 조합된 길이를 갖는 약학 조성물.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제30항에 있어서, 상기 crRNA, 상기 tracrRNA 및 상기 핵산 스페이서가 101개 뉴클레오타이드의 길이를 갖는 약학 조성물.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "i) 1개 내지 4개의 필수 뉴클레오타이드를 포함하는 프로토스페이서(protospacer) 인접 모티프 서열에 대한 결합 부위를 갖도록 구성된 프로토스페이서 인접 모티프 인식 도메인을 포함하는 Nme Cas9 뉴클레아제 단백질 및\nii) 단축형 반복부 영역을 포함하는 crRNA 및 단축형 역반복부 영역 및 단축형 줄기 2 영역을 포함하는 tracrRNA를 포함하는, 네이세리아 메닝기티디스 단일 가이드 리보핵산(sgRNA)을 코딩하는\n아데노 관련 바이러스(AAV) 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제45항에 있어서, 상기 Nme Cas9 뉴클레아제 단백질이 네이세리아 메닝기티디스 균주 De10444 Nme2Cas9 뉴클레아제 단백질인 AAV 벡터.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제46항에 있어서, 1개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열이 N4CN3, N4CT, N4CCN 및 N4CCA로 구성된 군으로부터 선택되는 AAV 벡터.",
+            "refers_to": [
+              46
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제45항에 있어서, 상기 1개 내지 4개의 필수 뉴클레오타이드가 C, CC, CT, CCN, CCA 및 CN3로 구성된 군으로부터 선택되는 AAV 벡터.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제45항에 있어서, 상기 Nme Cas9 뉴클레아제 단백질이 단축형 sgRNA에 결합되는 AAV 벡터.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "환자의 의학적 상태의 적어도 하나의 증상을 감소시키기 위한 약학 전달 플랫폼으로서, 상기 환자는 2개 내지 4개의 필수 뉴클레오타이드를 포함하는 프로토스페이서 인접 모티프를 포함하는 복수의 유전자를 포함하고, 상기 전달 플랫폼은\ni) 2개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열에 대한 결합 부위를 갖도록 구성된 프로토스페이서 인접 모티프 인식 도메인을 포함하는 네이세리아 메닝기티디스 Cas9 뉴클레아제를코딩하는 적어도 하나의 핵산; 및\nii) 단축형 crRNA 반복부:tracrRNA 역반복부 영역 및 단축형 tracrRNA 줄기 2 영역을 포함하는 단일 가이드 리보핵산(sgRNA)\n을 포함하는 약학 전달 플랫폼.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제50항에 있어서, AAV 플라스미드를 포함하는 약학 전달 플랫폼.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제50항에 있어서, 마이크로입자를 포함하는 약학 전달 플랫폼.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제50항에 있어서, 상기 네이세리아 메닝기티디스 Cas9 뉴클레아제 단백질이 네이세리아 메닝기티디스 균주 De10444 Nme2Cas9 뉴클레아제 단백질인 약학 전달 플랫폼.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제50항에 있어서, 2개 내지 4개의 필수 뉴클레오타이드를 포함하는 상기 프로토스페이서 인접 모티프 서열이 N4C3, N4CT, N4CCN 및 N4CCA로 구성된 군으로부터 선택되는 약학 전달 플랫폼.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제50항에 있어서, 상기 2개 내지 4개의 필수 뉴클레오타이드가 C, CC, CT, CCN, CCA 및 CN3로 구성된 군으로부터 선택되는 약학 전달 플랫폼.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제50항에 있어서, 상기 네이세리아 메닝기티디스 Cas9 뉴클레아제 단백질이 단축형 sgRNA에 결합되는 약학 전달 플랫폼.",
+            "refers_to": [
+              50
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제50항에 있어서, 상기 의학적 상태가 고지혈증 및 티로신혈증으로부터 선택되는 것인 약학 전달 플랫폼.",
+            "refers_to": [
+              50
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250422",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 crRNA, 상기 tracrRNA 및 상기 핵산 스페이서가 합쳐서 101개 뉴클레오타이드의 조합된 길이를 갖는 AAV 벡터.",
+            "refers_to": [
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 57,
+      "after_claim_count": 1,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2019.05.16",
+      "internationOpenNumber": "WO2019094791",
+      "internationalApplicationDate": "2018.11.09",
+      "internationalApplicationNumber": "PCT/US2018/060126"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 ***** 매사추세츠 웨스트보로 워싱턴 스트리트 **",
+      "code": "519990611151",
+      "country": "미국",
+      "engName": "UNIVERSITY OF MASSACHUSETTS",
+      "name": "유니버시티 오브 매사추세츠"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 ***** 매사추세...",
+        "code": "",
+        "country": "",
+        "engName": "SONTHEIMER, Erik, Joseph",
+        "name": "손테머 에릭 죠셉"
+      },
+      {
+        "address": "미국 ***** 매사추세츠...",
+        "code": "",
+        "country": "",
+        "engName": "IBRAHEIM, Raed",
+        "name": "이브라하임 라에드"
+      },
+      {
+        "address": "미국 매사추세츠주 ...",
+        "code": "",
+        "country": "",
+        "engName": "XUE, Wen",
+        "name": "크슈 웬"
+      },
+      {
+        "address": "미국 ***** 매사추세츠주 우스...",
+        "code": "",
+        "country": "",
+        "engName": "MIR, Aamir",
+        "name": "미르 아아미르"
+      },
+      {
+        "address": "미국 ***** 매사추...",
+        "code": "",
+        "country": "",
+        "engName": "EDRAKI, Alireza",
+        "name": "에드라키 알리레자"
+      },
+      {
+        "address": "미국 ***** 매사추세츠주 ...",
+        "code": "",
+        "country": "",
+        "engName": "ILDAR, Gainetdinov",
+        "name": "일다르 가이넷디노브"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001573",
+        "country": "대한민국",
+        "engName": "Kim Jin Hoe",
+        "name": "김진회"
+      },
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001580",
+        "country": "대한민국",
+        "engName": "Kim Tae Hong",
+        "name": "김태홍"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2017.11.10",
+        "priorityApplicationNumber": "62/584,310"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2017.12.08",
+        "priorityApplicationNumber": "62/596,375"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2018.05.04",
+        "priorityApplicationNumber": "62/667,084"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2015089473 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2014204726 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Molecular Cell,제60권,242-255면(2015) 1부.",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2020.06.10",
+        "receiptNumber": "1-1-2020-0596819-15"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2020.06.15",
+        "receiptNumber": "1-5-2020-0085021-40"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2021.11.08",
+        "receiptNumber": "1-1-2021-1285907-98"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.02.20",
+        "receiptNumber": "9-5-2024-0155528-53"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2024.04.15",
+        "receiptNumber": "1-1-2024-0407514-67"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장 관련 안내서",
+        "receiptDate": "2024.04.17",
+        "receiptNumber": "1-5-2024-0065069-11"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.08.16",
+        "receiptNumber": "1-1-2024-0891304-50"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.08.16",
+        "receiptNumber": "1-1-2024-0891305-06"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2025.02.26",
+        "receiptNumber": "9-5-2025-0201564-45"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.04.03",
+        "receiptNumber": "4-1-2025-5089854-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.04.22",
+        "receiptNumber": "1-1-2025-0455345-41"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.04.22",
+        "receiptNumber": "1-1-2025-0455343-50"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.10.29",
+        "receiptNumber": "9-5-2025-1047625-97"
+      },
+      {
+        "commonCodeName": "접수중 (On receiving)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2026.01.30",
+        "receiptNumber": "1-1-2026-0131313-15"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020207016690.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00e2d726def64c81a4576d424fd29098c8dfec0de04f03a0508f2e05cffefc32d5a73dac0cbff8281c618f2a1c158ee0282cdee599d363dbab",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf506f421618d2158f5c466c76d220e363354f50f76647e2768d592ca8711715ad793edb7acb18a4bc352ef30ea9fd8fbbab057197459e44d3"
+  },
+  "rndInfoArray": ""
+}

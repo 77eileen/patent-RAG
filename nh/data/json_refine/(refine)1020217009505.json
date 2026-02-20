@@ -1,0 +1,2144 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.09.03",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7009505",
+      "claimCount": "25",
+      "examinerName": "허명숙",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "신규 항체 및 뉴클레오티드 서열 및 이의 용도",
+      "inventionTitleEng": "NOVEL ANTIBODIES AND NUCLEOTIDE SEQUENCES, AND USES THEREOF",
+      "openDate": "2021.05.17",
+      "openNumber": "10-2021-0055722",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.09.02",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.10.01",
+      "publicationNumber": "",
+      "registerDate": "2025.09.25",
+      "registerNumber": "10-2866553-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2021.03.30"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "신규 항-CTLA-4 항체 분자 및 상기 항체 분자를 암호화하는 뉴클레오티드 서열 및 발현 벡터, 예컨대, 바이러스가 기재된다. 신규 항체 분자는 Treg 고갈 항체 분자이고, 그것은 이필리무맙에 비해서 CTLA-4 양성 세포, 예컨대, Treg에 대해서 개선된 고갈 효과를 갖는다. 또한 의약, 예컨대, 암, 예컨대, 고형 종양의 치료에서의 이러한 항체 분자 또는 뉴클레오티드 서열 또는 바이러스의 용도가 기재된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217009505",
+    "total_amendments": 6,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210330",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 34,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "CTLA-4에 특이적으로 결합하고, 이필리무맙에 비해서 CTLA-4 양성 세포에 대해서 개선된 고갈 효과(depleting effect)를 갖는, 항체 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 이필리무맙에 비해서 CD4 양성 세포에 대해서 개선된 고갈 효과를 갖는, 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 이필리무맙에 비해서 Treg에 대해서 개선된 고갈 효과를 갖는, 항체 분자.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 항체 분자가 하기 시험에서 개선된 고갈을 제공하면, CTLA-4 양성 세포, CD4 양성 세포 및/또는 Treg에 대해서 개선된 고갈 효과를 갖는 것으로 간주되는, 항체 분자:\n(i) GFP와 함께 CD16-158V 대립유전자를 발현하도록 안정적으로 형질주입된 NK-92 세포주를 사용하여 수행되는 시험관내 ADCC 시험이되, ADCC 시험은 하기 연속적인 단계를 포함하는, 시험:\n 1) 표적 세포로서의 CTLA-4 양성 세포, CD4 양성 세포 또는 Treg를 건강한 공여자로부터 단리하는 단계;\n 2) 이어서 표적 세포를 CD3/CD28 및 rhIL-2로 자극시키는 단계;\n 3) 이어서 표적 세포를 항체 분자와 함께 사전 인큐베이션시키고, 이어서 NK 세포와 혼합하는 단계;\n 4) 이어서 표적 세포를 1 HEPES 완충액, 피루브산 나트륨 및 FBS 저 IgG를 함유하는 RPMI 1640 + GlutaMAX 배지에서 인큐베이션시키는 단계;\n 5) 유세포 분석법에 의해서 용해를 결정하는 단계;\n 6) 단계 3에서 항체 분자 대신에 이필리무맙을 사용하여 단계 1 내지 5를 반복하거나 또는 동시에 수행하는 단계; 및\n 7) 항체 분자에 대한 용해 결과를 이필리무맙에 대한 용해 결과와 비교하고, 이필리무맙에 비해서 항체 분자에 대한 개선된 용해는, 항체 분자가 CTLA-4 양성 세포, CD4 양성 세포 및/또는 Treg에 대해서 개선된 고갈 효과를 갖는다는 것을 나타내는 단계; 및/또는\n(ii) PBMC-NOG/SCID 모델에서의 생체내 시험이되, 생체내 시험은 하기 연속적인 단계를 포함하는, 시험:\n 1) 인간 PBMC를 단리하고, 세척하고, 멸균 PBS 중에 재현탁하는 단계;\n 2) NOG 마우스에게 단계 1)로부터의 세포 현탁액을 i.v.로 주사하는 단계;\n 3) NOG 마우스로부터의 비장을 단리하고, 단일 세포 현탁액으로 만드는 단계;\n 4) 단계 3)으로부터의 세포 현탁액을 멸균 PBS 중에 재현탁하는 단계;\n 5) SCID 마우스에게 단계 4로부터의 현탁액을 i.p.로 주사하는 단계;\n 6) 이어서 SCID 마우스를 항체 분자, 이필리무맙 또는 아이소타입 대조군 단클론성 항체 중 어느 하나로 처리하는 단계;\n 7) 처리된 SCID 마우스의 복강내 유체를 수집하는 단계;\n 8) 인간 T 세포 하위세트를 식별하고, 하기 마커: CD45, CD4, CD8, CD25, CD127을 사용하여 FACS에 의해서 정량하는 단계;\n 9) 항체 분자로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과를 이필리무맙으로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과 및 아이소타입 대조군 단클론성 항체로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과와 비교하고, 이필리무맙으로 처리된 마우스로부터의 복강내 유체 중의 CTLA-4 양성 세포, CD4 양성 세포 및/또는 Treg의 수와 비교하여 시험될 항체 분자로 처리된 마우스로부터의 복강내 유체 중의 CTLA-4 양성 세포, CD4 양성 세포 및/또는 Treg의 더 적은 수는 항체 분자가 이필리무맙에 비해서 CTLA-4 양성 세포, CD4 양성 세포 및/또는 Treg에 대해서 개선된 고갈 효과를 갖는다는 것을 나타내는 단계.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 항체 분자는 서열번호 3, 6, 8, 10, 12 및 14로 이루어진 군으로부터 선택된 CDR 중 1 내지 6개를 포함하는 항체 분자로 이루어진 군으로부터 선택되는, 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 항체 분자는 CDR VH-CDR1, VH-CDR2, VH-CDR3, VL-CDR1 및 VL-CDR3 중 1 내지 6개를 포함하는 항체 분자로 이루어진 군으로부터 선택되되,\nVH-CDR1은, 존재하는 경우, 서열번호 15, 22, 29 및 35로 이루어진 군으로부터 선택되고;\nVH-CDR2는, 존재하는 경우, 서열번호 16, 23, 30 및 36으로 이루어진 군으로부터 선택되고;\nVH-CDR3은, 존재하는 경우, 서열번호 17, 24, 31 및 37로 이루어진 군으로부터 선택되고;\nVL-CDR1은, 존재하는 경우, 서열번호 10 및 38로 이루어진 군으로부터 선택되고;\nVL-CDR2는, 존재하는 경우, 서열번호 18, 25, 32 및 39로 이루어진 군으로부터 선택되고;\nVL-CDR3은, 존재하는 경우, 서열번호 19, 26 및 40으로 이루어진 군으로부터 선택된다.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 항체 분자는 서열번호 15, 16, 17, 10, 18 및 19를 갖는 6개의 CDR 또는 서열번호 22, 23, 24, 10, 25 및 26을 갖는 6개의 CDR을 포함하는, 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "CTLA-4에 특이적으로 결합하는 항체 분자로서, 항체 분자는 서열번호 15, 16, 17, 10, 18 및 19를 갖는 6개의 CDR 또는 서열번호 22, 23, 24, 10, 25 및 26을 갖는 6개의 CDR을 포함하는, 항체 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 항체 분자는 서열번호 20 및 27로 이루어진 군으로부터 선택된 가변 중쇄 및/또는 서열번호 21 및 28로 이루어진 군으로부터 선택된 가변 경쇄를 포함하는, 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 항체 분자는 중쇄 불변 영역 서열번호 43 및/또는 경쇄 불변 영역 서열번호 44를 포함하는, 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 항체 분자는 CTLA-4에 대한 결합에 대해서 제7항 내지 제10항 중 어느 한 항에 정의된 바와 같은 항체 분자와 경쟁할 수 있는 항체 분자인, 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 항체 분자는 전체-크기 항체(full-size antibody), 키메라 항체, 단일 쇄 항체, Fab, Fv, scFv, Fab', 및 (Fab')2로 이루어진 군으로부터 선택되는, 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 인간 CTLA-4(hCTLA-4) 및/또는 시노몰거스 원숭이 CTLA-4(cmCTLA-4) 및/또는 뮤린 CTLA-4(mCTLA-4)에 결합하는, 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 인간 CD28에 결합하지 않는, 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제14항 중 어느 한 항에 있어서, 항체 분자는 인간 IgG 항체, 인간화된 IgG 항체 및 인간 기원의 IgG 항체로 이루어진 군으로부터 선택되는, 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 상기 항체 분자는 인간 IgG1 항체인, 항체 분자.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 상기 항체 분자는 단클론성 항체인, 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자를 암호화하는 단리된 뉴클레오티드 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 서열번호 45 내지 52로 이루어진 군으로부터 선택된 서열을 포함하거나 이것으로 이루어진, 단리된 뉴클레오티드 서열.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항 또는 제19항 중 어느 한 항에 정의된 바와 같은 뉴클레오티드 서열을 포함하는, 플라스미드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항 또는 제19항에 정의된 바와 같은 뉴클레오티드 서열 또는 제20항에 정의된 바와 같은 플라스미드를 포함하는, 바이러스.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, 종양용해성 바이러스(oncolytic virus) 및 바람직하게는 종양용해성 폭스바이러스인, 바이러스.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 상기 폭스바이러스는 코르도폭스비리대(Chordopoxviridae) 서브패밀리, 보다 바람직하게는 오르토폭스바이러스 속(Orthopoxvirus genus) 바람직하게는 로 이루어진 군으로부터 선택 백시니아 바이러스(Vaccinia virus), 우두 바이러스(cowpox virus), 카나리폭스 바이러스(canarypox virus), 엑트로멜리아 바이러스(ectromelia virus) 및 점액종 바이러스(myxoma)에 속하는, 바이러스.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제23항에 있어서, 상기 종양용해성 바이러스는 티미딘 키나제(thymidine kinase: TK) 활성 및/또는 리보뉴클레오티드 리덕타제(ribonucleotide reductase: RR) 활성에 결함이 있고, 서열번호 20 및 서열번호 21 또는 서열번호 53 및 서열번호 54를 암호화하는 뉴클레오티드 서열을 포함하는 백시니아 바이러스인, 바이러스.",
+          "refers_to": [
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항에 있어서, 상기 종양용해성 백시니아 바이러스는 인간 GM-CSF(예를 들어, 서열번호 55 또는 서열번호 56을 가짐) 또는 뮤린 GM-CSF(예를 들어, 서열번호 57 또는 서열번호 58을 가짐)에 대해서 특이적 선호도를 갖는, GM-CSF를 암호화하는 뉴클레오티드 서열을 더 포함하는, 바이러스.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제25항 중 어느 한 항에 있어서, 중쇄를 암호화하는 카세트가 J2R 유전자좌에 삽입되고, 경쇄를 암호화하는 카세트가 I4L 유전자좌에 삽입된, 바이러스.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항 또는 제19항에 정의된 바와 같은 뉴클레오티드 서열 또는 제20항에 정의된 바와 같은 플라스미드 또는 제21항 내지 제26항 중 어느 한 항에 정의된 바와 같은 바이러스를 포함하는, 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "의약에 사용하기 위한, 제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자, 제18항 또는 제19항 중 어느 한 항에 따른 뉴클레오티드 서열, 제20항에 따른 플라스미드, 제21항 내지 제26항 중 어느 한 항에 따른 바이러스 또는 제27항에 따른 세포.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "암의 치료에 사용하기 위한, 제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자, 제18항 또는 제19항 중 어느 한 항에 따른 뉴클레오티드 서열, 제20항에 따른 플라스미드, 제21항 내지 제26항 중 어느 한 항에 따른 바이러스 또는 제27항에 따른 세포.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "암의 치료에 사용하기 위한 약제학적 조성물의 제조를 위한, 제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자, 제18항 또는 제19항 중 어느 한 항에 따른 뉴클레오티드 서열, 제20항에 따른 플라스미드, 제21항 내지 제26항 중 어느 한 항에 따른 바이러스 또는 제27항에 따른 세포의 용도.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자, 제18항 또는 제19항 중 어느 한 항에 따른 뉴클레오티드 서열, 제20항에 따른 플라스미드, 제21항 내지 제26항 중 어느 한 항에 따른 바이러스 또는 제27항에 따른 세포 및 선택적으로 약제학적으로 허용 가능한 희석제, 담체, 비히클 및/또는 부형제를 포함하거나 이들로 이루어진, 약제학적 조성물.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "암의 치료에 사용하기 위한, 제31항에 따른 약제학적 조성물.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체에게 치료 유효량의 제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자, 제18항 또는 제19항 중 어느 한 항에 따른 뉴클레오티드 서열, 제20항에 따른 플라스미드, 제21항 내지 제26항 중 어느 한 항에 따른 바이러스, 제27항에 따른 세포 또는 제31항의 약제학적 조성물을 투여하는 단계를 포함하는, 대상체에서 암을 치료하는 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "암이 고형암인, 제24항에 따른 사용하기 위한 항체 분자, 제29항에 따른 사용하기 위한 뉴클레오티드 서열, 제29항에 따른 사용하기 위한 플라스미드, 제29항에 따른 사용하기 위한 바이러스, 제29항에 따른 사용하기 위한 세포, 제30항에 따른 용도, 제32항에 따른 약제학적 조성물 또는 제33항에 따른 방법.",
+          "refers_to": [
+            24
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 6,
+      "receipt_date": "20250203",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 34,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "CTLA-4에 특이적으로 결합하고, 이필리무맙에 비해서 CTLA-4 양성 세포에 대해서 개선된 고갈 효과(depleting effect)를 갖는, 항체 분자분자로서, 상기 항체 분자는 서열번호 15의 아미노산 서열을 갖는 VH-CDR1, 서열번호 16의 아미노산 서열을 갖는 VH-CDR2, 서열번호 17의 아미노산 서열을 갖는 VH-CDR3, 서열번호 10의 아미노산 서열을 갖는 VL-CDR1, 서열번호 18의 아미노산 서열을 갖는 VL-CDR2 및 서열번호 19의 아미노산 서열을 갖는 VL-CDR3을 갖는 6개의 CDR을 포함하는, 항체 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 이필리무맙에 비해서 CD4 양성 세포에 대해서 개선된 고갈 효과를 갖는, 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 이필리무맙에 비해서 Treg에 대해서 개선된 고갈 효과를 갖는, 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 항체 분자가 하기 시험들 중 적어도 하나에서 개선된 고갈을 제공하면, 이필리무맙에 비해서 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나에 대해서 개선된 고갈 효과를 갖는 것으로 간주되는, 항체 분자:(i) GFP와 함께 CD16-158V 대립유전자를 발현하도록 안정적으로 형질주입된 NK-92 세포주를 사용하여 수행되는 시험관내 ADCC 시험이되, ADCC 시험은 하기 연속적인 단계를 포함하는, 시험:1) 표적 세포로서의 CTLA-4 양성 세포, CD4 양성 세포 또는 Treg를 건강한 공여자로부터 단리하는 단계;2) 이어서 표적 세포를 CD3/CD28 및 rhIL-2로 자극시키는 단계;3) 이어서 표적 세포를 항체 분자와 함께 사전 인큐베이션시키고, 이어서 NK 세포와 혼합하는 단계;4) 이어서 표적 세포를 HEPES 완충액, 피루브산 나트륨 및 FBS 저 IgG를 함유하는 RPMI 1640 + GlutaMAX 배지에서 인큐베이션시키는 단계;5) 유세포 분석법에 의해서 용해를 결정하는 단계;6) 단계 3에서 항체 분자 대신에 이필리무맙을 사용하여 단계 1 내지 5를 반복하거나 또는 동시에 수행하는 단계; 및7) 항체 분자에 대한 용해 결과를 이필리무맙에 대한 용해 결과와 비교하고, 이필리무맙에 비해서 항체 분자에 대한 개선된 용해는, 항체 분자가 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나에 대해서 개선된 고갈 효과를 갖는다는 것을 나타내는 단계; 및(ii) PBMC-NOG/SCID 모델에서의 생체내 시험이되, 생체내 시험은 하기 연속적인 단계를 포함하는, 시험:1) 인간 PBMC를 단리하고, 세척하고, 멸균 PBS 중에 재현탁하는 단계;2) NOG 마우스에게 단계 1)로부터의 세포 현탁액을 i.v.로 주사하는 단계;3) NOG 마우스로부터의 비장을 단리하고, 단일 세포 현탁액으로 만드는 단계;4) 단계 3)으로부터의 세포 현탁액을 멸균 PBS 중에 재현탁하는 단계;5) SCID 마우스에게 단계 4로부터의 현탁액을 i.p.로 주사하는 단계;6) 이어서 SCID 마우스를 항체 분자, 이필리무맙 또는 아이소타입 대조군 단클론성 항체 중 어느 하나로 처리하는 단계;7) 처리된 SCID 마우스의 복강내 유체를 수집하는 단계;8) 인간 T 세포 하위세트를 식별하고, 하기 마커: CD45, CD4, CD8, CD25, CD127을 사용하여 FACS에 의해서 정량하는 단계;9) 항체 분자로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과를 이필리무맙으로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과 및 아이소타입 대조군 단클론성 항체로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과와 비교하고, 이필리무맙으로 처리된 마우스로부터의 복강내 유체 중의 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나의 수와 비교하여 시험될 항체 분자로 처리된 마우스로부터의 복강내 유체 중의 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나의 더 적은 수는 항체 분자가 이필리무맙에 비해서 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나에 대해서 개선된 고갈 효과를 갖는다는 것을 나타내는 단계.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "CTLA-4에 특이적으로 결합하는 항체 분자로서, 항체 분자는 서열번호 15의 아미노산 서열을 갖는 VH-CDR1, 서열번호 16의 아미노산 서열을 갖는 VH-CDR2, 서열번호 17의 아미노산 서열을 갖는 VH-CDR3, 서열번호 10의 아미노산 서열을 갖는 VL-CDR1, 서열번호 18의 아미노산 서열을 갖는 VL-CDR2 및 서열번호 19의 아미노산 서열을 갖는 VL-CDR3을 갖는 6개의 CDR을 포함하는, 항체 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 항체 분자는 서열번호 20의 가변 중쇄 및 서열번호 21의 가변 경쇄 중 적어도 하나를 포함하는, 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 항체 분자는 중쇄 불변 영역 서열번호 43 및 경쇄 불변 영역 서열번호 44 중 적어도 하나를 포함하는, 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 항체 분자는 전체-크기 항체(full-size antibody), 키메라 항체, 단일 쇄 항체, Fab, Fv, scFv, Fab', 및 F(ab')2로 이루어진 군으로부터 선택되는, 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 인간 CTLA-4(hCTLA-4), 시노몰거스 원숭이 CTLA-4(cmCTLA-4) 및 뮤린 CTLA-4(mCTLA-4) 중 적어도 하나에 결합하는, 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 인간 CD28에 결합하지 않는, 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 항체 분자는 인간 IgG 항체, 인간화된 IgG 항체 및 인간 기원의 IgG 항체로 이루어진 군으로부터 선택되는, 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 항체 분자는 인간 IgG1 항체인, 항체 분자.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 분자는 단클론성 항체인, 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 정의된 항체 분자를 암호화하는 단리된 뉴클레오티드 서열로 표시되는, 암의 치료에 사용하기 위한 합성 단편으로서, 상기 뉴클레오티드 서열은 서열번호 45 및 46으로 이루어진 군으로부터 선택된 서열을 포함하거나 이것으로 이루어진, 암의 치료에 사용하기 위한 합성 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 정의된 뉴클레오티드 서열을 포함하는, 플라스미드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 정의된 뉴클레오티드 서열, 또는 상기 뉴클레오티드 서열을 포함하는 플라스미드를 포함하는, 바이러스.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, 종양용해성 바이러스(oncolytic virus) 또는 종양용해성 폭스바이러스인, 바이러스.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, 상기 폭스바이러스는 코르도폭스비리대(Chordopoxviridae) 서브패밀리, 또는 오르토폭스바이러스 속(Orthopoxvirus genus)에 속하거나, 또는 상기 폭스바이러스는 백시니아 바이러스(Vaccinia virus), 우두 바이러스(cowpox virus), 카나리폭스 바이러스(canarypox virus), 엑트로멜리아 바이러스(ectromelia virus) 및 점액종 바이러스(myxoma)로 이루어진 군으로부터 선택되는, 바이러스.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 종양용해성 바이러스는 티미딘 키나제(thymidine kinase: TK) 및 리보뉴클레오티드 리덕타제(ribonucleotide reductase: RR) 활성 중 적어도 하나에 결함이 있고, 서열번호 20 및 서열번호 21 또는 서열번호 53 및 서열번호 54를 암호화하는 뉴클레오티드 서열을 포함하는 백시니아 바이러스인, 바이러스.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, 상기 종양용해성 백시니아 바이러스는 인간 GM-CSF 또는 뮤린 GM-CSF에 대해서 특이적 선호도를 갖는, GM-CSF를 암호화하는 뉴클레오티드 서열을 더 포함하는, 바이러스.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, 중쇄를 암호화하는 카세트가 J2R 유전자좌에 삽입되고, 경쇄를 암호화하는 카세트가 I4L 유전자좌에 삽입된, 바이러스.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 정의된 뉴클레오티드 서열 또는 제14항에 정의된 뉴클레오티드 서열을 포함하는 플라스미드 또는 제14항에 정의된 뉴클레오티드 서열을 포함하는 바이러스를 포함하는, 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제13항 중 어느 한 항에 정의된 항체 분자, 제14항에 따른 뉴클레오티드 서열, 제15항에 따른 플라스미드, 제16항 내지 제21항 중 어느 한 항에 따른 바이러스 또는 제22항에 따른 세포를 포함하는 암의 치료에 사용하기 위한 약제학적 조성물.",
+          "refers_to": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제23항에 있어서, 약제학적으로 허용 가능한 희석제, 담체, 비히클 및 부형제 중 적어도 하나를 추가로 포함하는 약제학적 조성물.",
+          "refers_to": [
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제23항에 있어서, 암은 고형암인 약제학적 조성물.",
+          "refers_to": [
+            23
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210330",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 34,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "CTLA-4에 특이적으로 결합하고, 이필리무맙에 비해서 CTLA-4 양성 세포에 대해서 개선된 고갈 효과(depleting effect)를 갖는, 항체 분자.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 이필리무맙에 비해서 CD4 양성 세포에 대해서 개선된 고갈 효과를 갖는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 이필리무맙에 비해서 Treg에 대해서 개선된 고갈 효과를 갖는, 항체 분자.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 항체 분자가 하기 시험에서 개선된 고갈을 제공하면, CTLA-4 양성 세포, CD4 양성 세포 및/또는 Treg에 대해서 개선된 고갈 효과를 갖는 것으로 간주되는, 항체 분자:\n(i) GFP와 함께 CD16-158V 대립유전자를 발현하도록 안정적으로 형질주입된 NK-92 세포주를 사용하여 수행되는 시험관내 ADCC 시험이되, ADCC 시험은 하기 연속적인 단계를 포함하는, 시험:\n 1) 표적 세포로서의 CTLA-4 양성 세포, CD4 양성 세포 또는 Treg를 건강한 공여자로부터 단리하는 단계;\n 2) 이어서 표적 세포를 CD3/CD28 및 rhIL-2로 자극시키는 단계;\n 3) 이어서 표적 세포를 항체 분자와 함께 사전 인큐베이션시키고, 이어서 NK 세포와 혼합하는 단계;\n 4) 이어서 표적 세포를 1 HEPES 완충액, 피루브산 나트륨 및 FBS 저 IgG를 함유하는 RPMI 1640 + GlutaMAX 배지에서 인큐베이션시키는 단계;\n 5) 유세포 분석법에 의해서 용해를 결정하는 단계;\n 6) 단계 3에서 항체 분자 대신에 이필리무맙을 사용하여 단계 1 내지 5를 반복하거나 또는 동시에 수행하는 단계; 및\n 7) 항체 분자에 대한 용해 결과를 이필리무맙에 대한 용해 결과와 비교하고, 이필리무맙에 비해서 항체 분자에 대한 개선된 용해는, 항체 분자가 CTLA-4 양성 세포, CD4 양성 세포 및/또는 Treg에 대해서 개선된 고갈 효과를 갖는다는 것을 나타내는 단계; 및/또는\n(ii) PBMC-NOG/SCID 모델에서의 생체내 시험이되, 생체내 시험은 하기 연속적인 단계를 포함하는, 시험:\n 1) 인간 PBMC를 단리하고, 세척하고, 멸균 PBS 중에 재현탁하는 단계;\n 2) NOG 마우스에게 단계 1)로부터의 세포 현탁액을 i.v.로 주사하는 단계;\n 3) NOG 마우스로부터의 비장을 단리하고, 단일 세포 현탁액으로 만드는 단계;\n 4) 단계 3)으로부터의 세포 현탁액을 멸균 PBS 중에 재현탁하는 단계;\n 5) SCID 마우스에게 단계 4로부터의 현탁액을 i.p.로 주사하는 단계;\n 6) 이어서 SCID 마우스를 항체 분자, 이필리무맙 또는 아이소타입 대조군 단클론성 항체 중 어느 하나로 처리하는 단계;\n 7) 처리된 SCID 마우스의 복강내 유체를 수집하는 단계;\n 8) 인간 T 세포 하위세트를 식별하고, 하기 마커: CD45, CD4, CD8, CD25, CD127을 사용하여 FACS에 의해서 정량하는 단계;\n 9) 항체 분자로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과를 이필리무맙으로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과 및 아이소타입 대조군 단클론성 항체로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과와 비교하고, 이필리무맙으로 처리된 마우스로부터의 복강내 유체 중의 CTLA-4 양성 세포, CD4 양성 세포 및/또는 Treg의 수와 비교하여 시험될 항체 분자로 처리된 마우스로부터의 복강내 유체 중의 CTLA-4 양성 세포, CD4 양성 세포 및/또는 Treg의 더 적은 수는 항체 분자가 이필리무맙에 비해서 CTLA-4 양성 세포, CD4 양성 세포 및/또는 Treg에 대해서 개선된 고갈 효과를 갖는다는 것을 나타내는 단계.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 항체 분자는 서열번호 3, 6, 8, 10, 12 및 14로 이루어진 군으로부터 선택된 CDR 중 1 내지 6개를 포함하는 항체 분자로 이루어진 군으로부터 선택되는, 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 항체 분자는 CDR VH-CDR1, VH-CDR2, VH-CDR3, VL-CDR1 및 VL-CDR3 중 1 내지 6개를 포함하는 항체 분자로 이루어진 군으로부터 선택되되,\nVH-CDR1은, 존재하는 경우, 서열번호 15, 22, 29 및 35로 이루어진 군으로부터 선택되고;\nVH-CDR2는, 존재하는 경우, 서열번호 16, 23, 30 및 36으로 이루어진 군으로부터 선택되고;\nVH-CDR3은, 존재하는 경우, 서열번호 17, 24, 31 및 37로 이루어진 군으로부터 선택되고;\nVL-CDR1은, 존재하는 경우, 서열번호 10 및 38로 이루어진 군으로부터 선택되고;\nVL-CDR2는, 존재하는 경우, 서열번호 18, 25, 32 및 39로 이루어진 군으로부터 선택되고;\nVL-CDR3은, 존재하는 경우, 서열번호 19, 26 및 40으로 이루어진 군으로부터 선택된다.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 항체 분자는 서열번호 15, 16, 17, 10, 18 및 19를 갖는 6개의 CDR 또는 서열번호 22, 23, 24, 10, 25 및 26을 갖는 6개의 CDR을 포함하는, 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "CTLA-4에 특이적으로 결합하는 항체 분자로서, 항체 분자는 서열번호 15, 16, 17, 10, 18 및 19를 갖는 6개의 CDR 또는 서열번호 22, 23, 24, 10, 25 및 26을 갖는 6개의 CDR을 포함하는, 항체 분자.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 항체 분자는 서열번호 20 및 27로 이루어진 군으로부터 선택된 가변 중쇄 및/또는 서열번호 21 및 28로 이루어진 군으로부터 선택된 가변 경쇄를 포함하는, 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 항체 분자는 중쇄 불변 영역 서열번호 43 및/또는 경쇄 불변 영역 서열번호 44를 포함하는, 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 항체 분자는 CTLA-4에 대한 결합에 대해서 제7항 내지 제10항 중 어느 한 항에 정의된 바와 같은 항체 분자와 경쟁할 수 있는 항체 분자인, 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 항체 분자는 전체-크기 항체(full-size antibody), 키메라 항체, 단일 쇄 항체, Fab, Fv, scFv, Fab', 및 (Fab')2로 이루어진 군으로부터 선택되는, 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 인간 CTLA-4(hCTLA-4) 및/또는 시노몰거스 원숭이 CTLA-4(cmCTLA-4) 및/또는 뮤린 CTLA-4(mCTLA-4)에 결합하는, 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 인간 CD28에 결합하지 않는, 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제14항 중 어느 한 항에 있어서, 항체 분자는 인간 IgG 항체, 인간화된 IgG 항체 및 인간 기원의 IgG 항체로 이루어진 군으로부터 선택되는, 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 상기 항체 분자는 인간 IgG1 항체인, 항체 분자.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 상기 항체 분자는 단클론성 항체인, 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자를 암호화하는 단리된 뉴클레오티드 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 서열번호 45 내지 52로 이루어진 군으로부터 선택된 서열을 포함하거나 이것으로 이루어진, 단리된 뉴클레오티드 서열.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항 또는 제19항 중 어느 한 항에 정의된 바와 같은 뉴클레오티드 서열을 포함하는, 플라스미드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항 또는 제19항에 정의된 바와 같은 뉴클레오티드 서열 또는 제20항에 정의된 바와 같은 플라스미드를 포함하는, 바이러스.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 종양용해성 바이러스(oncolytic virus) 및 바람직하게는 종양용해성 폭스바이러스인, 바이러스.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, 상기 폭스바이러스는 코르도폭스비리대(Chordopoxviridae) 서브패밀리, 보다 바람직하게는 오르토폭스바이러스 속(Orthopoxvirus genus) 바람직하게는 로 이루어진 군으로부터 선택 백시니아 바이러스(Vaccinia virus), 우두 바이러스(cowpox virus), 카나리폭스 바이러스(canarypox virus), 엑트로멜리아 바이러스(ectromelia virus) 및 점액종 바이러스(myxoma)에 속하는, 바이러스.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제23항에 있어서, 상기 종양용해성 바이러스는 티미딘 키나제(thymidine kinase: TK) 활성 및/또는 리보뉴클레오티드 리덕타제(ribonucleotide reductase: RR) 활성에 결함이 있고, 서열번호 20 및 서열번호 21 또는 서열번호 53 및 서열번호 54를 암호화하는 뉴클레오티드 서열을 포함하는 백시니아 바이러스인, 바이러스.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 상기 종양용해성 백시니아 바이러스는 인간 GM-CSF(예를 들어, 서열번호 55 또는 서열번호 56을 가짐) 또는 뮤린 GM-CSF(예를 들어, 서열번호 57 또는 서열번호 58을 가짐)에 대해서 특이적 선호도를 갖는, GM-CSF를 암호화하는 뉴클레오티드 서열을 더 포함하는, 바이러스.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제25항 중 어느 한 항에 있어서, 중쇄를 암호화하는 카세트가 J2R 유전자좌에 삽입되고, 경쇄를 암호화하는 카세트가 I4L 유전자좌에 삽입된, 바이러스.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항 또는 제19항에 정의된 바와 같은 뉴클레오티드 서열 또는 제20항에 정의된 바와 같은 플라스미드 또는 제21항 내지 제26항 중 어느 한 항에 정의된 바와 같은 바이러스를 포함하는, 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "의약에 사용하기 위한, 제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자, 제18항 또는 제19항 중 어느 한 항에 따른 뉴클레오티드 서열, 제20항에 따른 플라스미드, 제21항 내지 제26항 중 어느 한 항에 따른 바이러스 또는 제27항에 따른 세포.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "암의 치료에 사용하기 위한, 제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자, 제18항 또는 제19항 중 어느 한 항에 따른 뉴클레오티드 서열, 제20항에 따른 플라스미드, 제21항 내지 제26항 중 어느 한 항에 따른 바이러스 또는 제27항에 따른 세포.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "암의 치료에 사용하기 위한 약제학적 조성물의 제조를 위한, 제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자, 제18항 또는 제19항 중 어느 한 항에 따른 뉴클레오티드 서열, 제20항에 따른 플라스미드, 제21항 내지 제26항 중 어느 한 항에 따른 바이러스 또는 제27항에 따른 세포의 용도.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자, 제18항 또는 제19항 중 어느 한 항에 따른 뉴클레오티드 서열, 제20항에 따른 플라스미드, 제21항 내지 제26항 중 어느 한 항에 따른 바이러스 또는 제27항에 따른 세포 및 선택적으로 약제학적으로 허용 가능한 희석제, 담체, 비히클 및/또는 부형제를 포함하거나 이들로 이루어진, 약제학적 조성물.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "암의 치료에 사용하기 위한, 제31항에 따른 약제학적 조성물.",
+            "refers_to": [
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체에게 치료 유효량의 제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자, 제18항 또는 제19항 중 어느 한 항에 따른 뉴클레오티드 서열, 제20항에 따른 플라스미드, 제21항 내지 제26항 중 어느 한 항에 따른 바이러스, 제27항에 따른 세포 또는 제31항의 약제학적 조성물을 투여하는 단계를 포함하는, 대상체에서 암을 치료하는 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "암이 고형암인, 제24항에 따른 사용하기 위한 항체 분자, 제29항에 따른 사용하기 위한 뉴클레오티드 서열, 제29항에 따른 사용하기 위한 플라스미드, 제29항에 따른 사용하기 위한 바이러스, 제29항에 따른 사용하기 위한 세포, 제30항에 따른 용도, 제32항에 따른 약제학적 조성물 또는 제33항에 따른 방법.",
+            "refers_to": [
+              24
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20210407",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 인간 CTLA-4(hCTLA-4) 및/또는 시노몰거스 원숭이 CTLA-4(cmCTLA-4) 및/또는 뮤린 CTLA-4(mCTLA-4)에 결합하는, 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20220902",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 29,
+        "claims": [
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 이필리무맙에 비해서 Treg에 대해서 개선된 고갈 효과를 갖는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자가 하기 시험들 중 적어도 하나에서 개선된 고갈을 제공하면, CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나에 대해서 개선된 고갈 효과를 갖는 것으로 간주되는, 항체 분자:\n(i) GFP와 함께 CD16-158V 대립유전자를 발현하도록 안정적으로 형질주입된 NK-92 세포주를 사용하여 수행되는 시험관내 ADCC 시험이되, ADCC 시험은 하기 연속적인 단계를 포함하는, 시험:\n 1) 표적 세포로서의 CTLA-4 양성 세포, CD4 양성 세포 또는 Treg를 건강한 공여자로부터 단리하는 단계;\n 2) 이어서 표적 세포를 CD3/CD28 및 rhIL-2로 자극시키는 단계;\n 3) 이어서 표적 세포를 항체 분자와 함께 사전 인큐베이션시키고, 이어서 NK 세포와 혼합하는 단계;\n 4) 이어서 표적 세포를 1 HEPES 완충액, 피루브산 나트륨 및 FBS 저 IgG를 함유하는 RPMI 1640 + GlutaMAX 배지에서 인큐베이션시키는 단계;\n 5) 유세포 분석법에 의해서 용해를 결정하는 단계;\n 6) 단계 3에서 항체 분자 대신에 이필리무맙을 사용하여 단계 1 내지 5를 반복하거나 또는 동시에 수행하는 단계; 및\n 7) 항체 분자에 대한 용해 결과를 이필리무맙에 대한 용해 결과와 비교하고, 이필리무맙에 비해서 항체 분자에 대한 개선된 용해는, 항체 분자가 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나에 대해서 개선된 고갈 효과를 갖는다는 것을 나타내는 단계; 및\n(ii) PBMC-NOG/SCID 모델에서의 생체내 시험이되, 생체내 시험은 하기 연속적인 단계를 포함하는, 시험:\n 1) 인간 PBMC를 단리하고, 세척하고, 멸균 PBS 중에 재현탁하는 단계;\n 2) NOG 마우스에게 단계 1)로부터의 세포 현탁액을 i.v.로 주사하는 단계;\n 3) NOG 마우스로부터의 비장을 단리하고, 단일 세포 현탁액으로 만드는 단계;\n 4) 단계 3)으로부터의 세포 현탁액을 멸균 PBS 중에 재현탁하는 단계;\n 5) SCID 마우스에게 단계 4로부터의 현탁액을 i.p.로 주사하는 단계;\n 6) 이어서 SCID 마우스를 항체 분자, 이필리무맙 또는 아이소타입 대조군 단클론성 항체 중 어느 하나로 처리하는 단계;\n 7) 처리된 SCID 마우스의 복강내 유체를 수집하는 단계;\n 8) 인간 T 세포 하위세트를 식별하고, 하기 마커: CD45, CD4, CD8, CD25, CD127을 사용하여 FACS에 의해서 정량하는 단계;\n 9) 항체 분자로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과를 이필리무맙으로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과 및 아이소타입 대조군 단클론성 항체로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과와 비교하고, 이필리무맙으로 처리된 마우스로부터의 복강내 유체 중의 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나의 수와 비교하여 시험될 항체 분자로 처리된 마우스로부터의 복강내 유체 중의 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나의 더 적은 수는 항체 분자가 이필리무맙에 비해서 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나에 대해서 개선된 고갈 효과를 갖는다는 것을 나타내는 단계.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 서열번호 3, 6, 8, 10, 12 및 14로 이루어진 군으로부터 선택된 CDR 중 1 내지 6개를 포함하는 항체 분자로 이루어진 군으로부터 선택되는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 CDR VH-CDR1, VH-CDR2, VH-CDR3, VL-CDR1 및 VL-CDR3 중 1 내지 6개를 포함하는 항체 분자로 이루어진 군으로부터 선택되되,\nVH-CDR1은, 존재하는 경우, 서열번호 15, 22, 29 및 35로 이루어진 군으로부터 선택되고;\nVH-CDR2는, 존재하는 경우, 서열번호 16, 23, 30 및 36으로 이루어진 군으로부터 선택되고;\nVH-CDR3은, 존재하는 경우, 서열번호 17, 24, 31 및 37로 이루어진 군으로부터 선택되고;\nVL-CDR1은, 존재하는 경우, 서열번호 10 및 38로 이루어진 군으로부터 선택되고;\nVL-CDR2는, 존재하는 경우, 서열번호 18, 25, 32 및 39로 이루어진 군으로부터 선택되고;\nVL-CDR3은, 존재하는 경우, 서열번호 19, 26 및 40으로 이루어진 군으로부터 선택된다.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 서열번호 15, 16, 17, 10, 18 및 19를 갖는 6개의 CDR 또는 서열번호 22, 23, 24, 10, 25 및 26을 갖는 6개의 CDR을 포함하는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 서열번호 20 및 27로 이루어진 군으로부터 선택된 가변 중쇄 및 서열번호 21 및 28로 이루어진 군으로부터 선택된 가변 경쇄 중 적어도 하나를 포함하는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 중쇄 불변 영역 서열번호 43 및 경쇄 불변 영역 서열번호 44 중 적어도 하나를 포함하는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 CTLA-4에 대한 결합에 대해서 서열번호 15, 16, 17, 10, 18 및 19를 갖는 6개의 CDR 또는 서열번호 22, 23, 24, 10, 25 및 26을 갖는 6개의 CDR을 포함하는 항체 분자와 경쟁할 수 있는 항체 분자인, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 전체-크기 항체(full-size antibody), 키메라 항체, 단일 쇄 항체, Fab, Fv, scFv, Fab', 및 (Fab')2로 이루어진 군으로부터 선택되는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 인간 CTLA-4(hCTLA-4), 시노몰거스 원숭이 CTLA-4(cmCTLA-4) 및 뮤린 CTLA-4(mCTLA-4) 중 적어도 하나에 결합하는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 인간 CD28에 결합하지 않는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 인간 IgG 항체, 인간화된 IgG 항체 및 인간 기원의 IgG 항체로 이루어진 군으로부터 선택되는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 분자는 단클론성 항체인, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 정의된 바와 같은 항체 분자를 암호화하는 단리된 뉴클레오티드 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 정의된 바와 같은 뉴클레오티드 서열을 포함하는, 플라스미드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 정의된 바와 같은 뉴클레오티드 서열 또는 제20항에 정의된 바와 같은 플라스미드를 포함하는, 바이러스.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 종양용해성 바이러스(oncolytic virus) 또는 종양용해성 폭스바이러스인, 바이러스.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제22항에 있어서, 상기 폭스바이러스는 코르도폭스비리대(Chordopoxviridae) 서브패밀리, 또는 오르토폭스바이러스 속(Orthopoxvirus genus)에 속하거나, 또는 상기 폭스바이러스는 백시니아 바이러스(Vaccinia virus), 우두 바이러스(cowpox virus), 카나리폭스 바이러스(canarypox virus), 엑트로멜리아 바이러스(ectromelia virus) 및 점액종 바이러스(myxoma)로 이루어진 군으로부터 선택되는, 바이러스.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제23항에 있어서, 상기 종양용해성 바이러스는 티미딘 키나제(thymidine kinase: TK) 및 리보뉴클레오티드 리덕타제(ribonucleotide reductase: RR) 활성 중 적어도 하나에 결함이 있고, 서열번호 20 및 서열번호 21 또는 서열번호 53 및 서열번호 54를 암호화하는 뉴클레오티드 서열을 포함하는 백시니아 바이러스인, 바이러스.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 종양용해성 백시니아 바이러스는 인간 GM-CSF 또는 뮤린 GM-CSF에 대해서 특이적 선호도를 갖는, GM-CSF를 암호화하는 뉴클레오티드 서열을 더 포함하는, 바이러스.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 중쇄를 암호화하는 카세트가 J2R 유전자좌에 삽입되고, 경쇄를 암호화하는 카세트가 I4L 유전자좌에 삽입된, 바이러스.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 정의된 바와 같은 뉴클레오티드 서열 또는 제18항에 정의된 바와 같은 뉴클레오티드 서열을 포함하는 플라스미드 또는 제18항에 정의된 바와 같은 뉴클레오티드 서열을 포함하는 바이러스를 포함하는, 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제17항 중 어느 한 항에 정의된 바와 같은 항체 분자, 제18항 또는 제19항에 따른 뉴클레오티드 서열, 제20항에 따른 플라스미드, 제21항 내지 제26항 중 어느 한 항에 따른 바이러스 또는 제27항에 따른 세포를 포함하는 암의 치료에 사용하기 위한 약제학적 조성물.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제28항에 있어서, 약제학적으로 허용 가능한 희석제, 담체, 비히클 및 부형제 중 적어도 하나를 추가로 포함하는 약제학적 조성물.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20220905",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자가 하기 시험들 중 적어도 하나에서 개선된 고갈을 제공하면, 이필리무밥에 비해서 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나에 대해서 개선된 고갈 효과를 갖는 것으로 간주되는, 항체 분자:\n(i) GFP와 함께 CD16-158V 대립유전자를 발현하도록 안정적으로 형질주입된 NK-92 세포주를 사용하여 수행되는 시험관내 ADCC 시험이되, ADCC 시험은 하기 연속적인 단계를 포함하는, 시험:\n 1) 표적 세포로서의 CTLA-4 양성 세포, CD4 양성 세포 또는 Treg를 건강한 공여자로부터 단리하는 단계;\n 2) 이어서 표적 세포를 CD3/CD28 및 rhIL-2로 자극시키는 단계;\n 3) 이어서 표적 세포를 항체 분자와 함께 사전 인큐베이션시키고, 이어서 NK 세포와 혼합하는 단계;\n 4) 이어서 표적 세포를 1 HEPES 완충액, 피루브산 나트륨 및 FBS 저 IgG를 함유하는 RPMI 1640 + GlutaMAX 배지에서 인큐베이션시키는 단계;\n 5) 유세포 분석법에 의해서 용해를 결정하는 단계;\n 6) 단계 3에서 항체 분자 대신에 이필리무맙을 사용하여 단계 1 내지 5를 반복하거나 또는 동시에 수행하는 단계; 및\n 7) 항체 분자에 대한 용해 결과를 이필리무맙에 대한 용해 결과와 비교하고, 이필리무맙에 비해서 항체 분자에 대한 개선된 용해는, 항체 분자가 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나에 대해서 개선된 고갈 효과를 갖는다는 것을 나타내는 단계; 및\n(ii) PBMC-NOG/SCID 모델에서의 생체내 시험이되, 생체내 시험은 하기 연속적인 단계를 포함하는, 시험:\n 1) 인간 PBMC를 단리하고, 세척하고, 멸균 PBS 중에 재현탁하는 단계;\n 2) NOG 마우스에게 단계 1)로부터의 세포 현탁액을 i.v.로 주사하는 단계;\n 3) NOG 마우스로부터의 비장을 단리하고, 단일 세포 현탁액으로 만드는 단계;\n 4) 단계 3)으로부터의 세포 현탁액을 멸균 PBS 중에 재현탁하는 단계;\n 5) SCID 마우스에게 단계 4로부터의 현탁액을 i.p.로 주사하는 단계;\n 6) 이어서 SCID 마우스를 항체 분자, 이필리무맙 또는 아이소타입 대조군 단클론성 항체 중 어느 하나로 처리하는 단계;\n 7) 처리된 SCID 마우스의 복강내 유체를 수집하는 단계;\n 8) 인간 T 세포 하위세트를 식별하고, 하기 마커: CD45, CD4, CD8, CD25, CD127을 사용하여 FACS에 의해서 정량하는 단계;\n 9) 항체 분자로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과를 이필리무맙으로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과 및 아이소타입 대조군 단클론성 항체로 처리된 마우스로부터의 T 세포 하위세트의 식별 및 정량으로부터의 결과와 비교하고, 이필리무맙으로 처리된 마우스로부터의 복강내 유체 중의 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나의 수와 비교하여 시험될 항체 분자로 처리된 마우스로부터의 복강내 유체 중의 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나의 더 적은 수는 항체 분자가 이필리무맙에 비해서 CTLA-4 양성 세포, CD4 양성 세포 및 Treg 중 적어도 하나에 대해서 개선된 고갈 효과를 갖는다는 것을 나타내는 단계.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "version": 5,
+        "receipt_date": "20220906",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항에 있어서, 암은 고형암인 약제학적 조성물.",
+            "refers_to": [
+              28
+            ]
+          }
+        ]
+      },
+      {
+        "version": 6,
+        "receipt_date": "20250203",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 27,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "CTLA-4에 특이적으로 결합하고, 이필리무맙에 비해서 CTLA-4 양성 세포에 대해서 개선된 고갈 효과(depleting effect)를 갖는, 항체 분자분자로서, 상기 항체 분자는 서열번호 15의 아미노산 서열을 갖는 VH-CDR1, 서열번호 16의 아미노산 서열을 갖는 VH-CDR2, 서열번호 17의 아미노산 서열을 갖는 VH-CDR3, 서열번호 10의 아미노산 서열을 갖는 VL-CDR1, 서열번호 18의 아미노산 서열을 갖는 VL-CDR2 및 서열번호 19의 아미노산 서열을 갖는 VL-CDR3을 갖는 6개의 CDR을 포함하는, 항체 분자.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "CTLA-4에 특이적으로 결합하는 항체 분자로서, 항체 분자는 서열번호 15의 아미노산 서열을 갖는 VH-CDR1, 서열번호 16의 아미노산 서열을 갖는 VH-CDR2, 서열번호 17의 아미노산 서열을 갖는 VH-CDR3, 서열번호 10의 아미노산 서열을 갖는 VL-CDR1, 서열번호 18의 아미노산 서열을 갖는 VL-CDR2 및 서열번호 19의 아미노산 서열을 갖는 VL-CDR3을 갖는 6개의 CDR을 포함하는, 항체 분자.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 서열번호 20의 가변 중쇄 및 서열번호 21의 가변 경쇄 중 적어도 하나를 포함하는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 중쇄 불변 영역 서열번호 43 및 경쇄 불변 영역 서열번호 44 중 적어도 하나를 포함하는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 전체-크기 항체(full-size antibody), 키메라 항체, 단일 쇄 항체, Fab, Fv, scFv, Fab', 및 F(ab')2로 이루어진 군으로부터 선택되는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 인간 CTLA-4(hCTLA-4), 시노몰거스 원숭이 CTLA-4(cmCTLA-4) 및 뮤린 CTLA-4(mCTLA-4) 중 적어도 하나에 결합하는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 인간 CD28에 결합하지 않는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항체 분자는 인간 IgG 항체, 인간화된 IgG 항체 및 인간 기원의 IgG 항체로 이루어진 군으로부터 선택되는, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 항체 분자는 인간 IgG1 항체인, 항체 분자.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 분자는 단클론성 항체인, 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 정의된 항체 분자를 암호화하는 단리된 뉴클레오티드 서열로 표시되는, 암의 치료에 사용하기 위한 합성 단편으로서, 상기 뉴클레오티드 서열은 서열번호 45 및 46으로 이루어진 군으로부터 선택된 서열을 포함하거나 이것으로 이루어진, 암의 치료에 사용하기 위한 합성 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 정의된 뉴클레오티드 서열을 포함하는, 플라스미드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 정의된 뉴클레오티드 서열, 또는 상기 뉴클레오티드 서열을 포함하는 플라스미드를 포함하는, 바이러스.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 종양용해성 바이러스(oncolytic virus) 또는 종양용해성 폭스바이러스인, 바이러스.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 폭스바이러스는 코르도폭스비리대(Chordopoxviridae) 서브패밀리, 또는 오르토폭스바이러스 속(Orthopoxvirus genus)에 속하거나, 또는 상기 폭스바이러스는 백시니아 바이러스(Vaccinia virus), 우두 바이러스(cowpox virus), 카나리폭스 바이러스(canarypox virus), 엑트로멜리아 바이러스(ectromelia virus) 및 점액종 바이러스(myxoma)로 이루어진 군으로부터 선택되는, 바이러스.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, 상기 종양용해성 바이러스는 티미딘 키나제(thymidine kinase: TK) 및 리보뉴클레오티드 리덕타제(ribonucleotide reductase: RR) 활성 중 적어도 하나에 결함이 있고, 서열번호 20 및 서열번호 21 또는 서열번호 53 및 서열번호 54를 암호화하는 뉴클레오티드 서열을 포함하는 백시니아 바이러스인, 바이러스.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 상기 종양용해성 백시니아 바이러스는 인간 GM-CSF 또는 뮤린 GM-CSF에 대해서 특이적 선호도를 갖는, GM-CSF를 암호화하는 뉴클레오티드 서열을 더 포함하는, 바이러스.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 중쇄를 암호화하는 카세트가 J2R 유전자좌에 삽입되고, 경쇄를 암호화하는 카세트가 I4L 유전자좌에 삽입된, 바이러스.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 정의된 뉴클레오티드 서열 또는 제14항에 정의된 뉴클레오티드 서열을 포함하는 플라스미드 또는 제14항에 정의된 뉴클레오티드 서열을 포함하는 바이러스를 포함하는, 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제13항 중 어느 한 항에 정의된 항체 분자, 제14항에 따른 뉴클레오티드 서열, 제15항에 따른 플라스미드, 제16항 내지 제21항 중 어느 한 항에 따른 바이러스 또는 제22항에 따른 세포를 포함하는 암의 치료에 사용하기 위한 약제학적 조성물.",
+            "refers_to": [
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제23항에 있어서, 약제학적으로 허용 가능한 희석제, 담체, 비히클 및 부형제 중 적어도 하나를 추가로 포함하는 약제학적 조성물.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제23항에 있어서, 암은 고형암인 약제학적 조성물.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 34,
+      "after_claim_count": 27,
+      "total_versions": 6
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.03.12",
+      "internationOpenNumber": "WO2020049001",
+      "internationalApplicationDate": "2019.09.03",
+      "internationalApplicationNumber": "PCT/EP2019/073488"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "스웨덴, 룬드 *** **, 이데온가탄 *",
+        "code": "520080080925",
+        "country": "스웨덴",
+        "engName": "BioInvent International AB",
+        "name": "바이오인벤트 인터내셔날 에이비"
+      },
+      {
+        "address": "프랑스, 에프-***** 이으끼르쉬 끄랑팡스따당, 부르발   꽁띠에르 당데르나쉬, 파르끄 뎅노바띠옹",
+        "code": "520060023332",
+        "country": "프랑스",
+        "engName": "TRANSGENE",
+        "name": "트랜스진"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "스웨덴, 룬드 에스이...",
+        "code": "",
+        "country": "",
+        "engName": "FRENDEUS, Bjorn",
+        "name": "프렌데우스, 비요른"
+      },
+      {
+        "address": "스웨덴, 룬드 에스이...",
+        "code": "",
+        "country": "",
+        "engName": "TEIGE, Ingrid",
+        "name": "테이게, 잉그리드"
+      },
+      {
+        "address": "스웨덴, 말뫼 에스이-...",
+        "code": "",
+        "country": "",
+        "engName": "SEMMRICH, Monika",
+        "name": "셈리치, 모니카"
+      },
+      {
+        "address": "스웨덴, 비아레드 에스이-...",
+        "code": "",
+        "country": "",
+        "engName": "MARTENSSON, Linda",
+        "name": "마르텐손, 린다"
+      },
+      {
+        "address": "스웨덴, 셰블링에 에스...",
+        "code": "",
+        "country": "",
+        "engName": "HOLMKVIST, Petra",
+        "name": "홀엠키비스트, 페트라"
+      },
+      {
+        "address": "프랑스, 오베르네 ****...",
+        "code": "",
+        "country": "",
+        "engName": "MARCHAND, Jean-Baptiste",
+        "name": "마르샹드, 장-바티스트"
+      },
+      {
+        "address": "프랑스, 에거스하임 *...",
+        "code": "",
+        "country": "",
+        "engName": "SILVESTRE, Nathalie",
+        "name": "실베스트레, 나탈리"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 강남구 언주로 **길 **, 대림아크로텔 *층(도곡동)",
+      "code": "920031000651",
+      "country": "대한민국",
+      "engName": "C&amp;S Patent and Law Office",
+      "name": "특허법인씨엔에스(유)"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "유럽특허청(EPO)",
+      "priorityApplicationDate": "2018.09.03",
+      "priorityApplicationNumber": "18192311.1"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020180086219 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "US20170157188 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2017106372 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020200061320 A",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.03.30",
+        "receiptNumber": "1-1-2021-0375424-57"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.04.07",
+        "receiptNumber": "1-1-2021-0405987-88"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.04.12",
+        "receiptNumber": "1-5-2021-0058996-31"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.05.23",
+        "receiptNumber": "4-1-2022-5120890-17"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.09.02",
+        "receiptNumber": "1-1-2022-0925551-83"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.09.02",
+        "receiptNumber": "1-1-2022-0925524-50"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.09.05",
+        "receiptNumber": "1-1-2022-0930481-03"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.09.06",
+        "receiptNumber": "1-1-2022-0939038-44"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.10.17",
+        "receiptNumber": "4-1-2022-5241471-50"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.12.04",
+        "receiptNumber": "9-5-2024-1047117-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.02.03",
+        "receiptNumber": "1-1-2025-0121524-28"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.02.03",
+        "receiptNumber": "1-1-2025-0121522-37"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.07.21",
+        "receiptNumber": "9-5-2025-0689761-44"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "",
+        "documentName": "[명세서등 보정]보정서(심사관 직권보정)",
+        "receiptDate": "2025.09.30",
+        "receiptNumber": "1-1-2025-5019925-46"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217009505.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=348aaf18c46825cf02d6c2de1c78338ea753fee2d631134cad27b11a25c748397fe3e5b70a1667a48a8418b8035acc9ce6bfe83f29a3716cd184a744c655f0c2250784637455cfd0",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cff2f2b17860f57c3340c335583df08102b83b2f6cf5d7169c8764ec50f8cf88c72f09fda324f6e76fc0f626558326e8ff6a467527bba3a568"
+  },
+  "rndInfoArray": ""
+}

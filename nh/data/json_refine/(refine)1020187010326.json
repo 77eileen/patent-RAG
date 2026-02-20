@@ -1,0 +1,3683 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2016.09.09",
+      "applicationFlag": "",
+      "applicationNumber": "10-2018-7010326",
+      "claimCount": "86",
+      "examinerName": "정지혜",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "HLA-CW8 제한된 돌연변이 KRAS를 인식하는 T 세포 수용체",
+      "inventionTitleEng": "T CELL RECEPTORS RECOGNIZING HLA-CW8 RESTRICTED MUTATED KRAS",
+      "openDate": "2018.05.02",
+      "openNumber": "10-2018-0044428",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2021.09.09",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.08.01",
+      "publicationNumber": "",
+      "registerDate": "2025.07.28",
+      "registerNumber": "10-2841067-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2018.04.12"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/725"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/82"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 HLA-Cw*0802 분자의 배경에서 제공된 돌연변이 키르스텐 래트 육종 바이러스 암유전자 동족체(KRAS)에 대한 항원 특이성을 갖는, 단리되거나 정제된 T 세포 수용체(TCR)에 관한 것이다. 본 발명은 또한 관련된 폴리펩티드 및 단백질뿐 아니라, 관련된 핵산, 재조합 발현 벡터, 숙주 세포, 세포 집단 및 약학 조성물에 관한 것이다. 본 발명은 또한 포유동물에서 암의 존재를 검출하는 방법 및 포유동물에서 암을 치료하거나 예방하는 방법에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020187010326",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20180412",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 23,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "인간 백혈구 항원(HLA)-Cw8 분자의 배경에서 제공된 돌연변이 키르스텐 래트 육종 바이러스 암유전자 동족체(KRAS)에 대한 항원 특이성을 갖는, 단리되거나 정제된 T 세포 수용체(TCR).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\n인간 백혈구 항원(HLA)-Cw8 분자의 배경에서 제공된 GADGVGKSA(서열번호 18)의 돌연변이 KRAS 아미노산 서열에 대한 항원 특이성을 갖는, 단리되거나 정제된 TCR.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 또는 제 2 항에 있어서,\nHLA-Cw8 분자가 HLA-Cw*0802인, 단리되거나 정제된 TCR.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n(I) 서열번호 3의 아미노산 서열을 포함하는 α쇄 상보성 결정 영역(CDR)1, 서열번호 4의 아미노산 서열을 포함하는 α쇄 CDR2, 및 서열번호 5의 아미노산 서열을 포함하는 α쇄 CDR3;\n(II) 서열번호 6의 아미노산 서열을 포함하는 β쇄 CDR1, 서열번호 7의 아미노산 서열을 포함하는 β쇄 CDR2, 및 서열번호 8의 아미노산 서열을 포함하는 β쇄 CDR3; 또는\n(III) (I) 및 (II) 둘 다\n를 포함하는, 단리되거나 정제된 TCR.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항에 있어서,\n(I) 서열번호 9의 아미노산 서열을 포함하는 α쇄 가변 영역;\n(II) 서열번호 10의 아미노산 서열을 포함하는 β쇄 가변 영역; 또는\n(III) (I) 및 (II) 둘 다\n를 포함하는, 단리되거나 정제된 TCR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 5 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 α쇄 불변 영역; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 β쇄 불변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 단리되거나 정제된 TCR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 6 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 α쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 β쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 단리되거나 정제된 TCR.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 7 항 중 어느 한 항에 따른 단리되거나 정제된 TCR의 기능성 부분을 포함하는 단리되거나 정제된 폴리펩티드로서, 상기 기능성 부분이 (I) 서열번호 3 내지 5; (II) 서열번호 6 내지 8; 또는 (III) 서열번호 3 내지 8의 아미노산 서열을 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 8 항에 있어서,\n기능성 부분이 (I) 서열번호 9; (II) 서열번호 10; 또는 (III) 서열번호 9 및 10의 아미노산 서열을 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 8 항 또는 제 9 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 8 항 내지 제 10 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 7 항 중 어느 한 항에 따른 단리되거나 정제된 TCR의 기능성 부분을 포함하는 단리되거나 정제된 단백질로서, (I) 서열번호 3 내지 5의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄; (II) 서열번호 6 내지 8의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는 (III) (I) 및 (II) 둘 다를 포함하고, 상기 기능성 부분이 (i) 서열번호 3 내지 5; (ii) 서열번호 6 내지 8; 또는 (iii) 서열번호 3 내지 8의 아미노산 서열을 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 12 항에 있어서,\n(I) 서열번호 9의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄; (II) 서열번호 10의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는 (III) (I) 및 (II) 둘 다를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 12 항 또는 제 13 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 12 항 내지 제 14 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 7 항 중 어느 한 항에 따른 단리되거나 정제된 TCR, 제 8 항 내지 제 11 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 12 항 내지 제 15 항 중 어느 한 항에 따른 단리되거나 정제된 단백질을 암호화하는 뉴클레오티드 서열을 포함하는, 단리되거나 정제된 핵산.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 16 항에 따른 단리되거나 정제된 핵산을 포함하는 재조합 발현 벡터.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 17 항에 따른 재조합 발현 벡터를 포함하는, 단리되거나 정제된 숙주 세포.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "2개 이상의 제 18 항에 따른 단리되거나 정제된 숙주 세포를 포함하는 숙주 세포 집단.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 7 항 중 어느 한 항에 따른 단리되거나 정제된 TCR, 제 8 항 내지 제 11 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 제 12 항 내지 제 15 항 중 어느 한 항에 따른 단리되거나 정제된 단백질, 제 16 항에 따른 단리되거나 정제된 핵산, 제 17 항에 따른 재조합 발현 벡터, 제 18 항에 따른 단리되거나 정제된 숙주 세포, 또는 제 19 항에 따른 숙주 세포 집단, 및 약학적으로 허용되는 담체를 포함하는 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 암 세포를 포함하는 샘플을 제 1 항 내지 제 7 항 중 어느 한 항에 따른 단리되거나 정제된 TCR, 제 8 항 내지 제 11 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 제 12 항 내지 제 15 항 중 어느 한 항에 따른 단리되거나 정제된 단백질, 제 16 항에 따른 단리되거나 정제된 핵산, 제 17 항에 따른 재조합 발현 벡터, 제 18 항에 따른 단리되거나 정제된 숙주 세포, 제 19 항에 따른 숙주 세포 집단, 또는 제 20 항에 따른 약학 조성물과 접촉시켜 복합체를 생성하는 단계; 및\n(b) 상기 복합체를 검출하는 단계\n를 포함하는, 포유동물에서 암의 존재를 검출하는 방법으로서, \n상기 복합체의 검출이 포유동물에서 암의 존재를 나타내는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 20 항 중 어느 한 항에 있어서,\n포유동물에서 암의 치료 또는 예방에 사용하기 위한, 단리되거나 정제된 TCR, 단리되거나 정제된 폴리펩티드, 단리되거나 정제된 단백질, 단리되거나 정제된 핵산, 재조합 발현 벡터, 단리되거나 정제된 숙주 세포, 숙주 세포 집단 또는 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 24 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 TCR, 단리되거나 정제된 폴리펩티드, 단리되거나 정제된 단백질, 단리되거나 정제된 핵산, 재조합 발현 벡터, 단리되거나 정제된 숙주 세포, 숙주 세포 집단 또는 약학 조성물.",
+          "refers_to": [
+            24
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20241022",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 86,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(I) 서열번호 3의 아미노산 서열을 포함하는 α쇄 상보성 결정 영역(CDR)1, 서열번호 4의 아미노산 서열을 포함하는 α쇄 CDR2, 및 서열번호 5의 아미노산 서열을 포함하는 α쇄 CDR3; 및(II) 서열번호 6의 아미노산 서열을 포함하는 β쇄 CDR1, 서열번호 7의 아미노산 서열을 포함하는 β쇄 CDR2, 및 서열번호 8의 아미노산 서열을 포함하는 β쇄 CDR3을 포함하는, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서,인간 백혈구 항원(HLA)-Cw8 분자에서 제공된 GADGVGKSA(서열번호 18)의 돌연변이 키르스텐 래트 육종 바이러스 암유전자 동족체(KRAS) 아미노산 서열에 대한 항원 특이성을 갖는, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 2 항에 있어서,HLA-Cw8 분자가 HLA-Cw*0802인, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,(I) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 가변 영역;(II) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 가변 영역;(III) 서열번호 9의 아미노산 20 내지 129와 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 가변 영역;(IV) 서열번호 10의 아미노산 22 내지 132와 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 가변 영역; 또는(V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,(I) 서열번호 9의 아미노산 서열을 포함하는 α쇄 가변 영역;(II) 서열번호 10의 아미노산 서열을 포함하는 β쇄 가변 영역;(III) 서열번호 9의 아미노산 20 내지 129를 포함하는 α쇄 가변 영역;(IV) 서열번호 10의 아미노산 22 내지 132를 포함하는 β쇄 가변 영역; 또는(V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 불변 영역; (b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 불변 영역; 또는(c) (a) 및 (b) 둘 다를 추가로 포함하는, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 α쇄 불변 영역; (b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 β쇄 불변 영역; 또는(c) (a) 및 (b) 둘 다를 추가로 포함하는, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄;(c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄;(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305와 99% 이상 동일한 아미노산 서열을 포함하는 β쇄; 또는(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 α쇄;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 β쇄; 또는(c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266을 포함하는 α쇄;(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305를 포함하는 β쇄; 또는(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "T 세포 수용체의 기능성 부분을 포함하는 단리되거나 정제된 폴리펩티드로서, 상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항에 있어서,기능성 부분이(I) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열;(II) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열;(III) 서열번호 9의 아미노산 20 내지 129와 99% 이상 동일한 아미노산 서열;(IV) 서열번호 10의 아미노산 22 내지 132와 99% 이상 동일한 아미노산 서열; 또는(V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다를 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항에 있어서,기능성 부분이 (I) 서열번호 9의 아미노산 서열; (II) 서열번호 10의 아미노산 서열; (III) 서열번호 9의 아미노산 20 내지 129; (IV) 서열번호 10의 아미노산 22 내지 132; 또는 (V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다를 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열; (b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는(c) (a) 및 (b) 둘 다를 추가로 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열; (b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열; 또는(c) (a) 및 (b) 둘 다를 추가로 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열; (c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266과 99% 이상 동일한 아미노산 서열;(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305와 99% 이상 동일한 아미노산 서열; 또는(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다를 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열; (c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266;(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305; 또는(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다를 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "T 세포 수용체의 기능성 부분을 포함하는 단리되거나 정제된 단백질로서, 상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하고, 상기 단백질이 서열번호 3 내지 5의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄, 및 서열번호 6 내지 8의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항에 있어서,(I) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(II) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄;(III) 서열번호 9의 아미노산 20 내지 129와 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(IV) 서열번호 10의 아미노산 22 내지 132와 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는(V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항에 있어서,(I) 서열번호 9의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(II) 서열번호 10의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄;(III) 서열번호 9의 아미노산 20 내지 129를 포함하는 제 1 폴리펩티드 쇄;(IV) 서열번호 10의 아미노산 22 내지 132를 포함하는 제 2 폴리펩티드 쇄; 또는(V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는(c) (a) 및 (b) 둘 다를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는(c) (a) 및 (b) 둘 다를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄;(c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305와 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄;(c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266을 포함하는 제 1 폴리펩티드 쇄;(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305를 포함하는 제 2 폴리펩티드 쇄; 또는(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체, 제 10 항 내지 제 12 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 17 항 내지 제 19 항 중 어느 한 항에 따른 단리되거나 정제된 단백질을 암호화하는, 단리되거나 정제된 핵산.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 24 항에 따른 단리되거나 정제된 핵산을 포함하는 재조합 발현 벡터.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 25 항에 따른 재조합 발현 벡터를 포함하는, 단리되거나 정제된 숙주 세포.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "2개 이상의 제 26 항에 따른 단리되거나 정제된 숙주 세포를 포함하는 숙주 세포 집단.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체, 제 10 항 내지 제 12 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 17 항 내지 제 19 항 중 어느 한 항에 따른 단리되거나 정제된 단백질, 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 24 항에 따른 단리되거나 정제된 핵산 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 25 항에 따른 재조합 발현 벡터 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 26 항에 따른 단리되거나 정제된 숙주 세포 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 27 항에 따른 단리되거나 숙주 세포 집단 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,포유동물에서 암의 존재를 검출하기 위한, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,포유동물에서 암의 존재를 검출하기 위한, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,포유동물에서 암의 존재를 검출하기 위한, 따른 단리되거나 정제된 단백질.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 36 항에 있어서,암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 38 항에 있어서,암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 40 항에 있어서,암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 서열번호 3의 아미노산 서열을 포함하는 α쇄 상보성 결정 영역(CDR)1, 서열번호 4의 아미노산 서열을 포함하는 α쇄 CDR2, 및 서열번호 5의 아미노산 서열을 포함하는 α쇄 CDR3; 및(b) 서열번호 6의 아미노산 서열을 포함하는 β쇄 CDR1, 서열번호 7의 아미노산 서열을 포함하는 β쇄 CDR2, 및 서열번호 8의 아미노산 서열을 포함하는 β쇄 CDR3을 포함하는 T 세포 수용체를 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 단리된 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 42 항에 있어서,T 세포 수용체가 인간 백혈구 항원(HLA)-Cw8 분자에서 제공된 GADGVGKSA(서열번호 18)의 돌연변이 KRAS 아미노산 서열에 대한 항원 특이성을 갖는, 제조 방법.",
+          "refers_to": [
+            42
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 43 항에 있어서,HLA-Cw8 분자가 HLA-Cw*0802인, 제조 방법.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,재조합 발현 벡터가(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 가변 영역;(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 가변 영역; 또는(c) (a) 및 (b) 둘 다를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+          "refers_to": [
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,재조합 발현 벡터가(a) 서열번호 9의 아미노산 서열을 포함하는 α쇄 가변 영역;(b) 서열번호 10의 아미노산 서열을 포함하는 β쇄 가변 영역; 또는(c) (a) 및 (b) 둘 다를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+          "refers_to": [
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,재조합 발현 벡터가(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 불변 영역; (b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 불변 영역; 또는(c) (a) 및 (b) 둘 다를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+          "refers_to": [
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,재조합 발현 벡터가(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 α쇄 불변 영역; (b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 β쇄 불변 영역; 또는(c) (a) 및 (b) 둘 다를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+          "refers_to": [
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,재조합 발현 벡터가(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄; 또는(c) (a) 및 (b) 둘 다를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+          "refers_to": [
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,재조합 발현 벡터가(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 α쇄;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 β쇄; 또는(c) (a) 및 (b) 둘 다를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+          "refers_to": [
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "T 세포 수용체의 기능성 부분을 포함하는 폴리펩티드를 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 단리된 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법으로서,상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하는, 제조 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 51 항에 있어서,폴리펩티드가(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열;(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는(c) (a) 및 (b) 둘 다를 포함하는, 제조 방법.",
+          "refers_to": [
+            51
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 51 항에 있어서,폴리펩티드가(a) 서열번호 9의 아미노산 서열;(b) 서열번호 10의 아미노산 서열; 또는(c) (a) 및 (b) 둘 다를 포함하는, 제조 방법.",
+          "refers_to": [
+            51
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 51 항 내지 제 53 항 중 어느 한 항에 있어서,폴리펩티드가(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열; (b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는(c) (a) 및 (b) 둘 다를 추가로 포함하는, 제조 방법.",
+          "refers_to": [
+            51,
+            52,
+            53
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 51 항 내지 제 53 항 중 어느 한 항에 있어서,폴리펩티드가(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열; (b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열; 또는(c) (a) 및 (b) 둘 다를 추가로 포함하는, 제조 방법.",
+          "refers_to": [
+            51,
+            52,
+            53
+          ]
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 51 항 내지 제 53 항 중 어느 한 항에 있어서,폴리펩티드가(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는(c) (a) 및 (b) 둘 다를 추가로 포함하는, 제조 방법.",
+          "refers_to": [
+            51,
+            52,
+            53
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 51 항 내지 제 53 항 중 어느 한 항에 있어서,폴리펩티드가(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열; 또는(c) (a) 및 (b) 둘 다를 추가로 포함하는, 제조 방법.",
+          "refers_to": [
+            51,
+            52,
+            53
+          ]
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "T 세포 수용체의 기능성 부분을 포함하는 단백질을 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 단리된 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법으로서,상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하고, 상기 단백질이 서열번호 3 내지 5의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄 및 서열번호 6 내지 8의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄를 포함하는, 제조 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 58 항에 있어서,단백질이(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는(c) (a) 및 (b) 둘 다를 포함하는, 제조 방법.",
+          "refers_to": [
+            58
+          ]
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 58 항에 있어서,단백질이(a) 서열번호 9의 아미노산 서열;(b) 서열번호 10의 아미노산 서열; 또는(c) (a) 및 (b) 둘 다를 포함하는, 제조 방법.",
+          "refers_to": [
+            58
+          ]
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 58 항 내지 제 60 항 중 어느 한 항에 있어서,단백질이(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는(c) (a) 및 (b) 둘 다를 포함하는, 제조 방법.",
+          "refers_to": [
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 58 항 내지 제 60 항 중 어느 한 항에 있어서,단백질이(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는(c) (a) 및 (b) 둘 다를 포함하는, 제조 방법.",
+          "refers_to": [
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "claim_number": 63,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 58 항 내지 제 60 항 중 어느 한 항에 있어서,단백질이(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는(c) (a) 및 (b) 둘 다를 포함하는, 제조 방법.",
+          "refers_to": [
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "claim_number": 64,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 58 항 내지 제 60 항 중 어느 한 항에 있어서,단백질이(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는(c) (a) 및 (b) 둘 다를 포함하는, 제조 방법.",
+          "refers_to": [
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "claim_number": 65,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄 가변 영역으로서, 서열번호 9의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, α쇄 가변 영역, 및(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄 가변 영역으로서, 서열번호 10의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, β쇄 가변 영역;(b) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄 가변 영역으로서, 서열번호 9의 아미노산 20 내지 129와 95% 이상 동일한 아미노산 서열을 포함하는, α쇄 가변 영역, 및(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄 가변 영역으로서, 서열번호 10의 아미노산 22 내지 132와 95% 이상 동일한 아미노산 서열을 포함하는, β쇄 가변 영역;(c) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄로서, α쇄 가변 영역이 (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, α쇄, 및(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄로서, β쇄 가변 영역이 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, β쇄; 또는(d) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄로서, α쇄 가변 영역이 (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266과 95% 이상 동일한 아미노산 서열을 포함하는, α쇄, 및(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄로서, β쇄 가변 영역이 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305와 95% 이상 동일한 아미노산 서열을 포함하는 β쇄를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 66,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 65 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            65
+          ]
+        },
+        {
+          "claim_number": 67,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 65 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 단백질로서, α쇄 가변 영역을 포함하는 제 1 폴리펩티드 쇄 및 β쇄 가변 영역을 포함하는 제 2 폴리펩티드 쇄를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            65
+          ]
+        },
+        {
+          "claim_number": 68,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 65 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 단백질로서, α쇄를 포함하는 제 1 폴리펩티드 쇄 및 β쇄 를 포함하는 제 2 폴리펩티드 쇄를 포함하는, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            65
+          ]
+        },
+        {
+          "claim_number": 69,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 65 항에 따른 단리되거나 정제된 T 세포 수용체, 제 66 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 67 항 또는 제 68 항에 따른 단리되거나 정제된 단백질을 암호화하는 단리되거나 정제된 핵산.",
+          "refers_to": [
+            65
+          ]
+        },
+        {
+          "claim_number": 70,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 69 항에 따른 단리되거나 정제된 핵산을 포함하는 재조합 발현 벡터.",
+          "refers_to": [
+            69
+          ]
+        },
+        {
+          "claim_number": 71,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 70 항에 따른 재조합 발현 벡터를 포함하는, 단리되거나 정제된 숙주 세포.",
+          "refers_to": [
+            70
+          ]
+        },
+        {
+          "claim_number": 72,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "2개 이상의 제 71 항에 따른 단리되거나 정제된 숙주 세포를 포함하는 숙주 세포 집단.",
+          "refers_to": [
+            71
+          ]
+        },
+        {
+          "claim_number": 73,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 65 항에 따른 단리되거나 정제된 T 세포 수용체, 제 66 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 67 항 또는 제 68 항에 따른 단리되거나 정제된 단백질, 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            65
+          ]
+        },
+        {
+          "claim_number": 74,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 69 항에 따른 단리되거나 정제된 핵산 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            69
+          ]
+        },
+        {
+          "claim_number": 75,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 70 항에 따른 재조합 발현 벡터 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            70
+          ]
+        },
+        {
+          "claim_number": 76,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 71 항에 따른 단리되거나 정제된 숙주 세포 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            71
+          ]
+        },
+        {
+          "claim_number": 77,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 72 항에 따른 숙주 세포 집단 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            72
+          ]
+        },
+        {
+          "claim_number": 78,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 65 항에 있어서,포유동물에서 암의 존재를 검출하기 위한, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            65
+          ]
+        },
+        {
+          "claim_number": 79,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 66 항에 있어서,포유동물에서 암의 존재를 검출하기 위한, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            66
+          ]
+        },
+        {
+          "claim_number": 80,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 67 항 또는 제 68 항에 있어서,포유동물에서 암의 존재를 검출하기 위한, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            67,
+            68
+          ]
+        },
+        {
+          "claim_number": 81,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 65 항에 있어서,포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            65
+          ]
+        },
+        {
+          "claim_number": 82,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 81 항에 있어서,암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 T 세포 수용체.",
+          "refers_to": [
+            81
+          ]
+        },
+        {
+          "claim_number": 83,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 66 항에 있어서,포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            66
+          ]
+        },
+        {
+          "claim_number": 84,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 83 항에 있어서,암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 폴리펩티드.",
+          "refers_to": [
+            83
+          ]
+        },
+        {
+          "claim_number": 85,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 67 항 또는 제 68 항에 있어서,포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            67,
+            68
+          ]
+        },
+        {
+          "claim_number": 86,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 85 항에 있어서,암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 단백질.",
+          "refers_to": [
+            85
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20180412",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 23,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "인간 백혈구 항원(HLA)-Cw8 분자의 배경에서 제공된 돌연변이 키르스텐 래트 육종 바이러스 암유전자 동족체(KRAS)에 대한 항원 특이성을 갖는, 단리되거나 정제된 T 세포 수용체(TCR).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\n인간 백혈구 항원(HLA)-Cw8 분자의 배경에서 제공된 GADGVGKSA(서열번호 18)의 돌연변이 KRAS 아미노산 서열에 대한 항원 특이성을 갖는, 단리되거나 정제된 TCR.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 또는 제 2 항에 있어서,\nHLA-Cw8 분자가 HLA-Cw*0802인, 단리되거나 정제된 TCR.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n(I) 서열번호 3의 아미노산 서열을 포함하는 α쇄 상보성 결정 영역(CDR)1, 서열번호 4의 아미노산 서열을 포함하는 α쇄 CDR2, 및 서열번호 5의 아미노산 서열을 포함하는 α쇄 CDR3;\n(II) 서열번호 6의 아미노산 서열을 포함하는 β쇄 CDR1, 서열번호 7의 아미노산 서열을 포함하는 β쇄 CDR2, 및 서열번호 8의 아미노산 서열을 포함하는 β쇄 CDR3; 또는\n(III) (I) 및 (II) 둘 다\n를 포함하는, 단리되거나 정제된 TCR.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항에 있어서,\n(I) 서열번호 9의 아미노산 서열을 포함하는 α쇄 가변 영역;\n(II) 서열번호 10의 아미노산 서열을 포함하는 β쇄 가변 영역; 또는\n(III) (I) 및 (II) 둘 다\n를 포함하는, 단리되거나 정제된 TCR.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 5 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 α쇄 불변 영역; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 β쇄 불변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 단리되거나 정제된 TCR.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 6 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 α쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 β쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 단리되거나 정제된 TCR.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 7 항 중 어느 한 항에 따른 단리되거나 정제된 TCR의 기능성 부분을 포함하는 단리되거나 정제된 폴리펩티드로서, 상기 기능성 부분이 (I) 서열번호 3 내지 5; (II) 서열번호 6 내지 8; 또는 (III) 서열번호 3 내지 8의 아미노산 서열을 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8 항에 있어서,\n기능성 부분이 (I) 서열번호 9; (II) 서열번호 10; 또는 (III) 서열번호 9 및 10의 아미노산 서열을 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8 항 또는 제 9 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8 항 내지 제 10 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 7 항 중 어느 한 항에 따른 단리되거나 정제된 TCR의 기능성 부분을 포함하는 단리되거나 정제된 단백질로서, (I) 서열번호 3 내지 5의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄; (II) 서열번호 6 내지 8의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는 (III) (I) 및 (II) 둘 다를 포함하고, 상기 기능성 부분이 (i) 서열번호 3 내지 5; (ii) 서열번호 6 내지 8; 또는 (iii) 서열번호 3 내지 8의 아미노산 서열을 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 12 항에 있어서,\n(I) 서열번호 9의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄; (II) 서열번호 10의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는 (III) (I) 및 (II) 둘 다를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 12 항 또는 제 13 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 12 항 내지 제 14 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 7 항 중 어느 한 항에 따른 단리되거나 정제된 TCR, 제 8 항 내지 제 11 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 12 항 내지 제 15 항 중 어느 한 항에 따른 단리되거나 정제된 단백질을 암호화하는 뉴클레오티드 서열을 포함하는, 단리되거나 정제된 핵산.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 16 항에 따른 단리되거나 정제된 핵산을 포함하는 재조합 발현 벡터.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 17 항에 따른 재조합 발현 벡터를 포함하는, 단리되거나 정제된 숙주 세포.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "2개 이상의 제 18 항에 따른 단리되거나 정제된 숙주 세포를 포함하는 숙주 세포 집단.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 7 항 중 어느 한 항에 따른 단리되거나 정제된 TCR, 제 8 항 내지 제 11 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 제 12 항 내지 제 15 항 중 어느 한 항에 따른 단리되거나 정제된 단백질, 제 16 항에 따른 단리되거나 정제된 핵산, 제 17 항에 따른 재조합 발현 벡터, 제 18 항에 따른 단리되거나 정제된 숙주 세포, 또는 제 19 항에 따른 숙주 세포 집단, 및 약학적으로 허용되는 담체를 포함하는 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 암 세포를 포함하는 샘플을 제 1 항 내지 제 7 항 중 어느 한 항에 따른 단리되거나 정제된 TCR, 제 8 항 내지 제 11 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 제 12 항 내지 제 15 항 중 어느 한 항에 따른 단리되거나 정제된 단백질, 제 16 항에 따른 단리되거나 정제된 핵산, 제 17 항에 따른 재조합 발현 벡터, 제 18 항에 따른 단리되거나 정제된 숙주 세포, 제 19 항에 따른 숙주 세포 집단, 또는 제 20 항에 따른 약학 조성물과 접촉시켜 복합체를 생성하는 단계; 및\n(b) 상기 복합체를 검출하는 단계\n를 포함하는, 포유동물에서 암의 존재를 검출하는 방법으로서, \n상기 복합체의 검출이 포유동물에서 암의 존재를 나타내는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 20 항 중 어느 한 항에 있어서,\n포유동물에서 암의 치료 또는 예방에 사용하기 위한, 단리되거나 정제된 TCR, 단리되거나 정제된 폴리펩티드, 단리되거나 정제된 단백질, 단리되거나 정제된 핵산, 재조합 발현 벡터, 단리되거나 정제된 숙주 세포, 숙주 세포 집단 또는 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 24 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 TCR, 단리되거나 정제된 폴리펩티드, 단리되거나 정제된 단백질, 단리되거나 정제된 핵산, 재조합 발현 벡터, 단리되거나 정제된 숙주 세포, 숙주 세포 집단 또는 약학 조성물.",
+            "refers_to": [
+              24
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20210909",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 66,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(I) 서열번호 3의 아미노산 서열을 포함하는 α쇄 상보성 결정 영역(CDR)1, 서열번호 4의 아미노산 서열을 포함하는 α쇄 CDR2, 및 서열번호 5의 아미노산 서열을 포함하는 α쇄 CDR3; 또는\n(II) 서열번호 6의 아미노산 서열을 포함하는 β쇄 CDR1, 서열번호 7의 아미노산 서열을 포함하는 β쇄 CDR2, 및 서열번호 8의 아미노산 서열을 포함하는 β쇄 CDR3\n을 포함하는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서,\n인간 백혈구 항원(HLA)-Cw8 분자에서 제공된 GADGVGKSA(서열번호 18)의 돌연변이 키르스텐 래트 육종 바이러스 암유전자 동족체(KRAS) 아미노산 서열에 대한 항원 특이성을 갖는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항에 있어서,\nHLA-Cw8 분자가 HLA-Cw*0802인, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n(I) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 가변 영역;\n(II) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 가변 영역;\n(III) 서열번호 9의 아미노산 20 내지 129와 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 가변 영역;\n(IV) 서열번호 10의 아미노산 22 내지 132와 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 가변 영역; 또는\n(V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다\n를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n(I) 서열번호 9의 아미노산 서열을 포함하는 α쇄 가변 영역;\n(II) 서열번호 10의 아미노산 서열을 포함하는 β쇄 가변 영역;\n(III) 서열번호 9의 아미노산 20 내지 129를 포함하는 α쇄 가변 영역;\n(IV) 서열번호 10의 아미노산 22 내지 132를 포함하는 β쇄 가변 영역; 또는\n(V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다\n를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 불변 영역; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 불변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 α쇄 불변 영역; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 β쇄 불변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄;\n(c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄;\n(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305와 99% 이상 동일한 아미노산 서열을 포함하는 β쇄; 또는\n(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다\n를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 α쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 β쇄; 또는\n(c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266을 포함하는 α쇄;\n(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305를 포함하는 β쇄; 또는\n(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다\n를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 9 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 폴리펩티드로서, 상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 10 항에 있어서,\n기능성 부분이\n(I) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열;\n(II) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열;\n(III) 서열번호 9의 아미노산 20 내지 129와 99% 이상 동일한 아미노산 서열;\n(IV) 서열번호 10의 아미노산 22 내지 132와 99% 이상 동일한 아미노산 서열; 또는\n(V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다\n를 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 10 항에 있어서,\n기능성 부분이 (I) 서열번호 9의 아미노산 서열; (II) 서열번호 10의 아미노산 서열; (III) 서열번호 9의 아미노산 20 내지 129; (IV) 서열번호 10의 아미노산 22 내지 132; 또는 (V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다를 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열; \n(c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266과 99% 이상 동일한 아미노산 서열;\n(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305와 99% 이상 동일한 아미노산 서열; 또는\n(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다\n를 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열; \n(c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266;\n(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305; 또는\n(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다\n를 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 9 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 단백질로서, 상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하고, 상기 단백질이 서열번호 3 내지 5의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄, 및 서열번호 6 내지 8의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항에 있어서,\n(I) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(II) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄;\n(III) 서열번호 9의 아미노산 20 내지 129와 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(IV) 서열번호 10의 아미노산 22 내지 132와 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다\n를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항에 있어서,\n(I) 서열번호 9의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(II) 서열번호 10의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄;\n(III) 서열번호 9의 아미노산 20 내지 129를 포함하는 제 1 폴리펩티드 쇄;\n(IV) 서열번호 10의 아미노산 22 내지 132를 포함하는 제 2 폴리펩티드 쇄; 또는\n(V) (I) 및 (II) 둘 다, (I) 및 (IV) 둘 다, (II) 및 (III) 둘 다, 또는 (III) 및 (IV) 둘 다\n를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄;\n(c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305와 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다\n를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄;\n(c) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266을 포함하는 제 1 폴리펩티드 쇄;\n(d) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305를 포함하는 제 2 폴리펩티드 쇄; 또는\n(e) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, 또는 (c) 및 (d) 둘 다\n를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 9 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체, 제 10 항 내지 제 16 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 17 항 내지 제 23 항 중 어느 한 항에 따른 단리되거나 정제된 단백질을 암호화하는, 단리되거나 정제된 핵산.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 24 항에 따른 단리되거나 정제된 핵산을 포함하는 재조합 발현 벡터.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 25 항에 따른 재조합 발현 벡터를 포함하는, 단리되거나 정제된 숙주 세포.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "2개 이상의 제 26 항에 따른 단리되거나 정제된 숙주 세포를 포함하는 숙주 세포 집단.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 9 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체, 제 10 항 내지 제 16 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 제 17 항 내지 제 23 항 중 어느 한 항에 따른 단리되거나 정제된 단백질, 제 24 항에 따른 단리되거나 정제된 핵산, 제 25 항에 따른 재조합 발현 벡터, 제 26 항에 따른 단리되거나 정제된 숙주 세포, 또는 제 27 항에 따른 숙주 세포 집단, 및 약학적으로 허용되는 담체를 포함하는 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "포유동물에서 암의 존재를 검출하는 방법에 사용되는 키트의 제조에 있어서, 제 1 항 내지 제 9 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체, 제 10 항 내지 제 16 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 제 17 항 내지 제 23 항 중 어느 한 항에 따른 단리되거나 정제된 단백질, 제 24 항에 따른 단리되거나 정제된 핵산, 제 25 항에 따른 재조합 발현 벡터, 제 26 항에 따른 단리되거나 정제된 숙주 세포, 제 27 항에 따른 숙주 세포 집단, 또는 제 28 항에 따른 약학 조성물의 용도.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "포유동물에서 암의 치료 또는 예방용 약제의 제조에 있어서, 제 1 항 내지 제 9 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체, 제 10 항 내지 제 16 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 제 17 항 내지 제 23 항 중 어느 한 항에 따른 단리되거나 정제된 단백질, 제 24 항에 따른 단리되거나 정제된 핵산, 제 25 항에 따른 재조합 발현 벡터, 제 26 항에 따른 단리되거나 정제된 숙주 세포, 제 27 항에 따른 숙주 세포 집단, 또는 제 28 항에 따른 약학 조성물의 용도.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 29 항 또는 제 30 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 용도.",
+            "refers_to": [
+              29,
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 서열번호 3의 아미노산 서열을 포함하는 α쇄 상보성 결정 영역(CDR)1, 서열번호 4의 아미노산 서열을 포함하는 α쇄 CDR2, 및 서열번호 5의 아미노산 서열을 포함하는 α쇄 CDR3; 및\n(b) 서열번호 6의 아미노산 서열을 포함하는 β쇄 CDR1, 서열번호 7의 아미노산 서열을 포함하는 β쇄 CDR2, 및 서열번호 8의 아미노산 서열을 포함하는 β쇄 CDR3\n을 포함하는 T 세포 수용체를 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 32 항에 있어서,\nT 세포 수용체가 인간 백혈구 항원(HLA)-Cw8 분자에서 제공된 GADGVGKSA(서열번호 18)의 돌연변이 KRAS 아미노산 서열에 대한 항원 특이성을 갖는, 제조 방법.",
+            "refers_to": [
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 33 항에 있어서,\nHLA-Cw8 분자가 HLA-Cw*0802인, 제조 방법.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 32 항 내지 제 34 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 가변 영역;\n(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 가변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 32 항 내지 제 34 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) 서열번호 9의 아미노산 서열을 포함하는 α쇄 가변 영역;\n(b) 서열번호 10의 아미노산 서열을 포함하는 β쇄 가변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 32 항 내지 제 34 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 불변 영역; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 불변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 32 항 내지 제 34 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 α쇄 불변 영역; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 β쇄 불변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 32 항 내지 제 34 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 32 항 내지 제 34 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 α쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 β쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제32항 내지 제40항 중 어느 한 항에 정의된 T 세포 수용체의 기능성 부분을 포함하는 폴리펩티드를 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법으로서,\n상기 기능성 부분이 (a) 서열번호 3 내지 5, (b) 서열번호 6 내지 8, 또는 (c) 서열번호 3 내지 8의 아미노산 서열을 포함하는, 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 41 항에 있어서,\n폴리펩티드가\n(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열;\n(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 41 항에 있어서,\n폴리펩티드가\n(a) 서열번호 9의 아미노산 서열;\n(b) 서열번호 10의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 41 항 내지 제 43 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              41,
+              42,
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 41 항 내지 제 43 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              41,
+              42,
+              43
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 41 항 내지 제 43 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              41,
+              42,
+              43
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 41 항 내지 제 43 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              41,
+              42,
+              43
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제32항 내지 제40항 중 어느 한 항에 정의된 T 세포 수용체의 기능성 부분을 포함하는 단백질을 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법으로서,\n상기 기능성 부분이 (i) 서열번호 3 내지 5, (ii) 서열번호 6 내지 8, 또는 (iii) 서열번호 3 내지 8의 아미노산 서열을 포함하고, 상기 단백질이 (a) 서열번호 3 내지 5의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄, (b) 서열번호 6 내지 8의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄, 또는 (c) (a) 및 (b) 둘 다를 포함하는, 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 48 항에 있어서,\n단백질이\n(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              48
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 48 항에 있어서,\n단백질이\n(a) 서열번호 9의 아미노산 서열;\n(b) 서열번호 10의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              48
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 48 항 내지 제 50 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              48,
+              49,
+              50
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 48 항 내지 제 50 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              48,
+              49,
+              50
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 48 항 내지 제 50 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              48,
+              49,
+              50
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 48 항 내지 제 50 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              48,
+              49,
+              50
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 서열번호 9의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는 α쇄 가변 영역;\n(b) 서열번호 10의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는 β쇄 가변 영역;\n(c) 서열번호 9의 아미노산 20 내지 129와 95% 이상 동일한 아미노산 서열을 포함하는 α쇄 가변 영역;\n(d) 서열번호 10의 아미노산 22 내지 132와 95% 이상 동일한 아미노산 서열을 포함하는 β쇄 가변 영역;\n(e) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는 α쇄;\n(f) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는 β쇄;\n(g) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266과 95% 이상 동일한 아미노산 서열을 포함하는 α쇄;\n(h) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305와 95% 이상 동일한 아미노산 서열을 포함하는 β쇄; 또는\n(i) (a) 및 (b) 둘 다, (a) 및 (d) 둘 다, (b) 및 (c) 둘 다, (c) 및 (d) 둘 다, (e) 및 (f) 둘 다, (e) 및 (h) 둘 다, (f) 및 (g) 둘 다, 또는 (g) 및 (h) 둘 다\n를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 55 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              55
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 55 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 단백질로서, α쇄 가변 영역을 포함하는 제 1 폴리펩티드 쇄 및 β쇄 가변 영역을 포함하는 제 2 폴리펩티드 쇄를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              55
+            ]
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 55 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 단백질로서, α쇄를 포함하는 제 1 폴리펩티드 쇄 및 β쇄 를 포함하는 제 2 폴리펩티드 쇄를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              55
+            ]
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 55 항에 따른 단리되거나 정제된 T 세포 수용체, 제 56 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 57 항 또는 제 58 항에 따른 단리되거나 정제된 단백질을 암호화하는 단리되거나 정제된 핵산.",
+            "refers_to": [
+              55
+            ]
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 59 항에 따른 단리되거나 정제된 핵산을 포함하는 재조합 발현 벡터.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 60 항에 따른 재조합 발현 벡터를 포함하는, 단리되거나 정제된 숙주 세포.",
+            "refers_to": [
+              60
+            ]
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "2개 이상의 제 61 항에 따른 단리되거나 정제된 숙주 세포를 포함하는 숙주 세포 집단.",
+            "refers_to": [
+              61
+            ]
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 55 항에 따른 단리되거나 정제된 T 세포 수용체, 제 56 항에 따른 단리되거나 정제된 폴리펩티드, 제 57 항 또는 제 58 항에 따른 단리되거나 정제된 단백질, 제 59 항에 따른 단리되거나 정제된 핵산, 제 60 항에 따른 재조합 발현 벡터, 제 61 항에 따른 단리되거나 정제된 숙주 세포, 또는 제 62 항에 따른 숙주 세포 집단, 및 약학적으로 허용되는 담체를 포함하는 약학 조성물.",
+            "refers_to": [
+              55
+            ]
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "포유동물에서 암의 존재를 검출하는 방법에 사용되는 키트의 제조에 있어서, 제 55 항에 따른 단리되거나 정제된 T 세포 수용체, 제 56 항에 따른 단리되거나 정제된 폴리펩티드, 제 57 항 또는 제 58 항에 따른 단리되거나 정제된 단백질, 제 59 항에 따른 단리되거나 정제된 핵산, 제 60 항에 따른 재조합 발현 벡터, 제 61 항에 따른 단리되거나 정제된 숙주 세포, 제 62 항에 따른 숙주 세포 집단, 또는 제 63 항에 따른 약학 조성물의 용도.",
+            "refers_to": [
+              55
+            ]
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "포유동물에서 암의 치료 또는 예방용 약제의 제조에 있어서, 제 55 항에 따른 단리되거나 정제된 T 세포 수용체, 제 56 항에 따른 단리되거나 정제된 폴리펩티드, 제 57 항 또는 제 58 항에 따른 단리되거나 정제된 단백질, 제 59 항에 따른 단리되거나 정제된 핵산, 제 60 항에 따른 재조합 발현 벡터, 제 61 항에 따른 단리되거나 정제된 숙주 세포, 제 62 항에 따른 숙주 세포 집단, 또는 제 63 항에 따른 약학 조성물의 용도.",
+            "refers_to": [
+              55
+            ]
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 64 항 또는 제 65 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 용도.",
+            "refers_to": [
+              64,
+              65
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20240129",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 51,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(I) 서열번호 3의 아미노산 서열을 포함하는 α쇄 상보성 결정 영역(CDR)1, 서열번호 4의 아미노산 서열을 포함하는 α쇄 CDR2, 및 서열번호 5의 아미노산 서열을 포함하는 α쇄 CDR3; 및\n(II) 서열번호 6의 아미노산 서열을 포함하는 β쇄 CDR1, 서열번호 7의 아미노산 서열을 포함하는 β쇄 CDR2, 및 서열번호 8의 아미노산 서열을 포함하는 β쇄 CDR3\n을 포함하는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "T 세포 수용체의 기능성 부분을 포함하는 단리되거나 정제된 폴리펩티드로서, 상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "T 세포 수용체의 기능성 부분을 포함하는 단리되거나 정제된 단백질로서, 상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하고, 상기 단백질이 서열번호 3 내지 5의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄, 및 서열번호 6 내지 8의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체, 제 10 항 내지 제 12 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 17 항 내지 제 19 항 중 어느 한 항에 따른 단리되거나 정제된 단백질을 암호화하는, 단리되거나 정제된 핵산.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체, 제 10 항 내지 제 12 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 17 항 내지 제 19 항 중 어느 한 항에 따른 단리되거나 정제된 단백질, 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 24 항에 따른 단리되거나 정제된 핵산 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 25 항에 따른 재조합 발현 벡터 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 26 항에 따른 단리되거나 정제된 숙주 세포 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 27 항에 따른 단리되거나 숙주 세포 집단 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "포유동물에서 암의 존재를 검출하기 위한, 제 1 항 내지 제 3 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체, 제 10 항 내지 제 12 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 17 항 내지 제 19 항 중 어느 한 항에 따른 단리되거나 정제된 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "포유동물에서 암을 예방하거나 치료하기 위한, 제 1 항 내지 제 3 항 중 어느 한 항에 따른 단리되거나 정제된 T 세포 수용체, 제 10 항 내지 제 12 항 중 어느 한 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 17 항 내지 제 19 항 중 어느 한 항에 따른 단리되거나 정제된 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 34 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 T 세포 수용체, 단리되거나 정제된 폴리펩티드, 또는 단리되거나 정제된 단백질.",
+            "refers_to": [
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 서열번호 3의 아미노산 서열을 포함하는 α쇄 상보성 결정 영역(CDR)1, 서열번호 4의 아미노산 서열을 포함하는 α쇄 CDR2, 및 서열번호 5의 아미노산 서열을 포함하는 α쇄 CDR3; 및\n(b) 서열번호 6의 아미노산 서열을 포함하는 β쇄 CDR1, 서열번호 7의 아미노산 서열을 포함하는 β쇄 CDR2, 및 서열번호 8의 아미노산 서열을 포함하는 β쇄 CDR3\n을 포함하는 T 세포 수용체를 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 단리된 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항에 있어서,\nT 세포 수용체가 인간 백혈구 항원(HLA)-Cw8 분자에서 제공된 GADGVGKSA(서열번호 18)의 돌연변이 KRAS 아미노산 서열에 대한 항원 특이성을 갖는, 제조 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 37 항에 있어서,\nHLA-Cw8 분자가 HLA-Cw*0802인, 제조 방법.",
+            "refers_to": [
+              37
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항 내지 제 38 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 가변 영역;\n(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 가변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항 내지 제 38 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) 서열번호 9의 아미노산 서열을 포함하는 α쇄 가변 영역;\n(b) 서열번호 10의 아미노산 서열을 포함하는 β쇄 가변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항 내지 제 38 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 불변 영역; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 불변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항 내지 제 38 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 α쇄 불변 영역; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 β쇄 불변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항 내지 제 38 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항 내지 제 38 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 α쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 β쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "T 세포 수용체의 기능성 부분을 포함하는 폴리펩티드를 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 단리된 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법으로서,\n상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하는, 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 45 항에 있어서,\n폴리펩티드가\n(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열;\n(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 45 항에 있어서,\n폴리펩티드가\n(a) 서열번호 9의 아미노산 서열;\n(b) 서열번호 10의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 45 항 내지 제 47 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              45,
+              46,
+              47
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 45 항 내지 제 47 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              45,
+              46,
+              47
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 45 항 내지 제 47 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              45,
+              46,
+              47
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 45 항 내지 제 47 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              45,
+              46,
+              47
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "T 세포 수용체의 기능성 부분을 포함하는 단백질을 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 단리된 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법으로서,\n상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하고, 상기 단백질이 서열번호 3 내지 5의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄 및 서열번호 6 내지 8의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄를 포함하는, 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 52 항에 있어서,\n단백질이\n(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              52
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 52 항에 있어서,\n단백질이\n(a) 서열번호 9의 아미노산 서열;\n(b) 서열번호 10의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              52
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 52 항 내지 제 54 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              52,
+              53,
+              54
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 52 항 내지 제 54 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              52,
+              53,
+              54
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 52 항 내지 제 54 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              52,
+              53,
+              54
+            ]
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 52 항 내지 제 54 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              52,
+              53,
+              54
+            ]
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄 가변 영역으로서, 서열번호 9의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, α쇄 가변 영역, 및\n(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄 가변 영역으로서, 서열번호 10의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, β쇄 가변 영역;\n(b) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄 가변 영역으로서, 서열번호 9의 아미노산 20 내지 129와 95% 이상 동일한 아미노산 서열을 포함하는, α쇄 가변 영역, 및\n(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄 가변 영역으로서, 서열번호 10의 아미노산 22 내지 132와 95% 이상 동일한 아미노산 서열을 포함하는, β쇄 가변 영역;\n(c) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄로서, α쇄 가변 영역이 (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, α쇄, 및\n(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄로서, β쇄 가변 영역이 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, β쇄; 또는\n(d) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄로서, α쇄 가변 영역이 (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266과 95% 이상 동일한 아미노산 서열을 포함하는, α쇄, 및\n(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄로서, β쇄 가변 영역이 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305와 95% 이상 동일한 아미노산 서열을 포함하는 β쇄\n를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 59 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 59 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 단백질로서, α쇄 가변 영역을 포함하는 제 1 폴리펩티드 쇄 및 β쇄 가변 영역을 포함하는 제 2 폴리펩티드 쇄를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 59 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 단백질로서, α쇄를 포함하는 제 1 폴리펩티드 쇄 및 β쇄 를 포함하는 제 2 폴리펩티드 쇄를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 59 항에 따른 단리되거나 정제된 T 세포 수용체, 제 60 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 61 항 또는 제 62 항에 따른 단리되거나 정제된 단백질을 암호화하는 단리되거나 정제된 핵산.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 63 항에 따른 단리되거나 정제된 핵산을 포함하는 재조합 발현 벡터.",
+            "refers_to": [
+              63
+            ]
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 64 항에 따른 재조합 발현 벡터를 포함하는, 단리되거나 정제된 숙주 세포.",
+            "refers_to": [
+              64
+            ]
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "2개 이상의 제 65 항에 따른 단리되거나 정제된 숙주 세포를 포함하는 숙주 세포 집단.",
+            "refers_to": [
+              65
+            ]
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 59 항에 따른 단리되거나 정제된 T 세포 수용체, 제 60 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 61 항 또는 제 62 항에 따른 단리되거나 정제된 단백질, 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 63 항에 따른 단리되거나 정제된 핵산 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              63
+            ]
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 64 항에 따른 재조합 발현 벡터 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              64
+            ]
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 65 항에 따른 단리되거나 정제된 숙주 세포 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              65
+            ]
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 66 항에 따른 숙주 세포 집단 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              66
+            ]
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "포유동물에서 암의 존재를 검출하기 위한, 제 59 항에 따른 단리되거나 정제된 T 세포 수용체, 제 60 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 61 항 또는 제 62 항에 따른 단리되거나 정제된 단백질.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "포유동물에서 암을 예방하거나 치료하기 위한, 제 59 항에 따른 단리되거나 정제된 T 세포 수용체, 제 60 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 61 항 또는 제 62 항에 따른 단리되거나 정제된 단백질.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 73 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 T 세포 수용체, 단리되거나 정제된 폴리펩티드, 또는 단리되거나 정제된 단백질.",
+            "refers_to": [
+              73
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20241022",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 54,
+        "claims": [
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n포유동물에서 암의 존재를 검출하기 위한, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,\n포유동물에서 암의 존재를 검출하기 위한, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,\n포유동물에서 암의 존재를 검출하기 위한, 따른 단리되거나 정제된 단백질.",
+            "refers_to": [
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 36 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 10 항 내지 제 12 항 중 어느 한 항에 있어서,\n포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 38 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 17 항 내지 제 19 항 중 어느 한 항에 있어서,\n포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 40 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              40
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 서열번호 3의 아미노산 서열을 포함하는 α쇄 상보성 결정 영역(CDR)1, 서열번호 4의 아미노산 서열을 포함하는 α쇄 CDR2, 및 서열번호 5의 아미노산 서열을 포함하는 α쇄 CDR3; 및\n(b) 서열번호 6의 아미노산 서열을 포함하는 β쇄 CDR1, 서열번호 7의 아미노산 서열을 포함하는 β쇄 CDR2, 및 서열번호 8의 아미노산 서열을 포함하는 β쇄 CDR3\n을 포함하는 T 세포 수용체를 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 단리된 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 42 항에 있어서,\nT 세포 수용체가 인간 백혈구 항원(HLA)-Cw8 분자에서 제공된 GADGVGKSA(서열번호 18)의 돌연변이 KRAS 아미노산 서열에 대한 항원 특이성을 갖는, 제조 방법.",
+            "refers_to": [
+              42
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 43 항에 있어서,\nHLA-Cw8 분자가 HLA-Cw*0802인, 제조 방법.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 가변 영역;\n(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 가변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              42,
+              43,
+              44
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) 서열번호 9의 아미노산 서열을 포함하는 α쇄 가변 영역;\n(b) 서열번호 10의 아미노산 서열을 포함하는 β쇄 가변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              42,
+              43,
+              44
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄 불변 영역; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄 불변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              42,
+              43,
+              44
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 α쇄 불변 영역; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 β쇄 불변 영역; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              42,
+              43,
+              44
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 α쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 β쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              42,
+              43,
+              44
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 42 항 내지 제 44 항 중 어느 한 항에 있어서,\n재조합 발현 벡터가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 α쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 β쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 암호화하는 뉴클레오티드 서열을 포함하는, 제조 방법.",
+            "refers_to": [
+              42,
+              43,
+              44
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "T 세포 수용체의 기능성 부분을 포함하는 폴리펩티드를 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 단리된 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법으로서,\n상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하는, 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 51 항에 있어서,\n폴리펩티드가\n(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열;\n(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              51
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 51 항에 있어서,\n폴리펩티드가\n(a) 서열번호 9의 아미노산 서열;\n(b) 서열번호 10의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              51
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 51 항 내지 제 53 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              51,
+              52,
+              53
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 51 항 내지 제 53 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열; \n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              51,
+              52,
+              53
+            ]
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 51 항 내지 제 53 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              51,
+              52,
+              53
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 51 항 내지 제 53 항 중 어느 한 항에 있어서,\n폴리펩티드가\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 추가로 포함하는, 제조 방법.",
+            "refers_to": [
+              51,
+              52,
+              53
+            ]
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "T 세포 수용체의 기능성 부분을 포함하는 단백질을 암호화하는 뉴클레오티드 서열을 포함하는 재조합 발현 벡터를 단리된 인간 세포 집단에 도입하는 단계를 포함하는, 유전자 조작된 인간 세포 집단의 제조 방법으로서,\n상기 기능성 부분이 서열번호 3 내지 8의 아미노산 서열을 포함하고, 상기 단백질이 서열번호 3 내지 5의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄 및 서열번호 6 내지 8의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄를 포함하는, 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 58 항에 있어서,\n단백질이\n(a) 서열번호 9의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 10의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              58
+            ]
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 58 항에 있어서,\n단백질이\n(a) 서열번호 9의 아미노산 서열;\n(b) 서열번호 10의 아미노산 서열; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              58
+            ]
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 58 항 내지 제 60 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              58,
+              59,
+              60
+            ]
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 58 항 내지 제 60 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 11의 위치 48의 X가 Thr 또는 Cys이고; (ii) 서열번호 11의 위치 112의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 11의 위치 114의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 11의 위치 115의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 11의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 12의 위치 57의 X가 Ser 또는 Cys인 서열번호 12의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              58,
+              59,
+              60
+            ]
+          },
+          {
+            "claim_number": 63,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 58 항 내지 제 60 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 99% 이상 동일한 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              58,
+              59,
+              60
+            ]
+          },
+          {
+            "claim_number": 64,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 58 항 내지 제 60 항 중 어느 한 항에 있어서,\n단백질이\n(a) (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열을 포함하는 제 1 폴리펩티드 쇄;\n(b) 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열을 포함하는 제 2 폴리펩티드 쇄; 또는\n(c) (a) 및 (b) 둘 다\n를 포함하는, 제조 방법.",
+            "refers_to": [
+              58,
+              59,
+              60
+            ]
+          },
+          {
+            "claim_number": 65,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄 가변 영역으로서, 서열번호 9의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, α쇄 가변 영역, 및\n(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄 가변 영역으로서, 서열번호 10의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, β쇄 가변 영역;\n(b) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄 가변 영역으로서, 서열번호 9의 아미노산 20 내지 129와 95% 이상 동일한 아미노산 서열을 포함하는, α쇄 가변 영역, 및\n(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄 가변 영역으로서, 서열번호 10의 아미노산 22 내지 132와 95% 이상 동일한 아미노산 서열을 포함하는, β쇄 가변 영역;\n(c) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄로서, α쇄 가변 영역이 (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, α쇄, 및\n(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄로서, β쇄 가변 영역이 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 서열과 95% 이상 동일한 아미노산 서열을 포함하는, β쇄; 또는\n(d) (1) 서열번호 3 내지 5의 아미노산 서열을 포함하는 α쇄로서, α쇄 가변 영역이 (i) 서열번호 13의 위치 177의 X가 Thr 또는 Cys이고; (ii) 서열번호 13의 위치 241의 X가 Ser, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp이고; (iii) 서열번호 13의 위치 243의 X가 Met, Ala, Val, Leu, Ile, Pro, Phe 또는 Trp이고; (iv) 서열번호 13의 위치 244의 X가 Gly, Ala, Val, Leu, Ile, Pro, Phe, Met 또는 Trp인 서열번호 13의 아미노산 20 내지 266과 95% 이상 동일한 아미노산 서열을 포함하는, α쇄, 및\n(2) 서열번호 6 내지 8의 아미노산 서열을 포함하는 β쇄로서, β쇄 가변 영역이 서열번호 14의 위치 189의 X가 Ser 또는 Cys인 서열번호 14의 아미노산 22 내지 305와 95% 이상 동일한 아미노산 서열을 포함하는 β쇄\n를 포함하는, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 66,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 65 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              65
+            ]
+          },
+          {
+            "claim_number": 67,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 65 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 단백질로서, α쇄 가변 영역을 포함하는 제 1 폴리펩티드 쇄 및 β쇄 가변 영역을 포함하는 제 2 폴리펩티드 쇄를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              65
+            ]
+          },
+          {
+            "claim_number": 68,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 65 항에 따른 단리되거나 정제된 T 세포 수용체의 기능성 부분을 포함하는, 단리되거나 정제된 단백질로서, α쇄를 포함하는 제 1 폴리펩티드 쇄 및 β쇄 를 포함하는 제 2 폴리펩티드 쇄를 포함하는, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              65
+            ]
+          },
+          {
+            "claim_number": 69,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 65 항에 따른 단리되거나 정제된 T 세포 수용체, 제 66 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 67 항 또는 제 68 항에 따른 단리되거나 정제된 단백질을 암호화하는 단리되거나 정제된 핵산.",
+            "refers_to": [
+              65
+            ]
+          },
+          {
+            "claim_number": 70,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 69 항에 따른 단리되거나 정제된 핵산을 포함하는 재조합 발현 벡터.",
+            "refers_to": [
+              69
+            ]
+          },
+          {
+            "claim_number": 71,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 70 항에 따른 재조합 발현 벡터를 포함하는, 단리되거나 정제된 숙주 세포.",
+            "refers_to": [
+              70
+            ]
+          },
+          {
+            "claim_number": 72,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "2개 이상의 제 71 항에 따른 단리되거나 정제된 숙주 세포를 포함하는 숙주 세포 집단.",
+            "refers_to": [
+              71
+            ]
+          },
+          {
+            "claim_number": 73,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 65 항에 따른 단리되거나 정제된 T 세포 수용체, 제 66 항에 따른 단리되거나 정제된 폴리펩티드, 또는 제 67 항 또는 제 68 항에 따른 단리되거나 정제된 단백질, 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              65
+            ]
+          },
+          {
+            "claim_number": 74,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 69 항에 따른 단리되거나 정제된 핵산 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              69
+            ]
+          },
+          {
+            "claim_number": 75,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 70 항에 따른 재조합 발현 벡터 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              70
+            ]
+          },
+          {
+            "claim_number": 76,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 71 항에 따른 단리되거나 정제된 숙주 세포 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              71
+            ]
+          },
+          {
+            "claim_number": 77,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 72 항에 따른 숙주 세포 집단 및 약학적으로 허용되는 담체를 포함하는, 암을 예방하거나 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              72
+            ]
+          },
+          {
+            "claim_number": 78,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 65 항에 있어서,\n포유동물에서 암의 존재를 검출하기 위한, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              65
+            ]
+          },
+          {
+            "claim_number": 79,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 66 항에 있어서,\n포유동물에서 암의 존재를 검출하기 위한, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              66
+            ]
+          },
+          {
+            "claim_number": 80,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 67 항 또는 제 68 항에 있어서,\n포유동물에서 암의 존재를 검출하기 위한, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              67,
+              68
+            ]
+          },
+          {
+            "claim_number": 81,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 65 항에 있어서,\n포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              65
+            ]
+          },
+          {
+            "claim_number": 82,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 81 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 T 세포 수용체.",
+            "refers_to": [
+              81
+            ]
+          },
+          {
+            "claim_number": 83,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 66 항에 있어서,\n포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              66
+            ]
+          },
+          {
+            "claim_number": 84,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 83 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 폴리펩티드.",
+            "refers_to": [
+              83
+            ]
+          },
+          {
+            "claim_number": 85,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 67 항 또는 제 68 항에 있어서,\n포유동물에서 암을 예방하거나 치료하기 위한, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              67,
+              68
+            ]
+          },
+          {
+            "claim_number": 86,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 85 항에 있어서,\n암이 췌장암, 대장암, 폐암, 자궁내막암, 난소암 또는 전립선암인, 단리되거나 정제된 단백질.",
+            "refers_to": [
+              85
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 23,
+      "after_claim_count": 54,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020257025325"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2017.03.23",
+      "internationOpenNumber": "WO2017048593",
+      "internationalApplicationDate": "2016.09.09",
+      "internationalApplicationNumber": "PCT/US2016/050875"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국, 메릴랜드 *****, 베서스다, 엠에스 ****, 스위트 ***, **** 록리지 드라이브, 내셔널 인스티튜즈 오브 헬스, 오피스 오브 테크놀로지 트랜스퍼",
+      "code": "520130296804",
+      "country": "미국",
+      "engName": "The United States of America, as Represented by the Secretary, Department of Health and Human Services",
+      "name": "더 유나이티드 스테이츠 오브 어메리카, 애즈 리프리젠티드 바이 더 세크러테리, 디파트먼트 오브 헬쓰 앤드 휴먼 서비씨즈"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 메릴랜드주 ***** ...",
+        "code": "",
+        "country": "",
+        "engName": "TRAN, Eric",
+        "name": "트란 에릭"
+      },
+      {
+        "address": "미국 메릴랜드주 ***** 락...",
+        "code": "",
+        "country": "",
+        "engName": "LU, Yong-Chen",
+        "name": "루 용-천"
+      },
+      {
+        "address": "미국 메릴랜드주 *****...",
+        "code": "",
+        "country": "",
+        "engName": "ROSENBERG, Steven A.",
+        "name": "로젠버그 스티븐 에이"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 마방로 ** (양재동, 동원F&B빌딩)",
+      "code": "920101000812",
+      "country": "대한민국",
+      "engName": "FirstLaw P.C.",
+      "name": "제일특허법인(유)"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2015.09.15",
+      "priorityApplicationNumber": "62/218,688"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "PNAS, 112(3):779-784(2015)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "JP2014528714 A",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2018.04.12",
+        "receiptNumber": "1-1-2018-0363929-83"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2018.04.19",
+        "receiptNumber": "1-5-2018-0061275-19"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.09.09",
+        "receiptNumber": "1-1-2021-1043010-40"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2021.09.09",
+        "receiptNumber": "1-1-2021-1043020-07"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.12.10",
+        "receiptNumber": "4-1-2021-5323267-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.02.21",
+        "receiptNumber": "4-1-2022-5043040-07"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2023.11.28",
+        "receiptNumber": "9-5-2023-1070153-19"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.01.29",
+        "receiptNumber": "1-1-2024-0113497-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.01.29",
+        "receiptNumber": "1-1-2024-0113454-53"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2024.08.30",
+        "receiptNumber": "9-5-2024-0733262-16"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.10.22",
+        "receiptNumber": "1-1-2024-1149386-57"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.10.22",
+        "receiptNumber": "1-1-2024-1149333-48"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.04.28",
+        "receiptNumber": "9-5-2025-0406663-64"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2025.07.28",
+        "receiptNumber": "1-1-2025-0855692-40"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "등록지연에따른특허권존속기간연장등록출원서",
+        "receiptDate": "2025.08.01",
+        "receiptNumber": "1-1-2025-0877102-40"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020187010326.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c934719fa4b079319212ca49f831acfb143a1ddf16bc734a6600269f94aa734bf4d35e4180f9c6bb92321a9af17c7927313be0ae5e0e2437030",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf79bddb8025c59b6684afd521f8cd473bb98d1dccbb1fdb8526c4c94777112f080fe1509df7dd487f46197145b7fe9902109bf67f7e43c676"
+  },
+  "rndInfoArray": ""
+}

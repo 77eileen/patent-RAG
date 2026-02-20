@@ -1,0 +1,774 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.05.27",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7042877",
+      "claimCount": "15",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "유전자 변형된 T 세포의 생성 방법",
+      "inventionTitleEng": "METHOD FOR GENERATION OF GENETICALLY MODIFIED T CELLS",
+      "openDate": "2022.02.08",
+      "openNumber": "10-2022-0015452",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.05.26",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2021.12.28"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/86"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 유전자 변형된 T 세포를 생성하는 방법으로서, a) T 세포를 포함하는 샘플을 제공하는 단계, b) 상기 샘플을 원심 분리에 의해 제조하는 단계, c) T 세포를 농축시키는 단계, d) T 세포를 조절제를 사용하여 활성화시키는 단계, e) T 세포를 렌티바이러스 벡터 입자로의 형질도입에 의해 유전자 변형시키는 단계, f) 상기 조절제를 제거하는 단계를 포함하고, 이에 의해 유전자 변형된 T 세포의 샘플을 생성하고, 여기서 상기 방법은 144시간 이하, 120시간 미만, 96시간 미만, 72시간 미만, 48시간 미만, 또는 24시간 미만으로 수행되는 것인 방법을 제공한다. 본 발명의 일 실시양태에서, T 세포의 상기 농축은 CD4 및/또는 CD8에 특이적인 항체 또는 이의 항원 결합 단편에 직접적으로 또는 간접적으로 커플링된 자성 입자를 사용하는 자성 세포 분리에 의해 수행되고, 여기서 상기 자성 입자는 분리 후 세포로부터 제거될 수 있다."
+    }
+  },
+  "claims": {
+    "total_amendments": 1,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "유전자 변형된 T 세포를 생성하는 방법으로서, a) T 세포를 포함하는 샘플을 제공하는 단계b) 상기 샘플을 원심 분리에 의해 제조하는 단계c) 단계 b)의 T 세포를 농축시키는 단계d) 농축된 T 세포를 조절제를 사용하여 활성화시키는 단계e) 활성화된 T 세포를 렌티바이러스 벡터 입자로의 형질도입에 의해 유전자 변형시키는 단계f) 상기 조절제를 제거하는 단계를 포함하고, 이에 의해 유전자 변형된 T 세포의 샘플을 생성하고,여기서 상기 방법은 144시간 이하, 120시간 미만, 96시간 미만, 72시간 미만, 48시간 미만, 또는 24시간 미만으로 수행되는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 단계 a)의 상기 샘플이 인간 혈청을 포함하고, 상기 혈청이 단계 b)에서 제거되는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, T 세포가 단계 c)에서 양성 선별 마커로서 CD4 및/또는 CD8를 사용하여 CD4 및/또는 CD8 양성 T 세포에 대해 농축되고/되거나 음성 선별 마커로서 종양 관련된 항원 (TAA)을 사용하여 암세포가 고갈되는 것인 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, CD4 및/또는 CD8 양성 T 세포의 상기 농축이 i) T 세포를 CD4 및/또는 CD8에 특이적인 항체 또는 이의 항원 결합 단편에 직접적으로 또는 간접적으로 커플링된 자성 입자와 접촉시키는 단계로서, 여기서 상기 자성 입자 및 이에 커플링된 상기 항체 또는 이의 항원 결합 단편은 제거될 수 있는 단계,ii) CD4 및/또는 CD8 T 세포를 자기장에서 분리시키는 단계iii) 분리 후 농축된 T 세포로부터 상기 자성 입자를 제거시키는 단계를 포함하는 자성 세포 분리 단계에 의해 수행되는 것인 방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, CD4 및/또는 CD8 양성 T 세포의 상기 농축이 i) T 세포를 CD4 및/또는 CD8에 특이적인 항체 또는 이의 항원 결합 단편에 직접적으로 또는 간접적으로 커플링된 자성 입자와 접촉시키는 단계로서, 여기서 상기 자성 입자 및 이에 커플링된 상기 항체 또는 이의 항원 결합 단편은 화학적으로 및/또는 효소적으로 파괴될 수 있는 단계ii) CD4 및/또는 CD8 T 세포를 자기장에서 분리시키는 단계iii) 분리 단계 후 상기 자성 입자 및 이에 커플링된 상기 항체 또는 이의 항원 결합 단편의 화학적 및/또는 효소적 파괴에 의해 농축된 T 세포로부터 상기 자성 입자를 제거시키는 단계를 포함하는 자성 세포 분리 단계에 의해 수행되는 것인 방법.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 조절제가 링커를 통해 직접적으로 또는 간접적으로 커플링된 CD3에 특이적인 항체 또는 이의 항원 결합 단편 및/또는 CD28에 특이적인 항체 또는 이의 항원 결합 단편을 포함하고, CD3 및 CD28에 특이적인 상기 항체 또는 이의 항원 결합 단편이 제거될 수 있는 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 조절제가 링커를 통해 직접적으로 또는 간접적으로 커플링된 CD3에 특이적인 항체 또는 이의 항원 결합 단편 및/또는 CD28에 특이적인 항체 또는 이의 항원 결합 단편을 포함하고, CD3 및 CD28에 특이적인 상기 항체 또는 이의 항원 결합 단편이 화학적으로 및/또는 효소적으로 파괴될 수 있고, 상기 조절제가 CD3 및 CD28에 특이적인 상기 항체 또는 이의 항원 결합 단편의 화학적 및/또는 효소적 파괴에 의해 제거되는 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 상기 조절제가 생분해성 링커를 통해 직접적으로 커플링된 CD3에 특이적인 항체 또는 이의 항원 결합 단편 및/또는 CD28에 특이적인 항체 또는 이의 항원 결합 단편을 포함하고, 상기 생분해성 링커가 상기 생분해성 링커의 글리코시드 연결을 특이적으로 다이제스팅하는 효소를 첨가함으로써 분해되는 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 상기 분해성 링커가 다당류이거나 이를 포함하고, 글리코시드 연결을 특이적으로 다이제스팅하는 상기 효소가 히드롤라제인 방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 렌티바이러스 벡터 입자로의 형질도입에 의한 T 세포의 유전적 변형 후, 잔여 렌티바이러스 벡터 입자가 제거되는 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 잔여 렌티바이러스 벡터 입자의 상기 제거가 세척에 의해 수행되고, 상기 세척으로 유전자 변형된 T 세포를 포함하는 샘플에서 잔여 벡터 입자가 적어도 10배, 바람직하게는 100배 감소하는 것인 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 잔여 렌티바이러스 벡터 입자의 상기 제거가 렌티바이러스 벡터 입자를 비활성화시키고/시키거나 그들의 안정성을 감소시키는 물질과의 인큐베이션에 의해 수행되는 것인 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 렌티바이러스 벡터 입자의 T 세포로의 생산적 형질도입을 억제하는 제3항의 제거된 인간 혈청 또는 이로부터 단리된 물질이 유전자 변형된 T 세포에 첨가되고, 이에 의해 잔여 렌티바이러스 벡터 입자를 제거 및/또는 중화시키는 것인 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 방법이 폐쇄 시스템에서 수행되는 자동화된 방법인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제14항 중 어느 한 항에 있어서, 상기 생성된 샘플 중의 T 세포의 수가 상기 제공된 샘플 중의 T 세포의 수와 비교하여 10배 미만으로 더 높은 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "유전자 변형된 T 세포를 생성하는 방법으로서, a) T 세포를 포함하는 샘플을 제공하는 단계b) 상기 샘플을 원심 분리에 의해 제조하는 단계c) 단계 b)의 T 세포를 농축시키는 단계d) 농축된 T 세포를 조절제를 사용하여 활성화시키는 단계e) 활성화된 T 세포를 렌티바이러스 벡터 입자로의 형질도입에 의해 유전자 변형시키는 단계f) 상기 조절제를 제거하는 단계를 포함하고, 이에 의해 유전자 변형된 T 세포의 샘플을 생성하고,여기서 상기 방법은 144시간 이하, 120시간 미만, 96시간 미만, 72시간 미만, 48시간 미만, 또는 24시간 미만으로 수행되는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 단계 a)의 상기 샘플이 인간 혈청을 포함하고, 상기 혈청이 단계 b)에서 제거되는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, T 세포가 단계 c)에서 양성 선별 마커로서 CD4 및/또는 CD8를 사용하여 CD4 및/또는 CD8 양성 T 세포에 대해 농축되고/되거나 음성 선별 마커로서 종양 관련된 항원 (TAA)을 사용하여 암세포가 고갈되는 것인 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, CD4 및/또는 CD8 양성 T 세포의 상기 농축이 i) T 세포를 CD4 및/또는 CD8에 특이적인 항체 또는 이의 항원 결합 단편에 직접적으로 또는 간접적으로 커플링된 자성 입자와 접촉시키는 단계로서, 여기서 상기 자성 입자 및 이에 커플링된 상기 항체 또는 이의 항원 결합 단편은 제거될 수 있는 단계,ii) CD4 및/또는 CD8 T 세포를 자기장에서 분리시키는 단계iii) 분리 후 농축된 T 세포로부터 상기 자성 입자를 제거시키는 단계를 포함하는 자성 세포 분리 단계에 의해 수행되는 것인 방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, CD4 및/또는 CD8 양성 T 세포의 상기 농축이 i) T 세포를 CD4 및/또는 CD8에 특이적인 항체 또는 이의 항원 결합 단편에 직접적으로 또는 간접적으로 커플링된 자성 입자와 접촉시키는 단계로서, 여기서 상기 자성 입자 및 이에 커플링된 상기 항체 또는 이의 항원 결합 단편은 화학적으로 및/또는 효소적으로 파괴될 수 있는 단계ii) CD4 및/또는 CD8 T 세포를 자기장에서 분리시키는 단계iii) 분리 단계 후 상기 자성 입자 및 이에 커플링된 상기 항체 또는 이의 항원 결합 단편의 화학적 및/또는 효소적 파괴에 의해 농축된 T 세포로부터 상기 자성 입자를 제거시키는 단계를 포함하는 자성 세포 분리 단계에 의해 수행되는 것인 방법.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 조절제가 링커를 통해 직접적으로 또는 간접적으로 커플링된 CD3에 특이적인 항체 또는 이의 항원 결합 단편 및/또는 CD28에 특이적인 항체 또는 이의 항원 결합 단편을 포함하고, CD3 및 CD28에 특이적인 상기 항체 또는 이의 항원 결합 단편이 제거될 수 있는 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 조절제가 링커를 통해 직접적으로 또는 간접적으로 커플링된 CD3에 특이적인 항체 또는 이의 항원 결합 단편 및/또는 CD28에 특이적인 항체 또는 이의 항원 결합 단편을 포함하고, CD3 및 CD28에 특이적인 상기 항체 또는 이의 항원 결합 단편이 화학적으로 및/또는 효소적으로 파괴될 수 있고, 상기 조절제가 CD3 및 CD28에 특이적인 상기 항체 또는 이의 항원 결합 단편의 화학적 및/또는 효소적 파괴에 의해 제거되는 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 상기 조절제가 생분해성 링커를 통해 직접적으로 커플링된 CD3에 특이적인 항체 또는 이의 항원 결합 단편 및/또는 CD28에 특이적인 항체 또는 이의 항원 결합 단편을 포함하고, 상기 생분해성 링커가 상기 생분해성 링커의 글리코시드 연결을 특이적으로 다이제스팅하는 효소를 첨가함으로써 분해되는 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 상기 분해성 링커가 다당류이거나 이를 포함하고, 글리코시드 연결을 특이적으로 다이제스팅하는 상기 효소가 히드롤라제인 방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 렌티바이러스 벡터 입자로의 형질도입에 의한 T 세포의 유전적 변형 후, 잔여 렌티바이러스 벡터 입자가 제거되는 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 잔여 렌티바이러스 벡터 입자의 상기 제거가 세척에 의해 수행되고, 상기 세척으로 유전자 변형된 T 세포를 포함하는 샘플에서 잔여 벡터 입자가 적어도 10배, 바람직하게는 100배 감소하는 것인 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 잔여 렌티바이러스 벡터 입자의 상기 제거가 렌티바이러스 벡터 입자를 비활성화시키고/시키거나 그들의 안정성을 감소시키는 물질과의 인큐베이션에 의해 수행되는 것인 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 렌티바이러스 벡터 입자의 T 세포로의 생산적 형질도입을 억제하는 제3항의 제거된 인간 혈청 또는 이로부터 단리된 물질이 유전자 변형된 T 세포에 첨가되고, 이에 의해 잔여 렌티바이러스 벡터 입자를 제거 및/또는 중화시키는 것인 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 방법이 폐쇄 시스템에서 수행되는 자동화된 방법인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제14항 중 어느 한 항에 있어서, 상기 생성된 샘플 중의 T 세포의 수가 상기 제공된 샘플 중의 T 세포의 수와 비교하여 10배 미만으로 더 높은 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "",
+        "document_name": "원본 (변동이력 없음)",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "유전자 변형된 T 세포를 생성하는 방법으로서, a) T 세포를 포함하는 샘플을 제공하는 단계b) 상기 샘플을 원심 분리에 의해 제조하는 단계c) 단계 b)의 T 세포를 농축시키는 단계d) 농축된 T 세포를 조절제를 사용하여 활성화시키는 단계e) 활성화된 T 세포를 렌티바이러스 벡터 입자로의 형질도입에 의해 유전자 변형시키는 단계f) 상기 조절제를 제거하는 단계를 포함하고, 이에 의해 유전자 변형된 T 세포의 샘플을 생성하고,여기서 상기 방법은 144시간 이하, 120시간 미만, 96시간 미만, 72시간 미만, 48시간 미만, 또는 24시간 미만으로 수행되는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 단계 a)의 상기 샘플이 인간 혈청을 포함하고, 상기 혈청이 단계 b)에서 제거되는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, T 세포가 단계 c)에서 양성 선별 마커로서 CD4 및/또는 CD8를 사용하여 CD4 및/또는 CD8 양성 T 세포에 대해 농축되고/되거나 음성 선별 마커로서 종양 관련된 항원 (TAA)을 사용하여 암세포가 고갈되는 것인 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, CD4 및/또는 CD8 양성 T 세포의 상기 농축이 i) T 세포를 CD4 및/또는 CD8에 특이적인 항체 또는 이의 항원 결합 단편에 직접적으로 또는 간접적으로 커플링된 자성 입자와 접촉시키는 단계로서, 여기서 상기 자성 입자 및 이에 커플링된 상기 항체 또는 이의 항원 결합 단편은 제거될 수 있는 단계,ii) CD4 및/또는 CD8 T 세포를 자기장에서 분리시키는 단계iii) 분리 후 농축된 T 세포로부터 상기 자성 입자를 제거시키는 단계를 포함하는 자성 세포 분리 단계에 의해 수행되는 것인 방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, CD4 및/또는 CD8 양성 T 세포의 상기 농축이 i) T 세포를 CD4 및/또는 CD8에 특이적인 항체 또는 이의 항원 결합 단편에 직접적으로 또는 간접적으로 커플링된 자성 입자와 접촉시키는 단계로서, 여기서 상기 자성 입자 및 이에 커플링된 상기 항체 또는 이의 항원 결합 단편은 화학적으로 및/또는 효소적으로 파괴될 수 있는 단계ii) CD4 및/또는 CD8 T 세포를 자기장에서 분리시키는 단계iii) 분리 단계 후 상기 자성 입자 및 이에 커플링된 상기 항체 또는 이의 항원 결합 단편의 화학적 및/또는 효소적 파괴에 의해 농축된 T 세포로부터 상기 자성 입자를 제거시키는 단계를 포함하는 자성 세포 분리 단계에 의해 수행되는 것인 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 조절제가 링커를 통해 직접적으로 또는 간접적으로 커플링된 CD3에 특이적인 항체 또는 이의 항원 결합 단편 및/또는 CD28에 특이적인 항체 또는 이의 항원 결합 단편을 포함하고, CD3 및 CD28에 특이적인 상기 항체 또는 이의 항원 결합 단편이 제거될 수 있는 것인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 조절제가 링커를 통해 직접적으로 또는 간접적으로 커플링된 CD3에 특이적인 항체 또는 이의 항원 결합 단편 및/또는 CD28에 특이적인 항체 또는 이의 항원 결합 단편을 포함하고, CD3 및 CD28에 특이적인 상기 항체 또는 이의 항원 결합 단편이 화학적으로 및/또는 효소적으로 파괴될 수 있고, 상기 조절제가 CD3 및 CD28에 특이적인 상기 항체 또는 이의 항원 결합 단편의 화학적 및/또는 효소적 파괴에 의해 제거되는 것인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 상기 조절제가 생분해성 링커를 통해 직접적으로 커플링된 CD3에 특이적인 항체 또는 이의 항원 결합 단편 및/또는 CD28에 특이적인 항체 또는 이의 항원 결합 단편을 포함하고, 상기 생분해성 링커가 상기 생분해성 링커의 글리코시드 연결을 특이적으로 다이제스팅하는 효소를 첨가함으로써 분해되는 것인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, 상기 분해성 링커가 다당류이거나 이를 포함하고, 글리코시드 연결을 특이적으로 다이제스팅하는 상기 효소가 히드롤라제인 방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 렌티바이러스 벡터 입자로의 형질도입에 의한 T 세포의 유전적 변형 후, 잔여 렌티바이러스 벡터 입자가 제거되는 것인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 잔여 렌티바이러스 벡터 입자의 상기 제거가 세척에 의해 수행되고, 상기 세척으로 유전자 변형된 T 세포를 포함하는 샘플에서 잔여 벡터 입자가 적어도 10배, 바람직하게는 100배 감소하는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 잔여 렌티바이러스 벡터 입자의 상기 제거가 렌티바이러스 벡터 입자를 비활성화시키고/시키거나 그들의 안정성을 감소시키는 물질과의 인큐베이션에 의해 수행되는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 렌티바이러스 벡터 입자의 T 세포로의 생산적 형질도입을 억제하는 제3항의 제거된 인간 혈청 또는 이로부터 단리된 물질이 유전자 변형된 T 세포에 첨가되고, 이에 의해 잔여 렌티바이러스 벡터 입자를 제거 및/또는 중화시키는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 상기 방법이 폐쇄 시스템에서 수행되는 자동화된 방법인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제14항 중 어느 한 항에 있어서, 상기 생성된 샘플 중의 T 세포의 수가 상기 제공된 샘플 중의 T 세포의 수와 비교하여 10배 미만으로 더 높은 것인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 15,
+      "after_claim_count": 15,
+      "total_versions": 1
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.12.03",
+      "internationOpenNumber": "WO2020239866",
+      "internationalApplicationDate": "2020.05.27",
+      "internationalApplicationNumber": "PCT/EP2020/064755"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "독일 베르기쉬 글라드바흐 ***** 프리드리히 에베르트 스트라쎄 **",
+      "code": "520200123170",
+      "country": "독일",
+      "engName": "Miltenyi Biotec B.V. & Co. KG",
+      "name": "밀테니 비오텍 비.브이. & 씨오. 케이지"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "독일, 베르기쉬 글라드바흐 *****, 프리드리히...",
+        "code": "",
+        "country": "",
+        "engName": "SCHASER, Thomas",
+        "name": "샤저 토마스"
+      },
+      {
+        "address": "독일, 베르기쉬 글라드바흐 *****, 프리드리히...",
+        "code": "",
+        "country": "",
+        "engName": "KAISER, Andrew",
+        "name": "카이저 안드류"
+      },
+      {
+        "address": "독일, 베르기쉬 글라드바흐 *****, 프리드리히...",
+        "code": "",
+        "country": "",
+        "engName": "ASSENMACHER, Mario",
+        "name": "아쎈마허 마리오"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 테헤란로 *** (역삼동) 서관 ***,***호(테라아이피씨특허법률사무소)",
+      "code": "919990002251",
+      "country": "대한민국",
+      "engName": "Kim Ae Ra",
+      "name": "김애라"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "유럽특허청(EPO)",
+      "priorityApplicationDate": "2019.05.28",
+      "priorityApplicationNumber": "19176957.9"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.12.28",
+        "receiptNumber": "1-1-2021-1514891-51"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2022.01.03",
+        "receiptNumber": "1-5-2022-0000483-74"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.05.26",
+        "receiptNumber": "1-1-2023-0585447-91"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.27",
+        "receiptNumber": "9-5-2025-1034387-10"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217042877.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c930d444d5d3f0367fd9cfd97598d99e000a49e1434f6354066fd6183da59b5347b4f5bad25aff570b13da406599766fb600509d716f02dde3b",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf3357957a3d6eb8eb8d348e367542e18ba4e83515bdd1f7b22b2f14d1e1e84d8584bb884d19a267238c91959f8f7737da720cb328ade520fb"
+  },
+  "rndInfoArray": ""
+}

@@ -1,0 +1,986 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2021.05.08",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-0059618",
+      "claimCount": "13",
+      "examinerName": "이재정",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "엽산 접합 아미노클레이를 기반으로 하는 표적 선택적 나노복합체, 이의 제조 방법 및 이의 용도",
+      "inventionTitleEng": "Folic acid-conjugated aminoclay based nanocomposites  for the site-specific drug delivery, method for their  preparation and their use",
+      "openDate": "",
+      "openNumber": "",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2021.05.08",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.12.21",
+      "publicationNumber": "",
+      "registerDate": "2021.12.15",
+      "registerNumber": "10-2341044-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/69"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/54"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/52"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/32"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 9/00"
+      },
+      {
+        "ipcDate": "(2023.01.01)",
+        "ipcNumber": "A61P 29/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 1/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 엽산 접합 아미노클레이(FA-AC)를 기반으로 하는 표적 선택적 나노복합체, 이의 제조 방법 및 이의 용도에 대한 것이다. 본 발명에서는 엽산 접합 아미노클레이를 약물과 결합시켜 나노복합체를 형성함으로써 표적 선택성을 높이고, 나아가 상기 나노복합체를 pH 감응성 고분자로 표면 코팅함으로써 탑재된 약물의 위장관내에서의 안정성을 개선시킨 결과, 약물의 치료효과를 현저하게 향상시킬 수 있다. 본 발명의 나노복합체는 엽산 수용체를 표적으로 하므로, 엽산 수용체가 과발현되는 염증성 질환이나 암의 예방 및 치료에 효과적인 약물 전달체로서 응용될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020210059618",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210508",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "엽산과 아미노클레이가 결합된 엽산 접합 아미노클레이(folic acid-conjugated aminoclay: FA-AC), 및 \n이에 결합된 약물\n을 포함하는, FA-AC 기반 나노복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \n아미노클레이는 3-아미노프로필 관능기로 치환된 마그네슘 필로실리케이트(3-aminopropyl functionalized magnesium phyllosilicate)인, FA-AC 기반 나노복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n약물은 단백질 의약품, 펩타이드 의약품, DNA, RNA, 항체치료제, 면역항암제, 또는 저분자 의약품인, FA-AC 기반 나노복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서,\n약물은 인플릭시맙(infliximab)인, FA-AC 기반 나노복합체.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 따른 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 약물 전달용 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, \n경구, 주사, 구강, 비강, 설하, 폐, 또는 피부로 투여되는, 약물 전달용 조성물.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 따른 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 염증성 질환 또는 암을 예방 또는 치료하기 위한 약학 조성물",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 염증성 질환은 궤양성 대장염인 약학 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 따른 FA-AC 기반 나노복합체에 pH 감응성 고분자가 코팅된, pH 감응형 FA-AC 기반 나노복합체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서,\npH 감응성 고분자는 폴리(메타크릴산-코-메틸 아크릴레이트) 공중합체(poly(methacrylic acid-co-methyl acrylate) copolymers)인, pH-감응형 FA-AC 기반 나노복합체.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서,\npH 감응성 고분자는 유드라짓® S100(Eudragit® S100)인, pH-감응형 FA-AC 기반 나노복합체.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 따른 pH-감응형 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 경구 투여용 약학 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 엽산과 아미노클레이를 결합시켜 엽산 접합 아미노클레이(folic acid-conjugated aminoclay: FA-AC)를 제조하는 단계; 및\n(b) 상기 엽산 접합 아미노클레이에 약물을 결합시켜 FA-AC 기반 나노복합체를 제조하는 단계\n를 포함하는, FA-AC 기반 나노복합체의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서,\n아미노클레이는 3-아미노프로필 관능기로 치환된 마그네슘 필로실리케이트인, FA-AC 기반 나노복합체의 제조방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서,\n약물은 단백질 의약품, 펩타이드 의약품, DNA, RNA, 항체치료제, 면역항암제, 또는 저분자 의약품인, FA-AC 기반 나노복합체의 제조방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서\n(c) FA-AC 기반 나노복합체를 pH 감응성 고분자로 코팅하는 단계를 추가로 포함하는, FA-AC 기반 나노복합체의 제조방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서,\npH 감응성 고분자는 폴리(메타크릴산-코-메틸 아크릴레이트) 공중합체인, pH-감응형 FA-AC 기반 나노복합체.",
+          "refers_to": [
+            16
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20210929",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "엽산과 아미노클레이가 결합된 엽산 접합 아미노클레이(folic acid-conjugated aminoclay: FA-AC), 및 이에 결합된 약물을 포함하며, 상기 아미노클레이는 3-아미노프로필 관능기로 치환된 마그네슘 필로실리케이트(3-aminopropyl functionalized magnesium phyllosilicate)이고, 상기 약물은 항체 치료제인,FA-AC 기반 나노복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,항체 치료제는 인플릭시맙(infliximab)인, FA-AC 기반 나노복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제4항에 따른 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 약물 전달용 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, 경구, 주사, 구강, 비강, 설하, 폐, 또는 피부로 투여되는, 약물 전달용 조성물.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제4항에 따른 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 염증성 질환을 예방 또는 치료하기 위한 약학 조성물",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 염증성 질환은 궤양성 대장염인 약학 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제4항에 따른 FA-AC 기반 나노복합체에 pH 감응성 고분자가 코팅되고, 상기 pH 감응성 고분자는 폴리(메타크릴산-코-메틸 아크릴레이트) 공중합체(poly(methacrylic acid-co-methyl acrylate) copolymers)인, pH 감응형 FA-AC 기반 나노복합체.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서,pH 감응성 고분자는 유드라짓� S100(Eudragit� S100)인, pH-감응형 FA-AC 기반 나노복합체.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 따른 pH-감응형 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 염증성 질환을 예방 또는 치료하기 위한 경구 투여용 약학 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 엽산과 아미노클레이를 결합시켜 엽산 접합 아미노클레이(folic acid-conjugated aminoclay: FA-AC)를 제조하는 단계; 및(b) 상기 엽산 접합 아미노클레이에 약물을 결합시켜 FA-AC 기반 나노복합체를 제조하는 단계를 포함하며, 상기 아미노클레이는 3-아미노프로필 관능기로 치환된 마그네슘 필로실리케이트이고, 상기 약물은 항체 치료제인,FA-AC 기반 나노복합체의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서,항체 치료제는 인플릭시맙인, FA-AC 기반 나노복합체의 제조방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항 또는 제15항에 있어서(c) FA-AC 기반 나노복합체를 pH 감응성 고분자로 코팅하는 단계를 추가로 포함하며, 상기 pH 감응성 고분자는 폴리(메타크릴산-코-메틸 아크릴레이트) 공중합체인, FA-AC 기반 나노복합체의 제조방법.",
+          "refers_to": [
+            13,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서,pH 감응성 고분자는 유드라짓� S100인, pH-감응형 FA-AC 기반 나노복합체의 제조방법.",
+          "refers_to": [
+            16
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210508",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 17,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "엽산과 아미노클레이가 결합된 엽산 접합 아미노클레이(folic acid-conjugated aminoclay: FA-AC), 및 \n이에 결합된 약물\n을 포함하는, FA-AC 기반 나노복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \n아미노클레이는 3-아미노프로필 관능기로 치환된 마그네슘 필로실리케이트(3-aminopropyl functionalized magnesium phyllosilicate)인, FA-AC 기반 나노복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n약물은 단백질 의약품, 펩타이드 의약품, DNA, RNA, 항체치료제, 면역항암제, 또는 저분자 의약품인, FA-AC 기반 나노복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서,\n약물은 인플릭시맙(infliximab)인, FA-AC 기반 나노복합체.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 따른 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 약물 전달용 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, \n경구, 주사, 구강, 비강, 설하, 폐, 또는 피부로 투여되는, 약물 전달용 조성물.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 따른 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 염증성 질환 또는 암을 예방 또는 치료하기 위한 약학 조성물",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 염증성 질환은 궤양성 대장염인 약학 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 따른 FA-AC 기반 나노복합체에 pH 감응성 고분자가 코팅된, pH 감응형 FA-AC 기반 나노복합체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서,\npH 감응성 고분자는 폴리(메타크릴산-코-메틸 아크릴레이트) 공중합체(poly(methacrylic acid-co-methyl acrylate) copolymers)인, pH-감응형 FA-AC 기반 나노복합체.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서,\npH 감응성 고분자는 유드라짓® S100(Eudragit® S100)인, pH-감응형 FA-AC 기반 나노복합체.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 따른 pH-감응형 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 경구 투여용 약학 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 엽산과 아미노클레이를 결합시켜 엽산 접합 아미노클레이(folic acid-conjugated aminoclay: FA-AC)를 제조하는 단계; 및\n(b) 상기 엽산 접합 아미노클레이에 약물을 결합시켜 FA-AC 기반 나노복합체를 제조하는 단계\n를 포함하는, FA-AC 기반 나노복합체의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서,\n아미노클레이는 3-아미노프로필 관능기로 치환된 마그네슘 필로실리케이트인, FA-AC 기반 나노복합체의 제조방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서,\n약물은 단백질 의약품, 펩타이드 의약품, DNA, RNA, 항체치료제, 면역항암제, 또는 저분자 의약품인, FA-AC 기반 나노복합체의 제조방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서\n(c) FA-AC 기반 나노복합체를 pH 감응성 고분자로 코팅하는 단계를 추가로 포함하는, FA-AC 기반 나노복합체의 제조방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서,\npH 감응성 고분자는 폴리(메타크릴산-코-메틸 아크릴레이트) 공중합체인, pH-감응형 FA-AC 기반 나노복합체.",
+            "refers_to": [
+              16
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20210929",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "엽산과 아미노클레이가 결합된 엽산 접합 아미노클레이(folic acid-conjugated aminoclay: FA-AC), 및 \n이에 결합된 약물\n을 포함하며, \n상기 아미노클레이는 3-아미노프로필 관능기로 치환된 마그네슘 필로실리케이트(3-aminopropyl functionalized magnesium phyllosilicate)이고, \n상기 약물은 항체 치료제인,\nFA-AC 기반 나노복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n항체 치료제는 인플릭시맙(infliximab)인, FA-AC 기반 나노복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제4항에 따른 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 약물 전달용 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제4항에 따른 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 염증성 질환을 예방 또는 치료하기 위한 약학 조성물",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제4항에 따른 FA-AC 기반 나노복합체에 pH 감응성 고분자가 코팅되고, \n상기 pH 감응성 고분자는 폴리(메타크릴산-코-메틸 아크릴레이트) 공중합체(poly(methacrylic acid-co-methyl acrylate) copolymers)인, \npH 감응형 FA-AC 기반 나노복합체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서,\npH 감응성 고분자는 유드라짓® S100(Eudragit® S100)인, pH-감응형 FA-AC 기반 나노복합체.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 따른 pH-감응형 FA-AC 기반 나노복합체를 유효성분으로 포함하는, 염증성 질환을 예방 또는 치료하기 위한 경구 투여용 약학 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 엽산과 아미노클레이를 결합시켜 엽산 접합 아미노클레이(folic acid-conjugated aminoclay: FA-AC)를 제조하는 단계; 및\n(b) 상기 엽산 접합 아미노클레이에 약물을 결합시켜 FA-AC 기반 나노복합체를 제조하는 단계\n를 포함하며, \n상기 아미노클레이는 3-아미노프로필 관능기로 치환된 마그네슘 필로실리케이트이고, \n상기 약물은 항체 치료제인,\nFA-AC 기반 나노복합체의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서,\n항체 치료제는 인플릭시맙인, FA-AC 기반 나노복합체의 제조방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 또는 제15항에 있어서\n(c) FA-AC 기반 나노복합체를 pH 감응성 고분자로 코팅하는 단계를 추가로 포함하며, \n상기 pH 감응성 고분자는 폴리(메타크릴산-코-메틸 아크릴레이트) 공중합체인, \nFA-AC 기반 나노복합체의 제조방법.",
+            "refers_to": [
+              13,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서,\npH 감응성 고분자는 유드라짓® S100인, pH-감응형 FA-AC 기반 나노복합체의 제조방법.",
+            "refers_to": [
+              16
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 17,
+      "after_claim_count": 15,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 중구...",
+      "code": "220060081783",
+      "country": "대한민국",
+      "engName": "Dongguk University Industry-Academic Cooperation Foundation",
+      "name": "동국대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 강남구...",
+        "code": "",
+        "country": "",
+        "engName": "Han, Hyo-Kyung",
+        "name": "한효경"
+      },
+      {
+        "address": "제주특별자치도 제주시 구...",
+        "code": "",
+        "country": "",
+        "engName": "Lee, Sang Hoon",
+        "name": "이상훈"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 선릉로***, *층(삼성동, 삼릉빌딩)",
+      "code": "920201001611",
+      "country": "대한민국",
+      "engName": "THEWAVE IP LAW FIRM",
+      "name": "특허법인더웨이브"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "JP2011256186 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020200052819 A",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2021.05.08",
+        "receiptNumber": "1-1-2021-0533657-40"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[우선심사신청]심사청구서·우선심사신청서",
+        "receiptDate": "2021.05.10",
+        "receiptNumber": "1-1-2021-0538291-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Preferential Examination] Request for Prior Art Search",
+        "documentName": "[우선심사신청]선행기술조사의뢰서",
+        "receiptDate": "2021.05.12",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Preferential Examination] Report of Prior Art Search",
+        "documentName": "[우선심사신청]선행기술조사보고서",
+        "receiptDate": "2021.05.13",
+        "receiptNumber": "9-1-2021-0006945-21"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.07.29",
+        "receiptNumber": "9-5-2021-0599962-32"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2021.08.19",
+        "receiptNumber": "1-1-2021-0957628-59"
+      },
+      {
+        "commonCodeName": "무효 (Invalidation)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.09.28",
+        "receiptNumber": "1-1-2021-1115719-13"
+      },
+      {
+        "commonCodeName": "불수리 (Non-acceptance)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.09.29",
+        "receiptNumber": "1-1-2021-1118911-09"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.09.29",
+        "receiptNumber": "1-1-2021-1119298-86"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.09.29",
+        "receiptNumber": "1-1-2021-1118889-81"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2021.10.14",
+        "receiptNumber": "1-5-2021-0160366-14"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice for Disposition of Invalidation",
+        "documentName": "무효처분통지서",
+        "receiptDate": "2021.11.08",
+        "receiptNumber": "1-5-2021-0175377-56"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Reason for Return of Document",
+        "documentName": "서류반려이유통지서",
+        "receiptDate": "2021.11.12",
+        "receiptNumber": "1-5-2021-0177841-87"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[반려요청]서류 반려요청서·반환신청서",
+        "receiptDate": "2021.11.18",
+        "receiptNumber": "1-1-2021-1331844-23"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice for Return of Document",
+        "documentName": "서류반려통지서",
+        "receiptDate": "2021.11.19",
+        "receiptNumber": "1-5-2021-0181608-05"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.12.11",
+        "receiptNumber": "9-5-2021-0973388-18"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.12.11",
+        "receiptNumber": "4-1-2023-5327857-09"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.12.11",
+        "receiptNumber": "4-1-2023-5328031-82"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.05.14",
+        "receiptNumber": "4-1-2025-5128486-75"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020210059618.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93f808d89c5138ba606bf158070f91215d99393fc595e47d1cc2727cb247b3cfb0d674580858eb4708e24a36e28e1e82e8fe2688dbb58d6d5f",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cffe9173a976b50ca80ec0390685ac0c77a1b471092d994a0843e950d9695022341d1d8c96e8cbcf1844a5b435dde8b0a4015355d2c80baaf2"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2020.03.01 ~ 2021.02.28",
+        "rndManagingInstituteName": "동국대학교",
+        "rndProjectName": "중견연구자지원사업",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "50/100",
+        "rndTaskName": "질환 미세환경 감응형 키메릭 나노복합체 설계 및 생체 고분자 전달기술 개발",
+        "rndTaskNumber": "1711110589"
+      },
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2020.03.01 ~ 2021.02.28",
+        "rndManagingInstituteName": "동국대학교",
+        "rndProjectName": "집단연구사업(선도연구센터)",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "50/100",
+        "rndTaskName": "암 관해 표적제어 혁신의약품 연구센터",
+        "rndTaskNumber": "1711110027"
+      }
+    ]
+  }
+}

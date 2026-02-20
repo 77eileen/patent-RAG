@@ -1,0 +1,2223 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.01.17",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7025961",
+      "claimCount": "24",
+      "examinerName": "",
+      "finalDisposal": "거절결정(일반)",
+      "inventionTitle": "TREM 조성물 및 이의 용도",
+      "inventionTitleEng": "TREM COMPOSITIONS AND USES THEREOF",
+      "openDate": "2021.12.13",
+      "openNumber": "10-2021-0151049",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.01.17",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "거절",
+      "translationSubmitDate": "2021.08.17"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/11"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12M 1/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/7088"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 일반적으로 tRNA-기반 효과기 분자 및 이에 관련된 방법에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217025961",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210817",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 44,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "정제된 tRNA 효과기 분자(tRNA effector molecule: TREM) 약제학적 조성물을 제조하는 방법으로서,\n상기 TREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 포함하는 포유류 숙주 세포를 제공하는 단계;\n상기 TREM을 발현시키기에 충분한 조건 하에 상기 포유류 세포를 유지하는 단계;\n상기 포유류 숙주 세포로부터, 예를 들어, 본 명세서에 기재된 방법에 따라 상기 TREM을 정제하는 단계; 및\n상기 정제된 TREM을 약제학적 조성물로서, 예를 들어, 상기 TREM을 약제학적 부형제와 조합함으로써 제형화하는 단계\n를 포함함으로써, 상기 TREM 약제학적 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 핵산은 역전사 시, 상기 TREM으로 전사될 수 있는 DNA를 생성하는 RNA를 포함하는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 상기 핵산은 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편을 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 상기 핵산은 본 명세서에 제공된 공통서열을 포함하는 RNA 서열을 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 포유류 숙주 세포는 비-인간 세포 또는 세포주, 또는 인간 세포 또는 세포주, 예를 들어, HEK293T 세포(예를 들어, Freestyle 293-F 세포), HT-1080 세포, PER.C6 세포, HKB-11 세포, CAP 세포, HuH-7 세포, BHK 21 세포, MRC-S 세포, MDCK 세포, VERO 세포, WI-38 세포, 중국 햄스터 난소(CHO) 세포 또는 MCF7 세포로부터 선택된, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 정제 단계는 다음의 단계 중 하나, 둘 또는 모두를, 예를 들어, 열거된 순서로 포함하는, 방법:\n(i) 핵산을 세포 파편으로부터 분리시켜 RNA 제제를 제공하는 단계;\n(ii) RNA 제제에서 보다 큰 RNA 종으로부터 뉴클레오티드의 역치 수 미만, 예를 들어, 500 nt 미만, 400 nt 미만, 300 nt 미만, 250 nt 미만, 200 nt 미만, 150 nt 미만의 RNA를 분리시켜, 작은 RNA 제제를 생성하는 단계; 및/또는\n(iii) 친화도-기반 분리, 예를 들어, 서열 친화도-기반 분리에 의해 작은 RNA 제제에서 다른 RNA 종으로부터 TREM을 분리시키는 단계.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "정제된 tRNA 효과기 분자(TREM)(예를 들어, 본 명세서에 기재된 방법에 따라 제조된 정제된 TREM 조성물)를 포함하는 조성물로서,\n(i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열\n을 포함하는, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "GMP-등급, 재조합 TREM 조성물(예를 들어, cGMP에 따라, 그리고/또는 유사한 요건에 따라 제조된 TREM 조성물)로서,\n(i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열\n을 포함하는, TREM 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 또는 제8항에 있어서, 상기 조성물은 하나 이상, 예를 들어, 복수의 TREM을 포함하는, TREM 조성물.",
+          "refers_to": [
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 내지 제9항 중 어느 한 항에 있어서, 상기 조성물은 TREM의 적어도 1, 2, 3, 4, 5, 6, 7, 8, 9 또는 10가지의 종을 포함하는, TREM 조성물.",
+          "refers_to": [
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 내지 제10항 중 어느 한 항에 있어서, 상기 TREM 조성물(또는 TREM 조성물의 생성에서 중간체)은 다음의 특징 중 하나 이상을 포함하는, TREM 조성물:\n(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;\n(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(host cell protein: HCP) 오염;\n(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 DNA, 예를 들어, 숙주 세포 DNA; \n(v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재, 예를 들어, 투구게 변형세포 용해질(Limulus amebocyte lysate: LAL) 검사로 측정한 바와 같은 음성 결과;\n(vii) 예를 들어, 실시예 15에 기재한 분석에 의해 측정한 바와 같은 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; \n(ix) 멸균성, 예를 들어, 멸균 약물 제품에 대한 cGMP 가이드라인에 따라, 상기 조성물 또는 제제가 무균 조건 하에 시험할 때 100개 미만의 살아있는 미생물의 성장을 지원하고, 상기 조성물 또는 제제가 USP 의 표준을 충족시키고, 그리고/또는 상기 조성물 또는 제제가 USP 의 표준을 충족시킴; 또는\n(x) 바이러스 오염, 예를 들어, 상기 조성물 또는 제제는 바이러스 오염이 존재하지 않거나 또는 검출 가능하지 않는 수준을 가짐.",
+          "refers_to": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포에서 tRNA 풀(pool)을 조절하는 방법으로서,\n정제된 TREM 조성물을 제공하는 단계, 및 상기 세포를 상기 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, 상기 세포에서 상기 tRNA 풀을 조절하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 TREM 조성물은:\n상기 TREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 포함하는 포유류 숙주 세포를 제공하는 단계;\n상기 TREM을 발현시키기에 충분한 조건 하에 상기 포유류 세포를 유지하는 단계; 및/또는\n상기 포유류 숙주 세포로부터, 예를 들어, 본 명세서에 기재된 방법에 따라 상기 TREM을 정제하는 단계\n에 의해 제조된, 방법.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 또는 제13항에 있어서, 상기 포유류 숙주 세포는 비-인간 세포 또는 세포주, 또는 인간 세포 또는 세포주, 예를 들어, HEK293T 세포(예를 들어, Freestyle 293-F 세포), HT-1080 세포, PER.C6 세포, HKB-11 세포, CAP 세포, HuH-7 세포, BHK 21 세포, MRC-S 세포, MDCK 세포, VERO 세포, WI-38 세포, 중국 햄스터 난소(CHO) 세포 또는 MCF7 세포로부터 선택된, 방법.",
+          "refers_to": [
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 내지 제14항 중 어느 하나에 있어서, 상기 정제 단계는 다음의 단계 중 하나, 둘 또는 모두를, 예를 들어, 열거된 순서로 포함하는, 방법:\n(i) 핵산을 세포 파편으로부터 분리시켜 RNA 제제를 제공하는 단계;\n(ii) RNA 제제에서 보다 큰 RNA 종으로부터 뉴클레오티드의 역치 수 미만, 예를 들어, 500 nt 미만, 400 nt 미만, 300 nt 미만, 250 nt 미만, 200 nt 미만, 150 nt 미만의 RNA를 분리시켜, 작은 RNA 제제를 생성하는 단계; 및/또는\n(iii) 친화도-기반 분리, 예를 들어, 서열 친화도-기반 분리에 의해 작은 RNA 제제에서 다른 RNA 종으로부터 TREM을 분리시키는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 내지 제15항 중 어느 한 항에 있어서, 상기 TREM은 하기를 포함하는, 방법: \n(i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 80% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "tRNA 효과기 분자(TREM) 조성물을 제조하는 방법으로서,\n(a) TREM을 발현시키기에 충분한 조건 하에 TREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 포함하는 포유류 숙주 세포를 제공하는 단계, 및\n(b) 발현된 TREM을 상기 포유류 숙주 세포로부터 정제시켜 TREM 조성물을 생성하는 단계\n를 포함함으로써, TREM 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약제학적 TREM 조성물을 제조하는 방법으로서,\na) TREM, 예를 들어, 정제된 TREM 조성물, 예를 들어, 본 명세서에 기재된 방법에 의해 제조된 TREM 조성물; 및\nb) 약제학적으로 허용 가능한 성분, 예를 들어, 부형제\n를 조합하는 단계를 포함함으로써, 약제학적 TREM 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "정제된 tRNA 효과기 분자(TREM) 약제학적 조성물을 제조하는 방법으로서,\n포유류 숙주 세포로부터 TREM을 정제하는 단계;\n정제된 TREM을 약제학적 조성물로서, 예를 들어, TREM을 약제학적 부형제와 조합함으로써 제형화하는 단계\n를 포함함으로써, TREM 약제학적 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "TREM 조성물을 제조하는 방법으로서,\n반응 혼합물을 함유하는 TREM을 TREM과 상보성인 핵산 서열을 포함하는 시약, 예를 들어, 포획 시약 또는 분리 시약과 접촉시키는 단계\n를 포함함으로써, TREM 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약제학적 조성물을 제조하는 방법으로서,\na) 정제된 TREM 조성물, 예를 들어, TREM을 발현시키기에 충분한 조건 하에 TREM을 암호화하는 DNA 또는 RNA을 포함하는 포유류 숙주 세포를 배양시킴으로써 그리고 정제된 TREM 조성물을 생성하기 위해 발현된 TREM을 숙주 세포 배양물로부터 정제함으로써 제조된, 정제된 TREM 조성물을 제공하는 단계;\nb) 정제된 TREM 조성물의 다음의 특징 (i) 내지 (x) 중 하나 이상에 대해, 예를 들어, 평가 또는 시험함으로써, 값을 제공하는 단계:\n(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;\n(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(HCP) 오염;\n(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 DNA, 예를 들어, 숙주 세포 DNA;\n(v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재, 예를 들어, 투구게 변형세포 용해질(LAL) 검사로 측정한 바와 같은 음성 결과;\n(vii) 예를 들어, 실시예 15에 기재한 분석에 의해 측정한 바와 같은 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; \n(ix) 멸균성, 예를 들어, 멸균 약물 제품에 대한 cGMP 가이드라인에 따라, 조성물 또는 제제가 무균 조건 하에 시험할 때 100개 미만의 살아있는 미생물의 성장을 지원하고, 조성물 또는 제제가 USP 의 표준을 충족시키고, 그리고/또는 조성물 또는 제제가 USP 의 표준을 충족시킴; 또는\n(x) 바이러스 오염, 예를 들어, 조성물 또는 제제는 바이러스 오염이 존재하지 않거나 또는 검출 가능하지 않는 수준을 가진다.\nc) 선택적으로, 한 가지 이상의 특징에 대해 참조 기준을 충족시킨다면, 정제된 TREM 조성물을 약제학적 약물 제품으로서 제형화하는 단계(예를 들어, TREM 조성물을 약제학적 부형제와 조합하는 단계)\n를 포함함으로써, 약제학적 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약제학적 tRNA 효과기 분자(TREM) 조성물로서,\n(i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 80% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열\n을 포함하는, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "적어도 0.5 g, 1 g, 2g, 3 g, 4 g, 5 g, 6 g, 7 g, 8 g, 9g, 10 g, 15 g, 20 g, 30 g, 40 g, 50 g, 100 g, 200 g, 300 g, 400 g 또는 500 g의, 재조합 TREM 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "5 g 내지 500 g, 0.5 g 내지 400 g, 0.5 g 내지 300 g, 0.5 g 내지 200 g, 0.5 g 내지 100 g, 0.5 g 내지 50 g, 0.5 g 내지 40 g, 0.5 g 내지 30 g, 0.5 g 내지 20 g, 0.5 g 내지 10 g, 0.5 g 내지 9g, 0.5 g 내지 8 g, 0.5 g 내지 7 g, 0.5 g 내지 6 g, 0.5 g 내지 5 g, 0.5 g 내지 4 g, 0.5 g 내지 3 g, 0.5 g 내지 2g, 0.5 g 내지 1 g, 1g 내지 500 g, 2g 내지 500 g, 5 g 내지 500 g, 10 g 내지 500 g, 20 g 내지 500 g, 30 g 내지 500 g, 40 g 내지 500 g, 50 g 내지 500 g, 100 g 내지 500 g, 200 g 내지 500 g, 300 g 내지 500 g, 또는 400 g 내지 500 g의, 재조합 TREM 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기 식 I ZZZ의 공통서열을 포함하는 TREM 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 I은 모든 종에 대응하고; 그리고\n(iii) x=1 내지 271임(예를 들어, x=1 내지 250, x=1 내지 225, x=1 내지 200, x=1 내지 175, x=1 내지 150, x=1 내지 125, x=1 내지 100, x=1 내지 75, x=1 내지 50, x=1 내지 40, x=1 내지 30, x=1 내지 29, x=1 내지 28, x=1 내지 27, x=1 내지 26, x=1 내지 25, x=1 내지 24, x=1 내지 23, x=1 내지 22, x=1 내지 21, x=1 내지 20, x=1 내지 19, x=1 내지 18, x=1 내지 17, x=1 내지 16, x=1 내지 15, x=1 내지 14, x=1 내지 13, x=1 내지 12, x=1 내지 11, x=1 내지 10, x=10 내지 271, x=20 내지 271, x=30 내지 271, x=40 내지 271, x=50 내지 271, x=60 내지 271, x=70 내지 271, x=80 내지 271, x=100 내지 271, x=125 내지 271, x=150 내지 271, x=175 내지 271, x=200 내지 271, x=225 내지 271, x=1, x=2, x=3, x=4, x=5, x=6, x=7, x=8, x=9, x=10, x=11, x=12, x=13, x=14, x=15, x=16, x=17, x=18, x=19, x=20, x=21, x=22, x=23, x=24, x=25, x=26, x=27, x=28, x=29, x=30, x=40, x=50, x=60, x=70, x=80, x=90, x=100, x=110, x=125, x=150, x=175, x=200, x=225, x=250 또는 x=271).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기 식 II ZZZ의 공통서열을 포함하는 TREM 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 II는 포유류에 대응하고; 그리고 \n(iii) x=1 내지 271임(예를 들어, x=1 내지 250, x=1 내지 225, x=1 내지 200, x=1 내지 175, x=1 내지 150, x=1 내지 125, x=1 내지 100, x=1 내지 75, x=1 내지 50, x=1 내지 40, x=1 내지 30, x=1 내지 29, x=1 내지 28, x=1 내지 27, x=1 내지 26, x=1 내지 25, x=1 내지 24, x=1 내지 23, x=1 내지 22, x=1 내지 21, x=1 내지 20, x=1 내지 19, x=1 내지 18, x=1 내지 17, x=1 내지 16, x=1 내지 15, x=1 내지 14, x=1 내지 13, x=1 내지 12, x=1 내지 11, x=1 내지 10, x=10 내지 271, x=20 내지 271, x=30 내지 271, x=40 내지 271, x=50 내지 271, x=60 내지 271, x=70 내지 271, x=80 내지 271, x=100 내지 271, x=125 내지 271, x=150 내지 271, x=175 내지 271, x=200 내지 271, x=225 내지 271, x=1, x=2, x=3, x=4, x=5, x=6, x=7, x=8, x=9, x=10, x=11, x=12, x=13, x=14, x=15, x=16, x=17, x=18, x=19, x=20, x=21, x=22, x=23, x=24, x=25, x=26, x=27, x=28, x=29, x=30, x=40, x=50, x=60, x=70, x=80, x=90, x=100, x=110, x=125, x=150, x=175, x=200, x=225, x=250 또는 x=271).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기 식 III ZZZ의 공통서열을 포함하는 TREM 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 III은 인간에 대응하고; 그리고 \n(iii) x=1 내지 271임(예를 들어, x=1 내지 250, x=1 내지 225, x=1 내지 200, x=1 내지 175, x=1 내지 150, x=1 내지 125, x=1 내지 100, x=1 내지 75, x=1 내지 50, x=1 내지 40, x=1 내지 30, x=1 내지 29, x=1 내지 28, x=1 내지 27, x=1 내지 26, x=1 내지 25, x=1 내지 24, x=1 내지 23, x=1 내지 22, x=1 내지 21, x=1 내지 20, x=1 내지 19, x=1 내지 18, x=1 내지 17, x=1 내지 16, x=1 내지 15, x=1 내지 14, x=1 내지 13, x=1 내지 12, x=1 내지 11, x=1 내지 10, x=10 내지 271, x=20 내지 271, x=30 내지 271, x=40 내지 271, x=50 내지 271, x=60 내지 271, x=70 내지 271, x=80 내지 271, x=100 내지 271, x=125 내지 271, x=150 내지 271, x=175 내지 271, x=200 내지 271, x=225 내지 271, x=1, x=2, x=3, x=4, x=5, x=6, x=7, x=8, x=9, x=10, x=11, x=12, x=13, x=14, x=15, x=16, x=17, x=18, x=19, x=20, x=21, x=22, x=23, x=24, x=25, x=26, x=27, x=28, x=29, x=30, x=40, x=50, x=60, x=70, x=80, x=90, x=100, x=110, x=125, x=150, x=175, x=200, x=225, x=250 또는 x=271).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포, 조직 또는 대상체를 TREM과 접촉시키는 방법으로서,\n상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, 세포, 조직 또는 대상체를 상기 TREM과 접촉시키는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "TREM을 갖는 세포, 조직 또는 대상체에 TREM을 제시하는 방법으로서,\n상기 세포, 조직 또는 대상체를 정제된 상기 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, 상기 TREM을 세포, 조직 또는 대상체에 제시하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "TREM-접촉 세포, 조직 또는 대상체를 형성하는 방법으로서,\n상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, TREM-접촉 세포, 조직 또는 대상체를 형성하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "TREM를 이용하는 방법으로서,\n세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, TREM을 이용하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포, 조직 또는 대상체에 TREM을 적용하는 방법으로서,\n상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, TREM을 세포, 조직 또는 대상체에 적용하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포, 조직 또는 대상체에 TREM을 노출시키는 방법으로서,\n상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, 세포, 조직 또는 대상체를 TREM에 노출시키는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "TREM과 세포, 조직 또는 대상체의 혼합물을 형성하는 방법으로서,\n상기 세포, 조직 또는 대상체를 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, TREM과 세포, 조직 또는 대상체의 혼합물을 형성하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포, 조직 또는 대상체를 TREM에 전달하는 방법으로서,\n세포, 조직 또는 대상체를 제공하는 단계, 및 상기 세포, 조직 또는 대상체를 TREM 조성물, 예를 들어, 정제된 TREM 조성물, 예를 들어, 약제학적 TREM 조성물과 접촉시키는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대사, 예를 들어, 세포소기관의 번역 능력을 조절하는 방법, 예를 들어, 생체외 방법으로서,\n세포소기관, 예를 들어, 미토콘드리아 또는 엽록체의 제제를 제공하는 단계, 및 상기 세포소기관을 약제학적 TREM 조성물과 접촉시키는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체를 치료하는, 예를 들어, 대상체에서의 대사, 예를 들어, 세포의 번역 능력을 조절하는 방법으로서,\nTREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 대상체에게 제공하는, 예를 들어, 투여하는 단계\n를 포함함으로써, 대상체를 치료하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "본 명세서에 개시된 TREM을 제조하는 방법에 따라 제조된 TREM을 포함하는 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "본 명세서에 개시된 TREM을 포함하는 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "외인성 핵산을 포함하는 세포로서,\nTREM을 암호화하는 핵산 서열, 예를 들어, DNA 또는 RNA로서,\n(i) 제어 영역 서열;\n(ii) 변형된 TREM을 암호화하는 서열;\n(iii) 하나 초과의 TREM을 암호화하는 서열;\n(iv) tRNAMet 서열 이외의 서열; 또는\n(v) Pol III 인식 부위, 예를 들어, U6 프로모터, 7SK 프로모터 또는 H1 프로모터를 포함하는 프로모터 서열, 또는 이의 단편\n을 포함하는 핵산 서열을 포함하는, 외인성 핵산을 포함하는 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "TREM 및 시약, 예를 들어, 포획 시약, 또는 분리 시약을 포함하는, 반응 혼합물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "외인성 DNA 또는 RNA를 포함하는 본 명세서에 기재된 복수의 포유류 숙주 세포를 포함하는, 바이오리액터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "숙주 세포, 예를 들어, 본 명세서에 기재된 바와 같은 숙주 세포를 포함하는, 마스터 세포 은행.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "정제된 TREM 조성물의 다음의 특징 (i) 내지 (x) 중 하나 이상에 대해 값을 획득하는 단계를 포함하는, TREM, 예를 들어, GMP-등급 TREM(즉, cGMP에 따라, 그리고/또는 유사한 요건에 따라 제조된 TREM)의 조성물을 평가하는 방법:\n(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;\n(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(HCP) 오염;\n(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 DNA, 예를 들어, 숙주 세포 DNA;\n(v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재, 예를 들어, 투구게 변형세포 용해질(LAL) 검사로 측정한 바와 같은 음성 결과;\n(vii) 예를 들어, 실시예 15에 기재한 분석에 의해 측정한 바와 같은 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; \n(ix) 멸균성, 예를 들어, 멸균 가공에 의해 생산된 멸균 약물 제품에 대한 cGMP 가이드라인에 기재된 바와 같이, 상기 조성물 또는 제제가 무균 조건 하에 시험할 때 100개 미만의 살아있는 미생물의 성장을 지원하고, 상기 조성물 또는 제제가 USP 의 표준을 충족시키고, 그리고/또는 상기 조성물 또는 제제가 USP 의 표준을 충족시킴; 또는\n(x) 바이러스 오염, 예를 들어, 상기 조성물 또는 제제는 바이러스 오염이 존재하지 않거나 또는 검출 가능하지 않는 수준을 가짐.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20251024",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 44,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "정제된 tRNA 효과기 분자(tRNA effector molecule: TREM) 약제학적 조성물을 제조하는 방법으로서,상기 TREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 포함하는 포유류 숙주 세포를 제공하는 단계;상기 TREM을 발현시키기에 충분한 조건 하에 상기 포유류 세포를 유지하는 단계;상기 포유류 숙주 세포로부터, 예를 들어, 본 명세서에 기재된 방법에 따라 상기 TREM을 정제하는 단계; 및상기 정제된 TREM을 약제학적 조성물로서, 예를 들어, 상기 TREM을 약제학적 부형제와 조합함으로써 제형화하는 단계를 포함함으로써, 상기 TREM 약제학적 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 핵산은 역전사 시, 상기 TREM으로 전사될 수 있는 DNA를 생성하는 RNA를 포함하는, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 상기 핵산은 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편을 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 상기 핵산은 본 명세서에 제공된 공통서열을 포함하는 RNA 서열을 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 포유류 숙주 세포는 비-인간 세포 또는 세포주, 또는 인간 세포 또는 세포주, 예를 들어, HEK293T 세포(예를 들어, Freestyle 293-F 세포), HT-1080 세포, PER.C6 세포, HKB-11 세포, CAP 세포, HuH-7 세포, BHK 21 세포, MRC-S 세포, MDCK 세포, VERO 세포, WI-38 세포, 중국 햄스터 난소(CHO) 세포 또는 MCF7 세포로부터 선택된, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 정제 단계는 다음의 단계 중 하나, 둘 또는 모두를, 예를 들어, 열거된 순서로 포함하는, 방법:(i) 핵산을 세포 파편으로부터 분리시켜 RNA 제제를 제공하는 단계;(ii) RNA 제제에서 보다 큰 RNA 종으로부터 뉴클레오티드의 역치 수 미만, 예를 들어, 500 nt 미만, 400 nt 미만, 300 nt 미만, 250 nt 미만, 200 nt 미만, 150 nt 미만의 RNA를 분리시켜, 작은 RNA 제제를 생성하는 단계; 및/또는(iii) 친화도-기반 분리, 예를 들어, 서열 친화도-기반 분리에 의해 작은 RNA 제제에서 다른 RNA 종으로부터 TREM을 분리시키는 단계.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "정제된 tRNA 효과기 분자(TREM)(예를 들어, 본 명세서에 기재된 방법에 따라 제조된 정제된 TREM 조성물)를 포함하는 조성물로서,(i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열을 포함하는, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "GMP-등급, 재조합 TREM 조성물(예를 들어, cGMP에 따라, 그리고/또는 유사한 요건에 따라 제조된 TREM 조성물)로서,(i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열을 포함하는, TREM 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항 또는 제8항에 있어서, 상기 조성물은 하나 이상, 예를 들어, 복수의 TREM을 포함하는, TREM 조성물.",
+          "refers_to": [
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항 내지 제9항 중 어느 한 항에 있어서, 상기 조성물은 TREM의 적어도 1, 2, 3, 4, 5, 6, 7, 8, 9 또는 10가지의 종을 포함하는, TREM 조성물.",
+          "refers_to": [
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항 내지 제10항 중 어느 한 항에 있어서, 상기 TREM 조성물(또는 TREM 조성물의 생성에서 중간체)은 다음의 특징 중 하나 이상을 포함하는, TREM 조성물:(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(host cell protein: HCP) 오염;(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;(iv) 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 DNA, 예를 들어, 숙주 세포 DNA; (v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;(vi) 내독소의 낮은 수준 또는 부재, 예를 들어, 투구게 변형세포 용해질(Limulus amebocyte lysate: LAL) 검사로 측정한 바와 같은 음성 결과;(vii) 예를 들어, 실시예 15에 기재한 분석에 의해 측정한 바와 같은 시험관내 번역 활성;(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; (ix) 멸균성, 예를 들어, 멸균 약물 제품에 대한 cGMP 가이드라인에 따라, 상기 조성물 또는 제제가 무균 조건 하에 시험할 때 100개 미만의 살아있는 미생물의 성장을 지원하고, 상기 조성물 또는 제제가 USP 003c#71003e#의 표준을 충족시키고, 그리고/또는 상기 조성물 또는 제제가 USP 003c#85003e#의 표준을 충족시킴; 또는(x) 바이러스 오염, 예를 들어, 상기 조성물 또는 제제는 바이러스 오염이 존재하지 않거나 또는 검출 가능하지 않는 수준을 가짐.",
+          "refers_to": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "세포에서 tRNA 풀(pool)을 조절하는 방법으로서,정제된 TREM 조성물을 제공하는 단계, 및 상기 세포를 상기 TREM 조성물과 접촉시키는 단계를 포함함으로써, 상기 세포에서 상기 tRNA 풀을 조절하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 TREM 조성물은:상기 TREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 포함하는 포유류 숙주 세포를 제공하는 단계;상기 TREM을 발현시키기에 충분한 조건 하에 상기 포유류 세포를 유지하는 단계; 및/또는상기 포유류 숙주 세포로부터, 예를 들어, 본 명세서에 기재된 방법에 따라 상기 TREM을 정제하는 단계에 의해 제조된, 방법.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 또는 제13항에 있어서, 상기 포유류 숙주 세포는 비-인간 세포 또는 세포주, 또는 인간 세포 또는 세포주, 예를 들어, HEK293T 세포(예를 들어, Freestyle 293-F 세포), HT-1080 세포, PER.C6 세포, HKB-11 세포, CAP 세포, HuH-7 세포, BHK 21 세포, MRC-S 세포, MDCK 세포, VERO 세포, WI-38 세포, 중국 햄스터 난소(CHO) 세포 또는 MCF7 세포로부터 선택된, 방법.",
+          "refers_to": [
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 내지 제14항 중 어느 하나에 있어서, 상기 정제 단계는 다음의 단계 중 하나, 둘 또는 모두를, 예를 들어, 열거된 순서로 포함하는, 방법:(i) 핵산을 세포 파편으로부터 분리시켜 RNA 제제를 제공하는 단계;(ii) RNA 제제에서 보다 큰 RNA 종으로부터 뉴클레오티드의 역치 수 미만, 예를 들어, 500 nt 미만, 400 nt 미만, 300 nt 미만, 250 nt 미만, 200 nt 미만, 150 nt 미만의 RNA를 분리시켜, 작은 RNA 제제를 생성하는 단계; 및/또는(iii) 친화도-기반 분리, 예를 들어, 서열 친화도-기반 분리에 의해 작은 RNA 제제에서 다른 RNA 종으로부터 TREM을 분리시키는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 내지 제15항 중 어느 한 항에 있어서, 상기 TREM은 하기를 포함하는, 방법: (i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 80% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "tRNA 효과기 분자(TREM) 조성물을 제조하는 방법으로서,(a) TREM을 발현시키기에 충분한 조건 하에 TREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 포함하는 포유류 숙주 세포를 제공하는 단계, 및(b) 발현된 TREM을 상기 포유류 숙주 세포로부터 정제시켜 TREM 조성물을 생성하는 단계를 포함함으로써, TREM 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "약제학적 TREM 조성물을 제조하는 방법으로서,a) TREM, 예를 들어, 정제된 TREM 조성물, 예를 들어, 본 명세서에 기재된 방법에 의해 제조된 TREM 조성물; 및b) 약제학적으로 허용 가능한 성분, 예를 들어, 부형제를 조합하는 단계를 포함함으로써, 약제학적 TREM 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "정제된 tRNA 효과기 분자(TREM) 약제학적 조성물을 제조하는 방법으로서,포유류 숙주 세포로부터 TREM을 정제하는 단계;정제된 TREM을 약제학적 조성물로서, 예를 들어, TREM을 약제학적 부형제와 조합함으로써 제형화하는 단계를 포함함으로써, TREM 약제학적 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "TREM 조성물을 제조하는 방법으로서,반응 혼합물을 함유하는 TREM을 TREM과 상보성인 핵산 서열을 포함하는 시약, 예를 들어, 포획 시약 또는 분리 시약과 접촉시키는 단계를 포함함으로써, TREM 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "약제학적 조성물을 제조하는 방법으로서,a) 정제된 TREM 조성물, 예를 들어, TREM을 발현시키기에 충분한 조건 하에 TREM을 암호화하는 DNA 또는 RNA을 포함하는 포유류 숙주 세포를 배양시킴으로써 그리고 정제된 TREM 조성물을 생성하기 위해 발현된 TREM을 숙주 세포 배양물로부터 정제함으로써 제조된, 정제된 TREM 조성물을 제공하는 단계;b) 정제된 TREM 조성물의 다음의 특징 (i) 내지 (x) 중 하나 이상에 대해, 예를 들어, 평가 또는 시험함으로써, 값을 제공하는 단계:(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(HCP) 오염;(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;(iv) 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 DNA, 예를 들어, 숙주 세포 DNA;(v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;(vi) 내독소의 낮은 수준 또는 부재, 예를 들어, 투구게 변형세포 용해질(LAL) 검사로 측정한 바와 같은 음성 결과;(vii) 예를 들어, 실시예 15에 기재한 분석에 의해 측정한 바와 같은 시험관내 번역 활성;(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; (ix) 멸균성, 예를 들어, 멸균 약물 제품에 대한 cGMP 가이드라인에 따라, 조성물 또는 제제가 무균 조건 하에 시험할 때 100개 미만의 살아있는 미생물의 성장을 지원하고, 조성물 또는 제제가 USP 003c#71003e#의 표준을 충족시키고, 그리고/또는 조성물 또는 제제가 USP 003c#85003e#의 표준을 충족시킴; 또는(x) 바이러스 오염, 예를 들어, 조성물 또는 제제는 바이러스 오염이 존재하지 않거나 또는 검출 가능하지 않는 수준을 가진다.c) 선택적으로, 한 가지 이상의 특징에 대해 참조 기준을 충족시킨다면, 정제된 TREM 조성물을 약제학적 약물 제품으로서 제형화하는 단계(예를 들어, TREM 조성물을 약제학적 부형제와 조합하는 단계)를 포함함으로써, 약제학적 조성물을 제조하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "약제학적 tRNA 효과기 분자(TREM) 조성물로서,(i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 80% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열을 포함하는, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "적어도 0.5 g, 1 g, 2g, 3 g, 4 g, 5 g, 6 g, 7 g, 8 g, 9g, 10 g, 15 g, 20 g, 30 g, 40 g, 50 g, 100 g, 200 g, 300 g, 400 g 또는 500 g의, 재조합 TREM 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "5 g 내지 500 g, 0.5 g 내지 400 g, 0.5 g 내지 300 g, 0.5 g 내지 200 g, 0.5 g 내지 100 g, 0.5 g 내지 50 g, 0.5 g 내지 40 g, 0.5 g 내지 30 g, 0.5 g 내지 20 g, 0.5 g 내지 10 g, 0.5 g 내지 9g, 0.5 g 내지 8 g, 0.5 g 내지 7 g, 0.5 g 내지 6 g, 0.5 g 내지 5 g, 0.5 g 내지 4 g, 0.5 g 내지 3 g, 0.5 g 내지 2g, 0.5 g 내지 1 g, 1g 내지 500 g, 2g 내지 500 g, 5 g 내지 500 g, 10 g 내지 500 g, 20 g 내지 500 g, 30 g 내지 500 g, 40 g 내지 500 g, 50 g 내지 500 g, 100 g 내지 500 g, 200 g 내지 500 g, 300 g 내지 500 g, 또는 400 g 내지 500 g의, 재조합 TREM 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기 식 I ZZZ의 공통서열을 포함하는 TREM 조성물:R0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72식 중:R은 리보뉴클레오티드 잔기이고;(i) ZZZ는 임의의 20가지 아미노산을 나타내며;(ii) 식 I은 모든 종에 대응하고; 그리고(iii) x=1 내지 271임(예를 들어, x=1 내지 250, x=1 내지 225, x=1 내지 200, x=1 내지 175, x=1 내지 150, x=1 내지 125, x=1 내지 100, x=1 내지 75, x=1 내지 50, x=1 내지 40, x=1 내지 30, x=1 내지 29, x=1 내지 28, x=1 내지 27, x=1 내지 26, x=1 내지 25, x=1 내지 24, x=1 내지 23, x=1 내지 22, x=1 내지 21, x=1 내지 20, x=1 내지 19, x=1 내지 18, x=1 내지 17, x=1 내지 16, x=1 내지 15, x=1 내지 14, x=1 내지 13, x=1 내지 12, x=1 내지 11, x=1 내지 10, x=10 내지 271, x=20 내지 271, x=30 내지 271, x=40 내지 271, x=50 내지 271, x=60 내지 271, x=70 내지 271, x=80 내지 271, x=100 내지 271, x=125 내지 271, x=150 내지 271, x=175 내지 271, x=200 내지 271, x=225 내지 271, x=1, x=2, x=3, x=4, x=5, x=6, x=7, x=8, x=9, x=10, x=11, x=12, x=13, x=14, x=15, x=16, x=17, x=18, x=19, x=20, x=21, x=22, x=23, x=24, x=25, x=26, x=27, x=28, x=29, x=30, x=40, x=50, x=60, x=70, x=80, x=90, x=100, x=110, x=125, x=150, x=175, x=200, x=225, x=250 또는 x=271).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기 식 II ZZZ의 공통서열을 포함하는 TREM 조성물:R0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72식 중:R은 리보뉴클레오티드 잔기이고;(i) ZZZ는 임의의 20가지 아미노산을 나타내며;(ii) 식 II는 포유류에 대응하고; 그리고 (iii) x=1 내지 271임(예를 들어, x=1 내지 250, x=1 내지 225, x=1 내지 200, x=1 내지 175, x=1 내지 150, x=1 내지 125, x=1 내지 100, x=1 내지 75, x=1 내지 50, x=1 내지 40, x=1 내지 30, x=1 내지 29, x=1 내지 28, x=1 내지 27, x=1 내지 26, x=1 내지 25, x=1 내지 24, x=1 내지 23, x=1 내지 22, x=1 내지 21, x=1 내지 20, x=1 내지 19, x=1 내지 18, x=1 내지 17, x=1 내지 16, x=1 내지 15, x=1 내지 14, x=1 내지 13, x=1 내지 12, x=1 내지 11, x=1 내지 10, x=10 내지 271, x=20 내지 271, x=30 내지 271, x=40 내지 271, x=50 내지 271, x=60 내지 271, x=70 내지 271, x=80 내지 271, x=100 내지 271, x=125 내지 271, x=150 내지 271, x=175 내지 271, x=200 내지 271, x=225 내지 271, x=1, x=2, x=3, x=4, x=5, x=6, x=7, x=8, x=9, x=10, x=11, x=12, x=13, x=14, x=15, x=16, x=17, x=18, x=19, x=20, x=21, x=22, x=23, x=24, x=25, x=26, x=27, x=28, x=29, x=30, x=40, x=50, x=60, x=70, x=80, x=90, x=100, x=110, x=125, x=150, x=175, x=200, x=225, x=250 또는 x=271).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기 식 III ZZZ의 공통서열을 포함하는 TREM 조성물:R0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72식 중:R은 리보뉴클레오티드 잔기이고;(i) ZZZ는 임의의 20가지 아미노산을 나타내며;(ii) 식 III은 인간에 대응하고; 그리고 (iii) x=1 내지 271임(예를 들어, x=1 내지 250, x=1 내지 225, x=1 내지 200, x=1 내지 175, x=1 내지 150, x=1 내지 125, x=1 내지 100, x=1 내지 75, x=1 내지 50, x=1 내지 40, x=1 내지 30, x=1 내지 29, x=1 내지 28, x=1 내지 27, x=1 내지 26, x=1 내지 25, x=1 내지 24, x=1 내지 23, x=1 내지 22, x=1 내지 21, x=1 내지 20, x=1 내지 19, x=1 내지 18, x=1 내지 17, x=1 내지 16, x=1 내지 15, x=1 내지 14, x=1 내지 13, x=1 내지 12, x=1 내지 11, x=1 내지 10, x=10 내지 271, x=20 내지 271, x=30 내지 271, x=40 내지 271, x=50 내지 271, x=60 내지 271, x=70 내지 271, x=80 내지 271, x=100 내지 271, x=125 내지 271, x=150 내지 271, x=175 내지 271, x=200 내지 271, x=225 내지 271, x=1, x=2, x=3, x=4, x=5, x=6, x=7, x=8, x=9, x=10, x=11, x=12, x=13, x=14, x=15, x=16, x=17, x=18, x=19, x=20, x=21, x=22, x=23, x=24, x=25, x=26, x=27, x=28, x=29, x=30, x=40, x=50, x=60, x=70, x=80, x=90, x=100, x=110, x=125, x=150, x=175, x=200, x=225, x=250 또는 x=271).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "세포, 조직 또는 대상체를 TREM과 접촉시키는 방법으로서,상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계를 포함함으로써, 세포, 조직 또는 대상체를 상기 TREM과 접촉시키는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "TREM을 갖는 세포, 조직 또는 대상체에 TREM을 제시하는 방법으로서,상기 세포, 조직 또는 대상체를 정제된 상기 TREM 조성물과 접촉시키는 단계를 포함함으로써, 상기 TREM을 세포, 조직 또는 대상체에 제시하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "TREM-접촉 세포, 조직 또는 대상체를 형성하는 방법으로서,상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계를 포함함으로써, TREM-접촉 세포, 조직 또는 대상체를 형성하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "TREM를 이용하는 방법으로서,세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계를 포함함으로써, TREM을 이용하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "세포, 조직 또는 대상체에 TREM을 적용하는 방법으로서,상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계를 포함함으로써, TREM을 세포, 조직 또는 대상체에 적용하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "세포, 조직 또는 대상체에 TREM을 노출시키는 방법으로서,상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계를 포함함으로써, 세포, 조직 또는 대상체를 TREM에 노출시키는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "TREM과 세포, 조직 또는 대상체의 혼합물을 형성하는 방법으로서,상기 세포, 조직 또는 대상체를 TREM 조성물과 접촉시키는 단계를 포함함으로써, TREM과 세포, 조직 또는 대상체의 혼합물을 형성하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "세포, 조직 또는 대상체를 TREM에 전달하는 방법으로서,세포, 조직 또는 대상체를 제공하는 단계, 및 상기 세포, 조직 또는 대상체를 TREM 조성물, 예를 들어, 정제된 TREM 조성물, 예를 들어, 약제학적 TREM 조성물과 접촉시키는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "대사, 예를 들어, 세포소기관의 번역 능력을 조절하는 방법, 예를 들어, 생체외 방법으로서,세포소기관, 예를 들어, 미토콘드리아 또는 엽록체의 제제를 제공하는 단계, 및 상기 세포소기관을 약제학적 TREM 조성물과 접촉시키는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "대상체를 치료하는, 예를 들어, 대상체에서의 대사, 예를 들어, 세포의 번역 능력을 조절하는 방법으로서,TREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 대상체에게 제공하는, 예를 들어, 투여하는 단계를 포함함으로써, 대상체를 치료하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "본 명세서에 개시된 TREM을 제조하는 방법에 따라 제조된 TREM을 포함하는 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "본 명세서에 개시된 TREM을 포함하는 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "외인성 핵산을 포함하는 세포로서,TREM을 암호화하는 핵산 서열, 예를 들어, DNA 또는 RNA로서,(i) 제어 영역 서열;(ii) 변형된 TREM을 암호화하는 서열;(iii) 하나 초과의 TREM을 암호화하는 서열;(iv) tRNAMet 서열 이외의 서열; 또는(v) Pol III 인식 부위, 예를 들어, U6 프로모터, 7SK 프로모터 또는 H1 프로모터를 포함하는 프로모터 서열, 또는 이의 단편을 포함하는 핵산 서열을 포함하는, 외인성 핵산을 포함하는 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "TREM 및 시약, 예를 들어, 포획 시약, 또는 분리 시약을 포함하는, 반응 혼합물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "외인성 DNA 또는 RNA를 포함하는 본 명세서에 기재된 복수의 포유류 숙주 세포를 포함하는, 바이오리액터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "숙주 세포, 예를 들어, 본 명세서에 기재된 바와 같은 숙주 세포를 포함하는, 마스터 세포 은행.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "정제된 TREM 조성물의 다음의 특징 (i) 내지 (x) 중 하나 이상에 대해 값을 획득하는 단계를 포함하는, TREM, 예를 들어, GMP-등급 TREM(즉, cGMP에 따라, 그리고/또는 유사한 요건에 따라 제조된 TREM)의 조성물을 평가하는 방법:(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(HCP) 오염;(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;(iv) 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 DNA, 예를 들어, 숙주 세포 DNA;(v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;(vi) 내독소의 낮은 수준 또는 부재, 예를 들어, 투구게 변형세포 용해질(LAL) 검사로 측정한 바와 같은 음성 결과;(vii) 예를 들어, 실시예 15에 기재한 분석에 의해 측정한 바와 같은 시험관내 번역 활성;(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; (ix) 멸균성, 예를 들어, 멸균 가공에 의해 생산된 멸균 약물 제품에 대한 cGMP 가이드라인에 기재된 바와 같이, 상기 조성물 또는 제제가 무균 조건 하에 시험할 때 100개 미만의 살아있는 미생물의 성장을 지원하고, 상기 조성물 또는 제제가 USP 003c#71003e#의 표준을 충족시키고, 그리고/또는 상기 조성물 또는 제제가 USP 003c#85003e#의 표준을 충족시킴; 또는(x) 바이러스 오염, 예를 들어, 상기 조성물 또는 제제는 바이러스 오염이 존재하지 않거나 또는 검출 가능하지 않는 수준을 가짐.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210817",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 44,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "정제된 tRNA 효과기 분자(tRNA effector molecule: TREM) 약제학적 조성물을 제조하는 방법으로서,\n상기 TREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 포함하는 포유류 숙주 세포를 제공하는 단계;\n상기 TREM을 발현시키기에 충분한 조건 하에 상기 포유류 세포를 유지하는 단계;\n상기 포유류 숙주 세포로부터, 예를 들어, 본 명세서에 기재된 방법에 따라 상기 TREM을 정제하는 단계; 및\n상기 정제된 TREM을 약제학적 조성물로서, 예를 들어, 상기 TREM을 약제학적 부형제와 조합함으로써 제형화하는 단계\n를 포함함으로써, 상기 TREM 약제학적 조성물을 제조하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 핵산은 역전사 시, 상기 TREM으로 전사될 수 있는 DNA를 생성하는 RNA를 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 상기 핵산은 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편을 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 상기 핵산은 본 명세서에 제공된 공통서열을 포함하는 RNA 서열을 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 포유류 숙주 세포는 비-인간 세포 또는 세포주, 또는 인간 세포 또는 세포주, 예를 들어, HEK293T 세포(예를 들어, Freestyle 293-F 세포), HT-1080 세포, PER.C6 세포, HKB-11 세포, CAP 세포, HuH-7 세포, BHK 21 세포, MRC-S 세포, MDCK 세포, VERO 세포, WI-38 세포, 중국 햄스터 난소(CHO) 세포 또는 MCF7 세포로부터 선택된, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 정제 단계는 다음의 단계 중 하나, 둘 또는 모두를, 예를 들어, 열거된 순서로 포함하는, 방법:\n(i) 핵산을 세포 파편으로부터 분리시켜 RNA 제제를 제공하는 단계;\n(ii) RNA 제제에서 보다 큰 RNA 종으로부터 뉴클레오티드의 역치 수 미만, 예를 들어, 500 nt 미만, 400 nt 미만, 300 nt 미만, 250 nt 미만, 200 nt 미만, 150 nt 미만의 RNA를 분리시켜, 작은 RNA 제제를 생성하는 단계; 및/또는\n(iii) 친화도-기반 분리, 예를 들어, 서열 친화도-기반 분리에 의해 작은 RNA 제제에서 다른 RNA 종으로부터 TREM을 분리시키는 단계.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "정제된 tRNA 효과기 분자(TREM)(예를 들어, 본 명세서에 기재된 방법에 따라 제조된 정제된 TREM 조성물)를 포함하는 조성물로서,\n(i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열\n을 포함하는, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "GMP-등급, 재조합 TREM 조성물(예를 들어, cGMP에 따라, 그리고/또는 유사한 요건에 따라 제조된 TREM 조성물)로서,\n(i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열\n을 포함하는, TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 또는 제8항에 있어서, 상기 조성물은 하나 이상, 예를 들어, 복수의 TREM을 포함하는, TREM 조성물.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 내지 제9항 중 어느 한 항에 있어서, 상기 조성물은 TREM의 적어도 1, 2, 3, 4, 5, 6, 7, 8, 9 또는 10가지의 종을 포함하는, TREM 조성물.",
+            "refers_to": [
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 내지 제10항 중 어느 한 항에 있어서, 상기 TREM 조성물(또는 TREM 조성물의 생성에서 중간체)은 다음의 특징 중 하나 이상을 포함하는, TREM 조성물:\n(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;\n(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(host cell protein: HCP) 오염;\n(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 DNA, 예를 들어, 숙주 세포 DNA; \n(v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재, 예를 들어, 투구게 변형세포 용해질(Limulus amebocyte lysate: LAL) 검사로 측정한 바와 같은 음성 결과;\n(vii) 예를 들어, 실시예 15에 기재한 분석에 의해 측정한 바와 같은 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; \n(ix) 멸균성, 예를 들어, 멸균 약물 제품에 대한 cGMP 가이드라인에 따라, 상기 조성물 또는 제제가 무균 조건 하에 시험할 때 100개 미만의 살아있는 미생물의 성장을 지원하고, 상기 조성물 또는 제제가 USP 의 표준을 충족시키고, 그리고/또는 상기 조성물 또는 제제가 USP 의 표준을 충족시킴; 또는\n(x) 바이러스 오염, 예를 들어, 상기 조성물 또는 제제는 바이러스 오염이 존재하지 않거나 또는 검출 가능하지 않는 수준을 가짐.",
+            "refers_to": [
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포에서 tRNA 풀(pool)을 조절하는 방법으로서,\n정제된 TREM 조성물을 제공하는 단계, 및 상기 세포를 상기 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, 상기 세포에서 상기 tRNA 풀을 조절하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 TREM 조성물은:\n상기 TREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 포함하는 포유류 숙주 세포를 제공하는 단계;\n상기 TREM을 발현시키기에 충분한 조건 하에 상기 포유류 세포를 유지하는 단계; 및/또는\n상기 포유류 숙주 세포로부터, 예를 들어, 본 명세서에 기재된 방법에 따라 상기 TREM을 정제하는 단계\n에 의해 제조된, 방법.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 또는 제13항에 있어서, 상기 포유류 숙주 세포는 비-인간 세포 또는 세포주, 또는 인간 세포 또는 세포주, 예를 들어, HEK293T 세포(예를 들어, Freestyle 293-F 세포), HT-1080 세포, PER.C6 세포, HKB-11 세포, CAP 세포, HuH-7 세포, BHK 21 세포, MRC-S 세포, MDCK 세포, VERO 세포, WI-38 세포, 중국 햄스터 난소(CHO) 세포 또는 MCF7 세포로부터 선택된, 방법.",
+            "refers_to": [
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 내지 제14항 중 어느 하나에 있어서, 상기 정제 단계는 다음의 단계 중 하나, 둘 또는 모두를, 예를 들어, 열거된 순서로 포함하는, 방법:\n(i) 핵산을 세포 파편으로부터 분리시켜 RNA 제제를 제공하는 단계;\n(ii) RNA 제제에서 보다 큰 RNA 종으로부터 뉴클레오티드의 역치 수 미만, 예를 들어, 500 nt 미만, 400 nt 미만, 300 nt 미만, 250 nt 미만, 200 nt 미만, 150 nt 미만의 RNA를 분리시켜, 작은 RNA 제제를 생성하는 단계; 및/또는\n(iii) 친화도-기반 분리, 예를 들어, 서열 친화도-기반 분리에 의해 작은 RNA 제제에서 다른 RNA 종으로부터 TREM을 분리시키는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 내지 제15항 중 어느 한 항에 있어서, 상기 TREM은 하기를 포함하는, 방법: \n(i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 80% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열.",
+            "refers_to": [
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "tRNA 효과기 분자(TREM) 조성물을 제조하는 방법으로서,\n(a) TREM을 발현시키기에 충분한 조건 하에 TREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 포함하는 포유류 숙주 세포를 제공하는 단계, 및\n(b) 발현된 TREM을 상기 포유류 숙주 세포로부터 정제시켜 TREM 조성물을 생성하는 단계\n를 포함함으로써, TREM 조성물을 제조하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약제학적 TREM 조성물을 제조하는 방법으로서,\na) TREM, 예를 들어, 정제된 TREM 조성물, 예를 들어, 본 명세서에 기재된 방법에 의해 제조된 TREM 조성물; 및\nb) 약제학적으로 허용 가능한 성분, 예를 들어, 부형제\n를 조합하는 단계를 포함함으로써, 약제학적 TREM 조성물을 제조하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "정제된 tRNA 효과기 분자(TREM) 약제학적 조성물을 제조하는 방법으로서,\n포유류 숙주 세포로부터 TREM을 정제하는 단계;\n정제된 TREM을 약제학적 조성물로서, 예를 들어, TREM을 약제학적 부형제와 조합함으로써 제형화하는 단계\n를 포함함으로써, TREM 약제학적 조성물을 제조하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "TREM 조성물을 제조하는 방법으로서,\n반응 혼합물을 함유하는 TREM을 TREM과 상보성인 핵산 서열을 포함하는 시약, 예를 들어, 포획 시약 또는 분리 시약과 접촉시키는 단계\n를 포함함으로써, TREM 조성물을 제조하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약제학적 조성물을 제조하는 방법으로서,\na) 정제된 TREM 조성물, 예를 들어, TREM을 발현시키기에 충분한 조건 하에 TREM을 암호화하는 DNA 또는 RNA을 포함하는 포유류 숙주 세포를 배양시킴으로써 그리고 정제된 TREM 조성물을 생성하기 위해 발현된 TREM을 숙주 세포 배양물로부터 정제함으로써 제조된, 정제된 TREM 조성물을 제공하는 단계;\nb) 정제된 TREM 조성물의 다음의 특징 (i) 내지 (x) 중 하나 이상에 대해, 예를 들어, 평가 또는 시험함으로써, 값을 제공하는 단계:\n(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;\n(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(HCP) 오염;\n(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 DNA, 예를 들어, 숙주 세포 DNA;\n(v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재, 예를 들어, 투구게 변형세포 용해질(LAL) 검사로 측정한 바와 같은 음성 결과;\n(vii) 예를 들어, 실시예 15에 기재한 분석에 의해 측정한 바와 같은 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; \n(ix) 멸균성, 예를 들어, 멸균 약물 제품에 대한 cGMP 가이드라인에 따라, 조성물 또는 제제가 무균 조건 하에 시험할 때 100개 미만의 살아있는 미생물의 성장을 지원하고, 조성물 또는 제제가 USP 의 표준을 충족시키고, 그리고/또는 조성물 또는 제제가 USP 의 표준을 충족시킴; 또는\n(x) 바이러스 오염, 예를 들어, 조성물 또는 제제는 바이러스 오염이 존재하지 않거나 또는 검출 가능하지 않는 수준을 가진다.\nc) 선택적으로, 한 가지 이상의 특징에 대해 참조 기준을 충족시킨다면, 정제된 TREM 조성물을 약제학적 약물 제품으로서 제형화하는 단계(예를 들어, TREM 조성물을 약제학적 부형제와 조합하는 단계)\n를 포함함으로써, 약제학적 조성물을 제조하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약제학적 tRNA 효과기 분자(TREM) 조성물로서,\n(i) 표 1에 열거된 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 80% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 본 명세서에 제공된 공통서열을 포함하는 RNA 서열\n을 포함하는, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "적어도 0.5 g, 1 g, 2g, 3 g, 4 g, 5 g, 6 g, 7 g, 8 g, 9g, 10 g, 15 g, 20 g, 30 g, 40 g, 50 g, 100 g, 200 g, 300 g, 400 g 또는 500 g의, 재조합 TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "5 g 내지 500 g, 0.5 g 내지 400 g, 0.5 g 내지 300 g, 0.5 g 내지 200 g, 0.5 g 내지 100 g, 0.5 g 내지 50 g, 0.5 g 내지 40 g, 0.5 g 내지 30 g, 0.5 g 내지 20 g, 0.5 g 내지 10 g, 0.5 g 내지 9g, 0.5 g 내지 8 g, 0.5 g 내지 7 g, 0.5 g 내지 6 g, 0.5 g 내지 5 g, 0.5 g 내지 4 g, 0.5 g 내지 3 g, 0.5 g 내지 2g, 0.5 g 내지 1 g, 1g 내지 500 g, 2g 내지 500 g, 5 g 내지 500 g, 10 g 내지 500 g, 20 g 내지 500 g, 30 g 내지 500 g, 40 g 내지 500 g, 50 g 내지 500 g, 100 g 내지 500 g, 200 g 내지 500 g, 300 g 내지 500 g, 또는 400 g 내지 500 g의, 재조합 TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 식 I ZZZ의 공통서열을 포함하는 TREM 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 I은 모든 종에 대응하고; 그리고\n(iii) x=1 내지 271임(예를 들어, x=1 내지 250, x=1 내지 225, x=1 내지 200, x=1 내지 175, x=1 내지 150, x=1 내지 125, x=1 내지 100, x=1 내지 75, x=1 내지 50, x=1 내지 40, x=1 내지 30, x=1 내지 29, x=1 내지 28, x=1 내지 27, x=1 내지 26, x=1 내지 25, x=1 내지 24, x=1 내지 23, x=1 내지 22, x=1 내지 21, x=1 내지 20, x=1 내지 19, x=1 내지 18, x=1 내지 17, x=1 내지 16, x=1 내지 15, x=1 내지 14, x=1 내지 13, x=1 내지 12, x=1 내지 11, x=1 내지 10, x=10 내지 271, x=20 내지 271, x=30 내지 271, x=40 내지 271, x=50 내지 271, x=60 내지 271, x=70 내지 271, x=80 내지 271, x=100 내지 271, x=125 내지 271, x=150 내지 271, x=175 내지 271, x=200 내지 271, x=225 내지 271, x=1, x=2, x=3, x=4, x=5, x=6, x=7, x=8, x=9, x=10, x=11, x=12, x=13, x=14, x=15, x=16, x=17, x=18, x=19, x=20, x=21, x=22, x=23, x=24, x=25, x=26, x=27, x=28, x=29, x=30, x=40, x=50, x=60, x=70, x=80, x=90, x=100, x=110, x=125, x=150, x=175, x=200, x=225, x=250 또는 x=271).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 식 II ZZZ의 공통서열을 포함하는 TREM 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 II는 포유류에 대응하고; 그리고 \n(iii) x=1 내지 271임(예를 들어, x=1 내지 250, x=1 내지 225, x=1 내지 200, x=1 내지 175, x=1 내지 150, x=1 내지 125, x=1 내지 100, x=1 내지 75, x=1 내지 50, x=1 내지 40, x=1 내지 30, x=1 내지 29, x=1 내지 28, x=1 내지 27, x=1 내지 26, x=1 내지 25, x=1 내지 24, x=1 내지 23, x=1 내지 22, x=1 내지 21, x=1 내지 20, x=1 내지 19, x=1 내지 18, x=1 내지 17, x=1 내지 16, x=1 내지 15, x=1 내지 14, x=1 내지 13, x=1 내지 12, x=1 내지 11, x=1 내지 10, x=10 내지 271, x=20 내지 271, x=30 내지 271, x=40 내지 271, x=50 내지 271, x=60 내지 271, x=70 내지 271, x=80 내지 271, x=100 내지 271, x=125 내지 271, x=150 내지 271, x=175 내지 271, x=200 내지 271, x=225 내지 271, x=1, x=2, x=3, x=4, x=5, x=6, x=7, x=8, x=9, x=10, x=11, x=12, x=13, x=14, x=15, x=16, x=17, x=18, x=19, x=20, x=21, x=22, x=23, x=24, x=25, x=26, x=27, x=28, x=29, x=30, x=40, x=50, x=60, x=70, x=80, x=90, x=100, x=110, x=125, x=150, x=175, x=200, x=225, x=250 또는 x=271).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 식 III ZZZ의 공통서열을 포함하는 TREM 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 III은 인간에 대응하고; 그리고 \n(iii) x=1 내지 271임(예를 들어, x=1 내지 250, x=1 내지 225, x=1 내지 200, x=1 내지 175, x=1 내지 150, x=1 내지 125, x=1 내지 100, x=1 내지 75, x=1 내지 50, x=1 내지 40, x=1 내지 30, x=1 내지 29, x=1 내지 28, x=1 내지 27, x=1 내지 26, x=1 내지 25, x=1 내지 24, x=1 내지 23, x=1 내지 22, x=1 내지 21, x=1 내지 20, x=1 내지 19, x=1 내지 18, x=1 내지 17, x=1 내지 16, x=1 내지 15, x=1 내지 14, x=1 내지 13, x=1 내지 12, x=1 내지 11, x=1 내지 10, x=10 내지 271, x=20 내지 271, x=30 내지 271, x=40 내지 271, x=50 내지 271, x=60 내지 271, x=70 내지 271, x=80 내지 271, x=100 내지 271, x=125 내지 271, x=150 내지 271, x=175 내지 271, x=200 내지 271, x=225 내지 271, x=1, x=2, x=3, x=4, x=5, x=6, x=7, x=8, x=9, x=10, x=11, x=12, x=13, x=14, x=15, x=16, x=17, x=18, x=19, x=20, x=21, x=22, x=23, x=24, x=25, x=26, x=27, x=28, x=29, x=30, x=40, x=50, x=60, x=70, x=80, x=90, x=100, x=110, x=125, x=150, x=175, x=200, x=225, x=250 또는 x=271).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포, 조직 또는 대상체를 TREM과 접촉시키는 방법으로서,\n상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, 세포, 조직 또는 대상체를 상기 TREM과 접촉시키는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "TREM을 갖는 세포, 조직 또는 대상체에 TREM을 제시하는 방법으로서,\n상기 세포, 조직 또는 대상체를 정제된 상기 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, 상기 TREM을 세포, 조직 또는 대상체에 제시하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "TREM-접촉 세포, 조직 또는 대상체를 형성하는 방법으로서,\n상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, TREM-접촉 세포, 조직 또는 대상체를 형성하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "TREM를 이용하는 방법으로서,\n세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, TREM을 이용하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포, 조직 또는 대상체에 TREM을 적용하는 방법으로서,\n상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, TREM을 세포, 조직 또는 대상체에 적용하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포, 조직 또는 대상체에 TREM을 노출시키는 방법으로서,\n상기 세포, 조직 또는 대상체를 정제된 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, 세포, 조직 또는 대상체를 TREM에 노출시키는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "TREM과 세포, 조직 또는 대상체의 혼합물을 형성하는 방법으로서,\n상기 세포, 조직 또는 대상체를 TREM 조성물과 접촉시키는 단계\n를 포함함으로써, TREM과 세포, 조직 또는 대상체의 혼합물을 형성하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포, 조직 또는 대상체를 TREM에 전달하는 방법으로서,\n세포, 조직 또는 대상체를 제공하는 단계, 및 상기 세포, 조직 또는 대상체를 TREM 조성물, 예를 들어, 정제된 TREM 조성물, 예를 들어, 약제학적 TREM 조성물과 접촉시키는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대사, 예를 들어, 세포소기관의 번역 능력을 조절하는 방법, 예를 들어, 생체외 방법으로서,\n세포소기관, 예를 들어, 미토콘드리아 또는 엽록체의 제제를 제공하는 단계, 및 상기 세포소기관을 약제학적 TREM 조성물과 접촉시키는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체를 치료하는, 예를 들어, 대상체에서의 대사, 예를 들어, 세포의 번역 능력을 조절하는 방법으로서,\nTREM을 암호화하는 외인성 핵산, 예를 들어, DNA 또는 RNA를 대상체에게 제공하는, 예를 들어, 투여하는 단계\n를 포함함으로써, 대상체를 치료하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "본 명세서에 개시된 TREM을 제조하는 방법에 따라 제조된 TREM을 포함하는 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "본 명세서에 개시된 TREM을 포함하는 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "외인성 핵산을 포함하는 세포로서,\nTREM을 암호화하는 핵산 서열, 예를 들어, DNA 또는 RNA로서,\n(i) 제어 영역 서열;\n(ii) 변형된 TREM을 암호화하는 서열;\n(iii) 하나 초과의 TREM을 암호화하는 서열;\n(iv) tRNAMet 서열 이외의 서열; 또는\n(v) Pol III 인식 부위, 예를 들어, U6 프로모터, 7SK 프로모터 또는 H1 프로모터를 포함하는 프로모터 서열, 또는 이의 단편\n을 포함하는 핵산 서열을 포함하는, 외인성 핵산을 포함하는 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "TREM 및 시약, 예를 들어, 포획 시약, 또는 분리 시약을 포함하는, 반응 혼합물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "외인성 DNA 또는 RNA를 포함하는 본 명세서에 기재된 복수의 포유류 숙주 세포를 포함하는, 바이오리액터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "숙주 세포, 예를 들어, 본 명세서에 기재된 바와 같은 숙주 세포를 포함하는, 마스터 세포 은행.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "정제된 TREM 조성물의 다음의 특징 (i) 내지 (x) 중 하나 이상에 대해 값을 획득하는 단계를 포함하는, TREM, 예를 들어, GMP-등급 TREM(즉, cGMP에 따라, 그리고/또는 유사한 요건에 따라 제조된 TREM)의 조성물을 평가하는 방법:\n(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;\n(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(HCP) 오염;\n(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 DNA, 예를 들어, 숙주 세포 DNA;\n(v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재, 예를 들어, 투구게 변형세포 용해질(LAL) 검사로 측정한 바와 같은 음성 결과;\n(vii) 예를 들어, 실시예 15에 기재한 분석에 의해 측정한 바와 같은 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; \n(ix) 멸균성, 예를 들어, 멸균 가공에 의해 생산된 멸균 약물 제품에 대한 cGMP 가이드라인에 기재된 바와 같이, 상기 조성물 또는 제제가 무균 조건 하에 시험할 때 100개 미만의 살아있는 미생물의 성장을 지원하고, 상기 조성물 또는 제제가 USP 의 표준을 충족시키고, 그리고/또는 상기 조성물 또는 제제가 USP 의 표준을 충족시킴; 또는\n(x) 바이러스 오염, 예를 들어, 상기 조성물 또는 제제는 바이러스 오염이 존재하지 않거나 또는 검출 가능하지 않는 수준을 가짐.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20241219",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 44,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "정제된 tRNA 효과기 분자(tRNA effector molecule: TREM) 약제학적 조성물을 제조하는 방법으로서,\n(i) 상기 TREM을 암호화하는 외인성 핵산을 포함하는 포유류 숙주 세포를 제공하는 단계;\n(ii) 상기 TREM을 발현시키기에 충분한 조건 하에 상기 포유류 숙주 세포를 유지하는 단계;\n(iii) 상기 포유류 숙주 세포로부터 상기 TREM을 정제하는 단계; 및\n(iv) 상기 정제된 TREM을 약제학적 조성물로서 제형화하는 단계\n를 포함함으로써, 상기 TREM 약제학적 조성물을 제조하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 핵산은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편을 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 핵산은 공통서열을 포함하는 RNA 서열을 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 포유류 숙주 세포는 비-인간 세포 또는 세포주, 또는 인간 세포 또는 세포주로부터 선택된, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 정제 단계는 다음의 단계 중 하나, 둘 또는 모두를 포함하는, 방법:\n(i) 핵산을 세포 파편으로부터 분리시켜 RNA 제제를 제공하는 단계;\n(ii) RNA 제제에서 보다 큰 RNA 종으로부터 뉴클레오티드의 역치 수 미만의 RNA를 분리시켜, 작은 RNA 제제를 생성하는 단계; 및/또는\n(iii) 친화도-기반 분리에 의해 작은 RNA 제제에서 다른 RNA 종으로부터 TREM을 분리시키는 단계.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "정제된 tRNA 효과기 분자(TREM)를 포함하는 조성물로서,\n(i) 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 공통서열을 포함하는 RNA 서열\n을 포함하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 조성물은 하나 이상의 TREM을 포함하는, TREM 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 조성물은 TREM의 적어도 1, 2, 3, 4, 5, 6, 7, 8, 9 또는 10가지의 종을 포함하는, TREM 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 TREM 조성물 또는 TREM 조성물의 생성에서 중간체는 다음의 특징 중 하나 이상을 포함하는, TREM 조성물:\n(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;\n(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(host cell protein: HCP) 오염;\n(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) DNA; \n(v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재;\n(vii) 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; \n(ix) 멸균성; 또는\n(x) 바이러스 오염.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "세포에서 tRNA 풀(pool)을 조절하기 위한 정제된 TREM 조성물로서, TREM 조성물은 세포와 접촉되는 것을 특징으로 하고, 여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 TREM 조성물은:\n상기 TREM을 암호화하는 외인성 핵산을 포함하는 포유류 숙주 세포를 제공하는 단계;\n상기 TREM을 발현시키기에 충분한 조건 하에 상기 포유류 숙주 세포를 유지하는 단계; 및/또는\n상기 포유류 숙주 세포로부터 상기 TREM을 정제하는 단계\n에 의해 제조된, 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 포유류 숙주 세포는 비-인간 세포 또는 세포주, 또는 인간 세포 또는 세포주로부터 선택된, 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 정제 단계는 다음의 단계 중 하나, 둘 또는 모두를 포함하는, 조성물:\n(i) 핵산을 세포 파편으로부터 분리시켜 RNA 제제를 제공하는 단계;\n(ii) RNA 제제에서 보다 큰 RNA 종으로부터 뉴클레오티드의 역치 수 미만의 RNA를 분리시켜, 작은 RNA 제제를 생성하는 단계; 및/또는\n(iii) 친화도-기반 분리에 의해 작은 RNA 제제에서 다른 RNA 종으로부터 TREM을 분리시키는 단계.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 TREM은 하기를 포함하는, 조성물: \n(i) 서열 번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 80% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 공통서열을 포함하는 RNA 서열.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "tRNA 효과기 분자(TREM) 조성물을 제조하는 방법으로서,\n(a) TREM을 발현시키기에 충분한 조건 하에 TREM을 암호화하는 외인성 핵산을 포함하는 포유류 숙주 세포를 제공하는 단계, 및\n(b) 발현된 TREM을 상기 포유류 숙주 세포로부터 정제시켜 TREM 조성물을 생성하는 단계\n를 포함함으로써, TREM 조성물을 제조하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "약제학적 TREM 조성물을 제조하는 방법으로서,\na) TREM; 및\nb) 약제학적으로 허용 가능한 성분\n를 조합하는 단계를 포함함으로써, 약제학적 TREM 조성물을 제조하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "정제된 tRNA 효과기 분자(TREM) 약제학적 조성물을 제조하는 방법으로서,\n포유류 숙주 세포로부터 TREM을 정제하는 단계;\n정제된 TREM을 약제학적 조성물로서 제형화하는 단계\n를 포함함으로써, TREM 약제학적 조성물을 제조하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TREM 조성물을 제조하는 방법으로서,\n반응 혼합물을 함유하는 TREM을 TREM과 상보성인 핵산 서열을 포함하는 시약과 접촉시키는 단계\n를 포함함으로써, TREM 조성물을 제조하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "약제학적 조성물을 제조하는 방법으로서,\na) 정제된 TREM 조성물을 제공하는 단계;\nb) 정제된 TREM 조성물의 다음의 특징 (i) 내지 (x) 중 하나 이상에 대해 값을 제공하는 단계:\n(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;\n(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(HCP) 오염;\n(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) DNA;\n(v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재;\n(vii) 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; \n(ix) 멸균성; 또는\n(x) 바이러스 오염\nc) 한 가지 이상의 특징에 대해 참조 기준을 충족시킨다면, 정제된 TREM 조성물을 약제학적 약물 제품으로서 제형화하는 단계\n를 포함함으로써, 약제학적 조성물을 제조하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "약제학적 tRNA 효과기 분자(TREM) 조성물로서,\n(i) 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 80% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 공통서열을 포함하는 RNA 서열\n을 포함하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "적어도 0.5 g, 1 g, 2g, 3 g, 4 g, 5 g, 6 g, 7 g, 8 g, 9g, 10 g, 15 g, 20 g, 30 g, 40 g, 50 g, 100 g, 200 g, 300 g, 400 g 또는 500 g의 재조합 TREM 조성물로서, 여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 재조합 TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "5 g 내지 500 g, 0.5 g 내지 400 g, 0.5 g 내지 300 g, 0.5 g 내지 200 g, 0.5 g 내지 100 g, 0.5 g 내지 50 g, 0.5 g 내지 40 g, 0.5 g 내지 30 g, 0.5 g 내지 20 g, 0.5 g 내지 10 g, 0.5 g 내지 9g, 0.5 g 내지 8 g, 0.5 g 내지 7 g, 0.5 g 내지 6 g, 0.5 g 내지 5 g, 0.5 g 내지 4 g, 0.5 g 내지 3 g, 0.5 g 내지 2g, 0.5 g 내지 1 g, 1g 내지 500 g, 2g 내지 500 g, 5 g 내지 500 g, 10 g 내지 500 g, 20 g 내지 500 g, 30 g 내지 500 g, 40 g 내지 500 g, 50 g 내지 500 g, 100 g 내지 500 g, 200 g 내지 500 g, 300 g 내지 500 g, 또는 400 g 내지 500 g의 재조합 TREM 조성물로서,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 재조합 TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기 식 I ZZZ의 공통서열을 포함하는, 제1항에 따라 제조된 TREM 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 I은 모든 종에 대응하고; 그리고\n(iii) x=1 내지 271임.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기 식 II ZZZ의 공통서열을 포함하는, 제1항에 따라 제조된 TREM 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 II는 포유류에 대응하고; 그리고 \n(iii) x=1 내지 271임.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기 식 III ZZZ의 공통서열을 포함하는, 제1항에 따라 제조된 TREM 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 III은 인간에 대응하고; 그리고 \n(iii) x=1 내지 271임.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "세포, 조직 또는 대상체를 TREM과 접촉시키기 위한 정제된 TREM 조성물로서, 정제된 TREM 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 정제된 TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TREM을 갖는 세포, 조직 또는 대상체에 TREM을 제시하기 위한 정제된 TREM 조성물로서, 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 정제된 TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TREM-접촉 세포, 조직 또는 대상체를 형성하기 위한 정제된 TREM 조성물로서, 정제된 TREM 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 정제된 TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TREM을 이용하기 위한 정제된 TREM 조성물로서, 정제된 TREM 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 정제된 TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "세포, 조직 또는 대상체에 TREM을 적용하기 위한 정제된 TREM 조성물로서, 정제된 TREM 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 정제된 TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "세포, 조직 또는 대상체에 TREM을 노출시키기 위한 정제된 TREM 조성물로서, 정제된 TREM 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 정제된 TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TREM과 세포, 조직 또는 대상체의 혼합물을 형성하기 위한 TREM 조성물로서, TREM 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "세포, 조직 또는 대상체를 TREM에 전달하기 위한 TREM 조성물로서, TREM 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "대사를 조절하기 위한 약제학적 TREM 조성물로서, 약제학적 TREM 조성물을 세포소기관과 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 약제학적 TREM 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따라 제조된 TREM을 포함하는 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TREM을 포함하는 세포로서, 여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "외인성 핵산을 포함하는 세포로서,\nTREM을 암호화하는 핵산 서열로서,\n(i) 제어 영역 서열;\n(ii) 변형된 TREM을 암호화하는 서열;\n(iii) 하나 초과의 TREM을 암호화하는 서열;\n(iv) tRNAMet 서열 이외의 서열; 또는\n(v) Pol III 인식 부위를 포함하는 프로모터 서열\n을 포함하는 핵산 서열을 포함하는, 외인성 핵산을 포함하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TREM 및 시약을 포함하는, 반응 혼합물로서,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 반응 혼합물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "정제된 TREM 조성물의 다음의 특징 (i) 내지 (x) 중 하나 이상에 대해 값을 획득하는 단계를 포함하는, TREM의 조성물을 평가하는 방법:\n(i) 적어도 30%, 40%, 50%, 60%, 70%, 80%, 85%, 90%, 91%, 92%, 93%, 94%, 95%, 96%, 97%, 98% 또는 99%의 순도;\n(ii) 0.1 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 15 ng/㎖, 20 ng/㎖, 25 ng/㎖, 30 ng/㎖, 35 ng/㎖, 40 ng/㎖, 50 ng/㎖, 60 ng/㎖, 70 ng/㎖, 80 ng/㎖, 90 ng/㎖ 또는 100 ng/㎖ 미만의 숙주 세포 단백질(HCP) 오염;\n(iii) TREM 조성물의 밀리그램(㎎)당 0.1 ng, 1 ng, 5 ng, 10 ng, 15 ng, 20 ng, 25 ng, 30 ng, 35 ng, 40 ng, 50 ng, 60 ng, 70 ng, 80 ng, 90 ng 또는 100 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) DNA;\n(v) 전장 TREM에 대해 0.1%, 0.5%, 1%, 2%, 3%, 4%, 5%, 6%, 7%, 8%, 9% 또는 10% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재;\n(vii) 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖, 0.5 ng/㎖, 1 ng/㎖, 5 ng/㎖, 10 ng/㎖, 50 ng/㎖, 0.1 ㎍/㎖, 0.5 ㎍/㎖, 1 ㎍/㎖, 2 ㎍/㎖, 5 ㎍/㎖, 10 ㎍/㎖, 20 ㎍/㎖, 30 ㎍/㎖, 40 ㎍/㎖, 50 ㎍/㎖, 60 ㎍/㎖, 70 ㎍/㎖, 80 ㎍/㎖, 100 ㎍/㎖, 200 ㎍/㎖, 300 ㎍/㎖, 500 ㎍/㎖, 1000 ㎍/㎖, 5000 ㎍/㎖, 10,000 ㎍/㎖ 또는 100,000 ㎍/㎖의 TREM 농도; \n(ix) 멸균성; 또는\n(x) 바이러스 오염,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것임.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20251024",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 38,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "정제된 tRNA 효과기 분자(tRNA effector molecule: TREM) 약제학적 조성물을 제조하는 방법으로서,\n(i) 상기 TREM을 암호화하는 외인성 핵산을 포함하는 포유류 숙주 세포를 제공하는 단계로서, 상기 외인성 핵산은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 포함하는, 단계;\n(ii) 상기 TREM을 발현시키기에 충분한 조건 하에 상기 포유류 숙주 세포를 유지하는 단계;\n(iii) 상기 포유류 숙주 세포로부터 상기 TREM을 정제하는 단계; 및\n(iv) 상기 정제된 TREM을 약제학적 조성물로서 제형화하는 단계\n를 포함함으로써, 상기 정제된 TREM 약제학적 조성물을 제조하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 TREM은 참조 세포에서 가장 가까운 tRNA로부터 적어도 1개의 뉴클레오티드 또는 1개의 전사 후 변형만큼 차이가 나는 것인, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 포유류 숙주 세포는 비-인간 세포, 또는 인간 세포로부터 선택된, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 정제 단계는 다음의 단계 중 하나를 포함하는, 방법:\n(i) 핵산을 세포 파편으로부터 분리시켜 RNA 제제를 제공하는 단계;\n(ii) RNA 제제에서 보다 큰 RNA 종으로부터 뉴클레오티드의 역치 수 미만의 RNA를 분리시켜, 작은 RNA 제제를 생성하는 단계; 및\n(iii) 친화도-기반 분리에 의해 작은 RNA 제제에서 다른 RNA 종으로부터 TREM을 분리시키는 단계.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 정제된 TREM 약제학적 조성물, 또는 TREM 조성물의 생성에서 중간체는 다음의 특징 중 하나 이상을 포함하는, 방법:\n(i) 적어도 30%의 순도;\n(ii) 0.1 ng/㎖ 미만의 숙주 세포 단백질(host cell protein: HCP) 오염;\n(iii) 정제된 TREM 조성물의 밀리그램(㎎)당 0.1 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) 1 ng/ml 미만의 DNA; \n(v) 전장 TREM에 대해 0.1% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재;\n(vii) 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖의 TREM 농도; \n(ix) 멸균성; 및\n(x) 바이러스 오염.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 정제된 TREM 약제학적 조성물이, 세포에서 tRNA 풀(pool)을 조절하고, 정제된 TREM 약제학적 조성물은 세포와 접촉됨으로써 세포에서 tRNA 풀을 조절하는 것을 특징으로 하고, 여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "정제된 TREM 약제학적 조성물을 제조하는 방법으로서,\na) TREM; 및\nb) 약제학적으로 허용 가능한 성분\n을 조합하는 단계를 포함함으로써, 정제된 TREM 약제학적 조성물을 제조하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "정제된 tRNA 효과기 분자(TREM) 약제학적 조성물을 제조하는 방법으로서,\n포유류 숙주 세포로부터 TREM을 정제하는 단계;\n정제된 TREM을 약제학적 조성물로서 제형화하는 단계\n를 포함함으로써, 정제된 TREM 약제학적 조성물을 제조하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "약제학적 조성물을 제조하는 방법으로서,\na) TREM을 발현시키기에 충분한 조건 하에 TREM을 암호화하는 DNA 또는 RNA를 포함하는 포유류 숙주 세포를 배양시킴으로써 정제된 TREM 조성물을 제공하는 단계로서, 상기 DNA 또는 RNA는 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 암호화하고, 발현된 TREM을 숙주 세포 배양물로부터 정제시켜 정제된 TREM 조성물을 생성하는 단계;\nb) 정제된 TREM 조성물의 다음의 특징 (i) 내지 (x) 중 하나 이상에 대해 값을 제공하는 단계:\n(i) 적어도 30%의 순도;\n(ii) 0.1 ng/㎖ 미만의 숙주 세포 단백질(HCP) 오염;\n(iii) 정제된 TREM 조성물의 밀리그램(㎎)당 0.1 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) 1 ng/ml 미만의 DNA;\n(v) 전장 TREM에 대해 0.1% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재;\n(vii) 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖의 TREM 농도; \n(ix) 멸균성; 및\n(x) 바이러스 오염; 및\nc) 한 가지 이상의 특징에 대해 참조 기준을 충족시킨다면, 정제된 TREM 조성물을 약제학적 약물 제품으로서 제형화하는 단계\n를 포함함으로써, 약제학적 조성물을 제조하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "정제된 tRNA 효과기 분자(TREM) 약제학적 조성물로서,\n(i) 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열, 또는 이의 단편 또는 기능성 단편; 또는\n(ii) 공통서열을 포함하는 RNA 서열\n을 포함하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기 식 I ZZZ의 공통서열을 포함하는, 제1항의 방법에 따라 제조된 정제된 TREM 약제학적 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 I은 모든 종에 대응하고; 그리고\n(iii) x=1 내지 271임.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기 식 II ZZZ의 공통서열을 포함하는, 제1항의 방법에 따라 제조된 정제된 TREM 약제학적 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 II는 포유류에 대응하고; 그리고 \n(iii) x=1 내지 271임.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기 식 III ZZZ의 공통서열을 포함하는, 제1항의 방법에 따라 제조된 정제된 TREM 약제학적 조성물:\nR0-R1-R2-R3-R4-R5-R6-R7-R8-R9-R10-R11-R12-R13-R14-R15-R16-R17-R18-R19-R20-R21-R22-R23-R24-R25-R26-R27-R28-R29-R30-R31-R32-R33-R34-R35-R36-R37-R38-R39-R40-R41-R42-R43-R44-R45-R46-[R47]x-R48-R49-R50-R51-R52-R53-R54-R55-R56-R57-R58-R59-R60-R61-R62-R63-R64-R65-R66-R67-R68-R69-R70-R71-R72\n식 중:\nR은 리보뉴클레오티드 잔기이고;\n(i) ZZZ는 임의의 20가지 아미노산을 나타내며;\n(ii) 식 III은 인간에 대응하고; 그리고 \n(iii) x=1 내지 271임.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "세포, 조직 또는 대상체를 TREM과 접촉시키기 위한 정제된 TREM 약제학적 조성물로서, 정제된 TREM 약제학적 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것이고;\n여기서 TREM은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 포함하는, 정제된 TREM 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TREM을 갖는 세포, 조직 또는 대상체에 TREM을 제시하기 위한 정제된 TREM 약제학적 조성물로서, 정제된 TREM 약제학적 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것이고;\n여기서 TREM은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 포함하는, 정제된 TREM 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TREM-접촉 세포, 조직 또는 대상체를 형성하기 위한 정제된 TREM 약제학적 조성물로서, 정제된 TREM 약제학적 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것이고;\n여기서 TREM은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 포함하는, 정제된 TREM 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TREM을 이용하기 위한 정제된 TREM 약제학적 조성물로서, 정제된 TREM 약제학적 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것이고;\n여기서 TREM은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 포함하는, 정제된 TREM 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "세포, 조직 또는 대상체에 TREM을 적용하기 위한 정제된 TREM 약제학적 조성물로서, 정제된 TREM 약제학적 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것이고;\n여기서 TREM은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 포함하는, 정제된 TREM 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "세포, 조직 또는 대상체에 TREM을 노출시키기 위한 정제된 TREM 약제학적 조성물로서, 정제된 TREM 약제학적 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것이고;\n여기서 TREM은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 포함하는, 정제된 TREM 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TREM과 세포, 조직 또는 대상체의 혼합물을 형성하기 위한 정제된 TREM 약제학적 조성물로서, 정제된 TREM 약제학적 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것이고;\n여기서 TREM은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 포함하는, 정제된 TREM 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "세포, 조직 또는 대상체를 TREM에 전달하기 위한 정제된 TREM 약제학적 조성물로서, 정제된 TREM 약제학적 조성물을 세포, 조직 또는 대상체와 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것이고;\n여기서 TREM은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 포함하는, 정제된 TREM 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "대사를 조절하기 위한 정제된 TREM 약제학적 조성물로서, 정제된 TREM 약제학적 조성물을 세포소기관과 접촉시키는 것을 특징으로 하고,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것이고;\n여기서 TREM은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 포함하는, 정제된 TREM 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "정제된 TREM 약제학적 조성물의 다음의 특징 (i) 내지 (x) 중 하나 이상에 대해 값을 획득하는 단계를 포함하는, 정제된 TREM 약제학적 조성물을 평가하는 방법:\n(i) 적어도 30%의 순도;\n(ii) 0.1 ng/㎖ 미만의 숙주 세포 단백질(HCP) 오염;\n(iii) 정제된 TREM 약제학적 조성물의 밀리그램(㎎)당 0.1 ng 미만의 숙주 세포 단백질(HCP) 오염;\n(iv) DNA;\n(v) 전장 TREM에 대해 0.1% 미만의 TREM 단편;\n(vi) 내독소의 낮은 수준 또는 부재;\n(vii) 시험관내 번역 활성;\n(viii) 적어도 0.1 ng/㎖의 TREM 농도; \n(ix) 멸균성; 및\n(x) 바이러스 오염,\n여기서 TREM은 폴리펩티드 쇄의 개시 또는 신장에서 아미노산의 수용 또는 아미노산의 전달을 매개할 수 있는 것이고, 여기서 TREM은 서열번호 1 내지 451 중 어느 하나의 DNA 서열에 의해 암호화된 RNA 서열에 대해 적어도 90% 동일한 RNA 서열을 포함함.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 44,
+      "after_claim_count": 38,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.07.23",
+      "internationOpenNumber": "WO2020150608",
+      "internationalApplicationDate": "2020.01.17",
+      "internationalApplicationNumber": "PCT/US2020/014092"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 ***** 매사추세츠주 케임브리지 케임브리지 파크웨이 ** *쓰 플로어 스위트 ***이",
+      "code": "520210602741",
+      "country": "미국",
+      "engName": "FLAGSHIP PIONEERING, INC.",
+      "name": "플래그쉽 파이어니어링, 인크."
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 ***** 매사추세츠주 케임브리...",
+        "code": "",
+        "country": "",
+        "engName": "BERRY, David, Arthur",
+        "name": "베리, 데이비드, 아서"
+      },
+      {
+        "address": "미국 ***** 매사추세츠주 케임브리...",
+        "code": "",
+        "country": "",
+        "engName": "ANASTASSIADIS, Theonie",
+        "name": "아나스타시아디스, 테오니"
+      },
+      {
+        "address": "미국 ***** 매사추세츠주 케임브리...",
+        "code": "",
+        "country": "",
+        "engName": "AFEYAN, Noubar, Boghos",
+        "name": "아페얀, 누바, 보고스"
+      },
+      {
+        "address": "미국 ***** 매사추세츠주 케임브리...",
+        "code": "",
+        "country": "",
+        "engName": "HAJDIN, Christine, Elizabeth",
+        "name": "하이딘, 크리스틴, 엘리자베스"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980003619",
+        "country": "대한민국",
+        "engName": "YANG, Young June",
+        "name": "양영준"
+      },
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "920000001071",
+        "country": "대한민국",
+        "engName": "LEE, Sang Nam",
+        "name": "이상남"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2019.01.18",
+        "priorityApplicationNumber": "62/794,342"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2019.05.31",
+        "priorityApplicationNumber": "62/855,547"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2012006551 A2",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "RNA. 1998 Nov; 4(11): 1436-1443",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2016115632 A1",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.08.17",
+        "receiptNumber": "1-1-2021-0941331-86"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2021.08.27",
+        "receiptNumber": "1-5-2021-0135638-41"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.10.27",
+        "receiptNumber": "1-1-2021-1231634-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2021.11.10",
+        "receiptNumber": "1-1-2021-1294326-82"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.11.15",
+        "receiptNumber": "1-5-2021-0178846-83"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.01.17",
+        "receiptNumber": "1-1-2023-0061774-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2023.06.19",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2023.09.22",
+        "receiptNumber": "9-6-2024-0110328-19"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.07.19",
+        "receiptNumber": "9-5-2024-0608056-18"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2024.09.19",
+        "receiptNumber": "1-1-2024-1018757-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2024.10.18",
+        "receiptNumber": "1-1-2024-1135325-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2024.11.19",
+        "receiptNumber": "1-1-2024-1272887-72"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.12.19",
+        "receiptNumber": "1-1-2024-1414121-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.12.19",
+        "receiptNumber": "1-1-2024-1414122-61"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.06.27",
+        "receiptNumber": "9-5-2025-0612462-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2025.08.27",
+        "receiptNumber": "1-1-2025-0981303-83"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2025.09.29",
+        "receiptNumber": "1-1-2025-1109584-09"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.10.24",
+        "receiptNumber": "1-1-2025-1188941-81"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.10.24",
+        "receiptNumber": "1-1-2025-1188940-35"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2026.01.29",
+        "receiptNumber": "9-5-2026-0104515-55"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217025961.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93b34736e10f226bd6b7093318264bce8d146b89522f0df686c7925ca587b0e9b0ba3a76538c2a0a31da0a0d9cdd2d155dd7bc834184b19ec7",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf58bc087139ad7994fb7847e022d6c9e1aae4eb56aa599c324dc36f6165a4f358ef2c3e7aed3a09f6a3f2eed100b44048f85896f534e1eb3e"
+  },
+  "rndInfoArray": ""
+}

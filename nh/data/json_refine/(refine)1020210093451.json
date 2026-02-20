@@ -1,0 +1,726 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2021.07.16",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-0093451",
+      "claimCount": "13",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "Tie2 작용제 항체 및 이의 용도",
+      "inventionTitleEng": "Tie2 Agonistic Antibodies and Uses Thereof",
+      "openDate": "2022.11.15",
+      "openNumber": "10-2022-0151522",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.07.29",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 인간 Tie2의 Ig3 Fn3 도메인에 결합하는 Tie2 작용제 항체 또는 이의 항원 결합 단편에 관한 것으로, 상기 항체의 결합에 의해, 호모이합체 (homodimer) Tie2가 다각형 조립체 (polygonal assembly)를 형성하여, 클러스터링 (clustering) 및 활성화될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020210093451",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210716",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Tie2 작용제 항체 또는 이의 항원 결합단편으로,\n상기 항체는 인간 Tie2의 Ig3 Fn3 (membrane proximal fibronectin type III) 도메인에 결합하고, \n상기 항체의 결합에 의해, 호모이합체 (homodimer) Tie2가 다각형 조립체 (polygonal assembly)를 형성하여, 클러스터링 (clustering) 및 활성화되는 것을 특징으로 하는 항체 또는 이의 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \n상기 항체는 서열번호 1의 서열을 포함하는 중쇄 가변영역 도메인 (VH), 서열번호 3의 서열을 포함하는 중쇄 불변 도메인 (CH), 서열번호 2의 서열을 포함하는 경쇄 가변영역 도메인 (VL) 및 서열번호 4의 서열을 포함하는 경쇄 불변 도메인 (CL))을 포함하는 Fab인 것을 특징으로 하는, 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \n서열번호 5 또는 서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역; 및 \n서열번호 6 또는 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역을 포함하는, 항체 또는 이의 항원 결합단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, \n서열번호 5의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 6의 아미노산 서열을 포함하는 경쇄 가변영역;\n서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 6의 아미노산 서열을 포함하는 경쇄 가변영역;\n서열번호 5의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역; 또는\n서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역을 포함하는, 항체 또는 이의 항원 결합단편.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항의 항체 또는 이의 항원 결합단편을 코딩하는 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, 서열번호 9 내지 14로 구성된 군에서 선택되는 서열을 포함하는 것을 특징으로 하는 핵산.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항의 핵산을 포함하는 발현벡터.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항의 발현 벡터로 형질전환된 세포.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다음 단계를 포함하는 Tie2 작용제 항체 또는 이의 항원 결합 단편의 제조방법:\n(a) 제8항의 세포를 배양하는 단계; 및\n(b) 상기 배양된 세포에서 항체 또는 이의 항원 결합 단편을 회수하는 단계.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항의 항체 또는 이의 항원 결합 단편을 유효성분으로 포함하는 혈관신생 질환의 예방 또는 치료용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 혈관신생 질환은 암, 전이(metastasis), 당뇨망막병증(diabetic retinopathy), 미숙아 망막병증(retinopathy of prematurity), 각막 이식 거부(corneal graft rejection), 황반변성 (macular degeneration), 혈관신생성녹내장(neovascular glaucoma), 전신홍색증(erythrosis), 증식성망막증(proliferative retinopathy), 건선(psoriasis), 혈우병성 고관절염(hemophilic arthritis), 동맹경화성 플라크(atherosclerotic plaques)의 모세혈관 형성, 켈로이드(keloid), 상처 과립화(wound granulation), 혈관 유착(vascular adhesion), 류마티스 관절염(rheumatoid arthritis), 퇴행성 관절염(osteoarthritis), 자기면역질환(autoimmune diseases), 크론병(Crohn's disease), 레스테노시스(restenosis), 죽상동맥경화증(atherosclerosis), 장협착(intestinal adhesions), 고양이 찰과상 감염증(cat scratch disease), 궤양(ulcer), 간경변증(liver cirrhosis), 신장염(nephritis), 당뇨병성 신장질환(diabetic nephropathy), 진성 당뇨병(diabetes mellitus), 염증 질환(inflammatory diseases) 및 신경변성 질환(neurodegenerative diseases)으로 구성된 군에서 선택된 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 암은 식도암(esophageal cancer), 위암(stomach cancer), 대장암(large intestine cancer), 직장암(rectal cancer), 구강암(oral cancer), 인두암(pharynx cancer), 후두암(larynx cancer), 폐암(lung cancer), 결장암(colon cancer), 유방암(breast cancer), 자궁경부암(uterine cervical cancer), 자궁내막암(endometrial cancer), 난소암(ovarian cancer), 전립선암(prostate cancer), 고환암(testis cancer), 방광암(bladder cancer), 신장암(renal cancer), 간암(liver cancer), 췌장암(pancreatic cancer), 뼈암(bone cancer), 결합조직암(connective tissue cancer), 피부암(skin cancer), 뇌종양(brain cancer), 갑상선암(thyroid cancer), 백혈병(leukemia), 호지킨 림프종(Hodgkin's lymphoma), 림프종(lymphoma) 및 다발성 골수혈액암(multiple myeloid blood cancer)으로 구성된 군에서 선택된 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항의 항체 또는 이의 항원 결합 단편을 포함하는, 다른 혈관신생 질환 치료제와의 병용투여용 조성물.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20250415",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Tie2 작용제 항체 또는 이의 항원 결합단편으로,상기 항체는 인간 Tie2의 Ig3 Fn3 (membrane proximal fibronectin type III) 도메인에 결합하고, 상기 항체의 결합에 의해, 호모이합체 (homodimer) Tie2가 다각형 조립체 (polygonal assembly)를 형성하여, 클러스터링 (clustering) 및 활성화되는 것을 특징으로 하는 항체 또는 이의 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체는 서열번호 1의 서열을 포함하는 중쇄 가변영역 도메인 (VH), 서열번호 3의 서열을 포함하는 중쇄 불변 도메인 (CH), 서열번호 2의 서열을 포함하는 경쇄 가변영역 도메인 (VL) 및 서열번호 4의 서열을 포함하는 경쇄 불변 도메인 (CL))을 포함하는 Fab인 것을 특징으로 하는, 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 서열번호 5 또는 서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역; 및 서열번호 6 또는 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역을 포함하는, 항체 또는 이의 항원 결합단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 서열번호 5의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 6의 아미노산 서열을 포함하는 경쇄 가변영역;서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 6의 아미노산 서열을 포함하는 경쇄 가변영역;서열번호 5의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역; 또는서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역을 포함하는, 항체 또는 이의 항원 결합단편.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항의 항체 또는 이의 항원 결합단편을 코딩하는 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, 서열번호 9 내지 14로 구성된 군에서 선택되는 서열을 포함하는 것을 특징으로 하는 핵산.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항의 핵산을 포함하는 발현벡터.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항의 발현 벡터로 형질전환된 세포.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "다음 단계를 포함하는 Tie2 작용제 항체 또는 이의 항원 결합 단편의 제조방법:(a) 제8항의 세포를 배양하는 단계; 및(b) 상기 배양된 세포에서 항체 또는 이의 항원 결합 단편을 회수하는 단계.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항의 항체 또는 이의 항원 결합 단편을 유효성분으로 포함하는 혈관신생 질환의 예방 또는 치료용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 혈관신생 질환은 암, 전이(metastasis), 당뇨망막병증(diabetic retinopathy), 미숙아 망막병증(retinopathy of prematurity), 각막 이식 거부(corneal graft rejection), 황반변성 (macular degeneration), 혈관신생성녹내장(neovascular glaucoma), 전신홍색증(erythrosis), 증식성망막증(proliferative retinopathy), 건선(psoriasis), 혈우병성 고관절염(hemophilic arthritis), 동맹경화성 플라크(atherosclerotic plaques)의 모세혈관 형성, 켈로이드(keloid), 상처 과립화(wound granulation), 혈관 유착(vascular adhesion), 류마티스 관절염(rheumatoid arthritis), 퇴행성 관절염(osteoarthritis), 자기면역질환(autoimmune diseases), 크론병(Crohn's disease), 레스테노시스(restenosis), 죽상동맥경화증(atherosclerosis), 장협착(intestinal adhesions), 고양이 찰과상 감염증(cat scratch disease), 궤양(ulcer), 간경변증(liver cirrhosis), 신장염(nephritis), 당뇨병성 신장질환(diabetic nephropathy), 진성 당뇨병(diabetes mellitus), 염증 질환(inflammatory diseases) 및 신경변성 질환(neurodegenerative diseases)으로 구성된 군에서 선택된 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 암은 식도암(esophageal cancer), 위암(stomach cancer), 대장암(large intestine cancer), 직장암(rectal cancer), 구강암(oral cancer), 인두암(pharynx cancer), 후두암(larynx cancer), 폐암(lung cancer), 결장암(colon cancer), 유방암(breast cancer), 자궁경부암(uterine cervical cancer), 자궁내막암(endometrial cancer), 난소암(ovarian cancer), 전립선암(prostate cancer), 고환암(testis cancer), 방광암(bladder cancer), 신장암(renal cancer), 간암(liver cancer), 췌장암(pancreatic cancer), 뼈암(bone cancer), 결합조직암(connective tissue cancer), 피부암(skin cancer), 뇌종양(brain cancer), 갑상선암(thyroid cancer), 백혈병(leukemia), 호지킨 림프종(Hodgkin's lymphoma), 림프종(lymphoma) 및 다발성 골수혈액암(multiple myeloid blood cancer)으로 구성된 군에서 선택된 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항의 항체 또는 이의 항원 결합 단편을 포함하는, 다른 혈관신생 질환 치료제와의 병용투여용 조성물.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210716",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Tie2 작용제 항체 또는 이의 항원 결합단편으로,\n상기 항체는 인간 Tie2의 Ig3 Fn3 (membrane proximal fibronectin type III) 도메인에 결합하고, \n상기 항체의 결합에 의해, 호모이합체 (homodimer) Tie2가 다각형 조립체 (polygonal assembly)를 형성하여, 클러스터링 (clustering) 및 활성화되는 것을 특징으로 하는 항체 또는 이의 항원 결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \n상기 항체는 서열번호 1의 서열을 포함하는 중쇄 가변영역 도메인 (VH), 서열번호 3의 서열을 포함하는 중쇄 불변 도메인 (CH), 서열번호 2의 서열을 포함하는 경쇄 가변영역 도메인 (VL) 및 서열번호 4의 서열을 포함하는 경쇄 불변 도메인 (CL))을 포함하는 Fab인 것을 특징으로 하는, 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \n서열번호 5 또는 서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역; 및 \n서열번호 6 또는 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역을 포함하는, 항체 또는 이의 항원 결합단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, \n서열번호 5의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 6의 아미노산 서열을 포함하는 경쇄 가변영역;\n서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 6의 아미노산 서열을 포함하는 경쇄 가변영역;\n서열번호 5의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역; 또는\n서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역을 포함하는, 항체 또는 이의 항원 결합단편.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항의 항체 또는 이의 항원 결합단편을 코딩하는 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, 서열번호 9 내지 14로 구성된 군에서 선택되는 서열을 포함하는 것을 특징으로 하는 핵산.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항의 핵산을 포함하는 발현벡터.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항의 발현 벡터로 형질전환된 세포.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다음 단계를 포함하는 Tie2 작용제 항체 또는 이의 항원 결합 단편의 제조방법:\n(a) 제8항의 세포를 배양하는 단계; 및\n(b) 상기 배양된 세포에서 항체 또는 이의 항원 결합 단편을 회수하는 단계.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항의 항체 또는 이의 항원 결합 단편을 유효성분으로 포함하는 혈관신생 질환의 예방 또는 치료용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 혈관신생 질환은 암, 전이(metastasis), 당뇨망막병증(diabetic retinopathy), 미숙아 망막병증(retinopathy of prematurity), 각막 이식 거부(corneal graft rejection), 황반변성 (macular degeneration), 혈관신생성녹내장(neovascular glaucoma), 전신홍색증(erythrosis), 증식성망막증(proliferative retinopathy), 건선(psoriasis), 혈우병성 고관절염(hemophilic arthritis), 동맹경화성 플라크(atherosclerotic plaques)의 모세혈관 형성, 켈로이드(keloid), 상처 과립화(wound granulation), 혈관 유착(vascular adhesion), 류마티스 관절염(rheumatoid arthritis), 퇴행성 관절염(osteoarthritis), 자기면역질환(autoimmune diseases), 크론병(Crohn's disease), 레스테노시스(restenosis), 죽상동맥경화증(atherosclerosis), 장협착(intestinal adhesions), 고양이 찰과상 감염증(cat scratch disease), 궤양(ulcer), 간경변증(liver cirrhosis), 신장염(nephritis), 당뇨병성 신장질환(diabetic nephropathy), 진성 당뇨병(diabetes mellitus), 염증 질환(inflammatory diseases) 및 신경변성 질환(neurodegenerative diseases)으로 구성된 군에서 선택된 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 암은 식도암(esophageal cancer), 위암(stomach cancer), 대장암(large intestine cancer), 직장암(rectal cancer), 구강암(oral cancer), 인두암(pharynx cancer), 후두암(larynx cancer), 폐암(lung cancer), 결장암(colon cancer), 유방암(breast cancer), 자궁경부암(uterine cervical cancer), 자궁내막암(endometrial cancer), 난소암(ovarian cancer), 전립선암(prostate cancer), 고환암(testis cancer), 방광암(bladder cancer), 신장암(renal cancer), 간암(liver cancer), 췌장암(pancreatic cancer), 뼈암(bone cancer), 결합조직암(connective tissue cancer), 피부암(skin cancer), 뇌종양(brain cancer), 갑상선암(thyroid cancer), 백혈병(leukemia), 호지킨 림프종(Hodgkin's lymphoma), 림프종(lymphoma) 및 다발성 골수혈액암(multiple myeloid blood cancer)으로 구성된 군에서 선택된 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항의 항체 또는 이의 항원 결합 단편을 포함하는, 다른 혈관신생 질환 치료제와의 병용투여용 조성물.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20250415",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 9,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "Tie2 작용제 항체 또는 이의 항원 결합단편으로,\n상기 항체는 인간 Tie2의 Ig3 Fn3 (membrane proximal fibronectin type III) 도메인에 결합하고, \n상기 항체의 결합에 의해, 호모이합체 (homodimer) Tie2가 다각형 조립체 (polygonal assembly)를 형성하여, 클러스터링 (clustering) 및 활성화되는 것을 특징으로 하는 항체 또는 이의 항원 결합 단편으로서,\n상기 항체 또는 이의 항원 결합 단편은 중쇄 가변영역을 포함하며, 상기 중쇄 가변영역은 아미노산 서열 GYSFTSYW를 포함하는 HCDR1, 아미노산 서열 IHPSDSET을 포함하는 HCDR2 및 아미노산 서열 ARGLYGNS를 포함하는 HCDR3를 포함하고, 상기 중쇄 가변영역은 서열번호 5 또는 7의 아미노산 서열과 적어도 95%, 96%, 97%, 98% 또는 99% 이상의 상동성을 갖는 아미노산 서열을 포함하며,\n상기 항체 또는 이의 항원 결합 단편은 경쇄 가변영역을 포함하며, 상기 경쇄 가변영역은 아미노산 서열 QDIGIS를 포함하는 LCDR1, 아미노산 서열 ATS를 포함하는 LCDR2 및 아미노산 서열 LQYASSPYT을 포함하는 LCDR3를 포함하고, 상기 경쇄 가변영역은 서열번호 6 또는 8의 아미노산 서열과 적어도 95%, 96%, 97%, 98% 또는 99% 이상의 상동성을 갖는 아미노산 서열을 포함하는,\n항체 또는 이의 항원 결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, \n서열번호 5 또는 서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역; 및 \n서열번호 6 또는 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역을 포함하는, 항체 또는 이의 항원 결합단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, \n서열번호 5의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 6의 아미노산 서열을 포함하는 경쇄 가변영역;\n서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 6의 아미노산 서열을 포함하는 경쇄 가변영역;\n서열번호 5의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역; 또는\n서열번호 7의 아미노산 서열을 포함하는 중쇄 가변영역 및 서열번호 8의 아미노산 서열을 포함하는 경쇄 가변영역을 포함하는, 항체 또는 이의 항원 결합단편.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서,\n서열번호 25, 27 또는 33 중 어느 하나의 아미노산 서열을 포함하는 중쇄 불변영역; 및\n서열번호 31의 아미노산 서열을 포함하는 경쇄 불변영역을 추가적으로 포함하는, 항체 또는 이의 항원 결합단편.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 서열번호 11 내지 14로 구성된 군에서 선택되는 서열을 포함하는 것을 특징으로 하는 핵산.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항의 항체 또는 이의 항원 결합 단편을 유효성분으로 포함하는 혈관신생 질환의 예방 또는 치료용 약학 조성물로서, \n상기 혈관신생 질환은 암, 전이(metastasis), 당뇨망막병증(diabetic retinopathy), 미숙아 망막병증(retinopathy of prematurity), 각막 이식 거부(corneal graft rejection), 황반변성 (macular degeneration), 혈관신생성녹내장(neovascular glaucoma), 전신홍색증(erythrosis), 증식성망막증(proliferative retinopathy), 건선(psoriasis), 혈우병성 고관절염(hemophilic arthritis), 동맥경화성 플라크(atherosclerotic plaques)의 모세혈관 형성, 켈로이드(keloid), 상처 과립화(wound granulation), 혈관 유착(vascular adhesion), 류마티스 관절염(rheumatoid arthritis), 퇴행성 관절염(osteoarthritis), 자기면역질환(autoimmune diseases), 크론병(Crohn's disease), 레스테노시스(restenosis), 죽상동맥경화증(atherosclerosis), 장협착(intestinal adhesions), 고양이 찰과상 감염증(cat scratch disease), 궤양(ulcer), 간경변증(liver cirrhosis), 신장염(nephritis), 당뇨병성 신장질환(diabetic nephropathy), 진성 당뇨병(diabetes mellitus), 염증 질환(inflammatory diseases) 및 신경변성 질환(neurodegenerative diseases)으로 구성된 군에서 선택된 것을 특징으로 하는 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 암은 식도암(esophageal cancer), 위암(stomach cancer), 대장암(large intestine cancer), 직장암(rectal cancer), 구강암(oral cancer), 인두암(pharynx cancer), 후두암(larynx cancer), 폐암(lung cancer), 결장암(colon cancer), 유방암(breast cancer), 자궁경부암(uterine cervical cancer), 자궁내막암(endometrial cancer), 난소암(ovarian cancer), 전립선암(prostate cancer), 고환암(testis cancer), 방광암(bladder cancer), 신장암(renal cancer), 간암(liver cancer), 췌장암(pancreatic cancer), 뼈암(bone cancer), 결합조직암(connective tissue cancer), 피부암(skin cancer), 뇌종양(brain cancer), 갑상선암(thyroid cancer), 백혈병(leukemia), 호지킨 림프종(Hodgkin's lymphoma), 림프종(lymphoma) 및 다발성 골수혈액암(multiple myeloid blood cancer)으로 구성된 군에서 선택된 것을 특징으로 하는 약학 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항의 항체 또는 이의 항원 결합 단편을 포함하는, 다른 혈관신생 질환 치료제와의 병용투여를 위한 혈관신생 질환의 예방 또는 치료용 약학 조성물로서,\n상기 혈관신생 질환은 암, 전이(metastasis), 당뇨망막병증(diabetic retinopathy), 미숙아 망막병증(retinopathy of prematurity), 각막 이식 거부(corneal graft rejection), 황반변성 (macular degeneration), 혈관신생성녹내장(neovascular glaucoma), 전신홍색증(erythrosis), 증식성망막증(proliferative retinopathy), 건선(psoriasis), 혈우병성 고관절염(hemophilic arthritis), 동맥경화성 플라크(atherosclerotic plaques)의 모세혈관 형성, 켈로이드(keloid), 상처 과립화(wound granulation), 혈관 유착(vascular adhesion), 류마티스 관절염(rheumatoid arthritis), 퇴행성 관절염(osteoarthritis), 자기면역질환(autoimmune diseases), 크론병(Crohn's disease), 레스테노시스(restenosis), 죽상동맥경화증(atherosclerosis), 장협착(intestinal adhesions), 고양이 찰과상 감염증(cat scratch disease), 궤양(ulcer), 간경변증(liver cirrhosis), 신장염(nephritis), 당뇨병성 신장질환(diabetic nephropathy), 진성 당뇨병(diabetes mellitus), 염증 질환(inflammatory diseases) 및 신경변성 질환(neurodegenerative diseases)으로 구성된 군에서 선택된 것을 특징으로 하는 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "Tie2 작용제 항체 또는 이의 항원 결합 단편을 포함하고, 인간 Tie2의 Ig3 Fn3(membrane proximal fibronectin type III) 도메인에 대한 상기 항체의 결합에 의해 호모이합체 Tie2와 함께 형성되는 항체 다각형 조립체로서,\n상기 항체 또는 이의 항원 결합 단편은 중쇄 가변영역을 포함하며, 상기 중쇄 가변영역은 아미노산 서열 GYSFTSYW를 포함하는 HCDR1, 아미노산 서열 IHPSDSET을 포함하는 HCDR2, 아미노산 서열 ARGLYGNS를 포함하는 HCDR3를 포함하며, 상기 중쇄 가변영역은 서열번호 5 또는 7의 아미노산 서열과 적어도 95%, 96%, 97%, 98% 또는 99% 이상의 상동성을 갖는 아미노산 서열을 포함하고,\n상기 항체 또는 이의 항원 결합 단편은 경쇄 가변영역을 포함하며, 상기 경쇄 가변영역은 아미노산 서열 QDIGIS를 포함하는 LCDR1, 아미노산 서열 ATS를 포함하는 LCDR2, 아미노산 서열 LQYASSPYT을 포함하는 LCDR3를 포함하며, 상기 경쇄 가변영역은 서열번호 6 또는 8의 아미노산 서열과 적어도 95%, 96%, 97%, 98% 또는 99% 이상의 상동성을 갖는 아미노산 서열을 포함하는, 항체 다각형 조립체.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 13,
+      "after_claim_count": 9,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "대전광역시 유성구...",
+        "code": "120120549213",
+        "country": "대한민국",
+        "engName": "INSTITUTE FOR BASIC SCIENCE",
+        "name": "기초과학연구원"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "319980988661",
+        "country": "대한민국",
+        "engName": "Korea Advanced Institute of Science and Technology",
+        "name": "한국과학기술원"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Kim, Ho Min",
+        "name": "김호민"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Koh, Gou Young",
+        "name": "고규영"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Jo, Gyunghee",
+        "name": "조경희"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Bae, Jeomil",
+        "name": "배점일"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 마방로 ** (양재동, 동원F&B빌딩)",
+      "code": "920101000812",
+      "country": "대한민국",
+      "engName": "FirstLaw P.C.",
+      "name": "제일특허법인(유)"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2021.05.06",
+      "priorityApplicationNumber": "63/184,901"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "KR1020190139148 A",
+      "examinerQuotationFlag": "Y"
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2021.07.16",
+        "receiptNumber": "1-1-2021-0823039-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Submission of Priority Certificate(USPTO)",
+        "documentName": "우선권주장증명서류제출서(USPTO)",
+        "receiptDate": "2021.08.09",
+        "receiptNumber": "9-1-2021-9009158-74"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.07.29",
+        "receiptNumber": "1-1-2022-0798662-06"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.01.31",
+        "receiptNumber": "4-1-2023-5023571-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.05.04",
+        "receiptNumber": "4-1-2023-5110236-33"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2024.06.28",
+        "receiptNumber": "1-1-2024-0703865-32"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.02.17",
+        "receiptNumber": "9-5-2025-0163486-01"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.04.15",
+        "receiptNumber": "1-1-2025-0424554-61"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.04.15",
+        "receiptNumber": "1-1-2025-0424542-13"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.22",
+        "receiptNumber": "9-5-2025-1022236-10"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020210093451.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93029befae186c089ae7f6c5110c68d24210fe71f686118531761604a0dc3e5125eaa2caa3053d8113c9cda4db2f265bc377665f11524354a8",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfe0babc0510d052ca060c24b42fef010f3fb07ec00ef2d471201972657ec495eea98b70cea7de513325a40475473fb706cc110d90f7be419d"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2021.01.01 ~ 2021.12.31",
+        "rndManagingInstituteName": "기초과학연구원",
+        "rndProjectName": "기초과학연구단사업",
+        "rndSpecialInstituteName": "기초과학연구원",
+        "rndTaskContribution": "1/2",
+        "rndTaskName": "분비되는 LRR 단백질의 구조와 기능의 통합적 연구",
+        "rndTaskNumber": "1711134310"
+      },
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2021.01.01 ~ 2021.12.31",
+        "rndManagingInstituteName": "기초과학연구원",
+        "rndProjectName": "기초과학연구단사업",
+        "rndSpecialInstituteName": "기초과학연구원",
+        "rndTaskContribution": "1/2",
+        "rndTaskName": "심장과 혈관의 발생, 분화, 특이성 및 재생",
+        "rndTaskNumber": "1711134303"
+      }
+    ]
+  }
+}

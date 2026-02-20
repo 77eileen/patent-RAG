@@ -1,0 +1,712 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.05.09",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2019-0054108",
+      "claimCount": "13",
+      "examinerName": "김정희",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "아데노 바이러스 생산 세포주 및 이의 제조방법",
+      "inventionTitleEng": "A Cell Line for Producing Adenovirus having and A  Method of the same",
+      "openDate": "2019.06.14",
+      "openNumber": "10-2019-0067131",
+      "originalApplicationDate": "2018.04.23",
+      "originalApplicationKind": "국내출원/분할",
+      "originalApplicationNumber": "10-2018-0046947",
+      "originalExaminationRequestDate": "2019.05.09",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2020.11.02",
+      "publicationNumber": "",
+      "registerDate": "2020.10.27",
+      "registerNumber": "10-2173189-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 7/00"
+      },
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/761"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 비복제 아데노바이러스 생산 세포주; 및 이의 제조방법에 관한 것으로, 보다 자세하게는 아데노바이러스의 E1 단백질; 및 E1A 단백질 또는 E1B 단백질 중 선택되는 어느 하나 이상을 발현함으로서 복제능이 결여된 아데노바이러스를 생산하는 세포주 및 이를 제조하는 방법에 관한 것이다. 또한, 본 발명의 세포주는 아데노바이러스의 E1 단백질; 및 E1A 단백질 또는 E1B 단백질 중 선택되는 어느 하나 이상을 발현하는 세포주의 용도에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020190054108",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20190509",
+      "document_name": "[분할출원]특허출원서",
+      "claim_count": 12,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "E1 단백질 및 이를 코딩하는 핵산서열 중 하나 이상; 및\nE1A 단백질, E1A를 코딩하는 핵산서열, E1B 단백질, 및 E1B를 코딩하는 핵산서열 중 하나 이상;\n을 포함하고 \nRCA(replication competent adenovirus)가 발생되지 않는 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 상기 E1 단백질은 아데노바이러스 타입 5의 E1 단백질인 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 상기 E1A 단백질을 코딩하는 핵산서열은 서열번호 1로 표시되는 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 상기 E1B 단백질을 코딩하는 핵산서열은 서열번호 2로 표시되는 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포주는 인간 유래 세포인 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 상기 세포주는 L132 세포인 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항 내지 6항 중 어느 한 항의 세포주; 및 아데노바이러스 벡터를 포함하는 재조합 아데노바이러스 생산용 패키징 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다음 단계를 포함하는 아데노바이러스 생산세포주의 제조방법;\n(a) 아데노바이러스 E1 유전자의 핵산서열을 포함하는 제 1레트로바이러스 벡터를 제작하는 단계;\n(b) 아데노바이러스 E1A 유전자의 핵산서열 또는 아데노바이러스 E1B 유전자의 핵산서열 중 선택되는 하나이상을 포함하는 제 2레트로바이러스 벡터를 제작하는 단계;\n(c) 상기 제 1레트로바이러스 벡터 및 제 2레트로바이러스 벡터를 레트로바이러스 생산세포주에 각각 형질도입시켜 레트로바이러스를 생산하는 단계;\n(d) 상기 (c) 단계로부터 생산된 생산된 제 1레트로바이러스 벡터를 포함하는 레트로바이러스를 아데노바이러스 생산용 세포주에 감염시키는 단계;\n(e) 상기 (c) 단계로부터 생산된 제 2레트로바이러스 벡터를 포함하는 레트로바이러스를 상기 (d) 단계의 아데노바이러스 생산용 세포주에 추가적으로 감염시켜 아데노 바이러스 생산 세포주를 수득하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 8항에 있어서, 상기 E1A 유전자의 핵산서열은 서열번호 1로 표시되고, 상기 E1B 유전자의 핵산서열은 서열번호 2로 표시되는 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 8항에 있어서, 상기 아데노 바이러스 생산세포주는 인간세포 유래인 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 8항에 있어서, 상기 아데노 바이러스 생산세포주는 L132 세포인 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "E1 단백질 및 이를 코딩하는 핵산서열 중 1 이상; 및\nE1A 단백질, E1A를 코딩하는 핵산서열, E1B 단백질, 및 E1B를 코딩하는 핵산\n서열 중 1 이상을 포함하는 것을 특징으로 하는 아데노바이러스 생산 세포주로부터 수득된 아데노바이러스; AAV(adeno-associated virus)의 rep 유전자의 핵산서열 및 AAV의 cap 유전자의 핵산서열을 포함하는 세포주; 및 AAV 벡터를 포함하는 AAV 생산용 패키징 시스템.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20200406",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "E1 단백질 및 이를 코딩하는 핵산서열 중 하나 이상; 및E1A 단백질, E1A를 코딩하는 핵산서열, E1B 단백질, 및 E1B를 코딩하는 핵산서열 중 하나 이상;을 포함하고 RCA(replication competent adenovirus)가 발생되지 않는 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, 상기 E1 단백질은 아데노바이러스 타입 5의 E1 단백질인 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, 상기 E1A 단백질을 코딩하는 핵산서열은 서열번호 1로 표시되는 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, 상기 E1B 단백질을 코딩하는 핵산서열은 서열번호 2로 표시되는 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 세포주는 인간 유래 세포인 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, 상기 세포주는 L132 세포인 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항 내지 6항 중 어느 한 항의 세포주; 및아데노바이러스 벡터를 포함하는 재조합 아데노바이러스 생산용 패키징 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "다음 단계를 포함하는 아데노바이러스 생산세포주의 제조방법;(a) 아데노바이러스 E1 유전자의 핵산서열을 포함하는 레트로바이러스 벡터를 제작하는 단계;(b) 아데노바이러스 E1A 유전자의 핵산서열 및 아데노바이러스 E1B 유전자의 핵산서열 중 선택되는 하나 이상을 포함하는 레트로바이러스 벡터를 제작하는 단계;(c) 상기 (a)단계의 벡터 및 (b)단계의 벡터를 레트로바이러스 생산세포주에 각각 형질도입 시켜 레트로바이러스를 생산하는 단계;(d) 상기 (c)단계로부터 생산된 E1 유전자의 핵산서열을 포함하는 레트로바이러스를 아데노바이러스 생산용 세포주에 감염시키는 단계;(e) 상기 (c)단계로부터 생산된 E1A 유전자의 핵산서열 및 E1B 유전자의 핵산서열 중 선택되는 하나 이상을 포함하는 레트로바이러스를 상기 (d)단계의 아데노바이러스 생산용 세포주에 추가적으로 감염시켜 아데노바이러스 생산 세포주를 수득하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 8항에 있어서, 상기 E1 유전자의 핵산서열은 아데노바이러스 타입 5 E1유전자의 핵산서열인 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 8항에 있어서, 상기 E1A 유전자의 핵산서열은 서열번호 1로 표시되는 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 8항에 있어서, 상기 E1B 유전자의 핵산서열은 서열번호 2로 표시되는 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 8항에 있어서, 상기 아데노바이러스 생산세포주는 인간세포 유래인 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 8항에 있어서, 상기 아데노바이러스 생산세포주는 L132 세포인 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+          "refers_to": [
+            8
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20190509",
+        "document_name": "[분할출원]특허출원서",
+        "claim_count": 12,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "E1 단백질 및 이를 코딩하는 핵산서열 중 하나 이상; 및\nE1A 단백질, E1A를 코딩하는 핵산서열, E1B 단백질, 및 E1B를 코딩하는 핵산서열 중 하나 이상;\n을 포함하고 \nRCA(replication competent adenovirus)가 발생되지 않는 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, 상기 E1 단백질은 아데노바이러스 타입 5의 E1 단백질인 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, 상기 E1A 단백질을 코딩하는 핵산서열은 서열번호 1로 표시되는 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, 상기 E1B 단백질을 코딩하는 핵산서열은 서열번호 2로 표시되는 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포주는 인간 유래 세포인 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, 상기 세포주는 L132 세포인 것을 특징으로 하는 아데노바이러스 생산 세포주.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항 내지 6항 중 어느 한 항의 세포주; 및 아데노바이러스 벡터를 포함하는 재조합 아데노바이러스 생산용 패키징 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다음 단계를 포함하는 아데노바이러스 생산세포주의 제조방법;\n(a) 아데노바이러스 E1 유전자의 핵산서열을 포함하는 제 1레트로바이러스 벡터를 제작하는 단계;\n(b) 아데노바이러스 E1A 유전자의 핵산서열 또는 아데노바이러스 E1B 유전자의 핵산서열 중 선택되는 하나이상을 포함하는 제 2레트로바이러스 벡터를 제작하는 단계;\n(c) 상기 제 1레트로바이러스 벡터 및 제 2레트로바이러스 벡터를 레트로바이러스 생산세포주에 각각 형질도입시켜 레트로바이러스를 생산하는 단계;\n(d) 상기 (c) 단계로부터 생산된 생산된 제 1레트로바이러스 벡터를 포함하는 레트로바이러스를 아데노바이러스 생산용 세포주에 감염시키는 단계;\n(e) 상기 (c) 단계로부터 생산된 제 2레트로바이러스 벡터를 포함하는 레트로바이러스를 상기 (d) 단계의 아데노바이러스 생산용 세포주에 추가적으로 감염시켜 아데노 바이러스 생산 세포주를 수득하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8항에 있어서, 상기 E1A 유전자의 핵산서열은 서열번호 1로 표시되고, 상기 E1B 유전자의 핵산서열은 서열번호 2로 표시되는 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8항에 있어서, 상기 아데노 바이러스 생산세포주는 인간세포 유래인 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8항에 있어서, 상기 아데노 바이러스 생산세포주는 L132 세포인 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "E1 단백질 및 이를 코딩하는 핵산서열 중 1 이상; 및\nE1A 단백질, E1A를 코딩하는 핵산서열, E1B 단백질, 및 E1B를 코딩하는 핵산\n서열 중 1 이상을 포함하는 것을 특징으로 하는 아데노바이러스 생산 세포주로부터 수득된 아데노바이러스; AAV(adeno-associated virus)의 rep 유전자의 핵산서열 및 AAV의 cap 유전자의 핵산서열을 포함하는 세포주; 및 AAV 벡터를 포함하는 AAV 생산용 패키징 시스템.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20191004",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 6,
+        "claims": [
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20200406",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항 내지 6항 중 어느 한 항의 세포주; 및\n아데노바이러스 벡터를 포함하는 재조합 아데노바이러스 생산용 패키징 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다음 단계를 포함하는 아데노바이러스 생산세포주의 제조방법;\n(a) 아데노바이러스 E1 유전자의 핵산서열을 포함하는 레트로바이러스 벡터를 제작하는 단계;\n(b) 아데노바이러스 E1A 유전자의 핵산서열 및 아데노바이러스 E1B 유전자의 핵산서열 중 선택되는 하나 이상을 포함하는 레트로바이러스 벡터를 제작하는 단계;\n(c) 상기 (a)단계의 벡터 및 (b)단계의 벡터를 레트로바이러스 생산세포주에 각각 형질도입 시켜 레트로바이러스를 생산하는 단계;\n(d) 상기 (c)단계로부터 생산된 E1 유전자의 핵산서열을 포함하는 레트로바이러스를 아데노바이러스 생산용 세포주에 감염시키는 단계;\n(e) 상기 (c)단계로부터 생산된 E1A 유전자의 핵산서열 및 E1B 유전자의 핵산서열 중 선택되는 하나 이상을 포함하는 레트로바이러스를 상기 (d)단계의 아데노바이러스 생산용 세포주에 추가적으로 감염시켜 아데노바이러스 생산 세포주를 수득하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8항에 있어서, 상기 E1 유전자의 핵산서열은 아데노바이러스 타입 5 E1유전자의 핵산서열인 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8항에 있어서, 상기 E1A 유전자의 핵산서열은 서열번호 1로 표시되는 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8항에 있어서, 상기 E1B 유전자의 핵산서열은 서열번호 2로 표시되는 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8항에 있어서, 상기 아데노바이러스 생산세포주는 인간세포 유래인 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8항에 있어서, 상기 아데노바이러스 생산세포주는 L132 세포인 것을 특징으로 하는 아데노바이러스 생산세포주의 제조방법.",
+            "refers_to": [
+              8
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 12,
+      "after_claim_count": 7,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": {
+      "familyApplicationNumber": "1020180046947"
+    }
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "경상남도 김해시 인제로 **...",
+      "code": "120170214815",
+      "country": "대한민국",
+      "engName": "Geneuin-Tech Co., Ltd.",
+      "name": "(주)지뉴인텍"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "경상남도 김해시 김해대...",
+      "code": "",
+      "country": "",
+      "engName": "HAN, Eun Yeong",
+      "name": "한은영"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 반포대로**길 **, *층 (서초동)",
+      "code": "920141000217",
+      "country": "대한민국",
+      "engName": "IPS Intellectual Property Law Firm",
+      "name": "특허법인아이피에스"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2017.04.21",
+      "priorityApplicationNumber": "1020170051829"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020130057950 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "US20050003506 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "US20060270041 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "JP2008522630 A",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application] Patent Application",
+        "documentName": "[분할출원]특허출원서",
+        "receiptDate": "2019.05.09",
+        "receiptNumber": "1-1-2019-0472473-23"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2019.05.17",
+        "receiptNumber": "1-5-2019-0082594-40"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2019.06.05",
+        "receiptNumber": "1-1-2019-0576172-02"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Consultation",
+        "documentName": "협의요구서",
+        "receiptDate": "2019.08.06",
+        "receiptNumber": "9-5-2019-0566062-45"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2019.08.06",
+        "receiptNumber": "9-5-2019-0566063-91"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.10.04",
+        "receiptNumber": "1-1-2019-1016403-09"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2019.10.04",
+        "receiptNumber": "1-1-2019-1016404-44"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.02.28",
+        "receiptNumber": "9-5-2020-0155000-10"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.04.06",
+        "receiptNumber": "1-1-2020-0356457-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.04.06",
+        "receiptNumber": "1-1-2020-0356456-83"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2020.10.21",
+        "receiptNumber": "9-5-2020-0723129-13"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020190054108.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00745ec6cb915f6fb3d9de3189cf0a8f32c531b1da5ecdc931f6041d9b5a1ed6af8e9012afab49b681780eba9b3f7236dd702bb19046fd4a9d",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf56a5a1bbfd00aa28d732d54de7882ffd8981e8d7185353490f78a6016dd7463ce3fc6f29600a9c2ba15933ba1a1927008da5819fe4202661"
+  },
+  "rndInfoArray": ""
+}

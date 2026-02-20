@@ -1,0 +1,2615 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.06.30",
+      "applicationFlag": "",
+      "applicationNumber": "10-2018-7037984",
+      "claimCount": "35",
+      "examinerName": "최성호",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "HERV-E 반응성 T 세포 수용체 및 이의 사용 방법",
+      "inventionTitleEng": "HERV-E REACTIVE T CELL RECEPTORS AND METHODS OF USE",
+      "openDate": "2019.05.29",
+      "openNumber": "10-2019-0058389",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.05.18",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.11.02",
+      "publicationNumber": "",
+      "registerDate": "2022.10.27",
+      "registerNumber": "10-2461926-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2018.12.28"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/85"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/005"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/47"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/725"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/705"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 신세포암 세포에서 발현되는 항원과 결합할 수 있는 T 세포 수용체(TCRs)를 제공한다. 일부 실시예에서, 상기 TCR은 α 사슬 (서열번호 2) 및 β 사슬 (서열번호 3)을 포함한다. 또한, 본 발명은 상기 TCR α 및/또는 β 사슬을 코딩하는 핵산을 포함하는 벡터를 제공한다. 본 발명은 또한 상기 TCR을 발현하는 변형된 T 세포를 제공한다. 일부 실시예에서, 상기 변형된 T 세포는 TCR α 사슬 및 TCR β 사슬을 코딩하는 핵산을 포함하는 벡터로 T 세포를 형질도입 시킴으로써 제조된다. 아울러, 본 발명은 T 세포 집단을 수득하고, 상기 T 세포 집단을 TCR α 사슬 및 TCR β 사슬을 코딩하는 핵산을 포함하는 벡터로 형질도입 시키고, 상기 변형된 T 세포 집단을 생산하고, 및 상기 변형된 T 세포 집단을 포함하는 조성물을 개체에 투여하는 단계를 포함하는, RCC를 가진 개체를 치료하는 방법을 제공한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020187037984",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20181228",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 50,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 2의 핵산 서열과 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 핵산 분자, 서열번호 3의 핵산 서열과 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 핵산 분자, 또는 이 둘 모두를 포함하는 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 벡터는 서열번호 2의 핵산 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 핵산 분자, 서열번호 3의 핵산 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 핵산 분자, 또는 이 둘 모두를 포함하는, 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 벡터는 서열번호 2의 핵산 서열 및 서열번호 3의 핵산 서열을 포함하는, 벡터.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 T 세포 수용체 α 사슬을 코딩하는 핵산, T 세포 수용체 β 사슬을 코딩하는 핵산 또는 이 둘 모두는 프로모터에 작동 가능하게 연결된, 벡터.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 벡터는 세포 내 도메인이 없는 절단된(truncated) CD34 단백질을 코딩하는 핵산 분자를 추가로 포함하는, 벡터.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 벡터는 레트로바이러스 벡터인, 벡터.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 벡터는 SAMEN 레트로바이러스 벡터인, 벡터.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 벡터는 서열번호 6의 핵산 서열을 포함하는, 벡터.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항의 벡터를 포함하는 분리된 숙주 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 세포가 바이러스 Gag 단백질, 바이러스 Pol 단백질 또는 바이러스 Env 단백질을 코딩하는 핵산, 또는 상기 핵산의 둘 이상의 조합을 추가로 포함하는, 숙주 세포.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 세포는 PG13 세포인, 숙주 세포.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 숙주 세포는 림프구(lymphocyte)인, 숙주 세포.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 림프구는 T 세포인, 숙주 세포.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 4의 아미노산 서열과 95% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 이종(heterologous) 핵산, 및 서열번호 5의 아미노산 서열과 95% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 이종 핵산 분자를 포함하는 변형된 T 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, T 세포 수용체 α 사슬을 코딩하는 이종 핵산은 서열번호 4의 아미노산 서열을 포함하거나 상기 서열로 구성되는 단백질을 코딩하고, T 세포 수용체 β 사슬을 코딩하는 이종 핵산은 서열번호 5의 아미노산 서열을 포함하거나 상기 서열로 구성되는 단백질을 코딩하는, 변형된 T 세포.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항 또는 제15항에 있어서, T 세포 수용체 α 사슬을 코딩하는 이종 핵산은 서열번호 2의 핵산 서열을 포함하거나 상기 서열로 구성되고, T 세포 수용체 β 사슬을 코딩하는 이종 핵산은 서열 번호 3의 핵산 서열을 포함하거나 상기 서열로 구성되는, 변형된 T 세포.",
+          "refers_to": [
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항 내지 제16항 중 어느 한 항에 있어서, 상기 변형된 T 세포는 세포 내 도메인이 없는 절단된(truncated) CD34 단백질을 코딩하는 이종 핵산을 추가로 포함하는, 변형된 T 세포.",
+          "refers_to": [
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항의 벡터로 형질도입된(transduced) 변형된 T 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항 내지 제18항 중 어느 한 항에 있어서, 상기 T 세포는 신세포암(renal cell carcinoma)을 갖는 개체의 자가(autologous) 게놈(genome)을 포함하는, 변형된 T 세포.",
+          "refers_to": [
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항 내지 제19항 중 어느 한 항의 변형된 T 세포 및 약학적으로 허용 가능한 담체를 포함하는 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "신세포암(renal cell carcinoma, RCC)을 갖는 개체로부터 T 세포 집단(population)을 수득하는 단계;\n서열번호 2와 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 핵산, 및 서열번호 3과 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 핵산을 포함하는 벡터로 상기 T 세포 집단을 형질도입시켜 변형된 T 세포 집단을 생산하는 단계; 및\n상기 변형된 T 세포를 포함하는 조성물을 개체에 투여하여 RCC를 치료 또는 억제하는 단계를 포함하는, RCC를 치료 또는 억제하는 방법:",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, T 세포 수용체 α 사슬을 코딩하는 핵산은 서열번호 2의 핵산 서열을 포함하거나 상기 서열로 구성되고, T 세포 수용체 β 사슬을 코딩하는 핵산은 서열번호 3의 핵산 서열을 포함하거나 상기 서열로 구성되는, 방법.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 또는 제22항에 있어서, T 세포 수용체 α 사슬을 코딩하는 핵산은 서열번호 4의 아미노산 서열을 포함하거나 상기 서열로 구성되는 단백질을 코딩하고, T 세포 수용체 β 사슬을 코딩하는 핵산은 서열번호 5의 아미노산 서열을 포함하거나 상기 서열로 구성되는 단백질을 코딩하는, 방법.",
+          "refers_to": [
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제23항 중 어느 한 항에 있어서, 상기 벡터는 세포 내 도메인이 없는 절단된 CD34 단백질을 코딩하는 핵산을 추가로 포함하는, 방법.",
+          "refers_to": [
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제24항 중 어느 한 항에 있어서, 상기 벡터는 레트로바이러스 벡터인, 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항에 있어서, 상기 변형된 T 세포 집단은 개체에 투여하기 전에 항-CD34 항체로 선별함으로써 농축되는(enriched), 방법.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제26항 중 어느 한 항에 있어서, 상기 T 세포 집단은 형질도입 전에 활성화되는, 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제27항 중 어느 한 항에 있어서, 상기 T 세포 집단은 형질도입 전에 CD4를 발현하는 T 세포가 고갈된(depleted) 것인, 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제28항 중 어느 한 항에 있어서, 상기 T 세포 집단은 개체에 투여하기 전에 확장되는(expanded), 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제29항 중 어느 한 항에 있어서, 개체에 변형된 T 세포 집단을 투여하기 전에 면역 억제제(immunosuppressive therapy)를 투여하는, 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제30항 중 어느 한 항에 있어서, 상기 RCC는 투명 세포(clear cell) RCC인, 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제31항 중 어느 한 항에 있어서, 상기 RCC는 서열번호 1의 아미노산 서열을 포함하는 인간 내인성 레트로바이러스-E(human endogenous retrovirus-E, HERV-E) 단백질을 발현하는, 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제32항 중 어느 한 항에 있어서, 상기 개체는 인간 백혈구 항원(human leukocyte antigen, HLA) 혈청형(serotype) HLA-A11에 대해 양성인, 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제33항 중 어느 한 항에 있어서, RCC를 갖는 개체를 선택하는 단계를 더 포함하며, 상기 RCC는 서열번호 1의 아미노산 서열을 포함하는 HERV-E 단백질을 발현하고, 상기 개체는 HLA-A11에 대해 양성인, 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "개체로부터 림프구 집단을 수득하는 단계;\n상기 림프구 집단을 항-CD3 항체 및 인터루킨-2(interleukin-2)와 접촉시켜 활성화된 T 세포 집단을 생산하는 단계;\n상기 활성화된 T 세포 집단을 제1항 내지 제8항 중 어느 한 항의 벡터로 형질도입시켜 형질도입된 T 세포 집단을 생산하는 단계; 및\n상기 형질도입된 T 세포의 집단을 확장시켜(expanding) 변형된 T 세포를 생산하는 단계를 포함하는, 신세포암 항원 특이적 T 세포 수용체를 발현하는 변형된 T 세포를 생산하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항에 있어서, 상기 형질도입된 T 세포 집단을 확장시키는 단계는 형질도입된 T 세포를 항-CD3 항체, 항-CD28 항체, IL-2(interleukin-2) 및 IL-15(interleukin-15)와 접촉시키는 단계를 포함하는, 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 상기 형질도입된 T 세포를 항-CD3 항체, 항-CD28 항체, IL-2 및 IL-15와 접촉시키는 단계는 상기 세포를 항-CD3 항체, 항-CD28 항체, IL-2 및 IL-15와 9 내지 11일 동안 접촉시키는 단계를 포함하는, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항 내지 제37항 중 어느 한 항에 있어서, 상기 방법은 형질도입된 T 세포를 항-CD34 항체와 접촉시킴으로써 형질도입된 T 세포 집단을 농축(enriching)시키는 단계를 더 포함하는, 방법.",
+          "refers_to": [
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항 내지 제38항 중 어느 한 항에 있어서, 상기 림프구 집단은 RCC를 가진 개체로부터 수득된, 방법.",
+          "refers_to": [
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항 내지 제39항 중 어느 한 항에 있어서, 상기 림프구 집단은 서열번호 1을 포함하는 단백질을 발현하는 신세포암을 가진 개체로부터 수득되고, 상기 개체는 HLA-A11에 대해 양성인, 방법.",
+          "refers_to": [
+            35,
+            36,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 2의 핵산 서열과 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 분리된 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 있어서, 상기 핵산은 서열번호 2의 핵산 서열을 포함하거나 상기 서열로 구성되는, 핵산.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항 또는 제42항에 있어서, 상기 핵산은 서열번호 4의 아미노산 서열을 포함하거나 그 서열로 구성된 단백질을 코딩하는, 핵산.",
+          "refers_to": [
+            41,
+            42
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 3의 핵산 서열과 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 분리된 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제44항에 있어서, 상기 핵산은 서열번호 3의 핵산 서열을 포함하거나 상기 서열로 구성되는, 핵산.",
+          "refers_to": [
+            44
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제44항 또는 제45항에 있어서, 상기 핵산은 서열번호 5의 아미노산 서열을 포함하거나 그 서열로 구성된 단백질을 코딩하는, 핵산.",
+          "refers_to": [
+            44,
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 4의 아미노산 서열과 95% 이상의 동일성이 있는 서열을 포함하는 분리된 T 세포 수용체 α 사슬 폴리펩타이드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항에 있어서, 상기 폴리펩타이드는 서열번호 4의 아미노산 서열을 포함하거나 상기 서열로 구성되는, 폴리펩타이드.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 5의 아미노산 서열과 95% 이상의 동일성이 있는 서열을 포함하는 분리된 T 세포 수용체 β 사슬 폴리펩타이드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제49항에 있어서, 상기 폴리펩타이드는 서열번호 5의 아미노산 서열을 포함하거나 상기 서열로 구성되는, 폴리펩타이드.",
+          "refers_to": [
+            49
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20220405",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 50,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 2의 핵산 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 핵산 분자 및 서열번호 3의 핵산 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 핵산 분자를 포함하는 것을 특징으로 하는, 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 T 세포 수용체 α 사슬을 코딩하는 핵산, T 세포 수용체 β 사슬을 코딩하는 핵산 또는 이 둘 모두는 프로모터에 작동 가능하게 연결된 것을 특징으로 하는, 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 벡터는 세포 내 도메인이 없는 절단된(truncated) CD34 단백질을 코딩하는 핵산 분자를 추가로 포함하는 것을 특징으로 하는, 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 벡터는 레트로바이러스 벡터인 것을 특징으로 하는, 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 벡터는 SAMEN 레트로바이러스 벡터인 것을 특징으로 하는, 벡터.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 상기 벡터는 서열번호 6의 핵산 서열을 포함하는 것을 특징으로 하는, 벡터.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항의 벡터를 포함하는 분리된 것을 특징으로 하는, 숙주 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 세포가 바이러스 Gag 단백질, 바이러스 Pol 단백질 또는 바이러스 Env 단백질을 코딩하는 핵산, 또는 상기 핵산의 둘 이상의 조합을 추가로 포함하는 것을 특징으로 하는, 숙주 세포.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 세포는 PG13 세포인 것을 특징으로 하는, 숙주 세포.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 숙주 세포는 림프구(lymphocyte)인 것을 특징으로 하는, 숙주 세포.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 림프구는 T 세포인 것을 특징으로 하는, 숙주 세포.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 4의 아미노산 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 이종(heterologous) 핵산, 및 서열번호 5의 아미노산 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 이종 핵산 분자를 포함하는 것을 특징으로 하는, 변형된 T 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, T 세포 수용체 α 사슬을 코딩하는 이종 핵산은 서열번호 4의 아미노산 서열로 구성되는 단백질을 코딩하고, T 세포 수용체 β 사슬을 코딩하는 이종 핵산은 서열번호 5의 아미노산 서열로 구성되는 단백질을 코딩하는 것을 특징으로 하는, 변형된 T 세포.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항 또는 제15항에 있어서, T 세포 수용체 α 사슬을 코딩하는 이종 핵산은 서열번호 2의 핵산 서열을 포함하거나 상기 서열로 구성되고, T 세포 수용체 β 사슬을 코딩하는 이종 핵산은 서열 번호 3의 핵산 서열을 포함하거나 상기 서열로 구성되는 것을 특징으로 하는, 변형된 T 세포.",
+          "refers_to": [
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 상기 변형된 T 세포는 세포 내 도메인이 없는 절단된(truncated) CD34 단백질을 코딩하는 이종 핵산을 추가로 포함하는 것을 특징으로 하는, 변형된 T 세포.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항의 벡터로 형질도입된(transduced) 것을 특징으로 하는, 변형된 T 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 상기 T 세포는 신세포암(renal cell carcinoma)을 갖는 개체의 자가(autologous) 게놈(genome)을 포함하는 것을 특징으로 하는, 변형된 T 세포.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항의 변형된 T 세포 및 약학적으로 허용 가능한 담체를 포함하는 것을 특징으로 하는, 신세포암 (renal cell carcinoma, RCC)의 치료 또는 억제용 약학적 조성물.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항의 변형된 T 세포를 포함하는 것을 특징으로 하는, 신세포암(renal cell carcinoma, RCC) 치료 또는 억제용 약학적 조성물.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항 또는 제21항에 있어서, 상기 T 세포 집단은 개체에 투여하기 전에 확장되는(expanded) 것을 특징으로 하는, 약학적 조성물.",
+          "refers_to": [
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항 또는 제21항에 있어서, 상기 RCC는 투명 세포(clear cell) RCC인 것을 특징으로 하는, 약학적 조성물.",
+          "refers_to": [
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "개체로부터 림프구 집단을 수득하는 단계;상기 림프구 집단을 항-CD3 항체 및 인터루킨-2(interleukin-2)와 접촉시켜 활성화된 T 세포 집단을 생산하는 단계;상기 활성화된 T 세포 집단을 제1항 및 제4항 내지 제8항 중 어느 한 항의 벡터로 형질도입시켜 형질도입된 T 세포 집단을 생산하는 단계; 및상기 형질도입된 T 세포의 집단을 확장시켜(expanding) 변형된 T 세포를 생산하는 단계;를 포함하는 것을 특징으로 하는, 신세포암 항원 특이적 T 세포 수용체를 발현하는 변형된 T 세포를 생산하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제35항에 있어서, 상기 형질도입된 T 세포 집단을 확장시키는 단계는 형질도입된 T 세포를 항-CD3 항체, 항-CD28 항체, IL-2(interleukin-2) 및 IL-15(interleukin-15)와 접촉시키는 단계를 포함하는 것을 특징으로 하는, 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 상기 형질도입된 T 세포를 항-CD3 항체, 항-CD28 항체, IL-2 및 IL-15와 접촉시키는 단계는 상기 세포를 항-CD3 항체, 항-CD28 항체, IL-2 및 IL-15와 9 내지 11일 동안 접촉시키는 단계를 포함하는 것을 특징으로 하는, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제35항에 있어서, 상기 방법은 형질도입된 T 세포를 항-CD34 항체와 접촉시킴으로써 형질도입된 T 세포 집단을 농축(enriching)시키는 단계를 더 포함하는 것을 특징으로 하는, 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제35항에 있어서, 상기 림프구 집단은 RCC를 가진 개체로부터 수득된 것을 특징으로 하는, 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제35항에 있어서, 상기 림프구 집단은 신세포암을 가진 개체로부터 수득되고, 상기 개체는 HLA-A11에 대해 양성인 것을 특징으로 하는, 방법.",
+          "refers_to": [
+            35
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 2의 핵산 서열을 포함하는 T 세포 수용체 α 사슬 및 서열번호 3의 핵산 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 것을 특징으로 하는, 분리된 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, T 세포 수용체 α 사슬을 코딩하는 상기 핵산은 서열번호 2의 핵산 서열로 구성되는 것을 특징으로 하는, 핵산.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항 또는 제42항에 있어서, T 세포 수용체 α 사슬을 코딩하는 상기 핵산은 서열번호 4의 아미노산 서열을 포함하거나 그 서열로 구성된 단백질을 코딩하는 것을 특징으로 하는, 핵산.",
+          "refers_to": [
+            41,
+            42
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 있어서, T 세포 수용체 β 사슬을 코딩하는 상기 핵산은 서열번호 3의 핵산 서열로 구성되는 것을 특징으로 하는, 핵산.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항 또는 제45항에 있어서, T 세포 수용체 β 사슬을 코딩하는 상기 핵산은 서열번호 5의 아미노산 서열을 포함하거나 그 서열로 구성된 단백질을 코딩하는 것을 특징으로 하는, 핵산.",
+          "refers_to": [
+            41,
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 4의 아미노산 서열을 포함하는 분리된 T 세포 수용체 α 사슬 폴리펩타이드 및 서열번호 5의 아미노산 서열을 포함하는 분리된 T 세포 수용체 β 사슬 폴리펩타이드를 포함하는 것을 특징으로 하는, 분리된 T 세포 수용체 폴리펩티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제47항에 있어서, 상기 T 세포 수용체 α 사슬 폴리펩타이드는 서열번호 4의 아미노산 서열로 구성되는 것을 특징으로 하는, 폴리펩타이드.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제47항에 있어서, 상기 T 세포 수용체 β 사슬 폴리펩타이드는 서열번호 5의 아미노산 서열로 구성되는 것을 특징으로 하는, 폴리펩타이드.",
+          "refers_to": [
+            47
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20181228",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 50,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 2의 핵산 서열과 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 핵산 분자, 서열번호 3의 핵산 서열과 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 핵산 분자, 또는 이 둘 모두를 포함하는 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 벡터는 서열번호 2의 핵산 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 핵산 분자, 서열번호 3의 핵산 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 핵산 분자, 또는 이 둘 모두를 포함하는, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 벡터는 서열번호 2의 핵산 서열 및 서열번호 3의 핵산 서열을 포함하는, 벡터.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 T 세포 수용체 α 사슬을 코딩하는 핵산, T 세포 수용체 β 사슬을 코딩하는 핵산 또는 이 둘 모두는 프로모터에 작동 가능하게 연결된, 벡터.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 벡터는 세포 내 도메인이 없는 절단된(truncated) CD34 단백질을 코딩하는 핵산 분자를 추가로 포함하는, 벡터.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 벡터는 레트로바이러스 벡터인, 벡터.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 벡터는 SAMEN 레트로바이러스 벡터인, 벡터.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 벡터는 서열번호 6의 핵산 서열을 포함하는, 벡터.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항의 벡터를 포함하는 분리된 숙주 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 세포가 바이러스 Gag 단백질, 바이러스 Pol 단백질 또는 바이러스 Env 단백질을 코딩하는 핵산, 또는 상기 핵산의 둘 이상의 조합을 추가로 포함하는, 숙주 세포.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 세포는 PG13 세포인, 숙주 세포.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 숙주 세포는 림프구(lymphocyte)인, 숙주 세포.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 림프구는 T 세포인, 숙주 세포.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 4의 아미노산 서열과 95% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 이종(heterologous) 핵산, 및 서열번호 5의 아미노산 서열과 95% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 이종 핵산 분자를 포함하는 변형된 T 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, T 세포 수용체 α 사슬을 코딩하는 이종 핵산은 서열번호 4의 아미노산 서열을 포함하거나 상기 서열로 구성되는 단백질을 코딩하고, T 세포 수용체 β 사슬을 코딩하는 이종 핵산은 서열번호 5의 아미노산 서열을 포함하거나 상기 서열로 구성되는 단백질을 코딩하는, 변형된 T 세포.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항 또는 제15항에 있어서, T 세포 수용체 α 사슬을 코딩하는 이종 핵산은 서열번호 2의 핵산 서열을 포함하거나 상기 서열로 구성되고, T 세포 수용체 β 사슬을 코딩하는 이종 핵산은 서열 번호 3의 핵산 서열을 포함하거나 상기 서열로 구성되는, 변형된 T 세포.",
+            "refers_to": [
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항 내지 제16항 중 어느 한 항에 있어서, 상기 변형된 T 세포는 세포 내 도메인이 없는 절단된(truncated) CD34 단백질을 코딩하는 이종 핵산을 추가로 포함하는, 변형된 T 세포.",
+            "refers_to": [
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항의 벡터로 형질도입된(transduced) 변형된 T 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항 내지 제18항 중 어느 한 항에 있어서, 상기 T 세포는 신세포암(renal cell carcinoma)을 갖는 개체의 자가(autologous) 게놈(genome)을 포함하는, 변형된 T 세포.",
+            "refers_to": [
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항 내지 제19항 중 어느 한 항의 변형된 T 세포 및 약학적으로 허용 가능한 담체를 포함하는 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "신세포암(renal cell carcinoma, RCC)을 갖는 개체로부터 T 세포 집단(population)을 수득하는 단계;\n서열번호 2와 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 핵산, 및 서열번호 3과 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 핵산을 포함하는 벡터로 상기 T 세포 집단을 형질도입시켜 변형된 T 세포 집단을 생산하는 단계; 및\n상기 변형된 T 세포를 포함하는 조성물을 개체에 투여하여 RCC를 치료 또는 억제하는 단계를 포함하는, RCC를 치료 또는 억제하는 방법:",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, T 세포 수용체 α 사슬을 코딩하는 핵산은 서열번호 2의 핵산 서열을 포함하거나 상기 서열로 구성되고, T 세포 수용체 β 사슬을 코딩하는 핵산은 서열번호 3의 핵산 서열을 포함하거나 상기 서열로 구성되는, 방법.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 또는 제22항에 있어서, T 세포 수용체 α 사슬을 코딩하는 핵산은 서열번호 4의 아미노산 서열을 포함하거나 상기 서열로 구성되는 단백질을 코딩하고, T 세포 수용체 β 사슬을 코딩하는 핵산은 서열번호 5의 아미노산 서열을 포함하거나 상기 서열로 구성되는 단백질을 코딩하는, 방법.",
+            "refers_to": [
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제23항 중 어느 한 항에 있어서, 상기 벡터는 세포 내 도메인이 없는 절단된 CD34 단백질을 코딩하는 핵산을 추가로 포함하는, 방법.",
+            "refers_to": [
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제24항 중 어느 한 항에 있어서, 상기 벡터는 레트로바이러스 벡터인, 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제25항에 있어서, 상기 변형된 T 세포 집단은 개체에 투여하기 전에 항-CD34 항체로 선별함으로써 농축되는(enriched), 방법.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제26항 중 어느 한 항에 있어서, 상기 T 세포 집단은 형질도입 전에 활성화되는, 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제27항 중 어느 한 항에 있어서, 상기 T 세포 집단은 형질도입 전에 CD4를 발현하는 T 세포가 고갈된(depleted) 것인, 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제28항 중 어느 한 항에 있어서, 상기 T 세포 집단은 개체에 투여하기 전에 확장되는(expanded), 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제29항 중 어느 한 항에 있어서, 개체에 변형된 T 세포 집단을 투여하기 전에 면역 억제제(immunosuppressive therapy)를 투여하는, 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제30항 중 어느 한 항에 있어서, 상기 RCC는 투명 세포(clear cell) RCC인, 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제31항 중 어느 한 항에 있어서, 상기 RCC는 서열번호 1의 아미노산 서열을 포함하는 인간 내인성 레트로바이러스-E(human endogenous retrovirus-E, HERV-E) 단백질을 발현하는, 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제32항 중 어느 한 항에 있어서, 상기 개체는 인간 백혈구 항원(human leukocyte antigen, HLA) 혈청형(serotype) HLA-A11에 대해 양성인, 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제33항 중 어느 한 항에 있어서, RCC를 갖는 개체를 선택하는 단계를 더 포함하며, 상기 RCC는 서열번호 1의 아미노산 서열을 포함하는 HERV-E 단백질을 발현하고, 상기 개체는 HLA-A11에 대해 양성인, 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "개체로부터 림프구 집단을 수득하는 단계;\n상기 림프구 집단을 항-CD3 항체 및 인터루킨-2(interleukin-2)와 접촉시켜 활성화된 T 세포 집단을 생산하는 단계;\n상기 활성화된 T 세포 집단을 제1항 내지 제8항 중 어느 한 항의 벡터로 형질도입시켜 형질도입된 T 세포 집단을 생산하는 단계; 및\n상기 형질도입된 T 세포의 집단을 확장시켜(expanding) 변형된 T 세포를 생산하는 단계를 포함하는, 신세포암 항원 특이적 T 세포 수용체를 발현하는 변형된 T 세포를 생산하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항에 있어서, 상기 형질도입된 T 세포 집단을 확장시키는 단계는 형질도입된 T 세포를 항-CD3 항체, 항-CD28 항체, IL-2(interleukin-2) 및 IL-15(interleukin-15)와 접촉시키는 단계를 포함하는, 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 상기 형질도입된 T 세포를 항-CD3 항체, 항-CD28 항체, IL-2 및 IL-15와 접촉시키는 단계는 상기 세포를 항-CD3 항체, 항-CD28 항체, IL-2 및 IL-15와 9 내지 11일 동안 접촉시키는 단계를 포함하는, 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항 내지 제37항 중 어느 한 항에 있어서, 상기 방법은 형질도입된 T 세포를 항-CD34 항체와 접촉시킴으로써 형질도입된 T 세포 집단을 농축(enriching)시키는 단계를 더 포함하는, 방법.",
+            "refers_to": [
+              35,
+              36,
+              37
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항 내지 제38항 중 어느 한 항에 있어서, 상기 림프구 집단은 RCC를 가진 개체로부터 수득된, 방법.",
+            "refers_to": [
+              35,
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항 내지 제39항 중 어느 한 항에 있어서, 상기 림프구 집단은 서열번호 1을 포함하는 단백질을 발현하는 신세포암을 가진 개체로부터 수득되고, 상기 개체는 HLA-A11에 대해 양성인, 방법.",
+            "refers_to": [
+              35,
+              36,
+              37,
+              38,
+              39
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 2의 핵산 서열과 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 분리된 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 있어서, 상기 핵산은 서열번호 2의 핵산 서열을 포함하거나 상기 서열로 구성되는, 핵산.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항 또는 제42항에 있어서, 상기 핵산은 서열번호 4의 아미노산 서열을 포함하거나 그 서열로 구성된 단백질을 코딩하는, 핵산.",
+            "refers_to": [
+              41,
+              42
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 3의 핵산 서열과 90% 이상의 동일성이 있는 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 분리된 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제44항에 있어서, 상기 핵산은 서열번호 3의 핵산 서열을 포함하거나 상기 서열로 구성되는, 핵산.",
+            "refers_to": [
+              44
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제44항 또는 제45항에 있어서, 상기 핵산은 서열번호 5의 아미노산 서열을 포함하거나 그 서열로 구성된 단백질을 코딩하는, 핵산.",
+            "refers_to": [
+              44,
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 4의 아미노산 서열과 95% 이상의 동일성이 있는 서열을 포함하는 분리된 T 세포 수용체 α 사슬 폴리펩타이드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항에 있어서, 상기 폴리펩타이드는 서열번호 4의 아미노산 서열을 포함하거나 상기 서열로 구성되는, 폴리펩타이드.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 5의 아미노산 서열과 95% 이상의 동일성이 있는 서열을 포함하는 분리된 T 세포 수용체 β 사슬 폴리펩타이드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제49항에 있어서, 상기 폴리펩타이드는 서열번호 5의 아미노산 서열을 포함하거나 상기 서열로 구성되는, 폴리펩타이드.",
+            "refers_to": [
+              49
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200518",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 T 세포 수용체 α 사슬을 코딩하는 핵산, T 세포 수용체 β 사슬을 코딩하는 핵산 또는 이 둘 모두는 프로모터에 작동 가능하게 연결된, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 벡터는 세포 내 도메인이 없는 절단된(truncated) CD34 단백질을 코딩하는 핵산 분자를 추가로 포함하는, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 벡터는 레트로바이러스 벡터인, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 벡터를 포함하는 분리된 숙주 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 변형된 T 세포는 세포 내 도메인이 없는 절단된(truncated) CD34 단백질을 코딩하는 이종 핵산을 추가로 포함하는, 변형된 T 세포.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 벡터로 형질도입된(transduced) 변형된 T 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 T 세포는 신세포암(renal cell carcinoma)을 갖는 개체의 자가(autologous) 게놈(genome)을 포함하는, 변형된 T 세포.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항의 변형된 T 세포 및 약학적으로 허용 가능한 담체를 포함하는 약학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항의 변형된 T 세포를 포함하는, 신세포암(renal cell carcinoma, RCC) 치료 또는 억제용 약학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 T 세포 집단은 개체에 투여하기 전에 확장되는(expanded), 약학적 조성물.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 RCC는 투명 세포(clear cell) RCC인, 약학적 조성물.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제35항에 있어서, 상기 방법은 형질도입된 T 세포를 항-CD34 항체와 접촉시킴으로써 형질도입된 T 세포 집단을 농축(enriching)시키는 단계를 더 포함하는, 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제35항에 있어서, 상기 림프구 집단은 RCC를 가진 개체로부터 수득된, 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제35항에 있어서, 상기 림프구 집단은 신세포암을 가진 개체로부터 수득되고, 상기 개체는 HLA-A11에 대해 양성인, 방법.",
+            "refers_to": [
+              35
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20210817",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 39,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 핵산 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 핵산 분자 및 서열번호 3의 핵산 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 핵산 분자를 포함하는 것을 특징으로 하는, 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 T 세포 수용체 α 사슬을 코딩하는 핵산, T 세포 수용체 β 사슬을 코딩하는 핵산 또는 이 둘 모두는 프로모터에 작동 가능하게 연결된 것을 특징으로 하는, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 벡터는 세포 내 도메인이 없는 절단된(truncated) CD34 단백질을 코딩하는 핵산 분자를 추가로 포함하는 것을 특징으로 하는, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 벡터는 레트로바이러스 벡터인 것을 특징으로 하는, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 벡터는 SAMEN 레트로바이러스 벡터인 것을 특징으로 하는, 벡터.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 상기 벡터는 서열번호 6의 핵산 서열을 포함하는 것을 특징으로 하는, 벡터.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 벡터를 포함하는 분리된 것을 특징으로 하는, 숙주 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 세포가 바이러스 Gag 단백질, 바이러스 Pol 단백질 또는 바이러스 Env 단백질을 코딩하는 핵산, 또는 상기 핵산의 둘 이상의 조합을 추가로 포함하는 것을 특징으로 하는, 숙주 세포.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 세포는 PG13 세포인 것을 특징으로 하는, 숙주 세포.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 숙주 세포는 림프구(lymphocyte)인 것을 특징으로 하는, 숙주 세포.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 상기 림프구는 T 세포인 것을 특징으로 하는, 숙주 세포.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 4의 아미노산 서열을 포함하는 T 세포 수용체 α 사슬을 코딩하는 이종(heterologous) 핵산, 및 서열번호 5의 아미노산 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 이종 핵산 분자를 포함하는 것을 특징으로 하는, 변형된 T 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, T 세포 수용체 α 사슬을 코딩하는 이종 핵산은 서열번호 4의 아미노산 서열로 구성되는 단백질을 코딩하고, T 세포 수용체 β 사슬을 코딩하는 이종 핵산은 서열번호 5의 아미노산 서열로 구성되는 단백질을 코딩하는 것을 특징으로 하는, 변형된 T 세포.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항 또는 제15항에 있어서, T 세포 수용체 α 사슬을 코딩하는 이종 핵산은 서열번호 2의 핵산 서열을 포함하거나 상기 서열로 구성되고, T 세포 수용체 β 사슬을 코딩하는 이종 핵산은 서열 번호 3의 핵산 서열을 포함하거나 상기 서열로 구성되는 것을 특징으로 하는, 변형된 T 세포.",
+            "refers_to": [
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 변형된 T 세포는 세포 내 도메인이 없는 절단된(truncated) CD34 단백질을 코딩하는 이종 핵산을 추가로 포함하는 것을 특징으로 하는, 변형된 T 세포.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 벡터로 형질도입된(transduced) 것을 특징으로 하는, 변형된 T 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 T 세포는 신세포암(renal cell carcinoma)을 갖는 개체의 자가(autologous) 게놈(genome)을 포함하는 것을 특징으로 하는, 변형된 T 세포.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항의 변형된 T 세포 및 약학적으로 허용 가능한 담체를 포함하는 것을 특징으로 하는, 신세포암 (renal cell carxinoma, RCC)의 치료 또는 억제용 약학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항의 변형된 T 세포를 포함하는 것을 특징으로 하는, 신세포암(renal cell carcinoma, RCC) 치료 또는 억제용 약학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항 또는 제21항에 있어서, 상기 T 세포 집단은 개체에 투여하기 전에 확장되는(expanded) 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항 또는 제21항에 있어서, 상기 RCC는 투명 세포(clear cell) RCC인 것을 특징으로 하는, 약학적 조성물.",
+            "refers_to": [
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "개체로부터 림프구 집단을 수득하는 단계;\n상기 림프구 집단을 항-CD3 항체 및 인터루킨-2(interleukin-2)와 접촉시켜 활성화된 T 세포 집단을 생산하는 단계;\n상기 활성화된 T 세포 집단을 제1항 내지 제8항 중 어느 한 항의 벡터로 형질도입시켜 형질도입된 T 세포 집단을 생산하는 단계; 및\n상기 형질도입된 T 세포의 집단을 확장시켜(expanding) 변형된 T 세포를 생산하는 단계;\n를 포함하는 것을 특징으로 하는, 신세포암 항원 특이적 T 세포 수용체를 발현하는 변형된 T 세포를 생산하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제35항에 있어서, 상기 형질도입된 T 세포 집단을 확장시키는 단계는 형질도입된 T 세포를 항-CD3 항체, 항-CD28 항체, IL-2(interleukin-2) 및 IL-15(interleukin-15)와 접촉시키는 단계를 포함하는 것을 특징으로 하는, 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제36항에 있어서, 상기 형질도입된 T 세포를 항-CD3 항체, 항-CD28 항체, IL-2 및 IL-15와 접촉시키는 단계는 상기 세포를 항-CD3 항체, 항-CD28 항체, IL-2 및 IL-15와 9 내지 11일 동안 접촉시키는 단계를 포함하는 것을 특징으로 하는, 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제35항에 있어서, 상기 방법은 형질도입된 T 세포를 항-CD34 항체와 접촉시킴으로써 형질도입된 T 세포 집단을 농축(enriching)시키는 단계를 더 포함하는 것을 특징으로 하는, 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제35항에 있어서, 상기 림프구 집단은 RCC를 가진 개체로부터 수득된 것을 특징으로 하는, 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제35항에 있어서, 상기 림프구 집단은 신세포암을 가진 개체로부터 수득되고, 상기 개체는 HLA-A11에 대해 양성인 것을 특징으로 하는, 방법.",
+            "refers_to": [
+              35
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 핵산 서열을 포함하는 T 세포 수용체 α 사슬 및 서열번호 3의 핵산 서열을 포함하는 T 세포 수용체 β 사슬을 코딩하는 것을 특징으로 하는, 분리된 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제41항에 있어서, T 세포 수용체 α 사슬을 코딩하는 상기 핵산은 서열번호 2의 핵산 서열로 구성되는 것을 특징으로 하는, 핵산.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제41항 또는 제42항에 있어서, T 세포 수용체 α 사슬을 코딩하는 상기 핵산은 서열번호 4의 아미노산 서열을 포함하거나 그 서열로 구성된 단백질을 코딩하는 것을 특징으로 하는, 핵산.",
+            "refers_to": [
+              41,
+              42
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제41항에 있어서, T 세포 수용체 β 사슬을 코딩하는 상기 핵산은 서열번호 3의 핵산 서열로 구성되는 것을 특징으로 하는, 핵산.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제41항 또는 제45항에 있어서, T 세포 수용체 β 사슬을 코딩하는 상기 핵산은 서열번호 5의 아미노산 서열을 포함하거나 그 서열로 구성된 단백질을 코딩하는 것을 특징으로 하는, 핵산.",
+            "refers_to": [
+              41,
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 4의 아미노산 서열을 포함하는 분리된 T 세포 수용체 α 사슬 폴리펩타이드 및 서열번호 5의 아미노산 서열을 포함하는 분리된 T 세포 수용체 β 사슬 폴리펩타이드를 포함하는 것을 특징으로 하는, 분리된 T 세포 수용체 폴리펩티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제47항에 있어서, 상기 T 세포 수용체 α 사슬 폴리펩타이드는 서열번호 4의 아미노산 서열로 구성되는 것을 특징으로 하는, 폴리펩타이드.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제47항에 있어서, 상기 T 세포 수용체 β 사슬 폴리펩타이드는 서열번호 5의 아미노산 서열로 구성되는 것을 특징으로 하는, 폴리펩타이드.",
+            "refers_to": [
+              47
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20220405",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항의 변형된 T 세포 및 약학적으로 허용 가능한 담체를 포함하는 것을 특징으로 하는, 신세포암 (renal cell carcinoma, RCC)의 치료 또는 억제용 약학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "개체로부터 림프구 집단을 수득하는 단계;\n상기 림프구 집단을 항-CD3 항체 및 인터루킨-2(interleukin-2)와 접촉시켜 활성화된 T 세포 집단을 생산하는 단계;\n상기 활성화된 T 세포 집단을 제1항 및 제4항 내지 제8항 중 어느 한 항의 벡터로 형질도입시켜 형질도입된 T 세포 집단을 생산하는 단계; 및\n상기 형질도입된 T 세포의 집단을 확장시켜(expanding) 변형된 T 세포를 생산하는 단계;\n를 포함하는 것을 특징으로 하는, 신세포암 항원 특이적 T 세포 수용체를 발현하는 변형된 T 세포를 생산하는 방법.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 50,
+      "after_claim_count": 2,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2018.01.04",
+      "internationOpenNumber": "WO2018006054",
+      "internationalApplicationDate": "2017.06.30",
+      "internationalApplicationNumber": "PCT/US2017/040448"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "미국, 메릴랜드 *****, 베서스다, 엠에스 ****, 스위트 ***, **** 록리지 드라이브, 내셔널 인스티튜즈 오브 헬스, 오피스 오브 테크놀로지 트랜스퍼",
+        "code": "520130296804",
+        "country": "미국",
+        "engName": "The United States of America, as Represented by the Secretary, Department of Health and Human Services",
+        "name": "더 유나이티드 스테이츠 오브 어메리카, 애즈 리프리젠티드 바이 더 세크러테리, 디파트먼트 오브 헬쓰 앤드 휴먼 서비씨즈"
+      },
+      {
+        "address": "미국, ***** 일리노이, 메이우드, 사우스 퍼스트 애비뉴 ****",
+        "code": "520000164921",
+        "country": "미국",
+        "engName": "LOYOLA UNIVERSITY OF CHICAGO",
+        "name": "로욜라 유니버시티 오브 시카고"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국, ***** 메릴랜드, 베데스다, 룸 ...",
+        "code": "",
+        "country": "",
+        "engName": "CHILDS, Richard W.",
+        "name": "차일즈, 리차드 더블유."
+      },
+      {
+        "address": "미국, ***** 일리노이, 메이우드, ****...",
+        "code": "",
+        "country": "",
+        "engName": "NISHIMURA, Michael I.",
+        "name": "니시무라, 마이클 아이."
+      },
+      {
+        "address": "미국, ***** 메릴랜드, 베데스다, 룸 ...",
+        "code": "",
+        "country": "",
+        "engName": "CHERKASOVA, Elena A.",
+        "name": "체르카소바, 엘레나 에이."
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 강남구 테헤란로 *** (역삼동) 성지하이츠 *차 *층(원국제특허법률사무소)",
+      "code": "919980003859",
+      "country": "대한민국",
+      "engName": "LEE, Won Hee",
+      "name": "이원희"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2016.06.30",
+      "priorityApplicationNumber": "62/357,265"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "JP2013176373 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "J Clin Invest.,118(3):1099-1109(2008.3.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "US2013195819",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2012038055 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US 2015/152384",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Semin Immunol.,28(1):10-21(2016.)",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2018.12.28",
+        "receiptNumber": "1-1-2018-1313651-14"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2019.02.08",
+        "receiptNumber": "1-5-2019-0022865-23"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.04.08",
+        "receiptNumber": "1-1-2019-0354988-90"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.05.07",
+        "receiptNumber": "4-1-2019-5088887-45"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2019.05.08",
+        "receiptNumber": "1-1-2019-0468948-69"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2019.05.13",
+        "receiptNumber": "1-5-2019-0079393-09"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.05.18",
+        "receiptNumber": "1-1-2020-0497563-88"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2020.05.18",
+        "receiptNumber": "1-1-2020-0497691-13"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.05.14",
+        "receiptNumber": "9-5-2021-0383656-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.07.05",
+        "receiptNumber": "1-1-2021-0772557-77"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.08.17",
+        "receiptNumber": "1-1-2021-0946723-31"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.08.17",
+        "receiptNumber": "1-1-2021-0946733-98"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.12.10",
+        "receiptNumber": "4-1-2021-5323267-19"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Deferment (Postponement) of Processing of Examination",
+        "documentName": "심사처리보류(연기)보고서",
+        "receiptDate": "2021.12.17",
+        "receiptNumber": "9-6-2021-0233665-72"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2022.02.09",
+        "receiptNumber": "9-5-2022-0107158-24"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.02.21",
+        "receiptNumber": "4-1-2022-5043040-07"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.04.05",
+        "receiptNumber": "1-1-2022-0363341-75"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.04.05",
+        "receiptNumber": "1-1-2022-0363329-26"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.08.03",
+        "receiptNumber": "9-5-2022-0582935-57"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020187037984.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93a813c54e6a5f4ed974ac9c961970e6f227752630223616e8dfa9f788bbc5a7b5210ef7d6335c4675f3158cfab9366fa416fdb9bd7b2d7916",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf0198df4a70627bf7cd5f65d12371748d2d7a18fdd78917519c0210a6f22161fe3119bbaea07415ca3e0e02f2bb588d07f78e91286d0d8c56"
+  },
+  "rndInfoArray": ""
+}

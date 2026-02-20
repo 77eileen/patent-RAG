@@ -1,0 +1,798 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.08.14",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-0102601",
+      "claimCount": "3",
+      "examinerName": "민경난",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "피키아 파스토리스를 이용한 이중특이적 항체의 제조방법 및 이에 따른 이중특이적 항체",
+      "inventionTitleEng": "Method for preparation of bispecific antibody using  Pichia Pastoris and bispecific antibody prepared  thereby",
+      "openDate": "2022.02.22",
+      "openNumber": "10-2022-0021705",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.08.14",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.10.11",
+      "publicationNumber": "",
+      "registerDate": "2022.10.05",
+      "registerNumber": "10-2453073-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/81"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 효모 균주인 피키아 파스토리스를 이용한 이중특이적 항체의 제조방법 및 이에 따른 이중특이적 항체에 관한 것이다. 본 발명의 제조방법에 따르면, 기존 방법에 비해 현저히 저렴한 비용으로 단시간에 고활성의 이중특이적 항체를 제조할 수 있어, 경제적인 측면에서 매우 유리하다."
+    }
+  },
+  "claims": {
+    "application_number": "1020200102601",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200814",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 16,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(1) 제1 결합 도메인을 통해 표적 세포 표면 항원에 결합하고 제2 결합 도메인을 통해 T 세포 표면 항원 CD3에 결합하는 이중특이적 항체를 제작하는 단계;\n(2) 상기 이중특이적 항체를 코딩하는 폴리뉴클레오티드를 포함하는 재조합 발현벡터를 제작하는 단계; \n(3) 상기 발현벡터로 피키아 파스토리스(Pichia pastoris)에 형질전환시키는 단계; 및\n(4) 상기 형질전환된 피키아 파스토리스를 배양하여 이중특이적 항체의 발현을 유도하는 단계;를 포함하는 이중특이적 항체의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 제1 결합 도메인은 CD19, CD20, CEA, EpCAM, HER1, HER2, HER3, HER4, ErbB2 및 ErbB3 중에서 선택되는 1 종의 종양 항원에 특이적으로 결합하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 이중특이적 항체는 CD3 및 CD19에 특이적으로 결합하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \n상기 이중특이적 항체는 서열번호 1의 아미노산 서열로 표시되는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 재조합 발현벡터는 pGAPZαA, pPICZ, pPICZαA, pPICZαB, pPICZαC, pPICZ-E, pPICZα-E, pPIC6, pPIC6αA, pPIC6αB, pPIC6αC, pGAPZ, pPIC9K, pPIC3.5K, pAO815, pHIL-D2 및 pHIL-S1 중에서 선택되는 어느 하나의 피키아 파스토리스 유래의 벡터를 포함하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 재조합 발현벡터는 상기 이중특이적 항체를 코딩하는 염기서열의 업스트림에 피키아 파스토리스 유래 PHO-1 분비 신호 펩티드를 코딩하는 염기서열을 포함하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 재조합 발현벡터는 도 2에 기재된 pHIL-S1의 개열지도로 표시되는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 형질전환된 피키아 파스토리스는 10 내지 25 ℃에서 배양하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 이중특이적 항체는 서열번호 1의 아미노산 서열로 표시되고,\n상기 재조합 발현벡터는 도 2에 기재된 pHIL-S1의 개열지도로 표시되며,\n상기 형질전환된 피키아 파스토리스는 10 내지 25 ℃에서 100 내지 150 시간 동안 배양하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항의 방법에 따라 제조되는 이중특이적 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 1의 아미노산 서열로 표시되는 이중특이적 항체를 코딩하는 폴리뉴클레오티드를 포함하는 재조합 발현벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서,\n도 2에 기재된 pHIL-S1의 개열지도로 표시되는 것을 특징으로 하는 재조합 발현벡터.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항의 재조합 발현벡터로 형질전환된 숙주 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서,\n상기 숙주세포는 피키아 파스토리스(Pichia pastoris)인 것을 특징으로 하는 숙주세포.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 1의 아미노산 서열로 표시되는 이중특이적 항체를 유효성분으로 포함하는 암 예방 또는 치료용 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서,\n상기 암은 유방암, 대장암, 결장암, 간암, 비-호지킨 림프종, 림프종, 췌장암, 폐암, 위암, 전립선암, 뇌종양, 망막아세포종, 난소암, 자궁경부암, 조혈 악성종양, 식도암, 신장 세포 암종, 편평상피 세포 암종, 신경교종 및 백혈병 중에서 선택되는 1종 이상인 것을 특징으로 하는 암 예방 또는 치료용 약학 조성물.",
+          "refers_to": [
+            15
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20220627",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 16,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(1) 제1 결합 도메인을 통해 표적 세포 표면 항원에 결합하고 제2 결합 도메인을 통해 T 세포 표면 항원 CD3에 결합하는 이중특이적 항체를 제작하는 단계;(2) 상기 이중특이적 항체를 코딩하는 폴리뉴클레오티드를 포함하는 재조합 발현벡터를 제작하는 단계; (3) 상기 발현벡터로 피키아 파스토리스(Pichia pastoris)에 형질전환시키는 단계; 및(4) 상기 형질전환된 피키아 파스토리스를 배양하여 이중특이적 항체의 발현을 유도하는 단계;를 포함하는 이중특이적 항체의 제조방법으로서,상기 이중특이적 항체는 서열번호 1의 아미노산 서열로 표시되는 것으로 CD3 및 CD19에 특이적으로 결합하고, 상기 형질전환된 피키아 파스토리스는 10 내지 25 ℃에서 100 내지 150 시간 동안 배양하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 재조합 발현벡터는 pGAPZαA, pPICZ, pPICZαA, pPICZαB, pPICZαC, pPICZ-E, pPICZα-E, pPIC6, pPIC6αA, pPIC6αB, pPIC6αC, pGAPZ, pPIC9K, pPIC3.5K, pAO815, pHIL-D2 및 pHIL-S1 중에서 선택되는 어느 하나의 피키아 파스토리스 유래의 벡터를 포함하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 재조합 발현벡터는 상기 이중특이적 항체를 코딩하는 염기서열의 업스트림에 피키아 파스토리스 유래 PHO-1 분비 신호 펩티드를 코딩하는 염기서열을 포함하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200814",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 16,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(1) 제1 결합 도메인을 통해 표적 세포 표면 항원에 결합하고 제2 결합 도메인을 통해 T 세포 표면 항원 CD3에 결합하는 이중특이적 항체를 제작하는 단계;\n(2) 상기 이중특이적 항체를 코딩하는 폴리뉴클레오티드를 포함하는 재조합 발현벡터를 제작하는 단계; \n(3) 상기 발현벡터로 피키아 파스토리스(Pichia pastoris)에 형질전환시키는 단계; 및\n(4) 상기 형질전환된 피키아 파스토리스를 배양하여 이중특이적 항체의 발현을 유도하는 단계;를 포함하는 이중특이적 항체의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 제1 결합 도메인은 CD19, CD20, CEA, EpCAM, HER1, HER2, HER3, HER4, ErbB2 및 ErbB3 중에서 선택되는 1 종의 종양 항원에 특이적으로 결합하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 이중특이적 항체는 CD3 및 CD19에 특이적으로 결합하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \n상기 이중특이적 항체는 서열번호 1의 아미노산 서열로 표시되는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 재조합 발현벡터는 pGAPZαA, pPICZ, pPICZαA, pPICZαB, pPICZαC, pPICZ-E, pPICZα-E, pPIC6, pPIC6αA, pPIC6αB, pPIC6αC, pGAPZ, pPIC9K, pPIC3.5K, pAO815, pHIL-D2 및 pHIL-S1 중에서 선택되는 어느 하나의 피키아 파스토리스 유래의 벡터를 포함하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 재조합 발현벡터는 상기 이중특이적 항체를 코딩하는 염기서열의 업스트림에 피키아 파스토리스 유래 PHO-1 분비 신호 펩티드를 코딩하는 염기서열을 포함하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 재조합 발현벡터는 도 2에 기재된 pHIL-S1의 개열지도로 표시되는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 형질전환된 피키아 파스토리스는 10 내지 25 ℃에서 배양하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 이중특이적 항체는 서열번호 1의 아미노산 서열로 표시되고,\n상기 재조합 발현벡터는 도 2에 기재된 pHIL-S1의 개열지도로 표시되며,\n상기 형질전환된 피키아 파스토리스는 10 내지 25 ℃에서 100 내지 150 시간 동안 배양하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항의 방법에 따라 제조되는 이중특이적 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 1의 아미노산 서열로 표시되는 이중특이적 항체를 코딩하는 폴리뉴클레오티드를 포함하는 재조합 발현벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서,\n도 2에 기재된 pHIL-S1의 개열지도로 표시되는 것을 특징으로 하는 재조합 발현벡터.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항의 재조합 발현벡터로 형질전환된 숙주 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서,\n상기 숙주세포는 피키아 파스토리스(Pichia pastoris)인 것을 특징으로 하는 숙주세포.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 1의 아미노산 서열로 표시되는 이중특이적 항체를 유효성분으로 포함하는 암 예방 또는 치료용 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서,\n상기 암은 유방암, 대장암, 결장암, 간암, 비-호지킨 림프종, 림프종, 췌장암, 폐암, 위암, 전립선암, 뇌종양, 망막아세포종, 난소암, 자궁경부암, 조혈 악성종양, 식도암, 신장 세포 암종, 편평상피 세포 암종, 신경교종 및 백혈병 중에서 선택되는 1종 이상인 것을 특징으로 하는 암 예방 또는 치료용 약학 조성물.",
+            "refers_to": [
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220627",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 14,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(1) 제1 결합 도메인을 통해 표적 세포 표면 항원에 결합하고 제2 결합 도메인을 통해 T 세포 표면 항원 CD3에 결합하는 이중특이적 항체를 제작하는 단계;\n(2) 상기 이중특이적 항체를 코딩하는 폴리뉴클레오티드를 포함하는 재조합 발현벡터를 제작하는 단계; \n(3) 상기 발현벡터로 피키아 파스토리스(Pichia pastoris)에 형질전환시키는 단계; 및\n(4) 상기 형질전환된 피키아 파스토리스를 배양하여 이중특이적 항체의 발현을 유도하는 단계;를 포함하는 이중특이적 항체의 제조방법으로서,\n상기 이중특이적 항체는 서열번호 1의 아미노산 서열로 표시되는 것으로 CD3 및 CD19에 특이적으로 결합하고, \n상기 형질전환된 피키아 파스토리스는 10 내지 25 ℃에서 100 내지 150 시간 동안 배양하는 것을 특징으로 하는 이중특이적 항체의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 16,
+      "after_claim_count": 14,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "충청북도 충주시  충원대로 ...",
+      "code": "120150748130",
+      "country": "대한민국",
+      "engName": "Konkuk University Glocal Industry-Academic Collaboration Foundation",
+      "name": "건국대학교 글로컬산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "충청북도 충주시 사직로 ***,...",
+        "code": "",
+        "country": "",
+        "engName": "CHAN GIL KIM",
+        "name": "김찬길"
+      },
+      {
+        "address": "충청북도 충주시 충원대로...",
+        "code": "",
+        "country": "",
+        "engName": "Lee SeungHyeon",
+        "name": "이승현"
+      },
+      {
+        "address": "충청북도 충주시 호암토성*로 *, ...",
+        "code": "",
+        "country": "",
+        "engName": "Won, Hyung-Sik",
+        "name": "원형식"
+      },
+      {
+        "address": "인천광역시 남동구...",
+        "code": "",
+        "country": "",
+        "engName": "Kim Boram",
+        "name": "김보람"
+      },
+      {
+        "address": "인천광역시 연수구...",
+        "code": "",
+        "country": "",
+        "engName": "Kim kyung min",
+        "name": "김경민"
+      },
+      {
+        "address": "울산광역시 남구...",
+        "code": "",
+        "country": "",
+        "engName": "Byun Kyu Tae",
+        "name": "변규태"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 동산로 **, *층(양재동, 베델회관)",
+      "code": "920101000219",
+      "country": "대한민국",
+      "engName": "CHUNG HYUN PATENT&LAW FIRM",
+      "name": "특허법인충현"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "US20070249529 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Invitrogen “Pichia Expression Kit (Catalog no. K1710-01)”",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2020.08.14",
+        "receiptNumber": "1-1-2020-0859194-24"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2021.08.13",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2021.10.15",
+        "receiptNumber": "9-6-2022-0047359-87"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2022.04.27",
+        "receiptNumber": "9-5-2022-0315716-70"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.06.27",
+        "receiptNumber": "1-1-2022-0667961-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.06.27",
+        "receiptNumber": "1-1-2022-0667938-63"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.08.30",
+        "receiptNumber": "9-5-2022-0655866-95"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.05.14",
+        "receiptNumber": "4-1-2024-5152039-53"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020200102601.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9370d69b88b885b3dd491a89a6b82a3fdb10e08ce61b3fcdc8fa5372e42bff5219652580afa0822c62257b365b289339332b3117ff685c70a4",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf9005044b87db51663569a3ce4572a46329c0962c7203cc3f9c3c3ac11223373fee0190481b5d1423cff1a52348135d67c94714989d4ebeaf"
+  },
+  "rndInfoArray": ""
+}

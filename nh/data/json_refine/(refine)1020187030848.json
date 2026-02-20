@@ -1,0 +1,1303 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.03.30",
+      "applicationFlag": "",
+      "applicationNumber": "10-2018-7030848",
+      "claimCount": "15",
+      "examinerName": "한지혜",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "고 M6P 재조합 단백질의 선택 방법",
+      "inventionTitleEng": "METHOD FOR SELECTION OF HIGH M6P RECOMBINANT PROTEINS",
+      "openDate": "2018.12.04",
+      "openNumber": "10-2018-0128945",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.03.27",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.12.23",
+      "publicationNumber": "",
+      "registerDate": "2021.12.21",
+      "registerNumber": "10-2343162-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2018.10.25"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 9/26"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 1/18"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 1/22"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 1/34"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 3/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "재조합 인간 리소좀 단백질의 생성, 포획 및 정제 방법이 기재되어 있다. 이러한 재조합 인간 리소좀 단백질은 고함량의 만노스-6-인산염 잔기를 가질 수 있다. 또한, 이러한 재조합 인간 리소좀 단백질을 포함하는 약제학적 조성물뿐만 아니라, 치료 방법 및 이러한 재조합 인간 리소좀 단백질의 용도가 기재되어 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020187030848",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20181025",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 21,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "재조합 인간 리소좀 단백질을 생성하기 위한 방법으로서,\n생물반응기에서 재조합 인간 리소좀 단백질을 분비하는 숙주 세포를 배양하는 단계;\n생물반응기로부터 배지를 회수하는 단계;\n배지를 여과하여, 여과물을 제공하는 단계;\n리소좀 단백질을 포획하기 위해, 음이온 교환 크로마토그래피(AEX) 칼럼에 여과물을 로딩하는 단계; 및\n제1 단백질 산물을 AEX 칼럼으로부터 용리시키는 단계\n를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 재조합 인간 리소좀 단백질은 재조합 인간 α-글루코시다제(rhGAA)인, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, rhGAA는 SEQ ID NO: 2와 적어도 95% 동일한 아미노산 서열을 포함하는, 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, \n제1 단백질 산물을 고정 금속 친화도 크로마토그래피(IMAC) 칼럼에 로딩하는 단계, 및\n제2 단백질 산물을 IMAC 칼럼으로부터 용리시키는 단계\n를 추가로 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서,\n제2 단백질 산물을 제3 크로마토그래피 칼럼에 로딩하는 단계; 및\n제3 단백질 산물을 제3 크로마토그래피 칼럼으로부터 용리시키는 단계\n를 추가로 포함하는, 방법.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, 제3 크로마토그래피 칼럼은 양이온 교환 크로마토그래피(CEX) 칼럼 및 크기 배제 크로마토그래피(SEC) 칼럼으로부터 선택되는, 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 배지의 여과는 교대 접선 유동 여과(alternating tangential flow filtration, ATF) 및 접선 유동 여과(tangential flow filtration, TFF)로부터 선택되는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 제1 단백질 산물, 제2 단백질 산물 및 제3 단백질 산물 중 하나 이상에서 바이러스를 불활성화시키는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 제2 단백질 산물 또는 제3 단백질 산물을 여과하여, 여과 산물을 제공하는 단계 및 여과 산물로 바이알을 충전하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 여과 산물을 동결건조하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 있어서, 숙주 세포는 중국 햄스터 난소(CHO) 세포를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 숙주 세포는 CHO 세포주 GA-ATB-200 또는 ATB-200-001-X5-14 또는 이의 계대배양물을 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제12항 중 어느 한 항에 있어서,\n(i) 제1 단백질 산물 또는 제2 단백질 산물 또는 제3 단백질 산물 중 적어도 90%가 양이온-비의존성 마노스-6-인산염 수용체(CIMPR)와 결합하거나\n(ii) 제1 단백질 산물 또는 제2 단백질 산물 또는 제3 단백질 산물 중 적어도 90%가 단일-만노스-6-인산염(단일-M6P) 또는 이중-만노스-6-인산염(이중-M6P)을 보유하는 N-글리칸을 함유하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, rhGAA는 7개의 잠재적 N-글리코실화 부위를 포함하고, rhGAA 분자 중 적어도 50%는 제1 부위에 2개의 만노스-6-인산염 잔기를 보유하는 N-글리칸 단위를 포함하고, rhGAA 분자 중 적어도 30%는 제2 부위에 1개의 만노스-6-인산염 잔기를 보유하는 N-글리칸 단위를 포함하고, rhGAA 분자 중 적어도 30%는 제4 부위에 2개의 만노스-6-인산염 잔기를 보유하는 N-글리칸 단위를 포함하고, rhGAA 분자 중 적어도 20%는 제4 부위에 1개의 만노스-6-인산염 잔기를 보유하는 N-글리칸 단위를 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제14항 중 어느 한 항의 방법에 의해 제조되는 재조합 단백질 산물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항의 재조합 단백질 산물 및 약제학적으로 허용 가능한 담체를 포함하는 약제학적 조성물.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "리소좀 저장 장애를 치료하기 위한 제16항의 약제학적 조성물의 용도.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 리소좀 저장 장애는 폼페병이고, 재조합 단백질은 rhGAA인, 용도.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 환자에 rhGAA 산물을 포함하는 약제학적 조성물의 투여 4시간 이내에 α-글루코시다제에 대한 약리학적 샤프론(pharmacological chaperone)이 공동 투여되는, 용도.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 약리학적 샤프론은 1-데옥시노지리마이신 및 N-부틸-데옥시노지리마이신으로부터 선택되는, 용도.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항 또는 제20항에 있어서, 약리학적 샤프론은 rhGAA 산물과 공동 제형화되는, 용도.",
+          "refers_to": [
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20210429",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 21,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "정제된 재조합 인간 산 α-글루코시다제(rhGAA)를 생성하기 위한 방법으로서,생물반응기에서 rhGAA를 분비하는 숙주 세포를 배양하는 단계;생물반응기로부터 배지를 회수하는 단계;배지를 여과하여 여과물을 제공하는 단계;rhGAA를 포획하기 위해, 음이온 교환 크로마토그래피(AEX) 칼럼에 여과물을 로딩하는 단계; rhGAA를 AEX 칼럼으로부터 용리시키는 단계;AEX 칼럼으로부터 용리된 rhGAA를 고정 금속 친화도 크로마토그래피(IMAC) 칼럼에 로딩하는 단계; 및rhGAA를 IMAC 칼럼으로부터 용리시키는 단계를 포함하고, 여기서 정제된 rhGAA가 SEQ ID NO: 2와 적어도 95% 동일한 아미노산 서열을 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 정제된 rhGAA가 제1 잠재적 N-글리코실화 부위, 제2 잠재적 N-글리코실화 부위, 제3 잠재적 N-글리코실화 부위, 제4 잠재적 N-글리코실화 부위, 제5 잠재적 N-글리코실화 부위, 제6 잠재적 N-글리코실화 부위 및 제7 잠재적 N-글리코실화 부위를 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서,IMAC 칼럼으로부터 용리된 rhGAA를 제3 크로마토그래피 칼럼에 로딩하는 단계; 및rhGAA를 제3 크로마토그래피 칼럼으로부터 용리시키는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 제3 크로마토그래피 칼럼이 양이온 교환 크로마토그래피(CEX) 칼럼 및 크기 배제 크로마토그래피(SEC) 칼럼으로부터 선택되는 것인 방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 배지의 여과가 교대 접선 유동 여과(alternating tangential flow filtration, ATF) 및 접선 유동 여과(tangential flow filtration, TFF)로부터 선택되는 것인 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, AEX 칼럼으로부터 용리된 rhGAA, IMAC 칼럼으로부터 용리된 rhGAA 및 제3 크로마토그래피 칼럼으로부터 용리된 rhGAA 중 하나 이상에서 바이러스를 불활성화시키는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, IMAC 칼럼으로부터 용리된 rhGAA 또는 제3 크로마토그래피 칼럼으로부터 용리된 rhGAA를 여과하여 여과 산물을 제공하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 여과 산물을 동결건조하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 숙주 세포가 중국 햄스터 난소(CHO) 세포를 포함하는 것인 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서,(i) 정제된 rhGAA 중 적어도 90%가 양이온-비의존성 만노스-6-인산염 수용체(CIMPR)와 결합하거나,(ii) 정제된 rhGAA 중 적어도 90%가 단일-만노스-6-인산염(단일-M6P) 또는 이중-만노스-6-인산염(이중-M6P)을 보유하는 N-글리칸을 포함하는 것인 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항의 방법에 의해 제조되는 정제된 rhGAA.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항의 정제된 rhGAA 및 약제학적으로 허용 가능한 담체를 포함하는, 폼페병을 치료하기 위한 약제학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 정제된 rhGAA를 포함하는 약제학적 조성물의 투여 4시간 이내에 산 α-글루코시다제에 대한 약리학적 샤프론(pharmacological chaperone)이 투여되는 것인 약제학적 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 약리학적 샤프론이 1-데옥시노지리마이신 및 N-부틸-데옥시노지리마이신으로부터 선택되는 것인 약제학적 조성물.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 약리학적 샤프론이 정제된 rhGAA와 공동 제형화되는 것인 약제학적 조성물.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20181025",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 21,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "재조합 인간 리소좀 단백질을 생성하기 위한 방법으로서,\n생물반응기에서 재조합 인간 리소좀 단백질을 분비하는 숙주 세포를 배양하는 단계;\n생물반응기로부터 배지를 회수하는 단계;\n배지를 여과하여, 여과물을 제공하는 단계;\n리소좀 단백질을 포획하기 위해, 음이온 교환 크로마토그래피(AEX) 칼럼에 여과물을 로딩하는 단계; 및\n제1 단백질 산물을 AEX 칼럼으로부터 용리시키는 단계\n를 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 재조합 인간 리소좀 단백질은 재조합 인간 α-글루코시다제(rhGAA)인, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, rhGAA는 SEQ ID NO: 2와 적어도 95% 동일한 아미노산 서열을 포함하는, 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, \n제1 단백질 산물을 고정 금속 친화도 크로마토그래피(IMAC) 칼럼에 로딩하는 단계, 및\n제2 단백질 산물을 IMAC 칼럼으로부터 용리시키는 단계\n를 추가로 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서,\n제2 단백질 산물을 제3 크로마토그래피 칼럼에 로딩하는 단계; 및\n제3 단백질 산물을 제3 크로마토그래피 칼럼으로부터 용리시키는 단계\n를 추가로 포함하는, 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, 제3 크로마토그래피 칼럼은 양이온 교환 크로마토그래피(CEX) 칼럼 및 크기 배제 크로마토그래피(SEC) 칼럼으로부터 선택되는, 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 배지의 여과는 교대 접선 유동 여과(alternating tangential flow filtration, ATF) 및 접선 유동 여과(tangential flow filtration, TFF)로부터 선택되는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 제1 단백질 산물, 제2 단백질 산물 및 제3 단백질 산물 중 하나 이상에서 바이러스를 불활성화시키는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 제2 단백질 산물 또는 제3 단백질 산물을 여과하여, 여과 산물을 제공하는 단계 및 여과 산물로 바이알을 충전하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 여과 산물을 동결건조하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 있어서, 숙주 세포는 중국 햄스터 난소(CHO) 세포를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 숙주 세포는 CHO 세포주 GA-ATB-200 또는 ATB-200-001-X5-14 또는 이의 계대배양물을 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제12항 중 어느 한 항에 있어서,\n(i) 제1 단백질 산물 또는 제2 단백질 산물 또는 제3 단백질 산물 중 적어도 90%가 양이온-비의존성 마노스-6-인산염 수용체(CIMPR)와 결합하거나\n(ii) 제1 단백질 산물 또는 제2 단백질 산물 또는 제3 단백질 산물 중 적어도 90%가 단일-만노스-6-인산염(단일-M6P) 또는 이중-만노스-6-인산염(이중-M6P)을 보유하는 N-글리칸을 함유하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 있어서, rhGAA는 7개의 잠재적 N-글리코실화 부위를 포함하고, rhGAA 분자 중 적어도 50%는 제1 부위에 2개의 만노스-6-인산염 잔기를 보유하는 N-글리칸 단위를 포함하고, rhGAA 분자 중 적어도 30%는 제2 부위에 1개의 만노스-6-인산염 잔기를 보유하는 N-글리칸 단위를 포함하고, rhGAA 분자 중 적어도 30%는 제4 부위에 2개의 만노스-6-인산염 잔기를 보유하는 N-글리칸 단위를 포함하고, rhGAA 분자 중 적어도 20%는 제4 부위에 1개의 만노스-6-인산염 잔기를 보유하는 N-글리칸 단위를 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제14항 중 어느 한 항의 방법에 의해 제조되는 재조합 단백질 산물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항의 재조합 단백질 산물 및 약제학적으로 허용 가능한 담체를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "리소좀 저장 장애를 치료하기 위한 제16항의 약제학적 조성물의 용도.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 리소좀 저장 장애는 폼페병이고, 재조합 단백질은 rhGAA인, 용도.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 환자에 rhGAA 산물을 포함하는 약제학적 조성물의 투여 4시간 이내에 α-글루코시다제에 대한 약리학적 샤프론(pharmacological chaperone)이 공동 투여되는, 용도.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 약리학적 샤프론은 1-데옥시노지리마이신 및 N-부틸-데옥시노지리마이신으로부터 선택되는, 용도.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항 또는 제20항에 있어서, 약리학적 샤프론은 rhGAA 산물과 공동 제형화되는, 용도.",
+            "refers_to": [
+              19,
+              20
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200327",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 21,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "정제된 재조합 인간 산 α-글루코시다제(rhGAA)를 생성하기 위한 방법으로서,\n생물반응기에서 rhGAA를 분비하는 숙주 세포를 배양하는 단계;\n생물반응기로부터 배지를 회수하는 단계;\n배지를 여과하여 여과물을 제공하는 단계;\nrhGAA를 포획하기 위해, 음이온 교환 크로마토그래피(AEX) 칼럼에 여과물을 로딩하는 단계; \nrhGAA를 AEX 칼럼으로부터 용리시키는 단계;\nAEX 칼럼으로부터 용리된 rhGAA를 고정 금속 친화도 크로마토그래피(IMAC) 칼럼에 로딩하는 단계; 및\nrhGAA를 IMAC 칼럼으로부터 용리시키는 단계\n를 포함하고, 여기서 정제된 rhGAA가 SEQ ID NO: 2와 적어도 95% 동일한 아미노산 서열을 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 정제된 rhGAA가 제1 잠재적 N-글리코실화 부위, 제2 잠재적 N-글리코실화 부위, 제3 잠재적 N-글리코실화 부위, 제4 잠재적 N-글리코실화 부위, 제5 잠재적 N-글리코실화 부위, 제6 잠재적 N-글리코실화 부위 및 제7 잠재적 N-글리코실화 부위를 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서,\nIMAC 칼럼으로부터 용리된 rhGAA를 제3 크로마토그래피 칼럼에 로딩하는 단계; 및\nrhGAA를 제3 크로마토그래피 칼럼으로부터 용리시키는 단계\n를 추가로 포함하는 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 제3 크로마토그래피 칼럼이 양이온 교환 크로마토그래피(CEX) 칼럼 및 크기 배제 크로마토그래피(SEC) 칼럼으로부터 선택되는 것인 방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 배지의 여과가 교대 접선 유동 여과(alternating tangential flow filtration, ATF) 및 접선 유동 여과(tangential flow filtration, TFF)로부터 선택되는 것인 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, AEX 칼럼으로부터 용리된 rhGAA, IMAC 칼럼으로부터 용리된 rhGAA 및 제3 크로마토그래피 칼럼으로부터 용리된 rhGAA 중 하나 이상에서 바이러스를 불활성화시키는 단계를 추가로 포함하는 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, IMAC 칼럼으로부터 용리된 rhGAA 또는 제3 크로마토그래피 칼럼으로부터 용리된 rhGAA를 여과하여 여과 산물을 제공하는 단계를 추가로 포함하는 방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 여과 산물을 동결건조하는 단계를 추가로 포함하는 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 숙주 세포가 중국 햄스터 난소(CHO) 세포를 포함하는 것인 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서,\n(i) 정제된 rhGAA 중 적어도 90%가 양이온-비의존성 만노스-6-인산염 수용체(CIMPR)와 결합하거나,\n(ii) 정제된 rhGAA 중 적어도 90%가 단일-만노스-6-인산염(단일-M6P) 또는 이중-만노스-6-인산염(이중-M6P)을 보유하는 N-글리칸을 포함하는 것인 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 방법에 의해 제조되는 정제된 rhGAA.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항의 정제된 rhGAA 및 약제학적으로 허용 가능한 담체를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 폼페병을 치료하기 위한 약제학적 조성물.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 정제된 rhGAA를 포함하는 약제학적 조성물의 투여 4시간 이내에 산 α-글루코시다제에 대한 약리학적 샤프론(pharmacological chaperone)이 투여되는 것인 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 약리학적 샤프론이 1-데옥시노지리마이신 및 N-부틸-데옥시노지리마이신으로부터 선택되는 것인 약제학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 약리학적 샤프론이 정제된 rhGAA와 공동 제형화되는 것인 약제학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20210429",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 5,
+        "claims": [
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항의 정제된 rhGAA 및 약제학적으로 허용 가능한 담체를 포함하는, 폼페병을 치료하기 위한 약제학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 정제된 rhGAA를 포함하는 약제학적 조성물의 투여 4시간 이내에 산 α-글루코시다제에 대한 약리학적 샤프론(pharmacological chaperone)이 투여되는 것인 약제학적 조성물.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 약리학적 샤프론이 1-데옥시노지리마이신 및 N-부틸-데옥시노지리마이신으로부터 선택되는 것인 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 약리학적 샤프론이 정제된 rhGAA와 공동 제형화되는 것인 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 21,
+      "after_claim_count": 5,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020217041615"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2017.10.05",
+      "internationOpenNumber": "WO2017173059",
+      "internationalApplicationDate": "2017.03.30",
+      "internationalApplicationNumber": "PCT/US2017/024981"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 펜실베니아 ***** 필라델피아 마켓 스트리트 ****",
+      "code": "520070513540",
+      "country": "미국",
+      "engName": "AMICUS THERAPEUTICS, INC.",
+      "name": "아미쿠스 세라퓨틱스, 인코포레이티드"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 ***** 뉴저지...",
+        "code": "",
+        "country": "",
+        "engName": "DO, Hung V.",
+        "name": "두, 헝 브이."
+      },
+      {
+        "address": "미국 ***** 뉴저지...",
+        "code": "",
+        "country": "",
+        "engName": "GOTSCHALL, Russell",
+        "name": "갓샬, 러셀"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980003619",
+        "country": "대한민국",
+        "engName": "YANG, Young June",
+        "name": "양영준"
+      },
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "919980000478",
+        "country": "대한민국",
+        "engName": "KIM, Young",
+        "name": "김영"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2016.03.30",
+        "priorityApplicationNumber": "62/315,400"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2017.02.10",
+        "priorityApplicationNumber": "62/457,584"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2017.03.30",
+        "priorityApplicationNumber": "15/473,994"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR101983572 B1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2012042386 A2",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2013136189 A2",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2018.10.25",
+        "receiptNumber": "1-1-2018-1053790-19"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2018.10.31",
+        "receiptNumber": "1-5-2018-0168899-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2020.03.27",
+        "receiptNumber": "1-1-2020-0321330-20"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.03.27",
+        "receiptNumber": "1-1-2020-0321329-84"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.01.30",
+        "receiptNumber": "9-5-2021-0087732-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.03.30",
+        "receiptNumber": "1-1-2021-0370666-27"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.04.29",
+        "receiptNumber": "1-1-2021-0500280-79"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.04.29",
+        "receiptNumber": "1-1-2021-0500279-22"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.09.27",
+        "receiptNumber": "9-5-2021-0755637-24"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2021.12.20",
+        "receiptNumber": "1-1-2021-1469812-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.08.13",
+        "receiptNumber": "4-1-2024-5241926-02"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020187030848.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9330778f159400dfee159325aacbd291422841cc9401b24d765de399bce84f927d4d4b508d43f09debf0c40b2f897b2303d366f733f4cc4e7b",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf4acb6f27ef6d6384a91c5106a5f7f4c2e280d3c5ea401bb0e96b1bbff68ca775d31eec0bddb2a2c35cb8724eb106f9f994c342b2ddfb7be8"
+  },
+  "rndInfoArray": ""
+}

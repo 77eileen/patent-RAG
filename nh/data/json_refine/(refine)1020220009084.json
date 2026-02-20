@@ -1,0 +1,1213 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.01.21",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0009084",
+      "claimCount": "17",
+      "examinerName": "이형곤",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "Francisella novicida Cas9 모듈 기반의 역전사 효소를 사용한 유전체 치환 및 삽입 기술",
+      "inventionTitleEng": "Genome replacement and insertion technology using  reverse transcriptase based on Francisella novicida  Cas9 module",
+      "openDate": "2022.07.28",
+      "openNumber": "10-2022-0106079",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.01.21",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.10.30",
+      "publicationNumber": "",
+      "registerDate": "2025.10.21",
+      "registerNumber": "10-2876548-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 9/22"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/113"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "C12N 15/10"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/90"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 Francisella novicida Cas9 모듈 기반의 역전사 효소를 사용한 유전체 치환 및 삽입 기술에 관한 것이다. 본 발명에 따른 유전자 치환 및 삽입 기술은 표적 DNA 내부 non-target strand에 형성되는 nick position이 다르기 때문에 기존 유전체 삽입 및 치환 기술을 확장할 수 있는 장점을 가진다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220009084",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220121",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 21,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Francisella novicida Cas9 단백질; \n역전사 효소 단백질; 및\n프라임 편집 가이드 RNA (PEgRNA)를 포함하는 프라임 편집 복합체로서, \n상기 프라임 편집 가이드 RNA (PEgRNA)는 프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 것인, 프라임 편집 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, Francisella novicida Cas9 단백질은 서열번호 2의 Francisella novicida Cas9(H969A)에 대하여 적어도 98 % 이상 동일한 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, Francisella novicida Cas9 단백질은 서열번호 2의 Francisella novicida Cas9(H969A)는 서열번호 2의 아미노산 서열을 가지는 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, Francisella novicida Cas9 단백질은 표적 DNA에 nick을 형성하는 위치가 PAM 으로부터 6bp 떨어진 곳인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 역전사 효소는 서열번호 15의 서열을 가지는 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, Francisella novicida Cas9 단백질 및 역전사 효소 단백질은 융합 단백질의 형태를 가지는 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, Francisella novicida Cas9 단백질 및 역전사 효소 단백질이 프라임 편집 가이드 RNA (PEgRNA)와 복합체화 된 경우 표적 DNA 서열에 결합할 수 있는 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)의 스페이서 서열은 표적 DNA 내의 프로토스페이서에 결합하는 서열인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)의 gRNA 코어는 Cas9 결합을 담당하는 gRNA 내의 서열인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)의 연장 아암은 프라이머 결합 부위 및 역전사 효소를 통해 관심 유전적 변화를 함유하는 단일 가닥 DNA 플랩을 코딩하는 DNA 합성 주형 서열을 포함하는, PEgRNA의 단일 가닥 연장부인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)가 서열번호 23의 서열을 포함하는 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 표적 또는 상보적 비-표적 가닥이 닉킹되어 유리 3' 단부를 갖는 프라이밍 서열을 형성하는 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 닉 부위가 PAM 서열의 5' 단부에 대해 -6인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Francisella novicida Cas9 단백질; 및 역전사 효소 단백질을 포함하는 융합 단백질을 코딩하는 폴리뉴클레오티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Francisella novicida Cas9 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Francisella novicida Cas9 단백질; 역전사 효소 단백질; 및 프라임 편집 가이드 RNA (PEgRNA)를 포함하는 프라임 편집 복합체를 포함하는 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 따른 프라임 편집 복합체를 포함하는 유전자 교정용 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Francisella novicida Cas9 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터; 및 프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터를 포함하는 유전자 교정용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 따른 프라임 편집 복합체를 포함하는 돌연변이 또는 단일-뉴클레오티드 다형태(SNP)와 관련된 질환의 예방 또는 치료용 약제학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Francisella novicida Cas9 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터; 및 프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터를 포함하는 돌연변이 또는 단일-뉴클레오티드 다형태(SNP)와 관련된 질환의 예방 또는 치료용 약제학적 조성물.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20250625",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 21,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 2의 아미노산 서열을 가지는 Francisella novicida Cas9 니카제(nickase) 단백질; 역전사 효소 단백질; 및프라임 편집 가이드 RNA (PEgRNA)를 포함하는 프라임 편집 복합체로서,상기 Francisella novicida Cas9 니카제(nickase) 단백질은 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 것이며,상기 프라임 편집 가이드 RNA (PEgRNA)는 프라이머 결합 부위, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 삽입되는 편집 주형 및 상동성 아암을 포함하는 것인, 프라임 편집 복합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 역전사 효소는 서열번호 15의 서열을 가지는 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, Francisella novicida Cas9 니카제(nickase) 단백질 및 역전사 효소 단백질은 융합 단백질의 형태를 가지는 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, Francisella novicida Cas9 니카제(nickase) 단백질 및 역전사 효소 단백질이 프라임 편집 가이드 RNA (PEgRNA)와 복합체화 된 경우 표적 DNA 서열에 결합할 수 있는 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)의 스페이서 서열은 표적 DNA 내의 프로토스페이서에 결합하는 서열인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)의 gRNA 코어는 Francisella novicida Cas9 니카제(nickase) 결합을 담당하는 gRNA 내의 서열인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)의 연장 아암은 프라이머 결합 부위 및 역전사 효소를 통해 관심 유전적 변화를 함유하는 단일 가닥 DNA 플랩을 코딩하는 DNA 합성 주형 서열을 포함하는, PEgRNA의 단일 가닥 연장부인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)가 서열번호 23의 서열을 포함하는 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 표적 또는 상보적 비-표적 가닥이 닉킹되어 유리 3' 단부를 갖는 프라이밍 서열을 형성하는 것인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 닉 부위가 PAM 서열의 5' 단부에 대해 -6인, 프라임 편집 복합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 2의 아미노산 서열을 가지며, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 Francisella novicida Cas9 니카제(nickase) 단백질; 및 역전사 효소 단백질을 포함하는 융합 단백질을 코딩하는 폴리뉴클레오티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 2의 아미노산 서열을 가지며, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 Francisella novicida Cas9 니카제(nickase) 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드; 및프라이머 결합 부위, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 삽입되는 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드;를 포함하는 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 2의 아미노산 서열을 가지며, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 Francisella novicida Cas9 니카제(nickase) 단백질; 역전사 효소 단백질; 및 프라임 편집 가이드 RNA (PEgRNA)를 포함하되,상기 프라임 편집 가이드 RNA (PEgRNA)는 프라이머 결합 부위, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 삽입되는 편집 주형 및 상동성 아암을 포함하는 것인, 프라임 편집 복합체를 포함하는 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항, 제5항 내지 제13항 중 어느 한 항에 따른 프라임 편집 복합체를 포함하는 유전자 교정용 조성물.",
+          "refers_to": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 2의 아미노산 서열을 가지며, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 Francisella novicida Cas9 니카제(nickase) 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터; 및 프라이머 결합 부위, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 삽입되는 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터를 포함하는 유전자 교정용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항, 제5항 내지 제13항 중 어느 한 항에 따른 프라임 편집 복합체를 포함하는 돌연변이 또는 단일-뉴클레오티드 다형태(SNP)와 관련된 질환의 예방 또는 치료용 약제학적 조성물.",
+          "refers_to": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 2의 아미노산 서열을 가지며, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 Francisella novicida 니카제(nickase) Cas9 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터; 및 프라이머 결합 부위, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 삽입되는 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터를 포함하는 돌연변이 또는 단일-뉴클레오티드 다형태(SNP)와 관련된 질환의 예방 또는 치료용 약제학적 조성물.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220121",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 21,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Francisella novicida Cas9 단백질; \n역전사 효소 단백질; 및\n프라임 편집 가이드 RNA (PEgRNA)를 포함하는 프라임 편집 복합체로서, \n상기 프라임 편집 가이드 RNA (PEgRNA)는 프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 것인, 프라임 편집 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, Francisella novicida Cas9 단백질은 서열번호 2의 Francisella novicida Cas9(H969A)에 대하여 적어도 98 % 이상 동일한 것인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, Francisella novicida Cas9 단백질은 서열번호 2의 Francisella novicida Cas9(H969A)는 서열번호 2의 아미노산 서열을 가지는 것인, 프라임 편집 복합체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, Francisella novicida Cas9 단백질은 표적 DNA에 nick을 형성하는 위치가 PAM 으로부터 6bp 떨어진 곳인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 역전사 효소는 서열번호 15의 서열을 가지는 것인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, Francisella novicida Cas9 단백질 및 역전사 효소 단백질은 융합 단백질의 형태를 가지는 것인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, Francisella novicida Cas9 단백질 및 역전사 효소 단백질이 프라임 편집 가이드 RNA (PEgRNA)와 복합체화 된 경우 표적 DNA 서열에 결합할 수 있는 것인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)의 스페이서 서열은 표적 DNA 내의 프로토스페이서에 결합하는 서열인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)의 gRNA 코어는 Cas9 결합을 담당하는 gRNA 내의 서열인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)의 연장 아암은 프라이머 결합 부위 및 역전사 효소를 통해 관심 유전적 변화를 함유하는 단일 가닥 DNA 플랩을 코딩하는 DNA 합성 주형 서열을 포함하는, PEgRNA의 단일 가닥 연장부인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)가 서열번호 23의 서열을 포함하는 것인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 표적 또는 상보적 비-표적 가닥이 닉킹되어 유리 3' 단부를 갖는 프라이밍 서열을 형성하는 것인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 닉 부위가 PAM 서열의 5' 단부에 대해 -6인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Francisella novicida Cas9 단백질; 및 역전사 효소 단백질을 포함하는 융합 단백질을 코딩하는 폴리뉴클레오티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Francisella novicida Cas9 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Francisella novicida Cas9 단백질; 역전사 효소 단백질; 및 프라임 편집 가이드 RNA (PEgRNA)를 포함하는 프라임 편집 복합체를 포함하는 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 따른 프라임 편집 복합체를 포함하는 유전자 교정용 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Francisella novicida Cas9 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터; 및 프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터를 포함하는 유전자 교정용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 따른 프라임 편집 복합체를 포함하는 돌연변이 또는 단일-뉴클레오티드 다형태(SNP)와 관련된 질환의 예방 또는 치료용 약제학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Francisella novicida Cas9 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터; 및 프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터를 포함하는 돌연변이 또는 단일-뉴클레오티드 다형태(SNP)와 관련된 질환의 예방 또는 치료용 약제학적 조성물.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20241022",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 11,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지는 Francisella novicida Cas9 단백질; \n역전사 효소 단백질; 및\n프라임 편집 가이드 RNA (PEgRNA)를 포함하는 프라임 편집 복합체로서, \n상기 프라임 편집 가이드 RNA (PEgRNA)는 프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 것인, 프라임 편집 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지는 Francisella novicida Cas9 단백질; 및 역전사 효소 단백질을 포함하는 융합 단백질을 코딩하는 폴리뉴클레오티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지는 Francisella novicida Cas9 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 있어서, 프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 더 포함하는 벡터.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지는 Francisella novicida Cas9 단백질; 역전사 효소 단백질; 및 프라임 편집 가이드 RNA (PEgRNA)를 포함하는 프라임 편집 복합체를 포함하는 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제4항 내지 제13항 중 어느 한 항에 따른 프라임 편집 복합체를 포함하는 유전자 교정용 조성물.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지는 Francisella novicida Cas9 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터; 및 프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터를 포함하는 유전자 교정용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제4항 내지 제13항 중 어느 한 항에 따른 프라임 편집 복합체를 포함하는 돌연변이 또는 단일-뉴클레오티드 다형태(SNP)와 관련된 질환의 예방 또는 치료용 약제학적 조성물.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지는 Francisella novicida Cas9 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터; 및 프라이머 결합 부위, 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터를 포함하는 돌연변이 또는 단일-뉴클레오티드 다형태(SNP)와 관련된 질환의 예방 또는 치료용 약제학적 조성물.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250625",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지는 Francisella novicida Cas9 니카제(nickase) 단백질; \n역전사 효소 단백질; 및\n프라임 편집 가이드 RNA (PEgRNA)를 포함하는 프라임 편집 복합체로서,\n상기 Francisella novicida Cas9 니카제(nickase) 단백질은 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 것이며,\n상기 프라임 편집 가이드 RNA (PEgRNA)는 프라이머 결합 부위, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 삽입되는 편집 주형 및 상동성 아암을 포함하는 것인, 프라임 편집 복합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, Francisella novicida Cas9 니카제(nickase) 단백질 및 역전사 효소 단백질은 융합 단백질의 형태를 가지는 것인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, Francisella novicida Cas9 니카제(nickase) 단백질 및 역전사 효소 단백질이 프라임 편집 가이드 RNA (PEgRNA)와 복합체화 된 경우 표적 DNA 서열에 결합할 수 있는 것인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 프라임 편집 가이드 RNA (PEgRNA)의 gRNA 코어는 Francisella novicida Cas9 니카제(nickase) 결합을 담당하는 gRNA 내의 서열인, 프라임 편집 복합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지며, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 Francisella novicida Cas9 니카제(nickase) 단백질; 및 역전사 효소 단백질을 포함하는 융합 단백질을 코딩하는 폴리뉴클레오티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지며, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 Francisella novicida Cas9 니카제(nickase) 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드; 및\n프라이머 결합 부위, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 삽입되는 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드;를 포함하는 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지며, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 Francisella novicida Cas9 니카제(nickase) 단백질; 역전사 효소 단백질; 및 프라임 편집 가이드 RNA (PEgRNA)를 포함하되,\n상기 프라임 편집 가이드 RNA (PEgRNA)는 프라이머 결합 부위, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 삽입되는 편집 주형 및 상동성 아암을 포함하는 것인, 프라임 편집 복합체를 포함하는 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제5항 내지 제13항 중 어느 한 항에 따른 프라임 편집 복합체를 포함하는 유전자 교정용 조성물.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지며, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 Francisella novicida Cas9 니카제(nickase) 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터; 및 프라이머 결합 부위, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 삽입되는 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터를 포함하는 유전자 교정용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제5항 내지 제13항 중 어느 한 항에 따른 프라임 편집 복합체를 포함하는 돌연변이 또는 단일-뉴클레오티드 다형태(SNP)와 관련된 질환의 예방 또는 치료용 약제학적 조성물.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 2의 아미노산 서열을 가지며, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 nick을 형성하는 Francisella novicida 니카제(nickase) Cas9 단백질 및 역전사 효소 단백질을 코딩하는 폴리뉴클레오티드를 포함하는 벡터; 및 프라이머 결합 부위, 표적 DNA상 PAM으로부터 6 bp 떨어진 위치에 삽입되는 편집 주형 및 상동성 아암을 포함하는 프라임 편집 가이드 RNA (PEgRNA)를 코딩하는 폴리뉴클레오티드를 포함하는 벡터를 포함하는 돌연변이 또는 단일-뉴클레오티드 다형태(SNP)와 관련된 질환의 예방 또는 치료용 약제학적 조성물.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 21,
+      "after_claim_count": 13,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "대전광역시 유성구...",
+      "code": "319990341665",
+      "country": "대한민국",
+      "engName": "Korea Research Institute of Bioscience and Biotechnology",
+      "name": "한국생명공학연구원"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Seung Hwan Lee",
+        "name": "이승환"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Sun-Uk Kim",
+        "name": "김선욱"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Yeoun Sun Oh",
+        "name": "오윤선"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Young-Ho Park",
+        "name": "박영호"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 강남구 테헤란로**길 ** (대치동) *층(교연특허법률사무소)",
+        "code": "920120003926",
+        "country": "대한민국",
+        "engName": "Kyeongkyo Kim",
+        "name": "김경교"
+      },
+      {
+        "address": "서울특별시 강남구 테헤란로**길 ** (대치동) *층(교연특허법률사무소)",
+        "code": "920130008010",
+        "country": "대한민국",
+        "engName": "YANG YONG",
+        "name": "양용"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2021.01.21",
+      "priorityApplicationNumber": "1020210008674"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2020191239 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "PNAS, vol 116, no 42, pp20959-20968(2019.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "NCBI Reference Sequence NP_955591.1(2018.08.13.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020170134766 A",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.01.21",
+        "receiptNumber": "1-1-2022-0079131-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.05.28",
+        "receiptNumber": "4-1-2024-5165410-94"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.08.22",
+        "receiptNumber": "9-5-2024-0705259-77"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.09.09",
+        "receiptNumber": "4-1-2024-5268975-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.09.26",
+        "receiptNumber": "4-1-2024-5283793-99"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.10.22",
+        "receiptNumber": "1-1-2024-1148548-89"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.10.22",
+        "receiptNumber": "1-1-2024-1148547-33"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2025.04.24",
+        "receiptNumber": "9-5-2025-0398079-76"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2025.06.25",
+        "receiptNumber": "1-1-2025-0713555-18"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.06.25",
+        "receiptNumber": "1-1-2025-0713554-62"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.10.17",
+        "receiptNumber": "9-5-2025-1002399-74"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220009084.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c939fc0b1a0b422cd8886da1d7bf16bb4e608f8d0958b0b314493b03f5e9f40615dd4f15086549476a1a7479389dd4535c4479d44e8b3ef6200",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfeb7dbeba905c12c40b8ea73b0a2a0b388a207fffd48c8375332427f7f3dd014375fb032199f8d492501acd4b28dbb60f2728910554363e6b"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2020.01.01 ~ 2020.12.31",
+        "rndManagingInstituteName": "한국생명공학연구원",
+        "rndProjectName": "한국생명공학연구원연구운영비지원(R＆D)(주요사업비)",
+        "rndSpecialInstituteName": "한국생명공학연구원",
+        "rndTaskContribution": "10/100",
+        "rndTaskName": "미니돼지 자원 활용 범용/맞춤형 인공혈액 개발사업",
+        "rndTaskNumber": "1711125186"
+      },
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2020.01.01 ~ 2020.12.31",
+        "rndManagingInstituteName": "한국생명공학연구원",
+        "rndProjectName": "한국생명공학연구원연구운영비지원(R＆D)(주요사업비)",
+        "rndSpecialInstituteName": "한국생명공학연구원",
+        "rndTaskContribution": "10/100",
+        "rndTaskName": "신규 유전자가위 기반 유전자치료 원천기술 개발",
+        "rndTaskNumber": "1711125207"
+      },
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2020.03.01 ~ 2021.03.04",
+        "rndManagingInstituteName": "한국생명공학연구원",
+        "rndProjectName": "개인기초연구(과기정통부)(R＆D)",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "80/100",
+        "rndTaskName": "진화된 크리스퍼(CRISPR) 모듈을 이용한 DNA 가이드 기반의 표적 특이적 유전자 교정.",
+        "rndTaskNumber": "1711113348"
+      }
+    ]
+  }
+}

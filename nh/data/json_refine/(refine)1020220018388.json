@@ -1,0 +1,732 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.02.11",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0018388",
+      "claimCount": "11",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "뇌질환 예방 또는 치료용 조성물 및 스크리닝 방법",
+      "inventionTitleEng": "Composition for treating or preventing brain disease  and Screening method therefor",
+      "openDate": "2023.08.18",
+      "openNumber": "10-2023-0121463",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.02.11",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 25/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 49/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 뇌질환 예방 또는 치료용 조성물 및 스크리닝 방법에 관한 것이다. 본 발명의 조성물은 Ebp1(ErbB3-binding protein 1) 단백질 또는 Ebp1 단백질을 인코딩하는 폴리뉴클레오타이드를 유효성분으로 포함하고, 뇌질환 예컨대 소뇌위축증, 조현병, 또는 소뇌위축증을 동반하는 조현병의 예방 또는 치료 효과가 우수하므로, 상기 뇌질환의 예방 또는 치료제로서 유용하게 사용할 수 있다. 또한 본 발명의 스크리닝 방법을 통하여 뇌질환의 예방 또는 치료제 후보물질의 발굴이 가능하다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220018388",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220211",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 12,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Ebp1(ErbB3-binding protein 1) 단백질, 또는 Ebp1 단백질을 인코딩하는 폴리뉴클레오타이드 서열을 유효성분으로 포함하는, 뇌질환의 예방 또는 치료용 약제학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 Ebp1 단백질은 서열번호 1의 아미노산 서열을 포함하는 것인, 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 폴리뉴클레오타이드 서열은 서열번호 2의 뉴클레오타이드 서열을 포함하는 것인, 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상게 폴리뉴클레오타이드 서열은 네이키드 DNA 이거나, 또는 유전자 전달체에 포함된 것인, 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 유전자 전달체는 벡터인, 약제학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, 상기 벡터는 플라스미드 벡터, 코스미드 벡터, 또는 바이러스 벡터인, 약제학적 조성물.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 뇌질환을 가지는 환자는 Ebp1 유전자 변이를 가지는 것인, 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 뇌질환은 소뇌위축증, 조현병, 또는 소뇌위축증을 동반하는 조현병인, 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다음 단계를 포함하는 뇌질환 치료제의 스크리닝 방법:\n(a) Ebp1(ErbB3-binding protein 1) 단백질을 인코딩하는 유전자가 녹아웃 된 형질전환 동물에 뇌질환 치료제 후보물질을 투여하는 단계;\n(b) 상기 후보물질을 투여한 형질전환 동물을 후보물질을 투여하지 않은 대조군 동물과 비교하여 뇌질환에 대한 지표를 측정하는 단계; 및\n(c) 상기 지표가 후보물질을 투여한 형질전환 동물에서 대조군 동물에 비해 개선되는 경우, 후보물질을 뇌질환의 치료제로 판정하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 형질전환 동물은 조직 특이적으로 Ebp1 단백질을 인코딩하는 유전자가 녹아웃된 것인, 스크리닝 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 형질전환 동물은 형질전환 마우스(mouse)인, 스크리닝 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 뇌질환에 대한 지표의 측정은 소뇌의 부피 측정, 소뇌 퍼킨지 세포의 수와 수상돌기의 길이 측정, 로타로드(Rotarod) 실험, 악력 측정, 오픈 필드 테스트(Open field test), 보행 분석, 선행자극 억제 실험(Prepulse inhibition), Y-미로(Y-maze), 새로운 물건 인식 실험(Novel object recognition test), 3-챔버 실험(Three chamber assay), 또는 이들의 조합인, 스크리닝 방법.",
+          "refers_to": [
+            9
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20250926",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 12,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Ebp1(ErbB3-binding protein 1) 단백질, 또는 Ebp1 단백질을 인코딩하는 폴리뉴클레오타이드 서열을 유효성분으로 포함하는, 뇌질환의 예방 또는 치료용 약제학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 Ebp1 단백질은 서열번호 1의 아미노산 서열을 포함하는 것인, 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 폴리뉴클레오타이드 서열은 서열번호 2의 뉴클레오타이드 서열을 포함하는 것인, 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상게 폴리뉴클레오타이드 서열은 네이키드 DNA 이거나, 또는 유전자 전달체에 포함된 것인, 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 유전자 전달체는 벡터인, 약제학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, 상기 벡터는 플라스미드 벡터, 코스미드 벡터, 또는 바이러스 벡터인, 약제학적 조성물.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 뇌질환을 가지는 환자는 Ebp1 유전자 변이를 가지는 것인, 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 뇌질환은 소뇌위축증, 조현병, 또는 소뇌위축증을 동반하는 조현병인, 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "다음 단계를 포함하는 뇌질환 치료제의 스크리닝 방법:(a) Ebp1(ErbB3-binding protein 1) 단백질을 인코딩하는 유전자가 녹아웃 된 형질전환 동물에 뇌질환 치료제 후보물질을 투여하는 단계;(b) 상기 후보물질을 투여한 형질전환 동물을 후보물질을 투여하지 않은 대조군 동물과 비교하여 뇌질환에 대한 지표를 측정하는 단계; 및(c) 상기 지표가 후보물질을 투여한 형질전환 동물에서 대조군 동물에 비해 개선되는 경우, 후보물질을 뇌질환의 치료제로 판정하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 형질전환 동물은 조직 특이적으로 Ebp1 단백질을 인코딩하는 유전자가 녹아웃된 것인, 스크리닝 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 형질전환 동물은 형질전환 마우스(mouse)인, 스크리닝 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 뇌질환에 대한 지표의 측정은 소뇌의 부피 측정, 소뇌 퍼킨지 세포의 수와 수상돌기의 길이 측정, 로타로드(Rotarod) 실험, 악력 측정, 오픈 필드 테스트(Open field test), 보행 분석, 선행자극 억제 실험(Prepulse inhibition), Y-미로(Y-maze), 새로운 물건 인식 실험(Novel object recognition test), 3-챔버 실험(Three chamber assay), 또는 이들의 조합인, 스크리닝 방법.",
+          "refers_to": [
+            9
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220211",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 12,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Ebp1(ErbB3-binding protein 1) 단백질, 또는 Ebp1 단백질을 인코딩하는 폴리뉴클레오타이드 서열을 유효성분으로 포함하는, 뇌질환의 예방 또는 치료용 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 Ebp1 단백질은 서열번호 1의 아미노산 서열을 포함하는 것인, 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 폴리뉴클레오타이드 서열은 서열번호 2의 뉴클레오타이드 서열을 포함하는 것인, 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상게 폴리뉴클레오타이드 서열은 네이키드 DNA 이거나, 또는 유전자 전달체에 포함된 것인, 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 유전자 전달체는 벡터인, 약제학적 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, 상기 벡터는 플라스미드 벡터, 코스미드 벡터, 또는 바이러스 벡터인, 약제학적 조성물.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 뇌질환을 가지는 환자는 Ebp1 유전자 변이를 가지는 것인, 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 뇌질환은 소뇌위축증, 조현병, 또는 소뇌위축증을 동반하는 조현병인, 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다음 단계를 포함하는 뇌질환 치료제의 스크리닝 방법:\n(a) Ebp1(ErbB3-binding protein 1) 단백질을 인코딩하는 유전자가 녹아웃 된 형질전환 동물에 뇌질환 치료제 후보물질을 투여하는 단계;\n(b) 상기 후보물질을 투여한 형질전환 동물을 후보물질을 투여하지 않은 대조군 동물과 비교하여 뇌질환에 대한 지표를 측정하는 단계; 및\n(c) 상기 지표가 후보물질을 투여한 형질전환 동물에서 대조군 동물에 비해 개선되는 경우, 후보물질을 뇌질환의 치료제로 판정하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 형질전환 동물은 조직 특이적으로 Ebp1 단백질을 인코딩하는 유전자가 녹아웃된 것인, 스크리닝 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 형질전환 동물은 형질전환 마우스(mouse)인, 스크리닝 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 뇌질환에 대한 지표의 측정은 소뇌의 부피 측정, 소뇌 퍼킨지 세포의 수와 수상돌기의 길이 측정, 로타로드(Rotarod) 실험, 악력 측정, 오픈 필드 테스트(Open field test), 보행 분석, 선행자극 억제 실험(Prepulse inhibition), Y-미로(Y-maze), 새로운 물건 인식 실험(Novel object recognition test), 3-챔버 실험(Three chamber assay), 또는 이들의 조합인, 스크리닝 방법.",
+            "refers_to": [
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20241126",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 폴리뉴클레오타이드 서열은 네이키드 DNA 이거나, 또는 유전자 전달체에 포함된 것인, 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250926",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "Ebp1(ErbB3-binding protein 1) 단백질, 또는 Ebp1 단백질을 인코딩하는 폴리뉴클레오타이드를 유효성분으로 포함하는, 소뇌위축증의 예방 또는 치료용 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 폴리뉴클레오타이드는 서열번호 2의 뉴클레오타이드 서열을 포함하는 것인, 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 폴리뉴클레오타이드는 네이키드 DNA 이거나, 또는 유전자 전달체에 포함된 것인, 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 소뇌위축증을 가지는 환자는 Ebp1 유전자 변이를 가지는 것인, 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "다음 단계를 포함하는 소뇌위축증 치료제의 스크리닝 방법:\n(a) Ebp1(ErbB3-binding protein 1) 단백질을 인코딩하는 유전자가 녹아웃 된 형질전환 동물에 소뇌위축증 치료제 후보물질을 투여하는 단계;\n(b) 상기 후보물질을 투여한 형질전환 동물을 후보물질을 투여하지 않은 대조군 동물과 비교하여 소뇌위축증에 대한 지표를 측정하는 단계; 및\n(c) 상기 지표가 후보물질을 투여한 형질전환 동물에서 대조군 동물에 비해 개선되는 경우, 후보물질을 소뇌위축증 치료제로 판정하는 단계,\n상기 형질전환 동물은 인간을 제외한 형질전환 동물임.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 소뇌위축증에 대한 지표의 측정은 소뇌의 부피 측정, 소뇌 퍼킨지 세포의 수와 수상돌기의 길이 측정, 로타로드(Rotarod) 실험, 악력 측정, 또는 이들의 조합인, 스크리닝 방법.",
+            "refers_to": [
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 12,
+      "after_claim_count": 7,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "경기도 수원시 장안구...",
+      "code": "220050013604",
+      "country": "대한민국",
+      "engName": "Research ＆ Business Foundation SUNGKYUNKWAN UNIVERSITY",
+      "name": "성균관대학교산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 서초구...",
+        "code": "",
+        "country": "",
+        "engName": "AHN, JEE YIN",
+        "name": "안지인"
+      },
+      {
+        "address": "경기도 수원시 영통구...",
+        "code": "",
+        "country": "",
+        "engName": "HWANG, INWOO",
+        "name": "황인우"
+      },
+      {
+        "address": "경기도 수원시 장안구...",
+        "code": "",
+        "country": "",
+        "engName": "KIM, BYEONG SEONG",
+        "name": "김병성"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 관악구 남부순환로 ****(봉천동), ***호(제니스특허법률사무소)",
+      "code": "920120002347",
+      "country": "대한민국",
+      "engName": "KONG BYUNGWOOK",
+      "name": "공병욱"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "HWANG ET AL, INT. J. MOL. SCI. 2020, 21(7), 2609",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "HWANG ET AL, EXP MOL MED., 2020, 52(7), PP.1039_1047",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "YANQIU BAO ET AL, CANCER CELL INTERNATIONAL, 2022, VOL.22, ARTICLE NUMBER: 44",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "NICOLAS FIGEAC ET AL, DEV BIOL., 2014, 386(1), PP.135_151",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "CLINICS, Vol. 66. No. S1, pp. 71-77 (2011)",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.02.11",
+        "receiptNumber": "1-1-2022-0157906-39"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2023.04.14",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2023.07.18",
+        "receiptNumber": "9-6-2024-0191741-84"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.12.14",
+        "receiptNumber": "4-1-2023-5331701-35"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.02.29",
+        "receiptNumber": "4-1-2024-5079838-70"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2024.11.08",
+        "receiptNumber": "9-5-2024-0954896-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2024.11.26",
+        "receiptNumber": "1-1-2024-1306700-96"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Reference] Written Submission of Information",
+        "documentName": "[참고자료]정보제출서",
+        "receiptDate": "2024.11.26",
+        "receiptNumber": "1-1-2024-1306701-31"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.11.26",
+        "receiptNumber": "1-1-2024-1306702-87"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.04.09",
+        "receiptNumber": "4-1-2025-5096062-35"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.06.26",
+        "receiptNumber": "9-5-2025-0608503-50"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2025.08.26",
+        "receiptNumber": "1-1-2025-0976398-81"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.09.26",
+        "receiptNumber": "1-1-2025-1103986-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.09.26",
+        "receiptNumber": "1-1-2025-1103985-64"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220018388.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93dc8c3b6fe58ed979f29b212188dc1972b6666d36a737984645b7a4bab74a5c376c0e066f97a81311a4ecaade2766c88af93200ab7bb6590e",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf014bf1507c2333ee60afc773cd0335ba3a40677c353d8b480177a5012adbeba0733b3bdc7605bfedfadfddfc4d7e329406b298f904357258"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2016.12.01 ~ 2023.08.31",
+        "rndManagingInstituteName": "성균관대학교(자연과학캠퍼스)",
+        "rndProjectName": "선도연구센터사업 (MRC)",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "30/100",
+        "rndTaskName": "단일세포 네트워크 연구센터",
+        "rndTaskNumber": "1711058427"
+      },
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2020.03.01 ~ 2023.02.28",
+        "rndManagingInstituteName": "성균관대학교(자연과학캠퍼스)",
+        "rndProjectName": "기초연구사업 (중견연구자지원사업)",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "70/100",
+        "rndTaskName": "Ebp1에 의한 소뇌형성/기능 발달의 분자적 조절기전과 후성유전 조절 연구",
+        "rndTaskNumber": "1711106706"
+      }
+    ]
+  }
+}

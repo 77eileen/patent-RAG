@@ -1,0 +1,658 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2009.06.25",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2015-7032314",
+      "claimCount": "8",
+      "examinerName": "안규정",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "ＶＥＧＦ를 억제하는 안정하고 가용성인 항체",
+      "inventionTitleEng": "STABLE AND SOLUBLE ANTIBODIES INHIBITING VEGF",
+      "openDate": "2015.11.25",
+      "openNumber": "10-2015-0132602",
+      "originalApplicationDate": "2009.06.25",
+      "originalApplicationKind": "국제출원/분할",
+      "originalApplicationNumber": "10-2011-7001961",
+      "originalExaminationRequestDate": "2015.11.11",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2016.11.04",
+      "publicationNumber": "",
+      "registerDate": "2016.10.27",
+      "registerNumber": "10-1671886-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2015.11.11"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/22"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 7/06"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 래빗 모노클로날 항체의 CDR을 포함하는 가용성이고 안정한 안티-VEGF 면역결합제에 관한 것이다. 상기 항체는 VEGF와 매개된 장애를 진단 및/또는 치료하기 위해 설계되었다. 또한, 본 발명의 재조합 항체의 발현을 위한 하이브리도마, 핵산, 벡터 및 숙주 세포, 이들을 단리하는 방법 및 상기 항체의 약물로서의 용도를 기술하고 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020157032314",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20151111",
+      "document_name": "[분할출원(국제출원)]특허출원서",
+      "claim_count": 11,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "가변 중쇄(VH)가 각각 서열번호 8, 서열번호 20 및 서열번호 32의 CDRH1, CDRH2 및 CDRH3 서열을 포함하고, 가변 경쇄(VL)가 각각 서열번호 43, 서열번호 55 및 서열번호 66의 CDRL1, CDRL2 및 CDRL3 서열을 포함하는, 가변 중쇄 및 가변 경쇄를 포함하는 재조합 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 중쇄 가변영역이 서열번호 164의 아미노산 서열을 포함하고, 경쇄 가변영역이 서열번호 87의 아미노산 서열을 포함하는 재조합 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 재조합 항체의 항원-결합 절편으로서, scFv 또는 Fab, F(ab')2 또는 Fab'인 절편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 절편이 scFv이고, 중쇄 가변영역과 경쇄 가변영역이 서열번호 181의 서열에 의하여 연결되는 항원-결합 절편.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 재조합 항체 및 약학적으로 허용가능한 담체를 포함하는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 따른 재조합 항체 및 약학적으로 허용가능한 담체를 포함하는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 따른 항원-결합 절편 및 약학적으로 허용가능한 담체를 포함하는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 따른 항원-결합 절편 및 약학적으로 허용가능한 담체를 포함하는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항 내지 제8항 중 어느 한 항에 있어서, 사람 VEGF-매개 질병이 연령과 관련된 황반 퇴화, 신생혈관 녹내장, 당뇨망막병증, 미숙아 망막증, 후수정체 섬유증식증, 유방암, 폐암, 위암, 식도암, 대장암, 간암, 난소암, 혼수, 남성화세포종, 자궁경부암, 자궁내막암, 자궁내막증식, 자궁내막증, 섬유육종, 융모암, 머리와 목의 암, 상인두암, 후두암, 간아세포종, 카포시 육종, 악성 흑색종, 피부암, 혈관종, 해면상 혈관종, 혈관모 세포종, 췌장암, 망막아세포종, 성상세포종, 교모세포종, 슈반종, 핍지교종, 수모세포종, 신경아세포종, 횡문근육종, 골육종, 평활근육종, 요로암, 갑상선암, 빌름스 종양, 신세포암, 전립선암, 모반증과 연관된 비정상 혈관 증식, 부종, 메이그 신드롬, 류마티스 관절염, 건선 및 동맥경화증으로 구성되는 그룹에서 선택되는 약학적 조성물.",
+          "refers_to": [
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 따른 항체, 또는 제3항 또는 제4항에 따른 항원-결합 절편을 포함하는 이중특이성(bispecific) 분자.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 다중특이성인 이중특이성 분자.",
+          "refers_to": [
+            10
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20160408",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 11,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "가변 중쇄(VH)가 각각 서열번호 8, 서열번호 20 및 서열번호 32의 CDRH1, CDRH2 및 CDRH3 서열을 포함하고, 가변 경쇄(VL)가 각각 서열번호 43, 서열번호 55 및 서열번호 66의 CDRL1, CDRL2 및 CDRL3 서열을 포함하는, 가변 중쇄 및 가변 경쇄를 포함하는 재조합 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 중쇄 가변영역이 서열번호 164의 아미노산 서열을 포함하고, 경쇄 가변영역이 서열번호 87의 아미노산 서열을 포함하는 재조합 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 재조합 항체의 항원-결합 절편으로서, scFv 또는 Fab, F(ab')2 또는 Fab'인 절편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 절편이 scFv이고, 중쇄 가변영역과 경쇄 가변영역이 서열번호 181의 서열에 의하여 연결되는 항원-결합 절편.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 재조합 항체 및 약학적으로 허용가능한 담체를 포함하는,연령과 관련된 황반 퇴화, 신생혈관 녹내장, 당뇨망막병증, 미숙아 망막증, 후수정체 섬유증식증, 유방암, 폐암, 위암, 식도암, 대장암, 간암, 난소암, 혼수, 남성화세포종, 자궁경부암, 자궁내막암, 자궁내막증식, 자궁내막증, 섬유육종, 융모암, 머리와 목의 암, 상인두암, 후두암, 간아세포종, 카포시 육종, 악성 흑색종, 피부암, 혈관종, 해면상 혈관종, 혈관모 세포종, 췌장암, 망막아세포종, 성상세포종, 교모세포종, 슈반종, 핍지교종, 수모세포종, 신경아세포종, 횡문근육종, 골육종, 평활근육종, 요로암, 갑상선암, 빌름스 종양, 신세포암, 전립선암, 모반증과 연관된 비정상 혈관 증식, 부종, 메이그 신드롬, 류마티스 관절염, 건선 및 동맥경화증으로 구성되는 그룹에서 선택되는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 따른 재조합 항체 및 약학적으로 허용가능한 담체를 포함하는,연령과 관련된 황반 퇴화, 신생혈관 녹내장, 당뇨망막병증, 미숙아 망막증, 후수정체 섬유증식증, 유방암, 폐암, 위암, 식도암, 대장암, 간암, 난소암, 혼수, 남성화세포종, 자궁경부암, 자궁내막암, 자궁내막증식, 자궁내막증, 섬유육종, 융모암, 머리와 목의 암, 상인두암, 후두암, 간아세포종, 카포시 육종, 악성 흑색종, 피부암, 혈관종, 해면상 혈관종, 혈관모 세포종, 췌장암, 망막아세포종, 성상세포종, 교모세포종, 슈반종, 핍지교종, 수모세포종, 신경아세포종, 횡문근육종, 골육종, 평활근육종, 요로암, 갑상선암, 빌름스 종양, 신세포암, 전립선암, 모반증과 연관된 비정상 혈관 증식, 부종, 메이그 신드롬, 류마티스 관절염, 건선 및 동맥경화증으로 구성되는 그룹에서 선택되는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 따른 항원-결합 절편 및 약학적으로 허용가능한 담체를 포함하는,연령과 관련된 황반 퇴화, 신생혈관 녹내장, 당뇨망막병증, 미숙아 망막증, 후수정체 섬유증식증, 유방암, 폐암, 위암, 식도암, 대장암, 간암, 난소암, 혼수, 남성화세포종, 자궁경부암, 자궁내막암, 자궁내막증식, 자궁내막증, 섬유육종, 융모암, 머리와 목의 암, 상인두암, 후두암, 간아세포종, 카포시 육종, 악성 흑색종, 피부암, 혈관종, 해면상 혈관종, 혈관모 세포종, 췌장암, 망막아세포종, 성상세포종, 교모세포종, 슈반종, 핍지교종, 수모세포종, 신경아세포종, 횡문근육종, 골육종, 평활근육종, 요로암, 갑상선암, 빌름스 종양, 신세포암, 전립선암, 모반증과 연관된 비정상 혈관 증식, 부종, 메이그 신드롬, 류마티스 관절염, 건선 및 동맥경화증으로 구성되는 그룹에서 선택되는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 따른 항원-결합 절편 및 약학적으로 허용가능한 담체를 포함하는,연령과 관련된 황반 퇴화, 신생혈관 녹내장, 당뇨망막병증, 미숙아 망막증, 후수정체 섬유증식증, 유방암, 폐암, 위암, 식도암, 대장암, 간암, 난소암, 혼수, 남성화세포종, 자궁경부암, 자궁내막암, 자궁내막증식, 자궁내막증, 섬유육종, 융모암, 머리와 목의 암, 상인두암, 후두암, 간아세포종, 카포시 육종, 악성 흑색종, 피부암, 혈관종, 해면상 혈관종, 혈관모 세포종, 췌장암, 망막아세포종, 성상세포종, 교모세포종, 슈반종, 핍지교종, 수모세포종, 신경아세포종, 횡문근육종, 골육종, 평활근육종, 요로암, 갑상선암, 빌름스 종양, 신세포암, 전립선암, 모반증과 연관된 비정상 혈관 증식, 부종, 메이그 신드롬, 류마티스 관절염, 건선 및 동맥경화증으로 구성되는 그룹에서 선택되는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20151111",
+        "document_name": "[분할출원(국제출원)]특허출원서",
+        "claim_count": 11,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "가변 중쇄(VH)가 각각 서열번호 8, 서열번호 20 및 서열번호 32의 CDRH1, CDRH2 및 CDRH3 서열을 포함하고, 가변 경쇄(VL)가 각각 서열번호 43, 서열번호 55 및 서열번호 66의 CDRL1, CDRL2 및 CDRL3 서열을 포함하는, 가변 중쇄 및 가변 경쇄를 포함하는 재조합 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 중쇄 가변영역이 서열번호 164의 아미노산 서열을 포함하고, 경쇄 가변영역이 서열번호 87의 아미노산 서열을 포함하는 재조합 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 재조합 항체의 항원-결합 절편으로서, scFv 또는 Fab, F(ab')2 또는 Fab'인 절편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 절편이 scFv이고, 중쇄 가변영역과 경쇄 가변영역이 서열번호 181의 서열에 의하여 연결되는 항원-결합 절편.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 재조합 항체 및 약학적으로 허용가능한 담체를 포함하는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 따른 재조합 항체 및 약학적으로 허용가능한 담체를 포함하는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 따른 항원-결합 절편 및 약학적으로 허용가능한 담체를 포함하는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 따른 항원-결합 절편 및 약학적으로 허용가능한 담체를 포함하는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항 내지 제8항 중 어느 한 항에 있어서, 사람 VEGF-매개 질병이 연령과 관련된 황반 퇴화, 신생혈관 녹내장, 당뇨망막병증, 미숙아 망막증, 후수정체 섬유증식증, 유방암, 폐암, 위암, 식도암, 대장암, 간암, 난소암, 혼수, 남성화세포종, 자궁경부암, 자궁내막암, 자궁내막증식, 자궁내막증, 섬유육종, 융모암, 머리와 목의 암, 상인두암, 후두암, 간아세포종, 카포시 육종, 악성 흑색종, 피부암, 혈관종, 해면상 혈관종, 혈관모 세포종, 췌장암, 망막아세포종, 성상세포종, 교모세포종, 슈반종, 핍지교종, 수모세포종, 신경아세포종, 횡문근육종, 골육종, 평활근육종, 요로암, 갑상선암, 빌름스 종양, 신세포암, 전립선암, 모반증과 연관된 비정상 혈관 증식, 부종, 메이그 신드롬, 류마티스 관절염, 건선 및 동맥경화증으로 구성되는 그룹에서 선택되는 약학적 조성물.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 따른 항체, 또는 제3항 또는 제4항에 따른 항원-결합 절편을 포함하는 이중특이성(bispecific) 분자.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 다중특이성인 이중특이성 분자.",
+            "refers_to": [
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20160408",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 재조합 항체 및 약학적으로 허용가능한 담체를 포함하는,\n연령과 관련된 황반 퇴화, 신생혈관 녹내장, 당뇨망막병증, 미숙아 망막증, 후수정체 섬유증식증, 유방암, 폐암, 위암, 식도암, 대장암, 간암, 난소암, 혼수, 남성화세포종, 자궁경부암, 자궁내막암, 자궁내막증식, 자궁내막증, 섬유육종, 융모암, 머리와 목의 암, 상인두암, 후두암, 간아세포종, 카포시 육종, 악성 흑색종, 피부암, 혈관종, 해면상 혈관종, 혈관모 세포종, 췌장암, 망막아세포종, 성상세포종, 교모세포종, 슈반종, 핍지교종, 수모세포종, 신경아세포종, 횡문근육종, 골육종, 평활근육종, 요로암, 갑상선암, 빌름스 종양, 신세포암, 전립선암, 모반증과 연관된 비정상 혈관 증식, 부종, 메이그 신드롬, 류마티스 관절염, 건선 및 동맥경화증으로 구성되는 그룹에서 선택되는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 따른 재조합 항체 및 약학적으로 허용가능한 담체를 포함하는,\n연령과 관련된 황반 퇴화, 신생혈관 녹내장, 당뇨망막병증, 미숙아 망막증, 후수정체 섬유증식증, 유방암, 폐암, 위암, 식도암, 대장암, 간암, 난소암, 혼수, 남성화세포종, 자궁경부암, 자궁내막암, 자궁내막증식, 자궁내막증, 섬유육종, 융모암, 머리와 목의 암, 상인두암, 후두암, 간아세포종, 카포시 육종, 악성 흑색종, 피부암, 혈관종, 해면상 혈관종, 혈관모 세포종, 췌장암, 망막아세포종, 성상세포종, 교모세포종, 슈반종, 핍지교종, 수모세포종, 신경아세포종, 횡문근육종, 골육종, 평활근육종, 요로암, 갑상선암, 빌름스 종양, 신세포암, 전립선암, 모반증과 연관된 비정상 혈관 증식, 부종, 메이그 신드롬, 류마티스 관절염, 건선 및 동맥경화증으로 구성되는 그룹에서 선택되는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 따른 항원-결합 절편 및 약학적으로 허용가능한 담체를 포함하는,\n연령과 관련된 황반 퇴화, 신생혈관 녹내장, 당뇨망막병증, 미숙아 망막증, 후수정체 섬유증식증, 유방암, 폐암, 위암, 식도암, 대장암, 간암, 난소암, 혼수, 남성화세포종, 자궁경부암, 자궁내막암, 자궁내막증식, 자궁내막증, 섬유육종, 융모암, 머리와 목의 암, 상인두암, 후두암, 간아세포종, 카포시 육종, 악성 흑색종, 피부암, 혈관종, 해면상 혈관종, 혈관모 세포종, 췌장암, 망막아세포종, 성상세포종, 교모세포종, 슈반종, 핍지교종, 수모세포종, 신경아세포종, 횡문근육종, 골육종, 평활근육종, 요로암, 갑상선암, 빌름스 종양, 신세포암, 전립선암, 모반증과 연관된 비정상 혈관 증식, 부종, 메이그 신드롬, 류마티스 관절염, 건선 및 동맥경화증으로 구성되는 그룹에서 선택되는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 따른 항원-결합 절편 및 약학적으로 허용가능한 담체를 포함하는,\n연령과 관련된 황반 퇴화, 신생혈관 녹내장, 당뇨망막병증, 미숙아 망막증, 후수정체 섬유증식증, 유방암, 폐암, 위암, 식도암, 대장암, 간암, 난소암, 혼수, 남성화세포종, 자궁경부암, 자궁내막암, 자궁내막증식, 자궁내막증, 섬유육종, 융모암, 머리와 목의 암, 상인두암, 후두암, 간아세포종, 카포시 육종, 악성 흑색종, 피부암, 혈관종, 해면상 혈관종, 혈관모 세포종, 췌장암, 망막아세포종, 성상세포종, 교모세포종, 슈반종, 핍지교종, 수모세포종, 신경아세포종, 횡문근육종, 골육종, 평활근육종, 요로암, 갑상선암, 빌름스 종양, 신세포암, 전립선암, 모반증과 연관된 비정상 혈관 증식, 부종, 메이그 신드롬, 류마티스 관절염, 건선 및 동맥경화증으로 구성되는 그룹에서 선택되는 사람 VEGF-매개 질병의 치료 또는 예방용 약학적 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 11,
+      "after_claim_count": 7,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020117001961"
+      },
+      {
+        "familyApplicationNumber": "1020167030125"
+      }
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2009.12.30",
+      "internationOpenNumber": "WO2009155724",
+      "internationalApplicationDate": "2009.06.25",
+      "internationalApplicationNumber": "PCT/CH2009/000220"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "스위스 **** 바젤 리히트스트라쎄 ** 씨/오 노바티스 파마 아게",
+      "code": "520080000989",
+      "country": "스위스",
+      "engName": "ESBATech - a Novartis Company LLC",
+      "name": "에스바테크 - 어 노바티스 컴파니 엘엘씨"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "스위스 체하-***...",
+        "code": "",
+        "country": "코스타리카",
+        "engName": "BORRAS, Leonardo",
+        "name": "보라스 레오나르도"
+      },
+      {
+        "address": "스위스 체하-***...",
+        "code": "",
+        "country": "스위스",
+        "engName": "URECH, David",
+        "name": "우레히 다비트"
+      },
+      {
+        "address": "스위스 체하-***...",
+        "code": "",
+        "country": "스위스",
+        "engName": "GUNDE, Tea",
+        "name": "군데 테아"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 강남대로**길 **, ***호 (역삼동)",
+      "code": "920161000411",
+      "country": "대한민국",
+      "engName": "HANSUNG Intellectual Property",
+      "name": "특허법인한성"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2008.06.25",
+        "priorityApplicationNumber": "61/075,697"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2008.06.25",
+        "priorityApplicationNumber": "61/075,692"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2008.06.25",
+        "priorityApplicationNumber": "61/133,212"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2009.02.24",
+        "priorityApplicationNumber": "61/155,041"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Structure. Vol.6(9):1153-1167(1998. 09. 15.)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2000034337 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2000053760 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "JBC Vol.281(2):951-961(2006. 01. 13.)",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2015.11.11",
+        "receiptNumber": "1-1-2015-1098474-81"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2016.01.13",
+        "receiptNumber": "9-5-2016-0030204-57"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2016.03.10",
+        "receiptNumber": "1-1-2016-0231611-94"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2016.04.08",
+        "receiptNumber": "1-1-2016-0341735-48"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.04.08",
+        "receiptNumber": "1-1-2016-0341760-80"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2016.07.28",
+        "receiptNumber": "9-5-2016-0546852-25"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2016.10.27",
+        "receiptNumber": "1-1-2016-1047208-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Application to Register Extension of Patent Right Term by Permission, etc.",
+        "documentName": "허가 등에 따른 특허권 존속기간 연장등록출원서",
+        "receiptDate": "2020.09.15",
+        "receiptNumber": "1-1-2020-0979293-27"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.05.20",
+        "receiptNumber": "4-1-2022-5118737-47"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "R1020157032314.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=8f8dbdb5894433ddb50849e0dfe95698c4b929b4b17375a476c75fca975a0ae7020fb4a2ad196344ad8739f82f0548e7b4deb92fc011fdbdd32d73b1cd2858be",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=cc5b559e0a8e79ad5ee5f7a86488c7286cd13f79cd4aad95974f2cfe33155bf1a7af97d319d7f65b209f1b3d004003b798414fd670c81d4e907077cd46c84fbaa90bf6543dde3498"
+  },
+  "rndInfoArray": ""
+}

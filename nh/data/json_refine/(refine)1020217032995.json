@@ -1,0 +1,1425 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.04.02",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7032995",
+      "claimCount": "25",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "클로스트리디움 디피실레 감염 및 재발성 감염 관리를 위한 조작된 디스바이오시스-센싱 프로바이오틱",
+      "inventionTitleEng": "ENGINEERED DYSBIOSIS-SENSING PROBIOTIC FOR CLOSTRIDIUM DIFFICILE INFECTIONS AND RECURRING INFECTIONS MANAGEMENT",
+      "openDate": "2021.12.07",
+      "openNumber": "10-2021-0148182",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.03.28",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2021.10.13"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/63"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/70"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/74"
+      },
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/74"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/04"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 9/80"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 인간 위장관 내에서 씨. 디피실레 내생포자의 발아 및 콜로니화를 억제하기 위한 담즙염 가수분해효소를 생산하기 위한 박테리아 세포의 대사 공학 방법에 관한 것이다. 담즙염 가수분해효소는 시알산-유도성 프로모터인 pNanA에 작동 가능하게 연결되며, 이 중 pNanA가 결국 nanR의 억제인자에 의해 제어된다. 담즙염 가수분해효소를 발현하는 재조합 박테리아가 씨. 디피실레 감염의 예방 또는 치료에 사용되는 프로바이오틱 균주일 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217032995",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20211013",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 27,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "i. 담즙염 가수분해효소 유전자(bile salt hydrolase gene), 및\nii. 상기 담즙염 가수분해효소 유전자에 작동 가능하게 연결된 시알산-반응성 프로모터(sialic acid-responsive promoter)\n를 포함하는 발현 카세트(expression cassette).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 담즙염 가수분해효소 유전자가, 바람직하게는 서열번호: 13 또는 그의 기능적 변이체에 제시된 아미노산 서열을 암호화(encoding)하는, 클로스트리디움 페르프린겐스(Clostridium perfringens)로부터의 Cbh 단백질-암호화 폴리뉴클레오티드 서열인 발현 카세트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, Cbh 단백질-암호화 폴리뉴클레오티드 서열이 서열번호: 8 또는 서열번호: 9에 제시된 핵산 서열과 적어도 80% 서열 동일성(sequence identity)을 갖는 핵산 서열을 포함하는 것인 발현 카세트.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 시알산-반응성 프로모터가, 바람직하게는 서열번호: 4 또는 그의 기능적 변이체에 제시된 핵산 서열을 포함하는 이.콜라이(E. coli)로부터의 pNanA인 발현 카세트.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, pNanA의 억제인자(repressor)가 시알산의 부재 하에 pNanA의 발현이 있을 때 pNanA의 상류에 위치하며, 여기서 바람직하게는 억제인자는, 바람직하게는 서열번호: 11 또는 그의 기능적 변이체에 제시된 아미노산 서열을 암호화하는, NanR 단백질-암호화 폴리뉴클레오티드 서열인 발현 카세트.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, NanR 단백질-암호화 폴리뉴클레오티드 서열이 서열번호: 5에 제시된 핵산 서열과 적어도 80% 서열 동일성을 갖는 핵산 서열을 포함하는 것인 발현 카세트.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항 또는 제6항에 있어서, NanR에 작동 가능하게 연결된 구성적 프로모터를 추가로 포함하고, 여기서 프로모터는 AraC와 함께 pBad; rbs2, rbs3 또는 rbs5와 함께 J23108; 및 rbs4와 함께 J23113을 포함하는 군으로부터 선택된 것인 발현 카세트.",
+          "refers_to": [
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, NanR에 작동 가능하게 연결된 구성적 프로모터가 J23113-rbs4인 발현 카세트.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 바람직하게는 서열번호: 6 또는 그의 기능적 변이체에 제시된 핵산 서열을 포함하는, J23113-rbs4-NanR을 포함하는 것인 발현 카세트.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항 내지 제9항 중 어느 한 항에 있어서, Cbh의 발현을 증가시키기 위한 활성인자 및 프로모터, 예컨대 전사 활성인자 CadC 단백질-암호화 서열 및 프로모터 pCadBA를 추가로 포함하고, 여기서 CadC는 pNanA의 하류에 그리고 제어 하에 위치하고 pCadBA는 CadC의 하류에 위치하고 담즙염 가수분해효소 Cbh 단백질-암호화 서열에 작동 가능하게 연결되어 있는 것인 발현 카세트.",
+          "refers_to": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10에 있어서, 활성인자 및 프로모터 핵산 서열이 서열번호: 7 또는 그의 기능적 변이체에 제시된 것인 발현 카세트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 카세트가 하나 이상의 플라스미드 벡터에 포함되는 것인 발현 카세트.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 플라스미드 벡터가, 바람직하게는 서열번호: 1 또는 그의 기능적 변이체에 제시된 핵산 서열을 포함하는 pEaat인 발현 카세트.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 그의 제거를 가능하게 하기 위해 FRT 부위에 의해 플랭킹된(flanked) 항생제 내성 유전자를 추가로 포함하는 발현 카세트.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제14항 중 어느 한 항에 있어서, cbh에 대한 유전자 폴리뉴클레오티드 서열이, 예컨대 서열번호: 9에 제시된 바와 같이, 프로바이오틱 세포에서의 발현을 위해 코돈-최적화된 것인 발현 카세트.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, cbh에 대한 유전자 폴리뉴클레오티드 서열이 이. 콜라이 종, 박테로이데스 종, 클로스트리디움 종, 파에칼리박테리움 종, 락토코커스 락티스, 및 락토바실러스 종을 포함하는 군으로부터 선택된 프로바이오틱 세포에서의 발현을 위해 코돈-최적화된 것인 발현 카세트.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "담즙염 가수분해효소 단백질의 재조합 생산을 위한, 제1항 내지 제16항 중 어느 한 항에 따른 발현 카세트의 용도.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "a) 프로바이오틱 박테리아; 및\nb) 제1항 내지 제16항 중 어느 한 항의 발현 카세트\n를 포함하는 조성물로서,\n여기서 프로바이오틱 박테리아는 담즙염 가수분해효소의 생산을 위한 발현 카세트를 포함하는 것인 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 프로바이오틱 박테리아가 이. 콜라이 종, 박테로이데스 종, 클로스트리디움 종, 파에칼리박테리움 종, 락토코커스 락티스, 및 락토바실러스 종을 포함하는 군으로부터 선택된 것인 조성물.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항 또는 제19항에 있어서, 프로바이오틱 박테리아가 영양요구성(auxotrophic)인 조성물.",
+          "refers_to": [
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 영양요구성 박테리아가 알라닌 라세마제 유전자가 결실되어 D-알라닌의 부재 하에 분열할 수 없는 것인 조성물.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "씨. 디피실레 감염 (CDI) 및/또는 재발성 CDI (rCDI)를 치료하는 방법에서 사용하기 위한, 제18항 내지 제21항 중 어느 한 항의 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, CDI 및/또는 rCDI가 디스바이오시스에 기인한 것인 조성물.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료 또는 예방을 필요로 하는 대상체에게 유효량의 제18항 내지 제21항 중 어느 한 항에 정의된 조성물을 투여하는 것을 포함하는, 이러한 치료 또는 예방 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항에 있어서, 대상체가 씨. 디피실레 감염 (CDI) 또는 재발성 CDI를 갖는 것인 방법.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "CDI 및/또는 rCDI의 치료 또는 예방을 위한 의약의 제조를 위한, 제18항 내지 제21항 중 어느 한 항의 조성물의 용도.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, CDI 및/또는 rCDI가 디스바이오시스(dysbiosis)로 인한 것인 용도.",
+          "refers_to": [
+            26
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20230328",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 27,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "i. 담즙염 가수분해효소 유전자(bile salt hydrolase gene), 및ii. 상기 담즙염 가수분해효소 유전자에 작동 가능하게 연결된 시알산-반응성 프로모터(sialic acid-responsive promoter)를 포함하는 발현 카세트(expression cassette).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 담즙염 가수분해효소 유전자가, 바람직하게는 서열번호: 13 또는 그의 기능적 변이체에 제시된 아미노산 서열을 암호화(encoding)하는, 클로스트리디움 페르프린겐스(Clostridium perfringens)로부터의 Cbh 단백질-암호화 폴리뉴클레오티드 서열인 발현 카세트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, Cbh 단백질-암호화 폴리뉴클레오티드 서열이 서열번호: 8 또는 서열번호: 9에 제시된 핵산 서열과 적어도 80% 서열 동일성(sequence identity)을 갖는 핵산 서열을 포함하는 것인 발현 카세트.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 시알산-반응성 프로모터가, 바람직하게는 서열번호: 4 또는 그의 기능적 변이체에 제시된 핵산 서열을 포함하는 이.콜라이(E. coli)로부터의 pNanA인 발현 카세트.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, pNanA의 억제인자(repressor)가 시알산의 부재 하에 pNanA의 발현이 있을 때 pNanA의 상류에 위치하며, 여기서 바람직하게는 억제인자는, 바람직하게는 서열번호: 11 또는 그의 기능적 변이체에 제시된 아미노산 서열을 암호화하는, NanR 단백질-암호화 폴리뉴클레오티드 서열인 발현 카세트.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, NanR 단백질-암호화 폴리뉴클레오티드 서열이 서열번호: 5에 제시된 핵산 서열과 적어도 80% 서열 동일성을 갖는 핵산 서열을 포함하는 것인 발현 카세트.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항 또는 제6항에 있어서, NanR에 작동 가능하게 연결된 구성적 프로모터를 추가로 포함하고, 여기서 프로모터는 AraC와 함께 pBad; rbs2, rbs3 또는 rbs5와 함께 J23108; 및 rbs4와 함께 J23113을 포함하는 군으로부터 선택된 것인 발현 카세트.",
+          "refers_to": [
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, NanR에 작동 가능하게 연결된 구성적 프로모터가 J23113-rbs4인 발현 카세트.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서, 바람직하게는 서열번호: 6 또는 그의 기능적 변이체에 제시된 핵산 서열을 포함하는, J23113-rbs4-NanR을 포함하는 것인 발현 카세트.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항 내지 제9항 중 어느 한 항에 있어서, Cbh의 발현을 증가시키기 위한 활성인자 및 프로모터, 예컨대 전사 활성인자 CadC 단백질-암호화 서열 및 프로모터 pCadBA를 추가로 포함하고, 여기서 CadC는 pNanA의 하류에 그리고 제어 하에 위치하고 pCadBA는 CadC의 하류에 위치하고 담즙염 가수분해효소 Cbh 단백질-암호화 서열에 작동 가능하게 연결되어 있는 것인 발현 카세트.",
+          "refers_to": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10에 있어서, 활성인자 및 프로모터 핵산 서열이 서열번호: 7 또는 그의 기능적 변이체에 제시된 것인 발현 카세트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 카세트가 하나 이상의 플라스미드 벡터에 포함되는 것인 발현 카세트.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 플라스미드 벡터가, 바람직하게는 서열번호: 1 또는 그의 기능적 변이체에 제시된 핵산 서열을 포함하는 pEaat인 발현 카세트.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 그의 제거를 가능하게 하기 위해 FRT 부위에 의해 플랭킹된(flanked) 항생제 내성 유전자를 추가로 포함하는 발현 카세트.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제14항 중 어느 한 항에 있어서, cbh에 대한 유전자 폴리뉴클레오티드 서열이, 예컨대 서열번호: 9에 제시된 바와 같이, 프로바이오틱 세포에서의 발현을 위해 코돈-최적화된 것인 발현 카세트.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서, cbh에 대한 유전자 폴리뉴클레오티드 서열이 이. 콜라이 종, 박테로이데스 종, 클로스트리디움 종, 파에칼리박테리움 종, 락토코커스 락티스, 및 락토바실러스 종을 포함하는 군으로부터 선택된 프로바이오틱 세포에서의 발현을 위해 코돈-최적화된 것인 발현 카세트.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "담즙염 가수분해효소 단백질의 재조합 생산을 위한, 제1항 내지 제16항 중 어느 한 항에 따른 발현 카세트의 용도.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "a) 프로바이오틱 박테리아; 및b) 제1항 내지 제16항 중 어느 한 항의 발현 카세트를 포함하는 조성물로서,여기서 프로바이오틱 박테리아는 담즙염 가수분해효소의 생산을 위한 발현 카세트를 포함하는 것인 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 프로바이오틱 박테리아가 이. 콜라이 종, 박테로이데스 종, 클로스트리디움 종, 파에칼리박테리움 종, 락토코커스 락티스, 및 락토바실러스 종을 포함하는 군으로부터 선택된 것인 조성물.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항 또는 제19항에 있어서, 프로바이오틱 박테리아가 영양요구성(auxotrophic)인 조성물.",
+          "refers_to": [
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항에 있어서, 영양요구성 박테리아가 알라닌 라세마제 유전자가 결실되어 D-알라닌의 부재 하에 분열할 수 없는 것인 조성물.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "씨. 디피실레 감염 (CDI) 및/또는 재발성 CDI (rCDI)를 치료하는 방법에서 사용하기 위한, 제18항 내지 제21항 중 어느 한 항의 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항에 있어서, CDI 및/또는 rCDI가 디스바이오시스에 기인한 것인 조성물.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "치료 또는 예방을 필요로 하는 대상체에게 유효량의 제18항 내지 제21항 중 어느 한 항에 정의된 조성물을 투여하는 것을 포함하는, 이러한 치료 또는 예방 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 대상체가 씨. 디피실레 감염 (CDI) 또는 재발성 CDI를 갖는 것인 방법.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "CDI 및/또는 rCDI의 치료 또는 예방을 위한 의약의 제조를 위한, 제18항 내지 제21항 중 어느 한 항의 조성물의 용도.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제26항에 있어서, CDI 및/또는 rCDI가 디스바이오시스(dysbiosis)로 인한 것인 용도.",
+          "refers_to": [
+            26
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20211013",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 27,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "i. 담즙염 가수분해효소 유전자(bile salt hydrolase gene), 및\nii. 상기 담즙염 가수분해효소 유전자에 작동 가능하게 연결된 시알산-반응성 프로모터(sialic acid-responsive promoter)\n를 포함하는 발현 카세트(expression cassette).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 담즙염 가수분해효소 유전자가, 바람직하게는 서열번호: 13 또는 그의 기능적 변이체에 제시된 아미노산 서열을 암호화(encoding)하는, 클로스트리디움 페르프린겐스(Clostridium perfringens)로부터의 Cbh 단백질-암호화 폴리뉴클레오티드 서열인 발현 카세트.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, Cbh 단백질-암호화 폴리뉴클레오티드 서열이 서열번호: 8 또는 서열번호: 9에 제시된 핵산 서열과 적어도 80% 서열 동일성(sequence identity)을 갖는 핵산 서열을 포함하는 것인 발현 카세트.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 시알산-반응성 프로모터가, 바람직하게는 서열번호: 4 또는 그의 기능적 변이체에 제시된 핵산 서열을 포함하는 이.콜라이(E. coli)로부터의 pNanA인 발현 카세트.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, pNanA의 억제인자(repressor)가 시알산의 부재 하에 pNanA의 발현이 있을 때 pNanA의 상류에 위치하며, 여기서 바람직하게는 억제인자는, 바람직하게는 서열번호: 11 또는 그의 기능적 변이체에 제시된 아미노산 서열을 암호화하는, NanR 단백질-암호화 폴리뉴클레오티드 서열인 발현 카세트.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, NanR 단백질-암호화 폴리뉴클레오티드 서열이 서열번호: 5에 제시된 핵산 서열과 적어도 80% 서열 동일성을 갖는 핵산 서열을 포함하는 것인 발현 카세트.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항 또는 제6항에 있어서, NanR에 작동 가능하게 연결된 구성적 프로모터를 추가로 포함하고, 여기서 프로모터는 AraC와 함께 pBad; rbs2, rbs3 또는 rbs5와 함께 J23108; 및 rbs4와 함께 J23113을 포함하는 군으로부터 선택된 것인 발현 카세트.",
+            "refers_to": [
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, NanR에 작동 가능하게 연결된 구성적 프로모터가 J23113-rbs4인 발현 카세트.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, 바람직하게는 서열번호: 6 또는 그의 기능적 변이체에 제시된 핵산 서열을 포함하는, J23113-rbs4-NanR을 포함하는 것인 발현 카세트.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항 내지 제9항 중 어느 한 항에 있어서, Cbh의 발현을 증가시키기 위한 활성인자 및 프로모터, 예컨대 전사 활성인자 CadC 단백질-암호화 서열 및 프로모터 pCadBA를 추가로 포함하고, 여기서 CadC는 pNanA의 하류에 그리고 제어 하에 위치하고 pCadBA는 CadC의 하류에 위치하고 담즙염 가수분해효소 Cbh 단백질-암호화 서열에 작동 가능하게 연결되어 있는 것인 발현 카세트.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10에 있어서, 활성인자 및 프로모터 핵산 서열이 서열번호: 7 또는 그의 기능적 변이체에 제시된 것인 발현 카세트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 카세트가 하나 이상의 플라스미드 벡터에 포함되는 것인 발현 카세트.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 플라스미드 벡터가, 바람직하게는 서열번호: 1 또는 그의 기능적 변이체에 제시된 핵산 서열을 포함하는 pEaat인 발현 카세트.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 그의 제거를 가능하게 하기 위해 FRT 부위에 의해 플랭킹된(flanked) 항생제 내성 유전자를 추가로 포함하는 발현 카세트.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제14항 중 어느 한 항에 있어서, cbh에 대한 유전자 폴리뉴클레오티드 서열이, 예컨대 서열번호: 9에 제시된 바와 같이, 프로바이오틱 세포에서의 발현을 위해 코돈-최적화된 것인 발현 카세트.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, cbh에 대한 유전자 폴리뉴클레오티드 서열이 이. 콜라이 종, 박테로이데스 종, 클로스트리디움 종, 파에칼리박테리움 종, 락토코커스 락티스, 및 락토바실러스 종을 포함하는 군으로부터 선택된 프로바이오틱 세포에서의 발현을 위해 코돈-최적화된 것인 발현 카세트.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "담즙염 가수분해효소 단백질의 재조합 생산을 위한, 제1항 내지 제16항 중 어느 한 항에 따른 발현 카세트의 용도.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "a) 프로바이오틱 박테리아; 및\nb) 제1항 내지 제16항 중 어느 한 항의 발현 카세트\n를 포함하는 조성물로서,\n여기서 프로바이오틱 박테리아는 담즙염 가수분해효소의 생산을 위한 발현 카세트를 포함하는 것인 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 프로바이오틱 박테리아가 이. 콜라이 종, 박테로이데스 종, 클로스트리디움 종, 파에칼리박테리움 종, 락토코커스 락티스, 및 락토바실러스 종을 포함하는 군으로부터 선택된 것인 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항 또는 제19항에 있어서, 프로바이오틱 박테리아가 영양요구성(auxotrophic)인 조성물.",
+            "refers_to": [
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 영양요구성 박테리아가 알라닌 라세마제 유전자가 결실되어 D-알라닌의 부재 하에 분열할 수 없는 것인 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "씨. 디피실레 감염 (CDI) 및/또는 재발성 CDI (rCDI)를 치료하는 방법에서 사용하기 위한, 제18항 내지 제21항 중 어느 한 항의 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, CDI 및/또는 rCDI가 디스바이오시스에 기인한 것인 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료 또는 예방을 필요로 하는 대상체에게 유효량의 제18항 내지 제21항 중 어느 한 항에 정의된 조성물을 투여하는 것을 포함하는, 이러한 치료 또는 예방 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 대상체가 씨. 디피실레 감염 (CDI) 또는 재발성 CDI를 갖는 것인 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "CDI 및/또는 rCDI의 치료 또는 예방을 위한 의약의 제조를 위한, 제18항 내지 제21항 중 어느 한 항의 조성물의 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, CDI 및/또는 rCDI가 디스바이오시스(dysbiosis)로 인한 것인 용도.",
+            "refers_to": [
+              26
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20230328",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 26,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "i. 담즙염 가수분해효소 유전자(bile salt hydrolase gene), 및\nii. 담즙염 가수분해효소 유전자에 작동 가능하게 연결된 시알산-반응성 프로모터(sialic acid-responsive promoter)\n를 포함하는 발현 카세트(expression cassette).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 담즙염 가수분해효소 유전자가 클로스트리디움 페르프린겐스(Clostridium perfringens)로부터의 Cbh 단백질-암호화 폴리뉴클레오티드 서열이고, 바람직하게는 서열번호: 13에 제시된 아미노산 서열 또는 그의 기능적 변이체를 암호화(encoding)하는, 발현 카세트.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, Cbh 단백질-암호화 폴리뉴클레오티드 서열이 서열번호: 8 또는 서열번호: 9에 제시된 핵산 서열과 적어도 80% 서열 동일성(sequence identity)을 갖는 핵산 서열을 포함하는, 발현 카세트.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 시알산-반응성 프로모터가 이.콜라이(E. coli)로부터의 pNanA이고, 바람직하게는 서열번호: 4에 제시된 핵산 서열 또는 그의 기능적 변이체를 포함하는, 발현 카세트.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, pNanA의 억제인자(repressor)가 시알산의 부재 하에 pNanA의 발현이 있을 때 pNanA의 상류에 위치하며, 여기서 바람직하게는 억제인자가 NanR 단백질-암호화 폴리뉴클레오티드 서열이고 바람직하게는 서열번호: 11에 제시된 아미노산 서열 또는 그의 기능적 변이체를 암호화하는, 발현 카세트.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, NanR 단백질-암호화 폴리뉴클레오티드 서열이 서열번호: 5에 제시된 핵산 서열과 적어도 80% 서열 동일성을 갖는 핵산 서열을 포함하는, 발현 카세트.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, NanR에 작동 가능하게 연결된 구성적 프로모터를 추가로 포함하고, 여기서 프로모터가 AraC와 함께 pBad; rbs2, rbs3 또는 rbs5와 함께 J23108; 및 rbs4와 함께 J23113을 포함하는 군으로부터 선택되는, 발현 카세트.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, NanR에 작동 가능하게 연결된 구성적 프로모터가 J23113-rbs4인, 발현 카세트.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, 카세트가 J23113-rbs4-NanR을 포함하고, 바람직하게는 서열번호: 6에 제시된 핵산 서열 또는 그의 기능적 변이체를 포함하는, 발현 카세트.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항 내지 제9항 중 어느 한 항에 있어서, Cbh의 발현을 증가시키기 위한 활성인자 및 프로모터, 예컨대 전사 활성인자 CadC 단백질-암호화 서열 및 프로모터 pCadBA를 추가로 포함하고, 여기서 CadC가 pNanA의 하류에 그리고 제어 하에 위치하고, pCadBA가 CadC의 하류에 위치하고 담즙염 가수분해효소 Cbh 단백질-암호화 서열에 작동 가능하게 연결된, 발현 카세트.",
+            "refers_to": [
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10에 있어서, 활성인자 및 프로모터 핵산 서열이 서열번호: 7에 제시되거나 또는 그의 기능적 변이체인, 발현 카세트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 카세트가 하나 이상의 플라스미드 벡터에 포함되는, 발현 카세트.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 플라스미드 벡터가 pEaat이고, 바람직하게는 서열번호: 1에 제시된 핵산 서열 또는 그의 기능적 변이체를 포함하는, 발현 카세트.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 항생제 내성 유전자의 제거를 가능하게 하기 위해 FRT 부위에 의해 플랭킹된(flanked) 항생제 내성 유전자를 추가로 포함하는, 발현 카세트.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, cbh에 대한 유전자 폴리뉴클레오티드 서열이 프로바이오틱 세포에서의 발현을 위해 코돈-최적화되고, 예컨대 서열번호: 9에 제시된 것인, 발현 카세트.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 있어서, cbh에 대한 유전자 폴리뉴클레오티드 서열이 이. 콜라이, 박테로이데스 속, 클로스트리디움 속, 파에칼리박테리움 속, 락토코커스 락티스, 및 락토바실러스 속을 포함하는 군으로부터 선택된 프로바이오틱 세포에서의 발현을 위해 코돈-최적화된, 발현 카세트.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "a) 프로바이오틱 박테리아; 및\nb) 제1항 내지 제16항 중 어느 한 항의 발현 카세트\n를 포함하는 조성물로서,\n프로바이오틱 박테리아가 담즙염 가수분해효소의 생산을 위해 상기 발현 카세트를 포함하는, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, 프로바이오틱 박테리아가 이. 콜라이, 박테로이데스 속, 클로스트리디움 속, 파에칼리박테리움 속, 락토코커스 락티스, 및 락토바실러스 속을 포함하는 군으로부터 선택되는, 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, 프로바이오틱 박테리아가 영양요구성(auxotrophic)인, 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 영양요구성 박테리아가 알라닌 라세마제(Alanine racemase) 유전자가 결실되어 D-알라닌의 부재 하에 분열할 수 없는, 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "씨. 디피실레 감염(CDI) 및/또는 재발성 CDI(rCDI)의 예방 또는 치료를 위한, 제18항의 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제22항에 있어서, CDI 및/또는 rCDI가 디스바이오시스(dysbiosis)로부터 기인하는, 조성물.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "CDI 및/또는 rCDI의 치료 또는 예방을 위한 의약의 제조를 위한, 제18항 내지 제21항 중 어느 한 항의 조성물의 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, CDI 및/또는 rCDI가 디스바이오시스로 인한 것인, 용도.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 27,
+      "after_claim_count": 26,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.10.08",
+      "internationOpenNumber": "WO2020204836",
+      "internationalApplicationDate": "2020.04.02",
+      "internationalApplicationNumber": "PCT/SG2020/050204"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "싱가포르 ****** 로우어 켄트 리지 로드 **",
+      "code": "519990270831",
+      "country": "싱가포르",
+      "engName": "National University of Singapore",
+      "name": "내셔널 유니버시티 오브 싱가포르"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "싱가포르, 싱가포르 ******, ** 로우어 켄트 리지 로드, 용 ...",
+        "code": "",
+        "country": "",
+        "engName": "KOH, Elvin",
+        "name": "코 엘빈"
+      },
+      {
+        "address": "싱가포르, 싱가포르 ******, ** 로우어 켄트 리지 로드, 용 ...",
+        "code": "",
+        "country": "",
+        "engName": "HWANG, In Young",
+        "name": "황 인 영"
+      },
+      {
+        "address": "싱가포르, 싱가포르 ******, ** 로우어 켄트 리지 로드, 용 ...",
+        "code": "",
+        "country": "",
+        "engName": "CHANG, Matthew Wook",
+        "name": "장 매튜 욱"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 송파구 법원로 ***, *층(문정동)",
+      "code": "920201000613",
+      "country": "대한민국",
+      "engName": "HANOL Intellectual Property and Law",
+      "name": "특허법인한얼"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "싱가포르",
+      "priorityApplicationDate": "2019.04.02",
+      "priorityApplicationNumber": "10201902947W"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.10.13",
+        "receiptNumber": "1-1-2021-1171686-07"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2021.11.05",
+        "receiptNumber": "1-5-2021-0174168-42"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2021.11.08",
+        "receiptNumber": "1-1-2021-1285467-00"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.11.10",
+        "receiptNumber": "1-5-2021-0176570-30"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.03.28",
+        "receiptNumber": "1-1-2023-0348720-14"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.03.28",
+        "receiptNumber": "1-1-2023-0348719-67"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.20",
+        "receiptNumber": "9-5-2025-1008597-47"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217032995.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9376173e5f865360465c7f97bcfa0167c8190fc973c0f6a7a769b1ef016822de5620c9bdf81d8fe504313aee874f3827263d2ef3072ad36f9d",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf58ec3254aa4223a4a639e12c9a1a08f4a29d70e7fed78ff06957a3bea7459f8b29246107ce447bc415cf821027460aea068111743c3a8be1"
+  },
+  "rndInfoArray": ""
+}

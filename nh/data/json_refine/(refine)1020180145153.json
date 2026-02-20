@@ -1,0 +1,738 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2018.11.22",
+      "applicationFlag": "",
+      "applicationNumber": "10-2018-0145153",
+      "claimCount": "6",
+      "examinerName": "김정희",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "무독화 LPS 및 LTA를 조합으로 포함하는 생물막 형성 방지 또는 저해용 조성물",
+      "inventionTitleEng": "Composition comprising detoxified  Lipopolysaccharide and Lipoteichoic acid for  preventing or inhibiting formation of biofilm",
+      "openDate": "2020.05.29",
+      "openNumber": "10-2020-0059871",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2018.11.22",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2020.12.29",
+      "publicationNumber": "",
+      "registerDate": "2020.12.22",
+      "registerNumber": "10-2196205-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2026.01.01)",
+        "ipcNumber": "C12N 1/20"
+      },
+      {
+        "ipcDate": "(2020.01.01)",
+        "ipcNumber": "A01N 63/10"
+      },
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/74"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/04"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12R 1/01"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본원은 신규한 박테로이데스 벌가투스 MGM001 (Bacteroides vulgatus MGM001) 균주 및 그 용도를 개시한다. 본원에 따른 균주는 LPS의 세포독성이 기존의 균주와 비교하여 약하며, LTA와 조합으로 사용시 생물막 억제에 대한 상승효과를 가진다."
+    }
+  },
+  "claims": {
+    "application_number": "1020180145153",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20181122",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 7,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "생물자원센터에 기탁번호 KCTC13624BP로 기탁된 박테리오데스 벌가투스 MGM001 (Bacteriodes vulgatus MGM001) 균주.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 따른 균주 유래의 dLPS (deacylated Lipopolysaccharide) 및 dLTA (deacylated Lipoteichoic acid)를 조합으로 포함하는 생물막 형성 억제 또는 방지용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 2 항에 있어서, \n상기 dLTA는 락토바실러스 플란타룸(Lactobacillus plantarum)을 포함하는 장내 유산균 유래인, 생물막 형성 억제 또는 방지용 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 2 항 또는 제 3 항에 있어서, \n상기 dLPS 및 dLTA는 13.9:1 농도비(㎍/ml)로 포함하는 생물막 형성 억제 또는 방지용 조성물.",
+          "refers_to": [
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 2 항 내지 제 4 항 중 어느 한 항에 있어서, \n상기 생물막은 그람음성 또는 그람양성 박테리아에 의해 생성된 것으로, 상기 그람음성 박테리아는 V. vulnificus, 또는 P. aeruginosa 이고, \n상기 그람양성 박테리아는 S. aureus, 또는 L. monocytogenes인, 생물막 형성 억제 또는 방지용 조성물.",
+          "refers_to": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 2 항 내지 제 5 항 중 어느 한 항에 따른 조성물을 인비크로에서 그람양성 또는 그람음성 박테리아와 접촉하는 단계를 포함하는, 인비트로에서 생물막 형성의 방지 또는 저해 방법.",
+          "refers_to": [
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 6 항에 있어서, \n상기 박테리아와의 접촉은 상기 조성물을 표면에 처리하는 것을 포함하는,\n상기 표면은 글레이즈세라믹, 포설린, 유리, 금속, 나무, 크롬, 플라스틱, 비닐 및 포미카로 구성되는 군으로부터 선택되며, 아크릴은 제외한 것인, 인비트로에서 생물막 형성의 방지 또는 저해 방법.",
+          "refers_to": [
+            6
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20201124",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 7,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "생물자원센터에 기탁번호 KCTC13624BP로 기탁된 박테로이데스 벌가투스 MGM001 (Bacteroides vulgatus MGM001) 균주 유래의 dLPS (deacylated Lipopolysaccharide), 및 dLTA (deacylated Lipoteichoic acid)를 조합으로 포함하는 생물막 형성 억제 또는 방지용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 dLTA는 락토바실러스 플란타룸(Lactobacillus plantarum) 유래인, 생물막 형성 억제 또는 방지용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 3 항에 있어서, 상기 dLPS 및 dLTA는 13.9:1 농도비(㎍/ml)로 포함하는 생물막 형성 억제 또는 방지용 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항, 제 3 항 또는 제 4 항 중 어느 한 항에 있어서, 상기 생물막은 그람음성 또는 그람양성 박테리아에 의해 생성된 것으로, 상기 그람음성 박테리아는 비브리오 벌니피쿠스 (Vibrio vulnificus), 또는 슈도모나스 에루기노사 (Pseudomohnas aeruginosa) 이고, 상기 그람양성 박테리아는 스테필로코커스 아우레우스(Staphylococcus aureus), 또는 리스테리아 모노사이토게네스 (Listeria monocytogenes)인, 생물막 형성 억제 또는 방지용 조성물.",
+          "refers_to": [
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항, 제 3 항 또는 제 4 항 중 어느 한 항에 따른 조성물을 인비트로에서 그람양성 또는 그람음성 박테리아와 접촉하는 단계를 포함하는, 인비트로에서 생물막 형성의 방지 또는 저해 방법.",
+          "refers_to": [
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 6 항에 있어서, 상기 박테리아와의 접촉은 상기 조성물을 표면에 처리하는 것을 포함하는,상기 표면은 글레이즈세라믹, 포설린, 유리, 금속, 나무, 크롬, 플라스틱, 비닐 및 포미카로 구성되는 군으로부터 선택되며, 상기 조성물은 아크릴 표면에는 생물막 형성의 방지 또는 저해 효과를 나타내지 않는 것인, 인비트로에서 생물막 형성의 방지 또는 저해 방법.",
+          "refers_to": [
+            6
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20181122",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "생물자원센터에 기탁번호 KCTC13624BP로 기탁된 박테리오데스 벌가투스 MGM001 (Bacteriodes vulgatus MGM001) 균주.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 따른 균주 유래의 dLPS (deacylated Lipopolysaccharide) 및 dLTA (deacylated Lipoteichoic acid)를 조합으로 포함하는 생물막 형성 억제 또는 방지용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 2 항에 있어서, \n상기 dLTA는 락토바실러스 플란타룸(Lactobacillus plantarum)을 포함하는 장내 유산균 유래인, 생물막 형성 억제 또는 방지용 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 2 항 또는 제 3 항에 있어서, \n상기 dLPS 및 dLTA는 13.9:1 농도비(㎍/ml)로 포함하는 생물막 형성 억제 또는 방지용 조성물.",
+            "refers_to": [
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 2 항 내지 제 4 항 중 어느 한 항에 있어서, \n상기 생물막은 그람음성 또는 그람양성 박테리아에 의해 생성된 것으로, 상기 그람음성 박테리아는 V. vulnificus, 또는 P. aeruginosa 이고, \n상기 그람양성 박테리아는 S. aureus, 또는 L. monocytogenes인, 생물막 형성 억제 또는 방지용 조성물.",
+            "refers_to": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 2 항 내지 제 5 항 중 어느 한 항에 따른 조성물을 인비크로에서 그람양성 또는 그람음성 박테리아와 접촉하는 단계를 포함하는, 인비트로에서 생물막 형성의 방지 또는 저해 방법.",
+            "refers_to": [
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 6 항에 있어서, \n상기 박테리아와의 접촉은 상기 조성물을 표면에 처리하는 것을 포함하는,\n상기 표면은 글레이즈세라믹, 포설린, 유리, 금속, 나무, 크롬, 플라스틱, 비닐 및 포미카로 구성되는 군으로부터 선택되며, 아크릴은 제외한 것인, 인비트로에서 생물막 형성의 방지 또는 저해 방법.",
+            "refers_to": [
+              6
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200601",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "생물자원센터에 기탁번호 KCTC13624BP로 기탁된 박테로이데스 벌가투스 MGM001 (Bacteroides vulgatus MGM001) 균주.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 따른 균주 유래의 dLPS (deacylated Lipopolysaccharide), 및 dLTA (deacylated Lipoteichoic acid)를 조합으로 포함하는 생물막 형성 억제 또는 방지용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항에 있어서, \n상기 dLTA는 락토바실러스 플란타룸(Lactobacillus plantarum) 유래인, 생물막 형성 억제 또는 방지용 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 3 항에 있어서, \n상기 dLPS 및 dLTA는 13.9:1 농도비(㎍/ml)로 포함하는 생물막 형성 억제 또는 방지용 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 4 항 중 어느 한 항에 있어서, \n상기 생물막은 그람음성 또는 그람양성 박테리아에 의해 생성된 것으로, 상기 그람음성 박테리아는 비브리오 벌니피쿠스 (Vibrio vulnificus), 또는 슈도모나스 에루기노사 (Pseudomohnas aeruginosa) 이고, \n상기 그람양성 박테리아는 스테필로코커스 아우레우스(Staphylococcus aureus), 또는 리스테리아 모노사이토게네스 (Listeria monocytogenes)인, 생물막 형성 억제 또는 방지용 조성물.",
+            "refers_to": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 2 항 내지 제 4 항 중 어느 한 항에 따른 조성물을 인비트로에서 그람양성 또는 그람음성 박테리아와 접촉하는 단계를 포함하는, 인비트로에서 생물막 형성의 방지 또는 저해 방법.",
+            "refers_to": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 6 항에 있어서, \n상기 박테리아와의 접촉은 상기 조성물을 표면에 처리하는 것을 포함하는,\n상기 표면은 글레이즈세라믹, 포설린, 유리, 금속, 나무, 크롬, 플라스틱, 비닐 및 포미카로 구성되는 군으로부터 선택되며, 상기 조성물은 아크릴 표면에는 생물막 형성의 방지 또는 저해 효과를 나타내지 않는 것인, 인비트로에서 생물막 형성의 방지 또는 저해 방법.",
+            "refers_to": [
+              6
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20201124",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 5,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "생물자원센터에 기탁번호 KCTC13624BP로 기탁된 박테로이데스 벌가투스 MGM001 (Bacteroides vulgatus MGM001) 균주 유래의 dLPS (deacylated Lipopolysaccharide), 및 dLTA (deacylated Lipoteichoic acid)를 조합으로 포함하는 생물막 형성 억제 또는 방지용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 있어서, \n상기 dLTA는 락토바실러스 플란타룸(Lactobacillus plantarum) 유래인, 생물막 형성 억제 또는 방지용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 3 항 또는 제 4 항 중 어느 한 항에 있어서, \n상기 생물막은 그람음성 또는 그람양성 박테리아에 의해 생성된 것으로, 상기 그람음성 박테리아는 비브리오 벌니피쿠스 (Vibrio vulnificus), 또는 슈도모나스 에루기노사 (Pseudomohnas aeruginosa) 이고, \n상기 그람양성 박테리아는 스테필로코커스 아우레우스(Staphylococcus aureus), 또는 리스테리아 모노사이토게네스 (Listeria monocytogenes)인, 생물막 형성 억제 또는 방지용 조성물.",
+            "refers_to": [
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항, 제 3 항 또는 제 4 항 중 어느 한 항에 따른 조성물을 인비트로에서 그람양성 또는 그람음성 박테리아와 접촉하는 단계를 포함하는, 인비트로에서 생물막 형성의 방지 또는 저해 방법.",
+            "refers_to": [
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 7,
+      "after_claim_count": 5,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "서울특별시 마포구...",
+        "code": "220040246082",
+        "country": "대한민국",
+        "engName": "Sogang University Research & Business Development Foundation",
+        "name": "서강대학교산학협력단"
+      },
+      {
+        "address": "충청북도 청주시 흥덕구...",
+        "code": "220000041743",
+        "country": "대한민국",
+        "engName": "KOREA FOOD & DRUG ADMINISTRATION",
+        "name": "대한민국 (식품의약품안전처장)"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 송파구...",
+        "code": "",
+        "country": "",
+        "engName": "Lee, Kyu-Ho",
+        "name": "이규호"
+      },
+      {
+        "address": "충청북도 청주시 흥덕구...",
+        "code": "",
+        "country": "",
+        "engName": "Kwak, Hyo Seon",
+        "name": "곽효선"
+      },
+      {
+        "address": "경남 김해시...",
+        "code": "",
+        "country": "",
+        "engName": "Jung, Youchul",
+        "name": "정유철"
+      },
+      {
+        "address": "서울특별시 송파구...",
+        "code": "",
+        "country": "",
+        "engName": "Lee, kyung jo",
+        "name": "이경조"
+      },
+      {
+        "address": "서울특별시 은평구...",
+        "code": "",
+        "country": "",
+        "engName": "Kim, Jeong-A",
+        "name": "김정아"
+      },
+      {
+        "address": "인천광역시 중구...",
+        "code": "",
+        "country": "",
+        "engName": "Jang, Boram",
+        "name": "장보람"
+      },
+      {
+        "address": "경기도 과천...",
+        "code": "",
+        "country": "",
+        "engName": "Kang, Sebin",
+        "name": "강세빈"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 서초구 바우뫼로 *** (양재동) *층 두리암특허법률사무소(두리암특허법률사무소)",
+      "code": "920050014531",
+      "country": "대한민국",
+      "engName": "Park, Weonmee",
+      "name": "박원미"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Biofouling. 2016, Vol. 32 , no. 7, pp. 711-723.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020180106580 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020110037146 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "mSystems. 2017, Vol. 2, Issue 6, e00046-17.",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2018.11.22",
+        "receiptNumber": "1-1-2018-1165519-12"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2018.11.23",
+        "receiptNumber": "1-5-2018-0182778-22"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2018.11.26",
+        "receiptNumber": "1-1-2018-1174374-99"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.01.22",
+        "receiptNumber": "4-1-2019-5014626-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2019.05.15",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2019.08.08",
+        "receiptNumber": "9-1-2019-0037920-58"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2019.11.27",
+        "receiptNumber": "9-5-2019-0857034-14"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.11.28",
+        "receiptNumber": "1-1-2019-1227327-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2019.11.28",
+        "receiptNumber": "1-1-2019-1227336-20"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.02.27",
+        "receiptNumber": "9-5-2020-0150915-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.04.27",
+        "receiptNumber": "1-1-2020-0430808-76"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.06.01",
+        "receiptNumber": "1-1-2020-0557755-33"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.06.01",
+        "receiptNumber": "1-1-2020-0557725-74"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2020.11.17",
+        "receiptNumber": "9-5-2020-0796706-47"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2020.11.24",
+        "receiptNumber": "1-1-2020-1263393-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.11.24",
+        "receiptNumber": "1-1-2020-1263411-15"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2020.12.08",
+        "receiptNumber": "9-5-2020-0862659-71"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.06.21",
+        "receiptNumber": "4-1-2022-5144444-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.07.26",
+        "receiptNumber": "4-1-2022-5174303-48"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.08.22",
+        "receiptNumber": "4-1-2022-5195690-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.11.22",
+        "receiptNumber": "4-1-2022-5274937-97"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.12.19",
+        "receiptNumber": "4-1-2022-5300080-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.01.10",
+        "receiptNumber": "4-1-2024-5014264-16"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020180145153.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00a8146ffb9e9ba07116e7cb00e45d370c58a3e4dbad7f1d6e5d6b3df1e062f92f4807a5b6993cdbd490720fb5686dea18fc9ee8fa3abe5b33",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf374ba45159e5b6d9a7cdfecb02b8bf2bfcbf84e55eb9047ec12ac2416c19d2784bcee69159a731e76267637395f931607c2ce2f2223bf229"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "식품의약품안전처",
+      "rndDuration": "2018.01.01 ~ 2018.11.30",
+      "rndManagingInstituteName": "서강대학교 산학협력단",
+      "rndProjectName": "식품등안전관리",
+      "rndSpecialInstituteName": "식품의약품안전평가원",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "동물성식품 유래 식중독균의 신규 유해인자 확보 및 분자생물학적 특성 규명",
+      "rndTaskNumber": "1475010937"
+    }
+  }
+}

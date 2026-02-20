@@ -1,0 +1,1491 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2021.12.09",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-0176155",
+      "claimCount": "12",
+      "examinerName": "정이든",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "온-타겟 활성이 유지되고 오프-타겟 활성이 감소된 가이드 RNA 및 이의 용도",
+      "inventionTitleEng": "Guide RNA of which on-target activity is maintained  and off-target activity decrease and use thereof",
+      "openDate": "2022.06.16",
+      "openNumber": "10-2022-0081949",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2021.12.09",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.10.31",
+      "publicationNumber": "",
+      "registerDate": "2025.10.27",
+      "registerNumber": "10-2878872-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/113"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "C12N 15/10"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/7088"
+      },
+      {
+        "ipcDate": "(2018.01.01)",
+        "ipcNumber": "C12Q 1/68"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 온-타겟 활성이 유지되고 오프-타겟 활성이 감소된 가이드 RNA 및 이의 용도에 관한 것으로, 구체적으로, 오프-타겟 유전자 영역에 대해 원래 (original) 하나의 미스매치를 포함하고, 타겟 유전자 영역 및 오프-타겟 유전자 영역에 대해 의도적인 (intentional) 하나 또는 두 개의 미스매치를 포함하되, 이때, 의도적인 하나 또는 두 개의 미스매치는 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프 (protospacer-adjacent motif)로부터 +10 위치 및 +18 위치 중 하나 또는 두 개에 도입되는 가이드 RNA 및 이의 제조방법, 상기 가이드 RNA를 이용한 CRISPR 시스템의 정확도를 향상시키는 방법, 유전질환 및 암 발생의 원인이 되는 점 돌연변이(point mutation)를 야생형 유전자 및 염기서열로부터 구분하거나 후천성면역결핍증의 타겟 유전자인 CCR5를 고도의 상동성 CCR2 유전자로부터 구분할 수 있는 가이드 RNA를 포함하여 질병을 예방, 치료 또는 진단하기 위한 조성물, 상기 가이드 RNA를 이용한 유전자 표적 방법 및 유전자 교정 방법을 제공한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020210176155",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20211209",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 25,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "타겟 유전자 영역에 상보적인 뉴클레오타이드 서열을 포함하는 가이드 RNA로서, 상기 뉴클레오타이드 서열은\ni) 오프-타겟 유전자 영역에 대해 원래 (original) 하나의 미스매치를 포함하고;\nii) 타겟 유전자 영역 및 오프-타겟 유전자 영역에 대해 의도적인 (intentional) 하나 또는 두 개의 미스매치를 포함하며;\n상기 원래 하나의 미스매치와 의도적인 하나 또는 두 개의 미스매치는 서로 상이한 위치에 도입되는, 가이드 RNA.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 원래 하나의 미스매치와 의도적인 하나 또는 두 개의 미스매치는 각각 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프 (protospacer-adjacent motif)로부터 +1 위치 내지 +20 위치 중 서로 상이한 위치에 도입되는, 가이드 RNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 의도적인 하나 또는 두 개의 미스매치는 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프 (protospacer-adjacent motif)로부터 +1 위치 및 +18 위치 중 하나 또는 두 개에 도입되는, 가이드 RNA.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 타겟 유전자는 CCR5이고, 상기 오프-타겟 유전자는 CCR2인, 가이드 RNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 서열번호 1 내지 19로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하되, 각 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프로부터 +1 위치 내지 +20 위치 중 어느 하나 또는 두 개에 의도적인 미스매치가 도입되고, 상기 서열번호 1 내지 19의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서,\n서열번호 1의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +15 위치 및 +17 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 2의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +11 위치 및 +13 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 3의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +8 위치 및 +10 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 4의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 및 +3 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 5의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +14 위치 및 +16 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 6의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +13 위치 및 +15 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 7의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +15 위치 및 +17 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 8의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +12 위치 및 +14 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 9의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +4 위치 및 +6 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 10의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +2 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 11의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +19 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 12의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +9 위치 및 +11 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 13의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +13 위치 및 +15 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 14의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +9 위치 및 +11 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 15의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +13 위치 및 +15 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 16의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +18 위치 및 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 17의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 18의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +18 위치 및 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나; 또는\n서열번호 19의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +19 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되고;\n상기 서열번호 1 내지 19의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 서열번호 1 내지 19로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하되, 각 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프로부터 +10 위치 및 +18 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되고, 상기 서열번호 1 내지 19의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 서열번호 20 내지 95로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 서열번호 96 내지 125로 이루어진 군으로부터 선택되는 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 타겟 유전자는 점 돌연변이 (point mutation)를 포함하는 유전자이고, 상기 오프-타겟 유전자는 야생형 유전자인, 가이드 RNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 타겟 유전자는 KRAS G12D, G12C 또는 G12V 점 돌연변이를 포함하는 유전자이고, 상기 오프-타겟 유전자는 야생형 KRAS 유전자인, 가이드 RNA.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 서열번호 413 내지 416로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하되, 각 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프로부터 +1 위치 내지 +20 위치 중 어느 하나 또는 두 개에 의도적인 미스매치가 도입되고, 상기 서열번호 413 내지 416의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서,\n서열번호 413의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +2 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 414의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +6 위치 및 +8 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 415의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +2 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나; 또는\n서열번호 416의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +6 위치 및 +8 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되고;\n상기 서열번호 413 내지 416의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 서열번호 413 내지 416로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하되, 각 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프로부터 +10 위치 및 +18 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되고, 상기 서열번호 413 내지 416의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 서열번호 427 내지 438로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 중 어느 한 항에 있어서, 상기 가이드 RNA는 야생형 가이드 RNA의 온-타겟 활성의 50% 이상을 유지하고, 야생형 가이드 RNA에 비해 감소된 오프-타겟 활성을 나타내거나 오프-타겟 활성이 없는, 가이드 RNA.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 타겟 유전자 영역에 상보적인 뉴클레오타이드 서열을 포함하되, 오프-타겟 유전자 영역에 대해서는 원래 (original) 하나의 미스매치를 포함하는 가이드 RNA를 선별하는 단계; 및\n(b) 선별된 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프로부터 +1 위치 내지 +20 위치 중 어느 하나 또는 두 개에 의도적인 미스매치를 도입하는 단계를 포함하며,\n이때, 상기 원래 하나의 미스매치와 상기 하나 또는 두 개의 의도적인 미스매치는 서로 상이한 위치에 도입되는, 가이드 RNA의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 상기 단계 (b)의 의도적 미스매치는 선별된 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프로부터 +10 위치 내지 +18 위치 중 하나 또는 두 개에 도입되는, 가이드 RNA의 제조방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 상기 방법으로부터 제조된 RNA는 야생형 가이드 RNA의 온-타겟 활성의 50% 이상을 유지하고, 야생형 가이드 RNA에 비해 감소된 오프-타겟 활성을 나타내거나, 오프-타겟 활성이 없는, 가이드 RNA의 제조방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 이용한 CRISPR 시스템의 정확도를 향상시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 포함하는, 유전자 교정용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 포함하는, 점 돌연변이 (point mutation)로 야기되는 질환 또는 후천성면역결핍증의 예방 또는 치료용 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 포함하는, 점 돌연변이 (point mutation)로 야기되는 질환의 진단용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 이용한 유전자 표적 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 이용한 유전자 교정 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20240910",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 25,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 타겟 유전자 영역에 상보적인 뉴클레오타이드 서열을 포함하되, 오프-타겟 유전자 영역에 대해서는 원래 (original) 하나의 미스매치를 포함하는 가이드 RNA를 선별하는 단계; 및(b) 선별된 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프로부터 +10 위치 및 +18 위치 중 어느 하나 또는 두 개에 의도적인 미스매치를 도입하는 단계를 포함하며,이때, 상기 원래 하나의 미스매치는 상기 선별된 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프로부터 +1 위치 내지 +20 위치 중 어느 하나에 도입되고, 상기 원래 하나의 미스매치와 상기 하나 또는 두 개의 의도적인 미스매치는 서로 상이한 위치에 도입되며,상기 원래 하나의 미스매치가 프로토스페이서-인접 모티프로부터 +10 위치 또는 +18 위치에 도입되는 경우, 상기 의도적인 미스매치는 상기 +10 위치 및 +18 위치 중 원래 하나의 미스매치가 도입되지 않은 위치에 하나만 도입되는, 가이드 RNA의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 방법으로부터 제조된 RNA는 야생형 가이드 RNA의 온-타겟 활성의 50% 이상을 유지하고, 야생형 가이드 RNA에 비해 감소된 오프-타겟 활성을 나타내거나, 오프-타겟 활성이 없는, 가이드 RNA의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 가이드 RNA의 제조방법에 의해 제조되는 가이드 RNA로서,상기 가이드 RNA의 타겟 유전자는 CCR5이고, 상기 가이드 RNA의 오프-타겟 유전자는 CCR2이며, 상기 타겟 유전자 영역에 상보적인 서열번호 29, 36, 42, 46, 69, 70, 74, 87, 96, 99, 104 내지 106, 114, 115 및 120으로 이루어진 군으로부터 선택되는 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 가이드 RNA의 제조방법에 의해 제조되는 가이드 RNA로서,상기 가이드 RNA의 타겟 유전자는 KRAS G12D 점 돌연변이를 포함하는 유전자이고, 상기 가이드 RNA의 오프-타겟 유전자는 야생형 KRAS이며, 상기 타겟 유전자 영역에 상보적인 서열번호 427 및 429 내지 435로 이루어진 군으로부터 선택되는 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항 또는 제4항에 있어서, 상기 가이드 RNA는 야생형 가이드 RNA의 온-타겟 활성의 50% 이상을 유지하고, 야생형 가이드 RNA에 비해 감소된 오프-타겟 활성을 나타내거나 오프-타겟 활성이 없는, 가이드 RNA.",
+          "refers_to": [
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항의 가이드 RNA의 제조방법으로 제조된 가이드 RNA, 또는 제3항 또는 제4항의 가이드 RNA를 이용한 CRISPR 시스템의 정확도를 향상시키는 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항의 가이드 RNA의 제조방법으로 제조된 가이드 RNA, 또는 제3항 또는 제4항의 가이드 RNA를 포함하는, 유전자 교정용 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항의 가이드 RNA를 포함하는, 후천성면역결핍증의 예방 또는 치료용 약학 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항의 가이드 RNA를 포함하는, KRAS G12D 점 돌연변이 (point mutation)로 야기되는 질환의 진단용 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항의 가이드 RNA의 제조방법으로 제조된 가이드 RNA, 또는 제3항 또는 제4항의 가이드 RNA를 이용한, 생체 외(in vitro) 또는 인간을 제외한 동물에서의 유전자 표적 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항의 가이드 RNA의 제조방법으로 제조된 가이드 RNA, 또는 제3항 또는 제4항의 가이드 RNA를 이용한, 생체 외(in vitro) 또는 인간을 제외한 동물에서의 유전자 교정 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항의 가이드 RNA를 포함하는, KRAS G12D 점 돌연변이 (point mutation)로 야기되는 질환의 예방 또는 치료용 약학 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20211209",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "타겟 유전자 영역에 상보적인 뉴클레오타이드 서열을 포함하는 가이드 RNA로서, 상기 뉴클레오타이드 서열은\ni) 오프-타겟 유전자 영역에 대해 원래 (original) 하나의 미스매치를 포함하고;\nii) 타겟 유전자 영역 및 오프-타겟 유전자 영역에 대해 의도적인 (intentional) 하나 또는 두 개의 미스매치를 포함하며;\n상기 원래 하나의 미스매치와 의도적인 하나 또는 두 개의 미스매치는 서로 상이한 위치에 도입되는, 가이드 RNA.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 원래 하나의 미스매치와 의도적인 하나 또는 두 개의 미스매치는 각각 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프 (protospacer-adjacent motif)로부터 +1 위치 내지 +20 위치 중 서로 상이한 위치에 도입되는, 가이드 RNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 의도적인 하나 또는 두 개의 미스매치는 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프 (protospacer-adjacent motif)로부터 +1 위치 및 +18 위치 중 하나 또는 두 개에 도입되는, 가이드 RNA.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 타겟 유전자는 CCR5이고, 상기 오프-타겟 유전자는 CCR2인, 가이드 RNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 서열번호 1 내지 19로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하되, 각 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프로부터 +1 위치 내지 +20 위치 중 어느 하나 또는 두 개에 의도적인 미스매치가 도입되고, 상기 서열번호 1 내지 19의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서,\n서열번호 1의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +15 위치 및 +17 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 2의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +11 위치 및 +13 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 3의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +8 위치 및 +10 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 4의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 및 +3 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 5의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +14 위치 및 +16 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 6의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +13 위치 및 +15 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 7의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +15 위치 및 +17 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 8의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +12 위치 및 +14 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 9의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +4 위치 및 +6 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 10의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +2 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 11의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +19 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 12의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +9 위치 및 +11 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 13의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +13 위치 및 +15 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 14의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +9 위치 및 +11 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 15의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +13 위치 및 +15 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 16의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +18 위치 및 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 17의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 18의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +18 위치 및 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나; 또는\n서열번호 19의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +19 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되고;\n상기 서열번호 1 내지 19의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 서열번호 1 내지 19로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하되, 각 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프로부터 +10 위치 및 +18 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되고, 상기 서열번호 1 내지 19의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 서열번호 20 내지 95로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 서열번호 96 내지 125로 이루어진 군으로부터 선택되는 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 타겟 유전자는 점 돌연변이 (point mutation)를 포함하는 유전자이고, 상기 오프-타겟 유전자는 야생형 유전자인, 가이드 RNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 타겟 유전자는 KRAS G12D, G12C 또는 G12V 점 돌연변이를 포함하는 유전자이고, 상기 오프-타겟 유전자는 야생형 KRAS 유전자인, 가이드 RNA.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 서열번호 413 내지 416로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하되, 각 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프로부터 +1 위치 내지 +20 위치 중 어느 하나 또는 두 개에 의도적인 미스매치가 도입되고, 상기 서열번호 413 내지 416의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서,\n서열번호 413의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +2 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 414의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +6 위치 및 +8 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나;\n서열번호 415의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +2 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되거나; 또는\n서열번호 416의 뉴클레오타이드 서열을 포함하되, 프로토스페이서-인접 모티프로부터 +1 위치 내지 +6 위치 및 +8 위치 내지 +20 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되고;\n상기 서열번호 413 내지 416의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 서열번호 413 내지 416로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하되, 각 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프로부터 +10 위치 및 +18 위치 중 어느 하나 또는 두 개에 전이 또는 전좌 돌연변이를 유발하여 의도적인 미스매치가 도입되고, 상기 서열번호 413 내지 416의 뉴클레오타이드 서열에서 프로토스페이서-인접 모티프 서열은 제외되는, 가이드 RNA.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, 서열번호 427 내지 438로 이루어진 군으로부터 선택된 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 중 어느 한 항에 있어서, 상기 가이드 RNA는 야생형 가이드 RNA의 온-타겟 활성의 50% 이상을 유지하고, 야생형 가이드 RNA에 비해 감소된 오프-타겟 활성을 나타내거나 오프-타겟 활성이 없는, 가이드 RNA.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 타겟 유전자 영역에 상보적인 뉴클레오타이드 서열을 포함하되, 오프-타겟 유전자 영역에 대해서는 원래 (original) 하나의 미스매치를 포함하는 가이드 RNA를 선별하는 단계; 및\n(b) 선별된 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프로부터 +1 위치 내지 +20 위치 중 어느 하나 또는 두 개에 의도적인 미스매치를 도입하는 단계를 포함하며,\n이때, 상기 원래 하나의 미스매치와 상기 하나 또는 두 개의 의도적인 미스매치는 서로 상이한 위치에 도입되는, 가이드 RNA의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 상기 단계 (b)의 의도적 미스매치는 선별된 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프로부터 +10 위치 내지 +18 위치 중 하나 또는 두 개에 도입되는, 가이드 RNA의 제조방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 상기 방법으로부터 제조된 RNA는 야생형 가이드 RNA의 온-타겟 활성의 50% 이상을 유지하고, 야생형 가이드 RNA에 비해 감소된 오프-타겟 활성을 나타내거나, 오프-타겟 활성이 없는, 가이드 RNA의 제조방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 이용한 CRISPR 시스템의 정확도를 향상시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 포함하는, 유전자 교정용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 포함하는, 점 돌연변이 (point mutation)로 야기되는 질환 또는 후천성면역결핍증의 예방 또는 치료용 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 포함하는, 점 돌연변이 (point mutation)로 야기되는 질환의 진단용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 이용한 유전자 표적 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 중 어느 한 항의 가이드 RNA를 이용한 유전자 교정 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20240115",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "타겟 유전자가 CCR5이고, 오프-타겟 유전자가 CCR2이며, 상기 타겟 유전자 영역에 상보적인 뉴클레오타이드 서열을 포함하는 가이드 RNA로서, 상기 뉴클레오타이드 서열은 서열번호 29, 36, 42, 46, 69, 70, 74, 87, 96, 99, 104 내지 106, 114, 115 및 120으로 이루어진 군으로부터 선택되는 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "타겟 유전자가 KRAS G12D 점 돌연변이를 포함하는 유전자이고, 오프-타겟 유전자가 야생형 KRAS이며, 상기 타겟 유전자 영역에 상보적인 뉴클레오타이드 서열을 포함하는 가이드 RNA로서, 상기 뉴클레오타이드 서열은 서열번호 427 및 429 내지 435로 이루어진 군으로부터 선택되는 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 상기 가이드 RNA는 야생형 가이드 RNA의 온-타겟 활성의 50% 이상을 유지하고, 야생형 가이드 RNA에 비해 감소된 오프-타겟 활성을 나타내거나 오프-타겟 활성이 없는, 가이드 RNA.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 타겟 유전자 영역에 상보적인 뉴클레오타이드 서열을 포함하되, 오프-타겟 유전자 영역에 대해서는 원래 (original) 하나의 미스매치를 포함하는 가이드 RNA를 선별하는 단계; 및\n(b) 선별된 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프로부터 +10 위치 및 +18 위치 중 어느 하나 또는 두 개에 의도적인 미스매치를 도입하는 단계를 포함하며,\n이때, 상기 원래 하나의 미스매치는 상기 선별된 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프로부터 +1 위치 내지 +20 위치 중 어느 하나에 도입되고, 상기 원래 하나의 미스매치와 상기 하나 또는 두 개의 의도적인 미스매치는 서로 상이한 위치에 도입되며,\n상기 원래 하나의 미스매치가 프로토스페이서-인접 모티프로부터 +10 위치 또는 +18 위치에 도입되는 경우, 상기 의도적인 미스매치는 상기 +10 위치 및 +18 위치 중 원래 하나의 미스매치가 도입되지 않은 위치에 하나만 도입되는, 가이드 RNA의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 상기 방법으로부터 제조된 RNA는 야생형 가이드 RNA의 온-타겟 활성의 50% 이상을 유지하고, 야생형 가이드 RNA에 비해 감소된 오프-타겟 활성을 나타내거나, 오프-타겟 활성이 없는, 가이드 RNA의 제조방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 가이드 RNA, 또는 제4항 또는 제5항의 가이드 RNA 제조방법으로 제조된 가이드 RNA를 이용한 CRISPR 시스템의 정확도를 향상시키는 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 가이드 RNA, 또는 제4항 또는 제5항의 가이드 RNA 제조방법으로 제조된 가이드 RNA를 포함하는, 유전자 교정용 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 가이드 RNA를 포함하는, KRAS G12D 점 돌연변이 (point mutation)로 야기되는 질환 또는 후천성면역결핍증의 예방 또는 치료용 약학 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항의 가이드 RNA를 포함하는, KRAS G12D 점 돌연변이 (point mutation)로 야기되는 질환의 진단용 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 가이드 RNA, 또는 제4항 또는 제5항의 가이드 RNA 제조방법으로 제조된 가이드 RNA를 이용한, 생체 외(in vitro) 또는 인간을 제외한 동물에서의 유전자 표적 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 가이드 RNA, 또는 제4항 또는 제5항의 가이드 RNA 제조방법으로 제조된 가이드 RNA를 이용한, 생체 외(in vitro) 또는 인간을 제외한 동물에서의 유전자 교정 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20240910",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 12,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 타겟 유전자 영역에 상보적인 뉴클레오타이드 서열을 포함하되, 오프-타겟 유전자 영역에 대해서는 원래 (original) 하나의 미스매치를 포함하는 가이드 RNA를 선별하는 단계; 및\n(b) 선별된 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프로부터 +10 위치 및 +18 위치 중 어느 하나 또는 두 개에 의도적인 미스매치를 도입하는 단계를 포함하며,\n이때, 상기 원래 하나의 미스매치는 상기 선별된 가이드 RNA의 뉴클레오타이드 서열의 프로토스페이서-인접 모티프로부터 +1 위치 내지 +20 위치 중 어느 하나에 도입되고, 상기 원래 하나의 미스매치와 상기 하나 또는 두 개의 의도적인 미스매치는 서로 상이한 위치에 도입되며,\n상기 원래 하나의 미스매치가 프로토스페이서-인접 모티프로부터 +10 위치 또는 +18 위치에 도입되는 경우, 상기 의도적인 미스매치는 상기 +10 위치 및 +18 위치 중 원래 하나의 미스매치가 도입되지 않은 위치에 하나만 도입되는, 가이드 RNA의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 방법으로부터 제조된 RNA는 야생형 가이드 RNA의 온-타겟 활성의 50% 이상을 유지하고, 야생형 가이드 RNA에 비해 감소된 오프-타겟 활성을 나타내거나, 오프-타겟 활성이 없는, 가이드 RNA의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 가이드 RNA의 제조방법에 의해 제조되는 가이드 RNA로서,\n상기 가이드 RNA의 타겟 유전자는 CCR5이고, 상기 가이드 RNA의 오프-타겟 유전자는 CCR2이며, 상기 타겟 유전자 영역에 상보적인 서열번호 29, 36, 42, 46, 69, 70, 74, 87, 96, 99, 104 내지 106, 114, 115 및 120으로 이루어진 군으로부터 선택되는 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 가이드 RNA의 제조방법에 의해 제조되는 가이드 RNA로서,\n상기 가이드 RNA의 타겟 유전자는 KRAS G12D 점 돌연변이를 포함하는 유전자이고, 상기 가이드 RNA의 오프-타겟 유전자는 야생형 KRAS이며, 상기 타겟 유전자 영역에 상보적인 서열번호 427 및 429 내지 435로 이루어진 군으로부터 선택되는 어느 하나의 뉴클레오타이드 서열을 포함하는, 가이드 RNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항 또는 제4항에 있어서, 상기 가이드 RNA는 야생형 가이드 RNA의 온-타겟 활성의 50% 이상을 유지하고, 야생형 가이드 RNA에 비해 감소된 오프-타겟 활성을 나타내거나 오프-타겟 활성이 없는, 가이드 RNA.",
+            "refers_to": [
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 가이드 RNA의 제조방법으로 제조된 가이드 RNA, 또는 제3항 또는 제4항의 가이드 RNA를 이용한 CRISPR 시스템의 정확도를 향상시키는 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 가이드 RNA의 제조방법으로 제조된 가이드 RNA, 또는 제3항 또는 제4항의 가이드 RNA를 포함하는, 유전자 교정용 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항의 가이드 RNA를 포함하는, 후천성면역결핍증의 예방 또는 치료용 약학 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항의 가이드 RNA를 포함하는, KRAS G12D 점 돌연변이 (point mutation)로 야기되는 질환의 진단용 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 가이드 RNA의 제조방법으로 제조된 가이드 RNA, 또는 제3항 또는 제4항의 가이드 RNA를 이용한, 생체 외(in vitro) 또는 인간을 제외한 동물에서의 유전자 표적 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 가이드 RNA의 제조방법으로 제조된 가이드 RNA, 또는 제3항 또는 제4항의 가이드 RNA를 이용한, 생체 외(in vitro) 또는 인간을 제외한 동물에서의 유전자 교정 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항의 가이드 RNA를 포함하는, KRAS G12D 점 돌연변이 (point mutation)로 야기되는 질환의 예방 또는 치료용 약학 조성물.",
+            "refers_to": [
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 25,
+      "after_claim_count": 12,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "서울특별시 송파구...",
+        "code": "219950162419",
+        "country": "대한민국",
+        "engName": "THE ASAN FOUNDATION",
+        "name": "재단법인 아산사회복지재단"
+      },
+      {
+        "address": "울산광역시 남구...",
+        "code": "220050145092",
+        "country": "대한민국",
+        "engName": "University of Ulsan Foundation For Industry Cooperation",
+        "name": "울산대학교 산학협력단"
+      },
+      {
+        "address": "경기도 성남시 분당구...",
+        "code": "120170184354",
+        "country": "대한민국",
+        "engName": "Mobiis Co., Ltd.",
+        "name": "주식회사 모비스"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 강북구...",
+        "code": "",
+        "country": "",
+        "engName": "Sung, Young Hoon",
+        "name": "성영훈"
+      },
+      {
+        "address": "서울특별시 동대문구...",
+        "code": "",
+        "country": "",
+        "engName": "Jung, Yeon Ju",
+        "name": "정연주"
+      },
+      {
+        "address": "경기도 성남시 분당구...",
+        "code": "",
+        "country": "",
+        "engName": "Kim, Ji Heon",
+        "name": "김지헌"
+      },
+      {
+        "address": "서울특별시 구로구...",
+        "code": "",
+        "country": "",
+        "engName": "Lee, Geun Ho",
+        "name": "이근호"
+      },
+      {
+        "address": "경기도 용인시 수지구...",
+        "code": "",
+        "country": "",
+        "engName": "Yoo, Hyun",
+        "name": "유현"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 사평대로 ***, *층 (반포동)",
+      "code": "920161000615",
+      "country": "대한민국",
+      "engName": "Jipyong Intellectual Property Law Firm",
+      "name": "특허법인지평"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2020.12.09",
+      "priorityApplicationNumber": "1020200171716"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Nature biotechnology, Vol.31(9), pp.827-832 (2013)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Nucleic Acids Res. 2013 Nov; 41(20): 9584-9592",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Genome Res. 2018 Mar; 28(3): 374-382",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2019084664 A1",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2021.12.09",
+        "receiptNumber": "1-1-2021-1431664-24"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2021.12.13",
+        "receiptNumber": "1-5-2021-0195119-52"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.01.06",
+        "receiptNumber": "1-1-2022-0020883-09"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.01.10",
+        "receiptNumber": "4-1-2022-5006881-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.01.13",
+        "receiptNumber": "4-1-2022-5010543-98"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.01.13",
+        "receiptNumber": "4-1-2022-5010528-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.04.25",
+        "receiptNumber": "4-1-2022-5097268-08"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.04.25",
+        "receiptNumber": "4-1-2022-5097214-43"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2023.02.15",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.04.18",
+        "receiptNumber": "4-1-2023-5095011-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.04.18",
+        "receiptNumber": "4-1-2023-5095017-43"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2023.05.18",
+        "receiptNumber": "9-6-2023-0163897-51"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2023.11.14",
+        "receiptNumber": "9-5-2023-1027512-09"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.01.15",
+        "receiptNumber": "1-1-2024-0054466-83"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.01.15",
+        "receiptNumber": "1-1-2024-0054465-37"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.07.10",
+        "receiptNumber": "9-5-2024-0579735-20"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.09.10",
+        "receiptNumber": "1-1-2024-0991579-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.09.10",
+        "receiptNumber": "1-1-2024-0991578-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.10.08",
+        "receiptNumber": "4-1-2024-5294335-59"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.01.20",
+        "receiptNumber": "4-1-2025-5016240-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.01.20",
+        "receiptNumber": "4-1-2025-5016251-15"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.03.25",
+        "receiptNumber": "9-5-2025-0293421-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.05.26",
+        "receiptNumber": "1-1-2025-0586191-45"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.06.11",
+        "receiptNumber": "4-1-2025-5157322-76"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.09.29",
+        "receiptNumber": "9-5-2025-0946059-17"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020210176155.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c930a127b47f7316c99afb304db2d2b04a03b200718f38dad5a17a9deeca8adba5efdeb3eab6aeba62641aac5d0367233c6dc86992547b4bfd3",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf97c7089caac7e346c4f5ce03591bd30fdfd5f0794db76e04eeea6d1aee327c288c38eb1d0a16cc0a99d09c877247f63243b0b8f55c53b1e5"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2020.03.01 ~ 2021.02.28",
+        "rndManagingInstituteName": "울산대학교",
+        "rndProjectName": "개인기초연구(과기정통부)(R＆D)",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "50/100",
+        "rndTaskName": "CRISPR-Cpf1 Knockin 마우스 제작을 통한 새로운 질환모델마우스 확립 전략에 관한 연구",
+        "rndTaskNumber": "1711113404"
+      },
+      {
+        "rndDepartmentName": "산업통상자원부",
+        "rndDuration": "2020.09.01 ~ 2021.04.30",
+        "rndManagingInstituteName": "울산대학교",
+        "rndProjectName": "산업기술알키미스트프로젝트(R＆D)",
+        "rndSpecialInstituteName": "한국산업기술평가관리원",
+        "rndTaskContribution": "50/100",
+        "rndTaskName": "머신러닝 기반 유전대사성 간질환 대상 초정밀 CRISPR 유전자치료제 개발",
+        "rndTaskNumber": "1415169756"
+      }
+    ]
+  }
+}

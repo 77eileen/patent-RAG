@@ -1,0 +1,823 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.05.24",
+      "applicationFlag": "",
+      "applicationNumber": "10-2019-0061081",
+      "claimCount": "17",
+      "examinerName": "김정태",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "아데노바이러스의 감염 및 복제가 가능한 중간엽 줄기세포주",
+      "inventionTitleEng": "Mesenchymal stem cell line capable of  adenoviral infection and replication",
+      "openDate": "2019.12.18",
+      "openNumber": "10-2019-0139763",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2019.05.24",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2020.10.26",
+      "publicationNumber": "",
+      "registerDate": "2020.10.20",
+      "registerNumber": "10-2169798-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0775"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/113"
+      },
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 아데노바이러스의 감염 및 복제가 현저히 증가한 중간엽 줄기세포주 및 GM-CSF, Flt3L-TRAIL, shTGF-β 및 shHSP 공동 발현용 유전자 전달체가 탑재된 중간엽 줄기세포주에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020190061081",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20190524",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 19,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "아데노바이러스 감염 및 복제가 가능한 중간엽 줄기세포주.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\nCAR와 E1B55kD를 동시에 발현하는 중간엽 줄기세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\n인간 유래 중간엽 줄기세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\n제대혈, 골수 또는 지방 유래인 중간엽 줄기세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\n상기 아데노바이러스는 종양살상 아데노바이러스인 중간엽 줄기세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서,\nMSC-CAR-E1B55KD로 명명된 중간엽 줄기세포주 [KCLRF-BP-00434]",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1의 중간엽 줄기세포주에,\n과립구-대식세포 콜로니 자극 인자(GM-CSF) 유전자; Flt3L-TRAIL 융합 유전자; TGF-β 발현을 억제하는 shRNA(shTGF-β) 및 HSP 발현을 억제하는 shRNA를 포함하는 유전자 전달체가 탑재된 중간엽 줄기세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 7 항에 있어서,\n항암 효과를 가지는 중간엽 줄기세포주.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 8 항에 있어서,\n상기 암은 위암, 폐암, 유방암, 난소암, 간암, 기관지암, 비인두암, 후두암, 췌장암, 담도암, 방광암, 대장암, 결장암, 자궁경부암, 뇌암, 전립선암, 골암, 두경부암, 피부암, 신장암, 배수성암(polyploid carcinoma), 갑상선암, 부갑상선암 또는 요관암인 중간엽 줄기세포주.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서,\n상기 GM-CSF 유전자는 서열번호 1 또는 서열번호 2로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서,\n상기 Flt3L-TRAIL 융합 유전자는 서열번호 3으로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서,\n상기 shTGF-β는 shTGF-β1 또는 shTGF-β2인 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 12 항에 있어서,\n상기 shTGF-β1는 서열번호 4 또는 서열번호 5로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 12 항에 있어서,\n상기 shTGF-β2는 서열번호 6 또는 서열번호 7로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서,\n상기 shHSP는 shHSP25 또는 shHSP27인 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 15 항에 있어서,\n상기 shHSP25는 서열번호 8로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 15 항에 있어서,\n상기 shHSP27은 서열번호 9로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서,\n상기 유전자 전달체는 플라스미드, 재조합 아데노바이러스 벡터, 아데노-관련 바이러스(Adenoassociated viruses: AAV), 레트로바이러스, 렌티바이러스, 헤르페스 심플렉스 바이러스, 백시니아 바이러스, 리포좀 또는 니오좀인 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9 항에 있어서,\n상기 유전자 전달체는 종양살상 아데노바이러스인 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20200504",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 19,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "아데노바이러스 감염 및 복제가 가능한, 한국세포주연구재단 기탁번호 KCLRF-BP-00434의 중간엽 줄기세포주.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서,CAR와 E1B55kD를 동시에 발현하는 중간엽 줄기세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서,인간 유래 중간엽 줄기세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서,상기 아데노바이러스는 종양살상 아데노바이러스인 중간엽 줄기세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1의 중간엽 줄기세포주에,과립구-대식세포 콜로니 자극 인자(GM-CSF) 유전자; Flt3L-TRAIL 융합 유전자; TGF-β 발현을 억제하는 shRNA(shTGF-β) 및 HSP 발현을 억제하는 shRNA를 포함하는 유전자 전달체가 탑재된 중간엽 줄기세포주.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 7 항에 있어서,항암 효과를 가지는 중간엽 줄기세포주.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 8 항에 있어서,상기 암은 위암, 폐암, 유방암, 난소암, 간암, 기관지암, 비인두암, 후두암, 췌장암, 담도암, 방광암, 대장암, 결장암, 자궁경부암, 뇌암, 전립선암, 골암, 두경부암, 피부암, 신장암, 배수성암(polyploid carcinoma), 갑상선암, 부갑상선암 또는 요관암인 중간엽 줄기세포주.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 9 항에 있어서,상기 GM-CSF 유전자는 서열번호 1 또는 서열번호 2로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 9 항에 있어서,상기 Flt3L-TRAIL 융합 유전자는 서열번호 3으로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 9 항에 있어서,상기 shTGF-β는 shTGF-β1 또는 shTGF-β2인 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 12 항에 있어서,상기 shTGF-β1는 서열번호 4 또는 서열번호 5로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 12 항에 있어서,상기 shTGF-β2는 서열번호 6 또는 서열번호 7로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 9 항에 있어서,상기 shHSP는 shHSP25 또는 shHSP27인 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 15 항에 있어서,상기 shHSP25는 서열번호 8로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 15 항에 있어서,상기 shHSP27은 서열번호 9로 표시되는 중간엽 줄기세포주.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 9 항에 있어서,상기 유전자 전달체는 플라스미드, 재조합 아데노바이러스 벡터, 아데노-관련 바이러스(Adenoassociated viruses: AAV), 레트로바이러스, 렌티바이러스, 헤르페스 심플렉스 바이러스, 백시니아 바이러스, 리포좀 또는 니오좀인 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 9 항에 있어서,상기 유전자 전달체는 종양살상 아데노바이러스인 중간엽 줄기세포주.",
+          "refers_to": [
+            9
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20190524",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 19,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "아데노바이러스 감염 및 복제가 가능한 중간엽 줄기세포주.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\nCAR와 E1B55kD를 동시에 발현하는 중간엽 줄기세포주.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\n인간 유래 중간엽 줄기세포주.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\n제대혈, 골수 또는 지방 유래인 중간엽 줄기세포주.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\n상기 아데노바이러스는 종양살상 아데노바이러스인 중간엽 줄기세포주.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서,\nMSC-CAR-E1B55KD로 명명된 중간엽 줄기세포주 [KCLRF-BP-00434]",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1의 중간엽 줄기세포주에,\n과립구-대식세포 콜로니 자극 인자(GM-CSF) 유전자; Flt3L-TRAIL 융합 유전자; TGF-β 발현을 억제하는 shRNA(shTGF-β) 및 HSP 발현을 억제하는 shRNA를 포함하는 유전자 전달체가 탑재된 중간엽 줄기세포주.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7 항에 있어서,\n항암 효과를 가지는 중간엽 줄기세포주.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 8 항에 있어서,\n상기 암은 위암, 폐암, 유방암, 난소암, 간암, 기관지암, 비인두암, 후두암, 췌장암, 담도암, 방광암, 대장암, 결장암, 자궁경부암, 뇌암, 전립선암, 골암, 두경부암, 피부암, 신장암, 배수성암(polyploid carcinoma), 갑상선암, 부갑상선암 또는 요관암인 중간엽 줄기세포주.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항에 있어서,\n상기 GM-CSF 유전자는 서열번호 1 또는 서열번호 2로 표시되는 중간엽 줄기세포주.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항에 있어서,\n상기 Flt3L-TRAIL 융합 유전자는 서열번호 3으로 표시되는 중간엽 줄기세포주.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항에 있어서,\n상기 shTGF-β는 shTGF-β1 또는 shTGF-β2인 중간엽 줄기세포주.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 12 항에 있어서,\n상기 shTGF-β1는 서열번호 4 또는 서열번호 5로 표시되는 중간엽 줄기세포주.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 12 항에 있어서,\n상기 shTGF-β2는 서열번호 6 또는 서열번호 7로 표시되는 중간엽 줄기세포주.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항에 있어서,\n상기 shHSP는 shHSP25 또는 shHSP27인 중간엽 줄기세포주.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 15 항에 있어서,\n상기 shHSP25는 서열번호 8로 표시되는 중간엽 줄기세포주.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 15 항에 있어서,\n상기 shHSP27은 서열번호 9로 표시되는 중간엽 줄기세포주.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항에 있어서,\n상기 유전자 전달체는 플라스미드, 재조합 아데노바이러스 벡터, 아데노-관련 바이러스(Adenoassociated viruses: AAV), 레트로바이러스, 렌티바이러스, 헤르페스 심플렉스 바이러스, 백시니아 바이러스, 리포좀 또는 니오좀인 중간엽 줄기세포주.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9 항에 있어서,\n상기 유전자 전달체는 종양살상 아데노바이러스인 중간엽 줄기세포주.",
+            "refers_to": [
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200504",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 3,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "아데노바이러스 감염 및 복제가 가능한, 한국세포주연구재단 기탁번호 KCLRF-BP-00434의 중간엽 줄기세포주.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 19,
+      "after_claim_count": 3,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 서대문구...",
+      "code": "220050095099",
+      "country": "대한민국",
+      "engName": "UIF (University Industry Foundation), Yonsei University",
+      "name": "연세대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 서대문구...",
+        "code": "",
+        "country": "",
+        "engName": "SONG, Jae Jin",
+        "name": "송재진"
+      },
+      {
+        "address": "서울특별시 서대문구...",
+        "code": "",
+        "country": "",
+        "engName": "CHOI, Hye Jin",
+        "name": "최혜진"
+      },
+      {
+        "address": "서울특별시 서대문구...",
+        "code": "",
+        "country": "",
+        "engName": "CHOI, Soo Jin",
+        "name": "최수진"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 역삼로 *길 **, 신관 *층~*층, **층(역삼동, 광성빌딩)",
+      "code": "920081001218",
+      "country": "대한민국",
+      "engName": "DANA PATENT LAW FIRM",
+      "name": "특허법인다나"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2018.06.08",
+      "priorityApplicationNumber": "1020180065944"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Molecular Cancer, vol.10(134), pp.1~12(2011)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020150113908 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020170067667 A",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2019.05.24",
+        "receiptNumber": "1-1-2019-0533391-42"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.03.02",
+        "receiptNumber": "9-5-2020-0159011-16"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.05.04",
+        "receiptNumber": "1-1-2020-0450176-87"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.05.04",
+        "receiptNumber": "1-1-2020-0450177-22"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2020.10.15",
+        "receiptNumber": "9-5-2020-0707943-97"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2022.09.21",
+        "receiptNumber": "1-1-2022-0992033-04"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.10.07",
+        "receiptNumber": "4-1-2022-5235822-97"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.12.09",
+        "receiptNumber": "4-1-2022-5292360-75"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020190061081.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00e7d631c5f4b70960a49c8061eda6530f338c6e34b8c87cc2a0dfd0003ebfb8c9e90062b80600946abbd285da0ca8c00e6524458e9996a5ff",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf96954df80ff30323374d7ea49d9a3dca9d72527261d881cc073d12240a867ce681e44b7446533aaa0bc64330bacbad90bbabb86d811e6356"
+  },
+  "rndInfoArray": ""
+}

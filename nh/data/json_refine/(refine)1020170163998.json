@@ -1,0 +1,906 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.12.01",
+      "applicationFlag": "",
+      "applicationNumber": "10-2017-0163998",
+      "claimCount": "12",
+      "examinerName": "안규정",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "Ｔ 세포 자극용 엑소좀 및 이의 약제학적 용도",
+      "inventionTitleEng": "Exosome for stimulating T cell and  pharmaceutical use thereof",
+      "openDate": "2018.06.12",
+      "openNumber": "10-2018-0063841",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2017.12.01",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2019.11.25",
+      "publicationNumber": "",
+      "registerDate": "2019.11.19",
+      "registerNumber": "10-2048228-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/705"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 9/127"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/86"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 37/02"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 T 세포 자극용 엑소좀 및 이의 약제학적 용도에 관한 것으로, HLA 및 CD32 그리고 보조자극인자 CD32, CD80, CD83 및 4-1BBL를 발현하는 인공항원제시세포에서 분비되는 면역성 엑소좀을 이용하여 나이브 CD8+ T 세포를 자극하고, 이를 통해 종양, 병원체 감염 또는 자가면역질환의 예방 또는 치료적 효과를 제공할 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020170163998",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20171201",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "HLA(human leukocyte antigen), CD32, CD80, CD83 및 4-1BBL를 발현하는 엑소좀.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n엑소좀은 HLA 클래스 I 및 II 분자를 발현하지 않는 세포에 HLA, CD32, CD80, CD83 및 4-1BBL를 코딩하는 핵산을 도입하여 제조된 인공항원제시세포에서 유래한 것인, 엑소좀.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\nHLA 클래스 I 및 II 분자를 발현하지 않는 세포는 K562 세포, 변형된 293T 세포 중 어느 하나인 엑소좀.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\n핵산은 바이러스 벡터에 삽입되어 세포에 전달되는, 엑소좀.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\nHLA를 코딩하는 핵산은 SEQ ID NO:1에 기재된 것인, 엑소좀.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\nCD80을 코딩하는 핵산은 SEQ ID NO:2에 기재된 것인, 엑소좀.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\nCD83을 코딩하는 핵산은 SEQ ID NO:3에 기재된 것인, 엑소좀.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\n4-1BBL을 코딩하는 핵산은 SEQ ID NO:4에 기재된 것인, 엑소좀.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n엑소좀은 CD40L, CD70 및 OX40L로 이루어진 군에서 선택된 하나 이상을 추가로 발현하는, 엑소좀.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n엑소좀은 종양 항원, 병원체 항원 및 자가-항체로 이루어진 군에서 선택된 하나 이상의 항원에 의해 감작된 것인, 엑소좀.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 따른 엑소좀을 포함하는 면역치료제.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 따른 엑소좀을 포함하는 종양, 병원체 감염 또는 자가면역질환 예방용 백신.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 따른 엑소좀을 포함하는 종양, 병원체 감염 또는 자가면역질환 치료용 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 따른 엑소좀 및 CD4 T 세포, CD8 T 세포 또는 γδT 세포 중 어느 하나의 T 세포를 공동-배양하는 단계를 포함하는 T 세포 증식 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "종양 항원, 병원체 항원 및 자가-항체로 이루어진 군에서 선택된 하나 이상의 항원에 의해 감작된 제1항 내지 제9항 중 어느 한 항에 따른 엑소좀으로 CD4 T 세포, CD8 T 세포 또는 γδT 세포 중 어느 하나를 자극하는 단계를 포함하는 세포독성 T 세포의 인 비트로 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20190930",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "HLA(human leukocyte antigen); CD32; 및CD80, CD83 및 4-1BBL로 구성된 보조자극분자군(costimulatory molecule group)을 발현하며,HLA 클래스 I 및 II 분자를 발현하지 않는 세포에 상기 HLA, 상기 CD32 및 상기 보조자극분자군을 코딩하는 핵산을 도입하여 제조된 인공항원제시세포에서 유래한 것인, 엑소좀.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,HLA 클래스 I 및 II 분자를 발현하지 않는 세포는 K562 세포 또는 HLA 클래스 I 및 II 분자를 발현하지 않도록 변형된 293T 세포 중 어느 하나인, 엑소좀.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,핵산은 바이러스 벡터에 삽입되어 세포에 전달되는, 엑소좀.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,HLA를 코딩하는 핵산은 SEQ ID NO:1에 기재된 것인, 엑소좀.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,CD80을 코딩하는 핵산은 SEQ ID NO:2에 기재된 것인, 엑소좀.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,CD83을 코딩하는 핵산은 SEQ ID NO:3에 기재된 것인, 엑소좀.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,4-1BBL을 코딩하는 핵산은 SEQ ID NO:4에 기재된 것인, 엑소좀.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,엑소좀은 종양 항원, 병원체 항원 및 자가-항체로 이루어진 군에서 선택된 하나 이상의 항원에 의해 감작된 것인, 엑소좀.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항, 제3항 내지 제8항 및 제10항 중 어느 한 항에 따른 엑소좀을 포함하는 면역치료제.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항, 제3항 내지 제8항 및 제10항  중 어느 한 항에 따른 엑소좀을 포함하는 종양, 병원체 감염 또는 자가면역질환 치료용 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항, 제3항 내지 제8항 및 제10항  중 어느 한 항에 따른 엑소좀 및 CD4+ T 세포, CD8+ T 세포 또는 γδT 세포 중 어느 하나의 T 세포를 공동-배양하는 단계를 포함하는 T 세포 증식 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "종양 항원, 병원체 항원 및 자가-항체로 이루어진 군에서 선택된 하나 이상의 항원에 의해 감작된 제1항, 제3항 내지 제8항 및 제10항 중 어느 한 항에 따른 엑소좀으로 CD4+ T 세포, CD8+ T 세포 또는 γδT 세포 중 어느 하나를 자극하는 단계를 포함하는 세포독성 T 세포의 인 비트로 제조방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20171201",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "HLA(human leukocyte antigen), CD32, CD80, CD83 및 4-1BBL를 발현하는 엑소좀.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n엑소좀은 HLA 클래스 I 및 II 분자를 발현하지 않는 세포에 HLA, CD32, CD80, CD83 및 4-1BBL를 코딩하는 핵산을 도입하여 제조된 인공항원제시세포에서 유래한 것인, 엑소좀.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\nHLA 클래스 I 및 II 분자를 발현하지 않는 세포는 K562 세포, 변형된 293T 세포 중 어느 하나인 엑소좀.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\n핵산은 바이러스 벡터에 삽입되어 세포에 전달되는, 엑소좀.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\nHLA를 코딩하는 핵산은 SEQ ID NO:1에 기재된 것인, 엑소좀.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\nCD80을 코딩하는 핵산은 SEQ ID NO:2에 기재된 것인, 엑소좀.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\nCD83을 코딩하는 핵산은 SEQ ID NO:3에 기재된 것인, 엑소좀.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\n4-1BBL을 코딩하는 핵산은 SEQ ID NO:4에 기재된 것인, 엑소좀.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n엑소좀은 CD40L, CD70 및 OX40L로 이루어진 군에서 선택된 하나 이상을 추가로 발현하는, 엑소좀.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n엑소좀은 종양 항원, 병원체 항원 및 자가-항체로 이루어진 군에서 선택된 하나 이상의 항원에 의해 감작된 것인, 엑소좀.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 따른 엑소좀을 포함하는 면역치료제.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 따른 엑소좀을 포함하는 종양, 병원체 감염 또는 자가면역질환 예방용 백신.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 따른 엑소좀을 포함하는 종양, 병원체 감염 또는 자가면역질환 치료용 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항에 따른 엑소좀 및 CD4 T 세포, CD8 T 세포 또는 γδT 세포 중 어느 하나의 T 세포를 공동-배양하는 단계를 포함하는 T 세포 증식 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "종양 항원, 병원체 항원 및 자가-항체로 이루어진 군에서 선택된 하나 이상의 항원에 의해 감작된 제1항 내지 제9항 중 어느 한 항에 따른 엑소좀으로 CD4 T 세포, CD8 T 세포 또는 γδT 세포 중 어느 하나를 자극하는 단계를 포함하는 세포독성 T 세포의 인 비트로 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20190930",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 14,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "HLA(human leukocyte antigen); \nCD32; 및\nCD80, CD83 및 4-1BBL로 구성된 보조자극분자군(costimulatory molecule group)을 발현하며,\nHLA 클래스 I 및 II 분자를 발현하지 않는 세포에 상기 HLA, 상기 CD32 및 상기 보조자극분자군을 코딩하는 핵산을 도입하여 제조된 인공항원제시세포에서 유래한 것인, 엑소좀.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\nHLA 클래스 I 및 II 분자를 발현하지 않는 세포는 K562 세포 또는 HLA 클래스 I 및 II 분자를 발현하지 않도록 변형된 293T 세포 중 어느 하나인, 엑소좀.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n핵산은 바이러스 벡터에 삽입되어 세포에 전달되는, 엑소좀.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\nHLA를 코딩하는 핵산은 SEQ ID NO:1에 기재된 것인, 엑소좀.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\nCD80을 코딩하는 핵산은 SEQ ID NO:2에 기재된 것인, 엑소좀.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\nCD83을 코딩하는 핵산은 SEQ ID NO:3에 기재된 것인, 엑소좀.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n4-1BBL을 코딩하는 핵산은 SEQ ID NO:4에 기재된 것인, 엑소좀.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제3항 내지 제8항 및 제10항 중 어느 한 항에 따른 엑소좀을 포함하는 면역치료제.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제3항 내지 제8항 및 제10항 중 어느 한 항에 따른 엑소좀을 포함하는 종양, 병원체 감염 또는 자가면역질환 치료용 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제3항 내지 제8항 및 제10항 중 어느 한 항에 따른 엑소좀 및 CD4+ T 세포, CD8+ T 세포 또는 γδT 세포 중 어느 하나의 T 세포를 공동-배양하는 단계를 포함하는 T 세포 증식 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "종양 항원, 병원체 항원 및 자가-항체로 이루어진 군에서 선택된 하나 이상의 항원에 의해 감작된 제1항, 제3항 내지 제8항 및 제10항 중 어느 한 항에 따른 엑소좀으로 CD4+ T 세포, CD8+ T 세포 또는 γδT 세포 중 어느 하나를 자극하는 단계를 포함하는 세포독성 T 세포의 인 비트로 제조방법.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 15,
+      "after_claim_count": 14,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 서초구...",
+      "code": "220050224041",
+      "country": "대한민국",
+      "engName": "THE CATHOLIC UNIVERSITY OF KOREA INDUSTRY-ACADEMIC COOPERATION FOUNDATION",
+      "name": "가톨릭대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 강남구...",
+        "code": "",
+        "country": "",
+        "engName": "KIM, Tai Gyu",
+        "name": "김태규"
+      },
+      {
+        "address": "서울특별시 서초구...",
+        "code": "",
+        "country": "",
+        "engName": "SOHN, Hyun Jung",
+        "name": "손현정"
+      },
+      {
+        "address": "경기도 용인시 수지구...",
+        "code": "",
+        "country": "",
+        "engName": "KIM, Su Eon",
+        "name": "김수언"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 역삼로 *길 **, 신관 *층~*층, **층(역삼동, 광성빌딩)",
+      "code": "920081001218",
+      "country": "대한민국",
+      "engName": "DANA PATENT LAW FIRM",
+      "name": "특허법인다나"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2016.12.02",
+      "priorityApplicationNumber": "1020160163822"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Cancer J. Vol.16(4):374-381 (2010)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "GenBank: U02935.2, “Homo sapiens HLA-A2 gene, enhancer region and complete cds”. (2003.07.25.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "NCBI Reference Sequence: NM_005191.3, “Homo sapiens CD80 molecule (CD80), mRNA”. 2016.10.06.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "GenBank: DQ892356.2, “Synthetic construct clone IMAGE:100004986; FLH185494.01X; RZPDo839B10148D CD83 molecule (CD83) gene, encodes complete protein”. 2007.03.21.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "GenBank: U03398.1, “Human receptor 4-1BB ligand mRNA, complete cds”. 1994.11.27.",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2017.12.01",
+        "receiptNumber": "1-1-2017-1201711-72"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2019.04.19",
+        "receiptNumber": "9-5-2019-0284734-82"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.06.19",
+        "receiptNumber": "1-1-2019-0627982-42"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2019.07.19",
+        "receiptNumber": "1-1-2019-0744707-70"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2019.08.28",
+        "receiptNumber": "9-5-2019-0621893-94"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2019.09.30",
+        "receiptNumber": "1-1-2019-0999680-38"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2019.09.30",
+        "receiptNumber": "1-1-2019-0999679-92"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2019.10.10",
+        "receiptNumber": "9-5-2019-0731315-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.11.21",
+        "receiptNumber": "4-1-2019-5245084-94"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020170163998.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00c951725a1f2b03c11dec0939001ff9c3afbd6b14193ad568d3c456b2598bd582be865a9b2512a58a8e27d13b82a3220bfb35be0f02a37e48",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfc0e9bd9b15fb2b3b49d78caf92c10038ae7505631b6e1a41ef2550e68609a67c2c25cc0a50973db8439e839b92b86429c7523d7eb00680c0"
+  },
+  "rndInfoArray": ""
+}

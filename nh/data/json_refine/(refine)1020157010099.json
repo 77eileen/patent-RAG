@@ -1,0 +1,1585 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2013.10.31",
+      "applicationFlag": "",
+      "applicationNumber": "10-2015-7010099",
+      "claimCount": "20",
+      "examinerName": "한지혜",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "재조합 클로스트리디움 보툴리눔 신경독",
+      "inventionTitleEng": "Recombinant Clostridium botulinum neurotoxins",
+      "openDate": "2015.08.19",
+      "openNumber": "10-2015-0094590",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2018.10.31",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2020.12.09",
+      "publicationNumber": "",
+      "registerDate": "2020.12.02",
+      "registerNumber": "10-2188539-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2015.04.20"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 9/52"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/33"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/16"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/48"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 인접 뉴클레오티드의 서열을 포함하는 핵산 서열을 제공하는 것으로, 인접 뉴클레오티드의 서열은 SEQ ID NO: 1의 핵산 서열과 적어도 90%의 서열 동일성을 갖으며, 그리고 인접 뉴클레오티드의 서열은 단일-사슬 BoNT/E1 단백질을 암호화한다. 본 발명은 또한 가용성 이중-사슬(di-chain) BoNT/E1 단백질의 제조 방법과 함께, E. coli 숙주 세포에서 가용성 단일-사슬(single-chain) BoNT/E1 단백질의 제조방법을 제공한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020157010099",
+    "total_amendments": 6,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20150420",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 22,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "인접 뉴클레오티드(contiguous nucleotides)의 서열을 포함하는 핵산 서열로서, 상기 인접 뉴클레오티드의 서열은 SEQ ID NO: 1의 핵산 서열과 적어도 90%의 서열 동일성을 갖고, 그리고\n상기 인접 뉴클레오티드의 서열은 단일-사슬 BoNT/E1 단백질을 암호화하는 것을 특징으로 하는 핵산 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 핵산은 최대 160개의 슬로우(slow) 코돈을 갖는 것을 특징으로 하는 핵산 서열.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 상기 단일-사슬 BoNT/E1 단백질은 인접 아미노산의 서열을 포함하고, 그리고 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열과 적어도 95%의 서열 동일성을 갖는 것을 특징으로 하는 핵산 서열.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 하나의 항에 있어서, 제1항 또는 제2항에 따른 상기 단일-사슬 BoNT/E1 또는 제3항에 따른 상기 인접 아미노산의 서열은 다음의 아미노산 중에서 하나 이상 포함한다는 단서를 가지는 것을 특징으로 하는 핵산 서열 (상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남):\n위치 177에서 글리신\n위치 198에서 세린\n위치 340에서 알라닌\n위치 773에서 류신\n위치 963에서 류신\n위치 964에서 글루타민\n위치 967에서 알라닌\n위치 1195에서 아스파라긴.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "전술하는 항에 있어서, 상기 인접 뉴클레오티드의 서열은 야생형 BoNT/E1 (SEQ ID NO: 3)의 핵산 서열과 비교할때 적어도 785개의 동의 코돈(synonymous codons)을 갖는 것을 특징으로 하는 핵산 서열.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질의 제조방법으로, 상기 방법은 E. coli 발현 시스템에서 전술하는 항에 따른 핵산 서열을 발현시키는 단계를 포함하는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 가용성 단일-사슬 BoNT/E1 단백질은 상기 E. coli 숙주세포의 세포질에서 발현되는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 또는 제7항에 있어서, 상기 가용성 단일-사슬 BoNT/E1 단백질은 적어도 5 mg/L 수준으로 발현되는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 내지 제8항 중 어느 하나의 항에 있어서, 상기 제조방법은 상기 가용성 단일-사슬 BoNT/E1 단백질을 함유하는 E. coli 숙주세포 균질액(homogenate)을 제공하기 위해서 상기 E. coli 숙주세포의 용해(lysis)를 포함하는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "가용성 이중-사슬 BoNT/E1 단백질의 제조 방법으로, 상기 방법은:\n인접 아미노산의 서열을 포함하는 가용성 단일-사슬 BoNT/E1 단백질을 제공하는 단계를 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열과 적어도 95%의 서열 동일성을 가지고, 그리고\n상기 BoNT/E1 단백질과 트립신은 용매(solution)에서 접촉(contacting)하는 단계를 포함하는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 인접 아미노산 서열은 다음의 아미노산 중에서 하나 이상 포함한다는 단서를 갖는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법(상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남):\n위치 177에서 글리신\n위치 198에서 세린\n위치 340에서 알라닌\n위치 773에서 류신\n위치 963에서 류신\n위치 964에서 글루타민\n위치 967에서 알라닌\n위치 1195에서 아스파라긴.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항 또는 제11항에 있어서, 상기 가용성 단일-사슬 BoNT/E1 단백질은 제6항 내지 제9항 중 어느 하나의 항에 따른 방법에 의해 제공되는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항 내지 제12항 중 어느 하나의 항에 있어서, 상기 방법은 소수성 표면에 가용성 BoNT/E1 단백질 및 트립신을 함유하는 상기 용매를 접촉시킴으로써 상기 트립신으로부터 상기 가용성 BoNT/E1 단백질을 분리하는 단계를 포함하고, \n상기 가용성 BoNT/E1 단백질은 우선적으로 상기 소수성 표면에 결합하는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 소수성 표면은 아릴기 또는 알킬기로 이루어진 리간드가 부착된 비활성 매트릭인 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 상기 소수성 표면은 부틸, 페닐 또는 옥틸 리간드로 이루어진 군 중에 선택되는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 1-419의 아미노산 서열과 적어도 95%의 서열 동일성을 갖고;\n제2 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 423-1252의 아미노산 서열과 적어도 95%의 서열 동일성을 갖으며;\n상기 제1 사슬 및 상기 제2 사슬은 상기 제1 사슬상의 시스테인 412와 상기 제2 사슬상의 시스테인 426 사이에 이황화 결합에 의해서 함께 결합되고;\n상기 인접 아미노산의 서열은 다음 아미노산 중 하나 이상을 포함한다는 단서를 갖는 것을 특징으로 하는 활성 이중-사슬 BoNT/E1 단백질(상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남):\n위치 177에서 글리신\n위치 198에서 세린\n위치 340에서 알라닌\n위치 773에서 류신\n위치 963에서 류신\n위치 964에서 글루타민\n위치 967에서 알라닌\n위치 1195에서 아스파라긴.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 10항 내지 제 15항 중 어느 하나의 항에 따른 방법에 의해 얻어질 수 있는 활성 이중-사슬 BoNT/E1 단백질.",
+          "refers_to": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 또는 제17항에 따른 활성 이중-사슬 BoNT/E1 단백질 또는 제6항 내지 제9항 중 어느 하나의 항에 따른 상기 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단에 의해서 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질을 포함하는 조성물로, 상기 조성물은 실질적으로 트립신을 포함하지 않는 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 조성물은 BoNT/E1 단백질 100 ng 당 10 pg 미만의 트립신을 포함하고, 또는 BoNT/E1 단백질 100 ng 당 7 pg 미만의 트립신을 포함하며, 또는 BoNT/E1 단백질 100 ng 당 5 pg 미만의 트립신을 포함하는 것을 특징으로 하는 조성물.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 또는 제17항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 제6항 내지 제9항 중 어느 하나의 항에 따른 상기 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단(proteolytic cleavage)에 의해 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질;\n계면활성제인 비-단백질성 안정화제; 및\n물; 을 \n포함하는 액상 약제학적 조성물로,\n상기 액상 약제학적 조성물은 단백질성 안정화제를 포함하지 않고; 그리고 \n상기 액상 약제학적 조성물은 실질적으로 트립신을 포함하지 않는 것을 특징으로 하는 액상 약제학적 조성물 (예를 들면, 상기 액상 약제학적 조성물은 BoNT/E1 단백질 100 ng 당 트립신 10 pg 미만을 포함하고, 또는 BoNT/E1 단백질 100 ng 당 트립신 7 pg 을 포함하고, 또는 BoNT/E1 단백질 100 ng 당 트립신 5 pg 를 포함함).",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 상기 액상 약제학적 조성물은:\n염화나트륨,\npH 5.5 내지 7.5를 유지시키기 위한 버퍼, 및\n이당(disaccharide);을 더 포함하고,\n상기 물은 멸균수인 것을 특징으로 하는 액상 약제학적 조성물.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료에 사용되기 위한, 제16항 또는 제17항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 제6항 내지 제9항 중 어느 하나의 항에 따른 상기 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단에 의해서 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질, 또는 제18항 또는 제19항에 따른 조성물, 또는 제20항 또는 제21항에 따른 액상 약제학적 조성물.",
+          "refers_to": [
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 6,
+      "receipt_date": "20200915",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 22,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "인접 뉴클레오티드(contiguous nucleotides)의 서열을 포함하는 핵산으로서, 상기 인접 뉴클레오티드의 서열은 SEQ ID NO: 1의 핵산 서열을 갖고,상기 인접 뉴클레오티드의 서열은 단일-사슬 BoNT/E1 단백질을 암호화하는 것을 특징으로 하는 핵산.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 핵산은 TTT, TAT, TGT, CAT, CAA, CCA, CCG, TCA, TCG, CGG, TTA, 및 CTA로부터 선택되는 최대 160개의 슬로우(slow) 코돈을 갖는 것을 특징으로 하는 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 단일-사슬 BoNT/E1 단백질은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열을 갖는 것을 특징으로 하는 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 단일-사슬 BoNT/E1 단백질이 다음의 아미노산 중에서 하나 이상 포함한다는 단서를 가지는 것을 특징으로 하는 핵산 (하기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남):위치 177에서 글리신위치 198에서 세린위치 340에서 알라닌위치 773에서 류신위치 963에서 류신위치 964에서 글루타민위치 967에서 알라닌위치 1195에서 아스파라긴.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 인접 뉴클레오티드의 서열은 야생형 BoNT/E1 (SEQ ID NO: 3)의 핵산 서열과 비교할때 적어도 785개의 동의 코돈(synonymous codons)을 갖는 것을 특징으로 하는 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질의 제조방법으로, 상기 방법은 E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 가용성 단일-사슬 BoNT/E1 단백질은 상기 E. coli 숙주세포의 세포질에서 발현되는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 가용성 단일-사슬 BoNT/E1 단백질은 적어도 5 mg/L 수준으로 발현되는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 제조방법은 상기 가용성 단일-사슬 BoNT/E1 단백질을 함유하는 E. coli 숙주세포 균질액(homogenate)을 제공하기 위해서 상기 E. coli 숙주세포의 용해(lysis)를 포함하는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "가용성 이중-사슬 BoNT/E1 단백질의 제조 방법으로, 상기 방법은:인접 아미노산의 서열을 포함하는 가용성 단일-사슬 BoNT/E1 단백질을 제공하는 단계를 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열을 가지고,상기 BoNT/E1 단백질과 트립신은 용매(solution)에서 접촉(contacting)하는 단계를 포함하고,소수성의 분리 표면에 가용성 BoNT/E1 단백질 및 트립신을 함유하는 상기 용매를 접촉시킴으로써 상기 트립신으로부터 상기 가용성 BoNT/E1 단백질을 분리하는 단계를 포함하고, 상기 가용성 BoNT/E1 단백질은 우선적으로 상기 소수성의 분리 표면에 결합하는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 인접 아미노산 서열은 다음의 아미노산 중에서 하나 이상 포함한다는 단서를 갖는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법(상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남):위치 177에서 글리신위치 198에서 세린위치 340에서 알라닌위치 773에서 류신위치 963에서 류신위치 964에서 글루타민위치 967에서 알라닌위치 1195에서 아스파라긴.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 가용성 단일-사슬 BoNT/E1 단백질은 E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는, E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질을 제조하는 방법에 의해 제공되는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 소수성의 분리 표면은 아릴기 또는 알킬기로 이루어진 리간드가 부착된 비활성 매트릭스인 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 소수성의 분리 표면은 부틸, 페닐 및 옥틸 리간드로 이루어진 군 중에 선택되는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 1-419의 아미노산 서열을 갖고;제2 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 423-1252의 아미노산 서열을 갖으며;상기 제1 사슬 및 상기 제2 사슬은 상기 제1 사슬상의 시스테인 412와 상기 제2 사슬상의 시스테인 426 사이에 이황화 결합에 의해서 함께 결합되고;상기 인접 아미노산의 서열은 다음 아미노산 중 하나 이상을 포함한다는 단서를 갖고(상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남);위치 177에서 글리신위치 198에서 세린위치 340에서 알라닌위치 773에서 류신위치 963에서 류신위치 964에서 글루타민위치 967에서 알라닌위치 1195에서 아스파라긴,상기 인접 아미노산의 서열은 SEQ ID NO: 2의 잔기 420, 421 및 422를 포함하지 않는 것을 특징으로 하는 활성 이중-사슬 BoNT/E1 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 따른 방법에 의해 얻어질 수 있는 활성 이중-사슬 BoNT/E1 단백질.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항 또는 제16항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는 E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질을 제조하는 방법에 의해 제조되는 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단에 의해 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질을 포함하는 조성물로, 상기 조성물은 BoNT/E1 단백질 100 ng 당 10 pg 미만의 트립신을 포함하는 것을 특징으로 하는 것인, 근육 이완제로 사용하기 위한 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항 또는 제16항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는 E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질을 제조하는 방법에 의해 제조되는 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단(proteolytic cleavage)에 의해 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질;계면활성제인 비-단백질성 안정화제; 및물; 을 포함하는 액상 약제학적 조성물로,상기 액상 약제학적 조성물은 단백질성 안정화제를 포함하지 않고; 그리고 상기 액상 약제학적 조성물은 BoNT/E1 단백질 100 ng 당 트립신 10 pg 미만을 포함하는 것을 특징으로 하는 것인, 근육 이완제로 사용하기 위한 액상 약제학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 액상 약제학적 조성물은:염화나트륨,pH 5.5 내지 7.5를 유지시키기 위한 버퍼, 및이당(disaccharide);을 더 포함하고,상기 물은 멸균수인 것을 특징으로 하는 액상 약제학적 조성물.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는 E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질을 제조하는 방법에 의해 제조되는 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단에 의해서 얻을 수 있고, SEQ ID NO: 2의 잔기 420, 421 및 422를 포함하지 않는 것을 특징으로 하는 활성 이중-사슬 BoNT/E1 단백질.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20150420",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 22,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "인접 뉴클레오티드(contiguous nucleotides)의 서열을 포함하는 핵산 서열로서, 상기 인접 뉴클레오티드의 서열은 SEQ ID NO: 1의 핵산 서열과 적어도 90%의 서열 동일성을 갖고, 그리고\n상기 인접 뉴클레오티드의 서열은 단일-사슬 BoNT/E1 단백질을 암호화하는 것을 특징으로 하는 핵산 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 핵산은 최대 160개의 슬로우(slow) 코돈을 갖는 것을 특징으로 하는 핵산 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 상기 단일-사슬 BoNT/E1 단백질은 인접 아미노산의 서열을 포함하고, 그리고 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열과 적어도 95%의 서열 동일성을 갖는 것을 특징으로 하는 핵산 서열.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 하나의 항에 있어서, 제1항 또는 제2항에 따른 상기 단일-사슬 BoNT/E1 또는 제3항에 따른 상기 인접 아미노산의 서열은 다음의 아미노산 중에서 하나 이상 포함한다는 단서를 가지는 것을 특징으로 하는 핵산 서열 (상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남):\n위치 177에서 글리신\n위치 198에서 세린\n위치 340에서 알라닌\n위치 773에서 류신\n위치 963에서 류신\n위치 964에서 글루타민\n위치 967에서 알라닌\n위치 1195에서 아스파라긴.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "전술하는 항에 있어서, 상기 인접 뉴클레오티드의 서열은 야생형 BoNT/E1 (SEQ ID NO: 3)의 핵산 서열과 비교할때 적어도 785개의 동의 코돈(synonymous codons)을 갖는 것을 특징으로 하는 핵산 서열.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질의 제조방법으로, 상기 방법은 E. coli 발현 시스템에서 전술하는 항에 따른 핵산 서열을 발현시키는 단계를 포함하는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 가용성 단일-사슬 BoNT/E1 단백질은 상기 E. coli 숙주세포의 세포질에서 발현되는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 또는 제7항에 있어서, 상기 가용성 단일-사슬 BoNT/E1 단백질은 적어도 5 mg/L 수준으로 발현되는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 내지 제8항 중 어느 하나의 항에 있어서, 상기 제조방법은 상기 가용성 단일-사슬 BoNT/E1 단백질을 함유하는 E. coli 숙주세포 균질액(homogenate)을 제공하기 위해서 상기 E. coli 숙주세포의 용해(lysis)를 포함하는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "가용성 이중-사슬 BoNT/E1 단백질의 제조 방법으로, 상기 방법은:\n인접 아미노산의 서열을 포함하는 가용성 단일-사슬 BoNT/E1 단백질을 제공하는 단계를 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열과 적어도 95%의 서열 동일성을 가지고, 그리고\n상기 BoNT/E1 단백질과 트립신은 용매(solution)에서 접촉(contacting)하는 단계를 포함하는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 인접 아미노산 서열은 다음의 아미노산 중에서 하나 이상 포함한다는 단서를 갖는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법(상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남):\n위치 177에서 글리신\n위치 198에서 세린\n위치 340에서 알라닌\n위치 773에서 류신\n위치 963에서 류신\n위치 964에서 글루타민\n위치 967에서 알라닌\n위치 1195에서 아스파라긴.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항 또는 제11항에 있어서, 상기 가용성 단일-사슬 BoNT/E1 단백질은 제6항 내지 제9항 중 어느 하나의 항에 따른 방법에 의해 제공되는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항 내지 제12항 중 어느 하나의 항에 있어서, 상기 방법은 소수성 표면에 가용성 BoNT/E1 단백질 및 트립신을 함유하는 상기 용매를 접촉시킴으로써 상기 트립신으로부터 상기 가용성 BoNT/E1 단백질을 분리하는 단계를 포함하고, \n상기 가용성 BoNT/E1 단백질은 우선적으로 상기 소수성 표면에 결합하는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 소수성 표면은 아릴기 또는 알킬기로 이루어진 리간드가 부착된 비활성 매트릭인 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, 상기 소수성 표면은 부틸, 페닐 또는 옥틸 리간드로 이루어진 군 중에 선택되는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 1-419의 아미노산 서열과 적어도 95%의 서열 동일성을 갖고;\n제2 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 423-1252의 아미노산 서열과 적어도 95%의 서열 동일성을 갖으며;\n상기 제1 사슬 및 상기 제2 사슬은 상기 제1 사슬상의 시스테인 412와 상기 제2 사슬상의 시스테인 426 사이에 이황화 결합에 의해서 함께 결합되고;\n상기 인접 아미노산의 서열은 다음 아미노산 중 하나 이상을 포함한다는 단서를 갖는 것을 특징으로 하는 활성 이중-사슬 BoNT/E1 단백질(상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남):\n위치 177에서 글리신\n위치 198에서 세린\n위치 340에서 알라닌\n위치 773에서 류신\n위치 963에서 류신\n위치 964에서 글루타민\n위치 967에서 알라닌\n위치 1195에서 아스파라긴.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 10항 내지 제 15항 중 어느 하나의 항에 따른 방법에 의해 얻어질 수 있는 활성 이중-사슬 BoNT/E1 단백질.",
+            "refers_to": [
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항 또는 제17항에 따른 활성 이중-사슬 BoNT/E1 단백질 또는 제6항 내지 제9항 중 어느 하나의 항에 따른 상기 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단에 의해서 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질을 포함하는 조성물로, 상기 조성물은 실질적으로 트립신을 포함하지 않는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 조성물은 BoNT/E1 단백질 100 ng 당 10 pg 미만의 트립신을 포함하고, 또는 BoNT/E1 단백질 100 ng 당 7 pg 미만의 트립신을 포함하며, 또는 BoNT/E1 단백질 100 ng 당 5 pg 미만의 트립신을 포함하는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항 또는 제17항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 제6항 내지 제9항 중 어느 하나의 항에 따른 상기 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단(proteolytic cleavage)에 의해 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질;\n계면활성제인 비-단백질성 안정화제; 및\n물; 을 \n포함하는 액상 약제학적 조성물로,\n상기 액상 약제학적 조성물은 단백질성 안정화제를 포함하지 않고; 그리고 \n상기 액상 약제학적 조성물은 실질적으로 트립신을 포함하지 않는 것을 특징으로 하는 액상 약제학적 조성물 (예를 들면, 상기 액상 약제학적 조성물은 BoNT/E1 단백질 100 ng 당 트립신 10 pg 미만을 포함하고, 또는 BoNT/E1 단백질 100 ng 당 트립신 7 pg 을 포함하고, 또는 BoNT/E1 단백질 100 ng 당 트립신 5 pg 를 포함함).",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 상기 액상 약제학적 조성물은:\n염화나트륨,\npH 5.5 내지 7.5를 유지시키기 위한 버퍼, 및\n이당(disaccharide);을 더 포함하고,\n상기 물은 멸균수인 것을 특징으로 하는 액상 약제학적 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료에 사용되기 위한, 제16항 또는 제17항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 제6항 내지 제9항 중 어느 하나의 항에 따른 상기 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단에 의해서 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질, 또는 제18항 또는 제19항에 따른 조성물, 또는 제20항 또는 제21항에 따른 액상 약제학적 조성물.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20150420",
+        "document_name": "[국제단계보정서 번역문]서류제출서",
+        "claim_count": 11,
+        "claims": [
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "가용성 이중-사슬 BoNT/E1 단백질의 제조 방법으로, 상기 방법은:\n인접 아미노산의 서열을 포함하는 가용성 단일-사슬 BoNT/E1 단백질을 제공하는 단계를 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열과 적어도 95%의 서열 동일성을 가지고,\n상기 BoNT/E1 단백질과 트립신은 용매(solution)에서 접촉(contacting)하는 단계를 포함하고, 그리고\n소수성 표면에 가용성 BoNT/E1 단백질 및 트립신을 함유하는 상기 용매를 접촉시킴으로써 상기 트립신으로부터 상기 가용성 BoNT/E1 단백질을 분리하는 단계를 포함하고, 상기 가용성 BoNT/E1 단백질은 우선적으로 상기 소수성 표면에 결합하는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항 내지 제12항 중 어느 하나의 항에 있어서, 상기 소수성 표면은 아릴기 또는 알킬기로 이루어진 리간드가 부착된 비활성 매트릭스인 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 소수성 표면은 부틸, 페닐 또는 옥틸 리간드로 이루어진 군 중에 선택되는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 1-419의 아미노산 서열과 적어도 95%의 서열 동일성을 갖고;\n제2 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 423-1252의 아미노산 서열과 적어도 95%의 서열 동일성을 갖으며;\n상기 제1 사슬 및 상기 제2 사슬은 상기 제1 사슬상의 시스테인 412와 상기 제2 사슬상의 시스테인 426 사이에 이황화 결합에 의해서 함께 결합되고;\n상기 인접 아미노산의 서열은 다음 아미노산 중 하나 이상을 포함한다는 단서를 갖는 것을 특징으로 하는 활성 이중-사슬 BoNT/E1 단백질(상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남):\n위치 177에서 글리신\n위치 198에서 세린\n위치 340에서 알라닌\n위치 773에서 류신\n위치 963에서 류신\n위치 964에서 글루타민\n위치 967에서 알라닌\n위치 1195에서 아스파라긴.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항 내지 제14항 중 어느 하나의 항에 따른 방법에 의해 얻어질 수 있는 활성 이중-사슬 BoNT/E1 단백질.",
+            "refers_to": [
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항 또는 제16항에 따른 활성 이중-사슬 BoNT/E1 단백질 또는 제6항 내지 제9항 중 어느 하나의 항에 따른 상기 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단에 의해서 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질을 포함하는 조성물로, 상기 조성물은 실질적으로 트립신을 포함하지 않는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 조성물은 BoNT/E1 단백질 100 ng 당 10 pg 미만의 트립신을 포함하고, 또는 BoNT/E1 단백질 100 ng 당 7 pg 미만의 트립신을 포함하며, 또는 BoNT/E1 단백질 100 ng 당 5 pg 미만의 트립신을 포함하는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항 또는 제16항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 제6항 내지 제9항 중 어느 하나의 항에 따른 상기 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단(proteolytic cleavage)에 의해 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질;\n계면활성제인 비-단백질성 안정화제; 및\n물; 을 \n포함하는 액상 약제학적 조성물로,\n상기 액상 약제학적 조성물은 단백질성 안정화제를 포함하지 않고; 그리고 \n상기 액상 약제학적 조성물은 실질적으로 트립신을 포함하지 않는 것을 특징으로 하는 액상 약제학적 조성물 (예를 들면, 상기 액상 약제학적 조성물은 BoNT/E1 단백질 100 ng 당 트립신 10 pg 미만을 포함하고, 또는 BoNT/E1 단백질 100 ng 당 트립신 7 pg 을 포함하고, 또는 BoNT/E1 단백질 100 ng 당 트립신 5 pg 를 포함함).",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 상기 액상 약제학적 조성물은:\n염화나트륨,\npH 5.5 내지 7.5를 유지시키기 위한 버퍼, 및\n이당(disaccharide);을 더 포함하고,\n상기 물은 멸균수인 것을 특징으로 하는 액상 약제학적 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "치료에 사용되기 위한, 제15항 또는 제16항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 제6항 내지 제9항 중 어느 하나의 항에 따른 상기 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단에 의해서 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질, 또는 제17항 또는 제18항에 따른 조성물, 또는 제19항 또는 제20항에 따른 액상 약제학적 조성물.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20150601",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 단일-사슬 BoNT/E1 단백질은 인접 아미노산의 서열을 포함하고, 그리고 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열과 적어도 95%의 서열 동일성을 갖는 것을 특징으로 하는 핵산 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 제1항 또는 제2항에 따른 상기 단일-사슬 BoNT/E1 또는 제3항에 따른 상기 인접 아미노산의 서열은 다음의 아미노산 중에서 하나 이상 포함한다는 단서를 가지는 것을 특징으로 하는 핵산 서열 (상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남):\n위치 177에서 글리신\n위치 198에서 세린\n위치 340에서 알라닌\n위치 773에서 류신\n위치 963에서 류신\n위치 964에서 글루타민\n위치 967에서 알라닌\n위치 1195에서 아스파라긴.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 인접 뉴클레오티드의 서열은 야생형 BoNT/E1 (SEQ ID NO: 3)의 핵산 서열과 비교할때 적어도 785개의 동의 코돈(synonymous codons)을 갖는 것을 특징으로 하는 핵산 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 제조방법은 상기 가용성 단일-사슬 BoNT/E1 단백질을 함유하는 E. coli 숙주세포 균질액(homogenate)을 제공하기 위해서 상기 E. coli 숙주세포의 용해(lysis)를 포함하는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 소수성 표면은 아릴기 또는 알킬기로 이루어진 리간드가 부착된 비활성 매트릭스인 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 소수성 표면은 부틸, 페닐 및 옥틸 리간드로 이루어진 군 중에 선택되는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 따른 방법에 의해 얻어질 수 있는 활성 이중-사슬 BoNT/E1 단백질.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 조성물은 BoNT/E1 단백질 100 ng 당 10 pg 미만의 트립신을 포함하는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항 또는 제16항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 제6항 내지 제9항 중 어느 하나의 항에 따른 상기 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단(proteolytic cleavage)에 의해 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질;\n계면활성제인 비-단백질성 안정화제; 및\n물; 을 \n포함하는 액상 약제학적 조성물로,\n상기 액상 약제학적 조성물은 단백질성 안정화제를 포함하지 않고; 그리고 \n상기 액상 약제학적 조성물은 BoNT/E1 단백질 100 ng 당 트립신 10 pg 미만을 포함하는 것을 특징으로 하는 액상 약제학적 조성물.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항 내지 제9항 중 어느 하나의 항에 따른 상기 단일-사슬BoNT/E1 단백질의 단백질 가수분해 절단에 의해서 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질.",
+            "refers_to": [
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20200121",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 17,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "인접 뉴클레오티드(contiguous nucleotides)의 서열을 포함하는 핵산으로서, 상기 인접 뉴클레오티드의 서열은 SEQ ID NO: 1의 핵산 서열과 적어도 90%의 서열 동일성을 갖고, 그리고\n상기 인접 뉴클레오티드의 서열은 단일-사슬 BoNT/E1 단백질을 암호화하는 것을 특징으로 하는 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 핵산은 TTT, TAT, TGT, CAT, CAA, CCA, CCG, TCA, TCG, CGG, TTA, 및 CTA로부터 선택되는 최대 160개의 슬로우(slow) 코돈을 갖는 것을 특징으로 하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 단일-사슬 BoNT/E1 단백질은 인접 아미노산의 서열을 포함하고, 그리고 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열과 적어도 95%의 서열 동일성을 갖는 것을 특징으로 하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 단일-사슬 BoNT/E1 단백질이 다음의 아미노산 중에서 하나 이상 포함한다는 단서를 가지는 것을 특징으로 하는 핵산 (하기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남):\n위치 177에서 글리신\n위치 198에서 세린\n위치 340에서 알라닌\n위치 773에서 류신\n위치 963에서 류신\n위치 964에서 글루타민\n위치 967에서 알라닌\n위치 1195에서 아스파라긴.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 인접 뉴클레오티드의 서열은 야생형 BoNT/E1 (SEQ ID NO: 3)의 핵산 서열과 비교할때 적어도 785개의 동의 코돈(synonymous codons)을 갖는 것을 특징으로 하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질의 제조방법으로, 상기 방법은 E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 가용성 단일-사슬 BoNT/E1 단백질은 적어도 5 mg/L 수준으로 발현되는 것을 특징으로 하는 가용성 단일-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "가용성 이중-사슬 BoNT/E1 단백질의 제조 방법으로, 상기 방법은:\n인접 아미노산의 서열을 포함하는 가용성 단일-사슬 BoNT/E1 단백질을 제공하는 단계를 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열과 적어도 95%의 서열 동일성을 가지고,\n상기 BoNT/E1 단백질과 트립신은 용매(solution)에서 접촉(contacting)하는 단계를 포함하고, 그리고\n소수성의 분리 표면에 가용성 BoNT/E1 단백질 및 트립신을 함유하는 상기 용매를 접촉시킴으로써 상기 트립신으로부터 상기 가용성 BoNT/E1 단백질을 분리하는 단계를 포함하고, 상기 가용성 BoNT/E1 단백질은 우선적으로 상기 소수성의 분리 표면에 결합하는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 가용성 단일-사슬 BoNT/E1 단백질은 E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는, E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질을 제조하는 방법에 의해 제공되는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 소수성의 분리 표면은 아릴기 또는 알킬기로 이루어진 리간드가 부착된 비활성 매트릭스인 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 소수성의 분리 표면은 부틸, 페닐 및 옥틸 리간드로 이루어진 군 중에 선택되는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 1-419의 아미노산 서열과 적어도 95%의 서열 동일성을 갖고;\n제2 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 423-1252의 아미노산 서열과 적어도 95%의 서열 동일성을 갖으며;\n상기 제1 사슬 및 상기 제2 사슬은 상기 제1 사슬상의 시스테인 412와 상기 제2 사슬상의 시스테인 426 사이에 이황화 결합에 의해서 함께 결합되고;\n상기 인접 아미노산의 서열은 다음 아미노산 중 하나 이상을 포함한다는 단서를 갖고(상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남);\n위치 177에서 글리신\n위치 198에서 세린\n위치 340에서 알라닌\n위치 773에서 류신\n위치 963에서 류신\n위치 964에서 글루타민\n위치 967에서 알라닌\n위치 1195에서 아스파라긴,\n상기 인접 아미노산의 서열은 SEQ ID NO: 2의 잔기 420, 421 및 422를 포함하지 않는 것을 특징으로 하는 활성 이중-사슬 BoNT/E1 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항 또는 제16항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는 E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질을 제조하는 방법에 의해 제조되는 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단에 의해 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질을 포함하는 조성물로, 상기 조성물은 BoNT/E1 단백질 100 ng 당 10 pg 미만의 트립신을 포함하는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항 또는 제16항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는 E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질을 제조하는 방법에 의해 제조되는 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단(proteolytic cleavage)에 의해 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질;\n계면활성제인 비-단백질성 안정화제; 및\n물; 을 \n포함하는 액상 약제학적 조성물로,\n상기 액상 약제학적 조성물은 단백질성 안정화제를 포함하지 않고; 그리고 \n상기 액상 약제학적 조성물은 BoNT/E1 단백질 100 ng 당 트립신 10 pg 미만을 포함하는 것을 특징으로 하는 액상 약제학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, 상기 액상 약제학적 조성물은:\n염화나트륨,\npH 5.5 내지 7.5를 유지시키기 위한 버퍼, 및\n이당(disaccharide);을 더 포함하고,\n상기 물은 멸균수인 것을 특징으로 하는 액상 약제학적 조성물.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는 E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질을 제조하는 방법에 의해 제조되는 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단에 의해서 얻을 수 있고, SEQ ID NO: 2의 잔기 420, 421 및 422를 포함하지 않는 것을 특징으로 하는 활성 이중-사슬 BoNT/E1 단백질.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 5,
+        "receipt_date": "20200629",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항 또는 제16항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는 E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질을 제조하는 방법에 의해 제조되는 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단에 의해 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질을 포함하는 조성물로, 상기 조성물은 BoNT/E1 단백질 100 ng 당 10 pg 미만의 트립신을 포함하는 것을 특징으로 하는 것인, 근육 이완제로 사용하기 위한 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항 또는 제16항에 따른 활성 이중-사슬 BoNT/E1 단백질, 또는 E. coli 발현 시스템에서 제1항 내지 제5항 중 어느 한 항에 따른 핵산을 발현시키는 단계를 포함하는 E. coli 숙주세포에서 가용성 단일-사슬 BoNT/E1 단백질을 제조하는 방법에 의해 제조되는 단일-사슬 BoNT/E1 단백질의 단백질 가수분해 절단(proteolytic cleavage)에 의해 얻을 수 있는 활성 이중-사슬 BoNT/E1 단백질;\n계면활성제인 비-단백질성 안정화제; 및\n물; 을 \n포함하는 액상 약제학적 조성물로,\n상기 액상 약제학적 조성물은 단백질성 안정화제를 포함하지 않고; 그리고 \n상기 액상 약제학적 조성물은 BoNT/E1 단백질 100 ng 당 트립신 10 pg 미만을 포함하는 것을 특징으로 하는 것인, 근육 이완제로 사용하기 위한 액상 약제학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        ]
+      },
+      {
+        "version": 6,
+        "receipt_date": "20200915",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "인접 뉴클레오티드(contiguous nucleotides)의 서열을 포함하는 핵산으로서, 상기 인접 뉴클레오티드의 서열은 SEQ ID NO: 1의 핵산 서열을 갖고,\n상기 인접 뉴클레오티드의 서열은 단일-사슬 BoNT/E1 단백질을 암호화하는 것을 특징으로 하는 핵산.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 단일-사슬 BoNT/E1 단백질은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열을 갖는 것을 특징으로 하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "가용성 이중-사슬 BoNT/E1 단백질의 제조 방법으로, 상기 방법은:\n인접 아미노산의 서열을 포함하는 가용성 단일-사슬 BoNT/E1 단백질을 제공하는 단계를 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 아미노산 서열을 가지고,\n상기 BoNT/E1 단백질과 트립신은 용매(solution)에서 접촉(contacting)하는 단계를 포함하고,\n소수성의 분리 표면에 가용성 BoNT/E1 단백질 및 트립신을 함유하는 상기 용매를 접촉시킴으로써 상기 트립신으로부터 상기 가용성 BoNT/E1 단백질을 분리하는 단계를 포함하고, 상기 가용성 BoNT/E1 단백질은 우선적으로 상기 소수성의 분리 표면에 결합하는 것을 특징으로 하는 가용성 이중-사슬 BoNT/E1 단백질의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 1-419의 아미노산 서열을 갖고;\n제2 사슬은 인접 아미노산의 서열을 포함하고, 상기 인접 아미노산의 서열은 SEQ ID NO: 2의 위치 423-1252의 아미노산 서열을 갖으며;\n상기 제1 사슬 및 상기 제2 사슬은 상기 제1 사슬상의 시스테인 412와 상기 제2 사슬상의 시스테인 426 사이에 이황화 결합에 의해서 함께 결합되고;\n상기 인접 아미노산의 서열은 다음 아미노산 중 하나 이상을 포함한다는 단서를 갖고(상기 아미노산 위치 번호는 상기 BoNT/E1 단백질의 N-말단 아미노산 잔기에서 시작하고 그리고 C-말단 아미노산 잔기로 끝남);\n위치 177에서 글리신\n위치 198에서 세린\n위치 340에서 알라닌\n위치 773에서 류신\n위치 963에서 류신\n위치 964에서 글루타민\n위치 967에서 알라닌\n위치 1195에서 아스파라긴,\n상기 인접 아미노산의 서열은 SEQ ID NO: 2의 잔기 420, 421 및 422를 포함하지 않는 것을 특징으로 하는 활성 이중-사슬 BoNT/E1 단백질.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 22,
+      "after_claim_count": 4,
+      "total_versions": 6
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020207026658"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2014.05.08",
+      "internationOpenNumber": "WO2014068317",
+      "internationalApplicationDate": "2013.10.31",
+      "internationalApplicationNumber": "PCT/GB2013/052845"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "영국 오엑스** *알와이 옥스퍼드셔 애빙던 밀튼 파크 파크 드라이브 ***",
+        "code": "520110003137",
+        "country": "영국",
+        "engName": "IPSEN BIOINNOVATION LIMITED",
+        "name": "입센 바이오이노베이션 리미티드"
+      },
+      {
+        "address": "영국, 렉스햄 엘엘(LL)** *UF, 렉스햄 인더스트리얼 에스테이트,에쉬 로드",
+        "code": "520000354720",
+        "country": "영국",
+        "engName": "Ipsen Biopharm Limited",
+        "name": "입센 바이오팜 리미티드"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "영국, 애빙던 옥스포드셔 오엑스** *와...",
+        "code": "",
+        "country": "영국",
+        "engName": "COSSINS, Aimee",
+        "name": "코신스, 에이미"
+      },
+      {
+        "address": "영국, 애빙던 옥스포드셔 오엑스** *와...",
+        "code": "",
+        "country": "영국",
+        "engName": "BEARD, Matthew",
+        "name": "비어드, 매튜"
+      },
+      {
+        "address": "영국, 애쉬 로드, 렉섬 엘엘...",
+        "code": "",
+        "country": "영국",
+        "engName": "PHILIP, Marks",
+        "name": "필립, 막스"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "920000000962",
+        "country": "대한민국",
+        "engName": "Lee Sang Young",
+        "name": "이상영"
+      },
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980003619",
+        "country": "대한민국",
+        "engName": "YANG, Young June",
+        "name": "양영준"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "영국",
+      "priorityApplicationDate": "2012.10.31",
+      "priorityApplicationNumber": "1219602.8"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "JP2008505961 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "JP2009543558 A",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Translation of Amendment made during International Phase] Submission of Document",
+        "documentName": "[국제단계보정서 번역문]서류제출서",
+        "receiptDate": "2015.04.20",
+        "receiptNumber": "1-1-2015-0382282-27"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2015.04.20",
+        "receiptNumber": "1-1-2015-0380313-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2015.05.18",
+        "receiptNumber": "1-1-2015-0471970-97"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2015.06.01",
+        "receiptNumber": "1-1-2015-0523388-87"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2015.06.08",
+        "receiptNumber": "1-5-2015-0094620-27"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2015.07.07",
+        "receiptNumber": "1-1-2015-0655125-04"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2015.08.10",
+        "receiptNumber": "1-1-2015-0770212-98"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2015.08.10",
+        "receiptNumber": "1-1-2015-0771901-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2015.09.25",
+        "receiptNumber": "4-1-2015-5129429-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2017.01.20",
+        "receiptNumber": "1-1-2017-0069906-80"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2017.05.16",
+        "receiptNumber": "4-1-2017-5073314-97"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2018.10.31",
+        "receiptNumber": "1-1-2018-1076526-66"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Resignation of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인사임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2019.07.11",
+        "receiptNumber": "1-1-2019-5019232-17"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2019.11.21",
+        "receiptNumber": "9-5-2019-0843380-24"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2020.01.21",
+        "receiptNumber": "1-1-2020-0070828-34"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2020.01.21",
+        "receiptNumber": "1-1-2020-0070749-25"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Representative for Transmittal of Document] Report on Agent (Representative)",
+        "documentName": "[서류송달대표자선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2020.01.21",
+        "receiptNumber": "1-1-2020-0070764-11"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.01.21",
+        "receiptNumber": "1-1-2020-0070801-13"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2020.05.28",
+        "receiptNumber": "9-5-2020-0369028-06"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2020.06.29",
+        "receiptNumber": "1-1-2020-0669910-63"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.06.29",
+        "receiptNumber": "1-1-2020-0669939-86"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.07.15",
+        "receiptNumber": "9-5-2020-0481481-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.09.15",
+        "receiptNumber": "1-1-2020-0978750-13"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.09.15",
+        "receiptNumber": "1-1-2020-0978737-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2020.09.15",
+        "receiptNumber": "1-1-2020-0978720-54"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2020.11.19",
+        "receiptNumber": "9-5-2020-0802491-13"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020157010099.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00aa15f0ac646b05559931014b98630ecd7e754d12926287212b12d3acf451f4c7d4bfb6d2c991950c95948702bc2f20e78ca9834495560072",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf7c1ce390962eb41dfacf8d346ce5b1198c32039f4061d2612d424a519c8e4bc2414c160acd7885016eba71fd631b7be713b9661fd2679c2d"
+  },
+  "rndInfoArray": ""
+}

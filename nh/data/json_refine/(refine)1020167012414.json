@@ -1,0 +1,2706 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2014.10.15",
+      "applicationFlag": "",
+      "applicationNumber": "10-2016-7012414",
+      "claimCount": "45",
+      "examinerName": "박정민",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "펩타이드 키메라 항원 수용체 T 세포 스위치 및 이의 용도",
+      "inventionTitleEng": "PEPTIDIC CHIMERIC ANTIGEN RECEPTOR T CELL SWITCHES  AND USES THEREOF",
+      "openDate": "2016.06.02",
+      "openNumber": "10-2016-0062760",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2019.10.14",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.12.15",
+      "publicationNumber": "",
+      "registerDate": "2021.12.09",
+      "registerNumber": "10-2339240-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2016.05.11"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/32"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/00"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/68"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/68"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/68"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명에는 키메라 항원 수용체 효과기 세포(CAR-EC) 및 CAR-EC 스위치가 개시된다. 전환가능한 CAR-EC는 일반적으로 T 세포이다. 하나 이상의 키메라 항원 수용체는 CAR-EC 스위치 상에서 펩타이드 항원을 인식할 수 있다. CAR-EC 및 스위치는 병태의 치료가 필요한 대상체에서 해당 병태의 치료를 위해 사용될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020167012414",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20160511",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 62,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "키메라 항원 수용체-효과기 세포 스위치(chimeric antigen receptor-effector cell switch)로서,\na. 효과기 세포 상에서 키메라 항원 수용체에 결합하는 펩타이드 항원; 및\nb. 표적 세포 상에서 세포 표면 분자에 결합하는 표적화 모이어티를 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 펩타이드 항원은 천연 유래 펩타이드에 기반하거나 또는 천연 유래 펩타이드로부터 유래된, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 펩타이드 항원은 비-인간 펩타이드에 기반하거나 또는 비-인간 펩타이드로부터 유래된, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 펩타이드 항원은 진핵생물 펩타이드에 기반하거나 또는 진핵생물 펩타이드로부터 유래된, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 펩타이드 항원은 펩타이드에 기반하거나 또는 펩타이드로부터 유래되되, 상기 펩타이드는 효모에 의해 발현되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 펩타이드 항원은 효모 전사 인자 GCN4에 기반하거나 또는 효모 전사 인자 GCN4로부터 유래된, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 펩타이드 항원은 비-천연 유래 펩타이드를 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 펩타이드 항원은 합성 펩타이드 태그를 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 펩타이드 항원은 서열번호 2 내지 7로부터 선택된 서열에 기반하거나 또는 상기 선택된 서열로부터 유래되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 펩타이드 항원은 서열번호 2 내지 7로부터 선택된 펩타이드 서열에 대해 적어도 약 50% 상동성인 서열을 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 표적화 모이어티는 표적화 펩타이드를 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 표적화 모이어티는 표적화 항체 또는 항체 단편을 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 표적화 항체 또는 항체 단편은 면역글로불린, Fc 삭제 면역글로불린, 및 Fab, 및 이들의 단편으로 이루어진 군으로부터 선택되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 표적화 모이어티는 항-EGFR 항체, 항-Her2 항체, 항-EGFRvIII 항체, 항-CD33 항체, 항-CLL-1 항체, 항-CEA 항체, 항-CD19 항체, 항-CD22 항체, 항-BCMA 항체 및 항-CS1 항체 및 이들의 단편으로 이루어진 군으로부터 선택되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 표적화 항체 또는 항체 단편은 경쇄 및 중쇄쌍을 포함하되, 상기 경쇄 및 중쇄는 서열번호 8과 9; 서열번호 8과 10; 서열번호 11과 12; 서열번호 13과 14; 서열번호 15와 16; 서열번호 17과 18; 및 서열번호 19와 20으로 이루어진 군으로부터 선택된 핵산 서열에 기반하거나 또는 상기 선택된 핵산 서열로부터 유래된 핵산 서열에 의해 암호화된, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 표적화 항체 또는 항체 단편은 경쇄 및 중쇄쌍을 포함하되, 상기 경쇄 및 중쇄는 서열번호 21과 22; 서열번호 23과 24; 서열번호 25와 26; 서열번호 27과 28; 및 서열번호 27과 29로 이루어진 군으로부터 선택된 아미노산 서열쌍에 기반하거나 또는 상기 선택된 아미노산 서열쌍으로부터 유래된 아미노산 서열에 의해 암호화된, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 키메라 항원 수용체-효과기 세포 스위치는 경쇄 및 중쇄쌍을 포함하되, 상기 경쇄 및 중쇄는 서열번호 30과 29; 서열번호 36과 29; 서열번호 31과 28; 서열번호 27과 32; 서열번호 27과 33; 서열번호 27과 34; 및 서열번호 27과 35로 이루어진 군으로부터 선택된 아미노산 서열쌍에 기반하거나 또는 상기 선택된 아미노산 서열쌍으로부터 유래된 아미노산 서열에 의해 암호화된, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 항체 단편의 말단에 융합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 펩타이드 항원은 경쇄의 N 말단, 경쇄의 C 말단, 중쇄의 N 말단, Fab 중쇄의 C 말단, 및 불변 영역 중쇄의 C 말단으로 이루어진 군으로부터 선택된 상기 표적화 항체 또는 항체 단편의 영역에 융합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 펩타이드 항원은 상기 표적화 모이어티 내로 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 상기 표적화 모이어티는 표적화 항체 또는 항체 단편을 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, 상기 펩타이드 항원은 CH1 도메인, CH2 도메인, CH3 도메인, CL 도메인, VH 도메인, VL 도메인 및 힌지 영역으로부터 선택된 상기 표적화 항체 또는 항체 단편의 영역 내로 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, 상기 펩타이드 항원은 CH1 도메인, CH2 도메인, CH3 도메인, CL 도메인, VH 도메인, VL 도메인, 중쇄, 경쇄 및 힌지 영역으로부터 선택된 상기 표적화 항체 또는 항체 단편의 두 영역 사이에 접합되되, 상기 두 영역은 인접해 있는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 항체 단편의 루프 내로 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 항체 단편의 불변 도메인의 루프 내로 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 항체 단편의 상기 힌지 영역과 중쇄 불변 도메인 사이에 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제26항 중 어느 한 항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 항체 단편의 하나 이상의 아미노산을 대체하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제26항 중 어느 한 항에 있어서, 상기 펩타이드 항원은 아미노산을 대체하는 일 없이 상기 표적화 항체 또는 항체 단편 내로 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 펩타이드 항원과 상기 표적화 모이어티를 연결하는 링커를 더 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 상기 링커는 상기 펩타이드 항원과 상기 표적화 모이어티를 연결하는 펩타이드이되, 상기 표적화 모이어티는 표적화 폴리펩타이드를 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 상기 링커는 약 1개 내지 약 20개의 아미노산을 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 상기 링커는 서열번호 38 내지 42로부터 선택된 서열에 기반하거나 또는 상기 선택된 서열로부터 유래된 서열을 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 펩타이드 항원은 효모 전사 인자 GCN4 또는 이의 상동체를 포함하고, 상기 표적화 모이어티는 항-Her2 항체, 항-BCMA 항체, 항-CD19 항체 및 항-CEA 항체 및 이들의 단편으로 이루어진 군으로부터 선택되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 표적 세포는 암세포인, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포 표면 분자는 종양 관련 항원인, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포 표면 분자는 분화 단백질의 클러스터, 수용체, 내재막 단백질(integral membrane protein) 및 당단백질로 이루어진 군으로부터 선택되는, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 키메라 항원 수용체-효과기 세포 스위치의 동질성이 적어도 약 90%인, 키메라 항원 수용체-효과기 세포 스위치.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약제학적 조성물로서,\na. i. 효과기 세포 상에서 키메라 항원 수용체에 결합하는 펩타이드 항원; 및\n ii. 표적 상에서 세포 표면 분자에 결합하는 표적화 모이어티를 포함하는 키메라 항원 수용체-효과기 세포 스위치; 및\nb. 약제학적으로 허용가능한 염, 부형제 및/또는 비히클을 포함하는, 약제학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "키트로서,\na. i. 효과기 세포 상에서 키메라 항원 수용체에 결합하는 펩타이드 항원; 및\n ii. 표적 세포 상에서 세포 표면 분자에 결합하는 표적화 모이어티를 포함하는 키메라 항원 수용체-효과기 세포 스위치; 및\nb. 상기 키메라 항원 수용체-효과기 세포 스위치의 상기 펩타이드 항원에 결합하는 키메라 항원 수용체를 포함하는 키메라 항원 수용체-효과기 세포를 포함하는, 키트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39항에 있어서, 상기 표적화 모이어티는 표적화 펩타이드를 포함하는, 키트.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39항에 있어서, 상기 표적화 모이어티는 표적화 항체 또는 항체 단편을 포함하는, 키트.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39항에 있어서, 상기 펩타이드 항원은 상기 표적화 모이어티 내에 접합되는, 키트.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39항에 있어서, 제1 키메라 항원 수용체-효과기 세포 스위치 및 제2 키메라 항원 수용체-효과기 세포 스위치를 포함하되, 상기 제1 키메라 항원 수용체-효과기 세포 스위치는 제1 펩타이드 항원 및 제1 표적화 모이어티를 포함하고, 상기 제2 키메라 항원 수용체-효과기 세포 스위치는 제2 펩타이드 항원 및 제2 표적화 모이어티를 포함하는, 키트.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항에 있어서, 상기 제1 펩타이드 항원과 상기 제2 펩타이드 항원은 동일한, 키트.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제44항에 있어서, 상기 제1 표적화 모이어티는 제1 표적 세포 상에서 제1 세포 표면 분자에 결합하고, 상기 제2 표적화 모이어티는 제2 표적 세포 상에서 제2 세포 표면 분자에 결합하되, 상기 제1 세포 표면 분자와 상기 제2 세포 표면 분자는 상이한, 키트.",
+          "refers_to": [
+            44
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제39항에 있어서, 상기 효과기 세포는 T 세포, 효과기 B 세포, 자연 살해 세포, 대식세포, 및 이들의 전구체로부터 선택되는 키트.",
+          "refers_to": [
+            39
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제46항에 있어서, 상기 효과기 세포는 나이브(naive) T 세포, 기억 줄기 세포 T 세포, 중추 기억 T 세포, 효과기 기억 T 세포, 헬퍼 T 세포, CD4+ T 세포, CD8+ T 세포, CD8/CD4+ T 세포, αβ T 세포, γδ T 세포, 세포독성 T 세포, 자연 살해 T 세포, 자연 살해 세포, 및 대식세포로부터 선택되는, 키트.",
+          "refers_to": [
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "키메라 항원 수용체-효과기 세포 스위치의 펩타이드 항원에 결합하는 키메라 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제48항에 있어서, 상기 키메라 항원 수용체는 키메라 항원 수용체-효과기 세포 스위치의 상기 펩타이드 항원에 결합하는 항체 또는 항체 단편을 포함하는, 키메라 항원 수용체.",
+          "refers_to": [
+            48
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제49항에 있어서, 상기 항체 또는 항체 단편은 진핵생물 항원에 결합하는, 키메라 항원 수용체.",
+          "refers_to": [
+            49
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제49항에 있어서, 상기 항체 단편 또는 항체 단편은 비-천연 유래 펩타이드에 결합하는, 키메라 항원 수용체.",
+          "refers_to": [
+            49
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제49항에 있어서, 상기 항체 단편은 scFv인, 키메라 항원 수용체.",
+          "refers_to": [
+            49
+          ]
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제49항에 있어서, 상기 항체 또는 항체 단편은 진핵생물 항원에 결합하는, 키메라 항원 수용체.",
+          "refers_to": [
+            49
+          ]
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제49항에 있어서, 상기 키메라 항원 수용체는 서열번호 1에 기반하거나 또는 서열번호 1로부터 유래된 폴리뉴클레오타이드에 의해 암호화된, 키메라 항원 수용체.",
+          "refers_to": [
+            49
+          ]
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "키메라 항원 수용체를 포함하는 효과기 세포로서, 상기 키메라 항원 수용체는 키메라 항원 수용체-효과기 세포 스위치의 펩타이드 항원에 결합하는, 효과기 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제55항에 있어서, 상기 효과기 세포는 T 세포인, 효과기 세포.",
+          "refers_to": [
+            55
+          ]
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제55항에 있어서, 서열번호 1에 기반하거나 또는 서열번호 1로부터 유래된 하나 이상의 폴리뉴클레오타이드를 포함하는, 효과기 세포.",
+          "refers_to": [
+            55
+          ]
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "키메라 항원 수용체-효과기 세포 스위치를 암호화하는 서열을 갖는 폴리뉴클레오타이드를 포함하는 벡터로서, 상기 키메라 항원 수용체-효과기 세포 스위치는 펩타이드 항원 및 표적화 모이어티를 포함하되, 상기 표적화 모이어티는 펩타이드를 포함하고, 그리고 표적 세포 상에서 세포 표면 분자에 결합하는, 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "벡터로서, 표적화 항체 또는 항체 단편의 중쇄를 암호화하는 제1 서열을 갖는 제1 폴리뉴클레오타이드; 표적화 항체 또는 항체 단편의 경쇄를 암호화하는 제2 서열을 갖는 제2 폴리뉴클레오타이드; 및 펩타이드 항원을 암호화하는 제3 서열을 갖는 제3 폴리뉴클레오타이드를 포함하되, 상기 벡터의 발현이 키메라 항원 수용체- 효과기 세포 스위치를 생성하는, 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제59항에 있어서, 상기 제3 서열은 상기 제1 서열 및 상기 제2 서열로부터 선택된 서열에 인접하는, 벡터.",
+          "refers_to": [
+            59
+          ]
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제59항에 있어서, 상기 제3 서열은 상기 제1 서열 및 상기 제2 서열로부터 선택된 서열 내에 있는, 벡터.",
+          "refers_to": [
+            59
+          ]
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "키메라 항원 수용체-효과기 세포 스위치의 생성 방법으로서, 하기 하나 이상의 폴리뉴클레오타이드 벡터:\n a. 표적화 항체 또는 항체 단편의 중쇄를 암호화하는 제1 서열;\n b. 표적화 항체 또는 항체 단편의 경쇄를 암호화하는 제2 서열; 및\n c. 펩타이드 항원을 암호화하는 제3 서열로부터 발현시키는 단계를 포함하되,\n상기 벡터의 발현이 키메라 항원 수용체- 효과기 세포 스위치를 생성하는, 키메라 항원 수용체-효과기 세포 스위치의 생성 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20210409",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 62,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "피검체에서 암을 치료하기 위한 CAR-EC(chimeric antigen receptor-effector cell) 플랫폼으로서,a.\ti. 효과기 세포 상에서 키메라 항원 수용체에 결합하고, 또 이를 활성화시키는 효모 전사 인자 GCN4 펩타이드를 포함하는 제1 펩타이드 항원이되, 상기 GCN4 펩타이드는 적어도 12개 아미노산인 서열번호 2의 일부를 포함하는, 제1 펩타이드 항원; 및\tii. 표적 세포 상에서 세포 표면 분자와 결합하는 제1 표적화 모이어티이되, 여기서 상기 제1 표적화 모이어티는 항체, 또는 항체의 항원 결합 단편을 포함하는, 제1 표적화 모이어티를 포함하는 제1 키메라 항원 수용체-효과기 세포(CAR-EC) 스위치로서,여기서 상기 제1 펩타이드 항원은 상기 제1 표적화 모이어티에 접합되거나, 또는 융합되는, 제1 CAR-EC 스위치, 및b. 상기 제1 키메라 항원 수용체-효과기 세포 스위치의 제1 펩타이드 항원에 결합하는 항-GCN4 키메라 항원 수용체를 포함하는 제1 키메라 항원 수용체-효과기 세포를 포함하되,상기 효과기 세포는 T 세포인,피검체에서 암을 치료하기 위한 CAR-EC 플랫폼.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1 CAR-EC 스위치는 2개의 펩타이드 항원을 포함하는, CAR-EC 플랫폼.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체 또는 상기 항체의 항원 결합 단편은 면역글로불린, Fc 삭제 면역글로불린, Fab, 및 이들의 항원 결합 단편으로 이루어진 군으로부터 선택되는, CAR-EC 플랫폼.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1 표적화 모이어티는 항-EGFR 항체, 항-Her2 항체, 항-EGFRvIII 항체, 항-CD33 항체, 항-CLL-1 항체, 항-CEA 항체, 항-CD19 항체, 항-CD22 항체, 항-BCMA 항체, 항-CS1 항체, 및 이들의 항원 결합 단편으로 이루어진 군으로부터 선택되는, CAR-EC 플랫폼.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 상기 제1 표적화 모이어티는 항-CD19 항체 또는 이의 항원 결합 단편인, CAR-EC 플랫폼.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 8 및 9; 서열번호 8 및 10; 서열번호 11 및 12; 서열번호 13 및 14; 서열번호 15 및 16; 서열번호 17 및 18; 및 서열번호 19 및 20으로 이루어진 군으로부터 선택된 핵산 서열 쌍을 포함하는 핵산 서열에 의해 암호화되는, CAR-EC 플랫폼.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 21 및 22; 서열번호 23 및 24; 서열번호 25 및 26; 서열번호 27 및 28; 서열번호 27 및 29; 서열번호 30 및 29; 서열번호 36 및 29; 서열번호 31 및 28; 서열번호 27 및 32; 서열번호 27 및 33; 서열번호 27 및 34; 및 서열번호 27 및 35로 이루어진 군으로부터 선택된 아미노산 서열 쌍을 포함하는, CAR-EC 플랫폼.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1 펩타이드 항원은 (i) 경쇄의 N 말단; (ii) 중쇄의 N 말단; (iii) IgG의 VL 도메인의 N 말단; (iv) IgG의 VH 도메인의 N 말단; (vi) Fab의 VL 도메인의 N 말단; 및 (vii) Fab의 VH 도메인의 N 말단으로 이루어진 군으로부터 선택된 제1 표적화 항체 또는 상기 항체의 항원 결합 단편의 영역에 융합되는, CAR-EC 플랫폼.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, 상기 제1 펩타이드 항원은 (i) 경쇄의 N 말단; (ii) 중쇄의 N 말단; (iii) IgG의 VL 도메인의 N 말단; (iv) IgG의 VH 도메인의 N 말단; (v) Fab의 VL 도메인의 N 말단; 및 (vi) Fab의 VH 도메인의 N 말단으로 이루어진 군으로부터 선택된 제1 표적화 항체 또는 상기 항체의 항원 결합 단편의 영역에 융합되는, CAR-EC 플랫폼.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1 CAR-EC 스위치는 상기 제1 펩타이드 항원 및 상기 제1 표적화 모이어티를 연결하는 링커를 포함하는, CAR-EC 플랫폼.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, (i) 상기 링커가 1 내지 20개의 아미노산을 포함하거나; (ii) 상기 링커가 서열번호 40 내지 44로부터 선택된 서열을 포함하거나; 또는 (iii) 상기 링커가 1 내지 20개의 아미노산을 포함하고, 그리고 서열번호 40 내지 44로부터 선택된 서열을 포함하는, CAR-EC 플랫폼.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 암은 백혈병, 림프종, 유방암, 췌장암, 폐암, 신경교종, 및 교모세포종으로 구성된 군으로부터 선택되는, CAR-EC 플랫폼.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 세포 표면 분자는 종양 관련 항원; 분화 단백질 클러스터; 수용체; 내재성 막단백질; 및 당단백질로 이루어진 군으로부터 선택되는, CAR-EC 플랫폼.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "피검체에서 암을 치료하기 위한 CAR-EC(chimeric antigen receptor-effector cell) 플랫폼으로서,a.\ti. 효과기 세포 상에서 키메라 항원 수용체에 결합하고, 또 이를 활성화시키며, (i) 서열번호 3을 포함하거나; 또는 (ii) 서열번호 2의 적어도 12개 아미노산을 포함하는, 효모 전사 인자 GCN4 펩타이드를 포함하는 제1 펩타이드 항원; 및\tii. 표적 세포 상에서 세포 표면 분자에 결합하는 제1 표적화 모이어티(여기서 상기 제1 표적화 모이어티는 항체, 또는 항체의 항원 결합 단편을 포함함)를 포함하는, 제1 키메라 항원 수용체-효과기 세포(CAR-EC) 스위치로서,여기서 상기 제1 펩타이드 항원은 상기 제1 표적화 모이어티에 접합되거나, 또는 융합되는, 제1 CAR-EC 스위치, 및b. 상기 제1 키메라 항원 수용체-효과기 세포 스위치의 제1 펩타이드 항원에 결합하는 항-GCN4 키메라 항원 수용체를 포함하는 제1 키메라 항원 수용체-효과기 세포를 포함하되,상기 효과기 세포는 T 세포인, CAR-EC 플랫폼.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 상기 제1 표적화 모이어티는 항-EGFR 항체, 항-Her2 항체, 항-EGFRvIII 항체, 항-CD33 항체, 항-CLL-1 항체, 항-CEA 항체, 항-CD19 항체, 항-CD22 항체, 항-BCMA 항체, 항-CS1 항체, 및 이들의 항원 결합 단편으로 구성된 군으로부터 선택된 표적화 항체 또는 항체의 항원 결합 단편을 포함하는, CAR-EC 플랫폼.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 하나 이상의 제2 CAR-EC 스위치를 추가로 포함하되,각각의 제2 CAR-EC 스위치는,a. 효과기 세포 상에서 키메라 항원 수용체와 결합하는 펩타이드 항원; 및b. 표적 세포 상에서 표적 항원 분자와 결합하는 제2 표적화 모이어티를 포함하고;여기서 상기 제2 표적화 모이어티는 항체, 또는 항체의 항원 결합 단편을 포함하며;각각의 제2 CAR-EC 스위치의 상기 제2 표적화 모이어티는 상기 제1 CAR-EC 스위치에 포함된 상기 제1 표적화 모이어티와 다르고;상기 제2 CAR-EC 스위치에 포함된 상기 펩타이드 항원은,(i) 상기 제1 CAR-EC 스위치에 포함된 상기 제1 펩타이드 항원과 동일하거나,(ii) 상기 제1 CAR-EC 스위치에 포함된 상기 제1 펩타이드 항원과 상이한 제2 펩타이드 항원이고;단, 상기 제2 CAR-EC 스위치가 제2 펩타이드 항원을 포함하면, 상기 플랫폼은, 상기 제2 CAR-EC 스위치의 상기 제2 펩타이드 항원에 결합하는 키메라 항원 수용체를 포함하는 T 세포인, 제2 키메라 항원 수용체-효과기 세포를 추가로 포함하는, CAR-EC 플랫폼.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서,(i) 상기 제1 표적화 모이어티는 항-CD20 항체 또는 이의 항원 결합 부분을 포함하고, 그리고 상기 제2 표적화 모이어티는 항-CD19 항체 또는 이의 항원 결합 부분을 포함하거나; 또는(ii) 상기 제1 표적화 모이어티는 항-CD19 항체 또는 이의 항원 결합 부분을 포함하고, 그리고 상기 제2 표적화 모이어티는 항-CD20 항체 또는 이의 항원 결합 부분을 포함하는, CAR-EC 플랫폼.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, 상기 제2 CAR-EC 스위치는 상기 제1 CAR-EC 스위치 다음에 상기 피검체에게 투여되는, CAR-EC 플랫폼.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 제2 CAR-EC 스위치는, 피검체가 상기 제1 표적화 모이어티가 결합하는 상기 세포 표면 분자의 변형된 발현을 갖는 것으로 진단된 후, 상기 피검체에 투여되는, CAR-EC 플랫폼.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, (i) 상기 제1 표적화 모이어티는 항-CD20 항체 또는 이의 항원 결합 부분을 포함하고, 그리고 상기 제2 표적화 모이어티는 항-CD19 항체 또는 이의 항원 결합 부분을 포함하거나;(ii) 상기 제1 표적화 모이어티는 항-CD19 항체 또는 이의 항원 결합 부분을 포함하고, 그리고 상기 제2 표적화 모이어티는 항-CD20 항체 또는 이의 항원 결합 부분을 포함하는, CAR-EC 플랫폼.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "a. \ti. 효과기 세포 상에서 항-GCN4 키메라 항원 수용체에 결합하고, 또 이를 활성화시키는 효모 전사 인자 GCN4 펩타이드를 포함하는 펩타이드 항원이되, 상기 GCN4 펩타이드는 적어도 12개 아미노산인 서열번호 2의 일부를 포함하는, 펩타이드 항원; 및\tii. 표적 세포 상에서 세포 표면 분자와 결합하는 표적화 모이어티를 포함하는, 키메라 항원 수용체-효과기 세포 스위치, 및b. 상기 키메라 항원 수용체-효과기 세포 스위치의 상기 펩타이드 항원에 결합하는 항-GCN4 키메라 항원 수용체를 포함하는 키메라 항원 수용체-효과기 세포를 포함하는, 키트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 효과기 세포 상에서 상기 키메라 항원 수용체에 대한 상기 키메라 항원 수용체-효과기 세포 스위치의 결합은 상기 키메라 항원 수용체-효과기 세포 스위치에 결합된 상기 표적 세포에도 세포독성인 면역 반응을 유도하는, 키트.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 표적화 모이어티는 표적화 펩타이드를 포함하는, 키트.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 표적화 모이어티는 표적화 항체 또는 항체의 항원 결합 단편을 포함하는, 키트.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 면역글로불린, Fc 삭제 면역글로불린, Fab, 및 이들의 항원 결합 단편으로 이루어진 군에서 선택되는, 키트.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 표적화 모이어티는 항-EGFR 항체, 항-Her2 항체, 항-EGFRvIII 항체, 항-CD33 항체, 항-CLL-1 항체, 항-CEA 항체, 항-CD19 항체, 항-CD22 항체, 항-BCMA 항체, 항-CS1 항체, 및 이들의 항원 결합 단편으로 이루어진 군으로부터 선택되는, 키트.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 8 및 9; 서열번호 8 및 10; 서열번호 11 및 12; 서열번호 13 및 14; 서열번호 15 및 16; 서열번호 17 및 18; 및 서열번호 19 및 20으로 이루어진 군에서 선택된 핵산 서열 쌍을 포함하는 핵산 서열에 의해 암호화되는, 키트.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 21 및 22; 서열번호 23 및 24; 서열번호 25 및 26; 서열번호 27 및 28; 서열번호 27 및 29로 이루어진 군으로부터 선택된 아미노산 서열 쌍을 포함하는, 키트.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 30 및 29; 서열번호 36 및 29; 서열번호 31 및 28; 서열번호 27 및 32; 서열번호 27 및 33; 서열번호 27 및 34; 및 서열번호 27 및 35로 이루어진 군으로부터 선택된 아미노산 서열 쌍을 포함하는, 키트.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 상기 항체의 항원 결합 단편의 말단에 융합되는, 키트.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 펩타이드 항원은 경쇄의 N 말단, 경쇄의 C 말단, 중쇄의 N 말단, Fab 중쇄의 C 말단, 및 중쇄 불변 영역의 C 말단으로 이루어진 군으로부터 선택된, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편의 영역에 융합되는, 키트.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 펩타이드 항원 및 상기 표적화 모이어티를 연결하는 링커를 추가로 포함하는, 키트.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제32항에 있어서, 상기 링커가 1 내지 20개의 아미노산을 포함하는, 키트.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제32항에 있어서, 상기 링커가 서열번호 38 내지 42로부터 선택된 서열을 포함하는, 키트.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 표적화 모이어티는 항-Her2 항체, 항-BCMA 항체, 항-CD19 항체, 항-CEA 항체, 및 이들의 항원 결합 단편으로 이루어진 군으로부터 선택되는, 키트.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 표적 세포가 암 세포인, 키트.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 세포 표면 분자가 종양 관련 항원인, 키트.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 세포 표면 분자가 분화 단백질의 클러스터, 수용체, 내재성 막단백질, 및 당단백질로 이루어진 군으로부터 선택되는, 키트.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 8 및 9; 서열번호 8 및 10으로 이루어진 군으로부터 선택된 핵산 서열 쌍을 포함하는 핵산 서열에 의해 암호화되는, 키트.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 27 및 28; 및 서열번호 27 및 29로 이루어진 군으로부터 선택된 아미노산 서열 쌍을 포함하는, 키트.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 키메라 항원 수용체-효과기 세포 스위치는 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 36 및 29의 아미노산 서열을 포함하는, 키트.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 효모 전사 인자 GCN4 펩타이드는 서열번호 3과 적어도 85% 동일한 서열을 포함하는, 키트.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 효모 전사 인자 GCN4 펩타이드는 효과기 세포 상에서 상기 항-GCN4 키메라 항원 수용체에 결합하고, 또 이를 활성화시키며, 상기 GCN4 펩타이드는 (i) 적어도 12개의 아미노산이고, (ii) 서열번호 3과 적어도 85% 동일하며; 그리고 (iii) 이합체화하지 않은, 서열번호 2의 일부를 포함하는, 키트.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항에 있어서, 상기 표적화 모이어티는 표적화 항체 또는 항체의 항원 결합 단편을 포함하는, 키트.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제44항에 있어서, 상기 표적화 모이어티는 항-EGFR 항체, 항-Her2 항체, 항-EGFRvIII 항체, 항-CD33 항체, 항-CLL-1 항체, 항-CEA 항체, 항-CD19 항체, 항-CD22 항체, 항-BCMA 항체, 항-CS1 항체, 및 이들의 항원 결합 단편으로 이루어진 군으로부터 선택되는, 키트.",
+          "refers_to": [
+            44
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 54,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 55,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 56,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 57,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 58,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 59,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 60,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 61,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 62,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20160511",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 62,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "키메라 항원 수용체-효과기 세포 스위치(chimeric antigen receptor-effector cell switch)로서,\na. 효과기 세포 상에서 키메라 항원 수용체에 결합하는 펩타이드 항원; 및\nb. 표적 세포 상에서 세포 표면 분자에 결합하는 표적화 모이어티를 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 펩타이드 항원은 천연 유래 펩타이드에 기반하거나 또는 천연 유래 펩타이드로부터 유래된, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 펩타이드 항원은 비-인간 펩타이드에 기반하거나 또는 비-인간 펩타이드로부터 유래된, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 펩타이드 항원은 진핵생물 펩타이드에 기반하거나 또는 진핵생물 펩타이드로부터 유래된, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 펩타이드 항원은 펩타이드에 기반하거나 또는 펩타이드로부터 유래되되, 상기 펩타이드는 효모에 의해 발현되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 펩타이드 항원은 효모 전사 인자 GCN4에 기반하거나 또는 효모 전사 인자 GCN4로부터 유래된, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 펩타이드 항원은 비-천연 유래 펩타이드를 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 펩타이드 항원은 합성 펩타이드 태그를 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 펩타이드 항원은 서열번호 2 내지 7로부터 선택된 서열에 기반하거나 또는 상기 선택된 서열로부터 유래되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 펩타이드 항원은 서열번호 2 내지 7로부터 선택된 펩타이드 서열에 대해 적어도 약 50% 상동성인 서열을 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 표적화 모이어티는 표적화 펩타이드를 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 표적화 모이어티는 표적화 항체 또는 항체 단편을 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 표적화 항체 또는 항체 단편은 면역글로불린, Fc 삭제 면역글로불린, 및 Fab, 및 이들의 단편으로 이루어진 군으로부터 선택되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 표적화 모이어티는 항-EGFR 항체, 항-Her2 항체, 항-EGFRvIII 항체, 항-CD33 항체, 항-CLL-1 항체, 항-CEA 항체, 항-CD19 항체, 항-CD22 항체, 항-BCMA 항체 및 항-CS1 항체 및 이들의 단편으로 이루어진 군으로부터 선택되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 표적화 항체 또는 항체 단편은 경쇄 및 중쇄쌍을 포함하되, 상기 경쇄 및 중쇄는 서열번호 8과 9; 서열번호 8과 10; 서열번호 11과 12; 서열번호 13과 14; 서열번호 15와 16; 서열번호 17과 18; 및 서열번호 19와 20으로 이루어진 군으로부터 선택된 핵산 서열에 기반하거나 또는 상기 선택된 핵산 서열로부터 유래된 핵산 서열에 의해 암호화된, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 표적화 항체 또는 항체 단편은 경쇄 및 중쇄쌍을 포함하되, 상기 경쇄 및 중쇄는 서열번호 21과 22; 서열번호 23과 24; 서열번호 25와 26; 서열번호 27과 28; 및 서열번호 27과 29로 이루어진 군으로부터 선택된 아미노산 서열쌍에 기반하거나 또는 상기 선택된 아미노산 서열쌍으로부터 유래된 아미노산 서열에 의해 암호화된, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 키메라 항원 수용체-효과기 세포 스위치는 경쇄 및 중쇄쌍을 포함하되, 상기 경쇄 및 중쇄는 서열번호 30과 29; 서열번호 36과 29; 서열번호 31과 28; 서열번호 27과 32; 서열번호 27과 33; 서열번호 27과 34; 및 서열번호 27과 35로 이루어진 군으로부터 선택된 아미노산 서열쌍에 기반하거나 또는 상기 선택된 아미노산 서열쌍으로부터 유래된 아미노산 서열에 의해 암호화된, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 항체 단편의 말단에 융합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 펩타이드 항원은 경쇄의 N 말단, 경쇄의 C 말단, 중쇄의 N 말단, Fab 중쇄의 C 말단, 및 불변 영역 중쇄의 C 말단으로 이루어진 군으로부터 선택된 상기 표적화 항체 또는 항체 단편의 영역에 융합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 펩타이드 항원은 상기 표적화 모이어티 내로 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 상기 표적화 모이어티는 표적화 항체 또는 항체 단편을 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 상기 펩타이드 항원은 CH1 도메인, CH2 도메인, CH3 도메인, CL 도메인, VH 도메인, VL 도메인 및 힌지 영역으로부터 선택된 상기 표적화 항체 또는 항체 단편의 영역 내로 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 상기 펩타이드 항원은 CH1 도메인, CH2 도메인, CH3 도메인, CL 도메인, VH 도메인, VL 도메인, 중쇄, 경쇄 및 힌지 영역으로부터 선택된 상기 표적화 항체 또는 항체 단편의 두 영역 사이에 접합되되, 상기 두 영역은 인접해 있는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 항체 단편의 루프 내로 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 항체 단편의 불변 도메인의 루프 내로 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 항체 단편의 상기 힌지 영역과 중쇄 불변 도메인 사이에 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제26항 중 어느 한 항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 항체 단편의 하나 이상의 아미노산을 대체하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제26항 중 어느 한 항에 있어서, 상기 펩타이드 항원은 아미노산을 대체하는 일 없이 상기 표적화 항체 또는 항체 단편 내로 접합되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 펩타이드 항원과 상기 표적화 모이어티를 연결하는 링커를 더 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 상기 링커는 상기 펩타이드 항원과 상기 표적화 모이어티를 연결하는 펩타이드이되, 상기 표적화 모이어티는 표적화 폴리펩타이드를 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 상기 링커는 약 1개 내지 약 20개의 아미노산을 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 상기 링커는 서열번호 38 내지 42로부터 선택된 서열에 기반하거나 또는 상기 선택된 서열로부터 유래된 서열을 포함하는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 펩타이드 항원은 효모 전사 인자 GCN4 또는 이의 상동체를 포함하고, 상기 표적화 모이어티는 항-Her2 항체, 항-BCMA 항체, 항-CD19 항체 및 항-CEA 항체 및 이들의 단편으로 이루어진 군으로부터 선택되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 표적 세포는 암세포인, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포 표면 분자는 종양 관련 항원인, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포 표면 분자는 분화 단백질의 클러스터, 수용체, 내재막 단백질(integral membrane protein) 및 당단백질로 이루어진 군으로부터 선택되는, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 키메라 항원 수용체-효과기 세포 스위치의 동질성이 적어도 약 90%인, 키메라 항원 수용체-효과기 세포 스위치.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약제학적 조성물로서,\na. i. 효과기 세포 상에서 키메라 항원 수용체에 결합하는 펩타이드 항원; 및\n ii. 표적 상에서 세포 표면 분자에 결합하는 표적화 모이어티를 포함하는 키메라 항원 수용체-효과기 세포 스위치; 및\nb. 약제학적으로 허용가능한 염, 부형제 및/또는 비히클을 포함하는, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "키트로서,\na. i. 효과기 세포 상에서 키메라 항원 수용체에 결합하는 펩타이드 항원; 및\n ii. 표적 세포 상에서 세포 표면 분자에 결합하는 표적화 모이어티를 포함하는 키메라 항원 수용체-효과기 세포 스위치; 및\nb. 상기 키메라 항원 수용체-효과기 세포 스위치의 상기 펩타이드 항원에 결합하는 키메라 항원 수용체를 포함하는 키메라 항원 수용체-효과기 세포를 포함하는, 키트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39항에 있어서, 상기 표적화 모이어티는 표적화 펩타이드를 포함하는, 키트.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39항에 있어서, 상기 표적화 모이어티는 표적화 항체 또는 항체 단편을 포함하는, 키트.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39항에 있어서, 상기 펩타이드 항원은 상기 표적화 모이어티 내에 접합되는, 키트.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39항에 있어서, 제1 키메라 항원 수용체-효과기 세포 스위치 및 제2 키메라 항원 수용체-효과기 세포 스위치를 포함하되, 상기 제1 키메라 항원 수용체-효과기 세포 스위치는 제1 펩타이드 항원 및 제1 표적화 모이어티를 포함하고, 상기 제2 키메라 항원 수용체-효과기 세포 스위치는 제2 펩타이드 항원 및 제2 표적화 모이어티를 포함하는, 키트.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항에 있어서, 상기 제1 펩타이드 항원과 상기 제2 펩타이드 항원은 동일한, 키트.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제44항에 있어서, 상기 제1 표적화 모이어티는 제1 표적 세포 상에서 제1 세포 표면 분자에 결합하고, 상기 제2 표적화 모이어티는 제2 표적 세포 상에서 제2 세포 표면 분자에 결합하되, 상기 제1 세포 표면 분자와 상기 제2 세포 표면 분자는 상이한, 키트.",
+            "refers_to": [
+              44
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제39항에 있어서, 상기 효과기 세포는 T 세포, 효과기 B 세포, 자연 살해 세포, 대식세포, 및 이들의 전구체로부터 선택되는 키트.",
+            "refers_to": [
+              39
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제46항에 있어서, 상기 효과기 세포는 나이브(naive) T 세포, 기억 줄기 세포 T 세포, 중추 기억 T 세포, 효과기 기억 T 세포, 헬퍼 T 세포, CD4+ T 세포, CD8+ T 세포, CD8/CD4+ T 세포, αβ T 세포, γδ T 세포, 세포독성 T 세포, 자연 살해 T 세포, 자연 살해 세포, 및 대식세포로부터 선택되는, 키트.",
+            "refers_to": [
+              46
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "키메라 항원 수용체-효과기 세포 스위치의 펩타이드 항원에 결합하는 키메라 항원 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제48항에 있어서, 상기 키메라 항원 수용체는 키메라 항원 수용체-효과기 세포 스위치의 상기 펩타이드 항원에 결합하는 항체 또는 항체 단편을 포함하는, 키메라 항원 수용체.",
+            "refers_to": [
+              48
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제49항에 있어서, 상기 항체 또는 항체 단편은 진핵생물 항원에 결합하는, 키메라 항원 수용체.",
+            "refers_to": [
+              49
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제49항에 있어서, 상기 항체 단편 또는 항체 단편은 비-천연 유래 펩타이드에 결합하는, 키메라 항원 수용체.",
+            "refers_to": [
+              49
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제49항에 있어서, 상기 항체 단편은 scFv인, 키메라 항원 수용체.",
+            "refers_to": [
+              49
+            ]
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제49항에 있어서, 상기 항체 또는 항체 단편은 진핵생물 항원에 결합하는, 키메라 항원 수용체.",
+            "refers_to": [
+              49
+            ]
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제49항에 있어서, 상기 키메라 항원 수용체는 서열번호 1에 기반하거나 또는 서열번호 1로부터 유래된 폴리뉴클레오타이드에 의해 암호화된, 키메라 항원 수용체.",
+            "refers_to": [
+              49
+            ]
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "키메라 항원 수용체를 포함하는 효과기 세포로서, 상기 키메라 항원 수용체는 키메라 항원 수용체-효과기 세포 스위치의 펩타이드 항원에 결합하는, 효과기 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제55항에 있어서, 상기 효과기 세포는 T 세포인, 효과기 세포.",
+            "refers_to": [
+              55
+            ]
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제55항에 있어서, 서열번호 1에 기반하거나 또는 서열번호 1로부터 유래된 하나 이상의 폴리뉴클레오타이드를 포함하는, 효과기 세포.",
+            "refers_to": [
+              55
+            ]
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "키메라 항원 수용체-효과기 세포 스위치를 암호화하는 서열을 갖는 폴리뉴클레오타이드를 포함하는 벡터로서, 상기 키메라 항원 수용체-효과기 세포 스위치는 펩타이드 항원 및 표적화 모이어티를 포함하되, 상기 표적화 모이어티는 펩타이드를 포함하고, 그리고 표적 세포 상에서 세포 표면 분자에 결합하는, 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "벡터로서, 표적화 항체 또는 항체 단편의 중쇄를 암호화하는 제1 서열을 갖는 제1 폴리뉴클레오타이드; 표적화 항체 또는 항체 단편의 경쇄를 암호화하는 제2 서열을 갖는 제2 폴리뉴클레오타이드; 및 펩타이드 항원을 암호화하는 제3 서열을 갖는 제3 폴리뉴클레오타이드를 포함하되, 상기 벡터의 발현이 키메라 항원 수용체- 효과기 세포 스위치를 생성하는, 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제59항에 있어서, 상기 제3 서열은 상기 제1 서열 및 상기 제2 서열로부터 선택된 서열에 인접하는, 벡터.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제59항에 있어서, 상기 제3 서열은 상기 제1 서열 및 상기 제2 서열로부터 선택된 서열 내에 있는, 벡터.",
+            "refers_to": [
+              59
+            ]
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "키메라 항원 수용체-효과기 세포 스위치의 생성 방법으로서, 하기 하나 이상의 폴리뉴클레오타이드 벡터:\n a. 표적화 항체 또는 항체 단편의 중쇄를 암호화하는 제1 서열;\n b. 표적화 항체 또는 항체 단편의 경쇄를 암호화하는 제2 서열; 및\n c. 펩타이드 항원을 암호화하는 제3 서열로부터 발현시키는 단계를 포함하되,\n상기 벡터의 발현이 키메라 항원 수용체- 효과기 세포 스위치를 생성하는, 키메라 항원 수용체-효과기 세포 스위치의 생성 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20191014",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 62,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "피검체에서 암을 치료하기 위한 CAR-EC(chimeric antigen receptor-effector cell) 플랫폼으로서,\na. i. 효과기 세포 상에서 키메라 항원 수용체에 결합하고, 또 이를 활성화시키는 효모 전사 인자 GCN4 펩타이드를 포함하는 제1 펩타이드 항원이되, 상기 GCN4 펩타이드는 적어도 12개 아미노산인 서열번호 2의 일부를 포함하는, 제1 펩타이드 항원; 및\n ii. 표적 세포 상에서 세포 표면 분자와 결합하는 제1 표적화 모이어티이되, 여기서 상기 제1 표적화 모이어티는 항체, 또는 항체의 항원 결합 단편을 포함하는, 제1 표적화 모이어티를 포함하는 제1 키메라 항원 수용체-효과기 세포(CAR-EC) 스위치로서,\n여기서 상기 제1 펩타이드 항원은 상기 제1 표적화 모이어티에 접합되거나, 또는 융합되는, 제1 CAR-EC 스위치, 및\nb. 상기 제1 키메라 항원 수용체-효과기 세포 스위치의 제1 펩타이드 항원에 결합하는 항-GCN4 키메라 항원 수용체를 포함하는 제1 키메라 항원 수용체-효과기 세포를 포함하되,\n상기 효과기 세포는 T 세포인,\n피검체에서 암을 치료하기 위한 CAR-EC 플랫폼.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 제1 CAR-EC 스위치는 2개의 펩타이드 항원을 포함하는, CAR-EC 플랫폼.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체 또는 상기 항체의 항원 결합 단편은 면역글로불린, Fc 삭제 면역글로불린, Fab, 및 이들의 항원 결합 단편으로 이루어진 군으로부터 선택되는, CAR-EC 플랫폼.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 제1 표적화 모이어티는 항-EGFR 항체, 항-Her2 항체, 항-EGFRvIII 항체, 항-CD33 항체, 항-CLL-1 항체, 항-CEA 항체, 항-CD19 항체, 항-CD22 항체, 항-BCMA 항체, 항-CS1 항체, 및 이들의 항원 결합 단편으로 이루어진 군으로부터 선택되는, CAR-EC 플랫폼.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 상기 제1 표적화 모이어티는 항-CD19 항체 또는 이의 항원 결합 단편인, CAR-EC 플랫폼.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 제1 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 8 및 9; 서열번호 8 및 10; 서열번호 11 및 12; 서열번호 13 및 14; 서열번호 15 및 16; 서열번호 17 및 18; 및 서열번호 19 및 20으로 이루어진 군으로부터 선택된 핵산 서열 쌍을 포함하는 핵산 서열에 의해 암호화되는, CAR-EC 플랫폼.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 제1 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 21 및 22; 서열번호 23 및 24; 서열번호 25 및 26; 서열번호 27 및 28; 서열번호 27 및 29; 서열번호 30 및 29; 서열번호 36 및 29; 서열번호 31 및 28; 서열번호 27 및 32; 서열번호 27 및 33; 서열번호 27 및 34; 및 서열번호 27 및 35로 이루어진 군으로부터 선택된 아미노산 서열 쌍을 포함하는, CAR-EC 플랫폼.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 제1 펩타이드 항원은 (i) 경쇄의 N 말단; (ii) 중쇄의 N 말단; (iii) IgG의 VL 도메인의 N 말단; (iv) IgG의 VH 도메인의 N 말단; (vi) Fab의 VL 도메인의 N 말단; 및 (vii) Fab의 VH 도메인의 N 말단으로 이루어진 군으로부터 선택된 제1 표적화 항체 또는 상기 항체의 항원 결합 단편의 영역에 융합되는, CAR-EC 플랫폼.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 상기 제1 펩타이드 항원은 (i) 경쇄의 N 말단; (ii) 중쇄의 N 말단; (iii) IgG의 VL 도메인의 N 말단; (iv) IgG의 VH 도메인의 N 말단; (v) Fab의 VL 도메인의 N 말단; 및 (vi) Fab의 VH 도메인의 N 말단으로 이루어진 군으로부터 선택된 제1 표적화 항체 또는 상기 항체의 항원 결합 단편의 영역에 융합되는, CAR-EC 플랫폼.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 제1 CAR-EC 스위치는 상기 제1 펩타이드 항원 및 상기 제1 표적화 모이어티를 연결하는 링커를 포함하는, CAR-EC 플랫폼.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, (i) 상기 링커가 약 1 내지 약 20개의 아미노산을 포함하거나; (ii) 상기 링커가 서열번호 40 내지 44로부터 선택된 서열을 포함하거나; 또는 (iii) 상기 링커가 약 1 내지 약 20개의 아미노산을 포함하고, 그리고 서열번호 40 내지 44로부터 선택된 서열을 포함하는, CAR-EC 플랫폼.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 암은 백혈병, 림프종, 유방암, 췌장암, 폐암, 신경교종, 및 교모세포종으로 구성된 군으로부터 선택되는, CAR-EC 플랫폼.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 세포 표면 분자는 종양 관련 항원; 분화 단백질 클러스터; 수용체; 내재성 막단백질; 및 당단백질로 이루어진 군으로부터 선택되는, CAR-EC 플랫폼.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "피검체에서 암을 치료하기 위한 CAR-EC(chimeric antigen receptor-effector cell) 플랫폼으로서,\na. i. 효과기 세포 상에서 키메라 항원 수용체에 결합하고, 또 이를 활성화시키며, (i) 서열번호 3을 포함하거나; 또는 (ii) 서열번호 2의 적어도 12개 아미노산을 포함하는, 효모 전사 인자 GCN4 펩타이드를 포함하는 제1 펩타이드 항원; 및\n ii. 표적 세포 상에서 세포 표면 분자에 결합하는 제1 표적화 모이어티(여기서 상기 제1 표적화 모이어티는 항체, 또는 항체의 항원 결합 단편을 포함함)를 포함하는, 제1 키메라 항원 수용체-효과기 세포(CAR-EC) 스위치로서,\n여기서 상기 제1 펩타이드 항원은 상기 제1 표적화 모이어티에 접합되거나, 또는 융합되는, 제1 CAR-EC 스위치, 및\nb. 상기 제1 키메라 항원 수용체-효과기 세포 스위치의 제1 펩타이드 항원에 결합하는 항-GCN4 키메라 항원 수용체를 포함하는 제1 키메라 항원 수용체-효과기 세포를 포함하되,\n상기 효과기 세포는 T 세포인, CAR-EC 플랫폼.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 제1 표적화 모이어티는 항-EGFR 항체, 항-Her2 항체, 항-EGFRvIII 항체, 항-CD33 항체, 항-CLL-1 항체, 항-CEA 항체, 항-CD19 항체, 항-CD22 항체, 항-BCMA 항체, 항-CS1 항체, 및 이들의 항원 결합 단편으로 구성된 군으로부터 선택된 표적화 항체 또는 항체의 항원 결합 단편을 포함하는, CAR-EC 플랫폼.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 하나 이상의 제2 CAR-EC 스위치를 추가로 포함하되,\n각각의 제2 CAR-EC 스위치는,\na. 효과기 세포 상에서 키메라 항원 수용체와 결합하는 펩타이드 항원; 및\nb. 표적 세포 상에서 표적 항원 분자와 결합하는 제2 표적화 모이어티를 포함하고;\n여기서 상기 제2 표적화 모이어티는 항체, 또는 항체의 항원 결합 단편을 포함하며;\n각각의 제2 CAR-EC 스위치의 상기 제2 표적화 모이어티는 상기 제1 CAR-EC 스위치에 포함된 상기 제1 표적화 모이어티와 다르고;\n상기 제2 CAR-EC 스위치에 포함된 상기 펩타이드 항원은,\n(i) 상기 제1 CAR-EC 스위치에 포함된 상기 제1 펩타이드 항원과 동일하거나,\n(ii) 상기 제1 CAR-EC 스위치에 포함된 상기 제1 펩타이드 항원과 상이한 제2 펩타이드 항원이고;\n단, 상기 제2 CAR-EC 스위치가 제2 펩타이드 항원을 포함하면, 상기 플랫폼은, 상기 제2 CAR-EC 스위치의 상기 제2 펩타이드 항원에 결합하는 키메라 항원 수용체를 포함하는 T 세포인, 제2 키메라 항원 수용체-효과기 세포를 추가로 포함하는, CAR-EC 플랫폼.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서,\n(i) 상기 제1 표적화 모이어티는 항-CD20 항체 또는 이의 항원 결합 부분을 포함하고, 그리고 상기 제2 표적화 모이어티는 항-CD19 항체 또는 이의 항원 결합 부분을 포함하거나; 또는\n(ii) 상기 제1 표적화 모이어티는 항-CD19 항체 또는 이의 항원 결합 부분을 포함하고, 그리고 상기 제2 표적화 모이어티는 항-CD20 항체 또는 이의 항원 결합 부분을 포함하는, CAR-EC 플랫폼.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 상기 제2 CAR-EC 스위치는 상기 제1 CAR-EC 스위치 다음에 상기 피검체에게 투여되는, CAR-EC 플랫폼.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, 상기 제2 CAR-EC 스위치는, 피검체가 상기 제1 표적화 모이어티가 결합하는 상기 세포 표면 분자의 변형된 발현을 갖는 것으로 진단된 후, 상기 피검체에 투여되는, CAR-EC 플랫폼.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, (i) 상기 제1 표적화 모이어티는 항-CD20 항체 또는 이의 항원 결합 부분을 포함하고, 그리고 상기 제2 표적화 모이어티는 항-CD19 항체 또는 이의 항원 결합 부분을 포함하거나;\n(ii) 상기 제1 표적화 모이어티는 항-CD19 항체 또는 이의 항원 결합 부분을 포함하고, 그리고 상기 제2 표적화 모이어티는 항-CD20 항체 또는 이의 항원 결합 부분을 포함하는, CAR-EC 플랫폼.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "a. i. 효과기 세포 상에서 항-GCN4 키메라 항원 수용체에 결합하고, 또 이를 활성화시키는 효모 전사 인자 GCN4 펩타이드를 포함하는 펩타이드 항원이되, 상기 GCN4 펩타이드는 적어도 12개 아미노산인 서열번호 2의 일부를 포함하는, 펩타이드 항원; 및\n ii. 표적 세포 상에서 세포 표면 분자와 결합하는 표적화 모이어티를 포함하는, 키메라 항원 수용체-효과기 세포 스위치, 및\nb. 상기 키메라 항원 수용체-효과기 세포 스위치의 상기 펩타이드 항원에 결합하는 항-GCN4 키메라 항원 수용체를 포함하는 키메라 항원 수용체-효과기 세포를 포함하는, 키트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 효과기 세포 상에서 상기 키메라 항원 수용체에 대한 상기 키메라 항원 수용체-효과기 세포 스위치의 결합은 상기 키메라 항원 수용체-효과기 세포 스위치에 결합된 상기 표적 세포에도 세포독성인 면역 반응을 유도하는, 키트.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 표적화 모이어티는 표적화 펩타이드를 포함하는, 키트.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 표적화 모이어티는 표적화 항체 또는 항체의 항원 결합 단편을 포함하는, 키트.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 면역글로불린, Fc 삭제 면역글로불린, Fab, 및 이들의 항원 결합 단편으로 이루어진 군에서 선택되는, 키트.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 표적화 모이어티는 항-EGFR 항체, 항-Her2 항체, 항-EGFRvIII 항체, 항-CD33 항체, 항-CLL-1 항체, 항-CEA 항체, 항-CD19 항체, 항-CD22 항체, 항-BCMA 항체, 항-CS1 항체, 및 이들의 항원 결합 단편으로 이루어진 군으로부터 선택되는, 키트.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 8 및 9; 서열번호 8 및 10; 서열번호 11 및 12; 서열번호 13 및 14; 서열번호 15 및 16; 서열번호 17 및 18; 및 서열번호 19 및 20으로 이루어진 군에서 선택된 핵산 서열 쌍을 포함하는 핵산 서열에 의해 암호화되는, 키트.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 21 및 22; 서열번호 23 및 24; 서열번호 25 및 26; 서열번호 27 및 28; 서열번호 27 및 29로 이루어진 군으로부터 선택된 아미노산 서열 쌍을 포함하는, 키트.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 30 및 29; 서열번호 36 및 29; 서열번호 31 및 28; 서열번호 27 및 32; 서열번호 27 및 33; 서열번호 27 및 34; 및 서열번호 27 및 35로 이루어진 군으로부터 선택된 아미노산 서열 쌍을 포함하는, 키트.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 펩타이드 항원은 상기 표적화 항체 또는 상기 항체의 항원 결합 단편의 말단에 융합되는, 키트.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 펩타이드 항원은 경쇄의 N 말단, 경쇄의 C 말단, 중쇄의 N 말단, Fab 중쇄의 C 말단, 및 중쇄 불변 영역의 C 말단으로 이루어진 군으로부터 선택된, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편의 영역에 융합되는, 키트.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 펩타이드 항원 및 상기 표적화 모이어티를 연결하는 링커를 추가로 포함하는, 키트.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제32항에 있어서, 상기 링커가 약 1 내지 약 20개의 아미노산을 포함하는, 키트.",
+            "refers_to": [
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제32항에 있어서, 상기 링커가 서열번호 38 내지 42로부터 선택된 서열을 포함하는, 키트.",
+            "refers_to": [
+              32
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 표적화 모이어티는 항-Her2 항체, 항-BCMA 항체, 항-CD19 항체, 항-CEA 항체, 및 이들의 항원 결합 단편으로 이루어진 군으로부터 선택되는, 키트.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 표적 세포가 암 세포인, 키트.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 세포 표면 분자가 종양 관련 항원인, 키트.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 세포 표면 분자가 분화 단백질의 클러스터, 수용체, 내재성 막단백질, 및 당단백질로 이루어진 군으로부터 선택되는, 키트.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 8 및 9; 서열번호 8 및 10으로 이루어진 군으로부터 선택된 핵산 서열 쌍을 포함하는 핵산 서열에 의해 암호화되는, 키트.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 표적화 항체 또는 상기 항체의 항원 결합 단편은 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 27 및 28; 및 서열번호 27 및 29로 이루어진 군으로부터 선택된 아미노산 서열 쌍을 포함하는, 키트.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 키메라 항원 수용체-효과기 세포 스위치는 경쇄 및 중쇄 쌍을 포함하되, 여기서 상기 경쇄 및 중쇄는 서열번호 36 및 29의 아미노산 서열을 포함하는, 키트.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 효모 전사 인자 GCN4 펩타이드는 서열번호 3과 적어도 85% 동일한 서열을 포함하는, 키트.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 효모 전사 인자 GCN4 펩타이드는 효과기 세포 상에서 상기 항-GCN4 키메라 항원 수용체에 결합하고, 또 이를 활성화시키며, 상기 GCN4 펩타이드는 (i) 적어도 12개의 아미노산이고, (ii) 서열번호 3과 적어도 85% 동일하며; 그리고 (iii) 이합체화하지 않은, 서열번호 2의 일부를 포함하는, 키트.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제43항에 있어서, 상기 표적화 모이어티는 표적화 항체 또는 항체의 항원 결합 단편을 포함하는, 키트.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제44항에 있어서, 상기 표적화 모이어티는 항-EGFR 항체, 항-Her2 항체, 항-EGFRvIII 항체, 항-CD33 항체, 항-CLL-1 항체, 항-CEA 항체, 항-CD19 항체, 항-CD22 항체, 항-BCMA 항체, 항-CS1 항체, 및 이들의 항원 결합 단편으로 이루어진 군으로부터 선택되는, 키트.",
+            "refers_to": [
+              44
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 54,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 55,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 56,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 57,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 58,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 59,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 60,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 61,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 62,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20210409",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, (i) 상기 링커가 1 내지 20개의 아미노산을 포함하거나; (ii) 상기 링커가 서열번호 40 내지 44로부터 선택된 서열을 포함하거나; 또는 (iii) 상기 링커가 1 내지 20개의 아미노산을 포함하고, 그리고 서열번호 40 내지 44로부터 선택된 서열을 포함하는, CAR-EC 플랫폼.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제32항에 있어서, 상기 링커가 1 내지 20개의 아미노산을 포함하는, 키트.",
+            "refers_to": [
+              32
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 62,
+      "after_claim_count": 2,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2015.04.23",
+      "internationOpenNumber": "WO2015057834",
+      "internationalApplicationDate": "2014.10.15",
+      "internationalApplicationNumber": "PCT/US2014/060684"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국  캘리포니아주 ***** 라 졸라 노스 토리 파인 로드 *****",
+      "code": "519980618388",
+      "country": "미국",
+      "engName": "THE SCRIPPS RESEARCH INSTITUTE",
+      "name": "더 스크립스 리서치 인스티튜트"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국, 캘리포니아 *****...",
+        "code": "",
+        "country": "",
+        "engName": "YOUNG, Travis",
+        "name": "영, 트래비스"
+      },
+      {
+        "address": "미국, 캘리포니아 *****, 샌 디...",
+        "code": "",
+        "country": "",
+        "engName": "KIM, Chanhyuk",
+        "name": "김찬혁"
+      },
+      {
+        "address": "미국, 캘리포니아 *****...",
+        "code": "",
+        "country": "",
+        "engName": "SCHULTZ, Peter, G.",
+        "name": "슐츠, 피터, 지."
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 송파구 법원로 ***, *층(문정동)",
+      "code": "920201000613",
+      "country": "대한민국",
+      "engName": "HANOL Intellectual Property and Law",
+      "name": "특허법인한얼"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2013.10.15",
+        "priorityApplicationNumber": "61/891,347"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2013.10.25",
+        "priorityApplicationNumber": "61/895,704"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2014.06.06",
+        "priorityApplicationNumber": "62/009,054"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2014.07.29",
+        "priorityApplicationNumber": "62/030,526"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2014.07.29",
+        "priorityApplicationNumber": "62/030,514"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Clin. Cancer Res., Vol. 18, No. 23, pp. 6436-6445(2012.12.01.)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2008025558 A2",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2016.05.11",
+        "receiptNumber": "1-1-2016-0449617-68"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2016.05.16",
+        "receiptNumber": "1-5-2016-0073384-44"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.05.17",
+        "receiptNumber": "1-1-2016-0469581-71"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2016.05.17",
+        "receiptNumber": "1-1-2016-0469570-79"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2019.10.04",
+        "receiptNumber": "1-1-2019-1015424-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2019.10.14",
+        "receiptNumber": "1-1-2019-1044265-95"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.10.14",
+        "receiptNumber": "1-1-2019-1044264-49"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.03.09",
+        "receiptNumber": "9-5-2021-0197935-92"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.04.09",
+        "receiptNumber": "1-1-2021-0417415-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.04.09",
+        "receiptNumber": "1-1-2021-0417414-75"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.09.23",
+        "receiptNumber": "9-5-2021-0746902-18"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020167012414.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93a9b771f368fa655ea340e3dae871caaa869dfea98f4cc201c82e4fa2480840f8e5a3891dd023082f98a3571d9dea45c20571293609ce0a2d",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfb49fa40801339f755b1f74177c3865ce2197d1554fda66da445a321088f8da2e43ed18cbb660878ee77ecb59e6f998b1f9604346117b25b5"
+  },
+  "rndInfoArray": ""
+}

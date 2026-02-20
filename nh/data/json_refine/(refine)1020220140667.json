@@ -1,0 +1,922 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.10.27",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0140667",
+      "claimCount": "13",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "돼지 유행성 설사 바이러스 기반 바이러스 벡터 백신 플랫폼 및 이의 용도",
+      "inventionTitleEng": "Porcine epidemic diarrhea virus-based viral  vector vaccine platform and uses thereof",
+      "openDate": "2024.06.11",
+      "openNumber": "10-2024-0083160",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.10.27",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 7/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/86"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 돼지 유행성 설사 바이러스 기반 바이러스 벡터 백신 플랫폼 및 이의 용도 등에 관한 것이다. 본 발명의 pBAC-CMV-KNU-141112 및 pBAC-CMV-S DEL5/ORF3의 PEDV 전장 게놈 클론을 성공적으로 얻은 것을 확인하였고, ORF3 유전자 위치에 외래 단백질 항원을 성공적으로 탑재할 수 있다는 것을 확인하였다. 또한, 신종 또는 변종 돼지 유행성 설사 바이러스 스파이크 단백질(S)을 클론 내 S 단백질 위치에 탑재하여, 혈청 테스트 및 항원성에 영향을 미치는 구조의 확인을 하였는 바, 바이러스 벡터 백신 플랫폼으로 폭 넓게 사용 가능할 것으로 기대된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220140667",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20221027",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 1 또는 서열번호 2의 염기서열로 표시되는 돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus, PEDV) cDNA의 전장 뉴클레오티드를 포함하는, 감염성 클론.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 서열번호 1로 표시되는 돼지 유행성 설사 바이러스 cDNA의 전장 뉴클레오티드는 KNU-141112(GenBank accession numbers KR873434)에서 유래한 것을 특징으로 하는, 감염성 클론",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 서열번호 2로 표시되는 돼지 유행성 설사 바이러스 cDNA의 전장 뉴클레오티드는 S DEL5/ORF3(GenBank accession numbers KY825243)에서 유래한 것을 특징으로 하는, 감염성 클론",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 감염성 클론은 cDNA의 전장 뉴클레오티드 서열의 5` 말단에 사이토메갈로바이러스 (CMV)의 발현 프로모터가 위치하고,\ncDNA의 전장 뉴클레오티드 서열의 3` 말단에 델타 간염 바이러스 리소자임 절단 부위, 소 성장 호르몬 전사 말단 서열, 및 폴리 아데닌 서열이 위치하는 것을 특징으로 하는, 감염성 클론.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 감염성 클론은 세균 인공 염색체(bacterial artificial chromosome, BAC) 내에서 클로닝되는 것을 특징으로 하는, 감염성 클론.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 감염성 클론은 이종 뉴클레오티드를 포함하는 것을 특징으로 하는, 감염성 클론.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서,\n상기 이종 뉴클레오티드는 감염성 클론의 ORF3 유전자 또는 스파이크 유전자 위치에 삽입된 것을 특징으로 하는, 감염성 클론.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서,\n상기 이종 뉴클레오티드는 GNU-2110 균주에서 유래한 스파이크 단백질(S51)을 코딩하는 서열번호 3으로 표시되는 뉴클레오티드 서열인 것을 특징으로 하는, 감염성 클론.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 감염성 클론을 포함하는, 재조합 PEDV 생산용 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서,\n상기 벡터는 재조합 PEDV 생산용 세균 인공 염색체(BAC) 벡터인 것을 특징으로 하는, 재조합 PEDV 생산용 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 감염성 클론을 세포에 형질감염시키는 단계; 를 포함하는, 재조합 PEDV 생산방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서,\n상기 세포는 Vero 세포, CHO 세포, MRC-5, LLC-MK2, 또는 MDCK 세포인 것을 특징으로 하는, 재조합 PEDV 생산방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 감염성 클론을 백본으로 하여, 관심 변이체(variant of interest, VOI) 이종 뉴클레오티드를 도입하는 단계; 를 포함하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 생산방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서,\n상기 재조합 PEDV는 모 바이러스(parental virus)와 동일한 성장능을 갖는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 생산방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서,\n상기 재조합 PEDV는 모 바이러스와 상이한 항원성을 나타내는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 제조방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서,\n상기 재조합 PEDV는 역유전체 시스템(RG system)에 의해 수득 되는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 제조방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항으로 이루어진 군으로부터 선택된 어느 하나의 감염성 클론을 유효성분으로 포함하는, 백신 조성물.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20251014",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 1 또는 서열번호 2의 염기서열로 표시되는 돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus, PEDV) cDNA의 전장 뉴클레오티드를 포함하는, 감염성 클론.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 서열번호 1로 표시되는 돼지 유행성 설사 바이러스 cDNA의 전장 뉴클레오티드는 KNU-141112(GenBank accession numbers KR873434)에서 유래한 것을 특징으로 하는, 감염성 클론",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 서열번호 2로 표시되는 돼지 유행성 설사 바이러스 cDNA의 전장 뉴클레오티드는 S DEL5/ORF3(GenBank accession numbers KY825243)에서 유래한 것을 특징으로 하는, 감염성 클론",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 감염성 클론은 cDNA의 전장 뉴클레오티드 서열의 5` 말단에 사이토메갈로바이러스 (CMV)의 발현 프로모터가 위치하고,cDNA의 전장 뉴클레오티드 서열의 3` 말단에 델타 간염 바이러스 리소자임 절단 부위, 소 성장 호르몬 전사 말단 서열, 및 폴리 아데닌 서열이 위치하는 것을 특징으로 하는, 감염성 클론.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 감염성 클론은 세균 인공 염색체(bacterial artificial chromosome, BAC) 내에서 클로닝되는 것을 특징으로 하는, 감염성 클론.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 감염성 클론은 이종 뉴클레오티드를 포함하는 것을 특징으로 하는, 감염성 클론.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서,상기 이종 뉴클레오티드는 감염성 클론의 ORF3 유전자 또는 스파이크 유전자 위치에 삽입된 것을 특징으로 하는, 감염성 클론.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서,상기 이종 뉴클레오티드는 GNU-2110 균주에서 유래한 스파이크 단백질(S51)을 코딩하는 서열번호 3으로 표시되는 뉴클레오티드 서열인 것을 특징으로 하는, 감염성 클론.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 감염성 클론을 포함하는, 재조합 PEDV 생산용 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서,상기 벡터는 재조합 PEDV 생산용 세균 인공 염색체(BAC) 벡터인 것을 특징으로 하는, 재조합 PEDV 생산용 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 감염성 클론을 세포에 형질감염시키는 단계; 를 포함하는, 재조합 PEDV 생산방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서,상기 세포는 Vero 세포, CHO 세포, MRC-5, LLC-MK2, 또는 MDCK 세포인 것을 특징으로 하는, 재조합 PEDV 생산방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 감염성 클론을 백본으로 하여, 관심 변이체(variant of interest, VOI) 이종 뉴클레오티드를 도입하는 단계; 를 포함하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 생산방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서,상기 재조합 PEDV는 모 바이러스(parental virus)와 동일한 성장능을 갖는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 생산방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서,상기 재조합 PEDV는 모 바이러스와 상이한 항원성을 나타내는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 제조방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서,상기 재조합 PEDV는 역유전체 시스템(RG system)에 의해 수득 되는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 제조방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제8항으로 이루어진 군으로부터 선택된 어느 하나의 감염성 클론을 유효성분으로 포함하는, 백신 조성물.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20221027",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 17,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 1 또는 서열번호 2의 염기서열로 표시되는 돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus, PEDV) cDNA의 전장 뉴클레오티드를 포함하는, 감염성 클론.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 서열번호 1로 표시되는 돼지 유행성 설사 바이러스 cDNA의 전장 뉴클레오티드는 KNU-141112(GenBank accession numbers KR873434)에서 유래한 것을 특징으로 하는, 감염성 클론",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 서열번호 2로 표시되는 돼지 유행성 설사 바이러스 cDNA의 전장 뉴클레오티드는 S DEL5/ORF3(GenBank accession numbers KY825243)에서 유래한 것을 특징으로 하는, 감염성 클론",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 감염성 클론은 cDNA의 전장 뉴클레오티드 서열의 5` 말단에 사이토메갈로바이러스 (CMV)의 발현 프로모터가 위치하고,\ncDNA의 전장 뉴클레오티드 서열의 3` 말단에 델타 간염 바이러스 리소자임 절단 부위, 소 성장 호르몬 전사 말단 서열, 및 폴리 아데닌 서열이 위치하는 것을 특징으로 하는, 감염성 클론.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 감염성 클론은 세균 인공 염색체(bacterial artificial chromosome, BAC) 내에서 클로닝되는 것을 특징으로 하는, 감염성 클론.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 감염성 클론은 이종 뉴클레오티드를 포함하는 것을 특징으로 하는, 감염성 클론.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서,\n상기 이종 뉴클레오티드는 감염성 클론의 ORF3 유전자 또는 스파이크 유전자 위치에 삽입된 것을 특징으로 하는, 감염성 클론.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서,\n상기 이종 뉴클레오티드는 GNU-2110 균주에서 유래한 스파이크 단백질(S51)을 코딩하는 서열번호 3으로 표시되는 뉴클레오티드 서열인 것을 특징으로 하는, 감염성 클론.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 감염성 클론을 포함하는, 재조합 PEDV 생산용 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서,\n상기 벡터는 재조합 PEDV 생산용 세균 인공 염색체(BAC) 벡터인 것을 특징으로 하는, 재조합 PEDV 생산용 벡터.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 감염성 클론을 세포에 형질감염시키는 단계; 를 포함하는, 재조합 PEDV 생산방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서,\n상기 세포는 Vero 세포, CHO 세포, MRC-5, LLC-MK2, 또는 MDCK 세포인 것을 특징으로 하는, 재조합 PEDV 생산방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 감염성 클론을 백본으로 하여, 관심 변이체(variant of interest, VOI) 이종 뉴클레오티드를 도입하는 단계; 를 포함하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 생산방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서,\n상기 재조합 PEDV는 모 바이러스(parental virus)와 동일한 성장능을 갖는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 생산방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서,\n상기 재조합 PEDV는 모 바이러스와 상이한 항원성을 나타내는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 제조방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서,\n상기 재조합 PEDV는 역유전체 시스템(RG system)에 의해 수득 되는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 제조방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항으로 이루어진 군으로부터 선택된 어느 하나의 감염성 클론을 유효성분으로 포함하는, 백신 조성물.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20241025",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 1 또는 서열번호 2의 염기서열로 표시되는 돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus, PEDV) cDNA의 전장 뉴클레오티드를 포함하는 감염성 클론으로서, \nGNU-2110 균주에서 유래한 스파이크 단백질(S51)을 코딩하는 서열번호 3으로 표시되는 뉴클레오티드 서열로 구성된 이종 뉴클레오티드가 상기 감염성 클론의 OFR3 유전자 또는 스파이크 유전자 위치에 삽입된 것인 감염성 클론.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 서열번호 1로 표시되는 돼지 유행성 설사 바이러스 cDNA의 전장 뉴클레오티드는 KNU-141112(GenBank accession numbers KR873434)에서 유래한 것을 특징으로 하는, 감염성 클론.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 서열번호 2로 표시되는 돼지 유행성 설사 바이러스 cDNA의 전장 뉴클레오티드는 S DEL5/ORF3(GenBank accession numbers KY825243)에서 유래한 것을 특징으로 하는, 감염성 클론.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 감염성 클론은 세균 인공 염색체(bacterial artificial chromosome, BAC) 내에서 클로닝되는 것을 특징으로 하는, 감염성 클론.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 감염성 클론을 세포에 형질감염시키는 단계를 포함하는, 재조합 PEDV 생산방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 감염성 클론을 백본으로 하여, 관심 변이체(variant of interest, VOI) 이종 뉴클레오티드를 도입하는 단계를 포함하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 생산방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서,\n상기 재조합 PEDV는 모 바이러스(parental virus)와 동일한 성장능을 갖는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 생산방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서,\n상기 재조합 PEDV는 모 바이러스와 상이한 항원성을 나타내는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 생산방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서,\n상기 재조합 PEDV는 역유전체 시스템(RG system)에 의해 수득 되는 것을 특징으로 하는, 이종 뉴클레오티드를 포함하는 재조합 PEDV의 생산방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250319",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 1 또는 서열번호 2의 염기서열로 표시되는 돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus, PEDV) cDNA의 전장 뉴클레오티드를 포함하는 감염성 클론으로서, \n상기 서열번호 1의 염기서열로 표시되는 돼지 유행성 설사 바이러스(PEDV) cDNA의 전장 뉴클레오티드를 포함하는 감염성 클론에는 A15883C/A15884G의 침묵 돌연변이가 도입되고, 상기 서열번호 2의 염기서열로 표시되는 돼지 유행성 설사 바이러스(PEDV) cDNA의 전장 뉴클레오티드를 포함하는 감염성 클론에는 A23570G/T23573G/A23574C/A23576C의 침묵 돌연변이가 도입되며, \nGNU-2110 균주에서 유래한 스파이크 단백질(S51)을 코딩하는 서열번호 3으로 표시되는 뉴클레오티드 서열로 구성된 이종 뉴클레오티드가 상기 감염성 클론의 OFR3 유전자 또는 스파이크 유전자 위치에 삽입되고, \n상기 GNU-2110 균주에서 유래한 스파이크 단백질은 변화 가능한 N-글리코실화 부위를 가지며, \n신종 또는 변종 돼지 유행성 설사 바이러스(PEDV)의 스파이크 단백질이 클론 내 스파이크 단백질 위치에 탑재되는 것인 감염성 클론.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20251014",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열번호 1 또는 서열번호 2의 염기서열로 표시되는 돼지 유행성 설사 바이러스(porcine epidemic diarrhea virus, PEDV) cDNA의 전장 뉴클레오티드를 포함하는 감염성 클론으로서, \n상기 서열번호 1의 염기서열로 표시되는 돼지 유행성 설사 바이러스(PEDV) cDNA의 전장 뉴클레오티드를 포함하는 감염성 클론에는 A15883C 및 A15884G의 침묵 돌연변이가 도입되고, 상기 서열번호 2의 염기서열로 표시되는 돼지 유행성 설사 바이러스(PEDV) cDNA의 전장 뉴클레오티드를 포함하는 감염성 클론에는 A23570G, T23573G, A23574C 및 A23576C의 침묵 돌연변이가 도입되며, \nGNU-2110 균주에서 유래한 스파이크 단백질(S51)을 코딩하는 서열번호 3으로 표시되는 뉴클레오티드 서열로 구성된 이종 뉴클레오티드가 상기 감염성 클론의 OFR3 유전자 또는 스파이크 유전자 위치에 삽입되고, \n상기 GNU-2110 균주에서 유래한 스파이크 단백질은 변화 가능한 N-글리코실화 부위를 가지며, \n신종 또는 변종 돼지 유행성 설사 바이러스(PEDV)의 스파이크 단백질이 클론 내 스파이크 단백질 위치에 탑재되는 것인 감염성 클론.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 17,
+      "after_claim_count": 1,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "경상남도 진주...",
+      "code": "220040107194",
+      "country": "대한민국",
+      "engName": "INDUSTRY-ACADEMIC COOPERATION FOUNDATION GYEONGSANG NATIONAL UNIVERSITY",
+      "name": "경상국립대학교산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "경기도 성남시 수정구...",
+        "code": "",
+        "country": "",
+        "engName": "Lee, Chang Hee",
+        "name": "이창희"
+      },
+      {
+        "address": "경상남도 진주시...",
+        "code": "",
+        "country": "",
+        "engName": "Jang, Gue Hwan",
+        "name": "장규환"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 구로구 디지털로**길 **, 에이스테크노타워*차 ***-*호",
+      "code": "920221000817",
+      "country": "대한민국",
+      "engName": "JUNGJIN IP LAW FIRM",
+      "name": "특허법인정진"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "KR1020150074714 A",
+      "examinerQuotationFlag": "Y"
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.10.27",
+        "receiptNumber": "1-1-2022-1140602-02"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.10.28",
+        "receiptNumber": "1-1-2022-1146365-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2023.09.15",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2023.11.15",
+        "receiptNumber": "9-6-2023-0220479-51"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.10.16",
+        "receiptNumber": "9-5-2024-0879274-32"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.10.25",
+        "receiptNumber": "1-1-2024-1167033-78"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.10.25",
+        "receiptNumber": "1-1-2024-1167032-22"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.02.24",
+        "receiptNumber": "9-5-2025-0192392-87"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.03.19",
+        "receiptNumber": "1-1-2025-0311494-03"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.03.19",
+        "receiptNumber": "1-1-2025-0311495-48"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.08.26",
+        "receiptNumber": "4-1-2025-5236600-40"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2025.10.12",
+        "receiptNumber": "9-5-2025-0978746-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.10.14",
+        "receiptNumber": "1-1-2025-1147367-88"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.10.14",
+        "receiptNumber": "1-1-2025-1147366-32"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.10.23",
+        "receiptNumber": "4-1-2025-5298203-69"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220140667.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93fa1dd4588446b80721df89060f210170c745dc76f962fdc21d15162d7bae6e29eb55f4ad4686962419229ae6e60fecf227688cb64d6b57fb",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf83fdb720d988142ea50b05bbf449bdaecdff9ee16558308f34f43150cff9a6165fb90820468ae6fc767adc31bd9abcbbcd97db1f61d9da94"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "교육부",
+      "rndDuration": "2022.03.01 ~ 2023.02.28",
+      "rndManagingInstituteName": "경상국립대학교",
+      "rndProjectName": "개인기초연구(교육부)",
+      "rndSpecialInstituteName": "한국연구재단",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "돼지유행성설사 바이러스 병원성 인자 규명 및 역유전학 기반 분자약독화 백신 플랫폼 개발",
+      "rndTaskNumber": "1345346882"
+    }
+  }
+}

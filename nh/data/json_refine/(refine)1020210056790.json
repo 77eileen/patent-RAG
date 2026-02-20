@@ -1,0 +1,666 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2021.04.30",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-0056790",
+      "claimCount": "7",
+      "examinerName": "윤소라",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "약물전달물질로서의 대장암 특이적 표적 엑소좀 조성물 및 이의 용도",
+      "inventionTitleEng": "Colorectal cancer specific targeting exosome  composition as a drug anticancer delivery and use  thereof",
+      "openDate": "2022.11.08",
+      "openNumber": "10-2022-0149317",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2021.04.30",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2024.01.02",
+      "publicationNumber": "",
+      "registerDate": "2023.12.27",
+      "registerNumber": "10-2620197-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 9/127"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 9/50"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/077"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/113"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 줄기세포의 세포외소포체로 발현되는 유전자 내에 대장암 세포의 수용체와 결합하는 리간드를 발현시키는 유전자가 삽입된 재조합 발현벡터로 형질전환된 세포외소포체를 포함하는 약학적 조성물 및 대장암 예방 또는 치료용 발현벡터 제조방법에 대한 것으로, 본 발명은 세포외소포체로서 엑소좀을 약물전달물질로서 활용하여 표적 세포인 대장암 세포에 선별적으로 결합하여 대장암을 표적으로 특이적 작용이 가능한 이점이 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020210056790",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210430",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "줄기세포의 세포외소포체로 발현되는 유전자 내에 대장암 세포의 수용체와 결합하는 리간드를 발현시키는 유전자가 삽입된 재조합 발현벡터로 형질전환된 세포외소포체를 포함하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 대장암 세포의 수용체와 결합하는 리간드는 서열번호 1의 아미노산 서열로 표시되는 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포외소포체는 엑소좀인 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 엑소좀은 대장암 유발 유전자의 발현을 억제시킬 수 있는 핵산이 형질주입된 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 핵산은 miRNA, siRNA, shRNA,　안티센스 RNA 및 리보자임(ribozyme)으로 이루어진 군으로부터 선택된 하나 이상의 핵산인 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 엑소좀은 1 내지 50 μL/ml의 농도로 포함되는 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 줄기세포는 골수유래줄기세포, 제대혈유래줄기세포 또는 지방유래줄기세포인 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 골수유래줄기세포, 제대혈유래줄기세포 또는 지방유래줄기세포는 인체 또는 동물유래 줄기세포인 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 지방유래줄기세포의 세포외소포체로 발현되는 유전자 내에 대장암 세포의 수용체와 결합하는 리간드를 발현시키는 유전자를 도입하는 단계;\n(b) 상기 유전자가 도입된 세포를 배지에서 배양하여 세포외소포체를 수득하는 단계; 및\n(c) 상기 수득된 세포외소포체에 대장암 유발 유전자의 발현을 억제시킬 수 있는 핵산을 형질주입시키는 단계;를 포함하는 대장암 예방 또는 치료용 발현벡터 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 세포외소포체는 엑소좀인 것을 특징으로 하는 대장암 예방 또는 치료용 발현벡터 제조방법.",
+          "refers_to": [
+            9
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20231215",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "대장암세포 표적 리간드를 인코딩하는, 서열번호 1의 염기 서열로 표시되는 유전자가 삽입된 재조합 발현벡터로 형질전환한, 지방유래줄기세포로부터 추출된 엑소좀을 포함하는, 대장암 예방 또는 치료제 전달용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 엑소좀은 1 내지 50 μL/ml의 농도로 포함되는 것을 특징으로 하는, 대장암 예방 또는 치료제 전달용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 지방유래줄기세포는 인체 또는 동물유래 줄기세포인 것을 특징으로 하는, 대장암 예방 또는 치료제 전달용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "ⅰ) 대장암세포 표적 리간드를 인코딩하는, 서열번호 1의 염기 서열로 표시되는 유전자가 삽입된 재조합 발현벡터로 형질전환한, 지방유래줄기세포로부터 추출한 엑소좀으로; ⅱ) 상기 엑소좀에는 대장암 치료용 핵산이 형질주입되고, 상기 핵산은 siRNA, miRNA, shRNA, 안티센스 RNA, 및 리보자임(ribozyme)으로 이루어진 군으로부터 선택된 하나 이상의 핵산인 것을 특징으로 하며,상기 엑소좀을 유효성분으로 포함하는, 대장암 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 엑소좀은 1 내지 50 μL/ml의 농도로 포함되는 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 지방유래줄기세포는 인체 또는 동물유래 줄기세포인 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 체외에서, 대장암세포 표적 리간드를 인코딩하는, 서열번호 1의 염기 서열로 표시되는 유전자가 삽입된 재조합 발현벡터로 지방유래줄기세포를 형질전환시키는 단계; 및(b) 상기 지방유래줄기세포를 배양하여 엑소좀을 수득하는 단계를 포함하는, 대장암 예방 또는 치료제 전달용 엑소좀 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210430",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "줄기세포의 세포외소포체로 발현되는 유전자 내에 대장암 세포의 수용체와 결합하는 리간드를 발현시키는 유전자가 삽입된 재조합 발현벡터로 형질전환된 세포외소포체를 포함하는 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 대장암 세포의 수용체와 결합하는 리간드는 서열번호 1의 아미노산 서열로 표시되는 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포외소포체는 엑소좀인 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 엑소좀은 대장암 유발 유전자의 발현을 억제시킬 수 있는 핵산이 형질주입된 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 핵산은 miRNA, siRNA, shRNA,　안티센스 RNA 및 리보자임(ribozyme)으로 이루어진 군으로부터 선택된 하나 이상의 핵산인 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 엑소좀은 1 내지 50 μL/ml의 농도로 포함되는 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 줄기세포는 골수유래줄기세포, 제대혈유래줄기세포 또는 지방유래줄기세포인 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 골수유래줄기세포, 제대혈유래줄기세포 또는 지방유래줄기세포는 인체 또는 동물유래 줄기세포인 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 지방유래줄기세포의 세포외소포체로 발현되는 유전자 내에 대장암 세포의 수용체와 결합하는 리간드를 발현시키는 유전자를 도입하는 단계;\n(b) 상기 유전자가 도입된 세포를 배지에서 배양하여 세포외소포체를 수득하는 단계; 및\n(c) 상기 수득된 세포외소포체에 대장암 유발 유전자의 발현을 억제시킬 수 있는 핵산을 형질주입시키는 단계;를 포함하는 대장암 예방 또는 치료용 발현벡터 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 세포외소포체는 엑소좀인 것을 특징으로 하는 대장암 예방 또는 치료용 발현벡터 제조방법.",
+            "refers_to": [
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20230717",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "대장암세포 표적 리간드를 인코딩하는, 서열번호 1의 염기 서열로 표시되는 유전자가 삽입된 재조합 발현벡터로 형질전환한, 지방유래줄기세포로부터 추출된 엑소좀을 포함하는, 대장암 예방 또는 치료제 전달용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 엑소좀은 1 내지 50 μL/ml의 농도로 포함되는 것을 특징으로 하는, 대장암 예방 또는 치료제 전달용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 지방유래줄기세포는 인체 또는 동물유래 줄기세포인 것을 특징으로 하는, 대장암 예방 또는 치료제 전달용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "ⅰ) 대장암세포 표적 리간드를 인코딩하는, 서열번호 1의 염기 서열로 표시되는 유전자가 삽입된 재조합 발현벡터로 형질전환한, 지방유래줄기세포로부터 추출한 엑소좀으로; \nⅱ) 상기 엑소좀에는 대장암 치료용 핵산이 형질주입되고, 상기 핵산은 siRNA, miRNA, shRNA, 안티센스 RNA, 및 리보자임(ribozyme)으로 이루어진 군으로부터 선택된 하나 이상의 핵산인 것을 특징으로 하는, 대장암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 상기 엑소좀은 1 내지 50 μL/ml의 농도로 포함되는 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 상기 지방유래줄기세포는 인체 또는 동물유래 줄기세포인 것을 특징으로 하는 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 체외에서, 대장암세포 표적 리간드를 인코딩하는, 서열번호 1의 염기 서열로 표시되는 유전자가 삽입된 재조합 발현벡터로 지방유래줄기세포를 형질전환시키는 단계; 및\n(b) 상기 지방유래줄기세포를 배양하여 엑소좀을 수득하는 단계\n를 포함하는, 대장암 예방 또는 치료제 전달용 엑소좀 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20231215",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "ⅰ) 대장암세포 표적 리간드를 인코딩하는, 서열번호 1의 염기 서열로 표시되는 유전자가 삽입된 재조합 발현벡터로 형질전환한, 지방유래줄기세포로부터 추출한 엑소좀으로; \nⅱ) 상기 엑소좀에는 대장암 치료용 핵산이 형질주입되고, 상기 핵산은 siRNA, miRNA, shRNA, 안티센스 RNA, 및 리보자임(ribozyme)으로 이루어진 군으로부터 선택된 하나 이상의 핵산인 것을 특징으로 하며,\n상기 엑소좀을 유효성분으로 포함하는, 대장암 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 10,
+      "after_claim_count": 1,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "서울특별시 서초구...",
+        "code": "220050224041",
+        "country": "대한민국",
+        "engName": "THE CATHOLIC UNIVERSITY OF KOREA INDUSTRY-ACADEMIC COOPERATION FOUNDATION",
+        "name": "가톨릭대학교 산학협력단"
+      },
+      {
+        "address": "경기도 고양시 덕양구...",
+        "code": "220070061116",
+        "country": "대한민국",
+        "engName": "MYONGJI HOSPITAL",
+        "name": "의료법인 명지의료재단"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 광진구...",
+        "code": "",
+        "country": "",
+        "engName": "Say-June Kim",
+        "name": "김세준"
+      },
+      {
+        "address": "충청남도 계룡시 장안로 **, ...",
+        "code": "",
+        "country": "",
+        "engName": "Ok-Hee Kim",
+        "name": "김옥희"
+      },
+      {
+        "address": "경기도 김포시 김포한강*로 ***, ...",
+        "code": "",
+        "country": "",
+        "engName": "Kim, Min Ki",
+        "name": "김민기"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 테헤란로 ***, **층 (삼성동,본솔빌딩)(명진국제특허법률사무소)",
+      "code": "920030002203",
+      "country": "대한민국",
+      "engName": "Lee, Myoung-Jin",
+      "name": "이명진"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2020082005 A2",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20200208157 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Front Immunol Vol.11 No.1526, pp. 1-10 (2020)",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2021.04.30",
+        "receiptNumber": "1-1-2021-0509597-91"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2021.07.16",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2021.09.09",
+        "receiptNumber": "9-6-2021-0167125-57"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2022.03.24",
+        "receiptNumber": "1-1-2022-0321259-55"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2023.05.18",
+        "receiptNumber": "9-5-2023-0454190-60"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.07.17",
+        "receiptNumber": "1-1-2023-0784793-30"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2023.07.17",
+        "receiptNumber": "1-1-2023-0784889-14"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2023.11.29",
+        "receiptNumber": "9-5-2023-1075510-77"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2023.12.15",
+        "receiptNumber": "1-1-2023-1408309-71"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.12.15",
+        "receiptNumber": "1-1-2023-1408292-83"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2023.12.26",
+        "receiptNumber": "9-5-2023-1161343-99"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020210056790.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93ef356fd5060e053ef02e0777a313940b0decfbaf65cb13087a5f5de486ac1d9bf124fbe50ba4420320db7bd3429d74a75aac805f561a8643",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf3d19d80894a1d2536d94117ab80d8fa3157f1c7e8ff45f0bf5b8b028a16e341260231fcdf32abe2be2772034242eeeb75862e1d6043835db"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "과학기술정보통신부",
+      "rndDuration": "2018.03.01 ~ 2021.02.28",
+      "rndManagingInstituteName": "의료법인명지의료재단",
+      "rndProjectName": "개인기초연구(과기정통부)(R＆D)",
+      "rndSpecialInstituteName": "한국연구재단",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "결장직장암에서 extracellular vesicle을 이용한 표적 유전자항암요법의 기전 수립",
+      "rndTaskNumber": "1711106565"
+    }
+  }
+}

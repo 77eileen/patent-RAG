@@ -1,0 +1,2137 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.09.11",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-7007739",
+      "claimCount": "20",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "DcR3 개변체",
+      "inventionTitleEng": "DCR3 VARIANT",
+      "openDate": "2022.05.13",
+      "openNumber": "10-2022-0061967",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.09.08",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2022.03.08"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/715"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 37/00"
+      },
+      {
+        "ipcDate": "(2023.01.01)",
+        "ipcNumber": "A61P 29/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 37/08"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 DcR3의 리간드에 대한 결합 활성(바람직하게는 중화 활성)을 가짐과 함께, 포유 동물 유래의 세포를 숙주로 하여 제작할 때에 야생형 DcR3과 비교하여 응집체의 생성량이 저하되고, 및/또는 개선된 체내 동태를 나타내는 DcR3 개변체, 해당 DcR3 개변체를 코드하는 DNA, 해당 DNA를 포함하는 벡터, 해당 벡터를 도입하여 얻어지는 형질 전환체, 해당 형질 전환체를 사용하는 개변체의 제조 방법, 그리고 해당 개변체를 유효 성분으로 하는 자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료제를 제공하는 것을 과제로 하며, 이러한 과제를 해결하기 위해, DcR3의 일부와 TNF 슈퍼패밀리 분자의 일부를 포함하는 DcR3 개변체를 제공한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020227007739",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220308",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 49,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "야생형 디코이 수용체(Decoy Receptor) 3(이하, DcR3이라고 약기함)의 개변체인 DcR3 개변체로서, 상기 야생형 DcR3보다 개선된 체내 동태를 나타내는, 상기 DcR3 개변체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 1 이상의 N-글리코시드 결합 복합형 당쇄를 갖는 DcR3 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, LIGHT, TL1A 및 FasL 중 적어도 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, LIGHT, TL1A 및 FasL의 전부에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A 중 어느 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "야생형 DcR3의 시스테인 리치 영역에 있어서, 야생형 DcR3의 시스테인 리치 도메인(이하, CRD라고 약기함)의 적어도 일부가, DcR3 이외의 TNF 수용체 슈퍼패밀리 분자의 시스테인 리치 도메인의 적어도 일부로 치환된 아미노산 서열을 포함하는 제1 키메라형 시스테인 리치 영역, 혹은 상기 제1 키메라형 시스테인 리치 영역의 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열을 포함하는 제2 키메라형 시스테인 리치 영역을 포함하는 DcR3 개변체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 1 이상의 N-글리코시드 결합 복합형 당쇄를 갖는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, LIGHT, TL1A 및 FasL 중 적어도 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, LIGHT, TL1A 및 FasL의 전부에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A 중 어느 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 TNF 수용체 슈퍼패밀리 분자가 OPG인 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 야생형 DcR3의 시스테인 리치 도메인의 적어도 일부가, CRD1의 전부 또는 일부, CRD2의 전부 또는 일부, CRD3의 전부 또는 일부, 및 CRD4의 전부 또는 일부로부터 선택되고,\n상기 TNF 수용체 슈퍼패밀리 분자의 시스테인 리치 도메인의 적어도 일부가, CRD1의 전부 또는 일부, CRD2의 전부 또는 일부, CRD3의 전부 또는 일부, 및 CRD4의 전부 또는 일부로부터 선택되는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 상기 제1 키메라형 시스테인 리치 영역이,\n상기 야생형 DcR3의 CRD1의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD1 중 상기 야생형 DcR3의 CRD1의 일부와 대응하는 부분에서의 치환,\n상기 야생형 DcR3의 CRD1의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD1의 전부에서의 치환,\n상기 야생형 DcR3의 CRD2의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD2 중 상기 야생형 DcR3의 CRD2의 일부와 대응하는 부분에서의 치환, \n상기 야생형 DcR3의 CRD2의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD2의 전부에서의 치환,\n상기 야생형 DcR3의 CRD3의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD3 중 상기 야생형 DcR3의 CRD3의 일부와 대응하는 부분에서의 치환,\n상기 야생형 DcR3의 CRD3의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD3의 전부에서의 치환,\n상기 야생형 DcR3의 CRD4의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD4 중 상기 야생형 DcR3의 CRD4의 일부와 대응하는 부분에서의 치환, 및\n상기 야생형 DcR3의 CRD4의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD4의 전부에서의 치환\n으로부터 선택되는 하나 이상의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 상기 제1 키메라형 시스테인 리치 영역에 있어서, 상기 야생형 DcR3의 CRD2의 일부 또는 전체가 유지되어 있는 DcR3 개변체.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 상기 제1 키메라형 시스테인 리치 영역에 있어서, 상기 야생형 DcR3의 CRD3의 일부 또는 전체가 유지되어 있는 DcR3 개변체.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 상기 제1 키메라형 시스테인 리치 영역이, 이하의 (a), (b), (c) 또는 (d)의 아미노산 서열을 포함하고, 상기 제2 키메라형 시스테인 리치 영역이, 이하의 (e)의 아미노산 서열을 포함하는 DcR3 개변체.\n(a) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD1이, OPG의 CRD1로 치환된 아미노산 서열\n(b) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD4가, OPG의 CRD4로 치환된 아미노산 서열\n(c) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD1이, OPG의 CRD1로 치환되며, 또한 야생형 DcR3의 CRD4가, OPG의 CRD4로 치환된 아미노산 서열\n(d) 상기 (a), (b) 또는 (c)의 아미노산 서열에 있어서, N 말단으로부터 103번째 내지 123번째의 부분이, OPG의 시스테인 리치 도메인의 아미노산 서열 중 대응하는 부분으로 치환된 아미노산 서열\n(e) 상기 (a), (b), (c) 또는 (d)의 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 (a)의 아미노산 서열이, 서열 번호 26 또는 50에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,\n상기 (b)의 아미노산 서열이, 서열 번호 28 또는 52에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,\n상기 (c)의 아미노산 서열이, 서열 번호 30 또는 54에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,\n상기 (d)의 아미노산 서열이, 서열 번호 32 또는 56에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열인 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu, 58번째의 Arg 및 60번째의 Arg로 이루어지는 군에서 선택되는 1개 또는 2개 이상의 아미노산의, 다른 아미노산으로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu 및 58번째의 Arg의, 다른 아미노산으로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu의 Lys, Leu, Arg, Val, Ala, Phe, His, Ile 또는 Met로의 치환, 58번째의 Arg의 Asp, Glu 또는 Thr로의 치환, 및 60번째의 Arg의 Lys로의 치환으로 이루어지는 군에서 선택되는 1종 또는 2종 이상의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu의 Lys, Leu, Arg, Val, Ala, Phe, His, Ile 또는 Met로의 치환, 및 상기 N 말단으로부터 58번째의 Arg의 Asp, Glu 또는 Thr로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 이하의 (f) 내지 (i)로부터 선택되는 치환을 갖는 DcR3 개변체.\n(f) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째 및 144번째의 Asn의 다른 아미노산으로의 치환\n(g) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째, 144번째 및 157번째의 Asn의 다른 아미노산으로의 치환\n(h) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr 및 146번째의 Ser의 다른 아미노산으로의 치환\n(i) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr, 146번째의 Ser 및 159번째의 Thr의 다른 아미노산으로의 치환",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 이하의 (f') 내지 (i')로부터 선택되는 치환을 갖는 DcR3 개변체.\n(f') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째 및 144번째의 Asn의 Ser로의 치환\n(g') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째, 144번째 및 157번째의 Asn의 Ser로의 치환\n(h') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr 및 146번째의 Ser의 Ala로의 치환\n(i') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr, 146번째의 Ser 및 159번째의 Thr의 Ala로의 치환",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 서열 번호 58, 60, 62, 64, 66, 68, 70, 180, 182, 184, 186, 188, 270, 272, 274, 276, 278, 280, 282, 284 또는 286에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열인 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 DcR3 개변체가, 상기 제1 또는 제2 키메라형 시스테인 리치 영역과, 상기 제1 또는 제2 키메라형 시스테인 리치 영역의 C 말단측에 결합한 상기 야생형 DcR3의 헤파란황산 결합 영역의 일부 또는 전부를 포함하는 DcR3 개변체이거나, 혹은 상기 제1 또는 제2 키메라형 시스테인 리치 영역을 포함하고, 상기 야생형 DcR3의 헤파란황산 결합 영역을 포함하지 않는 DcR3 개변체인 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 상기 DcR3 개변체가, \n(I) 서열 번호 26, 28, 30, 32, 34, 36, 38, 40, 42, 44 또는 46에 기재된 아미노산 서열, 혹은 해당 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열, 및\n(II) 서열 번호 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 180, 182, 184, 186, 188, 270, 272, 274, 276, 278, 280, 282, 284 또는 286에 기재된 아미노산 서열, 혹은 해당 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열\n로부터 선택되는 어느 하나의 아미노산 서열을 포함하는 DcR3 개변체.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 DcR3 개변체가, 인간 IgG1, IgG2 또는 IgG4 항체 유래의 Fc 영역, 또는 상기 Fc 영역의 아미노산 서열에 있어서, 1 혹은 수개의 아미노산이 결실, 치환, 삽입 혹은 부가된 아미노산 서열을 포함하는 변이형 Fc 영역을 포함하는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 상기 Fc 영역 또는 상기 변이형 Fc 영역이, 그 밖의 영역 또는 링커를 통하여, 상기 제1 또는 제2 키메라형 시스테인 리치 영역의 C 말단측에 결합되어 있는 DcR3 개변체.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 220번째의 Cys의 Ser로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 234번째의 Leu의 Ala로의 치환, 235번째의 Leu의 Ala로의 치환, 및 237번째의 Gly의 Ala로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 434번째의 Asn의 Ala로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 252번째의 Met의 Tyr로의 치환, 254번째의 Ser의 Thr로의 치환, 및 256번째의 Thr의 Glu로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG4의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 228번째의 Ser의 Pro로의 치환, 235번째의 Leu의 Glu로의 치환, 및 409번째의 Arg의 Lys로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 상기 DcR3 개변체가, 서열 번호 72, 74, 156, 158, 160, 162, 164, 166, 311, 312 또는 313에 기재된 아미노산 서열을 포함하는 변이형 Fc 영역을 포함하는 DcR3 개변체.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 상기 DcR3 개변체가, 서열 번호 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 150, 168, 170, 172, 174, 176, 178, 190, 192, 194, 196, 198, 200, 202, 204, 206, 208, 210, 212, 214, 216, 218, 220, 222, 224, 226, 228, 230, 232, 234, 236, 238, 240, 242, 244, 246, 248, 250, 252, 254, 256, 258, 260, 262, 264, 266, 268, 288, 290, 292, 294, 296, 298, 300, 302, 304, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336 또는 337에 기재된 아미노산 서열, 혹은 해당 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열을 포함하는 DcR3 개변체.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제7항에 기재된 DcR3 개변체를 포함하는 DcR3 개변체 조성물.",
+          "refers_to": [
+            1,
+            7
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제38항에 있어서, 1 이상의 N-글리코시드 결합 복합형 당쇄를 갖는 DcR3 개변체와, N-글리코시드 결합 복합형 당쇄를 갖지 않는 DcR3 개변체를 포함하는 조성물.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제7항에 기재된 DcR3 개변체를 코드하는 DNA.",
+          "refers_to": [
+            1,
+            7
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제40항에 기재된 DNA를 함유하는 유전자 재조합체 벡터.",
+          "refers_to": [
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제41항에 기재된 유전자 재조합체 벡터를 숙주 세포에 도입하여 얻어지는 형질 전환체.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제42항에 있어서, 숙주 세포가 포유 동물 유래의 세포인 형질 전환체.",
+          "refers_to": [
+            42
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항에 있어서, 포유 동물 유래의 세포가 CHO 세포인 형질 전환체.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제42항에 기재된 형질 전환체를 배지 중에서 배양하고, 제1항 또는 제7항에 기재된 DcR3 개변체를 생성 및 축적시키고, 얻어진 배양액으로부터 상기 DcR3 개변체를 정제하는 것을 특징으로 하는 DcR3 개변체 또는 DcR3 개변체 조성물의 제조 방법.",
+          "refers_to": [
+            1,
+            7
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제45항에 기재된 제조 방법을 사용하여 제조되는, DcR3 개변체 또는 DcR3 개변체 조성물.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항, 제7항 또는 제46항에 기재된 DcR3 개변체 또는 DcR3 개변체 조성물을 유효 성분으로서 함유하는 의약 조성물.",
+          "refers_to": [
+            7,
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제47항에 있어서, 자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료제인 의약 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료가 필요한 환자에, 제47항에 기재된 의약 조성물을 투여하는 것을 포함하는, 자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료 방법.",
+          "refers_to": [
+            47
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20230908",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 49,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "야생형 디코이 수용체(Decoy Receptor) 3(이하, DcR3이라고 약기함)의 개변체인 DcR3 개변체로서, 상기 야생형 DcR3보다 개선된 체내 동태를 나타내는, 상기 DcR3 개변체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 1 이상의 N-글리코시드 결합 복합형 당쇄를 갖는 DcR3 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, LIGHT, TL1A 및 FasL 중 적어도 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, LIGHT, TL1A 및 FasL의 전부에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A 중 어느 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "야생형 DcR3의 시스테인 리치 영역에 있어서, 야생형 DcR3의 시스테인 리치 도메인(이하, CRD라고 약기함)의 적어도 일부가, DcR3 이외의 TNF 수용체 슈퍼패밀리 분자의 시스테인 리치 도메인의 적어도 일부로 치환된 아미노산 서열을 포함하는 제1 키메라형 시스테인 리치 영역, 혹은 상기 제1 키메라형 시스테인 리치 영역의 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열을 포함하는 제2 키메라형 시스테인 리치 영역을 포함하는 DcR3 개변체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 1 이상의 N-글리코시드 결합 복합형 당쇄를 갖는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, LIGHT, TL1A 및 FasL 중 적어도 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, LIGHT, TL1A 및 FasL의 전부에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A 중 어느 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A에 대하여 중화 활성을 갖는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 상기 TNF 수용체 슈퍼패밀리 분자가 OPG인 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 상기 야생형 DcR3의 시스테인 리치 도메인의 적어도 일부가, CRD1의 전부 또는 일부, CRD2의 전부 또는 일부, CRD3의 전부 또는 일부, 및 CRD4의 전부 또는 일부로부터 선택되고,상기 TNF 수용체 슈퍼패밀리 분자의 시스테인 리치 도메인의 적어도 일부가, CRD1의 전부 또는 일부, CRD2의 전부 또는 일부, CRD3의 전부 또는 일부, 및 CRD4의 전부 또는 일부로부터 선택되는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 상기 제1 키메라형 시스테인 리치 영역이,상기 야생형 DcR3의 CRD1의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD1 중 상기 야생형 DcR3의 CRD1의 일부와 대응하는 부분에서의 치환,상기 야생형 DcR3의 CRD1의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD1의 전부에서의 치환,상기 야생형 DcR3의 CRD2의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD2 중 상기 야생형 DcR3의 CRD2의 일부와 대응하는 부분에서의 치환, 상기 야생형 DcR3의 CRD2의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD2의 전부에서의 치환,상기 야생형 DcR3의 CRD3의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD3 중 상기 야생형 DcR3의 CRD3의 일부와 대응하는 부분에서의 치환,상기 야생형 DcR3의 CRD3의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD3의 전부에서의 치환,상기 야생형 DcR3의 CRD4의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD4 중 상기 야생형 DcR3의 CRD4의 일부와 대응하는 부분에서의 치환, 및상기 야생형 DcR3의 CRD4의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD4의 전부에서의 치환으로부터 선택되는 하나 이상의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서, 상기 제1 키메라형 시스테인 리치 영역에 있어서, 상기 야생형 DcR3의 CRD2의 일부 또는 전체가 유지되어 있는 DcR3 개변체.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서, 상기 제1 키메라형 시스테인 리치 영역에 있어서, 상기 야생형 DcR3의 CRD3의 일부 또는 전체가 유지되어 있는 DcR3 개변체.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 상기 제1 키메라형 시스테인 리치 영역이, 이하의 (a), (b), (c) 또는 (d)의 아미노산 서열을 포함하고, 상기 제2 키메라형 시스테인 리치 영역이, 이하의 (e)의 아미노산 서열을 포함하는 DcR3 개변체.(a) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD1이, OPG의 CRD1로 치환된 아미노산 서열(b) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD4가, OPG의 CRD4로 치환된 아미노산 서열(c) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD1이, OPG의 CRD1로 치환되며, 또한 야생형 DcR3의 CRD4가, OPG의 CRD4로 치환된 아미노산 서열(d) 상기 (a), (b) 또는 (c)의 아미노산 서열에 있어서, N 말단으로부터 103번째 내지 123번째의 부분이, OPG의 시스테인 리치 도메인의 아미노산 서열 중 대응하는 부분으로 치환된 아미노산 서열(e) 상기 (a), (b), (c) 또는 (d)의 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 (a)의 아미노산 서열이, 서열 번호 26 또는 50에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,상기 (b)의 아미노산 서열이, 서열 번호 28 또는 52에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,상기 (c)의 아미노산 서열이, 서열 번호 30 또는 54에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,상기 (d)의 아미노산 서열이, 서열 번호 32 또는 56에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열인 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu, 58번째의 Arg 및 60번째의 Arg로 이루어지는 군에서 선택되는 1개 또는 2개 이상의 아미노산의, 다른 아미노산으로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu 및 58번째의 Arg의, 다른 아미노산으로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu의 Lys, Leu, Arg, Val, Ala, Phe, His, Ile 또는 Met로의 치환, 58번째의 Arg의 Asp, Glu 또는 Thr로의 치환, 및 60번째의 Arg의 Lys로의 치환으로 이루어지는 군에서 선택되는 1종 또는 2종 이상의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu의 Lys, Leu, Arg, Val, Ala, Phe, His, Ile 또는 Met로의 치환, 및 상기 N 말단으로부터 58번째의 Arg의 Asp, Glu 또는 Thr로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 이하의 (f) 내지 (i)로부터 선택되는 치환을 갖는 DcR3 개변체.(f) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째 및 144번째의 Asn의 다른 아미노산으로의 치환(g) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째, 144번째 및 157번째의 Asn의 다른 아미노산으로의 치환(h) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr 및 146번째의 Ser의 다른 아미노산으로의 치환(i) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr, 146번째의 Ser 및 159번째의 Thr의 다른 아미노산으로의 치환",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 이하의 (f') 내지 (i')로부터 선택되는 치환을 갖는 DcR3 개변체.(f') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째 및 144번째의 Asn의 Ser로의 치환(g') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째, 144번째 및 157번째의 Asn의 Ser로의 치환(h') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr 및 146번째의 Ser의 Ala로의 치환(i') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr, 146번째의 Ser 및 159번째의 Thr의 Ala로의 치환",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 서열 번호 58, 60, 62, 64, 66, 68, 70, 180, 182, 184, 186, 188, 270, 272, 274, 276, 278, 280, 282, 284 또는 286에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열인 DcR3 개변체.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 상기 DcR3 개변체가, 상기 제1 또는 제2 키메라형 시스테인 리치 영역과, 상기 제1 또는 제2 키메라형 시스테인 리치 영역의 C 말단측에 결합한 상기 야생형 DcR3의 헤파란황산 결합 영역의 일부 또는 전부를 포함하는 DcR3 개변체이거나, 혹은 상기 제1 또는 제2 키메라형 시스테인 리치 영역을 포함하고, 상기 야생형 DcR3의 헤파란황산 결합 영역을 포함하지 않는 DcR3 개변체인 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항에 있어서, 상기 DcR3 개변체가, (I) 서열 번호 26, 28, 30, 32, 34, 36, 38, 40, 42, 44 또는 46에 기재된 아미노산 서열, 혹은 해당 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열, 및(II) 서열 번호 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 180, 182, 184, 186, 188, 270, 272, 274, 276, 278, 280, 282, 284 또는 286에 기재된 아미노산 서열, 혹은 해당 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열로부터 선택되는 어느 하나의 아미노산 서열을 포함하는 DcR3 개변체.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 상기 DcR3 개변체가, 인간 IgG1, IgG2 또는 IgG4 항체 유래의 Fc 영역, 또는 상기 Fc 영역의 아미노산 서열에 있어서, 1 혹은 수개의 아미노산이 결실, 치환, 삽입 혹은 부가된 아미노산 서열을 포함하는 변이형 Fc 영역을 포함하는 DcR3 개변체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제29항에 있어서, 상기 Fc 영역 또는 상기 변이형 Fc 영역이, 그 밖의 영역 또는 링커를 통하여, 상기 제1 또는 제2 키메라형 시스테인 리치 영역의 C 말단측에 결합되어 있는 DcR3 개변체.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제29항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 220번째의 Cys의 Ser로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 234번째의 Leu의 Ala로의 치환, 235번째의 Leu의 Ala로의 치환, 및 237번째의 Gly의 Ala로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 434번째의 Asn의 Ala로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 252번째의 Met의 Tyr로의 치환, 254번째의 Ser의 Thr로의 치환, 및 256번째의 Thr의 Glu로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제29항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG4의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 228번째의 Ser의 Pro로의 치환, 235번째의 Leu의 Glu로의 치환, 및 409번째의 Arg의 Lys로의 치환을 갖는 DcR3 개변체.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제29항에 있어서, 상기 DcR3 개변체가, 서열 번호 72, 74, 156, 158, 160, 162, 164, 166, 311, 312 또는 313에 기재된 아미노산 서열을 포함하는 변이형 Fc 영역을 포함하는 DcR3 개변체.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제29항에 있어서, 상기 DcR3 개변체가, 서열 번호 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 150, 168, 170, 172, 174, 176, 178, 190, 192, 194, 196, 198, 200, 202, 204, 206, 208, 210, 212, 214, 216, 218, 220, 222, 224, 226, 228, 230, 232, 234, 236, 238, 240, 242, 244, 246, 248, 250, 252, 254, 256, 258, 260, 262, 264, 266, 268, 288, 290, 292, 294, 296, 298, 300, 302, 304, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336 또는 337에 기재된 아미노산 서열, 혹은 해당 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열을 포함하는 DcR3 개변체.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제7항에 기재된 DcR3 개변체를 포함하는 DcR3 개변체 조성물.",
+          "refers_to": [
+            1,
+            7
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제38항에 있어서, 1 이상의 N-글리코시드 결합 복합형 당쇄를 갖는 DcR3 개변체와, N-글리코시드 결합 복합형 당쇄를 갖지 않는 DcR3 개변체를 포함하는 조성물.",
+          "refers_to": [
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제7항에 기재된 DcR3 개변체를 코드하는 DNA.",
+          "refers_to": [
+            1,
+            7
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제40항에 기재된 DNA를 함유하는 유전자 재조합체 벡터.",
+          "refers_to": [
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제41항에 기재된 유전자 재조합체 벡터를 숙주 세포에 도입하여 얻어지는 형질 전환체.",
+          "refers_to": [
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제42항에 있어서, 숙주 세포가 포유 동물 유래의 세포인 형질 전환체.",
+          "refers_to": [
+            42
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제43항에 있어서, 포유 동물 유래의 세포가 CHO 세포인 형질 전환체.",
+          "refers_to": [
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제42항에 기재된 형질 전환체를 배지 중에서 배양하고, 제1항 또는 제7항에 기재된 DcR3 개변체를 생성 및 축적시키고, 얻어진 배양액으로부터 상기 DcR3 개변체를 정제하는 것을 특징으로 하는 DcR3 개변체 또는 DcR3 개변체 조성물의 제조 방법.",
+          "refers_to": [
+            1,
+            7
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제45항에 기재된 제조 방법을 사용하여 제조되는, DcR3 개변체 또는 DcR3 개변체 조성물.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항, 제7항 또는 제46항에 기재된 DcR3 개변체 또는 DcR3 개변체 조성물을 유효 성분으로서 함유하는 의약 조성물.",
+          "refers_to": [
+            7,
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제47항에 있어서, 자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료제인 의약 조성물.",
+          "refers_to": [
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료가 필요한 환자에, 제47항에 기재된 의약 조성물을 투여하는 것을 포함하는, 자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료 방법.",
+          "refers_to": [
+            47
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220308",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 49,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "야생형 디코이 수용체(Decoy Receptor) 3(이하, DcR3이라고 약기함)의 개변체인 DcR3 개변체로서, 상기 야생형 DcR3보다 개선된 체내 동태를 나타내는, 상기 DcR3 개변체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 1 이상의 N-글리코시드 결합 복합형 당쇄를 갖는 DcR3 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, LIGHT, TL1A 및 FasL 중 적어도 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, LIGHT, TL1A 및 FasL의 전부에 대하여 중화 활성을 갖는 DcR3 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A 중 어느 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A에 대하여 중화 활성을 갖는 DcR3 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "야생형 DcR3의 시스테인 리치 영역에 있어서, 야생형 DcR3의 시스테인 리치 도메인(이하, CRD라고 약기함)의 적어도 일부가, DcR3 이외의 TNF 수용체 슈퍼패밀리 분자의 시스테인 리치 도메인의 적어도 일부로 치환된 아미노산 서열을 포함하는 제1 키메라형 시스테인 리치 영역, 혹은 상기 제1 키메라형 시스테인 리치 영역의 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열을 포함하는 제2 키메라형 시스테인 리치 영역을 포함하는 DcR3 개변체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 1 이상의 N-글리코시드 결합 복합형 당쇄를 갖는 DcR3 개변체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, LIGHT, TL1A 및 FasL 중 적어도 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, LIGHT, TL1A 및 FasL의 전부에 대하여 중화 활성을 갖는 DcR3 개변체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A 중 어느 하나 이상에 대하여 중화 활성을 갖는 DcR3 개변체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A에 대하여 중화 활성을 갖는 DcR3 개변체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 TNF 수용체 슈퍼패밀리 분자가 OPG인 DcR3 개변체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 야생형 DcR3의 시스테인 리치 도메인의 적어도 일부가, CRD1의 전부 또는 일부, CRD2의 전부 또는 일부, CRD3의 전부 또는 일부, 및 CRD4의 전부 또는 일부로부터 선택되고,\n상기 TNF 수용체 슈퍼패밀리 분자의 시스테인 리치 도메인의 적어도 일부가, CRD1의 전부 또는 일부, CRD2의 전부 또는 일부, CRD3의 전부 또는 일부, 및 CRD4의 전부 또는 일부로부터 선택되는 DcR3 개변체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, 상기 제1 키메라형 시스테인 리치 영역이,\n상기 야생형 DcR3의 CRD1의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD1 중 상기 야생형 DcR3의 CRD1의 일부와 대응하는 부분에서의 치환,\n상기 야생형 DcR3의 CRD1의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD1의 전부에서의 치환,\n상기 야생형 DcR3의 CRD2의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD2 중 상기 야생형 DcR3의 CRD2의 일부와 대응하는 부분에서의 치환, \n상기 야생형 DcR3의 CRD2의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD2의 전부에서의 치환,\n상기 야생형 DcR3의 CRD3의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD3 중 상기 야생형 DcR3의 CRD3의 일부와 대응하는 부분에서의 치환,\n상기 야생형 DcR3의 CRD3의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD3의 전부에서의 치환,\n상기 야생형 DcR3의 CRD4의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD4 중 상기 야생형 DcR3의 CRD4의 일부와 대응하는 부분에서의 치환, 및\n상기 야생형 DcR3의 CRD4의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD4의 전부에서의 치환\n으로부터 선택되는 하나 이상의 치환을 갖는 DcR3 개변체.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 상기 제1 키메라형 시스테인 리치 영역에 있어서, 상기 야생형 DcR3의 CRD2의 일부 또는 전체가 유지되어 있는 DcR3 개변체.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 상기 제1 키메라형 시스테인 리치 영역에 있어서, 상기 야생형 DcR3의 CRD3의 일부 또는 전체가 유지되어 있는 DcR3 개변체.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, 상기 제1 키메라형 시스테인 리치 영역이, 이하의 (a), (b), (c) 또는 (d)의 아미노산 서열을 포함하고, 상기 제2 키메라형 시스테인 리치 영역이, 이하의 (e)의 아미노산 서열을 포함하는 DcR3 개변체.\n(a) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD1이, OPG의 CRD1로 치환된 아미노산 서열\n(b) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD4가, OPG의 CRD4로 치환된 아미노산 서열\n(c) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD1이, OPG의 CRD1로 치환되며, 또한 야생형 DcR3의 CRD4가, OPG의 CRD4로 치환된 아미노산 서열\n(d) 상기 (a), (b) 또는 (c)의 아미노산 서열에 있어서, N 말단으로부터 103번째 내지 123번째의 부분이, OPG의 시스테인 리치 도메인의 아미노산 서열 중 대응하는 부분으로 치환된 아미노산 서열\n(e) 상기 (a), (b), (c) 또는 (d)의 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 (a)의 아미노산 서열이, 서열 번호 26 또는 50에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,\n상기 (b)의 아미노산 서열이, 서열 번호 28 또는 52에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,\n상기 (c)의 아미노산 서열이, 서열 번호 30 또는 54에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,\n상기 (d)의 아미노산 서열이, 서열 번호 32 또는 56에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열인 DcR3 개변체.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu, 58번째의 Arg 및 60번째의 Arg로 이루어지는 군에서 선택되는 1개 또는 2개 이상의 아미노산의, 다른 아미노산으로의 치환을 갖는 DcR3 개변체.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu 및 58번째의 Arg의, 다른 아미노산으로의 치환을 갖는 DcR3 개변체.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu의 Lys, Leu, Arg, Val, Ala, Phe, His, Ile 또는 Met로의 치환, 58번째의 Arg의 Asp, Glu 또는 Thr로의 치환, 및 60번째의 Arg의 Lys로의 치환으로 이루어지는 군에서 선택되는 1종 또는 2종 이상의 치환을 갖는 DcR3 개변체.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu의 Lys, Leu, Arg, Val, Ala, Phe, His, Ile 또는 Met로의 치환, 및 상기 N 말단으로부터 58번째의 Arg의 Asp, Glu 또는 Thr로의 치환을 갖는 DcR3 개변체.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 이하의 (f) 내지 (i)로부터 선택되는 치환을 갖는 DcR3 개변체.\n(f) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째 및 144번째의 Asn의 다른 아미노산으로의 치환\n(g) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째, 144번째 및 157번째의 Asn의 다른 아미노산으로의 치환\n(h) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr 및 146번째의 Ser의 다른 아미노산으로의 치환\n(i) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr, 146번째의 Ser 및 159번째의 Thr의 다른 아미노산으로의 치환",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 이하의 (f') 내지 (i')로부터 선택되는 치환을 갖는 DcR3 개변체.\n(f') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째 및 144번째의 Asn의 Ser로의 치환\n(g') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째, 144번째 및 157번째의 Asn의 Ser로의 치환\n(h') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr 및 146번째의 Ser의 Ala로의 치환\n(i') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr, 146번째의 Ser 및 159번째의 Thr의 Ala로의 치환",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 (e)의 아미노산 서열이, 서열 번호 58, 60, 62, 64, 66, 68, 70, 180, 182, 184, 186, 188, 270, 272, 274, 276, 278, 280, 282, 284 또는 286에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열인 DcR3 개변체.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 DcR3 개변체가, 상기 제1 또는 제2 키메라형 시스테인 리치 영역과, 상기 제1 또는 제2 키메라형 시스테인 리치 영역의 C 말단측에 결합한 상기 야생형 DcR3의 헤파란황산 결합 영역의 일부 또는 전부를 포함하는 DcR3 개변체이거나, 혹은 상기 제1 또는 제2 키메라형 시스테인 리치 영역을 포함하고, 상기 야생형 DcR3의 헤파란황산 결합 영역을 포함하지 않는 DcR3 개변체인 DcR3 개변체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 상기 DcR3 개변체가, \n(I) 서열 번호 26, 28, 30, 32, 34, 36, 38, 40, 42, 44 또는 46에 기재된 아미노산 서열, 혹은 해당 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열, 및\n(II) 서열 번호 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 180, 182, 184, 186, 188, 270, 272, 274, 276, 278, 280, 282, 284 또는 286에 기재된 아미노산 서열, 혹은 해당 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열\n로부터 선택되는 어느 하나의 아미노산 서열을 포함하는 DcR3 개변체.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 DcR3 개변체가, 인간 IgG1, IgG2 또는 IgG4 항체 유래의 Fc 영역, 또는 상기 Fc 영역의 아미노산 서열에 있어서, 1 혹은 수개의 아미노산이 결실, 치환, 삽입 혹은 부가된 아미노산 서열을 포함하는 변이형 Fc 영역을 포함하는 DcR3 개변체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 상기 Fc 영역 또는 상기 변이형 Fc 영역이, 그 밖의 영역 또는 링커를 통하여, 상기 제1 또는 제2 키메라형 시스테인 리치 영역의 C 말단측에 결합되어 있는 DcR3 개변체.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 220번째의 Cys의 Ser로의 치환을 갖는 DcR3 개변체.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 234번째의 Leu의 Ala로의 치환, 235번째의 Leu의 Ala로의 치환, 및 237번째의 Gly의 Ala로의 치환을 갖는 DcR3 개변체.",
+            "refers_to": [
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 434번째의 Asn의 Ala로의 치환을 갖는 DcR3 개변체.",
+            "refers_to": [
+              31
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 252번째의 Met의 Tyr로의 치환, 254번째의 Ser의 Thr로의 치환, 및 256번째의 Thr의 Glu로의 치환을 갖는 DcR3 개변체.",
+            "refers_to": [
+              31
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG4의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 228번째의 Ser의 Pro로의 치환, 235번째의 Leu의 Glu로의 치환, 및 409번째의 Arg의 Lys로의 치환을 갖는 DcR3 개변체.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 상기 DcR3 개변체가, 서열 번호 72, 74, 156, 158, 160, 162, 164, 166, 311, 312 또는 313에 기재된 아미노산 서열을 포함하는 변이형 Fc 영역을 포함하는 DcR3 개변체.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 상기 DcR3 개변체가, 서열 번호 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 150, 168, 170, 172, 174, 176, 178, 190, 192, 194, 196, 198, 200, 202, 204, 206, 208, 210, 212, 214, 216, 218, 220, 222, 224, 226, 228, 230, 232, 234, 236, 238, 240, 242, 244, 246, 248, 250, 252, 254, 256, 258, 260, 262, 264, 266, 268, 288, 290, 292, 294, 296, 298, 300, 302, 304, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336 또는 337에 기재된 아미노산 서열, 혹은 해당 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열을 포함하는 DcR3 개변체.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제7항에 기재된 DcR3 개변체를 포함하는 DcR3 개변체 조성물.",
+            "refers_to": [
+              1,
+              7
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제38항에 있어서, 1 이상의 N-글리코시드 결합 복합형 당쇄를 갖는 DcR3 개변체와, N-글리코시드 결합 복합형 당쇄를 갖지 않는 DcR3 개변체를 포함하는 조성물.",
+            "refers_to": [
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제7항에 기재된 DcR3 개변체를 코드하는 DNA.",
+            "refers_to": [
+              1,
+              7
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제40항에 기재된 DNA를 함유하는 유전자 재조합체 벡터.",
+            "refers_to": [
+              40
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제41항에 기재된 유전자 재조합체 벡터를 숙주 세포에 도입하여 얻어지는 형질 전환체.",
+            "refers_to": [
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제42항에 있어서, 숙주 세포가 포유 동물 유래의 세포인 형질 전환체.",
+            "refers_to": [
+              42
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항에 있어서, 포유 동물 유래의 세포가 CHO 세포인 형질 전환체.",
+            "refers_to": [
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제42항에 기재된 형질 전환체를 배지 중에서 배양하고, 제1항 또는 제7항에 기재된 DcR3 개변체를 생성 및 축적시키고, 얻어진 배양액으로부터 상기 DcR3 개변체를 정제하는 것을 특징으로 하는 DcR3 개변체 또는 DcR3 개변체 조성물의 제조 방법.",
+            "refers_to": [
+              1,
+              7
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제45항에 기재된 제조 방법을 사용하여 제조되는, DcR3 개변체 또는 DcR3 개변체 조성물.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항, 제7항 또는 제46항에 기재된 DcR3 개변체 또는 DcR3 개변체 조성물을 유효 성분으로서 함유하는 의약 조성물.",
+            "refers_to": [
+              7,
+              46
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제47항에 있어서, 자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료제인 의약 조성물.",
+            "refers_to": [
+              47
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료가 필요한 환자에, 제47항에 기재된 의약 조성물을 투여하는 것을 포함하는, 자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료 방법.",
+            "refers_to": [
+              47
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20230908",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 49,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "야생형 DcR3의 시스테인 리치 영역에 있어서, 야생형 DcR3의 시스테인 리치 도메인(이하, CRD라고 약기함)의 적어도 일부가, DcR3 이외의 TNF 수용체 슈퍼패밀리 분자의 시스테인 리치 도메인의 적어도 일부로 치환된 아미노산 서열을 포함하는 제1 키메라형 시스테인 리치 영역, 혹은 상기 제1 키메라형 시스테인 리치 영역의 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열을 포함하는 제2 키메라형 시스테인 리치 영역을 포함하는 DcR3 개변체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n(A) 상기 DcR3 개변체가 1 이상의 N-글리코시드 결합 복합형 당쇄를 갖거나,\n(B) 상기 DcR3 개변체가 LIGHT, TL1A 및 FasL 중 적어도 하나 이상에 대하여 중화 활성을 갖거나,\n(C) 상기 DcR3 개변체가 LIGHT, TL1A 및 FasL의 전부에 대하여 중화 활성을 갖거나,\n(D) 상기 DcR3 개변체가 FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A 중 어느 하나 이상에 대하여 중화 활성을 갖거나,\n(E) 상기 DcR3 개변체가 FasL에 대하여 중화 활성을 갖지 않고, 또한 LIGHT 및 TL1A에 대하여 중화 활성을 갖거나, 혹은\n(F) 상기 TNF 수용체 슈퍼패밀리 분자가 OPG인\nDcR3 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 야생형 DcR3의 시스테인 리치 도메인의 적어도 일부가, CRD1의 전부 또는 일부, CRD2의 전부 또는 일부, CRD3의 전부 또는 일부, 및 CRD4의 전부 또는 일부로부터 선택되고,\n상기 TNF 수용체 슈퍼패밀리 분자의 시스테인 리치 도메인의 적어도 일부가, CRD1의 전부 또는 일부, CRD2의 전부 또는 일부, CRD3의 전부 또는 일부, 및 CRD4의 전부 또는 일부로부터 선택되는 DcR3 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 상기 제1 키메라형 시스테인 리치 영역이,\n상기 야생형 DcR3의 CRD1의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD1 중 상기 야생형 DcR3의 CRD1의 일부와 대응하는 부분에서의 치환,\n상기 야생형 DcR3의 CRD1의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD1의 전부에서의 치환,\n상기 야생형 DcR3의 CRD2의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD2 중 상기 야생형 DcR3의 CRD2의 일부와 대응하는 부분에서의 치환, \n상기 야생형 DcR3의 CRD2의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD2의 전부에서의 치환,\n상기 야생형 DcR3의 CRD3의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD3 중 상기 야생형 DcR3의 CRD3의 일부와 대응하는 부분에서의 치환,\n상기 야생형 DcR3의 CRD3의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD3의 전부에서의 치환,\n상기 야생형 DcR3의 CRD4의 일부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD4 중 상기 야생형 DcR3의 CRD4의 일부와 대응하는 부분에서의 치환, 및\n상기 야생형 DcR3의 CRD4의 전부의, 상기 TNF 수용체 슈퍼패밀리 분자의 CRD4의 전부에서의 치환\n으로부터 선택되는 하나 이상의 치환을 갖는 DcR3 개변체.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 상기 제1 키메라형 시스테인 리치 영역에 있어서, 상기 야생형 DcR3의 CRD2의 일부 또는 전체가 유지되어 있거나, 혹은\n상기 제1 키메라형 시스테인 리치 영역에 있어서, 상기 야생형 DcR3의 CRD3의 일부 또는 전체가 유지되어 있는 \nDcR3 개변체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 상기 제1 키메라형 시스테인 리치 영역이, 이하의 (a), (b), (c) 또는 (d)의 아미노산 서열을 포함하고, 상기 제2 키메라형 시스테인 리치 영역이, 이하의 (e)의 아미노산 서열을 포함하는 DcR3 개변체.\n(a) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD1이, OPG의 CRD1로 치환된 아미노산 서열\n(b) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD4가, OPG의 CRD4로 치환된 아미노산 서열\n(c) 상기 야생형 DcR3의 시스테인 리치 영역의 아미노산 서열에 있어서, 야생형 DcR3의 CRD1이, OPG의 CRD1로 치환되며, 또한 야생형 DcR3의 CRD4가, OPG의 CRD4로 치환된 아미노산 서열\n(d) 상기 (a), (b) 또는 (c)의 아미노산 서열에 있어서, N 말단으로부터 103번째 내지 123번째의 부분이, OPG의 시스테인 리치 도메인의 아미노산 서열 중 대응하는 부분으로 치환된 아미노산 서열\n(e) 상기 (a), (b), (c) 또는 (d)의 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 (a)의 아미노산 서열이, 서열 번호 26 또는 50에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,\n상기 (b)의 아미노산 서열이, 서열 번호 28 또는 52에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,\n상기 (c)의 아미노산 서열이, 서열 번호 30 또는 54에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이고,\n상기 (d)의 아미노산 서열이, 서열 번호 32 또는 56에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열이거나, 혹은\n상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu, 58번째의 Arg 및 60번째의 Arg로 이루어지는 군에서 선택되는 1개 또는 2개 이상의 아미노산의, 다른 아미노산으로의 치환을 갖거나, 혹은\n상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu 및 58번째의 Arg의, 다른 아미노산으로의 치환을 갖거나, 혹은\n상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu의 Lys, Leu, Arg, Val, Ala, Phe, His, Ile 또는 Met로의 치환, 58번째의 Arg의 Asp, Glu 또는 Thr로의 치환, 및 60번째의 Arg의 Lys로의 치환으로 이루어지는 군에서 선택되는 1종 또는 2종 이상의 치환을 갖거나, 혹은\n상기 (e)의 아미노산 서열이, 상기 (a), (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 57번째의 Glu의 Lys, Leu, Arg, Val, Ala, Phe, His, Ile 또는 Met로의 치환, 및 상기 N 말단으로부터 58번째의 Arg의 Asp, Glu 또는 Thr로의 치환을 갖거나, 혹은\n상기 (e)의 아미노산 서열이, 이하의 (f) 내지 (i):\n(f) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째 및 144번째의 Asn의 다른 아미노산으로의 치환\n(g) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째, 144번째 및 157번째의 Asn의 다른 아미노산으로의 치환\n(h) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr 및 146번째의 Ser의 다른 아미노산으로의 치환\n(i) 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr, 146번째의 Ser 및 159번째의 Thr의 다른 아미노산으로의 치환\n으로부터 선택되는 치환을 갖거나, 혹은\n상기 (e)의 아미노산 서열이, 이하의 (f') 내지 (i'):\n(f') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째 및 144번째의 Asn의 Ser로의 치환\n(g') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 131번째, 144번째 및 157번째의 Asn의 Ser로의 치환\n(h') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr 및 146번째의 Ser의 Ala로의 치환\n(i') 상기 (b), (c) 또는 (d)의 아미노산 서열의 N 말단으로부터 133번째의 Thr, 146번째의 Ser 및 159번째의 Thr의 Ala로의 치환\n으로부터 선택되는 치환을 갖거나, 혹은\n상기 (e)의 아미노산 서열이, 서열 번호 58, 60, 62, 64, 66, 68, 70, 180, 182, 184, 186, 188, 270, 272, 274, 276, 278, 280, 282, 284 또는 286에 기재된 아미노산 서열 중 N 말단으로부터 1 내지 164번째의 아미노산을 포함하는 아미노산 서열인 \nDcR3 개변체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 DcR3 개변체가, 상기 제1 또는 제2 키메라형 시스테인 리치 영역과, 상기 제1 또는 제2 키메라형 시스테인 리치 영역의 C 말단측에 결합한 상기 야생형 DcR3의 헤파란황산 결합 영역의 일부 또는 전부를 포함하는 DcR3 개변체이거나, 혹은 상기 제1 또는 제2 키메라형 시스테인 리치 영역을 포함하고, 상기 야생형 DcR3의 헤파란황산 결합 영역을 포함하지 않는 DcR3 개변체인 DcR3 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, 상기 DcR3 개변체가, \n서열 번호 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 180, 182, 184, 186, 188, 270, 272, 274, 276, 278, 280, 282, 284 또는 286에 기재된 아미노산 서열, 혹은 해당 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열\n을 포함하는 DcR3 개변체.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 DcR3 개변체가, 인간 IgG1, IgG2 또는 IgG4 항체 유래의 Fc 영역, 또는 상기 Fc 영역의 아미노산 서열에 있어서, 1 혹은 수개의 아미노산이 결실, 치환, 삽입 혹은 부가된 아미노산 서열을 포함하는 변이형 Fc 영역을 포함하는 DcR3 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 Fc 영역 또는 상기 변이형 Fc 영역이, 그 밖의 영역 또는 링커를 통하여, 상기 제1 또는 제2 키메라형 시스테인 리치 영역의 C 말단측에 결합되어 있는 DcR3 개변체.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 220번째의 Cys의 Ser로의 치환을 갖고,\n경우에 따라,\n(A) 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 234번째의 Leu의 Ala로의 치환, 235번째의 Leu의 Ala로의 치환, 및 237번째의 Gly의 Ala로의 치환을 갖거나,\n(B) 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 434번째의 Asn의 Ala로의 치환을 갖거나, 혹은\n(C) 상기 변이형 Fc 영역이, 인간 IgG1의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 252번째의 Met의 Tyr로의 치환, 254번째의 Ser의 Thr로의 치환, 및 256번째의 Thr의 Glu로의 치환을 갖는 \nDcR3 개변체.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 변이형 Fc 영역이, 인간 IgG4의 중쇄의 아미노산 서열 중, EU 인덱스로 표시되는 228번째의 Ser의 Pro로의 치환, 235번째의 Leu의 Glu로의 치환, 및 409번째의 Arg의 Lys로의 치환을 갖거나, 혹은\n상기 DcR3 개변체가, 서열 번호 72, 74, 156, 158, 160, 162, 164, 166, 311, 312 또는 313에 기재된 아미노산 서열을 포함하는 변이형 Fc 영역을 포함하거나, 혹은 \n상기 DcR3 개변체가, 서열 번호 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 150, 168, 170, 172, 174, 176, 178, 190, 192, 194, 196, 198, 200, 202, 204, 206, 208, 210, 212, 214, 216, 218, 220, 222, 224, 226, 228, 230, 232, 234, 236, 238, 240, 242, 244, 246, 248, 250, 252, 254, 256, 258, 260, 262, 264, 266, 268, 288, 290, 292, 294, 296, 298, 300, 302, 304, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336 또는 337에 기재된 아미노산 서열, 혹은 해당 아미노산 서열에 있어서, 1 내지 30개의 아미노산이 결실, 치환, 삽입 또는 부가된 아미노산 서열을 포함하는\nDcR3 개변체.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 기재된 DcR3 개변체를 코드하는 DNA.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 기재된 DNA를 함유하는 유전자 재조합체 벡터.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 기재된 유전자 재조합체 벡터를 숙주 세포에 도입하여 얻어지는 형질 전환체.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 숙주 세포가 포유 동물 유래의 세포, 또는 CHO 세포인 형질 전환체.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 기재된 형질 전환체를 배지 중에서 배양하고, 제1항에 기재된 DcR3 개변체를 생성 및 축적시키고, 얻어진 배양액으로부터 상기 DcR3 개변체를 정제하는 것을 특징으로 하는 DcR3 개변체 또는 DcR3 개변체 조성물의 제조 방법.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 기재된 DcR3 개변체를 유효 성분으로서 함유하며, 자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료제인 의약 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료가 필요한 환자에, 제19항에 기재된 의약 조성물을 투여하는 것을 포함하는, 자기 면역 질환, 염증성 질환 또는 알레르기성 질환의 예방 또는 치료 방법에 사용하기 위한 의약 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 49,
+      "after_claim_count": 49,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2021.03.18",
+      "internationOpenNumber": "WO2021049606",
+      "internationalApplicationDate": "2020.09.11",
+      "internationalApplicationNumber": "PCT/JP2020/034444"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "일본국 도쿄토 치요다쿠 오테마치 *쵸메 *방 *고",
+      "code": "519980957966",
+      "country": "일본",
+      "engName": "Kyowa Kirin Co., Ltd.",
+      "name": "쿄와 기린 가부시키가이샤"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "일본 ******* 도쿄토 치요다쿠 오...",
+        "code": "",
+        "country": "",
+        "engName": "KANAI, Akiko",
+        "name": "가나이, 아키코"
+      },
+      {
+        "address": "일본 ******* 도쿄토 치요다쿠 오...",
+        "code": "",
+        "country": "",
+        "engName": "HOSOMI, Hitomi",
+        "name": "호소미, 히토미"
+      },
+      {
+        "address": "일본 ******* 도쿄토 치요다쿠 오...",
+        "code": "",
+        "country": "",
+        "engName": "YONEZAWA, Sakiko",
+        "name": "요네자와, 사키코"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "920030006060",
+        "country": "대한민국",
+        "engName": "YU RI YI",
+        "name": "이유리"
+      },
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980004828",
+        "country": "대한민국",
+        "engName": "CHANG, Soo Kil",
+        "name": "장수길"
+      },
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "919980004201",
+        "country": "대한민국",
+        "engName": "Lee Seok Jae",
+        "name": "이석재"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "일본",
+      "priorityApplicationDate": "2019.09.13",
+      "priorityApplicationNumber": "JP-P-2019-167728"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2022.03.08",
+        "receiptNumber": "1-1-2022-0251723-64"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2022.04.14",
+        "receiptNumber": "1-5-2022-0057519-43"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.09.08",
+        "receiptNumber": "1-1-2023-0993174-35"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.09.08",
+        "receiptNumber": "1-1-2023-0993173-90"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2025.05.07",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2025.06.10",
+        "receiptNumber": "9-6-2025-0194437-68"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.22",
+        "receiptNumber": "9-5-2025-1022792-73"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020227007739.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c934fb9b25d963f53a4a05dc27dd42102913028c836fda71dbd6cef51691b4e0021ec484eaa49d91dec73bf14019fc75e7ad62553a6430ee511",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfd45bd530d95088370f048b02e36228205b50ee0e96bfe125bf705d2c3859f57b93f0096bb0346ab8738ac81f44c36f83ec899c15f710ac3d"
+  },
+  "rndInfoArray": ""
+}

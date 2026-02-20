@@ -1,0 +1,1726 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.06.17",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-7000923",
+      "claimCount": "33",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "세포성 및 체액성 면역을 유도하는 동종이계 T-세포 기반 HIV 백신",
+      "inventionTitleEng": "ALLOGENEIC T-CELL-BASED HIV VACCINE TO INDUCE CELLULAR AND HUMORAL IMMUNITY",
+      "openDate": "2022.06.21",
+      "openNumber": "10-2022-0084006",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.05.31",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2022.01.11"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/85"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/705"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/52"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/21"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/18"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 CD4+ T-세포와 같은 재조합 동종이계 세포를 포함하는 세포 조성물 투여를 포함하는 인간 면역 결핍 바이러스(HIV)를 가진 환자를 치료하는 방법을 제시한다. 나아가 본 발명은 세포성 면역 및 체액성 면역 모두를 유도하는 동종이계 T-세포 기반 예방 HIV 백신을 만드는 방법 및 조성물에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020227000923",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220111",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 36,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "CD40L 및 CXCL13을 인코딩하는 뉴클레오티드 서열을 포함하는 비상동 핵산 분자를 포함하는 것을 특징으로 하는 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 CD40L이 SEQ ID NO: 4에 대해 90% 이상의 서열 동일성을 갖는 아미노산 서열을 포함하고, 상기 CXCL13이 SEQ ID NO: 3에 대해 90% 이상의 서열 동일성을 갖는 아미노산 서열을 포함하는 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포가 CD40L 및 CXCL13을 비상동적으로 발현하는 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포가 분리된 세포인 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포가 CD4+ T-세포와 같은 T-세포인 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 세포가 비상동 단백질 또는 표적 항원을 인코딩하는 제2 및/또는 제3 핵산으로 형질도입되거나(transduced) 형질감염된(transfected) 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 제2 핵산이 인간 면역결핍 바이러스(HIV) 게놈을 포함하고, 상기 HIV 게놈의 핵산이 레트로바이러스 역전사효소에 돌연변이를 포함하고, 추가로 HIV 게놈의 핵산이 레트로바이러스 패키징 신호를 인코딩하지 않고, 비활성화된 HIV 게놈의 작제물(construct)을 생성하는 것을 특징으로 하는 세포.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 표적 항원이 HIV 단백질인 것을 특징으로 하는 세포.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 상기 HIV 단백질이 HIV Tat(길이가 72 및 101인 아미노산의 전체 길이 또는 동형체), Rev, Pol, GP120, GP160, GP41, env, Gag, Gag-Pol, Nef, Vpr, Vpu 또는 Vif 또는 이들의 임의의 조합 중 하나 이상인 것을 특징으로 하는 세포.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 상기 세포가 CD4+ T-세포인 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "SEQ ID NO: 3에 대해 적어도 90% 서열 동일성을 갖는 아미노산 서열, 및/또는 SEQ ID NO: 4에 대해 적어도 90% 서열 동일성을 갖는 아미노산 서열을 인코딩하는 하나 이상의 비상동 핵산 분자를 포함하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 세포가 CD40L을 발현하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항 및 제12항에 있어서, 상기 세포가 CXCL13을 발현하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 세포가 CD40L 및 CXCL13을 발현하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 세포가 분리된 CD4+ T 세포인 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "비상동 CD40L 단백질 및 비상동 CXCL13 단백질을 포함하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서, CD4+ T-세포가 인간 면역결핍 바이러스(HIV) 게놈을 포함하는 비상동 핵산 분자를 더 포함하고, 상기 HIV 게놈의 핵산은 레트로바이러스 역전사효소에 돌연변이를 포함하고, 추가로 상기 HIV 게놈의 핵산은 레트로바이러스 패키징 신호를 인코딩하지 않아 비활성화된 HIV 게놈의 작제물 생성하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서, 표적 항원을 인코딩하는 비상동 핵산 분자를 더 포함하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 표적 항원이 HIV 단백질인 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 상기 HIV 단백질이 HIV Tat(길이가 72 및 101인 아미노산의 전체 길이 또는 동형체), Rev, Pol, GP120, GP160, GP41, env, Gag, Gag-Pol, Nef, Vpr, Vpu, 또는 Vif 또는 이들의 임의의 조합 중 하나 이상인 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제20항 중 어느 한 항의 임의의 세포의 유효량을 포함하는 조성물을 대상체에게 투여하는 단계를 포함하는 것을 특징으로 하는 대상체에서 HIV를 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 상기 조성물이 약제학적 조성물인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, 상기 조성물이 정맥내로 또는 주입에 의해 투여되는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제23항 중 어느 한 항에 있어서, 상기 세포가 대상체와 동종이계이거나 HLA-매칭되지 않는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제23항 중 어느 한 항에 있어서, 상기 세포가 대상체에 자가조직인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제25항 중 어느 한 항에 있어서, 상기 조성물 중 세포의 투여량이 약 1 x 106내지 약 5 x 106인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "면역 반응을 필요로 하는 대상체에서 면역 반응을 증가시키는 방법으로서, 제1항 내지 제20항 중 어느 한 항의 임의의 세포의 유효량을 투여하는 단계를 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 상기 증가된 면역 반응이 표적 항원에 대항하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항에 있어서, 상기 표적 항원이 HIV 단백질인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, HIV 단백질이 HIV Tat(길이가 72 및 101인 아미노산의 전체 길이 또는 동형체), Rev, Pol, GP120, GP160, GP41, env, Gag, Gag- Pol, Nef, Vpr, Vpu, 또는 Vif 또는 이들의 임의의 조합 중 하나 이상인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항 내지 제29항 중 어느 한 항에 있어서, 세포가 대상체에 대해 동종이계인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항 내지 제29항 중 어느 한 항에 있어서, 상기 세포가 환자와 HLA-매칭되지 않는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항 내지 제32항 중 어느 한 항에 있어서, 상기 세포의 투여량이 약 1-5 x 106의 범위인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항 내지 제33항 중 어느 한 항에 있어서, 상기 면역 반응이 바이러스 감염에 대항하고, 상기 바이러스 감염은 인간 면역결핍 바이러스(HIV) 감염일 수 있는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제34항 중 어느 한 항에 있어서, 상기 면역 반응의 치료 또는 증가는 대상체가 개선, 감소되거나 검출할 수 없는 바이러스 역가, 또는 안정/비진행 질병을 나타내는 한 매주 1회부터 2주마다 1회, 3주마다 1회, 매월 1회, 2개월마다 1회, 3개월마다 1회, 4개월에 1회, 5개월마다 1회, 6개월마다 1회, 7개월마다 1회, 8개월마다 1회, 9개월마다 1회, 10개월마다 1회, 11개월마다 1회 또는 1년마다 1회까지 유지 치료로서 일정기간 동안 주기적으로 반복되는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 내지 제35항 중 어느 한 항에 있어서, 상기 대상체에서 세포성 및 체액성 면역이 유도되는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20230531",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 36,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "CD40L 및 CXCL13을 인코딩하는 뉴클레오티드 서열을 포함하는 비상동 핵산 분자를 포함하는 것을 특징으로 하는 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 CD40L이 SEQ ID NO: 4에 대해 90% 이상의 서열 동일성을 갖는 아미노산 서열을 포함하고, 상기 CXCL13이  SEQ ID NO: 3에 대해 90% 이상의 서열 동일성을 갖는 아미노산 서열을 포함하는 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 세포가 CD40L 및 CXCL13을 비상동적으로 발현하는 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 세포가 분리된 세포인 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 세포가 CD4+ T-세포와 같은 T-세포인 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 세포가 비상동 단백질 또는 표적 항원을 인코딩하는 제2 및/또는 제3 핵산으로 형질도입되거나(transduced) 형질감염된(transfected) 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 제2 핵산이 인간 면역결핍 바이러스(HIV) 게놈을 포함하고, 상기 HIV 게놈의 핵산이 레트로바이러스 역전사효소에 돌연변이를 포함하고, 추가로 HIV 게놈의 핵산이 레트로바이러스 패키징 신호를 인코딩하지 않고, 비활성화된 HIV 게놈의 작제물(construct)을 생성하는 것을 특징으로 하는 세포.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 표적 항원이 HIV 단백질인 것을 특징으로 하는 세포.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서, 상기 HIV 단백질이 HIV Tat(길이가 72 및 101인 아미노산의 전체 길이 또는 동형체), Rev, Pol, GP120, GP160, GP41, env, Gag, Gag-Pol, Nef, Vpr, Vpu 또는 Vif 또는 이들의 임의의 조합 중 하나 이상인 것을 특징으로 하는 세포.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 상기 세포가 CD4+ T-세포인 것을 특징으로 하는 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "SEQ ID NO: 3에 대해 적어도 90% 서열 동일성을 갖는 아미노산 서열, 및/또는 SEQ ID NO: 4에 대해 적어도 90% 서열 동일성을 갖는 아미노산 서열을 인코딩하는 하나 이상의 비상동 핵산 분자를 포함하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 세포가 CD40L을 발현하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항 및 제12항에 있어서, 상기 세포가 CXCL13을 발현하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 세포가 CD40L 및 CXCL13을 발현하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 세포가 분리된 CD4+ T 세포인 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "비상동 CD40L 단백질 및 비상동 CXCL13 단백질을 포함하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, CD4+ T-세포가 인간 면역결핍 바이러스(HIV) 게놈을 포함하는 비상동 핵산 분자를 더 포함하고, 상기 HIV 게놈의 핵산은 레트로바이러스 역전사효소에 돌연변이를 포함하고, 추가로 상기 HIV 게놈의 핵산은 레트로바이러스 패키징 신호를 인코딩하지 않아 비활성화된 HIV 게놈의 작제물 생성하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, 표적 항원을 인코딩하는 비상동 핵산 분자를 더 포함하는 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 표적 항원이 HIV 단백질인 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, 상기 HIV 단백질이 HIV Tat(길이가 72 및 101인 아미노산의 전체 길이 또는 동형체), Rev, Pol, GP120, GP160, GP41, env, Gag, Gag-Pol, Nef, Vpr, Vpu, 또는 Vif 또는 이들의 임의의 조합 중 하나 이상인 것을 특징으로 하는 CD4+ T-세포.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제20항 중 어느 한 항의 임의의 세포의 유효량을  포함하는 조성물을 대상체에게 투여하는 단계를 포함하는 것을 특징으로 하는 대상체에서 HIV를 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항에 있어서, 상기 조성물이 약제학적 조성물인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항에 있어서, 상기 조성물이 정맥내로 또는 주입에 의해 투여되는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항 내지 제23항 중 어느 한 항에 있어서, 상기 세포가 대상체와 동종이계이거나 HLA-매칭되지 않는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항 내지 제23항 중 어느 한 항에 있어서, 상기 세포가 대상체에 자가조직인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항 내지 제25항 중 어느 한 항에 있어서, 상기 조성물 중 세포의 투여량이 약 1 x 106내지 약 5 x 106인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "면역 반응을 필요로 하는 대상체에서 면역 반응을 증가시키는 방법으로서, 제1항 내지 제20항 중 어느 한 항의 임의의 세포의 유효량을 투여하는 단계를 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항에 있어서, 상기 증가된 면역 반응이 표적 항원에 대항하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제28항에 있어서, 상기 표적 항원이 HIV 단백질인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제29항에 있어서, HIV 단백질이 HIV Tat(길이가 72 및 101인 아미노산의 전체 길이 또는 동형체), Rev, Pol, GP120, GP160, GP41, env, Gag, Gag- Pol, Nef, Vpr, Vpu, 또는 Vif 또는 이들의 임의의 조합 중 하나 이상인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항 내지 제29항 중 어느 한 항에 있어서, 세포가 대상체에 대해 동종이계인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항 내지 제29항 중 어느 한 항에 있어서, 상기 세포가 환자와 HLA-매칭되지 않는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            27,
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항 내지 제32항 중 어느 한 항에 있어서, 상기 세포의 투여량이 약 1-5 x 106의 범위인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항 내지 제33항 중 어느 한 항에 있어서, 상기 면역 반응이 바이러스 감염에 대항하고, 상기 바이러스 감염은 인간 면역결핍 바이러스(HIV) 감염일 수 있는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항 내지 제34항 중 어느 한 항에 있어서, 상기 면역 반응의 치료 또는 증가는 대상체가 개선, 감소되거나 검출할 수 없는 바이러스 역가, 또는 안정/비진행 질병을 나타내는 한 매주 1회부터 2주마다 1회, 3주마다 1회, 매월 1회, 2개월마다 1회, 3개월마다 1회, 4개월에 1회, 5개월마다 1회, 6개월마다 1회, 7개월마다 1회, 8개월마다 1회, 9개월마다 1회, 10개월마다 1회, 11개월마다 1회 또는 1년마다 1회까지 유지 치료로서 일정기간 동안 주기적으로 반복되는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제21항 내지 제35항 중 어느 한 항에 있어서, 상기 대상체에서 세포성 및 체액성 면역이 유도되는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220111",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 36,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "CD40L 및 CXCL13을 인코딩하는 뉴클레오티드 서열을 포함하는 비상동 핵산 분자를 포함하는 것을 특징으로 하는 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 CD40L이 SEQ ID NO: 4에 대해 90% 이상의 서열 동일성을 갖는 아미노산 서열을 포함하고, 상기 CXCL13이 SEQ ID NO: 3에 대해 90% 이상의 서열 동일성을 갖는 아미노산 서열을 포함하는 것을 특징으로 하는 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포가 CD40L 및 CXCL13을 비상동적으로 발현하는 것을 특징으로 하는 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포가 분리된 세포인 것을 특징으로 하는 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포가 CD4+ T-세포와 같은 T-세포인 것을 특징으로 하는 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 세포가 비상동 단백질 또는 표적 항원을 인코딩하는 제2 및/또는 제3 핵산으로 형질도입되거나(transduced) 형질감염된(transfected) 것을 특징으로 하는 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 제2 핵산이 인간 면역결핍 바이러스(HIV) 게놈을 포함하고, 상기 HIV 게놈의 핵산이 레트로바이러스 역전사효소에 돌연변이를 포함하고, 추가로 HIV 게놈의 핵산이 레트로바이러스 패키징 신호를 인코딩하지 않고, 비활성화된 HIV 게놈의 작제물(construct)을 생성하는 것을 특징으로 하는 세포.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 표적 항원이 HIV 단백질인 것을 특징으로 하는 세포.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, 상기 HIV 단백질이 HIV Tat(길이가 72 및 101인 아미노산의 전체 길이 또는 동형체), Rev, Pol, GP120, GP160, GP41, env, Gag, Gag-Pol, Nef, Vpr, Vpu 또는 Vif 또는 이들의 임의의 조합 중 하나 이상인 것을 특징으로 하는 세포.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 상기 세포가 CD4+ T-세포인 것을 특징으로 하는 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "SEQ ID NO: 3에 대해 적어도 90% 서열 동일성을 갖는 아미노산 서열, 및/또는 SEQ ID NO: 4에 대해 적어도 90% 서열 동일성을 갖는 아미노산 서열을 인코딩하는 하나 이상의 비상동 핵산 분자를 포함하는 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 세포가 CD40L을 발현하는 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항 및 제12항에 있어서, 상기 세포가 CXCL13을 발현하는 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 세포가 CD40L 및 CXCL13을 발현하는 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 세포가 분리된 CD4+ T 세포인 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "비상동 CD40L 단백질 및 비상동 CXCL13 단백질을 포함하는 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서, CD4+ T-세포가 인간 면역결핍 바이러스(HIV) 게놈을 포함하는 비상동 핵산 분자를 더 포함하고, 상기 HIV 게놈의 핵산은 레트로바이러스 역전사효소에 돌연변이를 포함하고, 추가로 상기 HIV 게놈의 핵산은 레트로바이러스 패키징 신호를 인코딩하지 않아 비활성화된 HIV 게놈의 작제물 생성하는 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서, 표적 항원을 인코딩하는 비상동 핵산 분자를 더 포함하는 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 표적 항원이 HIV 단백질인 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 상기 HIV 단백질이 HIV Tat(길이가 72 및 101인 아미노산의 전체 길이 또는 동형체), Rev, Pol, GP120, GP160, GP41, env, Gag, Gag-Pol, Nef, Vpr, Vpu, 또는 Vif 또는 이들의 임의의 조합 중 하나 이상인 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제20항 중 어느 한 항의 임의의 세포의 유효량을 포함하는 조성물을 대상체에게 투여하는 단계를 포함하는 것을 특징으로 하는 대상체에서 HIV를 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, 상기 조성물이 약제학적 조성물인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, 상기 조성물이 정맥내로 또는 주입에 의해 투여되는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제23항 중 어느 한 항에 있어서, 상기 세포가 대상체와 동종이계이거나 HLA-매칭되지 않는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제23항 중 어느 한 항에 있어서, 상기 세포가 대상체에 자가조직인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제25항 중 어느 한 항에 있어서, 상기 조성물 중 세포의 투여량이 약 1 x 106내지 약 5 x 106인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "면역 반응을 필요로 하는 대상체에서 면역 반응을 증가시키는 방법으로서, 제1항 내지 제20항 중 어느 한 항의 임의의 세포의 유효량을 투여하는 단계를 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 상기 증가된 면역 반응이 표적 항원에 대항하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항에 있어서, 상기 표적 항원이 HIV 단백질인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, HIV 단백질이 HIV Tat(길이가 72 및 101인 아미노산의 전체 길이 또는 동형체), Rev, Pol, GP120, GP160, GP41, env, Gag, Gag- Pol, Nef, Vpr, Vpu, 또는 Vif 또는 이들의 임의의 조합 중 하나 이상인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항 내지 제29항 중 어느 한 항에 있어서, 세포가 대상체에 대해 동종이계인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항 내지 제29항 중 어느 한 항에 있어서, 상기 세포가 환자와 HLA-매칭되지 않는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항 내지 제32항 중 어느 한 항에 있어서, 상기 세포의 투여량이 약 1-5 x 106의 범위인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항 내지 제33항 중 어느 한 항에 있어서, 상기 면역 반응이 바이러스 감염에 대항하고, 상기 바이러스 감염은 인간 면역결핍 바이러스(HIV) 감염일 수 있는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제34항 중 어느 한 항에 있어서, 상기 면역 반응의 치료 또는 증가는 대상체가 개선, 감소되거나 검출할 수 없는 바이러스 역가, 또는 안정/비진행 질병을 나타내는 한 매주 1회부터 2주마다 1회, 3주마다 1회, 매월 1회, 2개월마다 1회, 3개월마다 1회, 4개월에 1회, 5개월마다 1회, 6개월마다 1회, 7개월마다 1회, 8개월마다 1회, 9개월마다 1회, 10개월마다 1회, 11개월마다 1회 또는 1년마다 1회까지 유지 치료로서 일정기간 동안 주기적으로 반복되는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 내지 제35항 중 어느 한 항에 있어서, 상기 대상체에서 세포성 및 체액성 면역이 유도되는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20230531",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 27,
+        "claims": [
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 세포가 T-세포인 것을 특징으로 하는 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 세포가 비상동 단백질 또는 표적 항원을 인코딩하는 제2 또는 제3 핵산으로 형질도입되거나(transduced) 형질감염된(transfected) 것을 특징으로 하는 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 세포가 CD40L, CXCL13, 또는 CD40L 및 CXCL13을 발현하는 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 세포가 분리된 CD4+ T 세포인 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "비상동 CD40L 단백질 및 비상동 CXCL13 단백질을 포함하는 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, CD4+ T-세포가 인간 면역결핍 바이러스(HIV) 게놈을 포함하는 비상동 핵산 분자를 더 포함하고, 상기 HIV 게놈의 핵산은 레트로바이러스 역전사효소에 돌연변이를 포함하고, 추가로 상기 HIV 게놈의 핵산은 레트로바이러스 패키징 신호를 인코딩하지 않아 비활성화된 HIV 게놈의 작제물 생성하는 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 표적 항원을 인코딩하는 비상동 핵산 분자를 더 포함하는 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 상기 표적 항원이 HIV 단백질인 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, 상기 HIV 단백질이 HIV Tat(길이가 72 및 101인 아미노산의 전체 길이 또는 동형체), Rev, Pol, GP120, GP160, GP41, env, Gag, Gag-Pol, Nef, Vpr, Vpu, 또는 Vif 또는 이들의 임의의 조합 중 하나 이상인 것을 특징으로 하는 CD4+ T-세포.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제18항 중 어느 한 항의 임의의 세포의 유효량을 포함하는 것을 특징으로 하는 대상체에서 HIV를 치료하기 위한 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 상기 약제학적 조성물이 정맥내로 또는 주입에 의해 투여되는 것을 특징으로 하는 약제학적 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항 내지 제20항 중 어느 한 항에 있어서, 상기 세포가 대상체와 동종이계이거나 HLA-매칭되지 않는 것을 특징으로 하는 약제학적 조성물.",
+            "refers_to": [
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항 내지 제20항 중 어느 한 항에 있어서, 상기 세포가 대상체에 자가조직인 것을 특징으로 하는 약제학적 조성물.",
+            "refers_to": [
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 상기 조성물 중 세포의 투여량이 약 1 x 106 내지 약 5 x 106인 것을 특징으로 하는 약제학적 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "면역 반응을 필요로 하는 대상체에서 면역 반응을 증가시키는 조성물로서, 제1항 내지 제18항 중 어느 한 항의 임의의 세포의 유효량을 포함하는 것을 특징으로 하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 증가된 면역 반응이 표적 항원에 대항하는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제25항에 있어서, 상기 표적 항원이 HIV 단백질인 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제26항에 있어서, HIV 단백질이 HIV Tat(길이가 72 및 101인 아미노산의 전체 길이 또는 동형체), Rev, Pol, GP120, GP160, GP41, env, Gag, Gag- Pol, Nef, Vpr, Vpu, 또는 Vif 또는 이들의 임의의 조합 중 하나 이상인 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 세포가 대상체에 대해 동종이계인 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 세포가 환자와 HLA-매칭되지 않는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 세포의 투여량이 약 1-5 x 106의 범위인 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 면역 반응이 바이러스 감염에 대항하고, 상기 바이러스 감염은 인간 면역결핍 바이러스(HIV) 감염일 수 있는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 상기 면역 반응의 치료 또는 증가는 대상체가 개선, 감소되거나 검출할 수 없는 바이러스 역가, 또는 안정/비진행 질병을 나타내는 한 매주 1회부터 2주마다 1회, 3주마다 1회, 매월 1회, 2개월마다 1회, 3개월마다 1회, 4개월에 1회, 5개월마다 1회, 6개월마다 1회, 7개월마다 1회, 8개월마다 1회, 9개월마다 1회, 10개월마다 1회, 11개월마다 1회 또는 1년마다 1회까지 유지 치료로서 일정기간 동안 주기적으로 반복되는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 상기 대상체에서 세포성 및 체액성 면역이 유도되는 것을 특징으로 하는 조성물.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 36,
+      "after_claim_count": 27,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.12.24",
+      "internationOpenNumber": "WO2020257309",
+      "internationalApplicationDate": "2020.06.17",
+      "internationalApplicationNumber": "PCT/US2020/038177"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국, 캘리포니아 *****, 로스 앤젤레스, 슈트 ***, 센츄리 파크 이스트 ****",
+      "code": "520210080492",
+      "country": "미국",
+      "engName": "Renovaro Biopharma Inc.",
+      "name": "레노바로 바이오파마 인코포레이티드"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "미국, 캘리포니아 *****, 로스 앤젤레스, ...",
+      "code": "",
+      "country": "",
+      "engName": "GUMRUKCU, Serhat",
+      "name": "검러크, 세르햇"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 서초대로 ***, ***호 (서초동, 강남빌딩)(명지특허법률사무소)",
+      "code": "919980005673",
+      "country": "대한민국",
+      "engName": "CHOI, Duk Kyu",
+      "name": "최덕규"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2019.06.17",
+      "priorityApplicationNumber": "62/862,432"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2022.01.11",
+        "receiptNumber": "1-1-2022-0033461-49"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2022.01.20",
+        "receiptNumber": "1-5-2022-0012254-51"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.03.16",
+        "receiptNumber": "1-1-2022-0281971-17"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.04.18",
+        "receiptNumber": "1-1-2022-0409587-56"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.05.18",
+        "receiptNumber": "1-1-2022-0524865-64"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2022.05.20",
+        "receiptNumber": "1-5-2022-0076878-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.05.31",
+        "receiptNumber": "1-1-2023-0599523-35"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.05.31",
+        "receiptNumber": "1-1-2023-0599522-90"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.10.11",
+        "receiptNumber": "4-1-2023-5264505-32"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.28",
+        "receiptNumber": "9-5-2025-1041496-53"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020227000923.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9374825274a49e5e2ac6dbd65193d43039270773c1d28b945431a446a6f4998f182099fbbfcf2058db04ed384733b514ca4e87429860603f05",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf7f4b42b4dde234a59ae8894ff00de1c01a931ed469f7fb2642610a77ae7cc0f9c20745658e753fa7bcb3485be14d71d313a59b89d98442b1"
+  },
+  "rndInfoArray": ""
+}

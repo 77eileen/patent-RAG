@@ -1,0 +1,856 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.08.29",
+      "applicationFlag": "",
+      "applicationNumber": "10-2019-0106390",
+      "claimCount": "12",
+      "examinerName": "이현지",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "오량체 기반 재조합 단백질 백신 플랫폼 및 이를 발현하는 시스템",
+      "inventionTitleEng": "Pentamer-based recombinant protein vaccine platform  and expressing system there of",
+      "openDate": "2021.03.11",
+      "openNumber": "10-2021-0027606",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2019.08.29",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.11.30",
+      "publicationNumber": "",
+      "registerDate": "2021.11.25",
+      "registerNumber": "10-2332725-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/62"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/245"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/25"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/005"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "G01N 33/569"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "G01N 33/68"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/385"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/12"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/12"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 오량체 기반 재조합 단백질 백신을 생산하기 위한 재조합 발현 벡터, 상기 발현 벡터가 도입된 숙주세포 및 상기 벡터 및 숙주세포를 이용하여 오량체 기반 재조합 단백질 백신을 생산하는 방법에 관한 것이다. 본 발명에 의하면 원핵세포에서 재조합 단백질의 발현양 및 수용성을 크게 향상시킴으로써 높은 수율로 항원 단백질을 생산할 수 있을 뿐만 아니라 구조적으로도 정교한 오량체 형태의 항원 단백질을 생산할 수 있으며, 본 발명의 오량체 형태의 융합 단백질을 포함하는 바이러스 백신은 면역원성이 크게 향상될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020190106390",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20190829",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 16,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID);\n오량체형 독소 단백질; 및\n목적 단백질;을 코딩하는 폴리뉴클레오티드를 포함하는 재조합 융합단백질 발현 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 오량체형 독소 단백질은 콜레라 독소 B 서브유닛(cholera toxin B subunit, CTB) 단백질, 대장균 이열성 장독소 B 서브유닛(heat-labile enterotoxin B subunit, LTB) 단백질 및 시가 독소 B 서브유닛(Shiga-toxin B subunit) 단백질로 이루어진 군에서 선택되는 것인, 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 목적 단백질은 면역반응을 유도하는 항원 단백질로서 자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 정이십면체형 바이러스의 캡시드 단백질인, 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 목적 단백질은 자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 정이십면체형 바이러스의 캡시드 단백질인, 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서,\n상기 정이십면체형 바이러스는 외피형 바이러스 또는 비외피형 바이러스인 것인, 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 RID는 서열번호 11의 아미노산 서열로 표시되는 것인, 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\n상기 CTB 단백질은 서열번호 7의 아미노산 서열로 표시되는 것이고,\n상기 LTB 단백질은 서열번호 9의 아미노산 서열로 표시되는 것인, 벡터.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 발현벡터로 형질 전환된 숙주세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서,\n상기 숙주세포는 에스케리키아(Escherichia)속 세균, 바실러스 바실러스 (Bacillus)속 세균, 슈도모나스 (Pseudomonas)속 세균, 유산균, 효모, 동물세포, 및 곤충 세포로 이루어진 군에서 선택되는 것인 형질 전환된 숙주세포.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID); 오량체형 독소 단백질; 및 목적 단백질;을 코딩하는 폴리뉴클레오티드를 포함하는 발현 벡터를 제조하는 단계;\n(b) 상기 발현 벡터를 숙주세포에 도입하여 형질전환체를 제조하는 단계; 및\n(c) 상기 형질전환체를 배양하여 RID-CTB-목적단백질 융합단백질 발현을 유도하는 단계; 를 포함하는 재조합 융합단백질의 생산방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 잇어서,\n상기 오량체형 독소 단백질은 콜레라 독소 B 서브유닛(cholera toxin B subunit, CTB) 단백질, 대장균 이열성 장독소 B 서브유닛(heat-labile enterotoxin B subunit, LTB) 단백질 및 시가 독소 B 서브유닛(Shiga-toxin B subunit) 단백질로 이루어진 군에서 선택되는 것인, 생산방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서,\n상기 숙주세포는 에스케리키아(Escherichia)속 세균; 바실러스 바실러스 (Bacillus)속 세균; 슈도모나스 (Pseudomonas)속 세균; 유산균; 효모; 동물세포; 및 곤충 세포로 이루어진 군에서 선택되는 것인, 생산방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID); 콜레라 독소 B 서브유닛 (cholera toxin B subunit; CTB) 단백질; 및 목적단백질;을 포함하는 재조합 융합단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서,\n상기 재조합 융합단백질은 오량체(pentamer) 형태인 것을 특징으로 하는 재조합 융합단백질.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 기재된 발현 벡터 또는 제13항에 기재된 재조합 융합단백질을 포함하는 바이러스 감염 진단용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 기재된 발현 벡터 또는 제13항에 기재된 재조합 융합단백질을 포함하는 면역 증강용 백신 조성물.",
+          "refers_to": [
+            1
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20210830",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 16,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "재조합 융합단백질 발현 벡터에 관한 것으로,라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID);AB5 타입 독소의 B 서브유닛으로 이루어진 오량체형 독소 단백질; 및자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 정이십면체형 바이러스의 캡시드 단백질인 목적 단백질;을 코딩하는 폴리뉴클레오티드를 포함하고,상기 융합단백질은 오량체(pentamer) 형태인, 재조합 융합단백질 발현 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 오량체형 독소 단백질은 콜레라 독소 B 서브유닛(cholera toxin B subunit, CTB) 단백질, 대장균 이열성 장독소 B 서브유닛(heat-labile enterotoxin B subunit, LTB) 단백질 및 시가 독소 B 서브유닛(Shiga-toxin B subunit) 단백질로 이루어진 군에서 선택되는 것인, 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1 항에 있어서,상기 정이십면체형 바이러스는 외피형 바이러스 또는 비외피형 바이러스인 것인, 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 RID는 서열번호 11의 아미노산 서열로 표시되는 것인, 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서,상기 CTB 단백질은 서열번호 7의 아미노산 서열로 표시되는 것이고,상기 LTB 단백질은 서열번호 9의 아미노산 서열로 표시되는 것인, 벡터.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 발현벡터로 형질 전환된 숙주세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서,상기 숙주세포는 에스케리키아(Escherichia)속 세균, 바실러스 바실러스 (Bacillus)속 세균, 슈도모나스 (Pseudomonas)속 세균, 유산균, 효모, 동물세포, 및 곤충 세포로 이루어진 군에서 선택되는 것인 형질 전환된 숙주세포.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "재조합 융합단백질의 생산방법에 관한 것으로,(a) 라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID); 오량체형 독소 단백질; 및 목적 단백질;을 코딩하는 폴리뉴클레오티드를 포함하는 발현 벡터를 제조하는 단계;(b) 상기 발현 벡터를 숙주세포에 도입하여 형질전환체를 제조하는 단계; 및(c) 상기 형질전환체를 배양하여 RID-오량체형 독소 단백질-목적단백질 융합단백질 발현을 유도하는 단계; 를 포함하고,상기 목적 단백질은 자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 정이십면체형 바이러스의 캡시드 단백질이며, 상기 오량체형 독소 단백질은 AB5 타입 독소의 B 서브유닛으로 이루어지고,상기 융합단백질은 오량체(pentamer) 형태인, 재조합 융합단백질의 생산방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 잇어서,상기 오량체형 독소 단백질은 콜레라 독소 B 서브유닛(cholera toxin B subunit, CTB) 단백질, 대장균 이열성 장독소 B 서브유닛(heat-labile enterotoxin B subunit, LTB) 단백질 및 시가 독소 B 서브유닛(Shiga-toxin B subunit) 단백질로 이루어진 군에서 선택되는 것인, 생산방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서,상기 숙주세포는 에스케리키아(Escherichia)속 세균; 바실러스 바실러스 (Bacillus)속 세균; 슈도모나스 (Pseudomonas)속 세균; 유산균; 효모; 동물세포; 및 곤충 세포로 이루어진 군에서 선택되는 것인, 생산방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID); 콜레라 독소 B 서브유닛 (cholera toxin B subunit; CTB) 단백질; 및 자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 정이십면체형 바이러스의 캡시드 단백질인 목적단백질;을 포함하고, 오량체(pentamer) 형태로 형성되는, 재조합 융합단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 기재된 발현 벡터 또는 제13항에 기재된 재조합 융합단백질을 포함하는 면역 증강용 백신 조성물.",
+          "refers_to": [
+            1
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20190829",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 16,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID);\n오량체형 독소 단백질; 및\n목적 단백질;을 코딩하는 폴리뉴클레오티드를 포함하는 재조합 융합단백질 발현 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 오량체형 독소 단백질은 콜레라 독소 B 서브유닛(cholera toxin B subunit, CTB) 단백질, 대장균 이열성 장독소 B 서브유닛(heat-labile enterotoxin B subunit, LTB) 단백질 및 시가 독소 B 서브유닛(Shiga-toxin B subunit) 단백질로 이루어진 군에서 선택되는 것인, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 목적 단백질은 면역반응을 유도하는 항원 단백질로서 자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 정이십면체형 바이러스의 캡시드 단백질인, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 목적 단백질은 자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 정이십면체형 바이러스의 캡시드 단백질인, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서,\n상기 정이십면체형 바이러스는 외피형 바이러스 또는 비외피형 바이러스인 것인, 벡터.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 RID는 서열번호 11의 아미노산 서열로 표시되는 것인, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\n상기 CTB 단백질은 서열번호 7의 아미노산 서열로 표시되는 것이고,\n상기 LTB 단백질은 서열번호 9의 아미노산 서열로 표시되는 것인, 벡터.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 발현벡터로 형질 전환된 숙주세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서,\n상기 숙주세포는 에스케리키아(Escherichia)속 세균, 바실러스 바실러스 (Bacillus)속 세균, 슈도모나스 (Pseudomonas)속 세균, 유산균, 효모, 동물세포, 및 곤충 세포로 이루어진 군에서 선택되는 것인 형질 전환된 숙주세포.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID); 오량체형 독소 단백질; 및 목적 단백질;을 코딩하는 폴리뉴클레오티드를 포함하는 발현 벡터를 제조하는 단계;\n(b) 상기 발현 벡터를 숙주세포에 도입하여 형질전환체를 제조하는 단계; 및\n(c) 상기 형질전환체를 배양하여 RID-CTB-목적단백질 융합단백질 발현을 유도하는 단계; 를 포함하는 재조합 융합단백질의 생산방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 잇어서,\n상기 오량체형 독소 단백질은 콜레라 독소 B 서브유닛(cholera toxin B subunit, CTB) 단백질, 대장균 이열성 장독소 B 서브유닛(heat-labile enterotoxin B subunit, LTB) 단백질 및 시가 독소 B 서브유닛(Shiga-toxin B subunit) 단백질로 이루어진 군에서 선택되는 것인, 생산방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서,\n상기 숙주세포는 에스케리키아(Escherichia)속 세균; 바실러스 바실러스 (Bacillus)속 세균; 슈도모나스 (Pseudomonas)속 세균; 유산균; 효모; 동물세포; 및 곤충 세포로 이루어진 군에서 선택되는 것인, 생산방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID); 콜레라 독소 B 서브유닛 (cholera toxin B subunit; CTB) 단백질; 및 목적단백질;을 포함하는 재조합 융합단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서,\n상기 재조합 융합단백질은 오량체(pentamer) 형태인 것을 특징으로 하는 재조합 융합단백질.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 기재된 발현 벡터 또는 제13항에 기재된 재조합 융합단백질을 포함하는 바이러스 감염 진단용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 기재된 발현 벡터 또는 제13항에 기재된 재조합 융합단백질을 포함하는 면역 증강용 백신 조성물.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20210503",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID);\n오량체형 독소 단백질; 및\n자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 목적 단백질;을 코딩하는 폴리뉴클레오티드를 포함하는 재조합 융합단백질 발현 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID); 오량체형 독소 단백질; 및 목적 단백질;을 코딩하는 폴리뉴클레오티드를 포함하는 발현 벡터를 제조하는 단계;\n(b) 상기 발현 벡터를 숙주세포에 도입하여 형질전환체를 제조하는 단계; 및\n(c) 상기 형질전환체를 배양하여 RID-CTB-목적단백질 융합단백질 발현을 유도하는 단계; 를 포함하고,\n상기 목적 단백질은 자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 정이십면체형 바이러스의 캡시드 단백질인, 재조합 융합단백질의 생산방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20210830",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 6,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "재조합 융합단백질 발현 벡터에 관한 것으로,\n라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID);\nAB5 타입 독소의 B 서브유닛으로 이루어진 오량체형 독소 단백질; 및\n자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 형성하는 정이십면체형 바이러스의 캡시드 단백질인 목적 단백질;을 코딩하는 폴리뉴클레오티드를 포함하고,\n상기 융합단백질은 오량체(pentamer) 형태인, 재조합 융합단백질 발현 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1 항에 있어서,\n상기 정이십면체형 바이러스는 외피형 바이러스 또는 비외피형 바이러스인 것인, 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "재조합 융합단백질의 생산방법에 관한 것으로,\n(a) 라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID); 오량체형 독소 단백질; 및 목적 단백질;을 코딩하는 폴리뉴클레오티드를 포함하는 발현 벡터를 제조하는 단계;\n(b) 상기 발현 벡터를 숙주세포에 도입하여 형질전환체를 제조하는 단계; 및\n(c) 상기 형질전환체를 배양하여 RID-오량체형 독소 단백질-목적단백질 융합단백질 발현을 유도하는 단계; 를 포함하고,\n상기 목적 단백질은 자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 정이십면체형 바이러스의 캡시드 단백질이며, \n상기 오량체형 독소 단백질은 AB5 타입 독소의 B 서브유닛으로 이루어지고,\n상기 융합단백질은 오량체(pentamer) 형태인, 재조합 융합단백질의 생산방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "라이실 tRNA 합성효소로부터 분리한 N-말단 RNA 결합 도메인(LysRS N-terminal appended RNA interacting domain; RID); \n콜레라 독소 B 서브유닛 (cholera toxin B subunit; CTB) 단백질; 및 \n자가조립(self-assembly) 과정에서 소단위체로 오량체(pentamer)를 형성하는 정이십면체형 바이러스의 캡시드 단백질인 목적단백질;을 포함하고,\n 오량체(pentamer) 형태로 형성되는, 재조합 융합단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 16,
+      "after_claim_count": 6,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 서대문구...",
+      "code": "220050095099",
+      "country": "대한민국",
+      "engName": "UIF (University Industry Foundation), Yonsei University",
+      "name": "연세대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 서대문구...",
+        "code": "",
+        "country": "",
+        "engName": "Seong, Baik Lin",
+        "name": "성백린"
+      },
+      {
+        "address": "서울특별시 서대문구...",
+        "code": "",
+        "country": "",
+        "engName": "Sung, Je Min",
+        "name": "성제민"
+      },
+      {
+        "address": "서울특별시 서대문구...",
+        "code": "",
+        "country": "",
+        "engName": "Yu, Ji Eun",
+        "name": "유지은"
+      },
+      {
+        "address": "서울특별시 서대문구...",
+        "code": "",
+        "country": "",
+        "engName": "Cheong, Yu Cheol",
+        "name": "정유철"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 사평대로 ***, *층 (반포동)",
+      "code": "920161000615",
+      "country": "대한민국",
+      "engName": "Jipyong Intellectual Property Law Firm",
+      "name": "특허법인지평"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "FASEB J. 2018, 32:4658-4669.",
+      "examinerQuotationFlag": ""
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2019.08.29",
+        "receiptNumber": "1-1-2019-0889577-31"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.02.03",
+        "receiptNumber": "9-5-2021-0100996-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.04.05",
+        "receiptNumber": "1-1-2021-0398466-47"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.05.03",
+        "receiptNumber": "1-1-2021-0517025-30"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.05.03",
+        "receiptNumber": "1-1-2021-0517026-86"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2021.06.29",
+        "receiptNumber": "9-5-2021-0514192-78"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[법정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.07.30",
+        "receiptNumber": "1-1-2021-0886089-06"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "",
+        "documentName": "법정기간연장승인서",
+        "receiptDate": "2021.08.01",
+        "receiptNumber": "1-5-2021-0122117-72"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2021.08.30",
+        "receiptNumber": "1-1-2021-1003223-31"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.08.30",
+        "receiptNumber": "1-1-2021-1003222-96"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "",
+        "documentName": "면담 결과 기록서",
+        "receiptDate": "2021.08.30",
+        "receiptNumber": "9-6-2021-0158556-11"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.10.05",
+        "receiptNumber": "9-5-2021-0781503-70"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "",
+        "documentName": "[명세서등 보정]보정서(심사관 직권보정)",
+        "receiptDate": "2021.11.26",
+        "receiptNumber": "1-1-2021-5028967-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.10.07",
+        "receiptNumber": "4-1-2022-5235822-97"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.12.09",
+        "receiptNumber": "4-1-2022-5292360-75"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020190106390.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c930ca1914b677dcb9858875c0245bfc740df2211ad16da06637068217bed84e1fe27b7ffa50c8a642fd003f5e087421c826cdee422bc79e639",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf353de3b657754eb4a7e471a5de3bd1690ade1a491898ef035d5499f821519fc9884459accfb95c873b4a223f92eff2a094086bf7ef1b38a2"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "보건복지부",
+      "rndDuration": "2017.12.01 ~ 2018.11.30",
+      "rndManagingInstituteName": "연세대학교 산학협력단",
+      "rndProjectName": "감염병위기대응기술개발사업",
+      "rndSpecialInstituteName": "한국보건산업진흥원",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "녹차 카테킨기반 개량형 불활화바이러스백신 개발(3/3)",
+      "rndTaskNumber": "HI15C2934"
+    }
+  }
+}

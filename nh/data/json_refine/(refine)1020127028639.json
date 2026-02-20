@@ -1,0 +1,2033 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2011.04.01",
+      "applicationFlag": "",
+      "applicationNumber": "10-2012-7028639",
+      "claimCount": "24",
+      "examinerName": "이현지",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "교차 종특이성 PSMA xCD3 이중특이성 단일 체인 항체",
+      "inventionTitleEng": "Cross-species-specific PSMAxCD3 bispecific single  chain antibody",
+      "openDate": "2013.08.07",
+      "openNumber": "10-2013-0088013",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2016.03.24",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2017.11.21",
+      "publicationNumber": "",
+      "registerDate": "2017.11.15",
+      "registerNumber": "10-1799922-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2012.10.31"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/30"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/46"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은, 인간 및 비침팬지 영장류 CD3 엡실론 체인의 에피토프에 결합할 수 있고 상기 에피토프는 서열번호 2, 4, 6 및 8로 구성되는 군에 속하는 아미노산 서열의 일부인, 제1 결합 도메인과; PSMA(prostate-specific membrane antigen)에 결합할 수 있는 제2 결합 도메인을 포함하는 이중특이성 단일 체인 항체 분자에 관한 것이다. 또한 본 발명은 상기 이중특이성 단일 체인 항체 분자를 암호화하는 핵산, 벡터, 숙주세포 및 그 생산물의 제조방법을 제공한다. 아울러 본 발명은 상기 이중특이성 단일 체인 항체를 포함하는 약제학적 조성물과 상기 이중특이성 단일 체인 항체 분자의 의학 용도에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020127028639",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20121031",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 36,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 반응 부위이고 인간과 코먼 마모셋(Callithrix jacchus), 코튼-탑-타마린(Saguinis oedipus), 또는 다람쥐 원숭이(Saimiri sciureus) CD3ε(엡실론) 체인의 에피토프에 결합할 수 있는 제1 결합 도메인으로, 상기 에피토프는 서열번호 2, 4, 6 또는 8로 구성되는 군에 속하는 아미노산 서열의 일부이고 적어도 아미노산 서열 Gln-Asp-Gly-Asn-Glu (QDGNE)을 포함하는 것인 제1 결합 도메인과; 전립선 특이 멤브레인 항원(prostate-specific membrane antigen, PSMA)에 결합할 수 있는 제2 결합 도메인을 포함하는 이중특이성 단일 체인 항체 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 폴리펩타이드로서, 상기 에피토프는 서열번호 2, 4, 6 또는 8로 구성되는 군에 속하는 아미노산 서열의 일부이고 그리고 적어도 아미노산 서열 Gln-Asp-Gly-Asn-Glu (QDGNE)을 포함하는 폴리펩타이드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제1 또는 제2 결합 도메인의 적어도 하나는 CDR이 이식된(is CDR-grafted) 인간화된 또는 인간인 이중 특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 인간 및 비침팬지 영장류 CD3ε 체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기에서 선택되는 CDR-L1, CDR-L2 및 CDR-L3를 포함하는 VL 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:\n(a) 서열번호 27로 표시되는 CDR-L1, 서열번호 28로 표시되는 CDR-L2 및 서열번호 29로 표시되는 CDR-L3;\n(b) 서열번호 117로 표시되는 CDR-L1, 서열번호 118로 표시되는 CDR-L2 및 서열번호 119로 표시되는 CDR-L3; 및 \n(c) 서열번호 153으로 표시되는 CDR-L1, 서열번호 154로 표시되는CDR-L2 및 서열번호 155로 표시되는 CDR-L3.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기에서 선택되는 CDR-H1, CDR-H2 및 CDR-H3를 포함하는 VH 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:\n(a) 서열번호 12로 표시되는 CDR-H1, 서열번호 13으로 표시되는 CDR-H2 및 서열번호 14로 표시되는 CDR-H3;\n(b) 서열번호 30으로 표시되는 CDR-H1, 서열번호 31로 표시되는 CDR-H2 및 서열번호 32로 표시되는 CDR-H3; \n(c) 서열번호 48로 표시되는 CDR-H1, 서열번호 49로 표시되는CDR-H2 및 서열번호 50으로 표시되는CDR-H3; \n(d) 서열번호 66으로 표시되는 CDR-H1, 서열번호 67로 표시되는CDR-H2 및 서열번호 68로 표시되는 CDR-H3;\n(e) 서열번호 84로 표시되는 CDR-H1, 서열번호 85로 표시되는CDR-H2 및 서열번호 86으로 표시되는CDR-H3;\n(f) 서열번호 102로 표시되는 CDR-H1, 서열번호 103으로 표시되는 CDR-H2 및 서열번호 104로 표시되는 CDR-H3; \n(g) 서열번호 120으로 표시되는 CDR-H1, 서열번호 121로 표시되는CDR-H2 및 서열번호 122로 표시되는 CDR-H3;\n(h) 서열번호 138로 표시되는CDR-H1, 서열번호 139로 표시되는CDR-H2 및 서열번호 140으로 표시되는 CDR-H3;\n(i) 서열번호 156으로 표시되는CDR-H1, 서열번호 157로 표시되는CDR-H2 및 서열번호 158로 표시되는 CDR-H3; 및\n(j) 서열번호 174로 표시되는 CDR-H1, 서열번호 175로 표시되는CDR-H2 및 서열번호 176으로 표시되는 CDR-H3.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 서열번호 35, 39, 125, 129, 161 또는 165로 표시되는 VL 영역으로 구성되는 군으로부터 선택되는 VL 영역을 포함하는 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항, 제3항 내지 제5항 중 어느 한 항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 서열번호 15, 19, 33, 37, 51, 55, 69, 73, 87, 91, 105, 109, 123, 127, 141, 145, 159, 163, 177 또는 181로 표시되는 VH 영역으로 구성되는 군으로부터 선택되는 VH 영역을 포함하는 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기로 구성되는 군으로부터 선택되는 VL 영역 및 VH 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:\n(a) 서열번호 17 또는 로 표시되는 VL 영역 및 서열번호 15 또는 19로 표시되는 VH 영역;\n(b) 서열번호 35 또는 39로 표시되는 VL 영역 및 서열번호 33 또는 37로 표시되는 VH 영역; \n(c) 서열번호 53 또는 57로 표시되는 VL 영역 및 서열번호 51 또는 55로 표시되는 VH영역; \n(d) 서열번호 71 또는 75로 표시되는 VL 영역 및 서열번호 69 또는 73으로 표시되는 VH 영역;\n(e) 서열번호 89 또는 93으로 표시되는 VL 영역 및 서열번호 87 또는 91로 표시되는 VH 영역;\n(f) 서열번호 107 또는 111로 표시되는 VL 영역 및 서열번호 105 또는 109로 표시되는 VH 영역; \n(g) 서열번호 125 또는 129로 표시되는 VL 영역 및 서열번호 123 또는 127로 표시되는 VH 영역;\n(h) 서열번호 143 또는 147로 표시되는 VL 영역 및 서열번호 141 또는 145로 표시되는 VH 영역;\n(i) 서열번호 161 또는 165로 표시되는 VL 영역 및 서열번호 159 또는 163으로 표시되는 VH 영역; 및\n(j) 서열번호 179 또는 183으로 표시되는 VL 영역 및 서열번호 177 또는 181로 표시되는 VH 영역.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8 항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 서열번호 23, 25, 41, 43, 59, 61, 77, 79, 95, 97, 113, 115, 131, 133, 149, 151, 167, 169, 185 또는 187로 구성되는 군으로부터 선택되는 아미노산 서열을 포함하는 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 상기 제2 결합 도메인은 인간 PSMA 및/또는 비침팬지 PSMA에 결합할 수 있는 것인 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 이중특이성 항체 분자는 하기에서 선택되는 서열을 CDR H1, CDR H2, CDR H3, CDR L1, CDR L2 및 CDR L3로서 제2 결합 도메인에 포함하는 이중특이성 단일 체인 항체 분자:\na) 서열번호 226-228의 CDR H1-3 및 서열번호 231-233의 CDR L1-3;\nb) 서열번호 240-242의 CDR H1-3 및 서열번호 245-247의 CDR L1-3;\nc) 서열번호 254-256의 CDR H1-3 및 서열번호 259-261의 CDR L1-3;\nd) 서열번호 268-270의 CDR H1-3 및 서열번호 273-275의 CDR L1-3;\ne) 서열번호 618-620 의 CDR H1-3 및 서열번호 623-625의 CDR L1-3;\nf) 서열번호 282-284 의 CDR H1-3 및 서열번호 287-289의 CDR L1-3;\ng) 서열번호 296-298 의 CDR H1-3 및 서열번호 301-303의 CDR L1-3;\nh) 서열번호 310-312 의 CDR H1-3 및 서열번호 315-317의 CDR L1-3;\ni) 서열번호 324-326 의 CDR H1-3 및 서열번호 329-331의 CDR L1-3;\nj) 서열번호 338-340 의 CDR H1-3 및 서열번호 343-345의 CDR L1-3;\nk) 서열번호 352-354 의 CDR H1-3 및 서열번호 357-359의 CDR L1-3;\nl) 서열번호 366-368 의 CDR H1-3 및 서열번호 371-373의 CDR L1-3;\nm) 서열번호 380-382 의 CDR H1-3 및 서열번호 385-387의 CDR L1-3;\nn) 서열번호 394-396 의 CDR H1-3 및 서열번호 399-401의 CDR L1-3;\no) 서열번호 408-410 의 CDR H1-3 및 서열번호 413-415의 CDR L1-3;\np) 서열번호 422-424 의 CDR H1-3 및 서열번호 427-429의 CDR L1-3;\nq) 서열번호 436-438 의 CDR H1-3 및 서열번호 441-443의 CDR L1-3;\nr) 서열번호 450-452 의 CDR H1-3 및 서열번호 455-457의 CDR L1-3;\ns) 서열번호 464-466 의 CDR H1-3 및 서열번호 469-471의 CDR L1-3;\nt) 서열번호 478-480 의 CDR H1-3 및 서열번호 483-485의 CDR L1-3;\nu) 서열번호 492-494 의 CDR H1-3 및 서열번호 497-499의 CDR L1-3;\nv) 서열번호 506-508 의 CDR H1-3 및 서열번호 511-513의 CDR L1-3;\nw) 서열번호 520-522 의 CDR H1-3 및 서열번호 525-527의 CDR L1-3;\nx) 서열번호 534-536 의 CDR H1-3 및 서열번호 539-541의 CDR L1-3;\ny) 서열번호 548-550 의 CDR H1-3 및 서열번호 553-555의 CDR L1-3;\nz) 서열번호 562-564 의 CDR H1-3 및 서열번호 567-569의 CDR L1-3;\naa) 서열번호 576-578 의 CDR H1-3 및 서열번호 581-583의 CDR L1-3;\nab) 서열번호 590-592 의 CDR H1-3 및 서열번호 595-597의 CDR L1-3; 및\nac) 서열번호 604-606 의 CDR H1-3 및 서열번호 609-611의 CDR L1-3.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 결합 도메인은 VH PSMA-VL PSMA-VH CD3-VL CD3 또는 VL PSMA-VH PSMA-VH CD3-VL CD3 순서로 배열되는 것인 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 이중특이성 단일 체인 분자는 하기에서 선택되는 서열을 포함하는 것인 이중특이성 단일 체인 항체 분자:\n(a) 서열번호 237, 251, 265, 279, 629, 293, 307, 321, 335, 349, 363, 377, 391, 405, 419, 433, 447, 461, 475, 489, 503, 517, 531, 545, 559, 573, 587, 601 또는 615 중 어느 하나로 표시되는 아미노산 서열; 및\n(b) 서열번호 238, 252, 266, 280, 630, 294, 308, 322, 336, 350, 364, 378, 392, 406, 420, 434, 448, 462, 476, 490, 504, 518, 532, 546, 560, 574, 588, 602 또는 616 중 어느 하나로 표시되는 핵산에 의해 암호화되는 아미노산 서열.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자를 암호화하는 핵산 서열.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 따른 핵산 서열을 포함하는 벡터.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 상기 벡터는 제14항에 따른 상기 핵산 서열에 작동가능하게 연결된 조절서열을 더 포함하는 것인 벡터.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서 상기 벡터는 발현 벡터인 벡터.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항 내지 제17중 어느 한 항에 따른 벡터로 형질전환 또는 형질감염된 숙주.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 따른 숙주를 제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자가 발현되는 조건 하에서 배양하고; 상기 배양으로부터 생산된 폴리펩타이드를 회수하는 단계를 포함하는, 제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 항체 분자 생산 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자 또는 제19항의 생산 방법에 따라 생산된 이중특이성 단일 체인 항체 분자를 포함하는 약제학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "암의 예방, 치료 또는 개선 용도인 제20항의 조성물.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "암의 예방, 치료 또는 개선 용도를 가지는, 제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자 또는 제19항의 생산 방법에 따라 생산된 이중특이성 단일 체인 항체분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항 또는 제22항에 있어서, 상기 암은 고형 종양, 바람직하게는 암종 또는 전립선암인 제21항의 약제학적 조성물 또는 제22항의 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항, 제21항 또는 제23항의 약제학적 조성물 또는 제22항 또는 제23항의 이중특이성 단일 체인 항체분자는 선택적으로 적당한 담체 제제, 안정화제 및/또는 부형제를 더 포함하는 것인 약제학적 조성물 또는 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            21,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항, 제21항, 제23항 또는 제24항의 약제학적 조성물 또는 제22항, 제23항 또는 제24항의 이중특이성 단일 체인 항체 분자는 추가 약물과 조합하여 투여되는 것이 적절한 것인 약제학적 조성물 또는 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항에 있어서, 상기 약물은 비단백질성 화합물(non-proteinaceous) 또는 단백질성 화합물인 약제학적 조성물 또는 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 단백질성 화합물 또는 비단백질성 화합물은 제22항, 제23항 또는 제24항의 이중특이성 단일 체인 항체 분자 또는 제20항 또는 제21항의 약제학적 조성물과 동시에 또는 비동시적으로 투여하는 것인 약제학적 조성물 또는 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자 또는 제19항에 따라 제조된 이중특이성 단일 체인 항체 분자를 질병의 예방, 치료 또는 개선을 위한 약제학적 조성물 조제하기 위한 용도.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항 또는 제21항의 약제학적 조성물의 유효량을 이를 필요로 하는 개체에 투여하는 단계를 포함하는 질병의 예방, 치료 또는 개선 방법.",
+          "refers_to": [
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항 또는 제29항에 있어서 상기 질병은 암인 용도 또는 방법.",
+          "refers_to": [
+            28,
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제30항에 있어서, 상기 암은 고형 종양, 바람직하게는 암종 또는 전립선암인 용도 또는 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항 내지 제31항 중 어느 한 항의 방법에 있어서, 또는 제28항, 제30항 또는 제31항의 용도에 있어서, 상기 약제학적 조성물은 추가 약물과 조합되어 투여되는 것이 용도 또는 방법.",
+          "refers_to": [
+            30,
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제32항에 있어서, 상기 약물은 비단백질성 화합물 또는 단백질성 화합물인 방법 또는 용도.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제33항에 있어서, 상기 단백질성 화합물 또는 비단백질성 화합물은 제20항 또는 제21항의 약제학적 조성물과 동시에 또는 비동시적으로 투여되는 것인 방법 또는 용도.",
+          "refers_to": [
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항 내지 제34항 중 어느 한 항의 방법 또는 제28항, 또는 제30항 내지 제34항 중 어느 한 항의 용도에 있어서, 상기 개체는 인간인 용도 또는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자, 제14항에 따른 핵산 분자, 제15항 내지 제17항 중 어느 한 항에 따른 벡터 또는 제18항에 따른 숙주를 포함하는 키트.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20170828",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 36,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "항원 반응 부위이고 인간과 코먼 마모셋(Callithrix jacchus), 코튼-탑-타마린(Saguinis oedipus), 또는 다람쥐 원숭이(Saimiri sciureus) CD3ε(엡실론) 체인의 에피토프에 결합할 수 있는 제1 결합 도메인으로, 상기 에피토프는 서열번호 2, 4, 6 또는 8로 구성되는 군에 속하는 아미노산 서열의 일부이고 적어도 아미노산 서열 Gln-Asp-Gly-Asn-Glu (QDGNE)을 포함하는 것인, 제1 결합 도메인과,전립선 특이 멤브레인 항원(prostate-specific membrane antigen, PSMA)에 결합할 수 있는 제2 결합 도메인으로, 인간 PSMA 및/또는 비침팬지 영장류 PSMA에 결합할 수 있는 제2 결합 도메인을 포함하는, 이중특이성 단일 체인 항체 분자이며, 상기 이중특이성 단일 체인 항체 분자는 하기에서 선택되는 서열을 CDR H1, CDR H2, CDR H3, CDR L1, CDR L2 및 CDR L3로서 제2 결합 도메인에 포함하는, 이중특이성 단일 체인 항체 분자:a) 서열번호 226-228의 CDR H1-3 및 서열번호 231-233의 CDR L1-3;b) 서열번호 240-242의 CDR H1-3 및 서열번호 245-247의 CDR L1-3;c) 서열번호 254-256의 CDR H1-3 및 서열번호 259-261의 CDR L1-3;d) 서열번호 268-270의 CDR H1-3 및 서열번호 273-275의 CDR L1-3;f) 서열번호 282-284의 CDR H1-3 및 서열번호 287-289의 CDR L1-3;g) 서열번호 296-298의 CDR H1-3 및 서열번호 301-303의 CDR L1-3;h) 서열번호 310-312의 CDR H1-3 및 서열번호 315-317의 CDR L1-3;i) 서열번호 324-326의 CDR H1-3 및 서열번호 329-331의 CDR L1-3;j) 서열번호 338-340의 CDR H1-3 및 서열번호 343-345의 CDR L1-3;k) 서열번호 352-354의 CDR H1-3 및 서열번호 357-359의 CDR L1-3;l) 서열번호 366-368의 CDR H1-3 및 서열번호 371-373의 CDR L1-3;o) 서열번호 408-410의 CDR H1-3 및 서열번호 413-415의 CDR L1-3;p) 서열번호 422-424의 CDR H1-3 및 서열번호 427-429의 CDR L1-3;u) 서열번호 492-494의 CDR H1-3 및 서열번호 497-499의 CDR L1-3;v) 서열번호 506-508의 CDR H1-3 및 서열번호 511-513의 CDR L1-3; 및ab) 서열번호 590-592의 CDR H1-3 및 서열번호 595-597의 CDR L1-3.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 에피토프는 서열번호 2, 4, 6 및 8로 구성되는 군에 속하는 아미노산 서열의 일부이고 그리고 적어도 아미노산 서열 Gln-Asp-Gly-Asn-Glu (QDGNE)을 포함하는 것인, 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제1 또는 제2 결합 도메인의 적어도 하나는 CDR이 이식된(is CDR-grafted) 인간화된 또는 인간인 이중 특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 인간 및 비침팬지 영장류 CD3ε 체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기에서 선택되는 CDR-L1, CDR-L2 및 CDR-L3를 포함하는 VL 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:(a) 서열번호 27로 표시되는 CDR-L1, 서열번호 28로 표시되는 CDR-L2 및 서열번호 29로 표시되는 CDR-L3;(b) 서열번호 117로 표시되는 CDR-L1, 서열번호 118로 표시되는 CDR-L2 및 서열번호 119로 표시되는 CDR-L3; 및 (c) 서열번호 153으로 표시되는 CDR-L1, 서열번호 154로 표시되는CDR-L2 및 서열번호 155로 표시되는 CDR-L3.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기에서 선택되는 CDR-H1, CDR-H2 및 CDR-H3를 포함하는 VH 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:(a) 서열번호 12로 표시되는 CDR-H1, 서열번호 13으로 표시되는 CDR-H2 및 서열번호 14로 표시되는 CDR-H3;(b) 서열번호 30으로 표시되는 CDR-H1, 서열번호 31로 표시되는 CDR-H2 및 서열번호 32로 표시되는 CDR-H3; (c) 서열번호 48로 표시되는 CDR-H1, 서열번호 49로 표시되는CDR-H2 및 서열번호 50으로 표시되는CDR-H3; (d) 서열번호 66으로 표시되는 CDR-H1, 서열번호 67로 표시되는CDR-H2 및 서열번호 68로 표시되는 CDR-H3;(e) 서열번호 84로 표시되는 CDR-H1, 서열번호 85로 표시되는CDR-H2 및 서열번호 86으로 표시되는CDR-H3;(f) 서열번호 102로 표시되는 CDR-H1, 서열번호 103으로 표시되는 CDR-H2 및 서열번호 104로 표시되는 CDR-H3; (g) 서열번호 120으로 표시되는 CDR-H1, 서열번호 121로 표시되는CDR-H2 및 서열번호 122로 표시되는 CDR-H3;(h) 서열번호 138로 표시되는CDR-H1, 서열번호 139로 표시되는CDR-H2 및 서열번호 140으로 표시되는 CDR-H3;(i) 서열번호 156으로 표시되는CDR-H1, 서열번호 157로 표시되는CDR-H2 및 서열번호 158로 표시되는 CDR-H3; 및(j) 서열번호 174로 표시되는 CDR-H1, 서열번호 175로 표시되는CDR-H2 및 서열번호 176으로 표시되는 CDR-H3.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 서열번호 35, 39, 125, 129, 161 또는 165로 표시되는 VL 영역으로 구성되는 군으로부터 선택되는 VL 영역을 포함하는 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 서열번호 15, 19, 33, 37, 51, 55, 69, 73, 87, 91, 105, 109, 123, 127, 141, 145, 159, 163, 177 또는 181로 표시되는 VH 영역으로 구성되는 군으로부터 선택되는 VH 영역을 포함하는 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기로 구성되는 군으로부터 선택되는 VL 영역 및 VH 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:(a) 서열번호 17 또는 21로 표시되는 VL 영역 및 서열번호 15 또는 19로 표시되는 VH 영역;(b) 서열번호 35 또는 39로 표시되는 VL 영역 및 서열번호 33 또는 37로 표시되는 VH 영역; (c) 서열번호 53 또는 57로 표시되는 VL 영역 및 서열번호 51 또는 55로 표시되는  VH영역; (d) 서열번호 71 또는 75로 표시되는 VL 영역 및 서열번호 69 또는 73으로 표시되는  VH 영역;(e) 서열번호 89 또는 93으로 표시되는 VL 영역 및 서열번호 87 또는 91로 표시되는 VH 영역;(f) 서열번호 107 또는 111로 표시되는 VL 영역 및 서열번호 105 또는 109로 표시되는 VH 영역; (g) 서열번호 125 또는 129로 표시되는 VL 영역 및 서열번호 123 또는 127로 표시되는 VH 영역;(h) 서열번호 143 또는 147로 표시되는 VL 영역 및 서열번호 141 또는 145로 표시되는 VH 영역;(i) 서열번호 161 또는 165로 표시되는 VL 영역 및 서열번호 159 또는 163으로 표시되는 VH 영역; 및(j) 서열번호 179 또는 183으로 표시되는 VL 영역 및 서열번호 177 또는 181로 표시되는 VH 영역.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8 항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 서열번호 23, 25, 41, 43, 59, 61, 77, 79, 95, 97, 113, 115, 131, 133, 149, 151, 167, 169, 185 또는 187로 구성되는 군으로부터 선택되는 아미노산 서열을 포함하는 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 제2 결합 도메인은 VH PSMA-VL PSMA-VH CD3-VL CD3 또는 VL PSMA-VH PSMA-VH CD3-VL CD3 순서로 배열되는 것인 이중특이성 단일 체인 항체 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 이중특이성 단일 체인 분자는 하기에서 선택되는 서열을 포함하는 것인 이중특이성 단일 체인 항체 분자:(a) 서열번호 237, 251, 265, 279, 293, 307, 321, 335, 349, 363, 377, 419, 433, 503, 517, 또는 601 중 어느 하나로 표시되는 아미노산 서열; 및(b) 서열번호 238, 252, 266, 280, 294, 308, 322, 336, 350, 364, 378, 420, 434, 504, 518, 또는 602 중 어느 하나로 표시되는 핵산에 의해 암호화되는 아미노산 서열.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 이중특이성 단일 체인 항체 분자를 암호화하는 염기서열을 포함하는 핵산 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 따른 핵산 서열을 포함하는 벡터.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서, 상기 벡터는 상기 핵산 서열에 작동가능하게 연결된 조절서열을 더 포함하는 것인 벡터.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, 상기 벡터는 발현 벡터인 벡터.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 따른 벡터로 형질전환 또는 형질감염된 원핵 또는 진핵 숙주세포.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 이중특이성 단일 체인 항체 분자를 암호화하는 핵산 서열을 포함하는 벡터로 형질전환 또는 형질감염된 원핵 또는 진핵 숙주세포를 상기 이중특이성 단일 체인 항체 분자가 발현되는 조건 하에서 배양하고; 상기 배양으로부터 생산된 폴리펩타이드를 회수하는 단계를 포함하는, 제1항에 따른 이중특이성 단일 체인 항체 분자의 생산 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 이중특이성 단일 체인 항체 분자를 포함하는 암의 예방, 치료 또는 개선용 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항에 있어서, 상기 암은 고형 종양, 암종 또는 전립선암인 약제학적 조성물.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항에 있어서, 상기 약제학적 조성물은 담체 제제, 안정화제 및/또는 부형제를 더 포함하는 것인 약제학적 조성물.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항에 있어서, 상기 약제학적 조성물은 추가 약물과 조합하여 투여되는 것이 적절한 것인 약제학적 조성물.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제25항에 있어서, 상기 약물은 비단백질성 화합물(non-proteinaceous) 또는 단백질성 화합물인 약제학적 조성물.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제26항에 있어서, 상기 단백질성 화합물 또는 비단백질성 화합물은 상기 약제학적 조성물과 동시에 또는 비동시적으로 투여하는 것인 약제학적 조성물.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 이중특이성 단일 체인 항체 분자, 상기 이중특이성 단일 체인 항체 분자를 암호화하는 핵산 분자, 또는 상기 핵산 분자를 포함하는 벡터를 포함하는, 암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            1
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20121031",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 36,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 반응 부위이고 인간과 코먼 마모셋(Callithrix jacchus), 코튼-탑-타마린(Saguinis oedipus), 또는 다람쥐 원숭이(Saimiri sciureus) CD3ε(엡실론) 체인의 에피토프에 결합할 수 있는 제1 결합 도메인으로, 상기 에피토프는 서열번호 2, 4, 6 또는 8로 구성되는 군에 속하는 아미노산 서열의 일부이고 적어도 아미노산 서열 Gln-Asp-Gly-Asn-Glu (QDGNE)을 포함하는 것인 제1 결합 도메인과; 전립선 특이 멤브레인 항원(prostate-specific membrane antigen, PSMA)에 결합할 수 있는 제2 결합 도메인을 포함하는 이중특이성 단일 체인 항체 분자.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 폴리펩타이드로서, 상기 에피토프는 서열번호 2, 4, 6 또는 8로 구성되는 군에 속하는 아미노산 서열의 일부이고 그리고 적어도 아미노산 서열 Gln-Asp-Gly-Asn-Glu (QDGNE)을 포함하는 폴리펩타이드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제1 또는 제2 결합 도메인의 적어도 하나는 CDR이 이식된(is CDR-grafted) 인간화된 또는 인간인 이중 특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 인간 및 비침팬지 영장류 CD3ε 체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기에서 선택되는 CDR-L1, CDR-L2 및 CDR-L3를 포함하는 VL 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:\n(a) 서열번호 27로 표시되는 CDR-L1, 서열번호 28로 표시되는 CDR-L2 및 서열번호 29로 표시되는 CDR-L3;\n(b) 서열번호 117로 표시되는 CDR-L1, 서열번호 118로 표시되는 CDR-L2 및 서열번호 119로 표시되는 CDR-L3; 및 \n(c) 서열번호 153으로 표시되는 CDR-L1, 서열번호 154로 표시되는CDR-L2 및 서열번호 155로 표시되는 CDR-L3.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기에서 선택되는 CDR-H1, CDR-H2 및 CDR-H3를 포함하는 VH 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:\n(a) 서열번호 12로 표시되는 CDR-H1, 서열번호 13으로 표시되는 CDR-H2 및 서열번호 14로 표시되는 CDR-H3;\n(b) 서열번호 30으로 표시되는 CDR-H1, 서열번호 31로 표시되는 CDR-H2 및 서열번호 32로 표시되는 CDR-H3; \n(c) 서열번호 48로 표시되는 CDR-H1, 서열번호 49로 표시되는CDR-H2 및 서열번호 50으로 표시되는CDR-H3; \n(d) 서열번호 66으로 표시되는 CDR-H1, 서열번호 67로 표시되는CDR-H2 및 서열번호 68로 표시되는 CDR-H3;\n(e) 서열번호 84로 표시되는 CDR-H1, 서열번호 85로 표시되는CDR-H2 및 서열번호 86으로 표시되는CDR-H3;\n(f) 서열번호 102로 표시되는 CDR-H1, 서열번호 103으로 표시되는 CDR-H2 및 서열번호 104로 표시되는 CDR-H3; \n(g) 서열번호 120으로 표시되는 CDR-H1, 서열번호 121로 표시되는CDR-H2 및 서열번호 122로 표시되는 CDR-H3;\n(h) 서열번호 138로 표시되는CDR-H1, 서열번호 139로 표시되는CDR-H2 및 서열번호 140으로 표시되는 CDR-H3;\n(i) 서열번호 156으로 표시되는CDR-H1, 서열번호 157로 표시되는CDR-H2 및 서열번호 158로 표시되는 CDR-H3; 및\n(j) 서열번호 174로 표시되는 CDR-H1, 서열번호 175로 표시되는CDR-H2 및 서열번호 176으로 표시되는 CDR-H3.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 서열번호 35, 39, 125, 129, 161 또는 165로 표시되는 VL 영역으로 구성되는 군으로부터 선택되는 VL 영역을 포함하는 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항, 제3항 내지 제5항 중 어느 한 항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 서열번호 15, 19, 33, 37, 51, 55, 69, 73, 87, 91, 105, 109, 123, 127, 141, 145, 159, 163, 177 또는 181로 표시되는 VH 영역으로 구성되는 군으로부터 선택되는 VH 영역을 포함하는 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기로 구성되는 군으로부터 선택되는 VL 영역 및 VH 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:\n(a) 서열번호 17 또는 로 표시되는 VL 영역 및 서열번호 15 또는 19로 표시되는 VH 영역;\n(b) 서열번호 35 또는 39로 표시되는 VL 영역 및 서열번호 33 또는 37로 표시되는 VH 영역; \n(c) 서열번호 53 또는 57로 표시되는 VL 영역 및 서열번호 51 또는 55로 표시되는 VH영역; \n(d) 서열번호 71 또는 75로 표시되는 VL 영역 및 서열번호 69 또는 73으로 표시되는 VH 영역;\n(e) 서열번호 89 또는 93으로 표시되는 VL 영역 및 서열번호 87 또는 91로 표시되는 VH 영역;\n(f) 서열번호 107 또는 111로 표시되는 VL 영역 및 서열번호 105 또는 109로 표시되는 VH 영역; \n(g) 서열번호 125 또는 129로 표시되는 VL 영역 및 서열번호 123 또는 127로 표시되는 VH 영역;\n(h) 서열번호 143 또는 147로 표시되는 VL 영역 및 서열번호 141 또는 145로 표시되는 VH 영역;\n(i) 서열번호 161 또는 165로 표시되는 VL 영역 및 서열번호 159 또는 163으로 표시되는 VH 영역; 및\n(j) 서열번호 179 또는 183으로 표시되는 VL 영역 및 서열번호 177 또는 181로 표시되는 VH 영역.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8 항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 서열번호 23, 25, 41, 43, 59, 61, 77, 79, 95, 97, 113, 115, 131, 133, 149, 151, 167, 169, 185 또는 187로 구성되는 군으로부터 선택되는 아미노산 서열을 포함하는 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 상기 제2 결합 도메인은 인간 PSMA 및/또는 비침팬지 PSMA에 결합할 수 있는 것인 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 이중특이성 항체 분자는 하기에서 선택되는 서열을 CDR H1, CDR H2, CDR H3, CDR L1, CDR L2 및 CDR L3로서 제2 결합 도메인에 포함하는 이중특이성 단일 체인 항체 분자:\na) 서열번호 226-228의 CDR H1-3 및 서열번호 231-233의 CDR L1-3;\nb) 서열번호 240-242의 CDR H1-3 및 서열번호 245-247의 CDR L1-3;\nc) 서열번호 254-256의 CDR H1-3 및 서열번호 259-261의 CDR L1-3;\nd) 서열번호 268-270의 CDR H1-3 및 서열번호 273-275의 CDR L1-3;\ne) 서열번호 618-620 의 CDR H1-3 및 서열번호 623-625의 CDR L1-3;\nf) 서열번호 282-284 의 CDR H1-3 및 서열번호 287-289의 CDR L1-3;\ng) 서열번호 296-298 의 CDR H1-3 및 서열번호 301-303의 CDR L1-3;\nh) 서열번호 310-312 의 CDR H1-3 및 서열번호 315-317의 CDR L1-3;\ni) 서열번호 324-326 의 CDR H1-3 및 서열번호 329-331의 CDR L1-3;\nj) 서열번호 338-340 의 CDR H1-3 및 서열번호 343-345의 CDR L1-3;\nk) 서열번호 352-354 의 CDR H1-3 및 서열번호 357-359의 CDR L1-3;\nl) 서열번호 366-368 의 CDR H1-3 및 서열번호 371-373의 CDR L1-3;\nm) 서열번호 380-382 의 CDR H1-3 및 서열번호 385-387의 CDR L1-3;\nn) 서열번호 394-396 의 CDR H1-3 및 서열번호 399-401의 CDR L1-3;\no) 서열번호 408-410 의 CDR H1-3 및 서열번호 413-415의 CDR L1-3;\np) 서열번호 422-424 의 CDR H1-3 및 서열번호 427-429의 CDR L1-3;\nq) 서열번호 436-438 의 CDR H1-3 및 서열번호 441-443의 CDR L1-3;\nr) 서열번호 450-452 의 CDR H1-3 및 서열번호 455-457의 CDR L1-3;\ns) 서열번호 464-466 의 CDR H1-3 및 서열번호 469-471의 CDR L1-3;\nt) 서열번호 478-480 의 CDR H1-3 및 서열번호 483-485의 CDR L1-3;\nu) 서열번호 492-494 의 CDR H1-3 및 서열번호 497-499의 CDR L1-3;\nv) 서열번호 506-508 의 CDR H1-3 및 서열번호 511-513의 CDR L1-3;\nw) 서열번호 520-522 의 CDR H1-3 및 서열번호 525-527의 CDR L1-3;\nx) 서열번호 534-536 의 CDR H1-3 및 서열번호 539-541의 CDR L1-3;\ny) 서열번호 548-550 의 CDR H1-3 및 서열번호 553-555의 CDR L1-3;\nz) 서열번호 562-564 의 CDR H1-3 및 서열번호 567-569의 CDR L1-3;\naa) 서열번호 576-578 의 CDR H1-3 및 서열번호 581-583의 CDR L1-3;\nab) 서열번호 590-592 의 CDR H1-3 및 서열번호 595-597의 CDR L1-3; 및\nac) 서열번호 604-606 의 CDR H1-3 및 서열번호 609-611의 CDR L1-3.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 결합 도메인은 VH PSMA-VL PSMA-VH CD3-VL CD3 또는 VL PSMA-VH PSMA-VH CD3-VL CD3 순서로 배열되는 것인 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 이중특이성 단일 체인 분자는 하기에서 선택되는 서열을 포함하는 것인 이중특이성 단일 체인 항체 분자:\n(a) 서열번호 237, 251, 265, 279, 629, 293, 307, 321, 335, 349, 363, 377, 391, 405, 419, 433, 447, 461, 475, 489, 503, 517, 531, 545, 559, 573, 587, 601 또는 615 중 어느 하나로 표시되는 아미노산 서열; 및\n(b) 서열번호 238, 252, 266, 280, 630, 294, 308, 322, 336, 350, 364, 378, 392, 406, 420, 434, 448, 462, 476, 490, 504, 518, 532, 546, 560, 574, 588, 602 또는 616 중 어느 하나로 표시되는 핵산에 의해 암호화되는 아미노산 서열.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자를 암호화하는 핵산 서열.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 따른 핵산 서열을 포함하는 벡터.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 상기 벡터는 제14항에 따른 상기 핵산 서열에 작동가능하게 연결된 조절서열을 더 포함하는 것인 벡터.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서 상기 벡터는 발현 벡터인 벡터.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항 내지 제17중 어느 한 항에 따른 벡터로 형질전환 또는 형질감염된 숙주.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 따른 숙주를 제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자가 발현되는 조건 하에서 배양하고; 상기 배양으로부터 생산된 폴리펩타이드를 회수하는 단계를 포함하는, 제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 항체 분자 생산 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자 또는 제19항의 생산 방법에 따라 생산된 이중특이성 단일 체인 항체 분자를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "암의 예방, 치료 또는 개선 용도인 제20항의 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "암의 예방, 치료 또는 개선 용도를 가지는, 제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자 또는 제19항의 생산 방법에 따라 생산된 이중특이성 단일 체인 항체분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항 또는 제22항에 있어서, 상기 암은 고형 종양, 바람직하게는 암종 또는 전립선암인 제21항의 약제학적 조성물 또는 제22항의 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항, 제21항 또는 제23항의 약제학적 조성물 또는 제22항 또는 제23항의 이중특이성 단일 체인 항체분자는 선택적으로 적당한 담체 제제, 안정화제 및/또는 부형제를 더 포함하는 것인 약제학적 조성물 또는 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              21,
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항, 제21항, 제23항 또는 제24항의 약제학적 조성물 또는 제22항, 제23항 또는 제24항의 이중특이성 단일 체인 항체 분자는 추가 약물과 조합하여 투여되는 것이 적절한 것인 약제학적 조성물 또는 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제25항에 있어서, 상기 약물은 비단백질성 화합물(non-proteinaceous) 또는 단백질성 화합물인 약제학적 조성물 또는 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 단백질성 화합물 또는 비단백질성 화합물은 제22항, 제23항 또는 제24항의 이중특이성 단일 체인 항체 분자 또는 제20항 또는 제21항의 약제학적 조성물과 동시에 또는 비동시적으로 투여하는 것인 약제학적 조성물 또는 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자 또는 제19항에 따라 제조된 이중특이성 단일 체인 항체 분자를 질병의 예방, 치료 또는 개선을 위한 약제학적 조성물 조제하기 위한 용도.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항 또는 제21항의 약제학적 조성물의 유효량을 이를 필요로 하는 개체에 투여하는 단계를 포함하는 질병의 예방, 치료 또는 개선 방법.",
+            "refers_to": [
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항 또는 제29항에 있어서 상기 질병은 암인 용도 또는 방법.",
+            "refers_to": [
+              28,
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제30항에 있어서, 상기 암은 고형 종양, 바람직하게는 암종 또는 전립선암인 용도 또는 방법.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항 내지 제31항 중 어느 한 항의 방법에 있어서, 또는 제28항, 제30항 또는 제31항의 용도에 있어서, 상기 약제학적 조성물은 추가 약물과 조합되어 투여되는 것이 용도 또는 방법.",
+            "refers_to": [
+              30,
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제32항에 있어서, 상기 약물은 비단백질성 화합물 또는 단백질성 화합물인 방법 또는 용도.",
+            "refers_to": [
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제33항에 있어서, 상기 단백질성 화합물 또는 비단백질성 화합물은 제20항 또는 제21항의 약제학적 조성물과 동시에 또는 비동시적으로 투여되는 것인 방법 또는 용도.",
+            "refers_to": [
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항 내지 제34항 중 어느 한 항의 방법 또는 제28항, 또는 제30항 내지 제34항 중 어느 한 항의 용도에 있어서, 상기 개체는 인간인 용도 또는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 따른 이중특이성 단일 체인 항체 분자, 제14항에 따른 핵산 분자, 제15항 내지 제17항 중 어느 한 항에 따른 벡터 또는 제18항에 따른 숙주를 포함하는 키트.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20160324",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 28,
+        "claims": [
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 인간 및 비침팬지 영장류 CD3ε 체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기에서 선택되는 CDR-L1, CDR-L2 및 CDR-L3를 포함하는 VL 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:\n(a) 서열번호 27로 표시되는 CDR-L1, 서열번호 28로 표시되는 CDR-L2 및 서열번호 29로 표시되는 CDR-L3;\n(b) 서열번호 117로 표시되는 CDR-L1, 서열번호 118로 표시되는 CDR-L2 및 서열번호 119로 표시되는 CDR-L3; 및 \n(c) 서열번호 153으로 표시되는 CDR-L1, 서열번호 154로 표시되는CDR-L2 및 서열번호 155로 표시되는 CDR-L3.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기에서 선택되는 CDR-H1, CDR-H2 및 CDR-H3를 포함하는 VH 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:\n(a) 서열번호 12로 표시되는 CDR-H1, 서열번호 13으로 표시되는 CDR-H2 및 서열번호 14로 표시되는 CDR-H3;\n(b) 서열번호 30으로 표시되는 CDR-H1, 서열번호 31로 표시되는 CDR-H2 및 서열번호 32로 표시되는 CDR-H3; \n(c) 서열번호 48로 표시되는 CDR-H1, 서열번호 49로 표시되는CDR-H2 및 서열번호 50으로 표시되는CDR-H3; \n(d) 서열번호 66으로 표시되는 CDR-H1, 서열번호 67로 표시되는CDR-H2 및 서열번호 68로 표시되는 CDR-H3;\n(e) 서열번호 84로 표시되는 CDR-H1, 서열번호 85로 표시되는CDR-H2 및 서열번호 86으로 표시되는CDR-H3;\n(f) 서열번호 102로 표시되는 CDR-H1, 서열번호 103으로 표시되는 CDR-H2 및 서열번호 104로 표시되는 CDR-H3; \n(g) 서열번호 120으로 표시되는 CDR-H1, 서열번호 121로 표시되는CDR-H2 및 서열번호 122로 표시되는 CDR-H3;\n(h) 서열번호 138로 표시되는CDR-H1, 서열번호 139로 표시되는CDR-H2 및 서열번호 140으로 표시되는 CDR-H3;\n(i) 서열번호 156으로 표시되는CDR-H1, 서열번호 157로 표시되는CDR-H2 및 서열번호 158로 표시되는 CDR-H3; 및\n(j) 서열번호 174로 표시되는 CDR-H1, 서열번호 175로 표시되는CDR-H2 및 서열번호 176으로 표시되는 CDR-H3.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 서열번호 35, 39, 125, 129, 161 또는 165로 표시되는 VL 영역으로 구성되는 군으로부터 선택되는 VL 영역을 포함하는 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 서열번호 15, 19, 33, 37, 51, 55, 69, 73, 87, 91, 105, 109, 123, 127, 141, 145, 159, 163, 177 또는 181로 표시되는 VH 영역으로 구성되는 군으로부터 선택되는 VH 영역을 포함하는 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기로 구성되는 군으로부터 선택되는 VL 영역 및 VH 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:\n(a) 서열번호 17 또는 로 표시되는 VL 영역 및 서열번호 15 또는 19로 표시되는 VH 영역;\n(b) 서열번호 35 또는 39로 표시되는 VL 영역 및 서열번호 33 또는 37로 표시되는 VH 영역; \n(c) 서열번호 53 또는 57로 표시되는 VL 영역 및 서열번호 51 또는 55로 표시되는 VH영역; \n(d) 서열번호 71 또는 75로 표시되는 VL 영역 및 서열번호 69 또는 73으로 표시되는 VH 영역;\n(e) 서열번호 89 또는 93으로 표시되는 VL 영역 및 서열번호 87 또는 91로 표시되는 VH 영역;\n(f) 서열번호 107 또는 111로 표시되는 VL 영역 및 서열번호 105 또는 109로 표시되는 VH 영역; \n(g) 서열번호 125 또는 129로 표시되는 VL 영역 및 서열번호 123 또는 127로 표시되는 VH 영역;\n(h) 서열번호 143 또는 147로 표시되는 VL 영역 및 서열번호 141 또는 145로 표시되는 VH 영역;\n(i) 서열번호 161 또는 165로 표시되는 VL 영역 및 서열번호 159 또는 163으로 표시되는 VH 영역; 및\n(j) 서열번호 179 또는 183으로 표시되는 VL 영역 및 서열번호 177 또는 181로 표시되는 VH 영역.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 제2 결합 도메인은 인간 PSMA 및/또는 비침팬지 PSMA에 결합할 수 있는 것인 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 이중특이성 단일 체인 항체 분자를 암호화하는 핵산 서열.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 있어서, 상기 벡터는 상기 핵산 서열에 작동가능하게 연결된 조절서열을 더 포함하는 것인 벡터.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 상기 벡터는 발현 벡터인 벡터.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 따른 벡터로 형질전환 또는 형질감염된 숙주.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 이중특이성 단일 체인 항체 분자를 암호화하는 핵산 서열을 포함하는 벡터로 형질전환 또는 형질감염된 숙주를 상기 이중특이성 단일 체인 항체 분자가 발현되는 조건 하에서 배양하고; 상기 배양으로부터 생산된 폴리펩타이드를 회수하는 단계를 포함하는, 제1항에 따른 이중특이성 항체 분자 생산 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 이중특이성 단일 체인 항체 분자를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 상기 약제학적 조성물은 암의 예방, 치료 또는 개선 용도인 약제학적 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제21항에 있어서, 상기 암은 고형 종양, 암종 또는 전립선암인 약제학적 조성물.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 상기 약제학적 조성물은 선택적으로 적당한 담체 제제, 안정화제 및/또는 부형제를 더 포함하는 것인 약제학적 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 상기 약제학적 조성물은 추가 약물과 조합하여 투여되는 것이 적절한 것인 약제학적 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제25항에 있어서, 상기 약물은 비단백질성 화합물(non-proteinaceous) 또는 단백질성 화합물인 약제학적 조성물.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제26항에 있어서, 상기 단백질성 화합물 또는 비단백질성 화합물은 상기 약제학적 조성물과 동시에 또는 비동시적으로 투여하는 것인 약제학적 조성물.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 이중특이성 단일 체인 항체 분자, 상기 이중특이성 단일 체인 항체 분자를 암호화하는 핵산 분자, 상기 핵산 서열을 포함하는 벡터, 또는 상기 벡터로 형질전환 또는 형질감염된 숙주를 포함하는 키트.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20170628",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "항원 반응 부위이고 인간과 코먼 마모셋(Callithrix jacchus), 코튼-탑-타마린(Saguinis oedipus), 또는 다람쥐 원숭이(Saimiri sciureus) CD3ε(엡실론) 체인의 에피토프에 결합할 수 있는 제1 결합 도메인으로, 상기 에피토프는 서열번호 2, 4, 6 또는 8로 구성되는 군에 속하는 아미노산 서열의 일부이고 적어도 아미노산 서열 Gln-Asp-Gly-Asn-Glu (QDGNE)을 포함하는 것인, 제1 결합 도메인과,\n전립선 특이 멤브레인 항원(prostate-specific membrane antigen, PSMA)에 결합할 수 있는 제2 결합 도메인으로, 인간 PSMA 및/또는 비침팬지 영장류 PSMA에 결합할 수 있는 제2 결합 도메인을 포함하는, 이중특이성 단일 체인 항체 분자이며, \n상기 이중특이성 단일 체인 항체 분자는 하기에서 선택되는 서열을 CDR H1, CDR H2, CDR H3, CDR L1, CDR L2 및 CDR L3로서 제2 결합 도메인에 포함하는, 이중특이성 단일 체인 항체 분자:\na) 서열번호 226-228의 CDR H1-3 및 서열번호 231-233의 CDR L1-3;\nb) 서열번호 240-242의 CDR H1-3 및 서열번호 245-247의 CDR L1-3;\nc) 서열번호 254-256의 CDR H1-3 및 서열번호 259-261의 CDR L1-3;\nd) 서열번호 268-270의 CDR H1-3 및 서열번호 273-275의 CDR L1-3;\ne) 서열번호 618-620의 CDR H1-3 및 서열번호 623-625의 CDR L1-3;\nf) 서열번호 282-284의 CDR H1-3 및 서열번호 287-289의 CDR L1-3;\ng) 서열번호 296-298의 CDR H1-3 및 서열번호 301-303의 CDR L1-3;\nh) 서열번호 310-312의 CDR H1-3 및 서열번호 315-317의 CDR L1-3;\ni) 서열번호 324-326의 CDR H1-3 및 서열번호 329-331의 CDR L1-3;\nj) 서열번호 338-340의 CDR H1-3 및 서열번호 343-345의 CDR L1-3;\nk) 서열번호 352-354의 CDR H1-3 및 서열번호 357-359의 CDR L1-3;\nl) 서열번호 366-368의 CDR H1-3 및 서열번호 371-373의 CDR L1-3;\nm) 서열번호 380-382 의 CDR H1-3 및 서열번호 385-387의 CDR L1-3;\nn) 서열번호 394-396 의 CDR H1-3 및 서열번호 399-401의 CDR L1-3;\no) 서열번호 408-410의 CDR H1-3 및 서열번호 413-415의 CDR L1-3;\np) 서열번호 422-424의 CDR H1-3 및 서열번호 427-429의 CDR L1-3;\nq) 서열번호 436-438의 CDR H1-3 및 서열번호 441-443의 CDR L1-3;\nr) 서열번호 450-452의 CDR H1-3 및 서열번호 455-457의 CDR L1-3;\ns) 서열번호 464-466의 CDR H1-3 및 서열번호 469-471의 CDR L1-3;\nt) 서열번호 478-480의 CDR H1-3 및 서열번호 483-485의 CDR L1-3;\nu) 서열번호 492-494의 CDR H1-3 및 서열번호 497-499의 CDR L1-3;\nv) 서열번호 506-508의 CDR H1-3 및 서열번호 511-513의 CDR L1-3;\nw) 서열번호 520-522의 CDR H1-3 및 서열번호 525-527의 CDR L1-3;\nx) 서열번호 534-536의 CDR H1-3 및 서열번호 539-541의 CDR L1-3;\ny) 서열번호 548-550의 CDR H1-3 및 서열번호 553-555의 CDR L1-3;\nz) 서열번호 562-564의 CDR H1-3 및 서열번호 567-569의 CDR L1-3;\naa) 서열번호 576-578의 CDR H1-3 및 서열번호 581-583의 CDR L1-3;\nab) 서열번호 590-592의 CDR H1-3 및 서열번호 595-597의 CDR L1-3; 및\nac) 서열번호 604-606의 CDR H1-3 및 서열번호 609-611의 CDR L1-3.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 에피토프는 서열번호 2, 4, 6 및 8로 구성되는 군에 속하는 아미노산 서열의 일부이고 그리고 적어도 아미노산 서열 Gln-Asp-Gly-Asn-Glu (QDGNE)을 포함하는 것인, 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 제2 결합 도메인은 VH PSMA-VL PSMA-VH CD3-VL CD3 또는 VL PSMA-VH PSMA-VH CD3-VL CD3 순서로 배열되는 것인 이중특이성 단일 체인 항체 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 이중특이성 단일 체인 항체 분자를 암호화하는 염기서열을 포함하는 핵산 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 따른 벡터로 형질전환 또는 형질감염된 원핵 또는 진핵 숙주세포.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 이중특이성 단일 체인 항체 분자를 암호화하는 핵산 서열을 포함하는 벡터로 형질전환 또는 형질감염된 원핵 또는 진핵 숙주세포를 상기 이중특이성 단일 체인 항체 분자가 발현되는 조건 하에서 배양하고; 상기 배양으로부터 생산된 폴리펩타이드를 회수하는 단계를 포함하는, 제1항에 따른 이중특이성 단일 체인 항체 분자의 생산 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 이중특이성 단일 체인 항체 분자를 포함하는 암의 예방, 치료 또는 개선용 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 상기 암은 고형 종양, 암종 또는 전립선암인 약제학적 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 상기 약제학적 조성물은 담체 제제, 안정화제 및/또는 부형제를 더 포함하는 것인 약제학적 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 이중특이성 단일 체인 항체 분자, 상기 이중특이성 단일 체인 항체 분자를 암호화하는 핵산 분자, 또는 상기 핵산 분자를 포함하는 벡터를 포함하는 키트.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20170828",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "항원 반응 부위이고 인간과 코먼 마모셋(Callithrix jacchus), 코튼-탑-타마린(Saguinis oedipus), 또는 다람쥐 원숭이(Saimiri sciureus) CD3ε(엡실론) 체인의 에피토프에 결합할 수 있는 제1 결합 도메인으로, 상기 에피토프는 서열번호 2, 4, 6 또는 8로 구성되는 군에 속하는 아미노산 서열의 일부이고 적어도 아미노산 서열 Gln-Asp-Gly-Asn-Glu (QDGNE)을 포함하는 것인, 제1 결합 도메인과,\n전립선 특이 멤브레인 항원(prostate-specific membrane antigen, PSMA)에 결합할 수 있는 제2 결합 도메인으로, 인간 PSMA 및/또는 비침팬지 영장류 PSMA에 결합할 수 있는 제2 결합 도메인을 포함하는, 이중특이성 단일 체인 항체 분자이며, \n상기 이중특이성 단일 체인 항체 분자는 하기에서 선택되는 서열을 CDR H1, CDR H2, CDR H3, CDR L1, CDR L2 및 CDR L3로서 제2 결합 도메인에 포함하는, 이중특이성 단일 체인 항체 분자:\na) 서열번호 226-228의 CDR H1-3 및 서열번호 231-233의 CDR L1-3;\nb) 서열번호 240-242의 CDR H1-3 및 서열번호 245-247의 CDR L1-3;\nc) 서열번호 254-256의 CDR H1-3 및 서열번호 259-261의 CDR L1-3;\nd) 서열번호 268-270의 CDR H1-3 및 서열번호 273-275의 CDR L1-3;\nf) 서열번호 282-284의 CDR H1-3 및 서열번호 287-289의 CDR L1-3;\ng) 서열번호 296-298의 CDR H1-3 및 서열번호 301-303의 CDR L1-3;\nh) 서열번호 310-312의 CDR H1-3 및 서열번호 315-317의 CDR L1-3;\ni) 서열번호 324-326의 CDR H1-3 및 서열번호 329-331의 CDR L1-3;\nj) 서열번호 338-340의 CDR H1-3 및 서열번호 343-345의 CDR L1-3;\nk) 서열번호 352-354의 CDR H1-3 및 서열번호 357-359의 CDR L1-3;\nl) 서열번호 366-368의 CDR H1-3 및 서열번호 371-373의 CDR L1-3;\no) 서열번호 408-410의 CDR H1-3 및 서열번호 413-415의 CDR L1-3;\np) 서열번호 422-424의 CDR H1-3 및 서열번호 427-429의 CDR L1-3;\nu) 서열번호 492-494의 CDR H1-3 및 서열번호 497-499의 CDR L1-3;\nv) 서열번호 506-508의 CDR H1-3 및 서열번호 511-513의 CDR L1-3; 및\nab) 서열번호 590-592의 CDR H1-3 및 서열번호 595-597의 CDR L1-3.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 인간 및 비침팬지 영장류 CD3ε체인의 에피토프에 결합할 수 있는 상기 제1 결합 도메인은 하기로 구성되는 군으로부터 선택되는 VL 영역 및 VH 영역을 포함하는 것인 이중 특이성 단일 체인 항체 분자:\n(a) 서열번호 17 또는 21로 표시되는 VL 영역 및 서열번호 15 또는 19로 표시되는 VH 영역;\n(b) 서열번호 35 또는 39로 표시되는 VL 영역 및 서열번호 33 또는 37로 표시되는 VH 영역; \n(c) 서열번호 53 또는 57로 표시되는 VL 영역 및 서열번호 51 또는 55로 표시되는 VH영역; \n(d) 서열번호 71 또는 75로 표시되는 VL 영역 및 서열번호 69 또는 73으로 표시되는 VH 영역;\n(e) 서열번호 89 또는 93으로 표시되는 VL 영역 및 서열번호 87 또는 91로 표시되는 VH 영역;\n(f) 서열번호 107 또는 111로 표시되는 VL 영역 및 서열번호 105 또는 109로 표시되는 VH 영역; \n(g) 서열번호 125 또는 129로 표시되는 VL 영역 및 서열번호 123 또는 127로 표시되는 VH 영역;\n(h) 서열번호 143 또는 147로 표시되는 VL 영역 및 서열번호 141 또는 145로 표시되는 VH 영역;\n(i) 서열번호 161 또는 165로 표시되는 VL 영역 및 서열번호 159 또는 163으로 표시되는 VH 영역; 및\n(j) 서열번호 179 또는 183으로 표시되는 VL 영역 및 서열번호 177 또는 181로 표시되는 VH 영역.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 상기 이중특이성 단일 체인 분자는 하기에서 선택되는 서열을 포함하는 것인 이중특이성 단일 체인 항체 분자:\n(a) 서열번호 237, 251, 265, 279, 293, 307, 321, 335, 349, 363, 377, 419, 433, 503, 517, 또는 601 중 어느 하나로 표시되는 아미노산 서열; 및\n(b) 서열번호 238, 252, 266, 280, 294, 308, 322, 336, 350, 364, 378, 420, 434, 504, 518, 또는 602 중 어느 하나로 표시되는 핵산에 의해 암호화되는 아미노산 서열.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 이중특이성 단일 체인 항체 분자, 상기 이중특이성 단일 체인 항체 분자를 암호화하는 핵산 분자, 또는 상기 핵산 분자를 포함하는 벡터를 포함하는, 암의 예방 또는 치료용 키트.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 36,
+      "after_claim_count": 4,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2011.10.06",
+      "internationOpenNumber": "WO2011121110",
+      "internationalApplicationDate": "2011.04.01",
+      "internationalApplicationNumber": "PCT/EP2011/055104"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "독일 뮌헨, 스타펠지스트리트 *,*****",
+      "code": "519990511051",
+      "country": "독일",
+      "engName": "Amgen Research (Munich) GmbH",
+      "name": "암젠 리서치 (뮌헨) 게엠베하"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "독일, 뮌헨 *****, 쉬...",
+        "code": "",
+        "country": "독일",
+        "engName": "KUFER, Peter",
+        "name": "쿠퍼, 피터"
+      },
+      {
+        "address": "독일, 뮌헨 *****, 쉬타펠지...",
+        "code": "",
+        "country": "독일",
+        "engName": "RAUM, Tobias",
+        "name": "라움, 토비아스"
+      },
+      {
+        "address": "독일, 뮌헨 *****, 쉬타펠지...",
+        "code": "",
+        "country": "독일",
+        "engName": "KISCHEL, Roman",
+        "name": "키쉘, 로만"
+      },
+      {
+        "address": "독일, 뮌헨 *****, 쉬타펠지...",
+        "code": "",
+        "country": "독일",
+        "engName": "LUTTERBUESE, Ralf",
+        "name": "루터붸제, 랄프"
+      },
+      {
+        "address": "독일, 뮌헨 *****, 쉬타펠지...",
+        "code": "",
+        "country": "독일",
+        "engName": "HOFFMANN, Patrick",
+        "name": "호프만, 패트릭"
+      },
+      {
+        "address": "독일, 뮌헨 *****, 쉬타펠지...",
+        "code": "",
+        "country": "독일",
+        "engName": "RAU, Doris",
+        "name": "라우, 도리스"
+      },
+      {
+        "address": "독일, 뮌헨 *****, 쉬타펠지...",
+        "code": "",
+        "country": "독일",
+        "engName": "MANGOLD, Susanne",
+        "name": "만골트, 수산네"
+      },
+      {
+        "address": "독일, 뮌헨 *****, 쉬타펠지...",
+        "code": "",
+        "country": "독일",
+        "engName": "KLINGER, Matthias",
+        "name": "클링어, 마티아스"
+      },
+      {
+        "address": "독일, 뮌헨 *****, 쉬타펠지...",
+        "code": "",
+        "country": "독일",
+        "engName": "SCHALLER, Evelyne",
+        "name": "샬러, 에벨린"
+      },
+      {
+        "address": "독일, 뮌헨 *****, 쉬타펠지...",
+        "code": "",
+        "country": "독일",
+        "engName": "HAUSMANN, Susanne",
+        "name": "하우스만, 수산네"
+      },
+      {
+        "address": "독일, 뮌헨 *****, 쉬타펠지...",
+        "code": "",
+        "country": "독일",
+        "engName": "FLUHR, Petra",
+        "name": "플루어, 페트라"
+      },
+      {
+        "address": "독일, 뮌헨 *****, 쉬타펠지...",
+        "code": "",
+        "country": "독일",
+        "engName": "STEIGER, Carola",
+        "name": "슈타이거, 카롤라"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 역삼로 *길 **, 신관 *층~*층, **층(역삼동, 광성빌딩)",
+      "code": "920081001218",
+      "country": "대한민국",
+      "engName": "DANA PATENT LAW FIRM",
+      "name": "특허법인다나"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2010.04.01",
+      "priorityApplicationNumber": "61/320,052"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Cancer Immunol Immunother. 2008, 57, 43-52.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2008119567 A2",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2012.10.31",
+        "receiptNumber": "1-1-2012-0893919-40"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2013.06.13",
+        "receiptNumber": "1-5-2013-0066358-99"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.03.24",
+        "receiptNumber": "1-1-2016-0285073-28"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2016.03.24",
+        "receiptNumber": "1-1-2016-0285115-58"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2016.04.04",
+        "receiptNumber": "1-5-2016-0049563-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2016.04.05",
+        "receiptNumber": "1-1-2016-0326976-37"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2017.05.01",
+        "receiptNumber": "9-5-2017-0309565-13"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2017.06.28",
+        "receiptNumber": "1-1-2017-0618415-07"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2017.06.28",
+        "receiptNumber": "1-1-2017-0618405-40"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2017.07.31",
+        "receiptNumber": "9-5-2017-0531861-20"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2017.08.28",
+        "receiptNumber": "1-1-2017-0827699-92"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2017.08.28",
+        "receiptNumber": "1-1-2017-0827690-82"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2017.09.01",
+        "receiptNumber": "1-5-2017-0122443-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2017.09.04",
+        "receiptNumber": "1-1-2017-0854616-46"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2017.09.14",
+        "receiptNumber": "9-5-2017-0644387-17"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020127028639.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e0006d00e1dacdd0a75d7f69ef71370b49210760bd921fc566302c6e9bd6a6986f840d22267fba0ffd4e6c82dc1a016de5b5412805d0ab41a70",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf5d7a1340b76875f02a615b606b70a6623abe734968a5b1b2b7c102a747b06923f1cc52b431e0b6f46025b05acfeb58d46c615ceaa1cd4060"
+  },
+  "rndInfoArray": ""
+}

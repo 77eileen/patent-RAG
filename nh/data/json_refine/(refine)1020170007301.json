@@ -1,0 +1,602 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.01.16",
+      "applicationFlag": "",
+      "applicationNumber": "10-2017-0007301",
+      "claimCount": "13",
+      "examinerName": "이민정",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "적색형광단백질을 발현하는 유전자 및 틴 에틸 에티오푸르푸린을 이용한 광역학 치료용 조성물 및 이를 이용한 광역학 치료방법",
+      "inventionTitleEng": "Composition for photodynamic therapy using gene  expressing red fluorescent protein and tin ethyl  etiopurpurin and method for photodynamic therapy  using thereof",
+      "openDate": "2018.07.25",
+      "openNumber": "10-2018-0084335",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2017.01.16",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2018.12.28",
+      "publicationNumber": "",
+      "registerDate": "2018.10.19",
+      "registerNumber": "10-1911725-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": {
+      "ipcDate": "(2020.01.01)",
+      "ipcNumber": "A61K 41/00"
+    }
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 적색형광단백질을 발현하는 유전자 및 틴 에틸 에티오푸르푸린을 이용한 광역학 치료용 조성물 및 이를 이용한 광역학 치료방법에 관한 것으로, 구체적으로 적색형광단백질이 도입된 암세포에 광감작제로서 틴 에틸 에티오푸르푸린(tin ethyl etiopurpurin)을 처리한 후 황색광을 조사하여 정상세포에는 영향을 미치지 않고 적색형광단백질이 도입된 암세포만을 선택적으로 사멸시킬 수 있는 광역학 치료용 조성물 및 이를 이용한 광역학 치료방법을 제공한다."
+    }
+  },
+  "claims": {
+    "total_amendments": 1,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "적색형광단백질(red fluorescent protein)을 발현하는 유전자를 탑재한 바이러스 벡터 및 틴 에틸 에티오푸르푸린(tin ethyl etiopurpurin)을 함유하는, 광역학 치료용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 적색형광단백질의 발광스펙트럼의 정점이 570 내지 600 nm인 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 상기 조성물은 적색형광단백질을 발현하는 유전자가 도입된 세포를 표적화하는 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 세포는 암세포 또는 순환종양세포(circular tumor cell)인 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 암세포는 유방암세포인 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 조성물은 암 조직에 선택적으로 축적되고, 레이저 조사에 의해 단일항산소 또는 자유 라디칼 생성이 가능한 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 암은 대장선종, 대장암, 직장암, 항문암, 소장암, 유방암, 폐암, 위암, 간암, 혈액암, 만성 또는 급성 백혈병, 골수암, 림프구 림프종, 뼈암, 췌장암, 피부암, 두경부암, 피부흑색종, 안구 흑색종, 자궁육종, 난소암, 난관암, 자궁내막암, 자궁경부암, 내분비암, 갑상선암, 부갑상선암, 신장암, 연조직종양, 요도암, 전립선암, 기관지암, 바렛식도(Barrett's esophagus), 자궁경부 이형성증(cervical dysplasia), 신장암 및 수뇨관암으로 구성된 그룹으로부터 선택되는 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 광역학 치료용 조성물은, 적색형광단백질을 발현하는 유전자가 도입된 세포에 틴 에틸 에티오푸르푸린을 처리하고, 여기에 575 내지 585 nm의 황색광을 조사하는 경우 적색형광단백질을 발현하는 유전자가 도입된 세포가 선택적으로 사멸되는 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 조성물을 이용하여, 생체 내 또는 생체 외에서 광활성화 시키는 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "인간을 제외한 개체에 있어서의 광역학 치료방법으로서,상기 방법은 상기 개체에 적색형광단백질을 발현하는 유전자를 탑재한 바이러스 벡터를 도입하는 단계;틴 에틸 에티오푸르푸린을 투여하는 단계; 및 575 내지 585 nm의 황색광을 조사하는 단계를 포함하는, 광역학 치료방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 개체는 암을 가진 개체인 것을 특징으로 하는, 광역학 치료방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 따른 광역학 치료용 조성물; 및575 내지 585 nm의 황색광을 조사하기 위한 광원을 포함하는,광역학 치료에 사용하기 위한 키트.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 키트는 암 치료용 키트인 것을 특징으로 하는, 광역학 치료에 사용하기 위한 키트.",
+          "refers_to": [
+            12
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "적색형광단백질(red fluorescent protein)을 발현하는 유전자를 탑재한 바이러스 벡터 및 틴 에틸 에티오푸르푸린(tin ethyl etiopurpurin)을 함유하는, 광역학 치료용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 적색형광단백질의 발광스펙트럼의 정점이 570 내지 600 nm인 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 상기 조성물은 적색형광단백질을 발현하는 유전자가 도입된 세포를 표적화하는 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 세포는 암세포 또는 순환종양세포(circular tumor cell)인 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 암세포는 유방암세포인 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 조성물은 암 조직에 선택적으로 축적되고, 레이저 조사에 의해 단일항산소 또는 자유 라디칼 생성이 가능한 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 암은 대장선종, 대장암, 직장암, 항문암, 소장암, 유방암, 폐암, 위암, 간암, 혈액암, 만성 또는 급성 백혈병, 골수암, 림프구 림프종, 뼈암, 췌장암, 피부암, 두경부암, 피부흑색종, 안구 흑색종, 자궁육종, 난소암, 난관암, 자궁내막암, 자궁경부암, 내분비암, 갑상선암, 부갑상선암, 신장암, 연조직종양, 요도암, 전립선암, 기관지암, 바렛식도(Barrett's esophagus), 자궁경부 이형성증(cervical dysplasia), 신장암 및 수뇨관암으로 구성된 그룹으로부터 선택되는 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 광역학 치료용 조성물은, 적색형광단백질을 발현하는 유전자가 도입된 세포에 틴 에틸 에티오푸르푸린을 처리하고, 여기에 575 내지 585 nm의 황색광을 조사하는 경우 적색형광단백질을 발현하는 유전자가 도입된 세포가 선택적으로 사멸되는 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 조성물을 이용하여, 생체 내 또는 생체 외에서 광활성화 시키는 것을 특징으로 하는, 광역학 치료용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "인간을 제외한 개체에 있어서의 광역학 치료방법으로서,상기 방법은 상기 개체에 적색형광단백질을 발현하는 유전자를 탑재한 바이러스 벡터를 도입하는 단계;틴 에틸 에티오푸르푸린을 투여하는 단계; 및 575 내지 585 nm의 황색광을 조사하는 단계를 포함하는, 광역학 치료방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 개체는 암을 가진 개체인 것을 특징으로 하는, 광역학 치료방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 따른 광역학 치료용 조성물; 및575 내지 585 nm의 황색광을 조사하기 위한 광원을 포함하는,광역학 치료에 사용하기 위한 키트.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 키트는 암 치료용 키트인 것을 특징으로 하는, 광역학 치료에 사용하기 위한 키트.",
+          "refers_to": [
+            12
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "",
+        "document_name": "원본 (변동이력 없음)",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "적색형광단백질(red fluorescent protein)을 발현하는 유전자를 탑재한 바이러스 벡터 및 틴 에틸 에티오푸르푸린(tin ethyl etiopurpurin)을 함유하는, 광역학 치료용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 적색형광단백질의 발광스펙트럼의 정점이 570 내지 600 nm인 것을 특징으로 하는, 광역학 치료용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, 상기 조성물은 적색형광단백질을 발현하는 유전자가 도입된 세포를 표적화하는 것을 특징으로 하는, 광역학 치료용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 세포는 암세포 또는 순환종양세포(circular tumor cell)인 것을 특징으로 하는, 광역학 치료용 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 암세포는 유방암세포인 것을 특징으로 하는, 광역학 치료용 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 조성물은 암 조직에 선택적으로 축적되고, 레이저 조사에 의해 단일항산소 또는 자유 라디칼 생성이 가능한 것을 특징으로 하는, 광역학 치료용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 암은 대장선종, 대장암, 직장암, 항문암, 소장암, 유방암, 폐암, 위암, 간암, 혈액암, 만성 또는 급성 백혈병, 골수암, 림프구 림프종, 뼈암, 췌장암, 피부암, 두경부암, 피부흑색종, 안구 흑색종, 자궁육종, 난소암, 난관암, 자궁내막암, 자궁경부암, 내분비암, 갑상선암, 부갑상선암, 신장암, 연조직종양, 요도암, 전립선암, 기관지암, 바렛식도(Barrett's esophagus), 자궁경부 이형성증(cervical dysplasia), 신장암 및 수뇨관암으로 구성된 그룹으로부터 선택되는 것을 특징으로 하는, 광역학 치료용 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 광역학 치료용 조성물은, 적색형광단백질을 발현하는 유전자가 도입된 세포에 틴 에틸 에티오푸르푸린을 처리하고, 여기에 575 내지 585 nm의 황색광을 조사하는 경우 적색형광단백질을 발현하는 유전자가 도입된 세포가 선택적으로 사멸되는 것을 특징으로 하는, 광역학 치료용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 조성물을 이용하여, 생체 내 또는 생체 외에서 광활성화 시키는 것을 특징으로 하는, 광역학 치료용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "인간을 제외한 개체에 있어서의 광역학 치료방법으로서,상기 방법은 상기 개체에 적색형광단백질을 발현하는 유전자를 탑재한 바이러스 벡터를 도입하는 단계;틴 에틸 에티오푸르푸린을 투여하는 단계; 및 575 내지 585 nm의 황색광을 조사하는 단계를 포함하는, 광역학 치료방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 개체는 암을 가진 개체인 것을 특징으로 하는, 광역학 치료방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항에 따른 광역학 치료용 조성물; 및575 내지 585 nm의 황색광을 조사하기 위한 광원을 포함하는,광역학 치료에 사용하기 위한 키트.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 키트는 암 치료용 키트인 것을 특징으로 하는, 광역학 치료에 사용하기 위한 키트.",
+            "refers_to": [
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 13,
+      "after_claim_count": 13,
+      "total_versions": 1
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 서초구...",
+      "code": "120180149894",
+      "country": "대한민국",
+      "engName": "Core Pharma Co., Ltd",
+      "name": "주식회사 코어파마"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "서울특별시 강남구...",
+      "code": "",
+      "country": "대한민국",
+      "engName": "Moon, Gyeong Soo",
+      "name": "문경수"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 강남대로 ***, *층 (양재동, 보은빌딩)(노바국제특허법률사무소)",
+      "code": "920080007921",
+      "country": "대한민국",
+      "engName": "Hyun-Kyung HONG",
+      "name": "홍현경"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2017.01.16",
+        "receiptNumber": "1-1-2017-0052574-27"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2017.03.08",
+        "receiptNumber": "1-1-2017-0229781-78"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2017.04.10",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2017.06.16",
+        "receiptNumber": "9-6-2018-0126891-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2018.03.20",
+        "receiptNumber": "1-1-2018-0275705-76"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2018.08.08",
+        "receiptNumber": "4-1-2018-5153132-73"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2018.10.17",
+        "receiptNumber": "9-5-2018-0704623-18"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "",
+        "documentName": "[명세서등 보정]보정서(심사관 직권보정)",
+        "receiptDate": "2018.12.19",
+        "receiptNumber": "1-1-2018-5024057-17"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.10.14",
+        "receiptNumber": "4-1-2019-5212812-64"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.10.25",
+        "receiptNumber": "4-1-2019-0052260-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.05.24",
+        "receiptNumber": "4-1-2023-5127588-86"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020170007301.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00058c93a496ea3709d29d52ffbe6a5a79889b61e6c9a969c64f4e7f191a658391bd9911a4c9d12547bc26065b2aff121bb45aa628fdc23a84",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf3c3d0e4fad4a790c711892cfd38fd7bbecc7bae84eba9e905c2633dd4567e789db93b692dcb70b8314b9743fd65f1023ac05dc5d6dcd8d84"
+  },
+  "rndInfoArray": ""
+}

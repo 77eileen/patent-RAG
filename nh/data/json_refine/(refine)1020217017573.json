@@ -1,0 +1,851 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.11.04",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7017573",
+      "claimCount": "15",
+      "examinerName": "최승희",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "여과 가능한 듀오카마이신 함유 항체-약물 접합체 조성물 및 관련 방법",
+      "inventionTitleEng": "FILTERABLE DUOCARMYCIN-CONTAINING ANTIBODY-DRUG CONJUGATE COMPOSITIONS AND RELATED METHODS",
+      "openDate": "2021.07.22",
+      "openNumber": "10-2021-0091752",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.11.02",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2025.10.17",
+      "publicationNumber": "",
+      "registerDate": "2025.10.15",
+      "registerNumber": "10-2873505-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2021.06.08"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/68"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "듀오카마이신계 항체-약물 접합체는, 물과 아세토니트릴의 용매 시스템을 함유하고 30% 내지 60% 아세토니트릴을 갖는 조성물에서 비접합형의 듀오카마이신 링커-약물로부터 용이하게 분리될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217017573",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210608",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 물과 아세토니트릴을 함유하는 용매 시스템; (b) 산; (c) 식 (I)의 항체-약물 접합체, 및 임의적으로 (d) 비접합형의 듀오카마이신 링커-약물을 포함하는 조성물로서,\nAb-(L-D)m (I),\n여기서, Ab는 항체 또는 이의 항원 결합 단편이고, L-D는 듀오카마이신 링커-약물이고, m은 1 내지 12의 평균 DAR을 나타내며;\n상기 조성물은 30% 내지 60%(v/v), 바람직하게는 35% 내지 55%의 상기 아세토니트릴을 포함하는 것인 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 조성물은 상기 비접합형의 듀오카마이신 링커-약물을 더 포함하는 것인 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 상기 항체-약물 접합체는 0.1 내지 100 mg/ml, 바람직하게는 0.5 내지 50 mg/ml, 더 바람직하게는 1.0 내지 10 mg/ml의 농도로 함유되는 것인 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 산은 0.01% 내지 5%(v/v), 바람직하게는 0.05% 내지 2%, 더 바람직하게는 0.05% 내지 1.5%, 가장 바람직하게는 0.1% 내지 1%의 농도로 함유되는 것인 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 산은 트리플루오로아세트산, 포름산, 및 염산으로 이루어진 군에서 선택되는 것인 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 비접합형의 듀오카마이신 링커-약물은 식 (IV)로 표시되는 것인 조성물:\n[이미지]\n여기서, n은 0-3이고; R5는 \n[이미지]\n로부터 선택되며;\ny는 1-16이고; \nR6은 하기로부터 선택된다:\n[이미지]",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 비접합형의 듀오카마이신 링커-약물은 하기 식으로 표시되는 것인 조성물:\n[이미지].",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 상기 Ab는 IgG 항체 또는 이의 항원 결합 단편인 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(i) 임의적으로 비접합형의 듀오카마이신 링커-약물을 더 포함하는, 식 (I)의 항체-약물 접합체의 수용액 또는 동결건조 생성물을, (ii) 물, 아세토니트릴, 및 산을 포함하는 희석 매체와 배합하여 조성물을 형성하는 단계를 포함하는 방법으로서,\nAb-(L-D)m (I),\n여기서, Ab는 항체 또는 이의 항원 결합 단편이고, L-D는 듀오카마이신 링커-약물이고, m은 1 내지 12의 평균 DAR을 나타내며, 상기 조성물은 30% 내지 60%(v/v), 바람직하게는 35% 내지 55%의 상기 아세토니트릴을 포함하는 것인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 3 kDa 내지 50 kDa 범위 내의 분자량 컷오프를 갖는 필터를 통해 상기 조성물을 여과하여, 상기 항체-약물 접합체를 실질적으로 함유하지 않은 여과액을 형성하는 단계를 더 포함하는 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 상기 여과는 원심 여과인 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 필터는 변성 폴리에테르설폰, 바람직하게는 나노셉 오메가(Nanosep Omega) 필터 매체를 포함하는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항 내지 제12항 중 어느 한 항에 있어서, 상기 여과액을, 상기 비접합형의 듀오카마이신 링커-약물을 단리하기에 적합한 크로마토그래피 분리 공정에 적용하는 단계, 및 존재하는 경우, 상기 여과액 중에 존재하는 상기 비접합형의 듀오카마이신 링커-약물의 양을 측정하는 단계를 더 포함하는 방법.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항체-약물 접합체 배치(batch)를 출시/승인하는 방법으로서,\n1) 항체-약물 접합체 배치로부터 샘플을 수득하는 단계로서, 상기 배치는 듀오카마이신 링커-약물과 접합된 항체, 및 임의적으로, 비접합형의 듀오카마이신 링커-약물을 포함하는 것인 단계;\n2) 상기 샘플을, 물, 아세토니트릴, 및 산을 포함하는 희석 매체와 배합하여, 30% 내지 60%(v/v), 바람직하게는 35% 내지 55%의 상기 아세토니트릴을 포함하는 여과 가능한 조성물을 형성하는 단계;\n3) 상기 여과 가능한 조성물을 여과하여, 상기 항체-약물 접합체를 실질적으로 함유하지 않은 여과액을 수득하는 단계;\n4) 상기 여과액을 분석하여, 상기 여과액이 상기 비접합형의 듀오카마이신 링커-약물을 소정 수준 미만으로 함유하고 있는지를 결정하는 단계; 및\n5) 상기 비접합형의 듀오카마이신 링커-약물이 상기 소정 수준 미만이면 상기 항체-약물 접합체 배치를 출시/승인하는 단계\n를 포함하는, 항체-약물 접합체 배치를 출시/승인하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 상기 소정 수준은, 항체-약물 접합체 1 mg당 0.2 μg 또는 그 미만인 샘플 중의 듀오카마이신 링커-약물의 농도에 상응하는 것인 방법.",
+          "refers_to": [
+            14
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20250806",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) (i) 하기 화학식 (I)의 항체-약물 접합체의 수용액 또는 동결건조 생성물을, (ii) 물, 아세토니트릴 및 산을 포함하는 희석 매체와 배합하여 30% 내지 60%(v/v)의 아세토니트릴을 포함하는 여과 가능한 조성물을 형성하는 단계로서,Ab-(L-D)m \t(I)여기서, Ab는 IgG 항체이고, L-D는 듀오카마이신 링커-약물이고, 비접합형의 듀오카마이신 링커-약물은 화학식 (IV)로 표현되고,상기 식에서, n은 0 내지 3이고;R5는 , , , , , 및에서 선택되고;y는 1 내지 16이고;R6은 , , 및 에서 선택되고;m 은 1 내지 12의 평균 DAR(drug-to-antibody ratio)을 나타내고,상기 (i)은 선택적으로 비접합형의 듀오카마이신 링커-약물을 더 포함하는 것인 단계; 및(b) 상기 여과 가능한 조성물을 3 kDa 내지 50 kDa 범위 내의 분자량 컷오프를 갖는 필터를 통해 여과하여 여과액을 형성하는 단계를 포함하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 비접합형의 듀오카마이신 링커-약물은 하기 화학식으로 표시되는 것인 방법:.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 여과액은 상기 여과 가능한 조성물에 존재했던 항체-약물 접합체의 양 중 0.5% 미만을 함유하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 상기 여과는 원심 여과인 방법.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 필터는 변성 폴리에테르설폰 필터 매체를 포함하는 것인 방법.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 여과액을 비접합형의 듀오카마이신 링커-약물을 분리하기에 적합한 크로마토그래피 분리 공정에 적용시키고, 상기 여과액 내에 존재하는 비접합형의 듀오카마이신 링커-약물의 양을, 존재하는 경우, 측정하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 여과 가능한 조성물은 35% 내지 55%의 아세토니트릴을 포함하는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 여과 가능한 조성물 내의 항체-약물 접합체는 0.5mg/ml 내지 50mg/ml의 농도로 포함되는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 여과 가능한 조성물 내의 항체-약물 접합체는 1.0mg/ml 내지 10mg/ml의 농도로 포함되는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 여과 가능한 조성물 내의 산은 0.05% 내지 2%의 농도를 갖는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제10항에 있어서, 상기 여과 가능한 조성물 내의 산은 0.1% 내지 1%의 농도를 갖는 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 산은 트리플루오로아세트산, 포름산 및 염산으로 이루어진 군에서 선택되는 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 여과액은 상기 여과 가능한 조성물에 존재했던 항체-약물 접합체의 양 중 0.2% 미만을 함유하는 것인 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 여과액은 상기 여과 가능한 조성물에 존재했던 항체-약물 접합체의 양 중 0.1% 미만을 함유하는 것인 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 필터는 10kDa 내지 30kDa의 분자량 컷오프를 갖는 것인 방법.",
+          "refers_to": [
+            1
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210608",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 물과 아세토니트릴을 함유하는 용매 시스템; (b) 산; (c) 식 (I)의 항체-약물 접합체, 및 임의적으로 (d) 비접합형의 듀오카마이신 링커-약물을 포함하는 조성물로서,\nAb-(L-D)m (I),\n여기서, Ab는 항체 또는 이의 항원 결합 단편이고, L-D는 듀오카마이신 링커-약물이고, m은 1 내지 12의 평균 DAR을 나타내며;\n상기 조성물은 30% 내지 60%(v/v), 바람직하게는 35% 내지 55%의 상기 아세토니트릴을 포함하는 것인 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 조성물은 상기 비접합형의 듀오카마이신 링커-약물을 더 포함하는 것인 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 상기 항체-약물 접합체는 0.1 내지 100 mg/ml, 바람직하게는 0.5 내지 50 mg/ml, 더 바람직하게는 1.0 내지 10 mg/ml의 농도로 함유되는 것인 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 산은 0.01% 내지 5%(v/v), 바람직하게는 0.05% 내지 2%, 더 바람직하게는 0.05% 내지 1.5%, 가장 바람직하게는 0.1% 내지 1%의 농도로 함유되는 것인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 산은 트리플루오로아세트산, 포름산, 및 염산으로 이루어진 군에서 선택되는 것인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 비접합형의 듀오카마이신 링커-약물은 식 (IV)로 표시되는 것인 조성물:\n[이미지]\n여기서, n은 0-3이고; R5는 \n[이미지]\n로부터 선택되며;\ny는 1-16이고; \nR6은 하기로부터 선택된다:\n[이미지]",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 비접합형의 듀오카마이신 링커-약물은 하기 식으로 표시되는 것인 조성물:\n[이미지].",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 상기 Ab는 IgG 항체 또는 이의 항원 결합 단편인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(i) 임의적으로 비접합형의 듀오카마이신 링커-약물을 더 포함하는, 식 (I)의 항체-약물 접합체의 수용액 또는 동결건조 생성물을, (ii) 물, 아세토니트릴, 및 산을 포함하는 희석 매체와 배합하여 조성물을 형성하는 단계를 포함하는 방법으로서,\nAb-(L-D)m (I),\n여기서, Ab는 항체 또는 이의 항원 결합 단편이고, L-D는 듀오카마이신 링커-약물이고, m은 1 내지 12의 평균 DAR을 나타내며, 상기 조성물은 30% 내지 60%(v/v), 바람직하게는 35% 내지 55%의 상기 아세토니트릴을 포함하는 것인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 3 kDa 내지 50 kDa 범위 내의 분자량 컷오프를 갖는 필터를 통해 상기 조성물을 여과하여, 상기 항체-약물 접합체를 실질적으로 함유하지 않은 여과액을 형성하는 단계를 더 포함하는 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 상기 여과는 원심 여과인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 필터는 변성 폴리에테르설폰, 바람직하게는 나노셉 오메가(Nanosep Omega) 필터 매체를 포함하는 것인 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항 내지 제12항 중 어느 한 항에 있어서, 상기 여과액을, 상기 비접합형의 듀오카마이신 링커-약물을 단리하기에 적합한 크로마토그래피 분리 공정에 적용하는 단계, 및 존재하는 경우, 상기 여과액 중에 존재하는 상기 비접합형의 듀오카마이신 링커-약물의 양을 측정하는 단계를 더 포함하는 방법.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항체-약물 접합체 배치(batch)를 출시/승인하는 방법으로서,\n1) 항체-약물 접합체 배치로부터 샘플을 수득하는 단계로서, 상기 배치는 듀오카마이신 링커-약물과 접합된 항체, 및 임의적으로, 비접합형의 듀오카마이신 링커-약물을 포함하는 것인 단계;\n2) 상기 샘플을, 물, 아세토니트릴, 및 산을 포함하는 희석 매체와 배합하여, 30% 내지 60%(v/v), 바람직하게는 35% 내지 55%의 상기 아세토니트릴을 포함하는 여과 가능한 조성물을 형성하는 단계;\n3) 상기 여과 가능한 조성물을 여과하여, 상기 항체-약물 접합체를 실질적으로 함유하지 않은 여과액을 수득하는 단계;\n4) 상기 여과액을 분석하여, 상기 여과액이 상기 비접합형의 듀오카마이신 링커-약물을 소정 수준 미만으로 함유하고 있는지를 결정하는 단계; 및\n5) 상기 비접합형의 듀오카마이신 링커-약물이 상기 소정 수준 미만이면 상기 항체-약물 접합체 배치를 출시/승인하는 단계\n를 포함하는, 항체-약물 접합체 배치를 출시/승인하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, 상기 소정 수준은, 항체-약물 접합체 1 mg당 0.2 μg 또는 그 미만인 샘플 중의 듀오카마이신 링커-약물의 농도에 상응하는 것인 방법.",
+            "refers_to": [
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20250806",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) (i) 하기 화학식 (I)의 항체-약물 접합체의 수용액 또는 동결건조 생성물을, (ii) 물, 아세토니트릴 및 산을 포함하는 희석 매체와 배합하여 30% 내지 60%(v/v)의 아세토니트릴을 포함하는 여과 가능한 조성물을 형성하는 단계로서,\nAb-(L-D)m (I)\n여기서, Ab는 IgG 항체이고, L-D는 듀오카마이신 링커-약물이고, 비접합형의 듀오카마이신 링커-약물은 화학식 (IV)로 표현되고,\n[이미지]\n상기 식에서, n은 0 내지 3이고;\nR5는 [이미지], [이미지], [이미지], [이미지], [이미지], 및\n[이미지]에서 선택되고;\ny는 1 내지 16이고;\nR6은 \n[이미지], [이미지], [이미지]및 [이미지]에서 선택되고;\nm 은 1 내지 12의 평균 DAR(drug-to-antibody ratio)을 나타내고,\n상기 (i)은 선택적으로 비접합형의 듀오카마이신 링커-약물을 더 포함하는 것인 단계; 및\n(b) 상기 여과 가능한 조성물을 3 kDa 내지 50 kDa 범위 내의 분자량 컷오프를 갖는 필터를 통해 여과하여 여과액을 형성하는 단계를 포함하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 비접합형의 듀오카마이신 링커-약물은 하기 화학식으로 표시되는 것인 방법:\n[이미지].",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 여과액은 상기 여과 가능한 조성물에 존재했던 항체-약물 접합체의 양 중 0.5% 미만을 함유하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 상기 여과는 원심 여과인 방법.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 상기 필터는 변성 폴리에테르설폰 필터 매체를 포함하는 것인 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 여과액을 비접합형의 듀오카마이신 링커-약물을 분리하기에 적합한 크로마토그래피 분리 공정에 적용시키고, 상기 여과액 내에 존재하는 비접합형의 듀오카마이신 링커-약물의 양을, 존재하는 경우, 측정하는 단계를 추가로 포함하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 여과 가능한 조성물은 35% 내지 55%의 아세토니트릴을 포함하는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체-약물 접합체는 0.5mg/ml 내지 50mg/ml의 농도로 포함되는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 항체-약물 접합체는 1.0mg/ml 내지 10mg/ml의 농도로 포함되는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 여과 가능한 조성물 내의 산은 0.05% 내지 2%의 농도를 갖는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 여과 가능한 조성물 내의 산은 0.1% 내지 1%의 농도를 갖는 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 산은 트리플루오로아세트산, 포름산 및 염산으로 이루어진 군에서 선택되는 것인 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 여과액은 상기 여과 가능한 조성물에 존재했던 항체-약물 접합체의 양 중 0.2% 미만을 함유하는 것인 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 여과액은 상기 여과 가능한 조성물에 존재했던 항체-약물 접합체의 양 중 0.1% 미만을 함유하는 것인 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 필터는 10kDa 내지 30kDa의 분자량 컷오프를 갖는 것인 방법.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 15,
+      "after_claim_count": 15,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.05.14",
+      "internationOpenNumber": "WO2020094561",
+      "internationalApplicationDate": "2019.11.04",
+      "internationalApplicationNumber": "PCT/EP2019/080084"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "네덜란드 **** 씨엠 네이메헌 마이크로베그 **",
+      "code": "520120612063",
+      "country": "네덜란드",
+      "engName": "Byondis B.V.",
+      "name": "비온디스 비.브이."
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "네덜란드 **** 씨엠...",
+      "code": "",
+      "country": "",
+      "engName": "VAN DEN HOEF, Carolus Johannes Edgar",
+      "name": "반 덴 호에프 카롤루스 요하네스 에드가"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001573",
+        "country": "대한민국",
+        "engName": "Kim Jin Hoe",
+        "name": "김진회"
+      },
+      {
+        "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+        "code": "919980001580",
+        "country": "대한민국",
+        "engName": "Kim Tae Hong",
+        "name": "김태홍"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "유럽특허청(EPO)",
+      "priorityApplicationDate": "2018.11.09",
+      "priorityApplicationNumber": "18205459.3"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "Wim Dokter 외, “Preclinical Profile of the HER2-Targeting ADC SYD983/SYD985: Introduction of a New Duocarmycin-Based Linker Drug Platform”, Mol. Cancer Ther., 제13권, 제11호, 제2618-2629면 (2014. 11.)",
+      "examinerQuotationFlag": "Y"
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.06.08",
+        "receiptNumber": "1-1-2021-0661045-32"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.06.17",
+        "receiptNumber": "1-5-2021-0097335-31"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.11.02",
+        "receiptNumber": "1-1-2022-1164720-32"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.07.21",
+        "receiptNumber": "9-5-2025-0688327-74"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Reference] Written Submission of Information",
+        "documentName": "[참고자료]정보제출서",
+        "receiptDate": "2025.08.06",
+        "receiptNumber": "1-1-2025-0892366-83"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.08.06",
+        "receiptNumber": "1-1-2025-0892364-92"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.08.06",
+        "receiptNumber": "1-1-2025-0892365-37"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2025.08.26",
+        "receiptNumber": "9-5-2025-0819723-81"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "",
+        "documentName": "[명세서등 보정]보정서(심사관 직권보정)",
+        "receiptDate": "2025.10.16",
+        "receiptNumber": "1-1-2025-5020809-83"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217017573.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9394c8b90136b1089505cc7a48e81ded8f71b438e92fbaf8de508f885de513d41f23e1b180d3f7b60098e34b5a2830f1ea97fcd4bd792c2cc7",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf92079b9493c1a4e58b3094f286f2bf7773f0c11279f05757076a7997d6f73313964fc17b17224ac5d5e1f94cc6a3ceebe509abb80274ecb9"
+  },
+  "rndInfoArray": ""
+}

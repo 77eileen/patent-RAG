@@ -1,0 +1,753 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2011.08.16",
+      "applicationFlag": "",
+      "applicationNumber": "10-2013-7006526",
+      "claimCount": "9",
+      "examinerName": "이효진",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "항암 아데노바이러스",
+      "inventionTitleEng": "ANTI-CANCER ADENOVIRUSES",
+      "openDate": "2013.11.20",
+      "openNumber": "10-2013-0126590",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2016.06.30",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2016.10.17",
+      "publicationNumber": "",
+      "registerDate": "2016.10.11",
+      "registerNumber": "10-1667094-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2013.03.14"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/861"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 7/01"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "항암 아데노바이러스, 이의 사용 방법 및 이의 제조 방법이 본원에 제공된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020137006526",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20130314",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "p53 복제 손상되고 E4-ORF3 손상된 아데노바이러스.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 아데노바이러스는 단리된 것인 아데노바이러스.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 아데노바이러스는 재조합 아데노바이러스인 아데노바이러스.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 돌연변이된 E4-ORF3 유전자를 포함하는 아데노바이러스.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, E4-ORF3 유전자, 또는 이의 기능성 부분이 결실된 것인 아데노바이러스.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 E4-ORF3 손상된 아데노바이러스가 또한 E1B-55k 손상된 것인 아데노바이러스.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 돌연변이된 E1B-55k 유전자를 포함하는 아데노바이러스.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, E1B-55k 유전자, 또는 이의 기능성 부분이 결실된 것인 아데노바이러스.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항의 E4-ORF3 손상된 아데노바이러스로 감염된 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항의 아데노바이러스의 유효량을 이를 필요로 하는 대상체에게 투여하는 단계를 포함하는 암의 치료 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 암이 p53 관련 암인 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 암이 폐암, 피부암 또는 유방암인 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 치료할 암이 전암성(pre-malignant) 유방암인 방법.",
+          "refers_to": [
+            10
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20160630",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "p53의 감소된 발현 또는 활성을 갖는 암의 치료를 위한 약학 조성물로서, E1B-55k 손상되고 E4-ORF3 손상된 재조합 아데노바이러스의 유효량을 포함하고, 재조합 아데노바이러스가 p53 손상된 세포에서 복제 손상되지 않는 것인 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 암이 폐암, 피부암 또는 유방암인 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 치료될 암이 전암성(pre-malignant) 유방암인 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 재조합 아데노바이러스가 돌연변이된 E4-ORF3 생성물을 발현하는 것인 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 재조합 아데노바이러스가 전체적으로 또는 부분적으로 결실된 E4-ORF3 유전자를 포함하는 것인 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 재조합 아데노바이러스가 돌연변이된 E1B-55k 유전자 생성물을 발현하는 것인 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 재조합 아데노바이러스가 전체적으로 또는 부분적으로 결실된 E1B-55k 유전자를 포함하는 것인 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 재조합 아데노바이러스가 전체적으로 또는 부분적으로 결실된 E4-ORF3 유전자 및 전체적으로 또는 부분적으로 결실된 E1B-55k 유전자를 포함하는 것인 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 재조합 아데노바이러스가 전체적으로 또는 부분적으로 결실된 E1B-55k 유전자 및 돌연변이된 E4-ORF3 유전자를 포함하는 것인 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20130314",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "p53 복제 손상되고 E4-ORF3 손상된 아데노바이러스.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 아데노바이러스는 단리된 것인 아데노바이러스.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 아데노바이러스는 재조합 아데노바이러스인 아데노바이러스.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 돌연변이된 E4-ORF3 유전자를 포함하는 아데노바이러스.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, E4-ORF3 유전자, 또는 이의 기능성 부분이 결실된 것인 아데노바이러스.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 E4-ORF3 손상된 아데노바이러스가 또한 E1B-55k 손상된 것인 아데노바이러스.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 돌연변이된 E1B-55k 유전자를 포함하는 아데노바이러스.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, E1B-55k 유전자, 또는 이의 기능성 부분이 결실된 것인 아데노바이러스.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항의 E4-ORF3 손상된 아데노바이러스로 감염된 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항의 아데노바이러스의 유효량을 이를 필요로 하는 대상체에게 투여하는 단계를 포함하는 암의 치료 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 암이 p53 관련 암인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 암이 폐암, 피부암 또는 유방암인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 치료할 암이 전암성(pre-malignant) 유방암인 방법.",
+            "refers_to": [
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20160630",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "p53의 감소된 발현 또는 활성을 갖는 암의 치료를 위한 약학 조성물로서, E1B-55k 손상되고 E4-ORF3 손상된 재조합 아데노바이러스의 유효량을 포함하고, 재조합 아데노바이러스가 p53 손상된 세포에서 복제 손상되지 않는 것인 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 암이 폐암, 피부암 또는 유방암인 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 치료될 암이 전암성(pre-malignant) 유방암인 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 재조합 아데노바이러스가 돌연변이된 E4-ORF3 생성물을 발현하는 것인 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 재조합 아데노바이러스가 전체적으로 또는 부분적으로 결실된 E4-ORF3 유전자를 포함하는 것인 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 재조합 아데노바이러스가 돌연변이된 E1B-55k 유전자 생성물을 발현하는 것인 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 재조합 아데노바이러스가 전체적으로 또는 부분적으로 결실된 E1B-55k 유전자를 포함하는 것인 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 재조합 아데노바이러스가 전체적으로 또는 부분적으로 결실된 E4-ORF3 유전자 및 전체적으로 또는 부분적으로 결실된 E1B-55k 유전자를 포함하는 것인 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 재조합 아데노바이러스가 전체적으로 또는 부분적으로 결실된 E1B-55k 유전자 및 돌연변이된 E4-ORF3 유전자를 포함하는 것인 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 13,
+      "after_claim_count": 13,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2012.02.23",
+      "internationOpenNumber": "WO2012024350",
+      "internationalApplicationDate": "2011.08.16",
+      "internationalApplicationNumber": "PCT/US2011/048005"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 캘리포니아 *****-**** 라졸라 노쓰 토리 파인즈 로드*****",
+      "code": "519980618320",
+      "country": "미국",
+      "engName": "SALK INSTITUTE FOR BIOLOGICAL STUDIES",
+      "name": "솔크 인스티튜트 포 바이올로지칼 스터디즈"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 ***** 캘리포니아...",
+        "code": "",
+        "country": "미국",
+        "engName": "O'SHEA, Clodagh",
+        "name": "오쉐아 클로다"
+      },
+      {
+        "address": "미국 ***** 캘리포니아주 ...",
+        "code": "",
+        "country": "미국",
+        "engName": "POWERS, Colin",
+        "name": "포워즈 콜린"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 서대문구 충정로 ** (충정로*가) 풍산빌딩 **층(리인터내셔널특허법률사무소)",
+      "code": "919980001573",
+      "country": "대한민국",
+      "engName": "Kim Jin Hoe",
+      "name": "김진회"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2010.08.16",
+      "priorityApplicationNumber": "61/374,215"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "ALBA, R. et al., Gene Therapy, vol.12, no.suppl.1, 1 October 2005, pp.S18-S27",
+      "examinerQuotationFlag": ""
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2013.03.14",
+        "receiptNumber": "1-1-2013-0221197-99"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2013.07.31",
+        "receiptNumber": "1-5-2013-0088988-47"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2013.08.30",
+        "receiptNumber": "1-1-2013-0795869-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2013.09.30",
+        "receiptNumber": "1-1-2013-0882742-43"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2013.10.14",
+        "receiptNumber": "4-1-2013-0047420-97"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2013.10.15",
+        "receiptNumber": "1-1-2013-0929839-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Resignation of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인사임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2015.01.14",
+        "receiptNumber": "1-1-2015-0039699-06"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2016.03.16",
+        "receiptNumber": "4-1-2016-5033584-35"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2016.06.30",
+        "receiptNumber": "1-1-2016-0635214-35"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.06.30",
+        "receiptNumber": "1-1-2016-0635202-98"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Preferential Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[우선심사신청]심사청구(우선심사신청)서",
+        "receiptDate": "2016.06.30",
+        "receiptNumber": "1-1-2016-0635225-37"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2016.07.15",
+        "receiptNumber": "9-5-2016-0511595-87"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.07.08",
+        "receiptNumber": "4-1-2022-5160989-65"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020137006526.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e0092a274cde6f9db9eb7df987006d0ad8b34115269963edfbfb9907f1e3ca6274bf4989de7ee298fa7b4308c8511615bdd6d695b0451aed831",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf985100dbfe1d9cb7c3698053795895f3c1863f6076f5a3dec598cb17958df324d837b7dce242bab1dc4747fb189b4b7763ded817228c9a30"
+  },
+  "rndInfoArray": ""
+}

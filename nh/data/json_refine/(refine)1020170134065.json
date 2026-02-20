@@ -1,0 +1,599 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.10.16",
+      "applicationFlag": "",
+      "applicationNumber": "10-2017-0134065",
+      "claimCount": "1",
+      "examinerName": "김희승",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "약물전달 및 방출기능을 갖는 원격구동 나노로봇 시스템 및 그 제어 방법",
+      "inventionTitleEng": "Remote-control actuation nanorobot system for  delivery and controlled release of drug and control  method thereof",
+      "openDate": "2019.04.24",
+      "openNumber": "10-2019-0042305",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2017.10.16",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2019.10.16",
+      "publicationNumber": "",
+      "registerDate": "2019.10.10",
+      "registerNumber": "10-2032818-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61M 31/00"
+      },
+      {
+        "ipcDate": "(2020.01.01)",
+        "ipcNumber": "A61K 41/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 9/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템 및 그 제어 방법에 관한 것으로서, 더욱 상세하게는 나노크기의 약물전달 구조체(나노로봇)를 피검체의 환부에 정확하게 위치시킨후 외부자극 장치를 통해 약물방출을 능동적으로 제어하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템 및 그 제어 방법에 관한 것이다. 이러한 기술적 과제를 이루기 위한 본 발명의 특징에 따른 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템은 나노로봇, 자계생성 장치, 외부자극 장치 및 영상 촬영부를 포함할 수 있다. 상기 나노로봇은 외부 자기장에 의한 자기력에 의해 추진되어 피검체의 체내를 이동하고 약물을 전달할 수 있다. 또한, 상기 자계생성 장치는 자기장을 발생시켜 상기 나노로봇을 피검체의 체내 환부부위로 이동시킬수 있다. 상기 영상 촬영부는 상기 피검체의 체내를 촬영하여 상기 나노로봇의 이동경로 및 위치를 감지할 수 있다. 또한, 상기 외부자극 장치는 상기 나노로봇에 외부자극을 주어 약물이 방출되게 할 수 있다. 이를 통해, 본 발명은 약물 전달의 지향성능을높이고 치료효율을 증대시키며, 약물 주입으로 인한 부작용을 현저히 감소시킬 수 있는 효과가 있다. 또한, 환자의 생체 내 특이적 환경 및 구조에 따른 개인별 편차 없이 약물을 효율적으로 환부에 투여할 수 있는 효과가 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020170134065",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20171016",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 8,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "외부 자기장에 의한 자기력에 의해 추진되어 피검체의 체내를 이동하고 약물을 전달하는 나노로봇;\n자기장을 발생시켜 상기 나노로봇을 피검체의 체내 환부부위로 이동시키는 자계생성 장치;\n상기 피검체의 체내를 촬영하여 상기 나노로봇의 이동경로 및 위치를 감지하는 영상 촬영부; 및\n상기 나노로봇에 외부자극을 주어 약물이 방출되게 하는 외부자극 장치;를 포함하되,\n상기 나노로봇은\n약물, 상기 약물이 저장되는 폴리머, 상기 외부 자기장에 의한 자기력에 반응하는 마그네틱 파티클(Magnetic particles) 및 상기 외부자극 장치에서 발생하는 외부자극에 반응하여 약물이 방출되도록 상기 폴리머를 분해 또는 용융시키는 외부 반응 파티클(External responsive particles)을 포함하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서,\n상기 외부자극 장치는\n근적외선, 초음파 및 자기장 중 적어도 하나를 발생시키는 것을 특징으로 하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서,\n상기 폴리머는 생체적합 및 생체분해 폴리머인 것을 특징으로 하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서,\n상기 폴리머에는 상기 약물, 마그네틱 파티클(Magnetic particles) 및 외부 반응 파티클(External responsive particles)이 분포되어 포함되는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서,\n상기 외부 반응 파티클(External responsive particles)이 상기 마그네틱 파티클(Magnetic particles)의 외부에 코팅되어 구성되는 것을 특징으로 하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서,\n상기 외부자극 장치에서 발생하는 외부 자극에 의해 상기 외부 반응 파티클(External responsive particles)이 반응하여 발열을 하고, 상기 발열을 통해 상기 폴리머를 분해 또는 용융시켜 상기 폴리머 내에 저장된 약물이 방출되게 하는 것을 특징으로 하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "피검체에 대한 시술전 단층촬영 영상을 획득하는 단계(S1);\n상기 획득된 영상을 토대로 상기 피검체의 환부를 추출하고 치료영역을 결정하는 단계(S2);\n상기 피검체에 나노로봇을 주입하는 단계(S3);\n상기 피검체에 대한 실시간 촬영 영상을 토대로 자기력을 제어하여 나노로봇을 환부로 이동시키는 단계(S4); 및\n상기 나노로봇이 기 설정된 환부에 도달하면 나노로봇의 외부 반응 파티클에 외부자극을 주고, 상기 외부 반응 파티클이 외부자극에 반응하여 폴리머를 분해 또는 용융시켜 상기 폴리머 내에 저장된 약물을 방출하는 단계(S5);를 포함하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템의 제어 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 7항에 있어서,\n상기 외부자극은 근적외선, 초음파 및 자기장 중 적어도 하나인 것을 특징으로 하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+          "refers_to": [
+            7
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20190909",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 8,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "외부 자기장에 의한 자기력으로 추진되어 피검체의 체내를 이동하고, 내장된 약물을 외부로 전달하는 나노로봇;자기장을 발생시켜 상기 나노로봇을 피검체의 체내 환부부위로 이동시키는 자계생성 장치;상기 피검체의 체내를 촬영하여 상기 나노로봇의 이동경로 및 위치를 감지하는 영상 촬영부; 및상기 나노로봇에 외부자극을 주어 약물이 방출되도록 근적외선, 초음파 및 자기장 중 적어도 하나를 발생시키는 외부자극 장치;를 포함하되,상기 나노로봇은 항암제 약물과, 외부 자기장에 의한 자기력에 반응하며 약물 사이에 분포되어 약물과 함께 콜로이드 분산 상태인 미셀(micelle)을 형성하는 마그네틱 파티클(Magnetic particles)과, 항암제 약물 및 마그네틱 파티클이 저장되는 원형의 캡슐 형태이며 폴리에틸렌이민 (polyethyleneimine)으로 이루어지는 생체적합 및 생체분해 폴리머 및, 외부자극 장치에서 발생하는 외부자극에 반응하여 약물이 방출되도록 상기 폴리머를 분해 또는 용융시키는 외부 반응 파티클(External responsive particles)로 이루어지고,상기 폴리머의 내부에는 상기 약물, 마그네틱 파티클(Magnetic particles) 및 외부 반응 파티클(External responsive particles)이 분포되어 포함되며,상기 외부 반응 파티클(External responsive particles)은 상기 마그네틱 파티클(Magnetic particles)의 외부에 코팅되고,상기 외부자극 장치에서 발생하는 외부 자극인 근적외선 레이저에 의해 상기 외부 반응 파티클(External responsive particles)이 반응하여 발열을 하고, 발열을 통해 상기 폴리머를 분해 또는 용융시켜 상기 폴리머 내에 저장된 약물이 방출되는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20171016",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 8,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "외부 자기장에 의한 자기력에 의해 추진되어 피검체의 체내를 이동하고 약물을 전달하는 나노로봇;\n자기장을 발생시켜 상기 나노로봇을 피검체의 체내 환부부위로 이동시키는 자계생성 장치;\n상기 피검체의 체내를 촬영하여 상기 나노로봇의 이동경로 및 위치를 감지하는 영상 촬영부; 및\n상기 나노로봇에 외부자극을 주어 약물이 방출되게 하는 외부자극 장치;를 포함하되,\n상기 나노로봇은\n약물, 상기 약물이 저장되는 폴리머, 상기 외부 자기장에 의한 자기력에 반응하는 마그네틱 파티클(Magnetic particles) 및 상기 외부자극 장치에서 발생하는 외부자극에 반응하여 약물이 방출되도록 상기 폴리머를 분해 또는 용융시키는 외부 반응 파티클(External responsive particles)을 포함하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서,\n상기 외부자극 장치는\n근적외선, 초음파 및 자기장 중 적어도 하나를 발생시키는 것을 특징으로 하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서,\n상기 폴리머는 생체적합 및 생체분해 폴리머인 것을 특징으로 하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서,\n상기 폴리머에는 상기 약물, 마그네틱 파티클(Magnetic particles) 및 외부 반응 파티클(External responsive particles)이 분포되어 포함되는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서,\n상기 외부 반응 파티클(External responsive particles)이 상기 마그네틱 파티클(Magnetic particles)의 외부에 코팅되어 구성되는 것을 특징으로 하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서,\n상기 외부자극 장치에서 발생하는 외부 자극에 의해 상기 외부 반응 파티클(External responsive particles)이 반응하여 발열을 하고, 상기 발열을 통해 상기 폴리머를 분해 또는 용융시켜 상기 폴리머 내에 저장된 약물이 방출되게 하는 것을 특징으로 하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "피검체에 대한 시술전 단층촬영 영상을 획득하는 단계(S1);\n상기 획득된 영상을 토대로 상기 피검체의 환부를 추출하고 치료영역을 결정하는 단계(S2);\n상기 피검체에 나노로봇을 주입하는 단계(S3);\n상기 피검체에 대한 실시간 촬영 영상을 토대로 자기력을 제어하여 나노로봇을 환부로 이동시키는 단계(S4); 및\n상기 나노로봇이 기 설정된 환부에 도달하면 나노로봇의 외부 반응 파티클에 외부자극을 주고, 상기 외부 반응 파티클이 외부자극에 반응하여 폴리머를 분해 또는 용융시켜 상기 폴리머 내에 저장된 약물을 방출하는 단계(S5);를 포함하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템의 제어 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7항에 있어서,\n상기 외부자극은 근적외선, 초음파 및 자기장 중 적어도 하나인 것을 특징으로 하는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+            "refers_to": [
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20190418",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 8,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "외부 자기장에 의한 자기력으로 추진되어 피검체의 체내를 이동하고, 내장된 약물을 외부로 전달하는 나노로봇;\n자기장을 발생시켜 상기 나노로봇을 피검체의 체내 환부부위로 이동시키는 자계생성 장치;\n상기 피검체의 체내를 촬영하여 상기 나노로봇의 이동경로 및 위치를 감지하는 영상 촬영부; 및\n상기 나노로봇에 외부자극을 주어 약물이 방출되도록 근적외선, 초음파 및 자기장 중 적어도 하나를 발생시키는 외부자극 장치;를 포함하되,\n상기 나노로봇은\n약물과, 상기 약물이 저장되는 원형의 캡슐 형태의 생체적합 및 생체분해 폴리머와, 외부 자기장에 의한 자기력에 반응하며 약물 사이에 분포되는 마그네틱 파티클(Magnetic particles) 및, 외부자극 장치에서 발생하는 외부자극에 반응하여 약물이 방출되도록 상기 폴리머를 분해 또는 용융시키는 외부 반응 파티클(External responsive particles)로 이루어지고,\n상기 폴리머의 내부에는 상기 약물, 마그네틱 파티클(Magnetic particles) 및 외부 반응 파티클(External responsive particles)이 분포되어 포함되며,\n상기 외부 반응 파티클(External responsive particles)은 상기 마그네틱 파티클(Magnetic particles)의 외부에 코팅되고,\n상기 외부자극 장치에서 발생하는 외부 자극에 의해 상기 외부 반응 파티클(External responsive particles)이 반응하여 발열을 하고, 발열을 통해 상기 폴리머를 분해 또는 용융시켜 상기 폴리머 내에 저장된 약물이 방출되는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20190909",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "외부 자기장에 의한 자기력으로 추진되어 피검체의 체내를 이동하고, 내장된 약물을 외부로 전달하는 나노로봇;\n자기장을 발생시켜 상기 나노로봇을 피검체의 체내 환부부위로 이동시키는 자계생성 장치;\n상기 피검체의 체내를 촬영하여 상기 나노로봇의 이동경로 및 위치를 감지하는 영상 촬영부; 및\n상기 나노로봇에 외부자극을 주어 약물이 방출되도록 근적외선, 초음파 및 자기장 중 적어도 하나를 발생시키는 외부자극 장치;를 포함하되,\n상기 나노로봇은 항암제 약물과, 외부 자기장에 의한 자기력에 반응하며 약물 사이에 분포되어 약물과 함께 콜로이드 분산 상태인 미셀(micelle)을 형성하는 마그네틱 파티클(Magnetic particles)과, 항암제 약물 및 마그네틱 파티클이 저장되는 원형의 캡슐 형태이며 폴리에틸렌이민 (polyethyleneimine)으로 이루어지는 생체적합 및 생체분해 폴리머 및, 외부자극 장치에서 발생하는 외부자극에 반응하여 약물이 방출되도록 상기 폴리머를 분해 또는 용융시키는 외부 반응 파티클(External responsive particles)로 이루어지고,\n상기 폴리머의 내부에는 상기 약물, 마그네틱 파티클(Magnetic particles) 및 외부 반응 파티클(External responsive particles)이 분포되어 포함되며,\n상기 외부 반응 파티클(External responsive particles)은 상기 마그네틱 파티클(Magnetic particles)의 외부에 코팅되고,\n상기 외부자극 장치에서 발생하는 외부 자극인 근적외선 레이저에 의해 상기 외부 반응 파티클(External responsive particles)이 반응하여 발열을 하고, 발열을 통해 상기 폴리머를 분해 또는 용융시켜 상기 폴리머 내에 저장된 약물이 방출되는 약물전달 및 방출기능을 갖는 원격 구동 나노로봇 시스템.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 8,
+      "after_claim_count": 1,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "광주광역시 북구...",
+      "code": "220040365775",
+      "country": "대한민국",
+      "engName": "INDUSTRY FOUNDATION OF CHONNAM NATIONAL UNIVERSITY",
+      "name": "전남대학교산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "광주광역시 북구...",
+        "code": "",
+        "country": "",
+        "engName": "Choi, Eunpyo",
+        "name": "최은표"
+      },
+      {
+        "address": "경기도 고양시 일산서구...",
+        "code": "",
+        "country": "",
+        "engName": "Park Jong-Oh",
+        "name": "박종오"
+      },
+      {
+        "address": "광주광역시 북구...",
+        "code": "",
+        "country": "",
+        "engName": "Kim Chang-Sei",
+        "name": "김창세"
+      },
+      {
+        "address": "광주광역시 북구...",
+        "code": "",
+        "country": "",
+        "engName": "Park, Sukho",
+        "name": "박석호"
+      },
+      {
+        "address": "광주광역시 동구...",
+        "code": "",
+        "country": "",
+        "engName": "Kang Byungjeon",
+        "name": "강병전"
+      },
+      {
+        "address": "광주광역시 광산구...",
+        "code": "",
+        "country": "",
+        "engName": "GO GWANG JUN",
+        "name": "고광준"
+      },
+      {
+        "address": "광주광역시 북구...",
+        "code": "",
+        "country": "",
+        "engName": "Cho Sunghoon",
+        "name": "조성훈"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 송파구 법원로**길 ** A동 *층 ***호(문정동, 에이치비지니스파크)(*T국제특허법률사무소)",
+      "code": "920030001400",
+      "country": "대한민국",
+      "engName": "Lee,Un Cheol",
+      "name": "이은철"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "JP2000000310 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "US6776165 B2",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "JP2016529066 A",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2017.10.16",
+        "receiptNumber": "1-1-2017-1016371-56"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2018.03.30",
+        "receiptNumber": "4-1-2018-5056463-72"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2018.07.12",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2018.09.06",
+        "receiptNumber": "9-1-2018-0046570-47"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2019.02.18",
+        "receiptNumber": "9-5-2019-0118016-14"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.04.18",
+        "receiptNumber": "1-1-2019-0399027-37"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2019.04.18",
+        "receiptNumber": "1-1-2019-0399026-92"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2019.07.08",
+        "receiptNumber": "9-5-2019-0491966-67"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[법정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.08.08",
+        "receiptNumber": "1-1-2019-0812593-80"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "",
+        "documentName": "법정기간연장승인서",
+        "receiptDate": "2019.08.14",
+        "receiptNumber": "1-5-2019-0134022-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2019.09.09",
+        "receiptNumber": "1-1-2019-0926550-12"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2019.09.09",
+        "receiptNumber": "1-1-2019-0926547-85"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2019.09.27",
+        "receiptNumber": "9-5-2019-0699620-08"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020170134065.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e008c9114d0c28aaba255a58ad0146a056ca6acb8c4764cd56039c6421ad49bb448cd6e656f68cb8ef57c3beb51df4743f5f875184f14115f4b",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf73e1364265a0ff321cc54225d176166850c2e4874074798f4a3f160cc3209d951abc75f9de6840a62b7c2e662e628f22da075e254798c48f"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "산업통상자원부",
+      "rndDuration": "2015.12.01 ~ 2020.11.30",
+      "rndManagingInstituteName": "전남대학교 산학협력단",
+      "rndProjectName": "로봇사업융합핵심기술개발사업",
+      "rndSpecialInstituteName": "한국산업기술평가관리원",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "정밀 약물표적 및 방출기능을 갖는 외부 구동형 나노로봇 시스템 개발",
+      "rndTaskNumber": "10060059"
+    }
+  }
+}

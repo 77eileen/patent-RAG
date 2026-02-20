@@ -1,0 +1,1405 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.04.20",
+      "applicationFlag": "",
+      "applicationNumber": "10-2018-7033302",
+      "claimCount": "17",
+      "examinerName": "손영희",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "PKLR의 유전자 발현 증강을 위한 조성물 및 방법",
+      "inventionTitleEng": "COMPOSITIONS AND METHODS FOR ENHANCED GENE EXPRESSION OF PKLR",
+      "openDate": "2019.05.17",
+      "openNumber": "10-2019-0053136",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.03.31",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.09.06",
+      "publicationNumber": "",
+      "registerDate": "2022.09.01",
+      "registerNumber": "10-2440880-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2018.11.16"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/86"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/63"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/79"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 9/12"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/45"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 43/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은, 피루베이트 키나제 결손에 대한 유전자 치료를 제공하기 위해 폴리뉴클레오티드 카세트, 발현 벡터 및 포유동물에서 유전자의 발현 방법을 제공한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020187033302",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20181116",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 25,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기 5'에서 3'의 순서로 포함하는 폴리뉴클레오티드 서열을 포함하는 발현 카세트(expression cassette)로서, 프로모터 서열이 피루베이트 키나제 폴리펩티드를 코딩하는 서열에 작동적으로 연결되는, 발현 카세트:\na) 프로모터 서열;\nb) 유전자 생성물을 코딩하는 서열; 및\nc) 리보핵산(RNA) 외수송 시그널.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 프로모터가 포스포글리세레이트 키나제(PGK) 프로모터인, 발현 카세트.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 상기 유전자 생성물이 치료용 유전자 생성물인, 발현 카세트.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 치료용 유전자 생성물이 피루베이트 키나제(PK) 폴리펩티드, 임의로 피루베이트 키나제, 간장 및 적혈구(PKLR) 폴리펩티드인, 발현 카세트.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중의 어느 한 항에 있어서, 상기 유전자 생성물을 코딩하는 서열이 코돈-최적화되어 있는, 발현 카세트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중의 어느 한 항에 있어서, 상기 RNA 외수송 시그널이 우드척형 간염 바이러스(Wpre)의 돌연변이된 전사후 조절 요소인, 발현 카세트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 돌연변이된 Wpre가 서열번호 1과 적어도 80% 동일성을 갖는 서열을 포함하는 키메라 Wpre인, 발현 카세트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중의 어느 한 항에 있어서, 하나 이상의 인핸서(enhancer) 서열을 추가로 포함하는, 발현 카세트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중의 어느 한 항에 있어서, 폴리퓨린 관(PPT) 또는 폴리아데닐화(polyA) 시그널 서열을 추가로 포함하는, 발현 카세트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중의 어느 한 항에 있어서, 하기 서열 중의 하나 이상을 추가로 포함하는 발현 카세트:\ni) 팩킹(packing) 시그널 서열;\nii) 절단된(truncated) Gag 서열;\niii) Rev 반응성 요소(RRE);\niv) 중앙 폴리퓨린 관(cPPT);\nv) 중앙 말단 서열(CTS); 및\nvi) 임의로, 유인원 바이러스 40(SV40-USE)로부터의 상류 서열 요소(USE).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중의 어느 한 항에 있어서, 5' 및 3' 긴 말단 반복 서열을 추가로 포함하는, 발현 카세트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제11항 중의 어느 한 항의 발현 카세트를 포함하는, 재조합 유전자 전달 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 재조합 유전자 전달 벡터가 바이러스 또는 바이러스 벡터인, 재조합 유전자 전달 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 바이러스 또는 바이러스 벡터가 렌티바이러스(LV)인, 재조합 유전자 전달 벡터.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제11항 중의 어느 한 항의 발현 카세트 또는 제12항 내지 제14항 중의 어느 한 항의 유전자 전달 벡터를 포함하는 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 상기 세포가 조혈 줄기 세포인, 세포.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 상기 세포가 위탁된(committed) 조혈 적혈구 전구 세포인, 세포.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약제학적으로 허용되는 부형제 및 제12항 내지 제14항 중의 어느 한 항의 재조합 유전자 전달 벡터 또는 제15항 내지 제17항 중의 어느 한 항의 세포를 포함하는, 약제학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항의 약제학적 조성물을, 이를 필요로 하는 대상체에게 제공하는 것을 포함하는, 상기 대상체에서 질환 또는 장애를 치료 또는 예방하는 방법.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 상기 질환 또는 장애가 피루베이트 키나제 결손(PDK)이고, 상기 유전자 생성물이 피루베이트 키나제(PK) 폴리펩티드, 임의로 피루베이트 키나제, 간장 및 적혈구(PKLR) 폴리펩티드인, 방법.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항 또는 제20항에 있어서, 상기 약제학적 조성물이 재조합 유전자 전달 벡터를 포함하는, 방법.",
+          "refers_to": [
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항 또는 제20항에 있어서, 상기 약제학적 조성물이 세포를 포함하는, 방법.",
+          "refers_to": [
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 상기 세포가 대상체에 대해 자가유래인, 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 상기 세포가 대상체에 대해 동종이계인, 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하나 이상의 적혈구계 세포를 유효량의 재조합 바이러스 벡터와 접촉시키는 것을 포함하는, 적혈구계 세포에서 도입유전자를 발현시키는 방법으로서,\n상기 벡터가 인간 포스포글리세레이트 키나제 프로모터, 인간 피루베이트 키나제, 간장 및 적혈구(PKLR) cDNA 도입유전자의 코돈 최적화된 버전, 및 우드척형 간염 바이러스의 돌연변이된 전사후 조절 요소를 포함하고, 상기 접촉 후, PKLR이 하나 이상의 적혈구계 세포에서 검출가능한 수준으로 발현되는, 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20220126",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 25,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "5'에서 3'의 순서로a) 프로모터 서열;b) 인간 피루베이트 키나제, 간장 및 적혈구(PKLR) 폴리펩티드인, 치료용 유전자 생성물을 코딩하는 서열; 및c) 리보핵산(RNA) 외수송 시그널을 포함하는 폴리뉴클레오티드 서열을 포함는 발현 카세트(expression cassette)를 포함하는 재조합 유전자 전달 벡터로서,상기 프로모터 서열이 인간 PKLR 폴리펩티드를 코딩하는 서열에 작동적으로 연결되고, 상기 재조합 유전자 전달 벡터가 렌티바이러스(LV)인, 재조합 유전자 전달 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 프로모터가 포스포글리세레이트 키나제(PGK) 프로모터인, 재조합 유전자 전달 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 PKLR 폴리펩티드를 코딩하는 서열이 코돈-최적화되어 있는, 재조합 유전자 전달 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 RNA 외수송 시그널이 돌연변이된 우드척 간염 바이러스 전사후 조절 요소(Wpre)인, 재조합 유전자 전달 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 돌연변이된 Wpre가 서열번호 1과 적어도 80% 동일성을 갖는 서열을 포함하는 키메라 Wpre인, 재조합 유전자 전달 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 하나 이상의 인핸서(enhancer) 서열을 추가로 포함하는, 재조합 유전자 전달 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 폴리퓨린 관(PPT) 또는 폴리아데닐화(poly A) 시그널 서열을 추가로 포함하는, 재조합 유전자 전달 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 하기 서열 중의 하나 이상을 추가로 포함하는, 재조합 유전자 전달 벡터:i) 팩킹(packing) 시그널 서열;ii) 절단된(truncated) Gag 서열;iii) Rev 반응성 요소(RRE);iv) 중앙 폴리퓨린 관(cPPT);v) 중앙 말단 서열(CTS); 및vi) 상류 서열 요소(USE).",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 5' 및 3' 긴 말단 반복 서열을 추가로 포함하는, 재조합 유전자 전달 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 유인원 바이러스 40(SV40-USE)으로부터의 상류 서열 요소(USE)를 추가로 포함하는, 재조합 유전자 전달 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항의 재조합 유전자 전달 벡터를 포함하는 단리된 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 단리된 세포가 조혈 줄기 세포인, 단리된 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 단리된 세포가 위탁된(committed) 조혈 적혈구 전구 세포인, 단리된 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "약제학적으로 허용되는 부형제; 및 제1항의 재조합 유전자 전달 벡터 또는 상기 재조합 유전자 전달 벡터를 포함하는 세포를 포함하는, 대상체에서 질환 또는 장애를 예방 또는 치료하는 방법에 사용하기 위한 약제학적 조성물로서, 상기 방법이 대상체에 상기 약제학적 조성물을 제공하는 것을 포함하고, 상기 질환 또는 장애가 피루베이트 키나제 결핍증(PKD)인, 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 상기 약제학적 조성물이 제11항의 세포를 포함하는, 약제학적 조성물.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서, 상기 세포가 대상체에 대해 자가유래 또는 동종이계인, 약제학적 조성물.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하나 이상의 단리된 적혈구계 세포를 유효량의 재조합 렌티바이러스 벡터와 접촉시키는 것을 포함하는, 단리된 적혈구계 세포에서 도입유전자를 발현시키는 시험관 내 방법으로서, 상기 벡터가 인간 포스포글리세레이트 키나제 프로모터, 인간 피루베이트 키나제, 간장 및 적혈구(PKLR) cDNA 도입유전자의 코돈 최적화된 버전, 및 돌연변이된 우드척 간염 바이러스 전사후 조절 요소(Wpre)를 포함하고, 상기 접촉 후, PKLR이 하나 이상의 단리된 적혈구계 세포에서 검출가능한 수준으로 발현되는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20181116",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 5'에서 3'의 순서로 포함하는 폴리뉴클레오티드 서열을 포함하는 발현 카세트(expression cassette)로서, 프로모터 서열이 피루베이트 키나제 폴리펩티드를 코딩하는 서열에 작동적으로 연결되는, 발현 카세트:\na) 프로모터 서열;\nb) 유전자 생성물을 코딩하는 서열; 및\nc) 리보핵산(RNA) 외수송 시그널.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 프로모터가 포스포글리세레이트 키나제(PGK) 프로모터인, 발현 카세트.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 상기 유전자 생성물이 치료용 유전자 생성물인, 발현 카세트.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 치료용 유전자 생성물이 피루베이트 키나제(PK) 폴리펩티드, 임의로 피루베이트 키나제, 간장 및 적혈구(PKLR) 폴리펩티드인, 발현 카세트.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중의 어느 한 항에 있어서, 상기 유전자 생성물을 코딩하는 서열이 코돈-최적화되어 있는, 발현 카세트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중의 어느 한 항에 있어서, 상기 RNA 외수송 시그널이 우드척형 간염 바이러스(Wpre)의 돌연변이된 전사후 조절 요소인, 발현 카세트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 돌연변이된 Wpre가 서열번호 1과 적어도 80% 동일성을 갖는 서열을 포함하는 키메라 Wpre인, 발현 카세트.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중의 어느 한 항에 있어서, 하나 이상의 인핸서(enhancer) 서열을 추가로 포함하는, 발현 카세트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중의 어느 한 항에 있어서, 폴리퓨린 관(PPT) 또는 폴리아데닐화(polyA) 시그널 서열을 추가로 포함하는, 발현 카세트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중의 어느 한 항에 있어서, 하기 서열 중의 하나 이상을 추가로 포함하는 발현 카세트:\ni) 팩킹(packing) 시그널 서열;\nii) 절단된(truncated) Gag 서열;\niii) Rev 반응성 요소(RRE);\niv) 중앙 폴리퓨린 관(cPPT);\nv) 중앙 말단 서열(CTS); 및\nvi) 임의로, 유인원 바이러스 40(SV40-USE)로부터의 상류 서열 요소(USE).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중의 어느 한 항에 있어서, 5' 및 3' 긴 말단 반복 서열을 추가로 포함하는, 발현 카세트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제11항 중의 어느 한 항의 발현 카세트를 포함하는, 재조합 유전자 전달 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 재조합 유전자 전달 벡터가 바이러스 또는 바이러스 벡터인, 재조합 유전자 전달 벡터.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 바이러스 또는 바이러스 벡터가 렌티바이러스(LV)인, 재조합 유전자 전달 벡터.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제11항 중의 어느 한 항의 발현 카세트 또는 제12항 내지 제14항 중의 어느 한 항의 유전자 전달 벡터를 포함하는 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 상기 세포가 조혈 줄기 세포인, 세포.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 상기 세포가 위탁된(committed) 조혈 적혈구 전구 세포인, 세포.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약제학적으로 허용되는 부형제 및 제12항 내지 제14항 중의 어느 한 항의 재조합 유전자 전달 벡터 또는 제15항 내지 제17항 중의 어느 한 항의 세포를 포함하는, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항의 약제학적 조성물을, 이를 필요로 하는 대상체에게 제공하는 것을 포함하는, 상기 대상체에서 질환 또는 장애를 치료 또는 예방하는 방법.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 상기 질환 또는 장애가 피루베이트 키나제 결손(PDK)이고, 상기 유전자 생성물이 피루베이트 키나제(PK) 폴리펩티드, 임의로 피루베이트 키나제, 간장 및 적혈구(PKLR) 폴리펩티드인, 방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항 또는 제20항에 있어서, 상기 약제학적 조성물이 재조합 유전자 전달 벡터를 포함하는, 방법.",
+            "refers_to": [
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항 또는 제20항에 있어서, 상기 약제학적 조성물이 세포를 포함하는, 방법.",
+            "refers_to": [
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, 상기 세포가 대상체에 대해 자가유래인, 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, 상기 세포가 대상체에 대해 동종이계인, 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하나 이상의 적혈구계 세포를 유효량의 재조합 바이러스 벡터와 접촉시키는 것을 포함하는, 적혈구계 세포에서 도입유전자를 발현시키는 방법으로서,\n상기 벡터가 인간 포스포글리세레이트 키나제 프로모터, 인간 피루베이트 키나제, 간장 및 적혈구(PKLR) cDNA 도입유전자의 코돈 최적화된 버전, 및 우드척형 간염 바이러스의 돌연변이된 전사후 조절 요소를 포함하고, 상기 접촉 후, PKLR이 하나 이상의 적혈구계 세포에서 검출가능한 수준으로 발현되는, 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200331",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 8,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "5'에서 3'의 순서로 하기를 포함하는 폴리뉴클레오티드 서열을 포함하고, 프로모터 서열이 피루베이트 키나제 폴리펩티드를 코딩하는 서열에 작동적으로 연결되는, 발현 카세트(expression cassette):\na) 프로모터 서열;\nb) 유전자 생성물을 코딩하는 서열; 및\nc) 리보핵산(RNA) 외수송 시그널.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 상기 치료용 유전자 생성물이 피루베이트 키나제(PK) 폴리펩티드, 임의로 PKLR(pyruvate kinase, liver and red blood cell) 폴리펩티드인, 발현 카세트.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중의 어느 한 항에 있어서, 상기 RNA 외수송 시그널이 돌연변이된 우드척 간염 바이러스 전사후 조절 요소(Wpre)인, 발현 카세트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제8항 중의 어느 한 항에 있어서, 폴리퓨린 관(PPT) 또는 폴리아데닐화(poly A) 시그널 서열을 추가로 포함하는, 발현 카세트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "약제학적으로 허용되는 부형제; 및 제12항 내지 제14항 중의 어느 한 항의 재조합 유전자 전달 벡터 또는 제15항 내지 제17항 중의 어느 한 항의 세포를 포함하는, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "질환 또는 장애의 치료 또는 예방을 필요로 하는 대상체에게 제18항의 약제학적 조성물을 제공하는 것을 포함하는, 상기 대상체에서 질환 또는 장애를 치료 또는 예방하는 방법.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, 상기 질환 또는 장애가 피루베이트 키나제 결핍증(PKD)이고, 상기 유전자 생성물이 피루베이트 키나제(PK) 폴리펩티드, 임의로 PKLR 폴리펩티드인, 방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하나 이상의 적혈구계 세포를 유효량의 재조합 바이러스 벡터와 접촉시키는 것을 포함하는, 적혈구계 세포에서 도입유전자를 발현시키는 방법으로서,\n상기 벡터가 인간 포스포글리세레이트 키나제 프로모터, 인간 PKLR cDNA 도입유전자의 코돈 최적화된 버전, 및 돌연변이된 우드척 간염 바이러스 전사후 조절 요소를 포함하고, 상기 접촉 후, PKLR이 하나 이상의 적혈구계 세포에서 검출가능한 수준으로 발현되는, 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20220126",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "5'에서 3'의 순서로\na) 프로모터 서열;\nb) 인간 피루베이트 키나제, 간장 및 적혈구(PKLR) 폴리펩티드인, 치료용 유전자 생성물을 코딩하는 서열; 및\nc) 리보핵산(RNA) 외수송 시그널\n을 포함하는 폴리뉴클레오티드 서열을 포함는 발현 카세트(expression cassette)를 포함하는 재조합 유전자 전달 벡터로서,\n상기 프로모터 서열이 인간 PKLR 폴리펩티드를 코딩하는 서열에 작동적으로 연결되고, 상기 재조합 유전자 전달 벡터가 렌티바이러스(LV)인, 재조합 유전자 전달 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 프로모터가 포스포글리세레이트 키나제(PGK) 프로모터인, 재조합 유전자 전달 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 PKLR 폴리펩티드를 코딩하는 서열이 코돈-최적화되어 있는, 재조합 유전자 전달 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 RNA 외수송 시그널이 돌연변이된 우드척 간염 바이러스 전사후 조절 요소(Wpre)인, 재조합 유전자 전달 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 상기 돌연변이된 Wpre가 서열번호 1과 적어도 80% 동일성을 갖는 서열을 포함하는 키메라 Wpre인, 재조합 유전자 전달 벡터.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 하나 이상의 인핸서(enhancer) 서열을 추가로 포함하는, 재조합 유전자 전달 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 폴리퓨린 관(PPT) 또는 폴리아데닐화(poly A) 시그널 서열을 추가로 포함하는, 재조합 유전자 전달 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 하기 서열 중의 하나 이상을 추가로 포함하는, 재조합 유전자 전달 벡터:\ni) 팩킹(packing) 시그널 서열;\nii) 절단된(truncated) Gag 서열;\niii) Rev 반응성 요소(RRE);\niv) 중앙 폴리퓨린 관(cPPT);\nv) 중앙 말단 서열(CTS); 및\nvi) 상류 서열 요소(USE).",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 5' 및 3' 긴 말단 반복 서열을 추가로 포함하는, 재조합 유전자 전달 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 유인원 바이러스 40(SV40-USE)으로부터의 상류 서열 요소(USE)를 추가로 포함하는, 재조합 유전자 전달 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 재조합 유전자 전달 벡터를 포함하는 단리된 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 단리된 세포가 조혈 줄기 세포인, 단리된 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 단리된 세포가 위탁된(committed) 조혈 적혈구 전구 세포인, 단리된 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "약제학적으로 허용되는 부형제; 및 제1항의 재조합 유전자 전달 벡터 또는 상기 재조합 유전자 전달 벡터를 포함하는 세포를 포함하는, 대상체에서 질환 또는 장애를 예방 또는 치료하는 방법에 사용하기 위한 약제학적 조성물로서, 상기 방법이 대상체에 상기 약제학적 조성물을 제공하는 것을 포함하고, 상기 질환 또는 장애가 피루베이트 키나제 결핍증(PKD)인, 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 약제학적 조성물이 제11항의 세포를 포함하는, 약제학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 있어서, 상기 세포가 대상체에 대해 자가유래 또는 동종이계인, 약제학적 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하나 이상의 단리된 적혈구계 세포를 유효량의 재조합 렌티바이러스 벡터와 접촉시키는 것을 포함하는, 단리된 적혈구계 세포에서 도입유전자를 발현시키는 시험관 내 방법으로서, 상기 벡터가 인간 포스포글리세레이트 키나제 프로모터, 인간 피루베이트 키나제, 간장 및 적혈구(PKLR) cDNA 도입유전자의 코돈 최적화된 버전, 및 돌연변이된 우드척 간염 바이러스 전사후 조절 요소(Wpre)를 포함하고, 상기 접촉 후, PKLR이 하나 이상의 단리된 적혈구계 세포에서 검출가능한 수준으로 발현되는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 25,
+      "after_claim_count": 25,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020227030357"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2017.10.26",
+      "internationOpenNumber": "WO2017184903",
+      "internationalApplicationDate": "2017.04.20",
+      "internationalApplicationNumber": "PCT/US2017/028695"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "스페인, ***** 마드리드, **, 아브다. 드 라 콤플루텐제",
+        "code": "520080534552",
+        "country": "스페인",
+        "engName": "CENTRO DE INVESTIGACIONES ENERGETICAS MEDIOAMBIENTALES Y TECNOLOGICAS, O.A., M.P.",
+        "name": "센트로 데 인베스띠가씨오네스 에너제티까스 메디오암비엔딸레스 와이 테크놀로지까스, 오.에이., 엠.피."
+      },
+      {
+        "address": "스페인, ***** 마드리드, *, 아브다. 데 로스 레예스 카톨리코스",
+        "code": "520180616531",
+        "country": "스페인",
+        "engName": "FUNDACION INSTITUTO DE INVESTIGACION SANITARIA FUNDACION JIMENEZ DIAZ",
+        "name": "푼다시안 인스티튜토 데 인베스티카시온 사니타리아 푼다시안 시메네스 디아즈"
+      },
+      {
+        "address": "스페인 ***** 마드리드 칼레 몬포르테 데 레모스 누메로 *",
+        "code": "520180616553",
+        "country": "스페인",
+        "engName": "Consorcio Centro de Investigacion Biomedica en Red",
+        "name": "콘소르시오 센트로 데 인베스티카시온 비오메디카 엔 레드"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "스페인, ***** 마드리...",
+        "code": "",
+        "country": "",
+        "engName": "SEGOVIA, Jose C.",
+        "name": "세고비아 호세 씨."
+      },
+      {
+        "address": "스페인, ***** 마드리...",
+        "code": "",
+        "country": "",
+        "engName": "GOMEZ, Maria G.",
+        "name": "고메즈 마리아 지."
+      },
+      {
+        "address": "스페인, ***** 마드리...",
+        "code": "",
+        "country": "",
+        "engName": "NAVARRO, Susana",
+        "name": "나바로 수잔나"
+      },
+      {
+        "address": "스페인, ***** 마드리...",
+        "code": "",
+        "country": "",
+        "engName": "MEZA, Nestor",
+        "name": "메자 네스토르"
+      },
+      {
+        "address": "스페인, ***** 마드리...",
+        "code": "",
+        "country": "",
+        "engName": "BUEREN, Juan",
+        "name": "부에렌 후안"
+      },
+      {
+        "address": "스페인, ***** 마드리...",
+        "code": "",
+        "country": "",
+        "engName": "BRAVO, Maria G.",
+        "name": "브라보 마리아 지."
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 송파구 법원로 ***, *층(문정동)",
+      "code": "920201000613",
+      "country": "대한민국",
+      "engName": "HANOL Intellectual Property and Law",
+      "name": "특허법인한얼"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2016.04.20",
+      "priorityApplicationNumber": "62/325,397"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "PLoS ONE 7(9): e45173. doi:10.1371/journal.pone.0045173. 1부.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "https://www.ema.europa.eu/en/documents/orphan-designation/eu/3/14/1330-public-summary-opinion-orphan-designation-lentiviral-vector-containing-human-liver-erythroid_en.pdf",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Biochemistry, April 28, 1998, 95 (9) 4864-4869",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2018.11.16",
+        "receiptNumber": "1-1-2018-1143378-55"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2018.11.22",
+        "receiptNumber": "1-1-2018-1166788-44"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2018.11.22",
+        "receiptNumber": "1-1-2018-1166787-09"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2018.11.26",
+        "receiptNumber": "1-5-2018-0183409-79"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.01.24",
+        "receiptNumber": "1-1-2019-0086679-22"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2019.01.29",
+        "receiptNumber": "1-1-2019-0106294-17"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.02.20",
+        "receiptNumber": "1-1-2019-0179004-94"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.03.20",
+        "receiptNumber": "1-1-2019-0285822-23"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.04.23",
+        "receiptNumber": "4-1-2019-5080353-01"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2019.04.23",
+        "receiptNumber": "1-1-2019-0419254-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.04.23",
+        "receiptNumber": "4-1-2019-5080352-55"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2019.04.24",
+        "receiptNumber": "1-5-2019-0068908-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2020.03.31",
+        "receiptNumber": "1-1-2020-0337068-81"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.03.31",
+        "receiptNumber": "1-1-2020-0337067-35"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2020.07.24",
+        "receiptNumber": "4-1-2020-5166097-14"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.09.29",
+        "receiptNumber": "9-5-2021-0767981-41"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.11.24",
+        "receiptNumber": "1-1-2021-1357769-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.12.17",
+        "receiptNumber": "1-1-2021-1465826-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.01.26",
+        "receiptNumber": "1-1-2022-0100093-01"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.01.26",
+        "receiptNumber": "1-1-2022-0100094-46"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.06.09",
+        "receiptNumber": "4-1-2022-5135628-12"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.06.22",
+        "receiptNumber": "9-5-2022-0460016-96"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2022.09.01",
+        "receiptNumber": "1-1-2022-0920880-27"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2025.10.01",
+        "receiptNumber": "1-1-2025-1122758-07"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020187033302.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c930075fa3a1b3fedb4bdef0d6a0066f2b49f0eee4ce1dfb106f35f5c557b582afed170c010c6b03cdb780eba0017b2cd4cfa6742d7a1fc9704",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfb680b86fb65b405da3fae769fc8a7e5992f861410f70a30a4fa496fccc5faff986e42a553d37f7babda5e2ce955fcd38c4537a270a496e21"
+  },
+  "rndInfoArray": ""
+}

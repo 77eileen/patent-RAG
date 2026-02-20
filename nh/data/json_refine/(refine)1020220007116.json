@@ -1,0 +1,998 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.01.18",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0007116",
+      "claimCount": "5",
+      "examinerName": "",
+      "finalDisposal": "거절결정(재심사)",
+      "inventionTitle": "miR 145 억제제를 유효성분으로 포함하는 심근경색증의 치료용 조성물",
+      "inventionTitleEng": "Composition comprising inhibitors of miR 145 for  preventing and treating myocardial infarction",
+      "openDate": "2022.07.26",
+      "openNumber": "10-2022-0104653",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.01.18",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/7088"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 9/10"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 mir145 억제제의 심근경색증의 악화 예방 또는 치료 용도에 관한 것으로, miR-145의 안타고미르가 심근경색증에서 허혈성 손상에 의한 심근의 손상 및 괴사를 감소시키고, 심근 조직의 재생을 증가시킴으로써, 심근경색 증후의 재생 치료에 효과를 나타내며, miR-145 안타고미르의 경우 단독 투여시에도 miR-124 안타고미르와 병용 투여된 경우와 유사한 정도의 치료 효과를 나타내고, 특히, 심근경색증이 발병된 후 수일 내의 초기(급성기)에 현저한 치료 효과를 나타내는 효과가 있으므로, 이를 심근경색증의 치료 용도로 이용할 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220007116",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220118",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, mir145는 mir-145-5p인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, mir145 억제제는 RNA 억제 분자(inhibitoy RNA molecule), 길항제 microRNA, 효소적 RNA 분자 및 항-miRNA 항체로 이루어진 군으로부터 선택된 하나 이상인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, mir145 억제제는 mir145에 특이적으로 결합하는 안티센스 올리고뉴클레오티드(antisense oligonucleotide), 안타고미르(antagomir), 리보자임(ribozyme), 압타머(aptamer), siRNA, miRNA, shRNA(short hairpin RNA), PNA(peptide nucleic acid) 및 LNA(locked nucleic acid)로 이루어진 군으로부터 선택된 하나 이상인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, mir145 억제제는 서열번호 4로 표시되는 anti-mir145인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, mir124 억제제를 추가로 포함하는, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 6항에 있어서, miR 203a 억제제, miR181 억제제, miR128 억제제, miR-128 억제제, mir106b 억제제 및 miR34a 억제제로 이루어진 군으로부터 선택된 하나 이상의 억제제를 추가로 포함하는, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 허혈성 심근괴사 또는 급성 염증이 존재하는 상태에서 투여되는, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 급성기(acute phase) 심근경색증인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 9항에 있어서, 급성기 심근경색증은 허혈성 심근괴사 또는 급성 염증이 존재하는 심근경색증인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증에서 심장 기능을 회복시키기 위한 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 11항에 있어서, 심근벽의 운동성, 심장박출량, 좌심실 구혈률(% LVEF) 및 구획단축률(% FS)을 증가시키고, 및 이완기 내경(LVIDd) 및 수축기 내경(LVISd)을 감소시키는, 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증에서 심근의 리모델링 및 이완확장에 의한 심부전(dilative heart failure) 증상을 완화하기 위한 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증에서 심근 조직 병변을 감소시키기 위한 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 14항에 있어서, 심근의 괴사 및 손상을 방지하고 정상 심근의 재생을 촉진시키는, 약학적 조성물.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 14항에 있어서, 모세혈관 밀도 및 생존 가능한 심근(viable myocardium) 수를 증가시키는, 약학적 조성물.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 14항에 있어서, 심근의 섬유화(fibrosis)를 억제하는, 약학적 조성물.",
+          "refers_to": [
+            14
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20250422",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 17,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, mir145는 mir-145-5p인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, mir145 억제제는 RNA 억제 분자(inhibitoy RNA molecule), 길항제 microRNA, 효소적 RNA 분자 및 항-miRNA 항체로 이루어진 군으로부터 선택된 하나 이상인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, mir145 억제제는 mir145에 특이적으로 결합하는 안티센스 올리고뉴클레오티드(antisense oligonucleotide), 안타고미르(antagomir), 리보자임(ribozyme), 압타머(aptamer), siRNA, miRNA, shRNA(short hairpin RNA), PNA(peptide nucleic acid) 및 LNA(locked nucleic acid)로 이루어진 군으로부터 선택된 하나 이상인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, mir145 억제제는 서열번호 4로 표시되는 anti-mir145인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, mir124 억제제를 추가로 포함하는, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 6항에 있어서, miR 203a 억제제, miR181 억제제, miR128 억제제, miR-128 억제제, mir106b 억제제 및 miR34a 억제제로 이루어진 군으로부터 선택된 하나 이상의 억제제를 추가로 포함하는, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, 허혈성 심근괴사 또는 급성 염증이 존재하는 상태에서 투여되는, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서, 급성기(acute phase) 심근경색증인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 9항에 있어서, 급성기 심근경색증은 허혈성 심근괴사 또는 급성 염증이 존재하는 심근경색증인, 심근경색증의 치료용 약학적 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증에서 심장 기능을 회복시키기 위한 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 11항에 있어서, 심근벽의 운동성, 심장박출량, 좌심실 구혈률(% LVEF) 및 구획단축률(% FS)을 증가시키고, 및 이완기 내경(LVIDd) 및 수축기 내경(LVISd)을 감소시키는, 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증에서 심근의 리모델링 및 이완확장에 의한 심부전(dilative heart failure) 증상을 완화하기 위한 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증에서 심근 조직 병변을 감소시키기 위한 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 14항에 있어서, 심근의 괴사 및 손상을 방지하고 정상 심근의 재생을 촉진시키는, 약학적 조성물.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 14항에 있어서, 모세혈관 밀도 및 생존 가능한 심근(viable myocardium) 수를 증가시키는, 약학적 조성물.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 14항에 있어서, 심근의 섬유화(fibrosis)를 억제하는, 약학적 조성물.",
+          "refers_to": [
+            14
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220118",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 17,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증의 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, mir145는 mir-145-5p인, 심근경색증의 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, mir145 억제제는 RNA 억제 분자(inhibitoy RNA molecule), 길항제 microRNA, 효소적 RNA 분자 및 항-miRNA 항체로 이루어진 군으로부터 선택된 하나 이상인, 심근경색증의 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, mir145 억제제는 mir145에 특이적으로 결합하는 안티센스 올리고뉴클레오티드(antisense oligonucleotide), 안타고미르(antagomir), 리보자임(ribozyme), 압타머(aptamer), siRNA, miRNA, shRNA(short hairpin RNA), PNA(peptide nucleic acid) 및 LNA(locked nucleic acid)로 이루어진 군으로부터 선택된 하나 이상인, 심근경색증의 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, mir145 억제제는 서열번호 4로 표시되는 anti-mir145인, 심근경색증의 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, mir124 억제제를 추가로 포함하는, 심근경색증의 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 6항에 있어서, miR 203a 억제제, miR181 억제제, miR128 억제제, miR-128 억제제, mir106b 억제제 및 miR34a 억제제로 이루어진 군으로부터 선택된 하나 이상의 억제제를 추가로 포함하는, 심근경색증의 치료용 약학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, 허혈성 심근괴사 또는 급성 염증이 존재하는 상태에서 투여되는, 심근경색증의 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, 급성기(acute phase) 심근경색증인, 심근경색증의 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 9항에 있어서, 급성기 심근경색증은 허혈성 심근괴사 또는 급성 염증이 존재하는 심근경색증인, 심근경색증의 치료용 약학적 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증에서 심장 기능을 회복시키기 위한 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 11항에 있어서, 심근벽의 운동성, 심장박출량, 좌심실 구혈률(% LVEF) 및 구획단축률(% FS)을 증가시키고, 및 이완기 내경(LVIDd) 및 수축기 내경(LVISd)을 감소시키는, 약학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증에서 심근의 리모델링 및 이완확장에 의한 심부전(dilative heart failure) 증상을 완화하기 위한 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "mir145 억제제를 유효성분으로 포함하는 심근경색증에서 심근 조직 병변을 감소시키기 위한 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 14항에 있어서, 심근의 괴사 및 손상을 방지하고 정상 심근의 재생을 촉진시키는, 약학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 14항에 있어서, 모세혈관 밀도 및 생존 가능한 심근(viable myocardium) 수를 증가시키는, 약학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 14항에 있어서, 심근의 섬유화(fibrosis)를 억제하는, 약학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20240823",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 11,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "mir145 억제제를 유효성분으로 포함하는 급성기(acute phase) 심근경색증의 치료용 약학적 조성물로서,\n상기 급성기 심근경색증은 허혈성 심근괴사 또는 급성 염증이 존재하는 심근경색증이며,\n상기 조성물은 허혈성 심근괴사 또는 급성 염증이 존재하는 상태에서 투여되는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "mir145 억제제를 유효성분으로 포함하는 급성기(acute phase) 심근경색증에서 심장 기능을 회복시키기 위한 약학적 조성물로서,\n상기 급성기 심근경색증은 허혈성 심근괴사 또는 급성 염증이 존재하는 심근경색증이며,\n상기 조성물은 허혈성 심근괴사 또는 급성 염증이 존재하는 상태에서 투여되는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "mir145 억제제를 유효성분으로 포함하는 급성기(acute phase) 심근경색증에서 심부전(dilative heart failure) 증상을 억제하기 위한 약학적 조성물로서,\n상기 급성기 심근경색증은 허혈성 심근괴사 또는 급성 염증이 존재하는 심근경색증이며,\n상기 조성물은 허혈성 심근괴사 또는 급성 염증이 존재하는 상태에서 투여되는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "mir145 억제제를 유효성분으로 포함하는 급성기(acute phase) 심근경색증에서 심근 조직 병변을 감소시키기 위한 약학적 조성물로서,\n상기 급성기 심근경색증은 허혈성 심근괴사 또는 급성 염증이 존재하는 심근경색증이며,\n상기 조성물은 허혈성 심근괴사 또는 급성 염증이 존재하는 상태에서 투여되는 것이고, 정상 심근의 재생을 촉진시키며, 모세혈관 밀도 및 생존 가능한 심근(viable myocardium) 수를 증가시키는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "mir145 억제제를 유효성분으로 포함하는 급성 심근경색증으로 유발되는 심근의 섬유화를 억제하기 위한 약학적 조성물로서,\n상기 급성 심근경색증은 허혈성 심근괴사 또는 급성 염증이 존재하는 심근경색증이며,\n상기 조성물은 허혈성 심근괴사 또는 급성 염증이 존재하는 상태에서 투여되는 것인, 조성물.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250422",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "mir145 억제제를 유효성분으로 포함하는 급성기(acute phase) 심근경색증의 치료용 약학적 조성물로서,\n상기 mir145 억제제는 서열번호 4로 표시되는 것이며,\n상기 급성기 심근경색증은 허혈성 심근괴사 또는 급성 염증이 존재하는 심근경색증이며,\n상기 조성물은 허혈성 심근괴사 또는 급성 염증이 존재하는 상태에서 투여되는 것이며,\n상기 조성물은 심장 기능을 회복시키는 것이며,\n상기 조성물은 심근벽의 운동성, 심장박출량, 좌심실 구혈률(% LVEF) 및 구획단축률(% FS)을 증가시키고, 이완기 내경(LVIDd) 및 수축기 내경(LVISd)을 감소시키는 것이며,\n상기 조성물은 심근의 리모델링 및 이완확장에 의한 심부전의 발생 및 증상을 억제하는 것이며,\n상기 조성물은 심근 조직 병변을 감소시키는 것이며,\n상기 조성물은 허혈성 심근 괴사 또는 급성 염증이 존재하는 급성기 심근경색증이 발생한 심장에서 정상 심근의 재생을 촉진시키며, 모세혈관 밀도 및 생존 가능한 심근(viable myocardium) 수를 증가시키는 것이며,\n상기 조성물은 심근의 섬유화를 억제하는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1항에 있어서, 서열번호 5 또는 6으로 표시되는 mir124 억제제를 추가로 포함하는, 심근경색증의 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "mir145 억제제를 유효성분으로 포함하는 급성기(acute phase) 심근경색증에서 심근의 리모델링 및 이완확장에 의한 심부전의 발생 및 증상을 억제하기 위한 약학적 조성물로서,\n상기 mir145 억제제는 서열번호 4로 표시되는 것이며,\n상기 급성기 심근경색증은 허혈성 심근괴사 또는 급성 염증이 존재하는 심근경색증이며,\n상기 조성물은 허혈성 심근괴사 또는 급성 염증이 존재하는 상태에서 투여되는 것이며,\n상기 조성물은 심장 기능을 회복시키는 것이며,\n상기 조성물은 심근벽의 운동성, 심장박출량, 좌심실 구혈률(% LVEF) 및 구획단축률(% FS)을 증가시키고, 이완기 내경(LVIDd) 및 수축기 내경(LVISd)을 감소시키는 것이며,\n상기 조성물은 심근 조직 병변을 감소시키는 것이며,\n상기 조성물은 허혈성 심근 괴사 또는 급성 염증이 존재하는 급성기 심근경색증이 발생한 심장에서 정상 심근의 재생을 촉진시키며, 모세혈관 밀도 및 생존 가능한 심근(viable myocardium) 수를 증가시키는 것이며,\n상기 조성물은 심근의 섬유화를 억제하는 것인, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "mir145 억제제를 유효성분으로 포함하는 급성 심근경색증으로 유발되는 심근의 섬유화를 억제하기 위한 약학적 조성물로서,\n상기 mir145 억제제는 서열번호 4로 표시되는 것이며,\n상기 급성 심근경색증은 허혈성 심근괴사 또는 급성 염증이 존재하는 심근경색증이며,\n상기 조성물은 허혈성 심근괴사 또는 급성 염증이 존재하는 상태에서 투여되는 것이며,\n상기 조성물은 심장 기능을 회복시키는 것이며,\n상기 조성물은 심근벽의 운동성, 심장박출량, 좌심실 구혈률(% LVEF) 및 구획단축률(% FS)을 증가시키고, 이완기 내경(LVIDd) 및 수축기 내경(LVISd)을 감소시키는 것이며,\n상기 조성물은 심근의 리모델링 및 이완확장에 의한 심부전의 발생 및 증상을 억제하는 것이며,\n상기 조성물은 심근 조직 병변을 감소시키는 것이며,\n상기 조성물은 허혈성 심근 괴사 또는 급성 염증이 존재하는 급성기 심근경색증이 발생한 심장에서 정상 심근의 재생을 촉진시키며, 모세혈관 밀도 및 생존 가능한 심근(viable myocardium) 수를 증가시키는 것인, 조성물.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 17,
+      "after_claim_count": 10,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020250155385"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 서초구...",
+      "code": "120200088238",
+      "country": "대한민국",
+      "engName": "Regen Innopharm Inc .",
+      "name": "(주)리젠이노팜"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 강남구...",
+        "code": "",
+        "country": "",
+        "engName": "Oh il-hoan",
+        "name": "오일환"
+      },
+      {
+        "address": "서울특별시 강남구...",
+        "code": "",
+        "country": "",
+        "engName": "Park hun-jun",
+        "name": "박훈준"
+      },
+      {
+        "address": "서울특별시 송파구...",
+        "code": "",
+        "country": "",
+        "engName": "Park bong-woo",
+        "name": "박봉우"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 강남대로**길 ** (역삼동) 화성빌딩 *층(위특허법률사무소)",
+      "code": "920040001553",
+      "country": "대한민국",
+      "engName": "WIE Byoung Gap",
+      "name": "위병갑"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2021.01.18",
+      "priorityApplicationNumber": "1020210006949"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "US08871731 B2",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Cellular Physiology and Biochemistry. 2018. Vol.51, No.1, pp.186-200.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Journal of Cellular Physiology. 2019. Vol.234, No.9, pp.16281-16289.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020120047214 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20120238619 A1",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.01.18",
+        "receiptNumber": "1-1-2022-0062994-31"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.01.18",
+        "receiptNumber": "1-1-2022-0063694-17"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.03.30",
+        "receiptNumber": "4-1-2023-5077766-00"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2023.10.04",
+        "receiptNumber": "1-1-2023-1083139-26"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.04.23",
+        "receiptNumber": "9-5-2024-0342204-18"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2024.06.24",
+        "receiptNumber": "1-1-2024-0678860-27"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2024.07.23",
+        "receiptNumber": "1-1-2024-0797937-57"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.08.23",
+        "receiptNumber": "1-1-2024-0922464-63"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.08.23",
+        "receiptNumber": "1-1-2024-0922465-19"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2025.01.22",
+        "receiptNumber": "9-5-2025-0083563-64"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.04.22",
+        "receiptNumber": "1-1-2025-0453235-81"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2025.04.22",
+        "receiptNumber": "1-1-2025-0453234-35"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2025.06.24",
+        "receiptNumber": "9-5-2025-0599968-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[법정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2025.09.18",
+        "receiptNumber": "1-1-2025-1068926-14"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "",
+        "documentName": "법정기간연장승인서",
+        "receiptDate": "2025.09.25",
+        "receiptNumber": "1-5-2025-0164288-82"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application] Patent Application",
+        "documentName": "[분할출원]특허출원서",
+        "receiptDate": "2025.10.24",
+        "receiptNumber": "1-1-2025-1187879-79"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Opinion of Examiner",
+        "documentName": "심사관의견요청서",
+        "receiptDate": "2025.10.29",
+        "receiptNumber": "7-8-2025-0018310-74"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220007116.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93fadba541b6eabba9099fde4bc075bdf661c9e81ec305c0514a23476bf1bf2317874133bc8092493dcf01af48291372d9f4e4b6390cbc71b2",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf83e22141e7e6467cda42fbdc8cdf8a3c8e25c4aab63e9d5f636a505b3f58d381bfb23bfd6f0d68f268c29e990899d8b33360d8d6dc47b89a"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2020.01.01 ~ 2022.06.29",
+        "rndManagingInstituteName": "가톨릭대학",
+        "rndProjectName": "바이오.의료기술개발(R＆D)",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "1/2",
+        "rndTaskName": "줄기세포 미세환경 조절기술 고도화 및 실용화 연구",
+        "rndTaskNumber": "2017393061"
+      },
+      {
+        "rndDepartmentName": "보건복지부",
+        "rndDuration": "2021.09.01 ~ 2023.08.31",
+        "rndManagingInstituteName": "㈜리젠이노팜",
+        "rndProjectName": "범부처전주기신약개발사업",
+        "rndSpecialInstituteName": "(재단)국가신약개발재단",
+        "rndTaskContribution": "1/2",
+        "rndTaskName": "세포투과성 안타고머에 기반한 고효율 심근경색증 치료제 개발",
+        "rndTaskNumber": "9991007804"
+      }
+    ]
+  }
+}

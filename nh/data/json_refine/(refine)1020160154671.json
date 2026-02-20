@@ -1,0 +1,590 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2016.11.21",
+      "applicationFlag": "",
+      "applicationNumber": "10-2016-0154671",
+      "claimCount": "6",
+      "examinerName": "윤지영",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "플라즈마 패드―키트 시스템",
+      "inventionTitleEng": "Plasma Pad-Kit System",
+      "openDate": "2018.05.30",
+      "openNumber": "10-2018-0056843",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2016.11.21",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2018.11.12",
+      "publicationNumber": "",
+      "registerDate": "2018.11.06",
+      "registerNumber": "10-1917929-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61N 1/44"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61N 1/04"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61N 1/14"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 9/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61M 37/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은, 플라즈마 패드를 구동하는 전압 인가에 있어서, 800V 내지 1kV의 전압을 구동 주파수 수십-수백 kHz로 하여 인가하며, 전압 파형을 디밍 방식의 변조 파형으로 구동하되, 디밍의 off-time을 수 초 이상으로 하여 오존 발생량을 허용치(0.08 ppm) 이하로 제어하였다.또한, 플라즈마 패드에 사용되는 유전체 필름에 형성하는 접지전극의 면적을 넓게 제작하여 피부에 접촉되게 함으로써 전하축적 및 정전기 생성 문제를 해결하였으며, 그 외에도 플라즈마 패드에 전원을 공급하는 전원장치를 내장하는 포켓의 외부에 별도의 접지 패드를 설치하였다. 또한, 인버터에서 트랜스포머를 분리하여 플라즈마 패드의 가장자리에 배치하여 전원장치와 패드와의 사이의 전선에는 10V의 DC-전압이 인가되도록 함으로써 고전압선에 의한 누설전력 및 전자파 발생 문제를 해결하였다."
+    }
+  },
+  "claims": {
+    "application_number": "1020160154671",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20161121",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 6,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "휴대 및 착용 가능한 플라즈마 패드-키트 시스템으로서,\n면 방전 플라즈마 패드; 및\n상기 플라즈마 패드와 케이블로 연결되는 배터리를 넣을 수 있고, 인체 착용 가능한 배터리 포켓;을 포함하며,\n상기 플라즈마 패드는,\n피부와 접촉되는 거즈, 접지 전극, 유전체 필름, 전압인가 전극, 절연 커버 및 바탕재를 순서대로 포함하되 유연성을 지니고,\n상기 배터리 포켓은,\nDC-AC 인버터와 배터리를 내장하여 배터리에 의해 공급되는 직류 전압을 DC-AC 인버터를 통해 플라즈마 방전에 필요한 교류 구동전압으로 변환되고,\n상기 플라즈마 패드를 피부에 부착시키면, 상기 거즈가 플라즈마 발생 공간을 제공하는 기능을 하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 플라즈마 패드의 오존 발생량을 제어를 위하여 인가 전압은 디밍 방식으로 구동되고, 디밍 전압의 듀티 오프 타임은 0.5초 내지 10초로 제어하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 정전기 제어를 위하여 접지전극이 직접 피부에 접촉되게 하고,\n배터리 포켓의 인체 접촉면에 접지 패드를 설치하여 피부에 직접 접촉하도록 하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 케이블에 의한 누설전류를 방지하기 위하여,\n상기 배터리 포켓에 구비되는 DC-AC 인버터로부터 트랜스포머를 분리하여 플라즈마 패드 쪽에 설치하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 거즈는 의료용 또는 미용용의 기능성 거즈로서 크림 또는 겔-타입의 피부미용재나 의료 약재가 함유된 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항의 플라즈마 패드-키트 시스템을 착용 가능한 모자에 적용하되,\n모자 내부의 테두리에 접지-패드를 추가로 설치하고,\n모자에 전원장치를 설치한 플자즈마 모자-키트 시스템.",
+          "refers_to": [
+            1
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20180518",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 7,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "휴대 및 착용 가능한 플라즈마 패드-키트 시스템으로서,면 방전 플라즈마 패드; 및상기 플라즈마 패드와 케이블로 연결되는 배터리를 넣을 수 있고, 인체 착용 가능한 배터리 포켓;을 포함하며,상기 플라즈마 패드는,피부와 접촉되는 거즈, 접지 전극, 유전체 필름, 전압인가 전극, 절연 커버 및 바탕재를 순서대로 포함하되 유연성을 지니고,상기 배터리 포켓은,DC-AC 인버터와 배터리를 내장하여 배터리에 의해 공급되는 직류 전압을 DC-AC 인버터를 통해 플라즈마 방전에 필요한 교류 구동전압으로 변환되고,상기 플라즈마 패드를 피부에 부착시키면, 상기 거즈가 플라즈마 발생 공간을 제공하고,플라즈마가 방전되는 부분인 거즈 부분 외에 더 확장된 접지전극 부분이 피부에 직접 접촉되게 하고, 배터리 포켓의 인체 접촉면에 접지 패드를 설치하여 피부에 직접 접촉하도록 하여 정전기 발생 문제를 예방한 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 플라즈마 패드의 오존 발생량을 제어를 위하여 인가 전압은 디밍 방식으로 구동되고, 디밍 전압의 듀티 오프 타임은 0.5초 내지 10초로 제어하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "휴대 및 착용 가능한 플라즈마 패드-키트 시스템으로서,면 방전 플라즈마 패드; 및상기 플라즈마 패드와 케이블로 연결되는 배터리를 넣을 수 있고, 인체 착용 가능한 배터리 포켓;을 포함하며,상기 플라즈마 패드는,피부와 접촉되는 거즈, 접지 전극, 유전체 필름, 전압인가 전극, 절연 커버 및 바탕재를 순서대로 포함하되 유연성을 지니고,상기 배터리 포켓은,DC-AC 인버터와 배터리를 내장하여 배터리에 의해 공급되는 직류 전압을 DC-AC 인버터를 통해 플라즈마 방전에 필요한 교류 구동전압으로 변환되고,상기 플라즈마 패드를 피부에 부착시키면, 상기 거즈가 플라즈마 발생 공간을 제공하고,플라즈마가 방전되는 부분인 거즈 부분 외에 더 확장된 접지전극 부분이 피부에 직접 접촉되게 하고,상기 케이블에 의한 누설전류를 방지하기 위하여,상기 배터리 포켓에 구비되는 DC-AC 인버터로부터 트랜스포머를 분리하여 플라즈마 패드 쪽에 설치하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제4항에 있어서, 상기 거즈는 의료용 또는 미용용의 기능성 거즈로서 크림 또는 겔-타입의 피부미용재나 의료 약재가 함유된 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+          "refers_to": [
+            1,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제4항의 플라즈마 패드-키트 시스템을 착용 가능한 모자에 적용하되,모자 내부의 테두리에 접지-패드를 추가로 설치하고,모자에 전원장치를 설치한 플라즈마 모자-키트 시스템.",
+          "refers_to": [
+            1,
+            4
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 플라즈마 패드의 오존 발생량을 제어를 위하여 인가 전압은 디밍 방식으로 구동되고, 디밍 전압의 듀티 오프 타임은 0.5초 내지 10초로 제어하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+          "refers_to": [
+            4
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20161121",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 6,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "휴대 및 착용 가능한 플라즈마 패드-키트 시스템으로서,\n면 방전 플라즈마 패드; 및\n상기 플라즈마 패드와 케이블로 연결되는 배터리를 넣을 수 있고, 인체 착용 가능한 배터리 포켓;을 포함하며,\n상기 플라즈마 패드는,\n피부와 접촉되는 거즈, 접지 전극, 유전체 필름, 전압인가 전극, 절연 커버 및 바탕재를 순서대로 포함하되 유연성을 지니고,\n상기 배터리 포켓은,\nDC-AC 인버터와 배터리를 내장하여 배터리에 의해 공급되는 직류 전압을 DC-AC 인버터를 통해 플라즈마 방전에 필요한 교류 구동전압으로 변환되고,\n상기 플라즈마 패드를 피부에 부착시키면, 상기 거즈가 플라즈마 발생 공간을 제공하는 기능을 하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 플라즈마 패드의 오존 발생량을 제어를 위하여 인가 전압은 디밍 방식으로 구동되고, 디밍 전압의 듀티 오프 타임은 0.5초 내지 10초로 제어하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 정전기 제어를 위하여 접지전극이 직접 피부에 접촉되게 하고,\n배터리 포켓의 인체 접촉면에 접지 패드를 설치하여 피부에 직접 접촉하도록 하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 케이블에 의한 누설전류를 방지하기 위하여,\n상기 배터리 포켓에 구비되는 DC-AC 인버터로부터 트랜스포머를 분리하여 플라즈마 패드 쪽에 설치하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 거즈는 의료용 또는 미용용의 기능성 거즈로서 크림 또는 겔-타입의 피부미용재나 의료 약재가 함유된 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항의 플라즈마 패드-키트 시스템을 착용 가능한 모자에 적용하되,\n모자 내부의 테두리에 접지-패드를 추가로 설치하고,\n모자에 전원장치를 설치한 플자즈마 모자-키트 시스템.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20171113",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "휴대 및 착용 가능한 플라즈마 패드-키트 시스템으로서,\n면 방전 플라즈마 패드; 및\n상기 플라즈마 패드와 케이블로 연결되는 배터리를 넣을 수 있고, 인체 착용 가능한 배터리 포켓;을 포함하며,\n상기 플라즈마 패드는,\n피부와 접촉되는 거즈, 접지 전극, 유전체 필름, 전압인가 전극, 절연 커버 및 바탕재를 순서대로 포함하되 유연성을 지니고,\n상기 배터리 포켓은,\nDC-AC 인버터와 배터리를 내장하여 배터리에 의해 공급되는 직류 전압을 DC-AC 인버터를 통해 플라즈마 방전에 필요한 교류 구동전압으로 변환되고,\n상기 플라즈마 패드를 피부에 부착시키면, 상기 거즈가 플라즈마 발생 공간을 제공하고,\n플라즈마가 방전되는 부분인 거즈 부분 외에 더 확장된 접지전극 부분이 피부에 직접 접촉되게 하여 정전기 발생 문제를 예방한 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 정전기 제어를 위하여 배터리 포켓의 인체 접촉면에 접지 패드를 설치하여 피부에 직접 접촉하도록 하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 플라즈마 패드-키트 시스템을 착용 가능한 모자에 적용하되,\n모자 내부의 테두리에 접지-패드를 추가로 설치하고,\n모자에 전원장치를 설치한 플라즈마 모자-키트 시스템.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "면 방전 플라즈마 패드로서,\n상기 플라즈마 패드는,\n피부와 접촉되는 거즈, 접지 전극, 유전체 필름, 전압인가 전극, 절연 커버를 순서대로 포함하고,\n상기 접지전극의 면적을 상기 거즈의 면적보다 더 넓게 구성하여 상기 플라즈마 패드를 피부에 부착시키면, 상기 거즈가 플라즈마 발생 공간을 제공하고, 플라즈마가 방전되는 부분인 거즈 부분 외에 더 확장된 접지전극 부분이 피부에 직접 접촉되게 하여 정전기 발생 문제를 예방한 것을 특징으로 하는 플라즈마 패드.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20180518",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 6,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "휴대 및 착용 가능한 플라즈마 패드-키트 시스템으로서,\n면 방전 플라즈마 패드; 및\n상기 플라즈마 패드와 케이블로 연결되는 배터리를 넣을 수 있고, 인체 착용 가능한 배터리 포켓;을 포함하며,\n상기 플라즈마 패드는,\n피부와 접촉되는 거즈, 접지 전극, 유전체 필름, 전압인가 전극, 절연 커버 및 바탕재를 순서대로 포함하되 유연성을 지니고,\n상기 배터리 포켓은,\nDC-AC 인버터와 배터리를 내장하여 배터리에 의해 공급되는 직류 전압을 DC-AC 인버터를 통해 플라즈마 방전에 필요한 교류 구동전압으로 변환되고,\n상기 플라즈마 패드를 피부에 부착시키면, 상기 거즈가 플라즈마 발생 공간을 제공하고,\n플라즈마가 방전되는 부분인 거즈 부분 외에 더 확장된 접지전극 부분이 피부에 직접 접촉되게 하고, 배터리 포켓의 인체 접촉면에 접지 패드를 설치하여 피부에 직접 접촉하도록 하여 정전기 발생 문제를 예방한 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "휴대 및 착용 가능한 플라즈마 패드-키트 시스템으로서,\n면 방전 플라즈마 패드; 및\n상기 플라즈마 패드와 케이블로 연결되는 배터리를 넣을 수 있고, 인체 착용 가능한 배터리 포켓;을 포함하며,\n상기 플라즈마 패드는,\n피부와 접촉되는 거즈, 접지 전극, 유전체 필름, 전압인가 전극, 절연 커버 및 바탕재를 순서대로 포함하되 유연성을 지니고,\n상기 배터리 포켓은,\nDC-AC 인버터와 배터리를 내장하여 배터리에 의해 공급되는 직류 전압을 DC-AC 인버터를 통해 플라즈마 방전에 필요한 교류 구동전압으로 변환되고,\n상기 플라즈마 패드를 피부에 부착시키면, 상기 거즈가 플라즈마 발생 공간을 제공하고,\n플라즈마가 방전되는 부분인 거즈 부분 외에 더 확장된 접지전극 부분이 피부에 직접 접촉되게 하고,\n상기 케이블에 의한 누설전류를 방지하기 위하여,\n상기 배터리 포켓에 구비되는 DC-AC 인버터로부터 트랜스포머를 분리하여 플라즈마 패드 쪽에 설치하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제4항에 있어서, 상기 거즈는 의료용 또는 미용용의 기능성 거즈로서 크림 또는 겔-타입의 피부미용재나 의료 약재가 함유된 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+            "refers_to": [
+              1,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제4항의 플라즈마 패드-키트 시스템을 착용 가능한 모자에 적용하되,\n모자 내부의 테두리에 접지-패드를 추가로 설치하고,\n모자에 전원장치를 설치한 플라즈마 모자-키트 시스템.",
+            "refers_to": [
+              1,
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 플라즈마 패드의 오존 발생량을 제어를 위하여 인가 전압은 디밍 방식으로 구동되고, 디밍 전압의 듀티 오프 타임은 0.5초 내지 10초로 제어하는 것을 특징으로 하는 플라즈마 패드-키트 시스템.",
+            "refers_to": [
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 6,
+      "after_claim_count": 6,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 노원구...",
+      "code": "220040102654",
+      "country": "대한민국",
+      "engName": "Kwangwoon University Industry-Academic Collaboration Foundation",
+      "name": "광운대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 서초구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Guangsup Cho",
+        "name": "조 광섭"
+      },
+      {
+        "address": "서울특별시 노원구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Eun Ha Choi",
+        "name": "최 은하"
+      },
+      {
+        "address": "서울특별시 광진구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Yunjung Kim",
+        "name": "김 윤중"
+      },
+      {
+        "address": "강원도 원주시 ...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Kim Junggil",
+        "name": "김중길"
+      },
+      {
+        "address": "서울특별시 노원구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "YEONJEONG KIM",
+        "name": "김연정"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 테헤란로 **길 ** 선릉엘지에클라트 B-***(아이디어로특허법률사무소)",
+      "code": "920080006552",
+      "country": "대한민국",
+      "engName": "Joo, EunHeui",
+      "name": "주은희"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR101657895 B1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020110058839 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020130129217 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "JP2014505553 A",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2016.11.21",
+        "receiptNumber": "1-1-2016-1131076-77"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2016.12.01",
+        "receiptNumber": "1-5-2016-0171838-47"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2016.12.29",
+        "receiptNumber": "1-1-2016-1288613-22"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2017.03.27",
+        "receiptNumber": "4-1-2017-5046666-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2017.07.12",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2017.09.07",
+        "receiptNumber": "9-6-2017-0137264-19"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2017.09.14",
+        "receiptNumber": "9-5-2017-0647021-37"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2017.11.13",
+        "receiptNumber": "1-1-2017-1120303-24"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2017.11.13",
+        "receiptNumber": "1-1-2017-1120304-70"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2018.03.26",
+        "receiptNumber": "9-5-2018-0206290-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2018.05.18",
+        "receiptNumber": "1-1-2018-0489464-75"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2018.05.18",
+        "receiptNumber": "1-1-2018-0489442-71"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2018.09.21",
+        "receiptNumber": "9-5-2018-0653560-55"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.05.12",
+        "receiptNumber": "4-1-2025-5125830-64"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020160154671.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00405b05a9cd7107bea1e53e8c4eb51b6a1bcf3996a45ba1c089a4a4cddabd79389a348906f1c794db7620f52bc2fa34eee3e035dc952eacb8",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfbf0dbbe1c0c7bc5ec1b39a3939a6f5cea02436e9a1eeea42fe424bb56f095633ee91f00b4fb4d7ed126e62d08f8b66072597264296875d0b"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "미래창조과학부",
+      "rndDuration": "2014.09.01 ~ 2017.08.31",
+      "rndManagingInstituteName": "광운대학교",
+      "rndProjectName": "선도연구센터지원사업",
+      "rndSpecialInstituteName": "한국연구재단",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "플라즈마바이오과학연구센터",
+      "rndTaskNumber": "2010-0027963"
+    }
+  }
+}

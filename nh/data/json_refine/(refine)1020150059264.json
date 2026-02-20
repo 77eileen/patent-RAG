@@ -1,0 +1,838 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2015.04.27",
+      "applicationFlag": "",
+      "applicationNumber": "10-2015-0059264",
+      "claimCount": "2",
+      "examinerName": "이재정",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "항체에 덴드론이 접합된 면역접합체 및 이의 용도",
+      "inventionTitleEng": "Dendron conjugated antibody and use thereof",
+      "openDate": "2016.11.04",
+      "openNumber": "10-2016-0127601",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.04.13",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.11.04",
+      "publicationNumber": "",
+      "registerDate": "2022.10.31",
+      "registerNumber": "10-2462811-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/68"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 19/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/30"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명에 따른 면역접합체는 표면에 다수의 약물을 결합시킬 수 있는 덴드론과 표적 지향적인 항체를 접합함으로써 표적 지향적인 약물치료에 이용될 수 있으며, 특히 다수의 항암제가 결합된 친수성 덴드론을 항체에 접합시킴으로써, 종양 특이적으로 높은 농도의 약물을 전달하여 강력한 항암효과를 나타낼 수 있는 약학적 조성물을 제공한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020150059264",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20150427",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "중심에 티올(thiol)기를 갖는 덴드론(dendron) 및 항체를 포함하는 면역접합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 링커를 추가적으로 포함하는 것을 특징으로 하는 면역접합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 덴드론은 시스타민 중심을 갖는 덴드리머(dendrimer)의 환원에 의해 생성된 것임을 특징으로 하는 면역접합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 덴드리머는 폴리아미도아민(PAMAM) 덴드리머인 것을 특징으로 하는 면역접합체.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 항체는 종양 특이적 항체인 것을 특징으로 하는 면역접합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 항체는 폴리클로날 항체, 모노클로날 항체, 키메라 항체, 인간화된 항체, Fv-단편, Fab-단편, F(ab’)2-단편 및 scFv 단편으로 이루어진 군에서 선택된 어느 하나인 것을 특징으로 하는 면역접합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 항체의 중쇄 또는 경쇄의 불변영역 또는 가변영역에 존재하는 시스테인 잔기에 덴드론이 접합된 것을 특징으로 하는 면역접합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 항체가 중쇄 또는 경쇄의 불변영역 또는 가변영역의 하나 또는 그 이상의 잔기가 시스테인 잔기로 치환된 항체로서, 상기 치환된 시스테인 잔기에 덴드론이 접합된 것을 특징으로 하는 면역접합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 덴드론은 링커를 통해 항체에 접합된 것을 특징으로 하는 면역접합체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 덴드론에 항암약물이 접합되어 있는 것을 특징으로 하는 면역접합체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항의 면역접합체를 유효성분으로 포함하는 암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 기재된 면역접합체의 덴드론 표면에 약물을 운반하는 것이 특징인 표적지향적 약물 전달용 면역접합체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 시스타민 중심을 갖는 폴리아미도아민(PAMAM) 덴드리머를 환원시켜 중심에 티올(thiol)기를 갖는 덴드론을 형성하는 단계; 및\n(b) 상기 덴드론을 항체에 접합시키는 단계를 포함하는 면역접합체 제조방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20220915",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "시스타민 중심을 갖는 폴리아미도아민(PAMAM) 덴드리머의 말단 아미노기에 복수의 Cis-아코니틸 독소루비신(Cis-aconityl doxorubicin)이 결합되며, 상기 폴리아미도아민의 시스타민 중심의 환원에 의해 생성된 티올(thiol)기에 항-클라우딘-4 항체 내 시스테인 잔기가 직접 결합된 면역접합체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항의 면역접합체를 유효성분으로 포함하는 암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20150427",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "중심에 티올(thiol)기를 갖는 덴드론(dendron) 및 항체를 포함하는 면역접합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 링커를 추가적으로 포함하는 것을 특징으로 하는 면역접합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 덴드론은 시스타민 중심을 갖는 덴드리머(dendrimer)의 환원에 의해 생성된 것임을 특징으로 하는 면역접합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 덴드리머는 폴리아미도아민(PAMAM) 덴드리머인 것을 특징으로 하는 면역접합체.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 항체는 종양 특이적 항체인 것을 특징으로 하는 면역접합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 항체는 폴리클로날 항체, 모노클로날 항체, 키메라 항체, 인간화된 항체, Fv-단편, Fab-단편, F(ab’)2-단편 및 scFv 단편으로 이루어진 군에서 선택된 어느 하나인 것을 특징으로 하는 면역접합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 항체의 중쇄 또는 경쇄의 불변영역 또는 가변영역에 존재하는 시스테인 잔기에 덴드론이 접합된 것을 특징으로 하는 면역접합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 항체가 중쇄 또는 경쇄의 불변영역 또는 가변영역의 하나 또는 그 이상의 잔기가 시스테인 잔기로 치환된 항체로서, 상기 치환된 시스테인 잔기에 덴드론이 접합된 것을 특징으로 하는 면역접합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 덴드론은 링커를 통해 항체에 접합된 것을 특징으로 하는 면역접합체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 덴드론에 항암약물이 접합되어 있는 것을 특징으로 하는 면역접합체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항의 면역접합체를 유효성분으로 포함하는 암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 기재된 면역접합체의 덴드론 표면에 약물을 운반하는 것이 특징인 표적지향적 약물 전달용 면역접합체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 시스타민 중심을 갖는 폴리아미도아민(PAMAM) 덴드리머를 환원시켜 중심에 티올(thiol)기를 갖는 덴드론을 형성하는 단계; 및\n(b) 상기 덴드론을 항체에 접합시키는 단계를 포함하는 면역접합체 제조방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220915",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "시스타민 중심을 갖는 폴리아미도아민(PAMAM) 덴드리머의 말단 아미노기에 복수의 Cis-아코니틸 독소루비신(Cis-aconityl doxorubicin)이 결합되며, 상기 폴리아미도아민의 시스타민 중심의 환원에 의해 생성된 티올(thiol)기에 항-클라우딘-4 항체 내 시스테인 잔기가 직접 결합된 면역접합체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 면역접합체를 유효성분으로 포함하는 암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 13,
+      "after_claim_count": 13,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 구...",
+      "code": "120100400451",
+      "country": "대한민국",
+      "engName": "ABION Inc.",
+      "name": "에이비온 주식회사"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "인천광역시 남구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "KIM, Young Deug",
+        "name": "김영덕"
+      },
+      {
+        "address": "대구광역시 수성구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "PARK, Eun Ji",
+        "name": "박은지"
+      },
+      {
+        "address": "대구광역시 달서구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "KIM, Yejin",
+        "name": "김예진"
+      },
+      {
+        "address": "서울특별시 강남구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "SHIN, Young Kee",
+        "name": "신영기"
+      },
+      {
+        "address": "경기도 광명시 하안로 ***, *...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "CHOI, Jun Young",
+        "name": "최준영"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울 강남구 논현로 *** (역삼동) *층(시원국제특허법률사무소)",
+        "code": "920060009911",
+        "country": "대한민국",
+        "engName": "Kim, Seok-mahn",
+        "name": "김석만"
+      },
+      {
+        "address": "서울 강남구 논현로 *** (역삼동) *층(시원국제특허법률사무소)",
+        "code": "920020002215",
+        "country": "대한민국",
+        "engName": "Lee HeeSook",
+        "name": "이희숙"
+      }
+    ]
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Biomaterials, 2013, 34, 1613-1623",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Molecular Pharmaceutics, 2012, 9(3), 374-381",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2015.04.27",
+        "receiptNumber": "1-1-2015-0411173-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2015.04.29",
+        "receiptNumber": "1-1-2015-0420227-18"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2017.02.23",
+        "receiptNumber": "1-1-2017-0189000-11"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2017.02.27",
+        "receiptNumber": "1-5-2017-0027458-46"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2017.03.06",
+        "receiptNumber": "1-1-2017-0223782-84"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2018.03.02",
+        "receiptNumber": "1-1-2018-0216512-44"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2018.11.19",
+        "receiptNumber": "4-1-2018-5234318-91"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2020.04.13",
+        "receiptNumber": "1-1-2020-0383659-77"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2022.02.15",
+        "receiptNumber": "9-5-2022-0123969-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.04.15",
+        "receiptNumber": "1-1-2022-0405699-78"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.05.16",
+        "receiptNumber": "1-1-2022-0516015-40"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.06.15",
+        "receiptNumber": "1-1-2022-0626598-37"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.07.15",
+        "receiptNumber": "1-1-2022-0742191-57"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장 관련 안내서",
+        "receiptDate": "2022.07.18",
+        "receiptNumber": "1-5-2022-0106249-59"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.08.16",
+        "receiptNumber": "1-1-2022-0855628-24"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Acceptance of Extension of Designated Period",
+        "documentName": "지정기간연장승인서",
+        "receiptDate": "2022.08.23",
+        "receiptNumber": "9-5-2022-0635817-00"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.09.15",
+        "receiptNumber": "1-1-2022-0969648-22"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.09.15",
+        "receiptNumber": "1-1-2022-0969625-83"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.09.23",
+        "receiptNumber": "9-5-2022-0723167-17"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.12.27",
+        "receiptNumber": "4-1-2024-5375317-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.05.12",
+        "receiptNumber": "4-1-2025-5125843-57"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020150059264.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c936245fa297ff4c4975b419c4c1b27cc053796c07df028751e1681e33455fc6de68b9144d2a2f9a73eea3add5eeaec7c3d075c92ce8ac15760",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfa9c92a646c05de675bd6d239c825654e9fddf4e16331e288c073797bdf3e1299d52f07ac07637107b6419b5384e8a99905ae11d36f0db6ab"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "산업통상자원부",
+      "rndDuration": "2010.04.01 ~ 2015.05.31",
+      "rndManagingInstituteName": "에이비온 주식회사",
+      "rndProjectName": "산업원천 기술개발사업",
+      "rndSpecialInstituteName": "한국산업기술 평가관리원",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "항체 특성 분석 기반 기술 및 분자 재설계를 통한 항체 의약품(바이오베터 등) 개발 - 난소암 질환관련 단백질 타깃 항체신약의 개발",
+      "rndTaskNumber": "10035329"
+    }
+  }
+}

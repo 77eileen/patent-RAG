@@ -1,0 +1,329 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2015.05.21",
+      "applicationFlag": "",
+      "applicationNumber": "10-2015-0070816",
+      "claimCount": "3",
+      "examinerName": "배상진",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "피부의 화이트닝 케어 서비스 제공방법",
+      "inventionTitleEng": "Method for supplying whitening care service of skin",
+      "openDate": "",
+      "openNumber": "",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2015.05.21",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2016.10.07",
+      "publicationNumber": "",
+      "registerDate": "2016.09.30",
+      "registerNumber": "10-1663779-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2012.01.01)",
+        "ipcNumber": "G06Q 50/10"
+      },
+      {
+        "ipcDate": "(2023.01.01)",
+        "ipcNumber": "A61K 8/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 피부의 화이트닝 케어 서비스 제공방법에 관한 것으로, 서비스 제공서버가 사용자의 피부상태에 따른 문진표 및 사진 데이터를 가맹점 단말기로부터 제공받고, 화이트닝 표준지수 db에 저장되어 있는 기준표에 따라 화이트닝 케어액을 조정하여 가맹점 단말기에 전송함으로써, 사용자는 조정된 화이트닝 케어액과 함께 광조사기를 통해 피부에 대하여 전문적이고 체계적인 최적의 화이트닝 케어 서비스를 제공받을 수 있게 된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020150070816",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20150521",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 4,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "피부상태에 따른 피부의 화이트닝 케어 서비스를 제공하는 방법으로서,\n(a2) 가맹점 단말기(100)가 카메라(105)를 통해 촬영된 사용자의 화이트닝 케어 전후의 피부상태에 대한 사진 데이터를 데이터 입력부(120)를 통해 입력받는 단계(S520);\n(b) 상기 가맹점 단말기(100)가 상기 (a2) 단계를 통해 입력받은 사용자의 사진 데이터를 데이터 전송부(150)를 통해 서비스 제공서버(300)에 전송하는 단계(S530);\n(c) 서비스 제공서버(300)가 가맹점 단말기(100)를 통해 전송되는 사진 데이터를 바탕으로 하여, db 검색부(350)를 통해 화이트닝 표준지수 db(400)에 저장되어 있는 화이트닝 표준지수 기준표를 검색하는 단계(S540);\n(d) 서비스 제공서버(300)가 상기 가맹점 단말기(100)로부터 전달되는 사진 데이터와 상기 db 검색부(350)를 통해 검색된 화이트닝 표준지수를 대조한 후, 색차계 매칭부(360)를 통해 색차가 유사한 조건의 컬러를 매칭하는 단계(S550);\n(e) 서비스 제공서버(300)가 데이터 출력부(370)를 통해 상기 색차계 매칭부(360)를 통해 매칭된 컬러의 화이트닝을 개선할 수 있는 레벨의 화이트닝 케어액(170) 조건을 가맹점 단말기(100)에 전달하는 단계(S560); 및\n(f) 가맹점 단말기(100)가 상기 서비스 제공서버(300)로부터 수신된 화이트닝 케어액 조건을 참고하여, 사용자의 피부에 맞는 화이트닝 케어액(170)을 바른 후 광조사기(180)를 통해 화이트닝 케어 서비스를 제공받을 수 있도록 하는 단계(S570)를 포함하는 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서,\n상기 (a2) 단계 이전에는,\n(a1) 가맹점 단말기(100)가 사용자의 피부상태에 따르는 여드름성 피부, 민감성 피부, 지성 피부, 건성 피부 및 중성 피부인지의 여부에 대한 문진 데이터를 입력받음과 동시에 가맹점의 피부 전문가에 의해 사용자의 피부상태에 대한 검토의견을 데이터 입력부(120)를 통해 입력받는 단계(S510)를 더 포함하는 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항 또는 제 2항에 있어서,\n상기 화이트닝 케어액(170)은 사탕수수에서 추출한 계면활성액 85~95중량부와, 피부 미백제인 알파 비사보롤(alpha bisabolol) 5~15중량부가 혼합된 시술액인 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항 또는 제 2항에 있어서,\n상기 광조사기(180)는 사용자의 피부에 도포된 화이트닝 케어액(170)이 빠르게 침투되도록 600nm ~ 720nm 파장의 광 에너지를 사용자의 피부에 조사하는 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20160512",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 4,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "피부상태에 따른 피부의 화이트닝 케어 서비스를 제공하는 방법으로서,(a2) 가맹점 단말기(100)가 카메라(105)를 통해 촬영된 사용자의 화이트닝 케어 전후의 피부상태에 대한 사진 데이터를 데이터 입력부(120)를 통해 입력받는 단계(S520);(b) 상기 가맹점 단말기(100)가 상기 (a2) 단계를 통해 입력받은 사용자의 사진 데이터를 데이터 전송부(150)를 통해 서비스 제공서버(300)에 전송하는 단계(S530);(c) 서비스 제공서버(300)가 가맹점 단말기(100)를 통해 전송되는 사진 데이터를 바탕으로 하여, db 검색부(350)를 통해 화이트닝 표준지수 db(400)에 저장되어 있는 화이트닝 표준지수 기준표를 검색하는 단계(S540);(d) 서비스 제공서버(300)가 상기 가맹점 단말기(100)로부터 전달되는 사진 데이터와 상기 db 검색부(350)를 통해 검색된 화이트닝 표준지수를 대조한 후, 색차계 매칭부(360)를 통해 색차가 유사한 조건의 컬러를 매칭하는 단계(S550);(e) 서비스 제공서버(300)가 데이터 출력부(370)를 통해 상기 색차계 매칭부(360)를 통해 매칭된 컬러의 화이트닝을 개선할 수 있는 레벨의 화이트닝 케어액(170) 조건을 가맹점 단말기(100)에 전달하는 단계(S560); 및(f) 가맹점 단말기(100)가 상기 서비스 제공서버(300)로부터 수신된 화이트닝 케어액 조건을 참고하여, 사용자의 피부에 맞는 화이트닝 케어액(170)을 바른 후 광조사기(180)를 통해 화이트닝 케어 서비스를 제공받을 수 있도록 하는 단계(S570)를 포함하며, 상기 화이트닝 케어액(170)은 사탕수수에서 추출한 계면활성액 85~95중량부와, 피부 미백제인 알파 비사보롤(alpha bisabolol) 5~15중량부가 혼합된 시술액인 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1항에 있어서,상기 (a2) 단계 이전에는,(a1) 가맹점 단말기(100)가 사용자의 피부상태에 따르는 여드름성 피부, 민감성 피부, 지성 피부, 건성 피부 및 중성 피부인지의 여부에 대한 문진 데이터를 입력받음과 동시에 가맹점의 피부 전문가에 의해 사용자의 피부상태에 대한 검토의견을 데이터 입력부(120)를 통해 입력받는 단계(S510)를 더 포함하는 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "피부상태에 따른 피부의 화이트닝 케어 서비스를 제공하는 방법으로서,(a2) 가맹점 단말기(100)가 카메라(105)를 통해 촬영된 사용자의 화이트닝 케어 전후의 피부상태에 대한 사진 데이터를 데이터 입력부(120)를 통해 입력받는 단계(S520);(b) 상기 가맹점 단말기(100)가 상기 (a2) 단계를 통해 입력받은 사용자의 사진 데이터를 데이터 전송부(150)를 통해 서비스 제공서버(300)에 전송하는 단계(S530);(c) 서비스 제공서버(300)가 가맹점 단말기(100)를 통해 전송되는 사진 데이터를 바탕으로 하여, db 검색부(350)를 통해 화이트닝 표준지수 db(400)에 저장되어 있는 화이트닝 표준지수 기준표를 검색하는 단계(S540);(d) 서비스 제공서버(300)가 상기 가맹점 단말기(100)로부터 전달되는 사진 데이터와 상기 db 검색부(350)를 통해 검색된 화이트닝 표준지수를 대조한 후, 색차계 매칭부(360)를 통해 색차가 유사한 조건의 컬러를 매칭하는 단계(S550);(e) 서비스 제공서버(300)가 데이터 출력부(370)를 통해 상기 색차계 매칭부(360)를 통해 매칭된 컬러의 화이트닝을 개선할 수 있는 레벨의 화이트닝 케어액(170) 조건을 가맹점 단말기(100)에 전달하는 단계(S560); 및(f) 가맹점 단말기(100)가 상기 서비스 제공서버(300)로부터 수신된 화이트닝 케어액 조건을 참고하여, 사용자의 피부에 맞는 화이트닝 케어액(170)을 바른 후 광조사기(180)를 통해 화이트닝 케어 서비스를 제공받을 수 있도록 하는 단계(S570)를 포함하며, 상기 광조사기(180)는 사용자의 피부에 도포된 화이트닝 케어액(170)이 빠르게 침투되도록 600nm ~ 720nm 파장의 광 에너지를 사용자의 피부에 조사하는 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20150521",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "피부상태에 따른 피부의 화이트닝 케어 서비스를 제공하는 방법으로서,\n(a2) 가맹점 단말기(100)가 카메라(105)를 통해 촬영된 사용자의 화이트닝 케어 전후의 피부상태에 대한 사진 데이터를 데이터 입력부(120)를 통해 입력받는 단계(S520);\n(b) 상기 가맹점 단말기(100)가 상기 (a2) 단계를 통해 입력받은 사용자의 사진 데이터를 데이터 전송부(150)를 통해 서비스 제공서버(300)에 전송하는 단계(S530);\n(c) 서비스 제공서버(300)가 가맹점 단말기(100)를 통해 전송되는 사진 데이터를 바탕으로 하여, db 검색부(350)를 통해 화이트닝 표준지수 db(400)에 저장되어 있는 화이트닝 표준지수 기준표를 검색하는 단계(S540);\n(d) 서비스 제공서버(300)가 상기 가맹점 단말기(100)로부터 전달되는 사진 데이터와 상기 db 검색부(350)를 통해 검색된 화이트닝 표준지수를 대조한 후, 색차계 매칭부(360)를 통해 색차가 유사한 조건의 컬러를 매칭하는 단계(S550);\n(e) 서비스 제공서버(300)가 데이터 출력부(370)를 통해 상기 색차계 매칭부(360)를 통해 매칭된 컬러의 화이트닝을 개선할 수 있는 레벨의 화이트닝 케어액(170) 조건을 가맹점 단말기(100)에 전달하는 단계(S560); 및\n(f) 가맹점 단말기(100)가 상기 서비스 제공서버(300)로부터 수신된 화이트닝 케어액 조건을 참고하여, 사용자의 피부에 맞는 화이트닝 케어액(170)을 바른 후 광조사기(180)를 통해 화이트닝 케어 서비스를 제공받을 수 있도록 하는 단계(S570)를 포함하는 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서,\n상기 (a2) 단계 이전에는,\n(a1) 가맹점 단말기(100)가 사용자의 피부상태에 따르는 여드름성 피부, 민감성 피부, 지성 피부, 건성 피부 및 중성 피부인지의 여부에 대한 문진 데이터를 입력받음과 동시에 가맹점의 피부 전문가에 의해 사용자의 피부상태에 대한 검토의견을 데이터 입력부(120)를 통해 입력받는 단계(S510)를 더 포함하는 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항 또는 제 2항에 있어서,\n상기 화이트닝 케어액(170)은 사탕수수에서 추출한 계면활성액 85~95중량부와, 피부 미백제인 알파 비사보롤(alpha bisabolol) 5~15중량부가 혼합된 시술액인 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항 또는 제 2항에 있어서,\n상기 광조사기(180)는 사용자의 피부에 도포된 화이트닝 케어액(170)이 빠르게 침투되도록 600nm ~ 720nm 파장의 광 에너지를 사용자의 피부에 조사하는 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20160512",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 3,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "피부상태에 따른 피부의 화이트닝 케어 서비스를 제공하는 방법으로서,\n(a2) 가맹점 단말기(100)가 카메라(105)를 통해 촬영된 사용자의 화이트닝 케어 전후의 피부상태에 대한 사진 데이터를 데이터 입력부(120)를 통해 입력받는 단계(S520);\n(b) 상기 가맹점 단말기(100)가 상기 (a2) 단계를 통해 입력받은 사용자의 사진 데이터를 데이터 전송부(150)를 통해 서비스 제공서버(300)에 전송하는 단계(S530);\n(c) 서비스 제공서버(300)가 가맹점 단말기(100)를 통해 전송되는 사진 데이터를 바탕으로 하여, db 검색부(350)를 통해 화이트닝 표준지수 db(400)에 저장되어 있는 화이트닝 표준지수 기준표를 검색하는 단계(S540);\n(d) 서비스 제공서버(300)가 상기 가맹점 단말기(100)로부터 전달되는 사진 데이터와 상기 db 검색부(350)를 통해 검색된 화이트닝 표준지수를 대조한 후, 색차계 매칭부(360)를 통해 색차가 유사한 조건의 컬러를 매칭하는 단계(S550);\n(e) 서비스 제공서버(300)가 데이터 출력부(370)를 통해 상기 색차계 매칭부(360)를 통해 매칭된 컬러의 화이트닝을 개선할 수 있는 레벨의 화이트닝 케어액(170) 조건을 가맹점 단말기(100)에 전달하는 단계(S560); 및\n(f) 가맹점 단말기(100)가 상기 서비스 제공서버(300)로부터 수신된 화이트닝 케어액 조건을 참고하여, 사용자의 피부에 맞는 화이트닝 케어액(170)을 바른 후 광조사기(180)를 통해 화이트닝 케어 서비스를 제공받을 수 있도록 하는 단계(S570)를 포함하며, \n상기 화이트닝 케어액(170)은 사탕수수에서 추출한 계면활성액 85~95중량부와, 피부 미백제인 알파 비사보롤(alpha bisabolol) 5~15중량부가 혼합된 시술액인 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "피부상태에 따른 피부의 화이트닝 케어 서비스를 제공하는 방법으로서,\n(a2) 가맹점 단말기(100)가 카메라(105)를 통해 촬영된 사용자의 화이트닝 케어 전후의 피부상태에 대한 사진 데이터를 데이터 입력부(120)를 통해 입력받는 단계(S520);\n(b) 상기 가맹점 단말기(100)가 상기 (a2) 단계를 통해 입력받은 사용자의 사진 데이터를 데이터 전송부(150)를 통해 서비스 제공서버(300)에 전송하는 단계(S530);\n(c) 서비스 제공서버(300)가 가맹점 단말기(100)를 통해 전송되는 사진 데이터를 바탕으로 하여, db 검색부(350)를 통해 화이트닝 표준지수 db(400)에 저장되어 있는 화이트닝 표준지수 기준표를 검색하는 단계(S540);\n(d) 서비스 제공서버(300)가 상기 가맹점 단말기(100)로부터 전달되는 사진 데이터와 상기 db 검색부(350)를 통해 검색된 화이트닝 표준지수를 대조한 후, 색차계 매칭부(360)를 통해 색차가 유사한 조건의 컬러를 매칭하는 단계(S550);\n(e) 서비스 제공서버(300)가 데이터 출력부(370)를 통해 상기 색차계 매칭부(360)를 통해 매칭된 컬러의 화이트닝을 개선할 수 있는 레벨의 화이트닝 케어액(170) 조건을 가맹점 단말기(100)에 전달하는 단계(S560); 및\n(f) 가맹점 단말기(100)가 상기 서비스 제공서버(300)로부터 수신된 화이트닝 케어액 조건을 참고하여, 사용자의 피부에 맞는 화이트닝 케어액(170)을 바른 후 광조사기(180)를 통해 화이트닝 케어 서비스를 제공받을 수 있도록 하는 단계(S570)를 포함하며, \n상기 광조사기(180)는 사용자의 피부에 도포된 화이트닝 케어액(170)이 빠르게 침투되도록 600nm ~ 720nm 파장의 광 에너지를 사용자의 피부에 조사하는 것을 특징으로 하는 피부의 화이트닝 케어 서비스 제공방법.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 4,
+      "after_claim_count": 3,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "경기도 성남시 분당구...",
+      "code": "120090150155",
+      "country": "대한민국",
+      "engName": "WELLMADEINTERNATIONAL CO.,LTD.",
+      "name": "주식회사 웰메이드인터내셔널"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "경기도 성남시 분당구...",
+      "code": "420080351717",
+      "country": "대한민국",
+      "engName": "PARK BYEONG HUN",
+      "name": "박병훈"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 강남대로 ***, ****호(두산베어스텔)(특허법인 인터브레인)",
+      "code": "919980001499",
+      "country": "대한민국",
+      "engName": "Kim Yoon Bai",
+      "name": "김윤배"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020120092889 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "KR1020130107848 A",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2015.05.21",
+        "receiptNumber": "1-1-2015-0487555-71"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2015.06.12",
+        "receiptNumber": "1-1-2015-0566151-15"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2016.03.14",
+        "receiptNumber": "9-5-2016-0191892-14"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.05.12",
+        "receiptNumber": "1-1-2016-0454204-33"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2016.05.12",
+        "receiptNumber": "1-1-2016-0454214-90"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2016.09.19",
+        "receiptNumber": "9-5-2016-0667675-00"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020150070816.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e0047c5be9803535dd33fdffcd1622f5528d2ddffc819c3213cb0946af2dbc6640747f901201f8e9b0fd2977a8bbace750625df83ef8f08bbc6",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf5594b24edb54b8461c3447baae60b5ab892c798316a26822f839bc6f6afee06b5af53f1e6ac2fe320a1b9e04c85333b63c5216c6c9fb9178"
+  },
+  "rndInfoArray": ""
+}

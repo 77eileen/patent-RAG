@@ -1,0 +1,752 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2016.09.28",
+      "applicationFlag": "",
+      "applicationNumber": "10-2016-0124457",
+      "claimCount": "13",
+      "examinerName": "이현지",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "방사선 조사된 말초혈액단핵구를 이용한 고효율 자연살상세포의 제조방법 및 이를 이용한 항암 면역 세포치료제 조성물",
+      "inventionTitleEng": "Method for preparing Natural Killer cells using  irradiated PBMCs, and Anti-cancer cellular  immunotherapeutic agent comprising the NK cells",
+      "openDate": "2018.04.05",
+      "openNumber": "10-2018-0034795",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2016.09.28",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2018.07.19",
+      "publicationNumber": "",
+      "registerDate": "2018.06.05",
+      "registerNumber": "10-1866827-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "C12N 13/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/735"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 35/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 방사선이 조사된 말초혈액단핵구을 이용한 고효율 자연살상세포의 제조방법에 관한 것으로, 더 구체적으로는 방사선이 조사된 말초혈액단핵구(PBMC)와 CD16 항체의 병용에 의해 고효율로 활성화된 NK 세포의 증식하는 방법, 및 이에 의해 제조된 자연살상세포(NK cell)을 포함하는 항암 세포치료제 조성물에 관한 것이다.본 발명에 따르면, 안전성이 문제되는 종양세포 또는 유전적으로 변형된 세포를 지지세포로 사용하지 않고 방사선이 조사된 말초혈액단핵구(PBMC)와 CD16 항체의 병용에 의해 고효율로 활성화된 NK 세포를 대량으로 증식 방법을 제공하는 것이다. 이렇게 대량으로 증식된 고순도 및 세포독성이 높은 NK 세포는 암면역 세포치료제 조성물의 유효성분으로 이용될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020160124457",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20160928",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 14,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "지지세포를 이용한 활성화된 자연살상세포의 제조방법에 있어서, 방사선이 조사된 말초혈액단핵구(PBMC)를 지지세포로 이용하고 CD16 항체를 처리하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 다음 단계들을 포함하는 것을 특징으로 하는 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법:\na) 인간의 말초혈액으로 부터 말초혈액단핵세포(PBMC)를 분리하는 단계;\nb) 상기 분리된 말초혈액단세포에서 자연살상세포(NK cell)를 분리하는 단계;\nc) 상기 자연살상세포 분리후 남은 말초혈액단세포(PBMC)에 방사선을 조사하여 지지세포를 준비하는 단계; 및\nd) 상기 분리된 자연살상세포(NK cell)와 준비된 지지세포를 CD16 항체가 고형화된 배양용기에 넣고 배양하는 단계.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 b) 단계에서 분리된 말초혈액단핵세포로 부터 magnetic microbead가 부착된 항체(CD56, CD3, CD14, CD19 등)를 이용하여 칼럼을 통해 자연살상세포(NK cell)를 분리하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 c) 단계에서 NK 세포 분리 후 남은 말초혈액단핵세포(PBMC)를 생리식염수 또는 배지에 잘 혼합하여 23 ~ 27 Gy의 방사선을 조사하여 지지세포를 준비하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 d) 단계에서 분리된 NK 세포에 항-NKG2D 및 항-2B4 항체를 처리하는 단계를 더 포함하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)는 T 세포 활성을 억제하고 NKG2D 리간드 및 CD48 발현을 증가시키는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 NK 세포의 증식이 촉진되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, CD16, NKG2D 및 2B4 활성화 수용체의 시너지 조합 (synergistic combinations)에 의해 NK 세포의 증식이 강하게 유도되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 NK 세포의 활성화 수용체의 발현이 증가되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포에서 CD107a가 높게 발현되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포는 표적종양세포의 자극에 의해 IFN-γ 분비를 강력히 증가시키는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포는 표적종양세포에 대한 항종양 세포독성을 강하게 증가시키는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포는 암 유발 마우스 모델에서 항종양효과를 강하게 유도하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 따른 제조방법으로 제조된 활성화된 자연살상세포(NK cell)를 유효성분으로 함유하는 항암 면역 세포치료제 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20180511",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 14,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "지지세포를 이용한 활성화된 자연살상세포의 제조방법에 있어서, 23 ~ 27 Gy의 방사선이 조사된 말초혈액단핵구(PBMC)를 지지세포로 이용하고 항-CD16 항체를 처리하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 다음 단계들을 포함하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법:a) 인간의 말초혈액으로 부터 말초혈액단핵구(PBMC)를 분리하는 단계;b) 상기 분리된 말초혈액단핵구에서 자연살상세포(NK cell)를 분리하는 단계;c) 상기 자연살상세포 분리후 남은 말초혈액단핵구(PBMC)에 방사선을 조사하여 지지세포를 준비하는 단계; 및d) 상기 분리된 자연살상세포(NK cell)와 준비된 지지세포를 항-CD16 항체가 고형화된 배양용기에 넣고 배양하는 단계.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 b) 단계에서 분리된 말초혈액단핵구로 부터 마그네틱 미세구슬(magnetic microbead)이 부착된 항체를 이용하여 칼럼을 통해 자연살상세포(NK cell)를 분리하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 c) 단계에서 NK 세포 분리 후 남은 말초혈액단핵구(PBMC)를 생리식염수 또는 배지에 잘 혼합하여 23 ~ 27 Gy의 방사선을 조사하여 지지세포를 준비하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 d) 단계에서 분리된 NK 세포에 항-NKG2D 및 항-2B4 항체를 처리하는 단계를 더 포함하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)는 T 세포 활성을 억제하고 NKG2D 리간드 및 CD48 발현을 증가시키는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 NK 세포의 증식이 촉진되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, CD16, NKG2D 및 2B4 활성화 수용체의 시너지 조합 (synergistic combinations)에 의해 NK 세포의 증식이 강하게 유도되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 NK 세포의 활성화 수용체의 발현이 증가되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포에서 CD107a가 높게 발현되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포는 표적종양세포의 자극에 의해 IFN-γ 분비를 강력히 증가시키는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포는 표적종양세포에 대한 항종양 세포독성을 강하게 증가시키는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포는 암 유발 마우스 모델에서 항종양효과를 강하게 유도하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20160928",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 14,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "지지세포를 이용한 활성화된 자연살상세포의 제조방법에 있어서, 방사선이 조사된 말초혈액단핵구(PBMC)를 지지세포로 이용하고 CD16 항체를 처리하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 다음 단계들을 포함하는 것을 특징으로 하는 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법:\na) 인간의 말초혈액으로 부터 말초혈액단핵세포(PBMC)를 분리하는 단계;\nb) 상기 분리된 말초혈액단세포에서 자연살상세포(NK cell)를 분리하는 단계;\nc) 상기 자연살상세포 분리후 남은 말초혈액단세포(PBMC)에 방사선을 조사하여 지지세포를 준비하는 단계; 및\nd) 상기 분리된 자연살상세포(NK cell)와 준비된 지지세포를 CD16 항체가 고형화된 배양용기에 넣고 배양하는 단계.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 b) 단계에서 분리된 말초혈액단핵세포로 부터 magnetic microbead가 부착된 항체(CD56, CD3, CD14, CD19 등)를 이용하여 칼럼을 통해 자연살상세포(NK cell)를 분리하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 c) 단계에서 NK 세포 분리 후 남은 말초혈액단핵세포(PBMC)를 생리식염수 또는 배지에 잘 혼합하여 23 ~ 27 Gy의 방사선을 조사하여 지지세포를 준비하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 d) 단계에서 분리된 NK 세포에 항-NKG2D 및 항-2B4 항체를 처리하는 단계를 더 포함하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)는 T 세포 활성을 억제하고 NKG2D 리간드 및 CD48 발현을 증가시키는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 NK 세포의 증식이 촉진되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, CD16, NKG2D 및 2B4 활성화 수용체의 시너지 조합 (synergistic combinations)에 의해 NK 세포의 증식이 강하게 유도되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 NK 세포의 활성화 수용체의 발현이 증가되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포에서 CD107a가 높게 발현되는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포는 표적종양세포의 자극에 의해 IFN-γ 분비를 강력히 증가시키는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포는 표적종양세포에 대한 항종양 세포독성을 강하게 증가시키는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 방사선이 조사된 말초혈액단핵구(PBMC)와 항-CD16 항체의 병용에 의해 증식된 NK 세포는 암 유발 마우스 모델에서 항종양효과를 강하게 유도하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 따른 제조방법으로 제조된 활성화된 자연살상세포(NK cell)를 유효성분으로 함유하는 항암 면역 세포치료제 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20180213",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "지지세포를 이용한 활성화된 자연살상세포의 제조방법에 있어서, 23 ~ 27 Gy의 방사선이 조사된 말초혈액단핵구(PBMC)를 지지세포로 이용하고 항-CD16 항체를 처리하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 다음 단계들을 포함하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법:\na) 인간의 말초혈액으로 부터 말초혈액단핵구(PBMC)를 분리하는 단계;\nb) 상기 분리된 말초혈액단핵구에서 자연살상세포(NK cell)를 분리하는 단계;\nc) 상기 자연살상세포 분리후 남은 말초혈액단핵구(PBMC)에 방사선을 조사하여 지지세포를 준비하는 단계; 및\nd) 상기 분리된 자연살상세포(NK cell)와 준비된 지지세포를 항-CD16 항체가 고형화된 배양용기에 넣고 배양하는 단계.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 상기 b) 단계에서 분리된 말초혈액단핵구로 부터 마그네틱 미세구슬(magnetic microbead)이 부착된 항체를 이용하여 칼럼을 통해 자연살상세포(NK cell)를 분리하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 상기 c) 단계에서 NK 세포 분리 후 남은 말초혈액단핵구(PBMC)를 생리식염수 또는 배지에 잘 혼합하여 23 ~ 27 Gy의 방사선을 조사하여 지지세포를 준비하는 것을 특징으로 하는 활성화된 자연살상세포(NK cell)의 제조방법.",
+            "refers_to": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20180511",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 14,
+      "after_claim_count": 1,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 노원구...",
+      "code": "220070148654",
+      "country": "대한민국",
+      "engName": "KOREA INSTITUTE OF RADIOLOGICAL & MEDICAL SCIENCES",
+      "name": "한국원자력의학원"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "부산광역시 해운대구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "PARK, You-Soo",
+        "name": "박유수"
+      },
+      {
+        "address": "부산광역시 해운대구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "SON, Cheol-Hun",
+        "name": "손철훈"
+      },
+      {
+        "address": "서울특별시 송파구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "YANG, Kwang Mo",
+        "name": "양광모"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 관악구 남부순환로 ****, ***호 제니스국제특허법률사무소 (봉천동, 청동빌딩)",
+      "code": "919990002518",
+      "country": "대한민국",
+      "engName": "LEE, MOON SUP",
+      "name": "이문섭"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "J Immunother. 2013, 36(7):373-381.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Cancer Res. 2013, 73(8):2598-2606.",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2016.09.28",
+        "receiptNumber": "1-1-2016-0938460-23"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2017.11.21",
+        "receiptNumber": "9-5-2017-0815238-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2018.01.19",
+        "receiptNumber": "1-1-2018-0067558-82"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2018.02.13",
+        "receiptNumber": "1-1-2018-0154989-65"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2018.02.13",
+        "receiptNumber": "1-1-2018-0154990-12"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2018.05.04",
+        "receiptNumber": "9-5-2018-0309465-91"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2018.05.11",
+        "receiptNumber": "1-1-2018-0463919-49"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2018.05.11",
+        "receiptNumber": "1-1-2018-0463918-04"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2018.05.28",
+        "receiptNumber": "9-5-2018-0356406-09"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.04.23",
+        "receiptNumber": "4-1-2019-0027536-33"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020160124457.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00334d2cf9dbd5103ad51dbe133b96a60b127dba82c9456b5ef81b05c80342ed522f7a1de1509a83e76640194f0069d706f3ec7c8c5c580343",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf562f3635c8c9adb893338acc08a774f7df94a93428781692f502bc66755ae40f6316b80259fe3d1ae83ae04346495171c0c907890e7a7a49"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "미래창조과학부",
+      "rndDuration": "2016.01.01 ~ 2016.12.31",
+      "rndManagingInstituteName": "동남권원자력의학원",
+      "rndProjectName": "일반사업",
+      "rndSpecialInstituteName": "미래창조과학부",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "방사선의학 임상적용 및 지역협력 기반구축사업(제 1 세부 : 방사선의학 임상중개연구 활성화 및 최신 암치료 기술 개발)",
+      "rndTaskNumber": "50595-2016"
+    }
+  }
+}

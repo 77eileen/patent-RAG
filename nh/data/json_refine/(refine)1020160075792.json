@@ -1,0 +1,735 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2016.06.17",
+      "applicationFlag": "",
+      "applicationNumber": "10-2016-0075792",
+      "claimCount": "15",
+      "examinerName": "윤동준",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "조각자 가시 추출물을 함유하는 전립선암 전이 억제용 조성물",
+      "inventionTitleEng": "A COMPOSITION FOR INHIBITING PROSTATE CANCER  METASTASIS COMPRISING EXTRACT OF GLEDITSIA SINENSIS  THORN",
+      "openDate": "",
+      "openNumber": "",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2016.06.17",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2017.11.03",
+      "publicationNumber": "",
+      "registerDate": "2017.10.27",
+      "registerNumber": "10-1793379-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 36/48"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A23L 1/30"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 조각자 가시(Gleditsia sinensis thorn; GST) 추출물을 함유하는 전립선암(Prostate cancer) 전이(Metastasis) 억제용 조성물에 관한 것으로, 더욱 상세하게는 조각자 가시의 물 추출물을 유효성분으로 적용함으로써, α2β1 인테그린(α2β1 integrin)의 발현을 선택적으로 저해하여 전립선 암세포 전이의 중요한 한 과정인 콜라겐(Collagen) 대응 부착(Adhesion) 및 이동(Migration) 과정을 특이적으로 약화시킴에 따라 세포독성을 유발하지 않는 낮은 투여량으로도 전립선 암세포의 전이를 효과적으로 억제할 수 있는, 조각자 가시 추출물을 이용한 전립선암 전이 억제용 조성물, 이를 포함하는 전립선암 전이 억제용 항암제 조성물, 및 전립선암 전이의 예방 및 개선용 식품 조성물에 관한 것이다."
+    }
+  },
+  "claims": {
+    "total_amendments": 1,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "조각자 가시(Gleditsia sinensis thorn; GST) 추출물을 유효성분으로 함유하는 전립선암(Prostate cancer) 전이(Metastasis) 억제용 조성물로서,콜라겐에 대한 수용체 분자인 α2β1 인테그린(α2β1 integrin)의 발현을 선택적으로 저해하여, 전이 대상세포의 세포외 기질(Extracellular matrix; ECM)인 콜라겐(Collagen)에 의해 매개되는 전립선 암세포의 부착(Adhesion) 및 이동(Migration)을 특이적으로 약화시킴에 따라, 전립선 암세포의 전이(Metastasis)를 억제하는 활성을 갖는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,상기 조각자 가시 추출물은 조각자 가시의 물 추출물(Water extract of GST; WEGST)인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,상기 조각자 가시 추출물은 조각자 가시의 열수 추출물인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서,상기 조각자 가시 추출물은 조각자 가시를 열수 추출하고, 상등액을 여과 및 농축한 후, 동결건조하여 수득되는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,상기 전립선 암세포는 PC3 세포인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서,상기 조각자 가시 추출물은 PC3 전립선 암세포의 콜라겐-매개 세포내 FAK(Focal adhesion kinase) 신호를 억제하는 활성을 갖는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서,상기 세포내 FAK 신호는 FAK의 인산화반응(Phosphorylation)인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,상기 콜라겐은 콜라겐 I(Collagen I)인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,상기 전립선암 전이 억제용 조성물은 조각자 가시의 물 추출물(WEGST)을 함유하는 것이며, 전립선암 환자에게 경구 투여(Oral administration)되는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서,상기 경구 투여되는 전립선암 전이 억제용 조성물은 조각자 가시 추출물을 30~200 μg/mL의 농도로 함유하는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서,상기 전립선암 전이 억제용 조성물은 세포에 대한 비-독성 수준(Non-toxicological level)으로 경구 투여되는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서,상기 경구 투여되는 전립선암 전이 억제용 조성물은 조각자 가시 추출물을 50 μg/mL의 농도로 함유하는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서,상기 경구 투여는 조각자 가시의 물 추출물(WEGST)을 25 mg/kg/day의 양으로 경구 투여하는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 따른 조성물을 포함하는,전립선암 전이 억제용 항암제 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 따른 조성물을 포함하는,전립선암 전이의 예방 및 개선용 식품 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "조각자 가시(Gleditsia sinensis thorn; GST) 추출물을 유효성분으로 함유하는 전립선암(Prostate cancer) 전이(Metastasis) 억제용 조성물로서,콜라겐에 대한 수용체 분자인 α2β1 인테그린(α2β1 integrin)의 발현을 선택적으로 저해하여, 전이 대상세포의 세포외 기질(Extracellular matrix; ECM)인 콜라겐(Collagen)에 의해 매개되는 전립선 암세포의 부착(Adhesion) 및 이동(Migration)을 특이적으로 약화시킴에 따라, 전립선 암세포의 전이(Metastasis)를 억제하는 활성을 갖는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,상기 조각자 가시 추출물은 조각자 가시의 물 추출물(Water extract of GST; WEGST)인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,상기 조각자 가시 추출물은 조각자 가시의 열수 추출물인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서,상기 조각자 가시 추출물은 조각자 가시를 열수 추출하고, 상등액을 여과 및 농축한 후, 동결건조하여 수득되는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,상기 전립선 암세포는 PC3 세포인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서,상기 조각자 가시 추출물은 PC3 전립선 암세포의 콜라겐-매개 세포내 FAK(Focal adhesion kinase) 신호를 억제하는 활성을 갖는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서,상기 세포내 FAK 신호는 FAK의 인산화반응(Phosphorylation)인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,상기 콜라겐은 콜라겐 I(Collagen I)인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,상기 전립선암 전이 억제용 조성물은 조각자 가시의 물 추출물(WEGST)을 함유하는 것이며, 전립선암 환자에게 경구 투여(Oral administration)되는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서,상기 경구 투여되는 전립선암 전이 억제용 조성물은 조각자 가시 추출물을 30~200 μg/mL의 농도로 함유하는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서,상기 전립선암 전이 억제용 조성물은 세포에 대한 비-독성 수준(Non-toxicological level)으로 경구 투여되는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서,상기 경구 투여되는 전립선암 전이 억제용 조성물은 조각자 가시 추출물을 50 μg/mL의 농도로 함유하는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서,상기 경구 투여는 조각자 가시의 물 추출물(WEGST)을 25 mg/kg/day의 양으로 경구 투여하는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 따른 조성물을 포함하는,전립선암 전이 억제용 항암제 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 따른 조성물을 포함하는,전립선암 전이의 예방 및 개선용 식품 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "",
+        "document_name": "원본 (변동이력 없음)",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "조각자 가시(Gleditsia sinensis thorn; GST) 추출물을 유효성분으로 함유하는 전립선암(Prostate cancer) 전이(Metastasis) 억제용 조성물로서,콜라겐에 대한 수용체 분자인 α2β1 인테그린(α2β1 integrin)의 발현을 선택적으로 저해하여, 전이 대상세포의 세포외 기질(Extracellular matrix; ECM)인 콜라겐(Collagen)에 의해 매개되는 전립선 암세포의 부착(Adhesion) 및 이동(Migration)을 특이적으로 약화시킴에 따라, 전립선 암세포의 전이(Metastasis)를 억제하는 활성을 갖는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,상기 조각자 가시 추출물은 조각자 가시의 물 추출물(Water extract of GST; WEGST)인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,상기 조각자 가시 추출물은 조각자 가시의 열수 추출물인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서,상기 조각자 가시 추출물은 조각자 가시를 열수 추출하고, 상등액을 여과 및 농축한 후, 동결건조하여 수득되는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,상기 전립선 암세포는 PC3 세포인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서,상기 조각자 가시 추출물은 PC3 전립선 암세포의 콜라겐-매개 세포내 FAK(Focal adhesion kinase) 신호를 억제하는 활성을 갖는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서,상기 세포내 FAK 신호는 FAK의 인산화반응(Phosphorylation)인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,상기 콜라겐은 콜라겐 I(Collagen I)인 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,상기 전립선암 전이 억제용 조성물은 조각자 가시의 물 추출물(WEGST)을 함유하는 것이며, 전립선암 환자에게 경구 투여(Oral administration)되는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서,상기 경구 투여되는 전립선암 전이 억제용 조성물은 조각자 가시 추출물을 30~200 μg/mL의 농도로 함유하는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서,상기 전립선암 전이 억제용 조성물은 세포에 대한 비-독성 수준(Non-toxicological level)으로 경구 투여되는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서,상기 경구 투여되는 전립선암 전이 억제용 조성물은 조각자 가시 추출물을 50 μg/mL의 농도로 함유하는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서,상기 경구 투여는 조각자 가시의 물 추출물(WEGST)을 25 mg/kg/day의 양으로 경구 투여하는 것을 특징으로 하는,전립선암 전이 억제용 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 따른 조성물을 포함하는,전립선암 전이 억제용 항암제 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 따른 조성물을 포함하는,전립선암 전이의 예방 및 개선용 식품 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 15,
+      "after_claim_count": 15,
+      "total_versions": 1
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "인천광역시 연수구...",
+      "code": "220040217296",
+      "country": "대한민국",
+      "engName": "INCHEON NATIONAL UNIVERSITY RESEARCH ＆ BUSINESS FOUNDATION",
+      "name": "인천대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "인천광역시 연수구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Seung Ho Lee",
+        "name": "이승호"
+      },
+      {
+        "address": "인천광역시 연수구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "Sujin Ryu",
+        "name": "류수진"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 구로구 디지털로**길 *** (구로동) ****호(거번국제특허법률사무소)",
+      "code": "920100009420",
+      "country": "대한민국",
+      "engName": "cha, Joon Yong",
+      "name": "차준용"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "논문1(인천대학교,2015)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "논문2(동신대학교,2011)",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2016.06.17",
+        "receiptNumber": "1-1-2016-0585445-68"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2016.08.11",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2016.11.10",
+        "receiptNumber": "9-1-2016-0046934-94"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2017.04.28",
+        "receiptNumber": "9-5-2017-0306172-69"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2017.06.05",
+        "receiptNumber": "1-1-2017-0536959-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[출원서 등 보정(보완)]보정서",
+        "receiptDate": "2017.06.05",
+        "receiptNumber": "1-1-2017-0536957-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[공지예외적용 보완 증명서류]서류제출서",
+        "receiptDate": "2017.06.05",
+        "receiptNumber": "1-1-2017-0536958-75"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2017.10.25",
+        "receiptNumber": "9-5-2017-0739743-63"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2019.10.14",
+        "receiptNumber": "4-1-2019-5212872-93"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.09.27",
+        "receiptNumber": "4-1-2023-5255461-11"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020160075792.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e0028392cfd8a38724dbfdc6c588a8540ceccf41a0b83b76c3e6a4d97d0933bd992149e556c03a393792464df421a07efe394a5255b7dc0b442",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf64985e75957181562573d2f32f75b6d4622b3b040801b74edbc1031fda18e4cc88717d067d79ce01fba90eae01c67251d70b3cb069c0bbf8"
+  },
+  "rndInfoArray": ""
+}

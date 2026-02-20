@@ -1,0 +1,1686 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.04.28",
+      "applicationFlag": "",
+      "applicationNumber": "10-2018-7034650",
+      "claimCount": "11",
+      "examinerName": "김종호",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "Chrimson을 사용한 광유전학적 시력 회복",
+      "inventionTitleEng": "OPTOGENETIC VISUAL RESTORATION USING CHRIMSON",
+      "openDate": "2019.05.29",
+      "openNumber": "10-2019-0058383",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.04.21",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.11.11",
+      "publicationNumber": "",
+      "registerDate": "2022.11.09",
+      "registerNumber": "10-2466887-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2018.11.29"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/16"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 27/02"
+      },
+      {
+        "ipcDate": "(2020.01.01)",
+        "ipcNumber": "A61K 41/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/405"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/62"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "다른 방법들 중에서도 단백질 또는 핵산 형태의, 채널로돕신 (예컨대, ChrimsonR)의 유효량, 또는 형광 단백질에 융합된 상기 채널로돕신 (예컨대, ChrimsonR)의 유효량, 및 그의 조성물을 투여함으로써 포유동물에서 망막 신경절 세포를 재활성화시키는 방법을 개시한다. 본 방법은 방사선 안전 한계 미만인, RGC 반응을 유도하는 광 자극 수준을 포함할 수 있다. 본 방법은 아데노연관 바이러스 벡터에 의한 전달을 포함할 수 있다. 본 방법은 CAG 프로모터 사용을 포함할 수 있다. 본 방법으로 유효량의 채널로돕신 (예컨대, ChrimsonR 단백질)을 장기간 발현할 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020187034650",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20181129",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 25,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "포유동물에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 투여하는 단계를 포함하는, 포유동물에서 망막 신경절 세포 (RGC)를 재활성화시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "뉴런에 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 대상체에서 뉴런 매개 장애를 치료 또는 예방하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "내부 망막 세포에 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 내부 망막 세포에서 광에 대한 감수성을 회복시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 대상체에게 시력을 회복시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "광 지각 또는 감수성 결핍에 기인하여 시력이 상실된 대상체를 확인하는 단계 및 대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 대상체에게 시력을 회복시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "광수용체 기능 상실에 기인하여 망막 변성을 앓는 대상체를 확인하는 단계 및 대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 대상체에서 망막 변성을 치료 또는 예방하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "광 지각 또는 감수성 결핍에 기인하여 시력이 상실된 대상체를 확인하는 단계 및 대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 인간 눈에서 광수용체 기능을 회복시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "전기적으로 활성인 세포에 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 전기적으로 활성인 세포를 탈분극시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, RGC 반응을 유도하는 광 자극 수준이 방사선 안전 한계 미만인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, Chrimson 단백질이 Chrimson 88 또는 Chrimson R인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 형광 단백질이 Td-Tomato (TdT) 단백질 및 녹색 형광 단백질 (GFP)로부터 선택되는 것인 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, tdT 단백질에 융합된 Chrimson 단백질이 Chrimson 단백질 단독과 비교 시 광 자극에 대해 반응하는데 있어서 더욱 효과적인 것인 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 형광 단백질이 Chrimson 단백질 단독의 발현 수준과 비교 시 주어진 수의 세포에 대해 융합된 Chrimson 단백질의 발현 수준을 증가시키는 것인 방법.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 융합된 Chrimson 단백질의 발현 수준이 Chrimson 단백질의 증강된 가용성, 트래픽킹, 및/또는 단백질 입체구조를 통해 증가되는 것인 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 벡터가 아데노연관 바이러스 (AAV) 벡터인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, AAV 벡터가 AAV2 벡터 및 AAV2.7m8 벡터로부터 선택되는 것인 방법.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서, AAV 벡터가 AAV2.7m8 벡터인 방법.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 벡터가 CAG 프로모터를 포함하는 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 벡터가 유리체내로 주사되는 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 형광 단백질에 융합된 Chrimson 단백질의 유효량이 장기간 발현되는 것인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 형광 단백질에 융합된 Chrimson 단백질의 발현이 투여 후 적어도 2개월, 또는 투여 후 적어도 11개월 후에도 지속되는 것인 방법.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제21항 중 어느 한 항에 따른 벡터 중 하나 이상의 것을 포함하는 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "융합된 또는 별개로의, 하나 이상의 Chrimson 단백질 및 하나 이상의 형광 단백질을 코딩하는 하나 이상의 폴리뉴클레오티드를 포함하는 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 또는 제23항에 있어서, 제1항 내지 제21항 중 어느 한 항의 방법 중 하나 이상의 것에서 사용하기 위한 조성물.",
+          "refers_to": [
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "포유동물에서 망막 신경절 세포 (RGC)를 재활성화시키기 위한, 대상체에서 뉴런 매개 장애를 치료 또는 예방하기 위한, 내부 망막 세포에서 광에 대한 감수성을 회복시키기 위한, 대상체에서 망막 변성을 치료 또는 예방하기 위한, 광수용체 기능을 회복시키기 위한, 및/또는 전기적으로 활성인 세포를 탈분극시키기 위한, 제22항 또는 제23항의 조성물의 용도.",
+          "refers_to": [
+            22,
+            23
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20220524",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 25,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "안구 장애 또는 질병을 치료 또는 예방하기 위한, Td-Tomato (TdT) 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물이며, 상기 Chrimson 단백질은 Chrimson 88 또는 Chrimson R이고, 벡터는 아데노연관 바이러스 (AAV) 벡터이고, 상기 안구 장애 또는 질병은 녹내장, 백내장, 각막 이영양증; 원추각막; 광수용체 변성, 기능 장애, 상실 또는 사멸에 의해 유발되는 눈을 멀게 하는 장애; 망막 이영양증; 색소성 망막염(RP); 광수용체 기능 상실에 기인한 망막 변성; 황반 변성(MD); 선천성 비진행성 야맹증; 연령 관련 황반 변성; 선천성 추체 이영양증 및 당뇨 망막병증으로 이루어진 군에서 선택되며, 상기 TdT 단백질에 융합된 Chrimson 단백질은 Chrimson 단백질 단독과 비교 시 광 자극에 대해 반응하는데 있어서 더욱 효과적인 것인 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 망막 신경절 세포 (RGC) 반응의 재활성화를 유도하는 광 자극 수준이 방사선 안전 한계 미만인 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, TdT 단백질이 Chrimson 단백질 단독의 발현 수준과 비교 시 주어진 수의 세포에 대해 융합된 Chrimson 단백질의 발현 수준을 증가시키는 것인 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 융합된 Chrimson 단백질의 발현 수준이 Chrimson 단백질의 증강된 가용성, 트래픽킹, 및/또는 단백질 입체구조를 통해 증가되는 것인 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, AAV 벡터가 AAV2 벡터 및 AAV2.7m8 벡터로부터 선택되는 것인 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, AAV 벡터가 AAV2.7m8 벡터인 조성물.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 벡터가 CAG 프로모터를 포함하는 것인 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 벡터가 유리체내로 주사되는 것인 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 TdT 단백질에 융합된 Chrimson 단백질의 유효량이 장기간 발현되는 것인 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 TdT 단백질에 융합된 Chrimson 단백질의 발현이 투여 후 적어도 2개월, 또는 투여 후 적어도 11개월 후에도 지속되는 것인 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "안구 장애 또는 질병을 치료 또는 예방하기 위한, TdT 단백질에 융합된 하나 이상의 Chrimson 단백질을 코딩하는 하나 이상의 폴리뉴클레오티드를 포함하는 조성물이며, 상기 Chrimson 단백질은 Chrimson 88 또는 Chrimson R이고, 상기 안구 장애 또는 질병은 녹내장, 백내장, 각막 이영양증; 원추각막; 광수용체 변성, 기능 장애, 상실 또는 사멸에 의해 유발되는 눈을 멀게 하는 장애; 망막 이영양증; 색소성 망막염(RP); 광수용체 기능 상실에 기인한 망막 변성; 황반 변성(MD); 선천성 비진행성 야맹증; 연령 관련 황반 변성; 선천성 추체 이영양증 및 당뇨 망막병증으로 이루어진 군에서 선택되며, 상기 TdT 단백질에 융합된 Chrimson 단백질은 Chrimson 단백질 단독과 비교 시 광 자극에 대해 반응하는데 있어서 더욱 효과적인 것인 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20181129",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "포유동물에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 투여하는 단계를 포함하는, 포유동물에서 망막 신경절 세포 (RGC)를 재활성화시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "뉴런에 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 대상체에서 뉴런 매개 장애를 치료 또는 예방하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "내부 망막 세포에 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 내부 망막 세포에서 광에 대한 감수성을 회복시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 대상체에게 시력을 회복시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "광 지각 또는 감수성 결핍에 기인하여 시력이 상실된 대상체를 확인하는 단계 및 대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 대상체에게 시력을 회복시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "광수용체 기능 상실에 기인하여 망막 변성을 앓는 대상체를 확인하는 단계 및 대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 대상체에서 망막 변성을 치료 또는 예방하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "광 지각 또는 감수성 결핍에 기인하여 시력이 상실된 대상체를 확인하는 단계 및 대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 인간 눈에서 광수용체 기능을 회복시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "전기적으로 활성인 세포에 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여하는 단계를 포함하는, 전기적으로 활성인 세포를 탈분극시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, RGC 반응을 유도하는 광 자극 수준이 방사선 안전 한계 미만인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, Chrimson 단백질이 Chrimson 88 또는 Chrimson R인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 형광 단백질이 Td-Tomato (TdT) 단백질 및 녹색 형광 단백질 (GFP)로부터 선택되는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, tdT 단백질에 융합된 Chrimson 단백질이 Chrimson 단백질 단독과 비교 시 광 자극에 대해 반응하는데 있어서 더욱 효과적인 것인 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 형광 단백질이 Chrimson 단백질 단독의 발현 수준과 비교 시 주어진 수의 세포에 대해 융합된 Chrimson 단백질의 발현 수준을 증가시키는 것인 방법.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 융합된 Chrimson 단백질의 발현 수준이 Chrimson 단백질의 증강된 가용성, 트래픽킹, 및/또는 단백질 입체구조를 통해 증가되는 것인 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 벡터가 아데노연관 바이러스 (AAV) 벡터인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, AAV 벡터가 AAV2 벡터 및 AAV2.7m8 벡터로부터 선택되는 것인 방법.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서, AAV 벡터가 AAV2.7m8 벡터인 방법.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 벡터가 CAG 프로모터를 포함하는 것인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 벡터가 유리체내로 주사되는 것인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 형광 단백질에 융합된 Chrimson 단백질의 유효량이 장기간 발현되는 것인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 형광 단백질에 융합된 Chrimson 단백질의 발현이 투여 후 적어도 2개월, 또는 투여 후 적어도 11개월 후에도 지속되는 것인 방법.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제21항 중 어느 한 항에 따른 벡터 중 하나 이상의 것을 포함하는 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "융합된 또는 별개로의, 하나 이상의 Chrimson 단백질 및 하나 이상의 형광 단백질을 코딩하는 하나 이상의 폴리뉴클레오티드를 포함하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 또는 제23항에 있어서, 제1항 내지 제21항 중 어느 한 항의 방법 중 하나 이상의 것에서 사용하기 위한 조성물.",
+            "refers_to": [
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "포유동물에서 망막 신경절 세포 (RGC)를 재활성화시키기 위한, 대상체에서 뉴런 매개 장애를 치료 또는 예방하기 위한, 내부 망막 세포에서 광에 대한 감수성을 회복시키기 위한, 대상체에서 망막 변성을 치료 또는 예방하기 위한, 광수용체 기능을 회복시키기 위한, 및/또는 전기적으로 활성인 세포를 탈분극시키기 위한, 제22항 또는 제23항의 조성물의 용도.",
+            "refers_to": [
+              22,
+              23
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200421",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 25,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "포유동물에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여함으로써 포유동물에서 망막 신경절 세포 (RGC)를 재활성화시키기 위한, 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "뉴런에 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여함으로써 대상체에서 뉴런 매개 장애를 치료 또는 예방하기 위한, 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "내부 망막 세포에 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여함으로써 내부 망막 세포에서 광에 대한 감수성을 회복시키기 위한, 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여함으로써 대상체에게 시력을 회복시키기 위한, 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "광 지각 또는 감수성 결핍에 기인하여 시력이 상실된 대상체를 확인하고, 대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여함으로써 대상체에게 시력을 회복시키기 위한, 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "광수용체 기능 상실에 기인하여 망막 변성을 앓는 대상체를 확인하고, 대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여함으로써 대상체에서 망막 변성을 치료 또는 예방하기 위한, 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "광 지각 또는 감수성 결핍에 기인하여 시력이 상실된 대상체를 확인하고, 대상체에게 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여함으로써 인간 눈에서 광수용체 기능을 회복시키기 위한, 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "전기적으로 활성인 세포에 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물을 투여함으로써 전기적으로 활성인 세포를 탈분극시키기 위한, 형광 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, RGC 반응을 유도하는 광 자극 수준이 방사선 안전 한계 미만인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, Chrimson 단백질이 Chrimson 88 또는 Chrimson R인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 형광 단백질이 Td-Tomato (TdT) 단백질 및 녹색 형광 단백질 (GFP)로부터 선택되는 것인 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, tdT 단백질에 융합된 Chrimson 단백질이 Chrimson 단백질 단독과 비교 시 광 자극에 대해 반응하는데 있어서 더욱 효과적인 것인 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 형광 단백질이 Chrimson 단백질 단독의 발현 수준과 비교 시 주어진 수의 세포에 대해 융합된 Chrimson 단백질의 발현 수준을 증가시키는 것인 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 융합된 Chrimson 단백질의 발현 수준이 Chrimson 단백질의 증강된 가용성, 트래픽킹, 및/또는 단백질 입체구조를 통해 증가되는 것인 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 벡터가 아데노연관 바이러스 (AAV) 벡터인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제15항에 있어서, AAV 벡터가 AAV2 벡터 및 AAV2.7m8 벡터로부터 선택되는 것인 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, AAV 벡터가 AAV2.7m8 벡터인 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 벡터가 CAG 프로모터를 포함하는 것인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 벡터가 유리체내로 주사되는 것인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 형광 단백질에 융합된 Chrimson 단백질의 유효량이 장기간 발현되는 것인 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, 형광 단백질에 융합된 Chrimson 단백질의 발현이 투여 후 적어도 2개월, 또는 투여 후 적어도 11개월 후에도 지속되는 것인 조성물.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "융합된 또는 별개로의, 하나 이상의 Chrimson 단백질 및 하나 이상의 형광 단백질을 코딩하는 하나 이상의 폴리뉴클레오티드를 포함하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20220524",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 22,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "안구 장애 또는 질병을 치료 또는 예방하기 위한, Td-Tomato (TdT) 단백질에 융합된 Chrimson 단백질의 유효량을 발현하는 벡터를 포함하는 조성물이며, 상기 Chrimson 단백질은 Chrimson 88 또는 Chrimson R이고, 벡터는 아데노연관 바이러스 (AAV) 벡터이고, 상기 안구 장애 또는 질병은 녹내장, 백내장, 각막 이영양증; 원추각막; 광수용체 변성, 기능 장애, 상실 또는 사멸에 의해 유발되는 눈을 멀게 하는 장애; 망막 이영양증; 색소성 망막염(RP); 광수용체 기능 상실에 기인한 망막 변성; 황반 변성(MD); 선천성 비진행성 야맹증; 연령 관련 황반 변성; 선천성 추체 이영양증 및 당뇨 망막병증으로 이루어진 군에서 선택되며, 상기 TdT 단백질에 융합된 Chrimson 단백질은 Chrimson 단백질 단독과 비교 시 광 자극에 대해 반응하는데 있어서 더욱 효과적인 것인 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 망막 신경절 세포 (RGC) 반응의 재활성화를 유도하는 광 자극 수준이 방사선 안전 한계 미만인 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, TdT 단백질이 Chrimson 단백질 단독의 발현 수준과 비교 시 주어진 수의 세포에 대해 융합된 Chrimson 단백질의 발현 수준을 증가시키는 것인 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 융합된 Chrimson 단백질의 발현 수준이 Chrimson 단백질의 증강된 가용성, 트래픽킹, 및/또는 단백질 입체구조를 통해 증가되는 것인 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, AAV 벡터가 AAV2 벡터 및 AAV2.7m8 벡터로부터 선택되는 것인 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, AAV 벡터가 AAV2.7m8 벡터인 조성물.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 벡터가 CAG 프로모터를 포함하는 것인 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 벡터가 유리체내로 주사되는 것인 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 TdT 단백질에 융합된 Chrimson 단백질의 유효량이 장기간 발현되는 것인 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 TdT 단백질에 융합된 Chrimson 단백질의 발현이 투여 후 적어도 2개월, 또는 투여 후 적어도 11개월 후에도 지속되는 것인 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "안구 장애 또는 질병을 치료 또는 예방하기 위한, TdT 단백질에 융합된 하나 이상의 Chrimson 단백질을 코딩하는 하나 이상의 폴리뉴클레오티드를 포함하는 조성물이며, 상기 Chrimson 단백질은 Chrimson 88 또는 Chrimson R이고, 상기 안구 장애 또는 질병은 녹내장, 백내장, 각막 이영양증; 원추각막; 광수용체 변성, 기능 장애, 상실 또는 사멸에 의해 유발되는 눈을 멀게 하는 장애; 망막 이영양증; 색소성 망막염(RP); 광수용체 기능 상실에 기인한 망막 변성; 황반 변성(MD); 선천성 비진행성 야맹증; 연령 관련 황반 변성; 선천성 추체 이영양증 및 당뇨 망막병증으로 이루어진 군에서 선택되며, 상기 TdT 단백질에 융합된 Chrimson 단백질은 Chrimson 단백질 단독과 비교 시 광 자극에 대해 반응하는데 있어서 더욱 효과적인 것인 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 25,
+      "after_claim_count": 22,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2017.11.02",
+      "internationOpenNumber": "WO2017187272",
+      "internationalApplicationDate": "2017.04.28",
+      "internationalApplicationNumber": "PCT/IB2017/000663"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "프랑스 ***** 파리 뤼 드 포부르 생 앙뚜안 **",
+        "code": "520180710541",
+        "country": "프랑스",
+        "engName": "Gensight Biologics",
+        "name": "젠사이트 바이올로직스"
+      },
+      {
+        "address": "프랑스 ***** 파리 뤼 드 르'에꼴르 드 메드씬느 **",
+        "code": "520180304722",
+        "country": "프랑스",
+        "engName": "Sorbonne Universite",
+        "name": "쏘흐본느 유니베흐시테"
+      },
+      {
+        "address": "프랑스 ***** 파리 세덱스 ** 뤼 미쉘-앙즈 *",
+        "code": "519980688008",
+        "country": "프랑스",
+        "engName": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE",
+        "name": "상뜨르 나쇼날 드 라 러쉐르쉬 샹띠피끄"
+      },
+      {
+        "address": "프랑스 파리 세덱스 ** 에프-***** *** 뤼 드 톨비악",
+        "code": "519980774470",
+        "country": "프랑스",
+        "engName": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE (INSERM)",
+        "name": "인스티튜트 내셔널 드 라 싼테 에 드 라 리셰르셰 메디칼르 (인쎄름)"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "프랑스 ****...",
+        "code": "",
+        "country": "",
+        "engName": "PRUNEAU, Didier",
+        "name": "프뤼노, 디디에흐"
+      },
+      {
+        "address": "프랑스 ***** 파리...",
+        "code": "",
+        "country": "",
+        "engName": "DOUAR, Anne",
+        "name": "두아흐, 안네"
+      },
+      {
+        "address": "프랑스 ***** ...",
+        "code": "",
+        "country": "",
+        "engName": "DALKARA, Deniz",
+        "name": "달카라, 데니츠"
+      },
+      {
+        "address": "프랑스 ****...",
+        "code": "",
+        "country": "",
+        "engName": "DUEBEL, Jens",
+        "name": "뒤벨, 젠"
+      },
+      {
+        "address": "프랑스 ***** 파리 뤼 드...",
+        "code": "",
+        "country": "",
+        "engName": "CAPLETTE, Romain",
+        "name": "캐플릿, 로맹"
+      },
+      {
+        "address": "프랑스 ***** ...",
+        "code": "",
+        "country": "",
+        "engName": "GAUVAIN, Gregory",
+        "name": "가뱅, 그레고리"
+      },
+      {
+        "address": "프랑스 ***** ...",
+        "code": "",
+        "country": "",
+        "engName": "DESROSIERS, Melissa",
+        "name": "데로지에, 멜리사"
+      },
+      {
+        "address": "프랑스 ***** 파리 뤼...",
+        "code": "",
+        "country": "",
+        "engName": "SAHEL, Jose",
+        "name": "사헬, 조제"
+      },
+      {
+        "address": "프랑스 ***** ...",
+        "code": "",
+        "country": "",
+        "engName": "PICAUD, Serge",
+        "name": "피카우드, 세흐게"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+      "code": "919980003619",
+      "country": "대한민국",
+      "engName": "YANG, Young June",
+      "name": "양영준"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2016.04.29",
+      "priorityApplicationNumber": "62/329,692"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020140091743 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Duebel et al. “Optogenetics.” Current opinion in ophthalmology. vol. 26,3 (2015): 226-32.",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2018.11.29",
+        "receiptNumber": "1-1-2018-1193384-35"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2018.12.13",
+        "receiptNumber": "1-5-2018-0195854-09"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.02.13",
+        "receiptNumber": "1-1-2019-0149731-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.03.13",
+        "receiptNumber": "1-1-2019-0256165-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.04.12",
+        "receiptNumber": "1-1-2019-0375495-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2019.04.24",
+        "receiptNumber": "1-1-2019-0420652-47"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2019.04.29",
+        "receiptNumber": "1-5-2019-0071550-95"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2020.03.20",
+        "receiptNumber": "4-1-2020-5066589-53"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2020.04.21",
+        "receiptNumber": "1-1-2020-0407772-81"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.04.21",
+        "receiptNumber": "1-1-2020-0407771-35"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.05.27",
+        "receiptNumber": "4-1-2021-5146599-09"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2021.08.13",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2021.11.19",
+        "receiptNumber": "9-6-2022-0022644-65"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2022.02.24",
+        "receiptNumber": "9-5-2022-0154140-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.04.25",
+        "receiptNumber": "1-1-2022-0444217-44"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.05.20",
+        "receiptNumber": "4-1-2022-5119593-37"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.05.24",
+        "receiptNumber": "1-1-2022-0549930-64"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.05.24",
+        "receiptNumber": "1-1-2022-0549913-98"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.08.22",
+        "receiptNumber": "9-5-2022-0634142-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.06.04",
+        "receiptNumber": "4-1-2024-5172779-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.09.27",
+        "receiptNumber": "4-1-2024-5284573-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.10.16",
+        "receiptNumber": "4-1-2024-5300770-94"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020187034650.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93d9bd0445a6e9e4be270e73480713220d2fc82ac45c3494bc0661d560ae8bb22071a2cb1dafc195b895ca14b3ce67e683adac83f5165de779",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf09158260025e2b07ec8568a912f8ace04b418942dbf79a3fc49461d1d1b9325e905471bd96b82f4be90882e803f7e11d2dc0c893de62e30d"
+  },
+  "rndInfoArray": ""
+}

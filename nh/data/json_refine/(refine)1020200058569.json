@@ -1,0 +1,671 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.05.15",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-0058569",
+      "claimCount": "5",
+      "examinerName": "양래청",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "풀루란을 포함하는 코팅막 및 이의 제조방법",
+      "inventionTitleEng": "Coating layer comprising pullulan and manufacturing  method thereof",
+      "openDate": "2021.11.23",
+      "openNumber": "10-2021-0141200",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.05.15",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.11.18",
+      "publicationNumber": "",
+      "registerDate": "2022.11.16",
+      "registerNumber": "10-2469257-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C09D 105/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C09D 5/16"
+      },
+      {
+        "ipcDate": "(2016.01.01)",
+        "ipcNumber": "A23P 20/10"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A23L 29/00"
+      },
+      {
+        "ipcDate": "(2016.01.01)",
+        "ipcNumber": "A23L 29/206"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/36"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 9/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 9/48"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 철이온 및 탄닌산을 포함하는 철이온-탄닌산 코팅층 및 풀루란을 포함하는 풀루란 코팅층을 포함하는 코팅막과 그의 용도 및 상기 코팅막의 제조 방법에 관한 것이다. 본 발명이 제공하는 코팅막은 온화한 조건에서 빠른 시간 내에 제조가 가능하며, 풀루란의 물리적, 화학적 성질을 그대로 유지하여 식용 가능하고, 산성환경에서 분해가능하며, 생체 적합적이고 방오성을 띠는 표면 성질을 가질 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020200058569",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200515",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 11,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "철이온 및 탄닌산을 포함하는 철이온-탄닌산 코팅층; 및\n상기 철이온-탄닌산 코팅층 상에 적층되며, 풀루란을 포함하는 풀루란 코팅층을 포함하는, 코팅막.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 철이온-탄닌산 코팅층과 상기 철이온-탄닌산 코팅층 위에 적층된 풀루란 코팅층으로 구성된 단위 코팅층이 복수 회 적층된 것인, 코팅막.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 코팅막은 물 접촉각이 0 내지 10°인 것인, 코팅막.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항의 코팅막을 포함하는, 식품용 코팅제.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 코팅막은 가식성 코팅막인 것인, 식품용 코팅제.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항의 코팅막을 포함하는, 의약품용 코팅제.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "코팅 대상에 \n철이온 및 탄닌산을 포함하는 철이온-탄닌산 코팅층을 형성하는 제1단계;\n상기 철이온-탄닌산 코팅층 상에 풀루란을 포함하는 풀루란 코팅층을 형성하는 제2단계를 포함하는, 코팅 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 코팅 대상은 식품 또는 의약품인 것인, 코팅 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 제1단계 내지 제2단계는 반복 수행되는 것인, 코팅 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 제1단계 내지 제2단계는 코팅 용액과 코팅 대상을 접촉하는 단계; 및 상기 코팅 용액과 접촉한 코팅 대상을 세척 및 건조하는 단계를 거쳐 수행되는 것인, 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, \n(1) 상기 제2단계의 코팅 용액 내 철이온 농도가 0 초과 0.5mg/mL 미만이고, 상기 제2단계 이후 수행되는 제1단계에서 생성되는 철이온-탄닌산 코팅층의 두께가 5 내지 15nm; 또는\n(2) 상기 제2단계의 코팅 용액 내 철이온 농도가 0.5mg/mL 내지 10mg/mL이고, 상기 제2단계 이후 수행되는 제1단계에서 생성되는 철이온-탄닌산 코팅층의 두께가 1 내지 5nm인 것인, 방법.",
+          "refers_to": [
+            10
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20221014",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 11,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "철이온 및 탄닌산을 포함하는 철이온-탄닌산 코팅층; 및상기 철이온-탄닌산 코팅층 상에 적층되며, 풀루란을 포함하는 풀루란 코팅층을 포함하고,상기 철이온-탄닌산 코팅층과 상기 철이온-탄닌산 코팅층 상에 적층된 풀루란 코팅층으로 구성된 단위 코팅층이 1회 또는 복수 회 적층되고,상기 단위 코팅층 적층 횟수에 따라 두께 조절이 가능하고,상기 코팅막은 물 접촉각이 0 내지 10°인 것이고, pH 7 미만의 산에 대한 내산성을 가지는, 코팅막.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 철이온-탄닌산 코팅층과 상기 철이온-탄닌산 코팅층 위에 적층된 풀루란 코팅층으로 구성된 단위 코팅층이 복수 회 적층된 것인, 코팅막.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항의 코팅막을 포함하는, 식품용 코팅제.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 코팅막은 가식성 코팅막인 것인, 식품용 코팅제.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항의 코팅막을 포함하는, 의약품용 코팅제.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200515",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 11,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "철이온 및 탄닌산을 포함하는 철이온-탄닌산 코팅층; 및\n상기 철이온-탄닌산 코팅층 상에 적층되며, 풀루란을 포함하는 풀루란 코팅층을 포함하는, 코팅막.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 철이온-탄닌산 코팅층과 상기 철이온-탄닌산 코팅층 위에 적층된 풀루란 코팅층으로 구성된 단위 코팅층이 복수 회 적층된 것인, 코팅막.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 코팅막은 물 접촉각이 0 내지 10°인 것인, 코팅막.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항의 코팅막을 포함하는, 식품용 코팅제.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 코팅막은 가식성 코팅막인 것인, 식품용 코팅제.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항의 코팅막을 포함하는, 의약품용 코팅제.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "코팅 대상에 \n철이온 및 탄닌산을 포함하는 철이온-탄닌산 코팅층을 형성하는 제1단계;\n상기 철이온-탄닌산 코팅층 상에 풀루란을 포함하는 풀루란 코팅층을 형성하는 제2단계를 포함하는, 코팅 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 코팅 대상은 식품 또는 의약품인 것인, 코팅 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 제1단계 내지 제2단계는 반복 수행되는 것인, 코팅 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 제1단계 내지 제2단계는 코팅 용액과 코팅 대상을 접촉하는 단계; 및 상기 코팅 용액과 접촉한 코팅 대상을 세척 및 건조하는 단계를 거쳐 수행되는 것인, 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, \n(1) 상기 제2단계의 코팅 용액 내 철이온 농도가 0 초과 0.5mg/mL 미만이고, 상기 제2단계 이후 수행되는 제1단계에서 생성되는 철이온-탄닌산 코팅층의 두께가 5 내지 15nm; 또는\n(2) 상기 제2단계의 코팅 용액 내 철이온 농도가 0.5mg/mL 내지 10mg/mL이고, 상기 제2단계 이후 수행되는 제1단계에서 생성되는 철이온-탄닌산 코팅층의 두께가 1 내지 5nm인 것인, 방법.",
+            "refers_to": [
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220303",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "철이온 및 탄닌산을 포함하는 철이온-탄닌산 코팅층; 및\n상기 철이온-탄닌산 코팅층 상에 적층되며, 풀루란을 포함하는 풀루란 코팅층을 포함하고,\n상기 철이온-탄닌산 코팅층과 상기 철이온-탄닌산 코팅층 상에 적층된 풀루란 코팅층으로 구성된 단위 코팅층이 1회 또는 복수 회 적층되고,\n상기 단위 코팅층 적층 횟수에 따라 두께 조절이 가능한, 코팅막.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "코팅 대상에 \n철이온 및 탄닌산을 포함하는 철이온-탄닌산 코팅층을 형성하는 제1단계;\n상기 철이온-탄닌산 코팅층 상에 풀루란을 포함하는 풀루란 코팅층을 형성하는 제2단계를 포함하고,\n상기 제1단계 내지 제2단계의 반복 횟수에 따라 두께 조절이 가능한, 코팅 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20221014",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 9,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "철이온 및 탄닌산을 포함하는 철이온-탄닌산 코팅층; 및\n상기 철이온-탄닌산 코팅층 상에 적층되며, 풀루란을 포함하는 풀루란 코팅층을 포함하고,\n상기 철이온-탄닌산 코팅층과 상기 철이온-탄닌산 코팅층 상에 적층된 풀루란 코팅층으로 구성된 단위 코팅층이 1회 또는 복수 회 적층되고,\n상기 단위 코팅층 적층 횟수에 따라 두께 조절이 가능하고,\n상기 코팅막은 물 접촉각이 0 내지 10°인 것이고, pH 7 미만의 산에 대한 내산성을 가지는, 코팅막.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 코팅막을 포함하는, 식품용 코팅제.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항의 코팅막을 포함하는, 의약품용 코팅제.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 11,
+      "after_claim_count": 9,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 서대문구...",
+      "code": "220040083301",
+      "country": "대한민국",
+      "engName": "Ewha University - Industry Collaboration Foundation",
+      "name": "이화여자대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 서대문구...",
+        "code": "",
+        "country": "",
+        "engName": "PARK, JI HUN",
+        "name": "박지훈"
+      },
+      {
+        "address": "서울특별시 동작구...",
+        "code": "",
+        "country": "",
+        "engName": "LEE, HYUN-JUNG",
+        "name": "이현정"
+      },
+      {
+        "address": "경기도 고양시 일산동구...",
+        "code": "",
+        "country": "",
+        "engName": "HAN, YEHEE",
+        "name": "한예희"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 테헤란로 ***, 서림빌딩 **층 (역삼동)",
+      "code": "920011000036",
+      "country": "대한민국",
+      "engName": "YOU ME PATENT & LAW FIRM",
+      "name": "유미특허법인"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Li Qun Xu et al., Natural polyphenols as versatile platforms for material. Progress in polymer science 87 (2018) 165-196",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Stefano Farris et al., Pullulan-based films and coatings for food packaging. J. Appl. Polym. Sci. 2014. 40539",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "JP2018199630 A",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2020.05.15",
+        "receiptNumber": "1-1-2020-0494106-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2020.05.27",
+        "receiptNumber": "1-1-2020-0535717-04"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2022.01.04",
+        "receiptNumber": "9-5-2022-0013588-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.03.03",
+        "receiptNumber": "1-1-2022-0236519-59"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.03.03",
+        "receiptNumber": "1-1-2022-0236520-06"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2022.07.15",
+        "receiptNumber": "9-5-2022-0529925-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.10.14",
+        "receiptNumber": "1-1-2022-1085657-77"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2022.10.14",
+        "receiptNumber": "1-1-2022-1085658-12"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.11.01",
+        "receiptNumber": "9-5-2022-0844063-27"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020200058569.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93ed145804b5580e25da4d3ac0bc34184dca2303b78f130c3c8a5c4cfbe7e0d8ecd940f54b7c49bb34315e0ce02fd910290ac51a216e9fc264",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf2518f0e5f63c5aa8fade4514b8409ae6b7120f015847fd7922e23e0921c78d476f5561a3dee6683482852bbe72636c428a386b063d029e48"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "과학기술정보통신부",
+      "rndDuration": "2020.03.01~2021.02.28",
+      "rndManagingInstituteName": "이화여자대학교",
+      "rndProjectName": "개인기초연구(과기정통부)(R＆D)",
+      "rndSpecialInstituteName": "한국연구재단",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "난각막을 이용한 생체모방광물화 반응 연구",
+      "rndTaskNumber": "1711113560"
+    }
+  }
+}

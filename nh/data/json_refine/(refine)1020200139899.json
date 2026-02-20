@@ -1,0 +1,512 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.10.27",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-0139899",
+      "claimCount": "10",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "마이크로 로봇 및 그 제조 방법",
+      "inventionTitleEng": "MICRO ROBOT AND MANUFACTURING METHOD OF THE MICRO  ROBOT",
+      "openDate": "2022.05.04",
+      "openNumber": "10-2022-0055620",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.06.15",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 9/51"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "A61K 47/69"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "마이크로 로봇은, 생분해성 제1 재료와, 생체적합성의 자성 입자 및 약물을 혼합하여 형성되며, 3차원 구조를 갖는 구조체, 및 상기 구조체 표면에 3차원으로 배양되는 세포를 포함하여 구성된다."
+    }
+  },
+  "claims": {
+    "total_amendments": 1,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "생분해성 제1 재료와, 생체적합성의 자성 입자 및 약물을 혼합하여 형성되며, 3차원 구조를 갖는 구조체; 및 상기 구조체 표면에 3차원으로 배양되는 세포;를 포함하는 마이크로 로봇.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 구조체는 다공성 구조로 형성되는 마이크로 로봇.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제1 재료는 생분해성 및 광경화 가능한 재질을 포함하는 마이크로 로봇.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 제1 재료는 Gelatin Methacryloyl (GelMA)를 포함하는 마이크로 로봇.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 구조체는 광개시제를 더 포함하는 마이크로 로봇.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "생분해성 제1 재료와, 생체적합성의 자성 입자 및 약물을 혼합하여 혼합물을 형성하는 단계; 상기 혼합물에 UV를 조사하여 3차원 구조를 갖는 구조체를 형성하는 단계; 상기 구조체와 세포를 배양하여 상기 구조체 표면에 3차원으로 세포를 배양하는 단계;를 포함하는 마이크로 로봇의 제조 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 세포를 배양하는 단계는, 세포부착 방지를 위해 Ultra-low attachment (ULA) surface 처리된 U-bottom well에 상기 구조체와 상기 세포를 동시에 배양하는 마이크로 로봇의 제조 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 구조체를 형성하는 단계는, 미세유체채널기반 제조 방법, 2광자 레이저 리소그래피, 및 3D 프린팅 중 어느 하나의 방법을 이용하는 마이크로 로봇의 제조 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 구조체는 3차원 다공성 구조로 형성되는 마이크로 로봇의 제조 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 제1 재료는 생분해성 및 광경화 가능한 재질을 포함하며, Gelatin Methacryloyl (GelMA)를 포함하는 마이크로 로봇의 제조 방법.",
+          "refers_to": [
+            6
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "생분해성 제1 재료와, 생체적합성의 자성 입자 및 약물을 혼합하여 형성되며, 3차원 구조를 갖는 구조체; 및 상기 구조체 표면에 3차원으로 배양되는 세포;를 포함하는 마이크로 로봇.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 구조체는 다공성 구조로 형성되는 마이크로 로봇.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 제1 재료는 생분해성 및 광경화 가능한 재질을 포함하는 마이크로 로봇.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 제1 재료는 Gelatin Methacryloyl (GelMA)를 포함하는 마이크로 로봇.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 구조체는 광개시제를 더 포함하는 마이크로 로봇.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "생분해성 제1 재료와, 생체적합성의 자성 입자 및 약물을 혼합하여 혼합물을 형성하는 단계; 상기 혼합물에 UV를 조사하여 3차원 구조를 갖는 구조체를 형성하는 단계; 상기 구조체와 세포를 배양하여 상기 구조체 표면에 3차원으로 세포를 배양하는 단계;를 포함하는 마이크로 로봇의 제조 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 세포를 배양하는 단계는, 세포부착 방지를 위해 Ultra-low attachment (ULA) surface 처리된 U-bottom well에 상기 구조체와 상기 세포를 동시에 배양하는 마이크로 로봇의 제조 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 구조체를 형성하는 단계는, 미세유체채널기반 제조 방법, 2광자 레이저 리소그래피, 및 3D 프린팅 중 어느 하나의 방법을 이용하는 마이크로 로봇의 제조 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 구조체는 3차원 다공성 구조로 형성되는 마이크로 로봇의 제조 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 제1 재료는 생분해성 및 광경화 가능한 재질을 포함하며, Gelatin Methacryloyl (GelMA)를 포함하는 마이크로 로봇의 제조 방법.",
+          "refers_to": [
+            6
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "",
+        "document_name": "원본 (변동이력 없음)",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "생분해성 제1 재료와, 생체적합성의 자성 입자 및 약물을 혼합하여 형성되며, 3차원 구조를 갖는 구조체; 및 상기 구조체 표면에 3차원으로 배양되는 세포;를 포함하는 마이크로 로봇.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 구조체는 다공성 구조로 형성되는 마이크로 로봇.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 제1 재료는 생분해성 및 광경화 가능한 재질을 포함하는 마이크로 로봇.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 제1 재료는 Gelatin Methacryloyl (GelMA)를 포함하는 마이크로 로봇.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 구조체는 광개시제를 더 포함하는 마이크로 로봇.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "생분해성 제1 재료와, 생체적합성의 자성 입자 및 약물을 혼합하여 혼합물을 형성하는 단계; 상기 혼합물에 UV를 조사하여 3차원 구조를 갖는 구조체를 형성하는 단계; 상기 구조체와 세포를 배양하여 상기 구조체 표면에 3차원으로 세포를 배양하는 단계;를 포함하는 마이크로 로봇의 제조 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 세포를 배양하는 단계는, 세포부착 방지를 위해 Ultra-low attachment (ULA) surface 처리된 U-bottom well에 상기 구조체와 상기 세포를 동시에 배양하는 마이크로 로봇의 제조 방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 구조체를 형성하는 단계는, 미세유체채널기반 제조 방법, 2광자 레이저 리소그래피, 및 3D 프린팅 중 어느 하나의 방법을 이용하는 마이크로 로봇의 제조 방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 구조체는 3차원 다공성 구조로 형성되는 마이크로 로봇의 제조 방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 제1 재료는 생분해성 및 광경화 가능한 재질을 포함하며, Gelatin Methacryloyl (GelMA)를 포함하는 마이크로 로봇의 제조 방법.",
+            "refers_to": [
+              6
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 10,
+      "after_claim_count": 10,
+      "total_versions": 1
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "경기도 고양시 일산동구...",
+      "code": "120250356208",
+      "country": "대한민국",
+      "engName": "MIRACURE Co., Ltd",
+      "name": "주식회사 미라큐어"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "대구광역시 달성군 화원읍 비슬로**...",
+        "code": "",
+        "country": "",
+        "engName": "CHOI Hong Soo",
+        "name": "최홍수"
+      },
+      {
+        "address": "광주광역시 서구...",
+        "code": "",
+        "country": "",
+        "engName": "NOH Seung Min",
+        "name": "노승민"
+      },
+      {
+        "address": "대구광역시 달성군 유가읍 테크노순환로 ***, ****동 ****호(대구...",
+        "code": "",
+        "country": "",
+        "engName": "KIM Jin Young",
+        "name": "김진영"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "JEON Sung Woong",
+        "name": "전성웅"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 테헤란로**길**-*, 에이동 *층(대치동,세왕개발빌딩)",
+      "code": "920211001811",
+      "country": "대한민국",
+      "engName": "VON Patent &amp; Law Firm",
+      "name": "특허법인본"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2020.10.27",
+        "receiptNumber": "1-1-2020-1138217-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.07.29",
+        "receiptNumber": "4-1-2022-5178676-45"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.06.15",
+        "receiptNumber": "1-1-2023-0659326-33"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2025.06.09",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2025.06.10",
+        "receiptNumber": "1-1-2025-0643912-39"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2025.07.28",
+        "receiptNumber": "9-6-2025-0144551-59"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.10",
+        "receiptNumber": "9-5-2025-0973832-27"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020200139899.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c931c116849b53c160c266adcf4da13c6b74c933f988282a46398453b9835769354cb78a37d9fa06ee77a858a63fd0b29642236f0bccc33c4ef",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfd4358b69e8055da139fecbdeabfa26d018368df6f79cc72ae529f8f246e11142e1f33454fc6a3b0712bc7eda3a44b394e0d4e9ff2fad3b8b"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2020.03.01 ~ 2021.02.28",
+        "rndManagingInstituteName": "재단법인대구경북과학기술원",
+        "rndProjectName": "집단연구지원(R＆D)",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "0.5/1",
+        "rndTaskName": "정밀의학을 위한 지능형 마이크로 로봇 기반 신체 모사 칩",
+        "rndTaskNumber": "1711108039"
+      },
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2020.01.01 ~ 2020.12.31",
+        "rndManagingInstituteName": "재단법인대구경북과학기술원",
+        "rndProjectName": "대구경북과학기술원연구운영비지원(R＆D)(주요사업비)",
+        "rndSpecialInstituteName": "재단법인대구경북과학기술원",
+        "rndTaskContribution": "0.5/1",
+        "rndTaskName": "마이크로/나노로봇 기반 정밀치료 원천 및 응용 기술 개발",
+        "rndTaskNumber": "1711121571"
+      }
+    ]
+  }
+}

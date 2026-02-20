@@ -1,0 +1,1284 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.10.11",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0129794",
+      "claimCount": "37",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "EGFR에 결합하는 키메라 항원 수용체, 이를 발현하는 자연살해세포 및 그의 용도",
+      "inventionTitleEng": "A Chimeric Antigen Receptor binding to EGFR, Natural  Killer Cells Expressing the Same, and Use thereof",
+      "openDate": "2024.04.19",
+      "openNumber": "10-2024-0050536",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2025.10.02",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/725"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 EGFR-결합 도메인, 막관통 도메인, 공동자극 도메인 및 세포 내 신호전달 도메인을 포함하고 EGFR 단백질에 특이적으로 결합할 수 있는 키메라 항원 수용체 (CAR)와 이를 NK세포에 형질전환한 EGFR CAR-NK세포 및 그의 제조방법을 제공한다. 본 발명은 또한 EGFR의 발현과 관련된 질환 또는 상태를 치료하기 위한 CAR의 용도를 제공한다."
+    }
+  },
+  "claims": {
+    "total_amendments": 1,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 37,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 야생형 상피 성장 인자 수용체(wt EGFR) 또는 돌연변이체 상피 성장 인자 수용체(돌연변이체 EGFR) 또는 이들 둘 다를 인식하는 항-EGFR 항체의 항원 결합 도메인,(b) 세포외 힌지 부위,(c) 막통과 도메인,(d) 세포내 공자극 도메인, 및(e) 세포내 신호전달 도메인을 포함하는 키메라 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 1의 아미노산 서열로 이루어진 항-EGFR 중쇄 가변 영역 및 서열번호 2의 아미노산 서열로 이루어진 항-EGFR 경쇄 가변 영역을 포함하는 것인 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 항-EGFR 중쇄 가변 영역과 상기 항-EGFR 경쇄 가변 영역 사이에 서열번호 3의 아미노산 서열로 이루어진 링커 폴리펩티드를 추가로 포함하는 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 4의 아미노산 서열로 이루어진 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 세포외 힌지 부위는 CD3, CD4, CD8, 또는 CD28 힌지 도메인을 포함하는 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, 상기 세포외 힌지 부위는 서열번호 5의 아미노산 서열로 이루어진 CD8 힌지 부위인 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 막통과 도메인은 CD3, CD8, CD28, 2B4, 또는 NKG2D 막통과 도메인을 포함하는 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 막통과 도메인은 서열번호 6의 아미노산 서열로 이루어진 NKG2D 막통과 도메인인 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 세포내 공동 자극 도메인은 CD28, 4-1BB, OX40, 2B4, 및 DAP10으로 이루어진 군으로부터 선택된 하나 이상의 공동 자극 도메인을 포함하는 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 세포내 공동 자극 도메인은 서열번호 7의 아미노산 서열로 이루어진2B4 공동 자극 도메인 및 서열번호 8의 아미노산 서열로 이루어진 DAP10 공동 자극 도메인인 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 세포내 신호전달 도메인은 서열번호 9의 아미노산 서열로 이루어진 CD3 제타 신호전달 도메인인 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 키메라 항원 수용체는 서열번호 10의 아미노산 서열로 이루어진 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "키메라 항원 수용체(chimeric antigen receptor: CAR)를 코딩하는 핵산 분자로서, 야생형 상피 성장 인자 수용체(wt EGFR) 또는 돌연변이체 상피 성장 인자 수용체(돌연변이체 EGFR) 또는 이들 둘 다를 인식하는 항-EGFR 항체의 항원 결합 도메인을 코딩하는 핵산,세포외 힌지 부위를 코딩하는 핵산,(막통과 도메인을 코딩하는 핵산,)세포내 공자극 도메인을 코딩하는 핵산, 및세포내 신호전달 도메인을 코딩하는 핵산으로 이루어진 핵산 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 항-EGFR 중쇄 가변 영역 및 항-EGFR 경쇄 가변 영역을 포함하고, 상기 항-EGFR 중쇄 가변 영역을 코딩하는 서열은 서열번호 11의 핵산 서열로 이루어지고, 상기 항-EGFR 경쇄 가변 영역을 코딩하는 서열은 서열번호 12의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 상기 항-EGFR 중쇄 가변 영역과 상기 항-EGFR 경쇄 가변 영역 사이에 링커 폴리펩티드를 추가로 포함하고, 상기 링커 폴리펩티드를 코딩하는 서열은 서열번호 13의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인을 코딩하는 서열은 서열번호 14의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서, 상기 세포외 힌지 부위는 CD8 힌지 부위를 포함하고, 상기 CD8 힌지 부위를 코딩하는 서열은 서열번호 15의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 상기 막통과 도메인은 NKG2D 막통과 도메인을 포함하고, 상기 NKG2D 막통과 도메인을 코딩하는 서열은 서열번호 16의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 세포내 공자극 도메인은 2B4 및 DAP10 공자극 도메인을 포함하고, 상기 2B4 공자극 도메인 및 DAP10 공자극 도메인을 코딩하는 서열은 각각 서열번호 17 및 서열번호 18의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 상기 세포내 신호전달 도메인은 CD3 제타 신호전달 도메인을 포함하고, 상기 CD3 제타 신호전달 도메인을 코딩하는 서열은 서열번호 19의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 키메라 항원 수용체를 코딩하는 서열은 서열번호 20의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 내지 제21항 중 어느 한 항의 핵산 분자를 포함하는 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 상기 벡터는 플라스미드 또는 바이러스성 벡터인 벡터.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제23항에 있어서, 상기 바이러스성 벡터는 렌티바이러스 벡터인 벡터.",
+          "refers_to": [
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 내지 제21항 중 어느 한 항의 핵산 분자, 또는 제22항 내지 제24항 중 어느 한 항의 벡터를 포함하는, 분리된 숙주 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "상피 성장 인자 수용체(EGFR)에 특이적으로 결합하는 키메라 항원 수용체를 발현하는 분리된 숙주 세포로서, 상기 키메라 항원 수용체는(a) 야생형 상피 성장 인자 수용체(wt EGFR) 또는 돌연변이체 상피 성장 인자 수용체(돌연변이체 EGFR) 또는 이들 둘 다를 인식하는 항-EGFR 항체의 항원 결합 도메인,(b) 세포외 힌지 부위,(c) 막통과 도메인,(d) 세포내 공자극 도메인, 및(e) 세포내 신호전달 도메인을 포함하는, 분리된 숙주세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 1의 아미노산 서열로 이루어진 항-EGFR 중쇄 가변 영역 및 서열번호 2의 아미노산 서열로 이루어진 항-EGFR 경쇄 가변 영역을 포함하는 것인, 분리된 숙주세포.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 상기 항-EGFR 중쇄 가변 영역과 상기 항-EGFR 경쇄 가변 영역 사이에 서열번호 3의 아미노산 서열로 이루어진 링커 폴리펩티드를 추가로 포함하는 것인, 분리된 숙주세포.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 4의 아미노산 서열로 이루어진 것인, 분리된 숙주세포.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 상기 세포외 힌지 부위는 서열번호 5의 아미노산 서열로 이루어진 CD8 힌지 부위인 것인, 분리된 숙주세포.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제30항에 있어서, 상기 막통과 도메인은 서열번호 6의 아미노산 서열로 이루어진 NKG2D 막통과 도메인인 것인, 분리된 숙주세포.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항에 있어서, 상기 세포내 공동 자극 도메인은 서열번호 7의 아미노산 서열로 이루어진2B4 공동 자극 도메인 및 서열번호 8의 아미노산 서열로 이루어진 DAP10 공동 자극 도메인인 것인, 분리된 숙주세포.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제32항에 있어서, 상기 세포내 신호전달 도메인은 서열번호 9의 아미노산 서열로 이루어진 CD3 제타 신호전달 도메인인 것인, 분리된 숙주세포.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 키메라 항원 수용체는 서열번호 10의 아미노산 서열로 이루어진 것인, 분리된 숙주세포.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항 내지 제34항 중 어느 한 항에 있어서, 상기 숙주세포는 자연살해세포인, 분리된 숙주세포.",
+          "refers_to": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항 내지 제34항 중 어느 한 항의 분리된 숙주세포 및 약학적으로 허용 가능한 담체를 포함하는, 암 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항의 분리된 숙주세포 및 약학적으로 허용 가능한 담체를 포함하는, 암 치료용 약학적 조성물.",
+          "refers_to": [
+            35
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 37,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 야생형 상피 성장 인자 수용체(wt EGFR) 또는 돌연변이체 상피 성장 인자 수용체(돌연변이체 EGFR) 또는 이들 둘 다를 인식하는 항-EGFR 항체의 항원 결합 도메인,(b) 세포외 힌지 부위,(c) 막통과 도메인,(d) 세포내 공자극 도메인, 및(e) 세포내 신호전달 도메인을 포함하는 키메라 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 1의 아미노산 서열로 이루어진 항-EGFR 중쇄 가변 영역 및 서열번호 2의 아미노산 서열로 이루어진 항-EGFR 경쇄 가변 영역을 포함하는 것인 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 항-EGFR 중쇄 가변 영역과 상기 항-EGFR 경쇄 가변 영역 사이에 서열번호 3의 아미노산 서열로 이루어진 링커 폴리펩티드를 추가로 포함하는 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 4의 아미노산 서열로 이루어진 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 세포외 힌지 부위는 CD3, CD4, CD8, 또는 CD28 힌지 도메인을 포함하는 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, 상기 세포외 힌지 부위는 서열번호 5의 아미노산 서열로 이루어진 CD8 힌지 부위인 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 막통과 도메인은 CD3, CD8, CD28, 2B4, 또는 NKG2D 막통과 도메인을 포함하는 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 막통과 도메인은 서열번호 6의 아미노산 서열로 이루어진 NKG2D 막통과 도메인인 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 세포내 공동 자극 도메인은 CD28, 4-1BB, OX40, 2B4, 및 DAP10으로 이루어진 군으로부터 선택된 하나 이상의 공동 자극 도메인을 포함하는 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 세포내 공동 자극 도메인은 서열번호 7의 아미노산 서열로 이루어진2B4 공동 자극 도메인 및 서열번호 8의 아미노산 서열로 이루어진 DAP10 공동 자극 도메인인 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 상기 세포내 신호전달 도메인은 서열번호 9의 아미노산 서열로 이루어진 CD3 제타 신호전달 도메인인 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 키메라 항원 수용체는 서열번호 10의 아미노산 서열로 이루어진 것인, 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "키메라 항원 수용체(chimeric antigen receptor: CAR)를 코딩하는 핵산 분자로서, 야생형 상피 성장 인자 수용체(wt EGFR) 또는 돌연변이체 상피 성장 인자 수용체(돌연변이체 EGFR) 또는 이들 둘 다를 인식하는 항-EGFR 항체의 항원 결합 도메인을 코딩하는 핵산,세포외 힌지 부위를 코딩하는 핵산,(막통과 도메인을 코딩하는 핵산,)세포내 공자극 도메인을 코딩하는 핵산, 및세포내 신호전달 도메인을 코딩하는 핵산으로 이루어진 핵산 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 항-EGFR 중쇄 가변 영역 및 항-EGFR 경쇄 가변 영역을 포함하고, 상기 항-EGFR 중쇄 가변 영역을 코딩하는 서열은 서열번호 11의 핵산 서열로 이루어지고, 상기 항-EGFR 경쇄 가변 영역을 코딩하는 서열은 서열번호 12의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 상기 항-EGFR 중쇄 가변 영역과 상기 항-EGFR 경쇄 가변 영역 사이에 링커 폴리펩티드를 추가로 포함하고, 상기 링커 폴리펩티드를 코딩하는 서열은 서열번호 13의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인을 코딩하는 서열은 서열번호 14의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서, 상기 세포외 힌지 부위는 CD8 힌지 부위를 포함하고, 상기 CD8 힌지 부위를 코딩하는 서열은 서열번호 15의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, 상기 막통과 도메인은 NKG2D 막통과 도메인을 포함하고, 상기 NKG2D 막통과 도메인을 코딩하는 서열은 서열번호 16의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 세포내 공자극 도메인은 2B4 및 DAP10 공자극 도메인을 포함하고, 상기 2B4 공자극 도메인 및 DAP10 공자극 도메인을 코딩하는 서열은 각각 서열번호 17 및 서열번호 18의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 상기 세포내 신호전달 도메인은 CD3 제타 신호전달 도메인을 포함하고, 상기 CD3 제타 신호전달 도메인을 코딩하는 서열은 서열번호 19의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 키메라 항원 수용체를 코딩하는 서열은 서열번호 20의 핵산 서열로 이루어진 것인, 핵산 분자.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 내지 제21항 중 어느 한 항의 핵산 분자를 포함하는 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 상기 벡터는 플라스미드 또는 바이러스성 벡터인 벡터.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제23항에 있어서, 상기 바이러스성 벡터는 렌티바이러스 벡터인 벡터.",
+          "refers_to": [
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 내지 제21항 중 어느 한 항의 핵산 분자, 또는 제22항 내지 제24항 중 어느 한 항의 벡터를 포함하는, 분리된 숙주 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "상피 성장 인자 수용체(EGFR)에 특이적으로 결합하는 키메라 항원 수용체를 발현하는 분리된 숙주 세포로서, 상기 키메라 항원 수용체는(a) 야생형 상피 성장 인자 수용체(wt EGFR) 또는 돌연변이체 상피 성장 인자 수용체(돌연변이체 EGFR) 또는 이들 둘 다를 인식하는 항-EGFR 항체의 항원 결합 도메인,(b) 세포외 힌지 부위,(c) 막통과 도메인,(d) 세포내 공자극 도메인, 및(e) 세포내 신호전달 도메인을 포함하는, 분리된 숙주세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 1의 아미노산 서열로 이루어진 항-EGFR 중쇄 가변 영역 및 서열번호 2의 아미노산 서열로 이루어진 항-EGFR 경쇄 가변 영역을 포함하는 것인, 분리된 숙주세포.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 상기 항-EGFR 중쇄 가변 영역과 상기 항-EGFR 경쇄 가변 영역 사이에 서열번호 3의 아미노산 서열로 이루어진 링커 폴리펩티드를 추가로 포함하는 것인, 분리된 숙주세포.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 4의 아미노산 서열로 이루어진 것인, 분리된 숙주세포.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, 상기 세포외 힌지 부위는 서열번호 5의 아미노산 서열로 이루어진 CD8 힌지 부위인 것인, 분리된 숙주세포.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제30항에 있어서, 상기 막통과 도메인은 서열번호 6의 아미노산 서열로 이루어진 NKG2D 막통과 도메인인 것인, 분리된 숙주세포.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항에 있어서, 상기 세포내 공동 자극 도메인은 서열번호 7의 아미노산 서열로 이루어진2B4 공동 자극 도메인 및 서열번호 8의 아미노산 서열로 이루어진 DAP10 공동 자극 도메인인 것인, 분리된 숙주세포.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제32항에 있어서, 상기 세포내 신호전달 도메인은 서열번호 9의 아미노산 서열로 이루어진 CD3 제타 신호전달 도메인인 것인, 분리된 숙주세포.",
+          "refers_to": [
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제26항에 있어서, 상기 키메라 항원 수용체는 서열번호 10의 아미노산 서열로 이루어진 것인, 분리된 숙주세포.",
+          "refers_to": [
+            26
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항 내지 제34항 중 어느 한 항에 있어서, 상기 숙주세포는 자연살해세포인, 분리된 숙주세포.",
+          "refers_to": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항 내지 제34항 중 어느 한 항의 분리된 숙주세포 및 약학적으로 허용 가능한 담체를 포함하는, 암 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제35항의 분리된 숙주세포 및 약학적으로 허용 가능한 담체를 포함하는, 암 치료용 약학적 조성물.",
+          "refers_to": [
+            35
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "",
+        "document_name": "원본 (변동이력 없음)",
+        "claim_count": 37,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 야생형 상피 성장 인자 수용체(wt EGFR) 또는 돌연변이체 상피 성장 인자 수용체(돌연변이체 EGFR) 또는 이들 둘 다를 인식하는 항-EGFR 항체의 항원 결합 도메인,(b) 세포외 힌지 부위,(c) 막통과 도메인,(d) 세포내 공자극 도메인, 및(e) 세포내 신호전달 도메인을 포함하는 키메라 항원 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 1의 아미노산 서열로 이루어진 항-EGFR 중쇄 가변 영역 및 서열번호 2의 아미노산 서열로 이루어진 항-EGFR 경쇄 가변 영역을 포함하는 것인 키메라 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 항-EGFR 중쇄 가변 영역과 상기 항-EGFR 경쇄 가변 영역 사이에 서열번호 3의 아미노산 서열로 이루어진 링커 폴리펩티드를 추가로 포함하는 것인, 키메라 항원 수용체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 4의 아미노산 서열로 이루어진 것인, 키메라 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 세포외 힌지 부위는 CD3, CD4, CD8, 또는 CD28 힌지 도메인을 포함하는 것인, 키메라 항원 수용체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, 상기 세포외 힌지 부위는 서열번호 5의 아미노산 서열로 이루어진 CD8 힌지 부위인 것인, 키메라 항원 수용체.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 막통과 도메인은 CD3, CD8, CD28, 2B4, 또는 NKG2D 막통과 도메인을 포함하는 것인, 키메라 항원 수용체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 막통과 도메인은 서열번호 6의 아미노산 서열로 이루어진 NKG2D 막통과 도메인인 것인, 키메라 항원 수용체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 세포내 공동 자극 도메인은 CD28, 4-1BB, OX40, 2B4, 및 DAP10으로 이루어진 군으로부터 선택된 하나 이상의 공동 자극 도메인을 포함하는 것인, 키메라 항원 수용체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 세포내 공동 자극 도메인은 서열번호 7의 아미노산 서열로 이루어진2B4 공동 자극 도메인 및 서열번호 8의 아미노산 서열로 이루어진 DAP10 공동 자극 도메인인 것인, 키메라 항원 수용체.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 상기 세포내 신호전달 도메인은 서열번호 9의 아미노산 서열로 이루어진 CD3 제타 신호전달 도메인인 것인, 키메라 항원 수용체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 키메라 항원 수용체는 서열번호 10의 아미노산 서열로 이루어진 것인, 키메라 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "키메라 항원 수용체(chimeric antigen receptor: CAR)를 코딩하는 핵산 분자로서, 야생형 상피 성장 인자 수용체(wt EGFR) 또는 돌연변이체 상피 성장 인자 수용체(돌연변이체 EGFR) 또는 이들 둘 다를 인식하는 항-EGFR 항체의 항원 결합 도메인을 코딩하는 핵산,세포외 힌지 부위를 코딩하는 핵산,(막통과 도메인을 코딩하는 핵산,)세포내 공자극 도메인을 코딩하는 핵산, 및세포내 신호전달 도메인을 코딩하는 핵산으로 이루어진 핵산 분자.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 항-EGFR 중쇄 가변 영역 및 항-EGFR 경쇄 가변 영역을 포함하고, 상기 항-EGFR 중쇄 가변 영역을 코딩하는 서열은 서열번호 11의 핵산 서열로 이루어지고, 상기 항-EGFR 경쇄 가변 영역을 코딩하는 서열은 서열번호 12의 핵산 서열로 이루어진 것인, 핵산 분자.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, 상기 항-EGFR 중쇄 가변 영역과 상기 항-EGFR 경쇄 가변 영역 사이에 링커 폴리펩티드를 추가로 포함하고, 상기 링커 폴리펩티드를 코딩하는 서열은 서열번호 13의 핵산 서열로 이루어진 것인, 핵산 분자.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인을 코딩하는 서열은 서열번호 14의 핵산 서열로 이루어진 것인, 핵산 분자.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서, 상기 세포외 힌지 부위는 CD8 힌지 부위를 포함하고, 상기 CD8 힌지 부위를 코딩하는 서열은 서열번호 15의 핵산 서열로 이루어진 것인, 핵산 분자.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, 상기 막통과 도메인은 NKG2D 막통과 도메인을 포함하고, 상기 NKG2D 막통과 도메인을 코딩하는 서열은 서열번호 16의 핵산 서열로 이루어진 것인, 핵산 분자.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 세포내 공자극 도메인은 2B4 및 DAP10 공자극 도메인을 포함하고, 상기 2B4 공자극 도메인 및 DAP10 공자극 도메인을 코딩하는 서열은 각각 서열번호 17 및 서열번호 18의 핵산 서열로 이루어진 것인, 핵산 분자.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 상기 세포내 신호전달 도메인은 CD3 제타 신호전달 도메인을 포함하고, 상기 CD3 제타 신호전달 도메인을 코딩하는 서열은 서열번호 19의 핵산 서열로 이루어진 것인, 핵산 분자.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 키메라 항원 수용체를 코딩하는 서열은 서열번호 20의 핵산 서열로 이루어진 것인, 핵산 분자.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 내지 제21항 중 어느 한 항의 핵산 분자를 포함하는 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, 상기 벡터는 플라스미드 또는 바이러스성 벡터인 벡터.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제23항에 있어서, 상기 바이러스성 벡터는 렌티바이러스 벡터인 벡터.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 내지 제21항 중 어느 한 항의 핵산 분자, 또는 제22항 내지 제24항 중 어느 한 항의 벡터를 포함하는, 분리된 숙주 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "상피 성장 인자 수용체(EGFR)에 특이적으로 결합하는 키메라 항원 수용체를 발현하는 분리된 숙주 세포로서, 상기 키메라 항원 수용체는(a) 야생형 상피 성장 인자 수용체(wt EGFR) 또는 돌연변이체 상피 성장 인자 수용체(돌연변이체 EGFR) 또는 이들 둘 다를 인식하는 항-EGFR 항체의 항원 결합 도메인,(b) 세포외 힌지 부위,(c) 막통과 도메인,(d) 세포내 공자극 도메인, 및(e) 세포내 신호전달 도메인을 포함하는, 분리된 숙주세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 1의 아미노산 서열로 이루어진 항-EGFR 중쇄 가변 영역 및 서열번호 2의 아미노산 서열로 이루어진 항-EGFR 경쇄 가변 영역을 포함하는 것인, 분리된 숙주세포.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 상기 항-EGFR 중쇄 가변 영역과 상기 항-EGFR 경쇄 가변 영역 사이에 서열번호 3의 아미노산 서열로 이루어진 링커 폴리펩티드를 추가로 포함하는 것인, 분리된 숙주세포.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 항-EGFR 항체의 항원 결합 도메인은 서열번호 4의 아미노산 서열로 이루어진 것인, 분리된 숙주세포.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, 상기 세포외 힌지 부위는 서열번호 5의 아미노산 서열로 이루어진 CD8 힌지 부위인 것인, 분리된 숙주세포.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제30항에 있어서, 상기 막통과 도메인은 서열번호 6의 아미노산 서열로 이루어진 NKG2D 막통과 도메인인 것인, 분리된 숙주세포.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항에 있어서, 상기 세포내 공동 자극 도메인은 서열번호 7의 아미노산 서열로 이루어진2B4 공동 자극 도메인 및 서열번호 8의 아미노산 서열로 이루어진 DAP10 공동 자극 도메인인 것인, 분리된 숙주세포.",
+            "refers_to": [
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제32항에 있어서, 상기 세포내 신호전달 도메인은 서열번호 9의 아미노산 서열로 이루어진 CD3 제타 신호전달 도메인인 것인, 분리된 숙주세포.",
+            "refers_to": [
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제26항에 있어서, 상기 키메라 항원 수용체는 서열번호 10의 아미노산 서열로 이루어진 것인, 분리된 숙주세포.",
+            "refers_to": [
+              26
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제25항 내지 제34항 중 어느 한 항에 있어서, 상기 숙주세포는 자연살해세포인, 분리된 숙주세포.",
+            "refers_to": [
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제25항 내지 제34항 중 어느 한 항의 분리된 숙주세포 및 약학적으로 허용 가능한 담체를 포함하는, 암 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제35항의 분리된 숙주세포 및 약학적으로 허용 가능한 담체를 포함하는, 암 치료용 약학적 조성물.",
+            "refers_to": [
+              35
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 37,
+      "after_claim_count": 37,
+      "total_versions": 1
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 서초구...",
+      "code": "120170702960",
+      "country": "대한민국",
+      "engName": "OncoInsight Co., Ltd.",
+      "name": "주식회사 온코인사이트"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "서울 강남구...",
+      "code": "",
+      "country": "",
+      "engName": "Deukchae Na",
+      "name": "나득채"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 선릉로 ***(삼성동) 성원타워 *층 ***호",
+      "code": "920221000612",
+      "country": "대한민국",
+      "engName": "GURU IP Law",
+      "name": "특허법인그루"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.10.11",
+        "receiptNumber": "1-1-2022-1066637-74"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.10.14",
+        "receiptNumber": "4-1-2022-5240527-40"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2023.07.18",
+        "receiptNumber": "1-1-2023-0787657-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.09.23",
+        "receiptNumber": "4-1-2024-5279012-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.01.10",
+        "receiptNumber": "4-1-2025-5008389-63"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2025.10.02",
+        "receiptNumber": "1-1-2025-1127226-91"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220129794.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93d5cd3db0349deb55df118913b3d3e3a6b6adb6992e9bf52069a52d93e27a74c6fdf3d00d2d746a4c72d07dc753569b2fc4ee3115f9ec8a2a",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfd221ef5562b82aeb579800a0826a2d77ebea1549f2491b1227187c35699ed4685cd7e4b849ba72051303946ed0796c06ee8213aa285945ff"
+  },
+  "rndInfoArray": ""
+}

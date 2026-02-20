@@ -1,0 +1,986 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.02.24",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0024543",
+      "claimCount": "6",
+      "examinerName": "",
+      "finalDisposal": "거절결정 후 재심사중",
+      "inventionTitle": "EDNRA 억제제를 유효성분으로 포함하는 대장암의 예방 또는 치료용 약학적 조성물",
+      "inventionTitleEng": "Pharmaceutical composition for preventing or treating  colon cancer comprising an inhibitor of EDNRA",
+      "openDate": "2023.08.31",
+      "openNumber": "10-2023-0127007",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.02.24",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/7088"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/713"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/506"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "G01N 33/50"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 EDNRA 억제제를 유효성분으로 포함하는 대장암의 예방 또는 치료용 약학적 조성물에 관한 것이다. 구체적으로, EDNRA 발현을 억제하였을 때 대장암 세포의 증식이 감소하고 세포 사멸이 증가하는 것을 확인하여 EDNRA의 억제가 대장암 치료 기전이 될 수 있음을 확인하고, EDNRA 억제제 약물 스크리닝으로 APY29, CGP60474를 선별하여 대장암 세포에 처리하였을 때 세포 사멸을 일으키는 것을 확인하였다. 아울러, EDNRA 억제제로 선별한 APY29, CGP60474 화합물이 대장암 치료법에 많이 쓰이는 세포독성항암제인 이리노테칸, 토포테칸 또는 다우노루비신과 동시에 투여하였을 때, 암 세포 사멸 효과가 상승하는 것을 확인하여 내성이 생긴 기존 항암제와 병용 투여 되어 암 치료 효과를 향상시킬 수 있음을 확인하였다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220024543",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220224",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 16,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "EDNRA(Endothelin receptor type A) 억제제를 유효성분으로 포함하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1에 있어서,\n상기 EDNRA 억제제는 EDNRA 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, siRNA, shRNA 및 miRNA로 구성된 군으로부터 선택된 어느 하나인 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 2에 있어서, \n상기 siRNA는 서열번호 1의 염기서열을 갖는 것인 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1에 있어서,\n상기 EDNRA 억제제는 EDNRA 단백질에 상보적으로 결합하는 저분자 화합물, 펩티드, 펩티드 모방체(peptide mimetics), 기질 유사체, 앱타머 및 항체로 구성된 군으로부터 선택된 어느 하나인 것인 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 4에 있어서, \n상기 화합물은 APY29 또는 CGP60474인 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "EDNRA(Endothelin receptor type A) 억제제를 유효성분으로 포함하는 대장암의 예방 또는 치료용 약학적 조성물 및 추가적인 대장암 치료제를 포함하는 대장암의 예방 또는 치료용 키트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 6에 있어서,\n상기 EDNRA 억제제는 EDNRA 단백질에 상보적으로 결합하는 화합물, 펩티드, 펩티드 모방체(peptide mimetics), 기질 유사체, 앱타머 및 항체로 구성된 군으로부터 선택된 어느 하나인 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 7에 있어서,\n상기 화합물은 APY29 또는 CGP60474인 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 6에 있어서,\n상기 추가적인 대장암 치료제는 대사과정 억제제, 국소이송화효소 억제제, 사이토카인, 유사분열 억제제, 핵산과 상호작용하는 화합물, 항호르몬 및 항체로 이루어진 군에서 선택되는 적어도 하나 이상인 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 9에 있어서,\n상기 핵산과 상호작용하는 화합물은 DNA 회전효소 억제제(DNA topoisomerase inhibitor)인 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 10에 있어서,\n상기 DNA 회전효소 억제제는 이리노테칸(irinotecan), 토포테칸(topotecan) 및 다우노루비신(daunorubicin)으로 구성되는 군으로부터 선택되는 어느 하나 이상인 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 6에 있어서,\n상기 대장암의 예방 또는 치료용 키트는 설명서를 추가로 포함하는 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "EDNRA(Endothelin receptor type A)의 발현 수준 또는 활성 수준을 측정하는 제제를 포함하는 대장암 치료제 스크리닝용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) EDNRA를 발현하는 분리된 대장암 세포에 대장암 치료 후보 물질을 처리하는 단계; 및\n(b) 상기 후보 물질이 처리된 분리된 대장암 세포에서 EDNRA의 발현 수준 또는 활성 수준을 측정하는 단계;\n를 포함하는, 대장암 치료제의 스크리닝 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 14에 있어서,\n상기 방법은 상기 (b) 단계에서 측정된 EDNRA 발현 수준 또는 활성 수준이 후보 물질이 처리되지 않은 분리된 대장암 세포에 비해 낮은 수준을 나타내는 경우, 상기 후보 물질을 대장암 치료용 제제로서 사용할 수 있을 것으로 판정하는 단계를 더 포함하는 것인 대장암 치료제의 스크리닝 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 14에 있어서,\n상기 후보 물질은 펩티드, 단백질, 비펩티드성 화합물, 합성 화합물, 발효 생산물, 세포 추출액, 식물 추출액 또는 동물 조직 추출액으로 이루어진 군으로부터 선택된 어느 하나인 스크리닝 방법.",
+          "refers_to": [
+            14
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20251017",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 16,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "EDNRA(Endothelin receptor type A) 억제제를 유효성분으로 포함하는 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서,상기 EDNRA 억제제는 EDNRA 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, siRNA, shRNA 및 miRNA로 구성된 군으로부터 선택된 어느 하나인 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 2에 있어서, 상기 siRNA는 서열번호 1의 염기서열을 갖는 것인 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 1에 있어서,상기 EDNRA 억제제는 EDNRA 단백질에 상보적으로 결합하는 저분자 화합물, 펩티드, 펩티드 모방체(peptide mimetics), 기질 유사체, 앱타머 및 항체로 구성된 군으로부터 선택된 어느 하나인 것인 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 4에 있어서, 상기 화합물은 APY29 또는 CGP60474인 대장암의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "EDNRA(Endothelin receptor type A) 억제제를 유효성분으로 포함하는 대장암의 예방 또는 치료용 약학적 조성물 및 추가적인 대장암 치료제를 포함하는 대장암의 예방 또는 치료용 키트.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 6에 있어서,상기 EDNRA 억제제는 EDNRA 단백질에 상보적으로 결합하는 화합물, 펩티드, 펩티드 모방체(peptide mimetics), 기질 유사체, 앱타머 및 항체로 구성된 군으로부터 선택된 어느 하나인 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 7에 있어서,상기 화합물은 APY29 또는 CGP60474인 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 6에 있어서,상기 추가적인 대장암 치료제는 대사과정 억제제, 국소이송화효소 억제제, 사이토카인, 유사분열 억제제, 핵산과 상호작용하는 화합물, 항호르몬 및 항체로 이루어진 군에서 선택되는 적어도 하나 이상인 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 9에 있어서,상기 핵산과 상호작용하는 화합물은 DNA 회전효소 억제제(DNA topoisomerase inhibitor)인 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 10에 있어서,상기 DNA 회전효소 억제제는 이리노테칸(irinotecan), 토포테칸(topotecan) 및 다우노루비신(daunorubicin)으로 구성되는 군으로부터 선택되는 어느 하나 이상인 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 6에 있어서,상기 대장암의 예방 또는 치료용 키트는 설명서를 추가로 포함하는 것인 대장암의 예방 또는 치료용 키트.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "EDNRA(Endothelin receptor type A)의 발현 수준 또는 활성 수준을 측정하는 제제를 포함하는 대장암 치료제 스크리닝용 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) EDNRA를 발현하는 분리된 대장암 세포에 대장암 치료 후보 물질을 처리하는 단계; 및(b) 상기 후보 물질이 처리된 분리된 대장암 세포에서 EDNRA의 발현 수준 또는 활성 수준을 측정하는 단계;를 포함하는, 대장암 치료제의 스크리닝 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 14에 있어서,상기 방법은 상기 (b) 단계에서 측정된 EDNRA 발현 수준 또는 활성 수준이 후보 물질이 처리되지 않은 분리된 대장암 세포에 비해 낮은 수준을 나타내는 경우, 상기 후보 물질을 대장암 치료용 제제로서 사용할 수 있을 것으로 판정하는 단계를 더 포함하는 것인 대장암 치료제의 스크리닝 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "청구항 14에 있어서,상기 후보 물질은 펩티드, 단백질, 비펩티드성 화합물, 합성 화합물, 발효 생산물, 세포 추출액, 식물 추출액 또는 동물 조직 추출액으로 이루어진 군으로부터 선택된 어느 하나인 스크리닝 방법.",
+          "refers_to": [
+            14
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220224",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 16,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "EDNRA(Endothelin receptor type A) 억제제를 유효성분으로 포함하는 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1에 있어서,\n상기 EDNRA 억제제는 EDNRA 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, siRNA, shRNA 및 miRNA로 구성된 군으로부터 선택된 어느 하나인 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 2에 있어서, \n상기 siRNA는 서열번호 1의 염기서열을 갖는 것인 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1에 있어서,\n상기 EDNRA 억제제는 EDNRA 단백질에 상보적으로 결합하는 저분자 화합물, 펩티드, 펩티드 모방체(peptide mimetics), 기질 유사체, 앱타머 및 항체로 구성된 군으로부터 선택된 어느 하나인 것인 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 4에 있어서, \n상기 화합물은 APY29 또는 CGP60474인 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "EDNRA(Endothelin receptor type A) 억제제를 유효성분으로 포함하는 대장암의 예방 또는 치료용 약학적 조성물 및 추가적인 대장암 치료제를 포함하는 대장암의 예방 또는 치료용 키트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 6에 있어서,\n상기 EDNRA 억제제는 EDNRA 단백질에 상보적으로 결합하는 화합물, 펩티드, 펩티드 모방체(peptide mimetics), 기질 유사체, 앱타머 및 항체로 구성된 군으로부터 선택된 어느 하나인 것인 대장암의 예방 또는 치료용 키트.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 7에 있어서,\n상기 화합물은 APY29 또는 CGP60474인 것인 대장암의 예방 또는 치료용 키트.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 6에 있어서,\n상기 추가적인 대장암 치료제는 대사과정 억제제, 국소이송화효소 억제제, 사이토카인, 유사분열 억제제, 핵산과 상호작용하는 화합물, 항호르몬 및 항체로 이루어진 군에서 선택되는 적어도 하나 이상인 것인 대장암의 예방 또는 치료용 키트.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 9에 있어서,\n상기 핵산과 상호작용하는 화합물은 DNA 회전효소 억제제(DNA topoisomerase inhibitor)인 것인 대장암의 예방 또는 치료용 키트.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 10에 있어서,\n상기 DNA 회전효소 억제제는 이리노테칸(irinotecan), 토포테칸(topotecan) 및 다우노루비신(daunorubicin)으로 구성되는 군으로부터 선택되는 어느 하나 이상인 것인 대장암의 예방 또는 치료용 키트.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 6에 있어서,\n상기 대장암의 예방 또는 치료용 키트는 설명서를 추가로 포함하는 것인 대장암의 예방 또는 치료용 키트.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "EDNRA(Endothelin receptor type A)의 발현 수준 또는 활성 수준을 측정하는 제제를 포함하는 대장암 치료제 스크리닝용 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) EDNRA를 발현하는 분리된 대장암 세포에 대장암 치료 후보 물질을 처리하는 단계; 및\n(b) 상기 후보 물질이 처리된 분리된 대장암 세포에서 EDNRA의 발현 수준 또는 활성 수준을 측정하는 단계;\n를 포함하는, 대장암 치료제의 스크리닝 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 14에 있어서,\n상기 방법은 상기 (b) 단계에서 측정된 EDNRA 발현 수준 또는 활성 수준이 후보 물질이 처리되지 않은 분리된 대장암 세포에 비해 낮은 수준을 나타내는 경우, 상기 후보 물질을 대장암 치료용 제제로서 사용할 수 있을 것으로 판정하는 단계를 더 포함하는 것인 대장암 치료제의 스크리닝 방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 14에 있어서,\n상기 후보 물질은 펩티드, 단백질, 비펩티드성 화합물, 합성 화합물, 발효 생산물, 세포 추출액, 식물 추출액 또는 동물 조직 추출액으로 이루어진 군으로부터 선택된 어느 하나인 스크리닝 방법.",
+            "refers_to": [
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20240717",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 12,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "EDNRA(Endothelin receptor type A) 활성 억제제를 유효성분으로 포함하고,\n상기 EDNRA 활성 억제제는 EDN 1(Endothelin 1) 유전자 발현 억제제인 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서,\n상기 EDN 1 유전자 발현 억제제는 EDN 1 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, siRNA, shRNA 및 miRNA로 구성된 군으로부터 선택된 어느 하나인, 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 2에 있어서, \n상기 siRNA는 서열번호 3의 염기서열을 갖는 센스 가닥 및 서열번호 4의 염기서열을 갖는 안티센스 가닥을 포함하는 것인, 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "EDNRA 활성 억제제를 유효성분으로 포함하고,\n상기 EDNRA 활성 억제제는 APY29인 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1 내지 3 및 5 중 어느 한 항의 대장암의 예방 또는 치료용 약학적 조성물 및 추가적인 대장암 치료제를 포함하는 대장암의 예방 또는 치료용 키트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) EDNRA를 발현하는 분리된 세포에 대장암 치료 후보 물질을 처리하는 단계; 및\n(b) 상기 후보 물질이 처리된 분리된 세포에서 EDNRA의 활성 수준을 측정하는 단계;를 포함하는, 대장암 치료제의 스크리닝 방법으로서,\n상기 (b) 단계에서 EDNRA의 활성 수준의 측정은, 상기 후보 물질이 처리된 분리된 세포에서 β-Arrestin 신호 활성 수준을 측정하는 것에 의해 수행되는 것인, 대장암 치료제의 스크리닝 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 13에 있어서,\n상기 세포는 β-Arrestin 신호 활성 의존적으로 발광 물질을 발현하는 것인, 대장암 치료제의 스크리닝 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 13에 있어서,\n상기 방법은 상기 (b) 단계에서 측정된 EDNRA 활성 수준이 후보 물질이 처리되지 않은 분리된 세포에 비해 낮은 수준을 나타내는 경우, 상기 후보 물질을 대장암 치료용 제제로서 사용할 수 있을 것으로 판정하는 단계를 더 포함하는 것인, 대장암 치료제의 스크리닝 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 13에 있어서,\n상기 후보 물질은 핵산 분자, 펩티드, 단백질, 비펩티드성 화합물, 합성 화합물, 발효 생산물, 세포 추출액, 식물 추출액 및 동물 조직 추출액으로 이루어진 군으로부터 선택된 어느 하나인, 대장암 치료제의 스크리닝 방법.",
+            "refers_to": [
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20250219",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 8,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "EDNRA(Endothelin receptor type A) 활성 억제제를 유효성분으로 포함하고,\n상기 EDNRA 활성 억제제는 EDN 1(Endothelin 1) 유전자 발현 억제제이고,\n상기 EDN 1 유전자 발현 억제제는 EDN 1 유전자의 mRNA에 상보적으로 결합하는 siRNA이고,\n상기 siRNA는 서열번호 3의 염기서열을 갖는 센스 가닥 및 서열번호 4의 염기서열을 갖는 안티센스 가닥을 포함하는 것인 대장암의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1 및 5 중 어느 한 항의 대장암의 예방 또는 치료용 약학적 조성물 및 추가적인 대장암 치료제를 포함하는 대장암의 예방 또는 치료용 키트.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20251017",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 5의 대장암의 예방 또는 치료용 약학적 조성물 및 추가적인 대장암 치료제를 포함하는 대장암의 예방 또는 치료용 키트.",
+            "refers_to": [
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 16,
+      "after_claim_count": 2,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "대전광역시 유성구...",
+      "code": "319990341665",
+      "country": "대한민국",
+      "engName": "Korea Research Institute of Bioscience and Biotechnology",
+      "name": "한국생명공학연구원"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Jang Seong Kim",
+        "name": "김장성"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Eunsun Jung",
+        "name": "정은선"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Hyun Seung Ban",
+        "name": "반현승"
+      },
+      {
+        "address": "대전광역시 유성구...",
+        "code": "",
+        "country": "",
+        "engName": "Tae-Su Han",
+        "name": "한태수"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 중구 청계천로 **, *층(다동, 예금보험공사빌딩)",
+      "code": "920061000421",
+      "country": "대한민국",
+      "engName": "BAE, KIM & LEE IP",
+      "name": "특허법인태평양"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Annals of Oncology. 2003. Vol.14(Supplement 2), pp.ii17-ii23.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Molecular Carcinogenesis. 2014. Vol.53, pp.E85-E91.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Oncogene. 2021. Vol.40. No.12, pp.2309-2322.",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.02.24",
+        "receiptNumber": "1-1-2022-0211473-17"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.05.17",
+        "receiptNumber": "9-5-2024-0410328-99"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.05.28",
+        "receiptNumber": "4-1-2024-5165410-94"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.07.17",
+        "receiptNumber": "1-1-2024-0778003-49"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.07.17",
+        "receiptNumber": "1-1-2024-0778002-04"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.09.09",
+        "receiptNumber": "4-1-2024-5268975-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.09.26",
+        "receiptNumber": "4-1-2024-5283793-99"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2024.12.19",
+        "receiptNumber": "9-5-2024-1100371-38"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.02.19",
+        "receiptNumber": "1-1-2025-0193248-42"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.02.19",
+        "receiptNumber": "1-1-2025-0193247-07"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2025.07.16",
+        "receiptNumber": "9-5-2025-0674350-42"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2025.10.17",
+        "receiptNumber": "1-1-2025-1162753-06"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.10.17",
+        "receiptNumber": "1-1-2025-1162752-50"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220024543.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c933e009a17b4a1bca48bd809b78d66fb475ece28c0cb7400ef10ea81e6a6e9405d4959d87ddc379feba231871f843737b4ff61648b9aae996e",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfe1ef95557d882e7ed34382feb238580d99f9b1ded0112ae076dcef10ec926d3ebf5ac7c4fd7fa9b9b84569f8f06f709f35532f8ca5be8c25"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2021.01.01 ~ 2021.12.31",
+        "rndManagingInstituteName": "한국생명공학연구원",
+        "rndProjectName": "한국생명공학연구원연구운영비지원(R＆D)(주요사업비)",
+        "rndSpecialInstituteName": "한국생명공학연구원",
+        "rndTaskContribution": "30/100",
+        "rndTaskName": "막수용체 유전자군 조절을 통한 난치암 동반진단 항암제 개발",
+        "rndTaskNumber": "1711134047"
+      },
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2021.03.01 ~ 2022.02.28",
+        "rndManagingInstituteName": "한국생명공학연구원",
+        "rndProjectName": "개인기초연구(과기정통부)(R＆D)",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "30/100",
+        "rndTaskName": "장 재생 관련 논코딩RNA 발굴 및 기전 규명을 통한 대장암 발생 제어 연구",
+        "rndTaskNumber": "1711148757"
+      },
+      {
+        "rndDepartmentName": "다부처",
+        "rndDuration": "2021.01.01 ~ 2021.12.31",
+        "rndManagingInstituteName": "한국생명공학연구원",
+        "rndProjectName": "인공지능신약개발플랫폼구축(R＆D)(과기정통부,복지부)",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "20/100",
+        "rndTaskName": "재창출 약물의 기전 검증 및 피드백",
+        "rndTaskNumber": "1711131030"
+      },
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2021.08.01 ~ 2022.01.31",
+        "rndManagingInstituteName": "한국생명공학연구원",
+        "rndProjectName": "범부처재생의료기술개발사업(R＆D)",
+        "rndSpecialInstituteName": "(재단)범부처재생의료기술개발사업단",
+        "rndTaskContribution": "20/100",
+        "rndTaskName": "미세환경 제어를 통한 생착 및 재생능 강화 인간 장 오가노이드 재생치료제 개발",
+        "rndTaskNumber": "1711149573"
+      }
+    ]
+  }
+}

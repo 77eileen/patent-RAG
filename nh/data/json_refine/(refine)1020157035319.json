@@ -1,0 +1,1305 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2014.05.12",
+      "applicationFlag": "",
+      "applicationNumber": "10-2015-7035319",
+      "claimCount": "22",
+      "examinerName": "김경미",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "ＣＤ19 특이적 키메라 항원 수용체 및 이의 용도",
+      "inventionTitleEng": "CD19 SPECIFIC CHIMERIC ANTIGEN RECEPTOR AND USES  THEREOF",
+      "openDate": "2016.03.18",
+      "openNumber": "10-2016-0030480",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2019.04.25",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.05.03",
+      "publicationNumber": "",
+      "registerDate": "2021.04.28",
+      "registerNumber": "10-2248157-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2015.12.11"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/725"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/705"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 35/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 키메라 항원 수용체(CAR)에 관한 것이다. CAR은 선택된 타겟에 대한 면역 세포 특이성 및 반응성을 재유도하여 리간드-결합 도메인 성질을 이용할 수 있다. 특히, 본 발명은 세포외 리간드 결합이 CD19 모노클론 항체, 바람직하게 4G7로부터 유래된 scFV인 키메라 항원 수용체에 관한 것이다. 본 발명은 또한, 폴리누클레오티드, 상기 CAR을 엔코딩하는 벡터, 및 이의 표면에서 상기 CAR을 발현시키는 단리된 세포에 관한 것이다. 본 발명은 또한, 변환된 세포 상에서 지연된 \"활성화된\" 상태를 부여하는 이의 표면에서 4G7-CAR을 발현시키는 면역 세포를 조작하는 방법에 관한 것이다. 본 발명은 B-세포 림프종 및 백혈병의 치료를 위해 특히 유용하다."
+    }
+  },
+  "claims": {
+    "application_number": "1020157035319",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20151211",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 22,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하나 이상의 세포외 리간드 결합 도메인, 막관통 도메인(transmembrane domain), 및 하나 이상의 세포내 신호전달 도메인을 포함하는 CD19 특이적 키메라 항원 수용체로서, 상기 세포외 도메인이 CD19에 대해 특이적인 모노클론 항체 4G7의 감마 중쇄 (SEQ ID NO: 1) 및 카파 경쇄 (SEQ ID NO: 2)로부터 유래된 단쇄 FV 분절을 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 모노클론 항체 4G7로부터 유래된 상기 단쇄 FV 분절이 SEQ ID NO: 3 내지 5 및 SEQ ID NO: 7 내지 8로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 상기 세포내 신호전달 도메인이 CD3 제타 신호전달 도메인을 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 세포내 신호전달 도메인이 4-1BB 도메인을 포함하는, CD 19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 인간 CD8 알파 사슬 막관통 및 줄기 도메인(stalk domain)을 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 아미노산 서열 SEQ ID NO: 14 및 15와 적어도 75%, 바람직하게 80%, 85%, 90%, 95%를 갖는 아미노산 서열을 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, CD19에 대해 특이적이지 않은 다른 세포외 리간드 결합 도메인을 추가로 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 따른 상기 키메라 항원 수용체를 엔코딩하는 폴리누클레오티드.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 있어서, 핵산 서열 SEQ ID NO: 17과 적어도 75%, 바람직하게 80%, 85%, 90%, 95%를 갖는 핵산 서열을 포함하는 폴리누클레오티드.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항 또는 제9항의 핵산을 포함하는 발현 벡터.",
+          "refers_to": [
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하나 이상의 세포외 리간드 결합 도메인 및 하나 이상의 세포내 신호전달 도메인을 포함하는 CD19 특이적 키메라 항원 수용체를 세포 표면 막에서 발현하는 유전자 조작된 면역 세포로서, 상기 세포외 도메인이 CD19에 대해 특이적인 모노클론 항체 4G7로부터 유래된 단쇄 FV 분절을 포함하는, 유전자 조작된 면역 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 따른 CD19 특이적 키메라 항원 수용체를 세포 표면 막에서 발현하는, 유전자 조작된 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항 또는 제12항에 있어서, CD19에 대해 특이적이지 않은 다른 키메라 항원 수용체를 추가로 포함하는, 유전자 조작된 면역 세포.",
+          "refers_to": [
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항 내지 제13항 중 어느 한 항에 있어서, 염증성 T-림프구, 세포독성 T-림프구, 조절 T-림프구 또는 헬퍼 T-림프구로부터 유래된, 유전자 조작된 면역 세포.",
+          "refers_to": [
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "기증자(donor)로부터 회수된 유전자 조작된 면역 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "환자로부터 회수된 유전자 조작된 면역 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료법에서 사용하기 위한 유전자 조작된 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "B-세포 림프종 또는 백혈병에서 사용하기 위한 유전자 조작된 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 면역 세포를 제공하고,\n(b) 상기 세포의 표면에서 제1항 내지 제7항 중 어느 한 항에 따른 하나 이상의 CD19 특이적 키메라 항원 수용체를 발현시키는 것을 포함하는, 면역 세포를 조작하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서,\n(a) 면역 세포를 제공하고,\n(b) 상기 세포에 상기 CD19 특이적 키메라 항원 수용체를 엔코딩하는 하나 이상의 폴리누클레오티드를 도입하고,\n(c) 상기 폴리누클레오티드를 상기 세포로 발현시키는 것을 포함하는, 면역 세포를 조작하는 방법.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서,\n(a) 면역 세포를 제공하고,\n(b) 상기 세포에 상기 CD19 특이적 키메라 항원 수용체를 엔코딩하는 하나 이상의 폴리누클레오티드를 도입하고,\n(c) CD19에 대해 특이적이지 않은 하나 이상의 다른 키메라 항원 수용체를 도입하는 것을 포함하는, 면역 세포를 조작하는 방법.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 표면에서 제1항 내지 제7항 중 어느 한 항에 따른 CD19 특이적 키메라 항원 수용체를 발현시키는 면역 세포를 제공하고;\n(b) 상기 면역 세포를 환자에게 투여하는 것을 포함하는, 이를 필요로 하는 피검체를 치료하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20201026",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 22,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하나 이상의 세포외 리간드 결합 도메인, 막관통 도메인(transmembrane domain), 및 하나 이상의 세포내 신호전달 도메인을 포함하는 CD19 특이적 키메라 항원 수용체로서, 상기 세포외 도메인이 CD19에 대해 특이적인 모노클론 항체 4G7로부터 유래된 단쇄 FV 분절을 포함하고, 상기 단쇄 FV 분절은 SEQ ID NO: 3의 CD19 모노클론 항체 4G7 면역글로불린 감마 1 중쇄의 가변성 분절 및 SEQ ID NO: 4 또는 SEQ ID NO: 5의 CD19 모노클론 항체 4G7 면역글로불린 카파 경쇄의 가변성 분절을 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 단쇄 FV 분절이 SEQ ID NO: 7 또는 8의 아미노산 서열을 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 세포내 신호전달 도메인이 CD3 제타 신호전달 도메인을 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 세포내 신호전달 도메인이 4-1BB 도메인을 포함하는, CD 19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 인간 CD8 알파 사슬 막관통 및 줄기 도메인(stalk domain)을 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, SEQ ID NO: 14 또는 15의 아미노산 서열과 적어도 75% 서열 동일성을 갖는 아미노산 서열을 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, CD19에 대해 특이적이지 않은 다른 세포외 리간드 결합 도메인을 추가로 포함하는, CD19 특이적 키메라 항원 수용체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제7항 중 어느 한 항에 따른 상기 키메라 항원 수용체를 엔코딩하는 폴리누클레오티드.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 있어서, 핵산 서열 SEQ ID NO: 17과 적어도 75% 서열 동일성을 갖는 핵산 서열을 포함하는 폴리누클레오티드.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항의 핵산을 포함하는 발현 벡터.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하나 이상의 세포외 리간드 결합 도메인 및 하나 이상의 세포내 신호전달 도메인을 포함하는 CD19 특이적 키메라 항원 수용체를 세포 표면 막에서 발현하는 유전자 조작된 면역 세포로서, 상기 세포외 도메인이 CD19에 대해 특이적인 모노클론 항체 4G7로부터 유래된 단쇄 FV 분절을 포함하고, 상기 단쇄 FV 분절은 SEQ ID NO: 3의 CD19 모노클론 항체 4G7 면역글로불린 감마 1 중쇄의 가변성 분절 및 SEQ ID NO: 4 또는 SEQ ID NO: 5의 CD19 모노클론 항체 4G7 면역글로불린 카파 경쇄의 가변성 분절을 포함하는, 유전자 조작된 면역 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제7항 중 어느 한 항에 따른 CD19 특이적 키메라 항원 수용체를 세포 표면 막에서 발현하는, 유전자 조작된 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, CD19에 대해 특이적이지 않은 다른 키메라 항원 수용체를 추가로 포함하는, 유전자 조작된 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 염증성 T-림프구, 세포독성 T-림프구, 조절 T-림프구 또는 헬퍼 T-림프구로부터 유래된, 유전자 조작된 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 세포는 건강한 기증자(donor)로부터 유래된, 유전자 조작된 면역 세포.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 세포는 암 진단 받은 환자로부터 유래된, 유전자 조작된 면역 세포.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "치료법에서 사용하기 위한, 제13항에 따른 유전자 조작된 세포.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "B-세포 림프종 또는 백혈병 치료에서 사용하기 위한, 제13항에 따른 유전자 조작된 세포.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 면역 세포를 제공하고,(b) 상기 세포의 표면에서 제1항 내지 제7항 중 어느 한 항에 따른 하나 이상의 CD19 특이적 키메라 항원 수용체를 발현시키는 것을 포함하는, 면역 세포를 조작하는 시험관내(in vitro) 또는 생체 외(ex vivo) 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서,(a) 면역 세포를 제공하고,(b) 상기 세포에 상기 CD19 특이적 키메라 항원 수용체를 엔코딩하는 하나 이상의 폴리누클레오티드를 도입하고,(c) 상기 폴리누클레오티드를 상기 세포로 발현시키는 것을 포함하는, 면역 세포를 조작하는 시험관내 또는 생체 외 방법.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서,(a) 면역 세포를 제공하고,(b) 상기 세포에 상기 CD19 특이적 키메라 항원 수용체를 엔코딩하는 하나 이상의 폴리누클레오티드를 도입하고,(c) CD19에 대해 특이적이지 않은 하나 이상의 다른 키메라 항원 수용체를 도입하는 것을 포함하는, 면역 세포를 조작하는 시험관내 또는 생체 외 방법.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "표면에서 제1항 내지 제7항 중 어느 한 항에 따른 CD19 특이적 키메라 항원 수용체를 발현시키는 면역 세포를 포함하는, B-세포 림프종 또는 백혈병을 치료하기 위한 약학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20151211",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 22,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하나 이상의 세포외 리간드 결합 도메인, 막관통 도메인(transmembrane domain), 및 하나 이상의 세포내 신호전달 도메인을 포함하는 CD19 특이적 키메라 항원 수용체로서, 상기 세포외 도메인이 CD19에 대해 특이적인 모노클론 항체 4G7의 감마 중쇄 (SEQ ID NO: 1) 및 카파 경쇄 (SEQ ID NO: 2)로부터 유래된 단쇄 FV 분절을 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 모노클론 항체 4G7로부터 유래된 상기 단쇄 FV 분절이 SEQ ID NO: 3 내지 5 및 SEQ ID NO: 7 내지 8로 이루어진 군으로부터 선택된 아미노산 서열을 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 상기 세포내 신호전달 도메인이 CD3 제타 신호전달 도메인을 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 세포내 신호전달 도메인이 4-1BB 도메인을 포함하는, CD 19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 인간 CD8 알파 사슬 막관통 및 줄기 도메인(stalk domain)을 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 아미노산 서열 SEQ ID NO: 14 및 15와 적어도 75%, 바람직하게 80%, 85%, 90%, 95%를 갖는 아미노산 서열을 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, CD19에 대해 특이적이지 않은 다른 세포외 리간드 결합 도메인을 추가로 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 따른 상기 키메라 항원 수용체를 엔코딩하는 폴리누클레오티드.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 있어서, 핵산 서열 SEQ ID NO: 17과 적어도 75%, 바람직하게 80%, 85%, 90%, 95%를 갖는 핵산 서열을 포함하는 폴리누클레오티드.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항 또는 제9항의 핵산을 포함하는 발현 벡터.",
+            "refers_to": [
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하나 이상의 세포외 리간드 결합 도메인 및 하나 이상의 세포내 신호전달 도메인을 포함하는 CD19 특이적 키메라 항원 수용체를 세포 표면 막에서 발현하는 유전자 조작된 면역 세포로서, 상기 세포외 도메인이 CD19에 대해 특이적인 모노클론 항체 4G7로부터 유래된 단쇄 FV 분절을 포함하는, 유전자 조작된 면역 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 따른 CD19 특이적 키메라 항원 수용체를 세포 표면 막에서 발현하는, 유전자 조작된 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항 또는 제12항에 있어서, CD19에 대해 특이적이지 않은 다른 키메라 항원 수용체를 추가로 포함하는, 유전자 조작된 면역 세포.",
+            "refers_to": [
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항 내지 제13항 중 어느 한 항에 있어서, 염증성 T-림프구, 세포독성 T-림프구, 조절 T-림프구 또는 헬퍼 T-림프구로부터 유래된, 유전자 조작된 면역 세포.",
+            "refers_to": [
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "기증자(donor)로부터 회수된 유전자 조작된 면역 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "환자로부터 회수된 유전자 조작된 면역 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료법에서 사용하기 위한 유전자 조작된 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "B-세포 림프종 또는 백혈병에서 사용하기 위한 유전자 조작된 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 면역 세포를 제공하고,\n(b) 상기 세포의 표면에서 제1항 내지 제7항 중 어느 한 항에 따른 하나 이상의 CD19 특이적 키메라 항원 수용체를 발현시키는 것을 포함하는, 면역 세포를 조작하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서,\n(a) 면역 세포를 제공하고,\n(b) 상기 세포에 상기 CD19 특이적 키메라 항원 수용체를 엔코딩하는 하나 이상의 폴리누클레오티드를 도입하고,\n(c) 상기 폴리누클레오티드를 상기 세포로 발현시키는 것을 포함하는, 면역 세포를 조작하는 방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서,\n(a) 면역 세포를 제공하고,\n(b) 상기 세포에 상기 CD19 특이적 키메라 항원 수용체를 엔코딩하는 하나 이상의 폴리누클레오티드를 도입하고,\n(c) CD19에 대해 특이적이지 않은 하나 이상의 다른 키메라 항원 수용체를 도입하는 것을 포함하는, 면역 세포를 조작하는 방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 표면에서 제1항 내지 제7항 중 어느 한 항에 따른 CD19 특이적 키메라 항원 수용체를 발현시키는 면역 세포를 제공하고;\n(b) 상기 면역 세포를 환자에게 투여하는 것을 포함하는, 이를 필요로 하는 피검체를 치료하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20190425",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 17,
+        "claims": [
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 세포내 신호전달 도메인이 CD3 제타 신호전달 도메인을 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 세포내 신호전달 도메인이 4-1BB 도메인을 포함하는, CD 19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 인간 CD8 알파 사슬 막관통 및 줄기 도메인(stalk domain)을 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 아미노산 서열 SEQ ID NO: 14 및 15와 적어도 75% 서열 동일성을 갖는 아미노산 서열을 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, CD19에 대해 특이적이지 않은 다른 세포외 리간드 결합 도메인을 추가로 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, 핵산 서열 SEQ ID NO: 17과 적어도 75% 서열 동일성을 갖는 핵산 서열을 포함하는 폴리누클레오티드.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항의 핵산을 포함하는 발현 벡터.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, CD19에 대해 특이적이지 않은 다른 키메라 항원 수용체를 추가로 포함하는, 유전자 조작된 면역 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 염증성 T-림프구, 세포독성 T-림프구, 조절 T-림프구 또는 헬퍼 T-림프구로부터 유래된, 유전자 조작된 면역 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 세포는 건강한 기증자(donor)로부터 유래된, 유전자 조작된 면역 세포.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 세포는 암 진단 받은 환자로부터 유래된, 유전자 조작된 면역 세포.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "치료법에서 사용하기 위한, 제13항에 따른 유전자 조작된 세포.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "B-세포 림프종 또는 백혈병에서 사용하기 위한, 제13항에 따른 유전자 조작된 세포.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 면역 세포를 제공하고,\n(b) 상기 세포의 표면에서 제1항 내지 제7항 중 어느 한 항에 따른 하나 이상의 CD19 특이적 키메라 항원 수용체를 발현시키는 것을 포함하는, 면역 세포를 조작하는 시험관내(in vitro) 또는 생체 외(ex vivo) 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서,\n(a) 면역 세포를 제공하고,\n(b) 상기 세포에 상기 CD19 특이적 키메라 항원 수용체를 엔코딩하는 하나 이상의 폴리누클레오티드를 도입하고,\n(c) 상기 폴리누클레오티드를 상기 세포로 발현시키는 것을 포함하는, 면역 세포를 조작하는 시험관내 또는 생체 외 방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서,\n(a) 면역 세포를 제공하고,\n(b) 상기 세포에 상기 CD19 특이적 키메라 항원 수용체를 엔코딩하는 하나 이상의 폴리누클레오티드를 도입하고,\n(c) CD19에 대해 특이적이지 않은 하나 이상의 다른 키메라 항원 수용체를 도입하는 것을 포함하는, 면역 세포를 조작하는 시험관내 또는 생체 외 방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "표면에서 제1항 내지 제7항 중 어느 한 항에 따른 CD19 특이적 키메라 항원 수용체를 발현시키는 면역 세포를 포함하는, 이를 필요로 하는 피검체를 치료하기 위한 약학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20190528",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 5,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하나 이상의 세포외 리간드 결합 도메인, 막관통 도메인(transmembrane domain), 및 하나 이상의 세포내 신호전달 도메인을 포함하는 CD19 특이적 키메라 항원 수용체로서, 상기 세포외 도메인이 CD19에 대해 특이적인 모노클론 항체 4G7로부터 유래된 단쇄 FV 분절을 포함하고, 상기 단쇄 FV 분절은 SEQ ID NO: 3의 CD19 모노클론 항체 4G7 면역글로불린 감마 1 중쇄의 가변성 분절 및 SEQ ID NO: 4 또는 SEQ ID NO: 5의 CD19 모노클론 항체 4G7 면역글로불린 카파 경쇄의 가변성 분절을 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 단쇄 FV 분절이 SEQ ID NO: 7 또는 8의 아미노산 서열을 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, SEQ ID NO: 14 또는 15의 아미노산 서열과 적어도 75% 서열 동일성을 갖는 아미노산 서열을 포함하는, CD19 특이적 키메라 항원 수용체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하나 이상의 세포외 리간드 결합 도메인 및 하나 이상의 세포내 신호전달 도메인을 포함하는 CD19 특이적 키메라 항원 수용체를 세포 표면 막에서 발현하는 유전자 조작된 면역 세포로서, 상기 세포외 도메인이 CD19에 대해 특이적인 모노클론 항체 4G7로부터 유래된 단쇄 FV 분절을 포함하고, 상기 단쇄 FV 분절은 SEQ ID NO: 3의 CD19 모노클론 항체 4G7 면역글로불린 감마 1 중쇄의 가변성 분절 및 SEQ ID NO: 4 또는 SEQ ID NO: 5의 CD19 모노클론 항체 4G7 면역글로불린 카파 경쇄의 가변성 분절을 포함하는, 유전자 조작된 면역 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "B-세포 림프종 또는 백혈병 치료에서 사용하기 위한, 제13항에 따른 유전자 조작된 세포.",
+            "refers_to": [
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20201026",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "표면에서 제1항 내지 제7항 중 어느 한 항에 따른 CD19 특이적 키메라 항원 수용체를 발현시키는 면역 세포를 포함하는, B-세포 림프종 또는 백혈병을 치료하기 위한 약학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 22,
+      "after_claim_count": 1,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2014.11.20",
+      "internationOpenNumber": "WO2014184143",
+      "internationalApplicationDate": "2014.05.12",
+      "internationalApplicationNumber": "PCT/EP2014/059662"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "프랑스, 에프-***** 파리, 뤼 드 라 크로아 재리 *",
+      "code": "520130563705",
+      "country": "프랑스",
+      "engName": "CELLECTIS S.A.",
+      "name": "셀렉티스 에스.에이."
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "프랑스 ***** 파...",
+        "code": "",
+        "country": "",
+        "engName": "GALETTO, Roman",
+        "name": "가레토, 로만"
+      },
+      {
+        "address": "프랑스 에프-***** 레 프레시...",
+        "code": "",
+        "country": "",
+        "engName": "SMITH, Julianne",
+        "name": "스미스, 줄리안"
+      },
+      {
+        "address": "미국 ***** 워싱턴 시...",
+        "code": "",
+        "country": "",
+        "engName": "SCHARENBERG, Andrew",
+        "name": "샤렌베르크, 앤드류"
+      },
+      {
+        "address": "프랑스 에프-***** 빌리...",
+        "code": "",
+        "country": "",
+        "engName": "SCHIFFER-MANNIOUI, Cecile",
+        "name": "쉬퍼-만니오위, 세실"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 중구 서소문로**(서소문동, 정안빌딩*층)",
+      "code": "920121001826",
+      "country": "대한민국",
+      "engName": "NAM & NAM",
+      "name": "특허법인 남앤남"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2013.05.13",
+        "priorityApplicationNumber": "PCT/US2013/040755"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2013.05.13",
+        "priorityApplicationNumber": "13/892,805"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2013.05.13",
+        "priorityApplicationNumber": "PCT/US2013/040766"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2013.10.08",
+        "priorityApplicationNumber": "61/888,259"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "PLOS ONE, Vol. 8, No. 4, e61338 (2013. 4. 9.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Protein Eng. Design & Selection, Vol. 22, No. 3, pp.135-147 (2009. 2. 1.)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2012079000 A1",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2015.12.11",
+        "receiptNumber": "1-1-2015-1217456-73"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2015.12.23",
+        "receiptNumber": "1-5-2015-0192792-37"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2016.02.23",
+        "receiptNumber": "1-1-2016-0176936-92"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2016.02.24",
+        "receiptNumber": "1-5-2016-0028884-16"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.04.25",
+        "receiptNumber": "1-1-2019-0430165-03"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2019.04.25",
+        "receiptNumber": "1-1-2019-0430164-57"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.05.28",
+        "receiptNumber": "1-1-2019-0548789-50"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.08.27",
+        "receiptNumber": "9-5-2020-0587993-87"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.10.26",
+        "receiptNumber": "1-1-2020-1134921-96"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.10.26",
+        "receiptNumber": "1-1-2020-1134920-40"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.02.22",
+        "receiptNumber": "9-5-2021-0150484-67"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.04.28",
+        "receiptNumber": "4-1-2023-5105431-12"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020157035319.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c939bbb6249eaeaf818d17d50ce8383c477b6aa439129c75db76ec1385bae878c24cbd262e0b4ed27743f13cc081c70e9794d455cb5de5d5be9",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfdf7040ed982593310f0dc3a67bbda84cfdb8f77e68e2ad5c38d85f488fd94f8bd9696ec55262d1cf12dfcdaf3cf68811b400a8d37b9265a6"
+  },
+  "rndInfoArray": ""
+}

@@ -1,0 +1,3960 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.05.01",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7039669",
+      "claimCount": "22",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "혈액 생성물을 생산하기 위한 물질 및 방법",
+      "inventionTitleEng": "MATERIALS AND METHODS FOR PRODUCING BLOOD PRODUCTS",
+      "openDate": "2022.02.08",
+      "openNumber": "10-2022-0016092",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.04.28",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2021.12.02"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/19"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 7/02"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61M 1/34"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61M 1/02"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61M 1/38"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "B01D 61/14"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/078"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "혈액 제제(blood product)의 제조를 위한 물질 및 방법이 본원에 제공된다. 한 측면에서, 혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물이 본원에 제공되며, 상기 수성 매질은 단백질 농도가 공여자 성분채집(apheresis) 혈장의 단백질 농도의 50% 미만이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217039669",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20211220",
+      "document_name": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+      "claim_count": 53,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물의 제조방법으로서, 상기 방법은:\n혈소판을 포함하는 출발 물질, 혈소판을 포함하는 희석된 출발 물질, 농축된 혈소판 조성물 또는 이들의 조합을 접선 유동 여과(tangential flow filtration, TFF)하여 혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물을 제조하는 단계를 포함하고,\n상기 수성 매질은 단백질 농도가 공여자 성분채집(apheresis) 혈장의 단백질 농도의 50% 이하인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 병원체 감소 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 병원체 감소 단계는 TFF에 선행하는 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 출발 물질은 단백질 농도가 약 60 내지 약 80mg/mL인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, TFF는 적어도 2개의 정용부피(diavolume)로 정용 여과(diafiltering)하는 것을 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, TFF는 완충제, 염기, 로딩제, 선택적으로 염, 및 선택적으로 적어도 하나의 유기 용매를 포함하는 제제화제(preparation agent)로 정용여과하는 것을 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, TFF는 완충제, 염기, 로딩제, 선택적으로 염, 및 선택적으로 적어도 하나의 유기 용매를 포함하는 제제화제로의 완충액 교환을 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 내지 제7항 중 어느 한 항에 있어서, 제제화제는 HEPES(4-(2-하이드록시에틸)-1-피페라진에탄설폰산)를 포함하는 완충제, 중탄산나트륨을 포함하는 염기, 및 트레할로즈, 폴리수크로즈 또는 이들의 조합을 포함하는 로딩제를 포함하는 방법.",
+          "refers_to": [
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항 내지 제8항 중 어느 한 항에 있어서, 제제화제는 에탄올, DMSO 또는 이들의 조합을 포함하는 유기 용매를 포함하는 방법.",
+          "refers_to": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 30% 이하인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 10% 이하인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 5% 내지 약 15%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 7% 내지 약 10%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 조성물은 5.0% 미만(산란 강도 기준)의 마이크로입자를 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 조성물은 4.0% 미만(산란 강도 기준)의 마이크로입자를 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제15항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체를 포함하는 조성물을 동결건조 및/또는 동결보존하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체를 포함하는 조성물을 열처리하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제17항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD41 양성 백분율이 적어도 55%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제18항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD42 양성 백분율이 적어도 80%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제19항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 아넥신(annexin) V 양성 백분율이 적어도 70%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제20항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD47 양성 백분율이 적어도 8%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제21항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD62 양성 백분율이 적어도 80%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제22항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 세포막과 관련된 피브리노겐을 갖는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제23항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 약 4.8×103개의 입자/μL의 농도일 때 조직 인자 및 인지질을 함유하는 시약이 존재할 때 적어도 25nM의 트롬빈 피크 높이(thrombin peak height, TPH)를 생성하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제24항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 106개의 입자당 적어도 1.5 트롬빈 생성 효능 단위(thrombin generation potency units, TGPU)의 효능이 있는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제25항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 적어도 약 70×103개의 입자/μL의 농도일 때 총 혈전 형성 분석 시스템(total thrombus-formation analysis system, T-TAS) 검정에서 14분 미만의 폐색 시간을 생성하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제26항 중 어느 한 항에 있어서, 혈소판 유도체는 트롬보좀(thrombosome)을 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제27항 중 어느 한 항에 있어서, 출발 물질은:\na) 규제 기관(regulatory agency)이 승인한 테스트에 기초하여 HLA 클래스 I 항체에 대해 양성이거나;\nb) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 II 항체에 대해 양성이거나;\nc) 규제 기관이 승인한 테스트에 기초하여 HNA 항체에 대해 양성이거나;\nd) a), b) 및 c) 중 하나 이상인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제28항 중 어느 한 항에 있어서, 조성물은:\na) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 I 항체에 대해 음성이거나;\nb) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 II 항체에 대해 음성이거나;\nc) 규제 기관이 승인한 테스트에 기초하여 HNA 항체에 대해 음성이거나;\nd) a), b) 및 c) 중 하나 이상인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제29항 중 어느 한 항의 방법에 의해 제조된, 혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물로서, 상기 수성 매질은 단백질 농도가 공여자 성분채집 혈장의 단백질 농도의 50% 이하인 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 30% 이하인 조성물.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제32항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 10% 이하인 조성물.",
+          "refers_to": [
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제32항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 5% 내지 약 15%인 조성물.",
+          "refers_to": [
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제34항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 8% 내지 약 10%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제35항 중 어느 한 항에 있어서, 수성 매질은 완충제, 염기, 로딩제, 선택적으로 염, 및 선택적으로 적어도 하나의 유기 용매를 추가로 포함하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제36항 중 어느 한 항에 있어서, 수성 매질은 HEPES(4-(2-하이드록시에틸)-1-피페라진에탄설폰산)를 포함하는 완충제, 중탄산나트륨을 포함하는 염기, 및 트레할로즈, 폴리수크로즈 또는 이들의 조합을 포함하는 로딩제를 포함하는 방법.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제37항 중 어느 한 항에 있어서, 수성 매질은 에탄올, DMSO 또는 이들의 조합을 포함하는 유기 용매를 포함하는 방법.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제38항 중 어느 한 항에 있어서, 조성물은 5.0% 미만(산란 강도 기준)의 미세입자를 포함하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제38항 중 어느 한 항에 있어서, 조성물은 4.0% 미만(산란 강도 기준)의 미세입자를 포함하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제40항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD41 양성 백분율이 적어도 55%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제41항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD42 양성 백분율이 적어도 80%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제42항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 아넥신 V 양성 백분율이 적어도 70%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제43항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD47 양성 백분율이 적어도 8%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제44항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD62 양성 백분율이 적어도 80%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제45항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 세포막과 관련된 피브리노겐을 갖는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제46항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 약 4.8×103개의 입자/μL의 농도일 때 조직 인자 및 인지질을 함유하는 시약이 존재할 때 적어도 50nM의 트롬빈 피크 높이(TPH)를 생성하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제47항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 106개의 입자당 적어도 1.5 트롬빈 생성 효능 단위(TPGU)의 효능이 있는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제48항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 약 70×103개의 입자/μL 이상의 농도일 때 총 혈전 형성 분석 시스템(T-TAS) 검정에서 14분 미만의 폐색 시간을 생성하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제49항 중 어느 한 항에 있어서, 혈소판 유도체는 트롬보좀을 포함하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 내지 제50항 중 어느 한 항에 있어서,\na) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 I 항체에 대해 음성이거나;\nb) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 II 항체에 대해 음성이거나;\nc) 규제 기관이 승인한 테스트에 기초하여 HNA 항체에 대해 음성이거나;\nd) a), b) 및 c) 중 하나 이상인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료적 유효량의 제30항 내지 제51항 중 어느 한 항의 조성물을 대상체에게 투여하는 것을 포함하는, 응고 관련 질환 또는 병태의 치료가 필요한 대상체에서 응고 관련 질환 또는 병태를 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제52항에 있어서, 응고 관련 질환 또는 병태가 폰 빌레브란트병(Von Willebrand Disease), 혈우병(hemophilia), 혈소판기능저하증(thrombasthenia), 혈소판감소증(thrombocytopenia), 혈소판 감소성 자반병(thrombocytopenic purpura), 외상(trauma) 또는 이들의 조합으로 이루어진 군으로부터 선택되는 방법.",
+          "refers_to": [
+            52
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20230428",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 53,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물의 제조방법으로서, 상기 방법은:혈소판을 포함하는 출발 물질, 혈소판을 포함하는 희석된 출발 물질, 농축된 혈소판 조성물 또는 이들의 조합을 접선 유동 여과(tangential flow filtration, TFF)하여 혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물을 제조하는 단계를 포함하고,상기 수성 매질은 단백질 농도가 공여자 성분채집(apheresis) 혈장의 단백질 농도의 50% 이하인 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 병원체 감소 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 병원체 감소 단계는 TFF에 선행하는 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 출발 물질은 단백질 농도가 약 60 내지 약 80mg/mL인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, TFF는 적어도 2개의 정용부피(diavolume)로 정용 여과(diafiltering)하는 것을 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, TFF는 완충제, 염기, 로딩제, 선택적으로 염, 및 선택적으로 적어도 하나의 유기 용매를 포함하는 제제화제(preparation agent)로 정용여과하는 것을 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, TFF는 완충제, 염기, 로딩제, 선택적으로 염, 및 선택적으로 적어도 하나의 유기 용매를 포함하는 제제화제로의 완충액 교환을 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항 내지 제7항 중 어느 한 항에 있어서, 제제화제는 HEPES(4-(2-하이드록시에틸)-1-피페라진에탄설폰산)를 포함하는 완충제, 중탄산나트륨을 포함하는 염기, 및 트레할로즈, 폴리수크로즈 또는 이들의 조합을 포함하는 로딩제를 포함하는 방법.",
+          "refers_to": [
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항 내지 제8항 중 어느 한 항에 있어서, 제제화제는 에탄올, DMSO 또는 이들의 조합을 포함하는 유기 용매를 포함하는 방법.",
+          "refers_to": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 30% 이하인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제10항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 10% 이하인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제10항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 5% 내지 약 15%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 7% 내지 약 10%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 조성물은 5.0% 미만(산란 강도 기준)의 마이크로입자를 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 조성물은 4.0% 미만(산란 강도 기준)의 마이크로입자를 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제15항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체를 포함하는 조성물을 동결건조 및/또는 동결보존하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체를 포함하는 조성물을 열처리하는 단계를 추가로 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제17항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD41 양성 백분율이 적어도 55%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제18항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD42 양성 백분율이 적어도 80%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제19항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 아넥신(annexin) V 양성 백분율이 적어도 70%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제20항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD47 양성 백분율이 적어도 8%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제21항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD62 양성 백분율이 적어도 80%인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제22항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 세포막과 관련된 피브리노겐을 갖는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제23항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 약 4.8×103개의 입자/μL의 농도일 때 조직 인자 및 인지질을 함유하는 시약이 존재할 때 적어도 25nM의 트롬빈 피크 높이(thrombin peak height, TPH)를 생성하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제24항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 106개의 입자당 적어도 1.5 트롬빈 생성 효능 단위(thrombin generation potency units, TGPU)의 효능이 있는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제25항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 적어도 약 70×103개의 입자/μL의 농도일 때 총 혈전 형성 분석 시스템(total thrombus-formation analysis system, T-TAS) 검정에서 14분 미만의 폐색 시간을 생성하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제26항 중 어느 한 항에 있어서, 혈소판 유도체는 트롬보좀(thrombosome)을 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제27항 중 어느 한 항에 있어서, 출발 물질은:a) 규제 기관(regulatory agency)이 승인한 테스트에 기초하여 HLA 클래스 I 항체에 대해 양성이거나;b) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 II 항체에 대해 양성이거나;c) 규제 기관이 승인한 테스트에 기초하여 HNA 항체에 대해 양성이거나;d) a), b) 및 c) 중 하나 이상인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제28항 중 어느 한 항에 있어서, 조성물은:a) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 I 항체에 대해 음성이거나;b) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 II 항체에 대해 음성이거나;c) 규제 기관이 승인한 테스트에 기초하여 HNA 항체에 대해 음성이거나;d) a), b) 및 c) 중 하나 이상인 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제29항 중 어느 한 항의 방법에 의해 제조된, 혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물로서, 상기 수성 매질은 단백질 농도가 공여자 성분채집 혈장의 단백질 농도의 50% 이하인 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 30% 이하인 조성물.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제32항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 10% 이하인 조성물.",
+          "refers_to": [
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제32항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 5% 내지 약 15%인 조성물.",
+          "refers_to": [
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제34항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 8% 내지 약 10%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제35항 중 어느 한 항에 있어서, 수성 매질은 완충제, 염기, 로딩제, 선택적으로 염, 및 선택적으로 적어도 하나의 유기 용매를 추가로 포함하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제36항 중 어느 한 항에 있어서, 수성 매질은 HEPES(4-(2-하이드록시에틸)-1-피페라진에탄설폰산)를 포함하는 완충제, 중탄산나트륨을 포함하는 염기, 및 트레할로즈, 폴리수크로즈 또는 이들의 조합을 포함하는 로딩제를 포함하는 방법.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제37항 중 어느 한 항에 있어서, 수성 매질은 에탄올, DMSO 또는 이들의 조합을 포함하는 유기 용매를 포함하는 방법.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제38항 중 어느 한 항에 있어서, 조성물은 5.0% 미만(산란 강도 기준)의 미세입자를 포함하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제38항 중 어느 한 항에 있어서, 조성물은 4.0% 미만(산란 강도 기준)의 미세입자를 포함하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제40항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD41 양성 백분율이 적어도 55%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제41항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD42 양성 백분율이 적어도 80%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제42항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 아넥신 V 양성 백분율이 적어도 70%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제43항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는  CD47 양성 백분율이 적어도 8%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+          ]
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제44항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD62 양성 백분율이 적어도 80%인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제45항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 세포막과 관련된 피브리노겐을 갖는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제46항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 약 4.8×103개의 입자/μL의 농도일 때 조직 인자 및 인지질을 함유하는 시약이 존재할 때 적어도 50nM의 트롬빈 피크 높이(TPH)를 생성하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제47항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 106개의 입자당 적어도 1.5 트롬빈 생성 효능 단위(TPGU)의 효능이 있는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제48항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 약 70×103개의 입자/μL 이상의 농도일 때 총 혈전 형성 분석 시스템(T-TAS) 검정에서 14분 미만의 폐색 시간을 생성하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제49항 중 어느 한 항에 있어서, 혈소판 유도체는 트롬보좀을 포함하는 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49
+          ]
+        },
+        {
+          "claim_number": 51,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항 내지 제50항 중 어느 한 항에 있어서,a) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 I 항체에 대해 음성이거나;b) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 II 항체에 대해 음성이거나;c) 규제 기관이 승인한 테스트에 기초하여 HNA 항체에 대해 음성이거나;d) a), b) 및 c) 중 하나 이상인 조성물.",
+          "refers_to": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50
+          ]
+        },
+        {
+          "claim_number": 52,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "치료적 유효량의 제30항 내지 제51항 중 어느 한 항의 조성물을 대상체에게 투여하는 것을 포함하는, 응고 관련 질환 또는 병태의 치료가 필요한 대상체에서 응고 관련 질환 또는 병태를 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 53,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제52항에 있어서, 응고 관련 질환 또는 병태가 폰 빌레브란트병(Von Willebrand Disease), 혈우병(hemophilia), 혈소판기능저하증(thrombasthenia), 혈소판감소증(thrombocytopenia), 혈소판 감소성 자반병(thrombocytopenic purpura), 외상(trauma) 또는 이들의 조합으로 이루어진 군으로부터 선택되는 방법.",
+          "refers_to": [
+            52
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20211220",
+        "document_name": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+        "claim_count": 53,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물의 제조방법으로서, 상기 방법은:\n혈소판을 포함하는 출발 물질, 혈소판을 포함하는 희석된 출발 물질, 농축된 혈소판 조성물 또는 이들의 조합을 접선 유동 여과(tangential flow filtration, TFF)하여 혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물을 제조하는 단계를 포함하고,\n상기 수성 매질은 단백질 농도가 공여자 성분채집(apheresis) 혈장의 단백질 농도의 50% 이하인 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 병원체 감소 단계를 추가로 포함하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 병원체 감소 단계는 TFF에 선행하는 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 출발 물질은 단백질 농도가 약 60 내지 약 80mg/mL인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, TFF는 적어도 2개의 정용부피(diavolume)로 정용 여과(diafiltering)하는 것을 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, TFF는 완충제, 염기, 로딩제, 선택적으로 염, 및 선택적으로 적어도 하나의 유기 용매를 포함하는 제제화제(preparation agent)로 정용여과하는 것을 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, TFF는 완충제, 염기, 로딩제, 선택적으로 염, 및 선택적으로 적어도 하나의 유기 용매를 포함하는 제제화제로의 완충액 교환을 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 내지 제7항 중 어느 한 항에 있어서, 제제화제는 HEPES(4-(2-하이드록시에틸)-1-피페라진에탄설폰산)를 포함하는 완충제, 중탄산나트륨을 포함하는 염기, 및 트레할로즈, 폴리수크로즈 또는 이들의 조합을 포함하는 로딩제를 포함하는 방법.",
+            "refers_to": [
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항 내지 제8항 중 어느 한 항에 있어서, 제제화제는 에탄올, DMSO 또는 이들의 조합을 포함하는 유기 용매를 포함하는 방법.",
+            "refers_to": [
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 30% 이하인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 10% 이하인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 5% 내지 약 15%인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 7% 내지 약 10%인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 조성물은 5.0% 미만(산란 강도 기준)의 마이크로입자를 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제13항 중 어느 한 항에 있어서, 조성물은 4.0% 미만(산란 강도 기준)의 마이크로입자를 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제15항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체를 포함하는 조성물을 동결건조 및/또는 동결보존하는 단계를 추가로 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제16항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체를 포함하는 조성물을 열처리하는 단계를 추가로 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제17항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD41 양성 백분율이 적어도 55%인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제18항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD42 양성 백분율이 적어도 80%인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제19항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 아넥신(annexin) V 양성 백분율이 적어도 70%인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제20항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD47 양성 백분율이 적어도 8%인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제21항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD62 양성 백분율이 적어도 80%인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제22항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 세포막과 관련된 피브리노겐을 갖는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제23항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 약 4.8×103개의 입자/μL의 농도일 때 조직 인자 및 인지질을 함유하는 시약이 존재할 때 적어도 25nM의 트롬빈 피크 높이(thrombin peak height, TPH)를 생성하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제24항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 106개의 입자당 적어도 1.5 트롬빈 생성 효능 단위(thrombin generation potency units, TGPU)의 효능이 있는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제25항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 적어도 약 70×103개의 입자/μL의 농도일 때 총 혈전 형성 분석 시스템(total thrombus-formation analysis system, T-TAS) 검정에서 14분 미만의 폐색 시간을 생성하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제26항 중 어느 한 항에 있어서, 혈소판 유도체는 트롬보좀(thrombosome)을 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제27항 중 어느 한 항에 있어서, 출발 물질은:\na) 규제 기관(regulatory agency)이 승인한 테스트에 기초하여 HLA 클래스 I 항체에 대해 양성이거나;\nb) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 II 항체에 대해 양성이거나;\nc) 규제 기관이 승인한 테스트에 기초하여 HNA 항체에 대해 양성이거나;\nd) a), b) 및 c) 중 하나 이상인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제28항 중 어느 한 항에 있어서, 조성물은:\na) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 I 항체에 대해 음성이거나;\nb) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 II 항체에 대해 음성이거나;\nc) 규제 기관이 승인한 테스트에 기초하여 HNA 항체에 대해 음성이거나;\nd) a), b) 및 c) 중 하나 이상인 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제29항 중 어느 한 항의 방법에 의해 제조된, 혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "혈소판 또는 혈소판 유도체 및 수성 매질을 포함하는 조성물로서, 상기 수성 매질은 단백질 농도가 공여자 성분채집 혈장의 단백질 농도의 50% 이하인 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 30% 이하인 조성물.",
+            "refers_to": [
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제32항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 10% 이하인 조성물.",
+            "refers_to": [
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제32항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 5% 내지 약 15%인 조성물.",
+            "refers_to": [
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제34항 중 어느 한 항에 있어서, 수성 매질의 단백질 농도는 공여자 성분채집 혈장의 단백질 농도의 약 8% 내지 약 10%인 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제35항 중 어느 한 항에 있어서, 수성 매질은 완충제, 염기, 로딩제, 선택적으로 염, 및 선택적으로 적어도 하나의 유기 용매를 추가로 포함하는 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제36항 중 어느 한 항에 있어서, 수성 매질은 HEPES(4-(2-하이드록시에틸)-1-피페라진에탄설폰산)를 포함하는 완충제, 중탄산나트륨을 포함하는 염기, 및 트레할로즈, 폴리수크로즈 또는 이들의 조합을 포함하는 로딩제를 포함하는 방법.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제37항 중 어느 한 항에 있어서, 수성 매질은 에탄올, DMSO 또는 이들의 조합을 포함하는 유기 용매를 포함하는 방법.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제38항 중 어느 한 항에 있어서, 조성물은 5.0% 미만(산란 강도 기준)의 미세입자를 포함하는 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제38항 중 어느 한 항에 있어서, 조성물은 4.0% 미만(산란 강도 기준)의 미세입자를 포함하는 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제40항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD41 양성 백분율이 적어도 55%인 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제41항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD42 양성 백분율이 적어도 80%인 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제42항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 아넥신 V 양성 백분율이 적어도 70%인 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42
+            ]
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제43항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD47 양성 백분율이 적어도 8%인 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43
+            ]
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제44항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 CD62 양성 백분율이 적어도 80%인 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제45항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 세포막과 관련된 피브리노겐을 갖는 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제46항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 약 4.8×103개의 입자/μL의 농도일 때 조직 인자 및 인지질을 함유하는 시약이 존재할 때 적어도 50nM의 트롬빈 피크 높이(TPH)를 생성하는 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제47항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 106개의 입자당 적어도 1.5 트롬빈 생성 효능 단위(TPGU)의 효능이 있는 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제48항 중 어느 한 항에 있어서, 혈소판 또는 혈소판 유도체는 약 70×103개의 입자/μL 이상의 농도일 때 총 혈전 형성 분석 시스템(T-TAS) 검정에서 14분 미만의 폐색 시간을 생성하는 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제49항 중 어느 한 항에 있어서, 혈소판 유도체는 트롬보좀을 포함하는 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49
+            ]
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 내지 제50항 중 어느 한 항에 있어서,\na) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 I 항체에 대해 음성이거나;\nb) 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 II 항체에 대해 음성이거나;\nc) 규제 기관이 승인한 테스트에 기초하여 HNA 항체에 대해 음성이거나;\nd) a), b) 및 c) 중 하나 이상인 조성물.",
+            "refers_to": [
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50
+            ]
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료적 유효량의 제30항 내지 제51항 중 어느 한 항의 조성물을 대상체에게 투여하는 것을 포함하는, 응고 관련 질환 또는 병태의 치료가 필요한 대상체에서 응고 관련 질환 또는 병태를 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제52항에 있어서, 응고 관련 질환 또는 병태가 폰 빌레브란트병(Von Willebrand Disease), 혈우병(hemophilia), 혈소판기능저하증(thrombasthenia), 혈소판감소증(thrombocytopenia), 혈소판 감소성 자반병(thrombocytopenic purpura), 외상(trauma) 또는 이들의 조합으로 이루어진 군으로부터 선택되는 방법.",
+            "refers_to": [
+              52
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20230428",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 53,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "동결 건조된 혈소판 유도체 조성물의 제조방법으로서, 상기 방법은:\n완충제, 10mM 내지 500mM 범위의 양의 트레할로즈, 및 3% 내지 7% 범위의 양의 폴리수크로즈를 포함하는 제제화제(preparation agent) 내에 혈소판을 포함하는 혈소판 조성물의 접선 유동 여과(tangential flow filtration, TFF)를 수행하여, 7.5% 이하의 혈장 단백질을 갖고 산란 강도 기준으로 5.0% 미만의 마이크로입자를 갖는 수성 매질 내에 적어도 1000×103개 혈소판/μl를 포함하는 TFF 처리된 조성물을 제조하는 단계; 및\n수성 매질 내에 혈소판을 포함하는 TFF 처리된 조성물을 동결 건조시켜 동결 건조된 혈소판 유도체를 포함하는 동결 건조된 혈소판 유도체 조성물을 형성하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "혈소판 유도체를 포함하는 건조 혈소판 유도체 조성물로서, 조성물 내의 혈소판 유도체 중 적어도 50%가 0.5μm 내지 5μm 범위의 입자 직경을 갖고, 조성물이 5% 미만의 마이크로입자를 포함하고, 혈소판 유도체가\n(a) 적어도 80%의 CD42 양성 백분율을 갖고,\n(b) 시험관 내 혈전 형성 검정(in vitro thrombin formation analysis)에서 트롬빈을 생성할 수 있고,\n(c) 적어도 65%의 CD41 양성 백분율을 갖는, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 건조 혈소판 유도체 조성물이 동결 건조된 혈소판 유도체를 포함하는 동결 건조된 혈소판 유도체 조성물인, 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 방법이 동결 건조된 혈소판 유도체 조성물을 60℃ 내지 85℃ 범위의 온도에서 적어도 1시간 내지 36시간 동안 가열하여 동결 건조된 혈소판 유도체 조성물 내의 동결 건조된 혈소판 유도체를 열처리함으로써, 시험관 내 트롬빈 형성 검정에서 트롬빈을 생성할 수 있는 열처리된 혈소판을 포함하는 열처리된 혈소판 조성물을 형성하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 열처리된 혈소판 조성물 내의 열처리된 혈소판 중 적어도 80%가 CD42 양성인, 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, TFF가 0.45μm 내지 0.6μm 범위의 기공 크기를 갖는 막을 사용하여 수행되고, TFF 처리된 조성물이 산란 강도 기준으로 3.0% 미만의 마이크로입자를 갖는, 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 제제화제 내의 트레할로즈가 50mM 내지 500mM 범위의 양으로 존재하고, 폴리수크로즈가 3% 내지 6% 범위의 양으로 존재하는, 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, \n(a) 열처리된 혈소판 조성물 내의 열처리된 혈소판이 적어도 약 70×103개 입자/μL의 농도일 때, 총 혈전 형성 분석 시스템(total thrombus-formation analysis system, T-TAS) 검정에서 14분 미만의 폐색 시간을 생성하거나;\n(b) 열처리된 혈소판 조성물 내의 열처리된 혈소판이 약 4.8×103개의 입자/μL의 농도일 때, 조직 인자 및 인지질을 함유하는 시약의 존재하에 적어도 25nM의 트롬빈 피크 높이(thrombin peak height, TPH)를 생성하거나;\n(c) (a) 및 (b)인, 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서,\n(a) 열처리된 혈소판 조성물 내의 열처리된 혈소판 중 적어도 55%가 CD41 양성이거나;\n(b) 열처리된 혈소판 조성물 내의 열처리된 혈소판 중 적어도 70%가 아넥신 V 양성이거나;\n(c) 열처리된 혈소판 조성물 내의 열처리된 혈소판 중 적어도 8%가 CD47 양성이거나;\n(d) 열처리된 혈소판 조성물 내의 열처리된 혈소판 중 적어도 80%가 CD62 양성이거나;\n(e) (a), (b), (c), 및 (d) 중 둘 이상인, 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 열처리된 혈소판 조성물 내의 열처리된 혈소판 중 적어도 일부가 그들의 세포막과 관련된 피브리노겐을 갖는, 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 동결 건조된 혈소판 유도체 조성물이\na) HLA 클래스 I 항체에 대해 규제 기관(regulatory agency)이 승인한 테스트에 기초하여 HLA 클래스 I 항체에 대해 음성이거나;\nb) HLA 클래스 II 항체에 대해 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 II 항체에 대해 음성이거나;\nc) HNA 항체에 대해 규제 기관이 승인한 테스트에 기초하여 HNA 항체에 대해 음성이거나;\nd) a), b) 및 c) 중 둘 이상인, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, TFF의 수행은 \n혈소판 조성물을 제제화제로 희석하여 희석된 혈소판 조성물을 형성하는 단계;\n희석된 혈소판 조성물을 농축하여 농축된 혈소판 조성물 내의 혈소판이 2000×103개 세포/μL 내지 2500×103개 세포/μL 범위의 농도를 갖는 농축된 혈소판 조성물을 형성하는 단계; 및\n농축된 혈소판 조성물의 TFF를 적어도 2 정용부피(diavolume)의 제제화제로 수행하여 TFF 처리된 조성물을 제조하는 단계\n를 포함하는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, TFF는 엔드포인트에 도달할 때까지 수행되고, 엔드포인트는 TFF 처리된 조성물의 단백질 농도를 측정하는 목표 흡광도이고, TFF 처리된 조성물의 목표 흡광도는 7.5% 혈장 이하의 흡광도 단위 값으로 설정되는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, TFF는 엔드포인트에 도달할 때까지 수행되고, 엔드포인트는 TFF 처리된 조성물의 단백질 농도를 측정하는 목표 흡광도이고, 목표 흡광도는 280nm에서 측정되고, TFF 처리된 조성물의 목표 흡광도는 0.5cm의 경로 길이를 사용하여 1.70AU 이하의 값으로 설정되고, 280nm 흡광도는 1.66AU와 동일한 7.5% 혈장을 측정하는 시스템에 상대적인, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 방법은 혈소판을 포함하는 조성물의 원심분리를 포함하지 않는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 동결 건조된 혈소판 유도체 조성물 내의 동결 건조된 혈소판 유도체는 2년 내지 3년의 저장 수명(shelf-life)을 갖는, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, \na) 조성물 내의 동결 건조된 혈소판 유도체 중 적어도 70%가 아넥신 V 양성이거나;\nb) 조성물 내의 동결 건조된 혈소판 유도체 중 적어도 8%가 CD47 양성이거나;\nc) 조성물 내의 동결 건조된 혈소판 유도체 중 적어도 80%가 CD62 양성이거나;\nd) a), b) 및 c) 중 둘 이상인, 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항에 있어서, \na) 조성물 내의 동결 건조된 혈소판 유도체 중 적어도 70%가 아넥신 V 양성이고;\nc) 조성물 내의 동결 건조된 혈소판 유도체 중 적어도 80%가 CD62 양성인, 조성물.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, \na) 동결 건조된 혈소판 유도체가 약 4.8×103개 입자/μL의 농도일 때, 조직 인자 및 인지질을 함유하는 시약의 존재하에 적어도 25nM의 트롬빈 피크 높이(TPH)를 생성하거나;\nb) 동결 건조된 혈소판 유도체가 적어도 약 70×103개 입자/μL의 농도일 때, 총 혈전 형성 분석 시스템(T-TAS) 검정에서 14분 미만의 폐색 시간을 생성하거나;\nc) 동결 건조된 혈소판 유도체가 106개 입자당 적어도 1.5 트롬빈 생성 효능 단위(thrombin generation potency unit; TGPU)의 효능을 갖거나;\nd) a), b) 및 c) 중 둘 이상인, 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, \na) 동결 건조된 혈소판 유도체가 약 4.8×103개 입자/μL의 농도일 때, 조직 인자 및 인지질을 함유하는 시약의 존재하에 적어도 25nM의 트롬빈 피크 높이(TPH)를 생성하고/하거나;\nb) 동결 건조된 혈소판 유도체가 적어도 약 70×103개 입자/μL의 농도일 때, 총 혈전 형성 분석 시스템(T-TAS) 검정에서 14분 미만의 폐색 시간을 생성하는, 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 조성물이\na) HLA 클래스 I 항체에 대해 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 I 항체에 대해 음성이고/이거나;\nb) HLA 클래스 II 항체에 대해 규제 기관이 승인한 테스트에 기초하여 HLA 클래스 II 항체에 대해 음성이고/이거나;\nc) HNA 항체에 대해 규제 기관이 승인한 테스트에 기초하여 HNA 항체에 대해 음성인, 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 조성물이 응고 관련 질환 또는 병태의 치료가 필요한 대상체에서 응고 관련 질환 또는 병태의 치료에 사용하기 위한 것이고, 응고 관련 질환 또는 병태가 폰 빌레브란트병(Von Willebrand Disease), 혈우병(hemophilia), 혈소판기능저하증(thrombasthenia), 혈소판감소증(thrombocytopenia), 혈소판 감소성 자반병(thrombocytopenic purpura), 외상(trauma), 또는 이들의 조합으로 이루어진 군으로부터 선택되는, 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 51,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 52,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 53,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 53,
+      "after_claim_count": 53,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.11.12",
+      "internationOpenNumber": "WO2020227149",
+      "internationalApplicationDate": "2020.05.01",
+      "internationalApplicationNumber": "PCT/US2020/031172"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 매릴랜드주 (우편번호 *****) 록빌 키 웨스트 애비뉴 ****",
+      "code": "520190690394",
+      "country": "미국",
+      "engName": "Cellphire, Inc.",
+      "name": "셀파이어, 인크."
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국, 메릴랜드 *****,...",
+        "code": "",
+        "country": "",
+        "engName": "MONTGOMERY, Joshua Donald",
+        "name": "몽고메리 조슈아 도널드"
+      },
+      {
+        "address": "미국, 메릴랜드 *****, 게이더...",
+        "code": "",
+        "country": "",
+        "engName": "ISHLER, Braden Carl",
+        "name": "이쉴러 브래든 칼"
+      },
+      {
+        "address": "미국, 메릴랜드 *****,...",
+        "code": "",
+        "country": "",
+        "engName": "AMOS, Stephen Edward",
+        "name": "에이모스 스티븐 에드워드"
+      },
+      {
+        "address": "미국, 인디애나 *****,...",
+        "code": "",
+        "country": "",
+        "engName": "MOSKOWITZ, Keith Andrew",
+        "name": "모스코위츠 키스 앤드류"
+      },
+      {
+        "address": "미국, 메릴랜드 ****...",
+        "code": "",
+        "country": "",
+        "engName": "LEE, Amber Nicole",
+        "name": "리 앰버 니콜"
+      },
+      {
+        "address": "프랑스, *****,...",
+        "code": "",
+        "country": "",
+        "engName": "JORDA, Rafael",
+        "name": "조르다 라파엘"
+      },
+      {
+        "address": "미국, 메릴랜드 *****,...",
+        "code": "",
+        "country": "",
+        "engName": "FITZPATRICK, Glen Michael",
+        "name": "피츠패트릭 글렌 마이클"
+      },
+      {
+        "address": "미국, 버지니아 *****, 알링...",
+        "code": "",
+        "country": "",
+        "engName": "MATHEWS, Michael Alexander",
+        "name": "매튜스 마이클 알렉산더"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 송파구 법원로 ***, *층(문정동)",
+      "code": "920201000613",
+      "country": "대한민국",
+      "engName": "HANOL Intellectual Property and Law",
+      "name": "특허법인한얼"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2019.05.03",
+        "priorityApplicationNumber": "62/843,061"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2019.11.15",
+        "priorityApplicationNumber": "62/936,122"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.12.02",
+        "receiptNumber": "1-1-2021-1400278-98"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[New Translation under Article 201 of Patent Act or Article 35 of Utility Model Act] Submission of Document",
+        "documentName": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+        "receiptDate": "2021.12.20",
+        "receiptNumber": "1-1-2021-1472480-25"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2021.12.30",
+        "receiptNumber": "1-1-2021-1530746-14"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2022.01.05",
+        "receiptNumber": "1-5-2022-0003034-13"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.04.28",
+        "receiptNumber": "1-1-2023-0483064-48"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.04.28",
+        "receiptNumber": "1-1-2023-0483065-94"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.17",
+        "receiptNumber": "9-5-2025-1004027-52"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217039669.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c930d444d5d3f0367fd9cfd97598d99e000cd493a30dadaddcd36d5983d6d967cf5b23e9d43b53c717233d55e9d7853bccfed199d57509f0e9f",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf3357957a3d6eb8eb8d348e367542e18bd19f0fd621568506d5f01c8b69d88235e0149c69d2a75a5c01f3be26eca99b974b2a3a3364f3b1af"
+  },
+  "rndInfoArray": ""
+}

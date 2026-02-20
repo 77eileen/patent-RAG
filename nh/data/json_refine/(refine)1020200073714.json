@@ -1,0 +1,770 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.06.17",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-0073714",
+      "claimCount": "13",
+      "examinerName": "박정민",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "BCMA를 표적으로 하는 키메라 항원 수용체 및 이의 용도",
+      "inventionTitleEng": "Chimeric antigen receptor targeting BCMA and use  thereof",
+      "openDate": "",
+      "openNumber": "",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.06.17",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.10.25",
+      "publicationNumber": "",
+      "registerDate": "2021.10.18",
+      "registerNumber": "10-2316091-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/725"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 37/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 BCMA를 표적으로 하는 키메라 항원 수용체 및 이의 용도에 관한 것으로, 보다 상세하게는 BCMA를 표적으로 하는 항체, 상기 항체를 포함하는 키메라 항원 수용체, 상기 키메라 항원 수용체를 발현하는 CAR-T 세포에 관한 것이다.본 발명에서 제조된 BCMA를 표적으로 하는 키메라 항원 수용체 및 CAR-T 세포는 BCMA와 효과적으로 결합할 뿐만 아니라, BCMA와 결합한 CAR-T 세포의 활성화가 이루어진 것을 확인하였다. 또한, 본 발명의 CAR-T 세포는 BCMA를 발현하는 세포를 효과적으로 사멸시키는 것을 확인하였으므로, 본 발명의 BCMA를 표적으로 하는 키메라 항원 수용체 및 CAR-T 세포는 B 세포 또는 BCMA 발현과 관련된 질환 예방 또는 치료용 조성물로 유용하게 활용할 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020200073714",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200617",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 14,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "서열번호 1의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 2의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 3의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 중쇄 가변부위; 및 \n서열번호 4의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 5의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 6의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 경쇄 가변부위;를 포함하는 BCMA(B-cell maturation antigen)에 특이적으로 결합하는 항체 또는 이의 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 항체는 서열번호 7의 아미노산 서열로 표시되는 중쇄 가변부위 및 서열번호 8의 아미노산 서열로 표시되는 경쇄 가변부위로 구성되는 항체 또는 서열번호 13의 아미노산 서열로 표시되는 중쇄 가변부위 및 서열번호 14의 아미노산 서열로 표시되는 경쇄 가변부위로 구성되는 항체인 것을 특징으로 하는 BCMA(B-cell maturation antigen)에 특이적으로 결합하는 항체 또는 이의 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "BCMA-결합 도메인; \n막관통 도메인(transmembrane domain); \n공동자극 도메인(costimulatory domain); 및 \n세포 내 신호전달 도메인(intracellular signal transduction domain)을 포함하는 키메릭 항원 수용체(chimeric antigen receptor: CAR)로,\n상기 BCMA-결합 도메인은 BCMA와 특이적으로 결합할 수 있는 항체 또는 이의 단편을 포함하며,\n상기 항체는 서열번호 1의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 2의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 3의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 중쇄 가변부위, 및 서열번호 4의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 5의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 6의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 경쇄 가변부위를 포함하는 것을 특징으로 하는 키메릭 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 막관통 도메인은 CD8α, CD4, CD28, CD137, CD80, CD86, CD152 및 PD1로 구성된 군에서 선택되는 단백질인 것을 특징으로 하는 키메릭 항원 수용체.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 공동자극 도메인은 CD28, 4-1BB, OX-40 및 ICOS로 구성된 군에서 선택되는 단백질인 것을 특징으로 하는 키메릭 항원 수용체.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 신호전달 도메인은 CD3ζ인 것을 특징으로 하는 키메릭 항원 수용체.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 상기 BCMA-결합 도메인의 C 말단 및 막관통 도메인의 N 말단 사이에 힌지 부위(hinge region)가 추가로 포함되는 것을 특징으로 하는 키메릭 항원 수용체.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항 내지 제7항 중 어느 한 항의 키메릭 항원 수용체(CAR)를 코딩하는 폴리뉴클레오타이드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항 내지 제7항 중 어느 한 항의 키메릭 항원 수용체(CAR)를 폴리뉴클레오타이드를 포함하는 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 벡터는 플라스미드(plasmid), 레트로바이러스(retroviral) 벡터 또는 렌티바이러스(lentiviral)인 것을 특징으로 하는 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항 내지 제7항 중 어느 한 항의 키메릭 항원 수용체(CAR)를 폴리뉴클레오타이드 또는 상기 폴리뉴클레오타이드를 포함하는 벡터를 포함하는 면역 이펙터 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 상기 면역 이펙터 세포는 T 세포 또는 자연살해(Natural Killer) 세포인 것을 특징으로 하는 면역 이펙터 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항의 면역 이펙터 세포를 포함하는 BCMA 발현과 관련된 질환 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 BCMA 발현과 관련된 질환은 다발성골수종(multiple myeloma), 혈액암, 비-호지킨 림프종(non-Hodgkin's lymphoma), 자가항체-의존성 자가면역 질환(autoantibody-dependent autoimmune disease), 전신홍반루프스(systemic lupus erythematosus, SLE) 또는 류마티스 관절염(rheumatoid arthritis)인 것을 특징으로 하는 BCMA 발현과 관련된 질환 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            13
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20210630",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 14,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열번호 1의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 2의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 3의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 중쇄 가변부위; 및 서열번호 4의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 5의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 6의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 경쇄 가변부위;를 포함하는 BCMA(B-cell maturation antigen)에 특이적으로 결합하는 항체 또는 이의 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 항체는 서열번호 7의 아미노산 서열로 표시되는 중쇄 가변부위 및 서열번호 8의 아미노산 서열로 표시되는 경쇄 가변부위로 구성되는 항체 또는 서열번호 13의 아미노산 서열로 표시되는 중쇄 가변부위 및 서열번호 14의 아미노산 서열로 표시되는 경쇄 가변부위로 구성되는 항체인 것을 특징으로 하는 BCMA(B-cell maturation antigen)에 특이적으로 결합하는 항체 또는 이의 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "BCMA-결합 도메인; 막관통 도메인(transmembrane domain); 공동자극 도메인(costimulatory domain); 및 세포 내 신호전달 도메인(intracellular signal transduction domain)을 포함하는 키메릭 항원 수용체(chimeric antigen receptor: CAR)로,상기 BCMA-결합 도메인은 BCMA와 특이적으로 결합할 수 있는 항체 또는 이의 단편을 포함하며,상기 항체는 서열번호 1의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 2의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 3의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 중쇄 가변부위, 및 서열번호 4의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 5의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 6의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 경쇄 가변부위를 포함하는 것을 특징으로 하는 키메릭 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 상기 막관통 도메인은 CD8α, CD4, CD28, CD137, CD80, CD86, CD152 및 PD1로 구성된 군에서 선택되는 단백질인 것을 특징으로 하는 키메릭 항원 수용체.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 상기 공동자극 도메인은 CD28, 4-1BB, OX-40 및 ICOS로 구성된 군에서 선택되는 단백질인 것을 특징으로 하는 키메릭 항원 수용체.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 상기 신호전달 도메인은 CD3ζ인 것을 특징으로 하는 키메릭 항원 수용체.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 상기 BCMA-결합 도메인의 C 말단 및 막관통 도메인의 N 말단 사이에 힌지 부위(hinge region)가 추가로 포함되는 것을 특징으로 하는 키메릭 항원 수용체.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항 내지 제7항 중 어느 한 항의 키메릭 항원 수용체(CAR)를 코딩하는 폴리뉴클레오타이드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항 내지 제7항 중 어느 한 항의 키메릭 항원 수용체(CAR)를 코딩하는 폴리뉴클레오타이드를 포함하는 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 벡터는 플라스미드(plasmid), 레트로바이러스(retroviral) 벡터 또는 렌티바이러스(lentiviral)인 것을 특징으로 하는 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항 내지 제7항 중 어느 한 항의 키메릭 항원 수용체(CAR)를 코딩하는 폴리뉴클레오타이드 또는 상기 폴리뉴클레오타이드를 포함하는 벡터를 포함하는 면역 이펙터 세포로, 상기 면역 이펙터 세포는 단리된 세포인 것을 특징으로 하는, 면역 이펙터 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 면역 이펙터 세포는 T 세포 또는 자연살해(Natural Killer) 세포인 것을 특징으로 하는 면역 이펙터 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항의 면역 이펙터 세포를 포함하는 BCMA 발현과 관련된 질환 예방 또는 치료용 약학적 조성물로,상기 BCMA 발현과 관련된 질환은 다발성골수종(multiple myeloma), 혈액암, 비-호지킨 림프종(non-Hodgkin's lymphoma), 자가항체-의존성 자가면역 질환(autoantibody-dependent autoimmune disease), 전신홍반루프스(systemic lupus erythematosus, SLE) 또는 류마티스 관절염(rheumatoid arthritis)인 것을 특징으로 하는 BCMA 발현과 관련된 질환 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200617",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 14,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "서열번호 1의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 2의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 3의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 중쇄 가변부위; 및 \n서열번호 4의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 5의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 6의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 경쇄 가변부위;를 포함하는 BCMA(B-cell maturation antigen)에 특이적으로 결합하는 항체 또는 이의 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 항체는 서열번호 7의 아미노산 서열로 표시되는 중쇄 가변부위 및 서열번호 8의 아미노산 서열로 표시되는 경쇄 가변부위로 구성되는 항체 또는 서열번호 13의 아미노산 서열로 표시되는 중쇄 가변부위 및 서열번호 14의 아미노산 서열로 표시되는 경쇄 가변부위로 구성되는 항체인 것을 특징으로 하는 BCMA(B-cell maturation antigen)에 특이적으로 결합하는 항체 또는 이의 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "BCMA-결합 도메인; \n막관통 도메인(transmembrane domain); \n공동자극 도메인(costimulatory domain); 및 \n세포 내 신호전달 도메인(intracellular signal transduction domain)을 포함하는 키메릭 항원 수용체(chimeric antigen receptor: CAR)로,\n상기 BCMA-결합 도메인은 BCMA와 특이적으로 결합할 수 있는 항체 또는 이의 단편을 포함하며,\n상기 항체는 서열번호 1의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 2의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 3의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 중쇄 가변부위, 및 서열번호 4의 아미노산 서열로 표시되는 CDR1 영역, 서열번호 5의 아미노산 서열로 표시되는 CDR2 영역 및 서열번호 6의 아미노산 서열로 표시되는 CDR3 영역을 포함하는 경쇄 가변부위를 포함하는 것을 특징으로 하는 키메릭 항원 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 막관통 도메인은 CD8α, CD4, CD28, CD137, CD80, CD86, CD152 및 PD1로 구성된 군에서 선택되는 단백질인 것을 특징으로 하는 키메릭 항원 수용체.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 공동자극 도메인은 CD28, 4-1BB, OX-40 및 ICOS로 구성된 군에서 선택되는 단백질인 것을 특징으로 하는 키메릭 항원 수용체.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 신호전달 도메인은 CD3ζ인 것을 특징으로 하는 키메릭 항원 수용체.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 상기 BCMA-결합 도메인의 C 말단 및 막관통 도메인의 N 말단 사이에 힌지 부위(hinge region)가 추가로 포함되는 것을 특징으로 하는 키메릭 항원 수용체.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항 내지 제7항 중 어느 한 항의 키메릭 항원 수용체(CAR)를 코딩하는 폴리뉴클레오타이드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항 내지 제7항 중 어느 한 항의 키메릭 항원 수용체(CAR)를 폴리뉴클레오타이드를 포함하는 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 벡터는 플라스미드(plasmid), 레트로바이러스(retroviral) 벡터 또는 렌티바이러스(lentiviral)인 것을 특징으로 하는 벡터.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항 내지 제7항 중 어느 한 항의 키메릭 항원 수용체(CAR)를 폴리뉴클레오타이드 또는 상기 폴리뉴클레오타이드를 포함하는 벡터를 포함하는 면역 이펙터 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 상기 면역 이펙터 세포는 T 세포 또는 자연살해(Natural Killer) 세포인 것을 특징으로 하는 면역 이펙터 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항의 면역 이펙터 세포를 포함하는 BCMA 발현과 관련된 질환 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 BCMA 발현과 관련된 질환은 다발성골수종(multiple myeloma), 혈액암, 비-호지킨 림프종(non-Hodgkin's lymphoma), 자가항체-의존성 자가면역 질환(autoantibody-dependent autoimmune disease), 전신홍반루프스(systemic lupus erythematosus, SLE) 또는 류마티스 관절염(rheumatoid arthritis)인 것을 특징으로 하는 BCMA 발현과 관련된 질환 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20210630",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항 내지 제7항 중 어느 한 항의 키메릭 항원 수용체(CAR)를 코딩하는 폴리뉴클레오타이드를 포함하는 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항 내지 제7항 중 어느 한 항의 키메릭 항원 수용체(CAR)를 코딩하는 폴리뉴클레오타이드 또는 상기 폴리뉴클레오타이드를 포함하는 벡터를 포함하는 면역 이펙터 세포로, \n상기 면역 이펙터 세포는 단리된 세포인 것을 특징으로 하는, 면역 이펙터 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항의 면역 이펙터 세포를 포함하는 BCMA 발현과 관련된 질환 예방 또는 치료용 약학적 조성물로,\n상기 BCMA 발현과 관련된 질환은 다발성골수종(multiple myeloma), 혈액암, 비-호지킨 림프종(non-Hodgkin's lymphoma), 자가항체-의존성 자가면역 질환(autoantibody-dependent autoimmune disease), 전신홍반루프스(systemic lupus erythematosus, SLE) 또는 류마티스 관절염(rheumatoid arthritis)인 것을 특징으로 하는 BCMA 발현과 관련된 질환 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 14,
+      "after_claim_count": 4,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "경기도 고양시 일산동구...",
+        "code": "120000367866",
+        "country": "대한민국",
+        "engName": "NATIONAL CANCER CENTER",
+        "name": "국립암센터"
+      },
+      {
+        "address": "서울특별시 관악구...",
+        "code": "120070363625",
+        "country": "대한민국",
+        "engName": "PROTANBIO INC.",
+        "name": "(주) 프로탄바이오"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "경기도 파주시 미래로 ***, ***동 ...",
+        "code": "",
+        "country": "",
+        "engName": "Lee, Sang-Jin",
+        "name": "이상진"
+      },
+      {
+        "address": "서울특별시 서초구...",
+        "code": "",
+        "country": "",
+        "engName": "Eom, Hyeon-Seok",
+        "name": "엄현석"
+      },
+      {
+        "address": "서울특별시 서초구...",
+        "code": "",
+        "country": "",
+        "engName": "Park, Eun Jung",
+        "name": "박은정"
+      },
+      {
+        "address": "경기도 파주시 와석순환로 ***, *...",
+        "code": "",
+        "country": "",
+        "engName": "Choi, Bum-Kyu",
+        "name": "최범규"
+      },
+      {
+        "address": "인천광역시 부평구...",
+        "code": "",
+        "country": "",
+        "engName": "Ro, So-youn",
+        "name": "노소연"
+      },
+      {
+        "address": "경기도 고양시 일산동구...",
+        "code": "",
+        "country": "",
+        "engName": "Hong, Seong-Won",
+        "name": "홍성원"
+      },
+      {
+        "address": "경기도 고양시 일산동구...",
+        "code": "",
+        "country": "",
+        "engName": "Han, Chung Yong",
+        "name": "한충용"
+      },
+      {
+        "address": "서울특별시 강남구...",
+        "code": "",
+        "country": "",
+        "engName": "Cho, Je-Yoel",
+        "name": "조제열"
+      },
+      {
+        "address": "서울특별시 강서구...",
+        "code": "",
+        "country": "",
+        "engName": "Sung, Hye-Jin",
+        "name": "성혜진"
+      },
+      {
+        "address": "서울특별시 영등포구...",
+        "code": "",
+        "country": "",
+        "engName": "Choi, Si Young",
+        "name": "최시영"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 서초구 사평대로 ***, *층 (반포동)",
+        "code": "920161000615",
+        "country": "대한민국",
+        "engName": "Jipyong Intellectual Property Law Firm",
+        "name": "특허법인지평"
+      },
+      {
+        "address": "서울특별시 강남구  테헤란로**길  ** ,*층 (대치동, 노벨빌딩)",
+        "code": "920211000219",
+        "country": "대한민국",
+        "engName": "PADO IP Law PLLC",
+        "name": "파도특허법인유한회사"
+      }
+    ]
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020200039793 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Scand J Immunol. 2020; 92: e12910 (2020.05.29)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020190015733 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020170135931 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "KR1020170037626 A",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2020.06.17",
+        "receiptNumber": "1-1-2020-0623842-90"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2020.12.11",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[우선심사신청]심사청구서·우선심사신청서",
+        "receiptDate": "2021.02.15",
+        "receiptNumber": "1-1-2021-0180094-65"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2021.03.12",
+        "receiptNumber": "9-6-2021-0060406-51"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.04.02",
+        "receiptNumber": "9-5-2021-0269852-12"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2021.04.06",
+        "receiptNumber": "1-1-2021-0401410-74"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.05.21",
+        "receiptNumber": "1-1-2021-0586878-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.06.30",
+        "receiptNumber": "1-1-2021-0754594-34"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.06.30",
+        "receiptNumber": "1-1-2021-0754616-51"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.09.23",
+        "receiptNumber": "9-5-2021-0746906-01"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.12.03",
+        "receiptNumber": "4-1-2021-5316860-10"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020200073714.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93d65b7ff3039d252289a7eb749e0913cb663db17912eedb9528867f462b8edcaf135ce8d95221f406e9c1070dc34f4e838e2c80763b007dce",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf90dc2c8196e0df68247dd35d8f5a6f6e4c0918fb160bdb084491ccbc93d9ccb7493ef84407bf067fc9afd6cb0035e45af714c25110fa594e"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "보건복지부",
+      "rndDuration": "2019.04.30 ~ 2020.12.31",
+      "rndManagingInstituteName": "국립암센터",
+      "rndProjectName": "국립암센터 기관고유사업",
+      "rndSpecialInstituteName": "국립암센터",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "비세포성숙화항원을 표적하는 키메릭항원 티세포수용체를 탑재한 면역세포치료제 개발",
+      "rndTaskNumber": "1911262-2"
+    }
+  }
+}

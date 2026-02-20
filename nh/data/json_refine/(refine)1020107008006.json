@@ -1,0 +1,2779 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2008.10.14",
+      "applicationFlag": "",
+      "applicationNumber": "10-2010-7008006",
+      "claimCount": "21",
+      "examinerName": "김정태",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "ＩＬ－４ 및/또는 ＩＬ－１３에 결합하는 항체 및 이들의 용도",
+      "inventionTitleEng": "Antibodies that bind IL-4 and/or IL-13 and their uses",
+      "openDate": "2010.06.21",
+      "openNumber": "10-2010-0067669",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2013.10.14",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2016.12.05",
+      "publicationNumber": "",
+      "registerDate": "2016.11.28",
+      "registerNumber": "10-1681909-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2010.04.13"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/24"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/46"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 37/08"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 신규의 인간화된 항-IL-4 및 IL-13 항체 및 이의 단편, 및 IL-4 및 IL-13에 특이적으로 결합하는 신규의 이중특이적 항체 및 이의 단편에 관한 것이다. 본 발명은 또한, 알러지성 천식 및 피부염을 포함하는, IL-4 및/또는 IL-13 매개된 질병 또는 장애를 치료 또는 예방하기 위한 항체의 용도를 포함한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020107008006",
+    "total_amendments": 6,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20100413",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 47,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "IL-4에 특이적으로 결합하는 인간화된 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 서열번호 3으로 구성된 가변 경쇄 영역을 포함하는 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 서열번호 4 및 서열번호 5로 구성된 그룹으로부터 선택된 가변 중쇄 영역을 포함하는 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 대용으로 상기 항체가 항체 단편인 항체.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 불변 부분의 CH1, CH2 및 CH3 영역을 포함하는 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, IgG 항체가 IgG4 항체인 폴리펩타이드.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항의 폴리펩타이드를 암호화하는 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항의 핵산을 포함하는 벡터.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항의 벡터를 포함하는 세포.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "IL-13에 특이적으로 결합하는 인간화된 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항에 있어서, 서열번호 1로 구성된 가변 경쇄 영역을 포함하는 항체.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 서열번호 2로 구성된 가변 중쇄 영역을 포함하는 항체.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항 내지 제12항 중 어느 한 항에 있어서, 대용으로 상기 항체가 항체 단편인 항체.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제10항 내지 제12항 중 어느 한 항에 있어서, 불변 부분의 CH1, CH2 및 CH3 영역을 포함하는 항체.",
+          "refers_to": [
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, IgG 항체가 IgG4 항체인 폴리펩타이드.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항의 폴리펩타이드를 암호화하는 핵산.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항의 핵산을 포함하는 벡터.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항의 벡터를 포함하는 세포.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이중특이적 항체 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 가변 경쇄 및 가변 중쇄를 추가로 포함하는 이중특이적 항체 또는 항체 단편.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 상기 가변 경쇄가 아미노산 서열 서열번호 1 및 서열번호 3을 포함하는 이중특이적 항체 또는 항체 단편.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 상기 가변 중쇄가 아미노산 서열 서열번호 2 및 서열번호 5를 포함하는 이중특이적 항체 또는 항체 단편.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 상기 가변 중쇄가 아미노산 서열 서열번호 2 및 서열번호 4를 포함하는 이중특이적 항체 또는 항체 단편.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 상기 가변 경쇄가 아미노산 서열 서열번호 1 및 서열번호 3을 포함하며, 상기 가변 중쇄가 아미노산 서열 서열번호 2 및 서열번호 4를 포함하는 이중특이적 항체 또는 항체 단편.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항에 있어서, 상기 서열번호 1 및 서열번호 3이 펩타이드 링커에 의해서 함께 연결되고, 상기 서열번호 2 및 서열번호 4가 펩타이드 링커에 의해서 함께 연결되는 이중특이적 항체 또는 항체 단편.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항에 있어서, 상기 펩타이드 링커가 서열번호 6으로 구성되는 이중특이적 항체 또는 항체 단편.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "IL-13 및 IL-13에 특이적으로 결합하며 (여기에서, 가변 경쇄는 서열번호 1 및 서열번호 3을 포함하고, 가변 중쇄는 서열번호 2 및 서열번호 4를 포함한다), 불변 부분 영역을 추가로 포함하는 이중특이적 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 상기 불변 부분 영역이 CH1, CH2, CH3 및 CL로 구성된 이중특이적 항체.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제8항의 인간화된 항체 및 약제학적으로 허용되는 담체를 포함하는 약제학적 조성물.",
+          "refers_to": [
+            1,
+            8
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대용으로 제19항 내지 제28항 중 어느 한 항의 이중특이적 항체 또는 항체 단편 및 약제학적으로 허용되는 담체를 포함하는 약제학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제10항에 있어서, 효과기 분자에 추가로 접합된 인간화된 항체.",
+          "refers_to": [
+            1,
+            10
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항에 있어서, 상기 효과기 분자가 이종 폴리펩타이드, 약물, 방사성뉴클레오타이드 및 독소로 구성된 그룹으로부터 선택되는 인간화된 항체.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항 내지 제28항 중 어느 한 항에 있어서, 대용으로 효과기 분자에 추가로 접합된 이중특이적 항체 또는 항체 단편.",
+          "refers_to": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제33항에 있어서, 상기 효과기 분자가 이종 폴리펩타이드, 약물, 방사성뉴클레오타이드 및 독소로 구성된 그룹으로부터 선택되는 이중특이적 항체 또는 단편.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대용으로 제19항 내지 제28항 중 어느 한 항에 따르는 이중특이적 항체 또는 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 알러지성 질병을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제10항에 따르는 인간화된 항체의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 알러지성 질병을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대용으로 제19항 내지 제28항 중 어느 한 항에 따르는 이중특이적 항체 또는 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 암을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제10항에 따르는 인간화된 항체의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 암을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대용으로 제19항 내지 제28항 중 어느 한 항에 따르는 이중특이적 항체 또는 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 천식을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제10항에 따르는 인간화된 항체의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 천식을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대용으로 제19항 내지 제28항 중 어느 한 항에 따르는 이중특이적 항체 또는 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 IL-4 및/또는 IL-13의 비정상적인 생산과 연관된 질병을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제10항에 따르는 인간화된 항체의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 IL-4 및/또는 IL-13의 비정상적인 생산과 연관된 질병을 치료하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대용으로 제19항 내지 제28항 중 어느 한 항에 따르는 이중특이적 항체 또는 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 TH-2 매개된 반응을 억제하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제10항에 따르는 인간화된 항체의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 TH-2 매개된 반응을 억제하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항의 이중특이적 항체를 암호화하는 핵산.",
+          "refers_to": [
+            27
+          ]
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제45항의 핵산을 포함하는 벡터.",
+          "refers_to": [
+            45
+          ]
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제46항의 벡터를 포함하는 세포.",
+          "refers_to": [
+            46
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 6,
+      "receipt_date": "20160418",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 49,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편으로서, 상기 이중특이적 항체 또는 이의 이중특이적 항체 단편이 2개의 경쇄 및 2개의 중쇄를 포함하고;상기 경쇄가 불변 경쇄 도메인 (CL)에 결합되어 있는 C-말단부의 내부 가변 경쇄 도메인에 결합된 N-말단부의 외부 가변 경쇄 도메인을 포함하고, 상기 중쇄가 불변 중쇄 도메인 (CH1)에 결합되어 있는 C-말단부의 내부 가변 중쇄 도메인에 결합된 N-말단부의 외부 가변 중쇄 도메인을 포함하며; 여기서, (a) 상기 N-말단부의 외부 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하고, 상기 N-말단부의 외부 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 서열번호 4의 아미노산 서열을 포함하거나;(b) 상기 N-말단부의 외부 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하고, 상기 N-말단부의 외부 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 서열번호 5의 아미노산 서열을 포함하거나;(c) 상기 N-말단부의 외부 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 N-말단부의 외부 가변 중쇄 도메인이 서열번호 4의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하거나;(d) 상기 N-말단부의 외부 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 N-말단부의 외부 가변 중쇄 도메인이 서열번호 5의 아미노산 서열을 포함하며, 상기 C-말단부의 내부 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하거나;(e) 상기 N-말단부의 외부 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT (CDR3: 서열번호 10)를 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하며, 상기 N-말단부의 외부 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 17), IDPSDGETR(CDR2: 서열번호 18) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 19)를 포함하거나;(f) 상기 N-말단부의 외부 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES (CDR2: 서열번호 9) 및 QQNAEDSRT (CDR3: 서열번호 10)를 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2; 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하며, 상기 N-말단부의 외부 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH (CDR1: 서열번호 20), IDASDGETR(CDR2: 서열번호 21) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 22)를 포함하거나;(g) 상기 N-말단부의 외부 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT(CDR3: 서열번호 10)를 포함하며, 상기 N-말단부의 외부 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 17), IDPSDGETR(CDR2: 서열번호 18) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 19)를 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하거나;(h) 상기 N-말단부의 외부 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES (CDR2: 서열번호 9) 및 QQNAEDSRT (CDR3: 서열번호 10)를 포함하며, 상기 N-말단부의 외부 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 20), IDASDGETR(CDR2: 서열번호 21) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 22)를 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 펩타이드 링커가 상기 외부 가변 경쇄 도메인을 상기 내부 가변 경쇄 도메인에 연결하고 펩타이드 링커가 상기 외부 가변 중쇄 도메인을 상기 내부 가변 중쇄 도메인에 연결하는 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 펩타이드 링커가 서열번호 6의 아미노산 서열로 이루어진 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 추가의 불변 영역 도메인을 추가로 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 추가의 불변 영역 도메인이 CH2 및 CH3로 이루어진 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편으로서,상기 이중특이적 항체 또는 이의 이중특이적 항체 단편이 2개의 경쇄와 2개의 중쇄를 갖는 IgG 분자를 포함하고;여기서, 상기 각각의 경쇄는 그 N-말단에서 추가의 가변 경쇄 도메인에 의해 신장되고, 상기 각각의 중쇄는 그 N-말단에서 추가의 가변 중쇄 도메인에 의해 신장되며; 여기서,(a) 상기 경쇄는 서열번호 3의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 1의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 4의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 2의 아미노산 서열을 포함하거나;(b) 상기 경쇄는 서열번호 3의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 1의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 5의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 2의 아미노산 서열을 포함하거나;(c) 상기 경쇄는 서열번호 1의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 3의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 2의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 4의 아미노산 서열을 포함하거나;(d) 상기 경쇄는 서열번호 1의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 3의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 2의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 5의 아미노산 서열을 포함하거나;(e) 상기 경쇄는 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하고, 상기 추가의 가변 경쇄 도메인은 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT(CDR3: 서열번호 10)를 포함하며, 상기 중쇄는 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 17), IDPSDGETR(CDR2: 서열번호 18) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 19)를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하거나;(f) 상기 경쇄는 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하고, 상기 추가의 가변 경쇄 도메인은 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT(CDR3: 서열번호 10)를 포함하며, 상기 중쇄는 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 20), IDASDGETR(CDR2: 서열번호 21) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 22)를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하거나;(g) 상기 경쇄는 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT (CDR3: 서열번호 10)를 포함하고, 상기 추가의 가변 경쇄 도메인은 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하며, 상기 중쇄는 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 17), IDPSDGETR(CDR2: 서열번호 18) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 19)를 포함하거나; (h) 상기 경쇄는 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT(CDR3: 서열번호 10)를 포함하고, 상기 추가의 가변 경쇄 도메인은 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하며, 상기 중쇄는 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 20), IDASDGETR(CDR2: 서열번호 21) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 22)를 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 펩타이드 링커가 상기 추가의 가변 경쇄 도메인을 상기 경쇄에 연결하고 펩타이드 링커가 상기 추가의 가변 중쇄 도메인을 상기 중쇄에 연결하는 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 상기 펩타이드 링커가 서열번호 6의 아미노산 서열로 이루어진 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편으로서,상기 이중특이적 항체 또는 이의 이중특이적 항체 단편이 구조 VL1-L1-VL2-CL를 갖는 2개의 경쇄 및 구조 VH1-L2-VH2-CH1을 갖는 2개의 중쇄를 포함하고, 여기서, CL은 불변 경쇄 도메인이고, CH1은 불변 중쇄 도메인이고, L1 및 L2는 아미노산 링커이고,여기서,(a) VL1은 서열번호 1의 아미노산 서열을 포함하고, VL2는 서열번호 3의 아미노산 서열을 포함하고, VH1은 서열번호 2의 아미노산 서열을 포함하고, VH2는 서열번호 4의 아미노산 서열을 포함하거나;(b) VL1은 서열번호 1의 아미노산 서열을 포함하고, VL2는 서열번호 3의 아미노산 서열을 포함하고, VH1은 서열번호 2의 아미노산 서열을 포함하고, VH2는 서열번호 5의 아미노산 서열을 포함하거나;(c) VL1은 서열번호 3의 아미노산 서열을 포함하고, VL2는 서열번호 1의 아미노산 서열을 포함하고, VH1은 서열번호 4의 아미노산 서열을 포함하고, VH2는 서열번호 2의 아미노산 서열을 포함하거나;(d) VL1은 서열번호 3의 아미노산 서열을 포함하고, VL2는 서열번호 1의 아미노산 서열을 포함하고, VH1은 서열번호 5의 아미노산 서열을 포함하고, VH2는 서열번호 2의 아미노산 서열을 포함하거나;(e) VL1은 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하고, VL2는 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하며, VH1은 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하고, VH2는 아미노산 서열 GYSFTSYWIH(서열번호 17), IDPSDGETR(서열번호 18) 및 LKEYGNYDSFYFDV(서열번호 19)를 포함하거나;(f) VL1은 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하고, VL2는 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하며, VH1은 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하고, VH2는 아미노산 서열 GYSFTSYWIH(서열번호 20), IDASDGETR(서열번호 21) 및 LKEYGNYDSFYFDV(서열번호 22)를 포함하거나;(g) VL1은 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하고, VL2는 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하며, VH1은 아미노산 서열 GYSFTSYWIH(서열번호 17), IDPSDGETR(서열번호 18) 및 LKEYGNYDSFYFDV(서열번호 19)를 포함하고, VH2는 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하거나;(h) VL1은 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하고, VL2는 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하며, VH1은 아미노산 서열 GYSFTSYWIH(서열번호 20), IDASDGETR(서열번호 21) 및 LKEYGNYDSFYFDV(서열번호 22)를 포함하고, VH2는 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, L1 및 L2가 서열번호 6의 아미노산 서열로 이루어진 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편으로서,상기 이중특이적 항체 또는 이의 이중특이적 항체 단편이 4개의 항원 결합 부위를 형성하는 4개의 폴리펩타이드 쇄를 포함하고,여기서, 2개의 폴리펩타이드 쇄는 화학식 I의 VL1-L1-VL2-CL 구조를 갖고, 2개의 폴리펩타이드 쇄는 화학식 II의 VH1-L2-VH2-CH1 구조를 갖고,상기 화학식에서, VL1은 제1 면역글로불린 경쇄 가변 도메인이고,VL2는 제2 면역글로불린 경쇄 가변 도메인이고,VH1은 제1 면역글로불린 중쇄 가변 도메인이고,VH2는 제2 면역글로불린 중쇄 가변 도메인이고,CL은 면역글로불린 경쇄 불변 도메인이고,CH1은 면역글로불린 CH1 중쇄 불변 도메인이고,L1 및 L2는 아미노산 링커이고,여기서, (a) VL1은 서열번호 1의 아미노산 서열을 포함하고, VL2는 서열번호 3의 아미노산 서열을 포함하고, VH1은 서열번호 2의 아미노산 서열을 포함하고, VH2는 서열번호 4의 아미노산 서열을 포함하거나;(b) VL1은 서열번호 1의 아미노산 서열을 포함하고, VL2는 서열번호 3의 아미노산 서열을 포함하고, VH1은 서열번호 2의 아미노산 서열을 포함하고, VH2는 서열번호 5의 아미노산 서열을 포함하거나;(c) VL1은 서열번호 3의 아미노산 서열을 포함하고, VL2는 서열번호 1의 아미노산 서열을 포함하고, VH1은 서열번호 4의 아미노산 서열을 포함하고, VH2는 서열번호 2의 아미노산 서열을 포함하거나;(d) VL1은 서열번호 3의 아미노산 서열을 포함하고, VL2는 서열번호 1의 아미노산 서열을 포함하고, VH1은 서열번호 5의 아미노산 서열을 포함하고, VH2는 서열번호 2의 아미노산 서열을 포함하거나;(e) VL1은 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하고, VL2는 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하며, VH1은 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하고, VH2는 아미노산 서열 GYSFTSYWIH(서열번호 17), IDPSDGETR(서열번호 18) 및 LKEYGNYDSFYFDV(서열번호 19)를 포함하거나;(f) VL1은 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하고, VL2는 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하며, VH1은 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하고, VH2는 아미노산 서열 GYSFTSYWIH(서열번호 20), IDASDGETR(서열번호 21) 및 LKEYGNYDSFYFDV(서열번호 22)를 포함하거나;(g) VL1은 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하고, VL2는 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하며, VH1은 아미노산 서열 GYSFTSYWIH(서열번호 17), IDPSDGETR(서열번호 18) 및 LKEYGNYDSFYFDV(서열번호 19)를 포함하고, VH2는 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하거나;(h) VL1은 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하고, VL2는 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하며, VH1은 아미노산 서열 GYSFTSYWIH(서열번호 20), IDASDGETR(서열번호 21) 및 LKEYGNYDSFYFDV(서열번호 22)를 포함하고, VH2는 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, L1 및 L2가 서열번호 6의 아미노산 서열로 이루어진 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 효과기 분자에 추가로 접합되는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 효과기 분자가 이종 폴리펩타이드, 약물, 방사성 뉴클레오타이드 또는 독소인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제12항 중 어느 한 항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편 및 약제학적으로 허용가능한 담체를 포함하는, 알러지성 질환, 천식, 암, 자가면역 질환, 경피증(scleroderma) 및 특발성 폐섬유증으로 이루어진 그룹으로부터 선택되는 질환의 치료에 사용하기 위한 약제학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 방사성 표지물, 형광단, 발색단, 영상화제 또는 금속 이온인 표지물을 추가로 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제12항 중 어느 한 항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편을 암호화하는 분리된 핵산 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 따른 핵산 분자를 포함하는 벡터.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 따른 벡터를 포함하는 분리된 숙주 세포.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제12항 중 어느 한 항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편을 암호화하는 핵산 분자를 적합한 숙주 세포에서 발현시킴을 포함하는, 제1항 내지 제12항 중 어느 한 항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편을 제조하기 위한 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제12항 중 어느 한 항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편을 포함하는 키트.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20100413",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 47,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "IL-4에 특이적으로 결합하는 인간화된 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 서열번호 3으로 구성된 가변 경쇄 영역을 포함하는 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 서열번호 4 및 서열번호 5로 구성된 그룹으로부터 선택된 가변 중쇄 영역을 포함하는 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 대용으로 상기 항체가 항체 단편인 항체.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 불변 부분의 CH1, CH2 및 CH3 영역을 포함하는 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, IgG 항체가 IgG4 항체인 폴리펩타이드.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항의 폴리펩타이드를 암호화하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항의 핵산을 포함하는 벡터.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항의 벡터를 포함하는 세포.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "IL-13에 특이적으로 결합하는 인간화된 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항에 있어서, 서열번호 1로 구성된 가변 경쇄 영역을 포함하는 항체.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 서열번호 2로 구성된 가변 중쇄 영역을 포함하는 항체.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항 내지 제12항 중 어느 한 항에 있어서, 대용으로 상기 항체가 항체 단편인 항체.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제10항 내지 제12항 중 어느 한 항에 있어서, 불변 부분의 CH1, CH2 및 CH3 영역을 포함하는 항체.",
+            "refers_to": [
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, IgG 항체가 IgG4 항체인 폴리펩타이드.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항의 폴리펩타이드를 암호화하는 핵산.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항의 핵산을 포함하는 벡터.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항의 벡터를 포함하는 세포.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이중특이적 항체 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 가변 경쇄 및 가변 중쇄를 추가로 포함하는 이중특이적 항체 또는 항체 단편.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 상기 가변 경쇄가 아미노산 서열 서열번호 1 및 서열번호 3을 포함하는 이중특이적 항체 또는 항체 단편.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 상기 가변 중쇄가 아미노산 서열 서열번호 2 및 서열번호 5를 포함하는 이중특이적 항체 또는 항체 단편.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 상기 가변 중쇄가 아미노산 서열 서열번호 2 및 서열번호 4를 포함하는 이중특이적 항체 또는 항체 단편.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 상기 가변 경쇄가 아미노산 서열 서열번호 1 및 서열번호 3을 포함하며, 상기 가변 중쇄가 아미노산 서열 서열번호 2 및 서열번호 4를 포함하는 이중특이적 항체 또는 항체 단편.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 상기 서열번호 1 및 서열번호 3이 펩타이드 링커에 의해서 함께 연결되고, 상기 서열번호 2 및 서열번호 4가 펩타이드 링커에 의해서 함께 연결되는 이중특이적 항체 또는 항체 단편.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제25항에 있어서, 상기 펩타이드 링커가 서열번호 6으로 구성되는 이중특이적 항체 또는 항체 단편.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "IL-13 및 IL-13에 특이적으로 결합하며 (여기에서, 가변 경쇄는 서열번호 1 및 서열번호 3을 포함하고, 가변 중쇄는 서열번호 2 및 서열번호 4를 포함한다), 불변 부분 영역을 추가로 포함하는 이중특이적 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 상기 불변 부분 영역이 CH1, CH2, CH3 및 CL로 구성된 이중특이적 항체.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제8항의 인간화된 항체 및 약제학적으로 허용되는 담체를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              1,
+              8
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대용으로 제19항 내지 제28항 중 어느 한 항의 이중특이적 항체 또는 항체 단편 및 약제학적으로 허용되는 담체를 포함하는 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제10항에 있어서, 효과기 분자에 추가로 접합된 인간화된 항체.",
+            "refers_to": [
+              1,
+              10
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항에 있어서, 상기 효과기 분자가 이종 폴리펩타이드, 약물, 방사성뉴클레오타이드 및 독소로 구성된 그룹으로부터 선택되는 인간화된 항체.",
+            "refers_to": [
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항 내지 제28항 중 어느 한 항에 있어서, 대용으로 효과기 분자에 추가로 접합된 이중특이적 항체 또는 항체 단편.",
+            "refers_to": [
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제33항에 있어서, 상기 효과기 분자가 이종 폴리펩타이드, 약물, 방사성뉴클레오타이드 및 독소로 구성된 그룹으로부터 선택되는 이중특이적 항체 또는 단편.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대용으로 제19항 내지 제28항 중 어느 한 항에 따르는 이중특이적 항체 또는 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 알러지성 질병을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제10항에 따르는 인간화된 항체의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 알러지성 질병을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대용으로 제19항 내지 제28항 중 어느 한 항에 따르는 이중특이적 항체 또는 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 암을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제10항에 따르는 인간화된 항체의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 암을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대용으로 제19항 내지 제28항 중 어느 한 항에 따르는 이중특이적 항체 또는 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 천식을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제10항에 따르는 인간화된 항체의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 천식을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대용으로 제19항 내지 제28항 중 어느 한 항에 따르는 이중특이적 항체 또는 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 IL-4 및/또는 IL-13의 비정상적인 생산과 연관된 질병을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제10항에 따르는 인간화된 항체의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 IL-4 및/또는 IL-13의 비정상적인 생산과 연관된 질병을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대용으로 제19항 내지 제28항 중 어느 한 항에 따르는 이중특이적 항체 또는 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 TH-2 매개된 반응을 억제하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제10항에 따르는 인간화된 항체의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 TH-2 매개된 반응을 억제하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항의 이중특이적 항체를 암호화하는 핵산.",
+            "refers_to": [
+              27
+            ]
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제45항의 핵산을 포함하는 벡터.",
+            "refers_to": [
+              45
+            ]
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제46항의 벡터를 포함하는 세포.",
+            "refers_to": [
+              46
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20100413",
+        "document_name": "[국제단계보정서 번역문]서류제출서",
+        "claim_count": 8,
+        "claims": [
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 항체가 IgG 항체인 항체.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 항체를 암호화하는 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 항체가 IgG 항체인 항체.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항의 항체를 암호화하는 핵산.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "IL-13 및 IL-4에 특이적으로 결합하며 (여기에서, 가변 경쇄는 서열번호 1 및 서열번호 3을 포함하고, 가변 중쇄는 서열번호 2 및 서열번호 4를 포함한다), 불변 부분 영역을 추가로 포함하는 이중특이적 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제10항의 인간화된 항체 및 약제학적으로 허용되는 담체를 포함하는 약제학적 조성물.",
+            "refers_to": [
+              1,
+              10
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, IgG 항체가 IgG4 항체인 항체.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, IgG 항체가 IgG4 항체인 항체.",
+            "refers_to": [
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20100531",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 49,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편으로서, 상기 이중특이적 항체 또는 이의 이중특이적 항체 단편은 가변 경쇄 영역 및 가변 중쇄 영역을 포함하고, 상기 가변 경쇄 영역은 아미노산 서열 서열번호 1 및 서열번호 3을 포함하는, IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 가변 중쇄 영역이 아미노산 서열 서열번호 2 및 서열번호 5를 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 가변 중쇄 영역이 아미노산 서열 서열번호 2 및 서열번호 4를 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편으로서, 상기 이중특이적 항체 또는 이의 이중특이적 항체 단편은 아미노산 서열 서열번호 1 및 서열번호 3을 포함하는 가변 경쇄 영역, 및 아미노산 서열 서열번호 2 및 서열번호 4를 포함하는 가변 중쇄 영역을 포함하는, IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 펩타이드 링커가 서열번호 1을 서열번호 3에 연결시키고, 펩타이드 링커가 서열번호 2를 서열번호 4에 연결시키는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 상기 펩타이드 링커가, 서열번호 6으로 구성되는 아미노산 서열을 갖는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 서열번호 1 및 서열번호 3의 아미노산 서열을 포함하는 가변 경쇄 영역;\n(b) 서열번호 2 및 서열번호 4의 아미노산 서열을 포함하는 가변 중쇄 영역; 및\n(c) 불변 부분 영역\n을 포함하는, IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 펩타이드 링커가 서열번호 1을 서열번호 3에 연결시키고, 펩타이드 링커가 서열번호 2를 서열번호 4에 연결시키는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, 상기 펩타이드 링커가, 서열번호 6으로 구성되는 아미노산 서열을 갖는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 상기 불변 부분 영역이 CH1, CH2, CH3 및 CL로 구성된, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 불변 부분 영역이 CH1, CH2, CH3 및 CL로 구성된, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따르는 이중특이적 항체 또는 이의 이중특이적 항체 단편 및 약제학적으로 허용되는 담체를 포함하는 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 따르는 이중특이적 항체 또는 이의 이중특이적 항체 단편 및 약제학적으로 허용되는 담체를 포함하는 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 따르는 이중특이적 항체 또는 이의 이중특이적 항체 단편 및 약제학적으로 허용되는 담체를 포함하는 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따르는 이중특이적 항체 또는 이의 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 알러지성 질병을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따르는 이중특이적 항체 또는 이의 이중특이적 항체 단편의, 포유동물에서 알러지성 질병을 치료하기 위한 약제에 있어서의 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따르는 이중특이적 항체 또는 이의 이중특이적 항체 단편의, 포유동물에서 천식을 치료하기 위한 약제에 있어서의 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따르는 이중특이적 항체 또는 이의 이중특이적 항체 단편의, 포유동물에서 암을 치료하기 위한 약제에 있어서의 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따르는 이중특이적 항체 또는 이의 이중특이적 항체 단편의, 포유동물에서 IL-4 및/또는 IL-13의 비정상적인 생산과 연관된 질병을 치료하기 위한 약제에 있어서의 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따르는 이중특이적 항체 또는 이의 이중특이적 항체 단편의 치료학적 유효량을 포유동물에게 투여하는 단계를 포함하여, 포유동물에서 천식을 치료하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20131014",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 20,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편으로서, \n상기 이중특이적 항체 또는 이의 이중특이적 항체 단편이 제1 폴리펩타이드 쌍 및 제2 폴리펩타이드 쌍을 포함하고;\n상기 제1 폴리펩타이드 쌍이 불변 경쇄 도메인 (CL)에 결합되어 있는 내부 (C-말단) 가변 경쇄 도메인에 결합된 외부 (N-말단) 가변 경쇄 도메인을 포함하고, 상기 제2 폴리펩타이드 쌍이 불변 중쇄 도메인 (CH1)에 결합되어 있는 내부 (C-말단) 가변 중쇄 도메인에 결합된 외부 (N-말단) 가변 중쇄 도메인을 포함하며; \n여기서, \n(a) 상기 외부 (N-말단) 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 내부 (C-말단) 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하며, 상기 외부 (N-말단) 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하고, 상기 내부 (C-말단) 가변 중쇄 도메인이 서열번호 4의 아미노산 서열을 포함하며;\n(b) 상기 외부 (N-말단) 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 내부 (C-말단) 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하며, 상기 외부 (N-말단) 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하고, 상기 내부 (C-말단) 가변 중쇄 도메인이 서열번호 5의 아미노산 서열을 포함하며;\n(c) 상기 외부 (N-말단) 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하고, 상기 내부 (C-말단) 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 외부 (N-말단) 가변 중쇄 도메인이 서열번호 4의 아미노산 서열을 포함하고, 상기 내부 (C-말단) 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하며;\n(d) 상기 외부 (N-말단) 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하고, 상기 내부 (C-말단) 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 외부 (N-말단) 가변 중쇄 도메인이 서열번호 5의 아미노산 서열을 포함하며, 상기 내부 (C-말단) 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하며;\n(e) 상기 외부 (N-말단) 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH, LASNLES 및 QQNAEDSRT를 포함하고, 상기 내부 (C-말단) 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS, KASNLHTG 및 QQAHSYPFT를 포함하며, 상기 외부 (N-말단) 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN, DGRID 및 DGYFPYAMDF를 포함하고, 상기 내부 (C-말단) 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH, IDPSDGETR 및 LKEYGNYDSFYFDV를 포함하며;\n(f) 상기 외부 (N-말단) 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH, LASNLES 및 QQNAEDSRT를 포함하고, 상기 내부 (C-말단) 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS, KASNLHTG 및 QQAHSYPFT를 포함하며, 상기 외부 (N-말단) 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN, DGRID 및 DGYFPYAMDF를 포함하고, 상기 내부 (C-말단) 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH, IDASDGETR 및 LKEYGNYDSFYFDV를 포함하며;\n(g) 상기 외부 (N-말단) 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS, KASNLHTG 및 QQAHSYPFT를 포함하고, 상기 내부 (C-말단) 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH, LASNLES 및 QQNAEDSRT를 포함하며, 상기 외부 (N-말단) 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH, IDPSDGETR 및 LKEYGNYDSFYFDV를 포함하고, 상기 내부 (C-말단) 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN, DGRID 및 DGYFPYAMDF를 포함하거나; 또는\n(h) 상기 외부 (N-말단) 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS, KASNLHTG 및 QQAHSYPFT를 포함하고, 상기 내부 (C-말단) 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH, LASNLES 및 QQNAEDSRT를 포함하며, 상기 외부 (N-말단) 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH, IDASDGETR 및 LKEYGNYDSFYFDV를 포함하고, 상기 내부 (C-말단) 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN, DGRID 및 DGYFPYAMDF를 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체로서,\n상기 이중특이적 항체가 2개의 경쇄와 2개의 중쇄를 갖는 IgG 분자를 포함하고;\n여기서, 상기 각각의 경쇄는 그 N-말단에서 추가의 가변 경쇄 도메인에 의해 신장되고, 상기 각각의 중쇄는 그 N-말단에서 추가의 가변 중쇄 도메인에 의해 신장되며; 여기서,\n(a) 상기 경쇄는 서열번호 3의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 1의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 4의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 2의 아미노산 서열을 포함하며;\n(b) 상기 경쇄는 서열번호 3의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 1의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 5의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 2의 아미노산 서열을 포함하며;\n(c) 상기 경쇄는 서열번호 1의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 3의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 2의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 4의 아미노산 서열을 포함하며;\n(d) 상기 경쇄는 서열번호 1의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 3의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 2의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 5의 아미노산 서열을 포함하며;\n(e) 상기 경쇄는 아미노산 서열 HASQNIDVWLS, KASNLHTG 및 QQAHSYPFT를 포함하고, 상기 추가의 가변 경쇄 도메인은 아미노산 서열 RASESVDSYGQSYMH, LASNLES 및 QQNAEDSRT를 포함하며, 상기 중쇄는 아미노산 서열 GYSFTSYWIH, IDPSDGETR 및 LKEYGNYDSFYFDV를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GFSLTDSSIN, DGRID 및 DGYFPYAMDF를 포함하며;\n(f) 상기 경쇄는 아미노산 서열 HASQNIDVWLS, KASNLHTG 및 QQAHSYPFT를 포함하고, 상기 추가의 가변 경쇄 도메인은 아미노산 서열 RASESVDSYGQSYMH, LASNLES 및 QQNAEDSRT를 포함하며, 상기 중쇄는 아미노산 서열 GYSFTSYWIH, IDASDGETR 및 LKEYGNYDSFYFDV를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GFSLTDSSIN, DGRID 및 DGYFPYAMDF를 포함하며;\n(g) 상기 경쇄는 아미노산 서열 RASESVDSYGQSYMH, LASNLES 및 QQNAEDSRT를 포함하고, 상기 추가의 경쇄 도메인은 아미노산 서열 HASQNIDVWLS, KASNLHTG 및 QQAHSYPFT를 포함하며, 상기 중쇄는 아미노산 서열 GFSLTDSSIN, DGRID 및 DGYFPYAMDF를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GYSFTSYWIH, IDPSDGETR 및 LKEYGNYDSFYFDV를 포함하거나; 또는\n(h) 상기 경쇄는 아미노산 서열 RASESVDSYGQSYMH, LASNLES 및 QQNAEDSRT를 포함하고, 상기 추가의 가변 경쇄 도메인은 아미노산 서열 HASQNIDVWLS, KASNLHTG 및 QQAHSYPFT를 포함하며, 상기 중쇄는 아미노산 서열 GFSLTDSSIN, DGRID 및 DGYFPYAMDF를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GYSFTSYWIH, IDASDGETR 및 LKEYGNYDSFYFDV를 포함하는, 이중특이적 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 서열번호 1과 서열번호 3의 아미노산 서열이 펩타이드 링커로 함께 결합되고, 서열번호 2와 서열번호 4 또는 서열번호 5의 아미노산 서열이 펩타이드 링커로 함께 결합되는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 상기 펩타이드 링커가, 서열번호 6의 아미노산 서열로 이루어지는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 추가의 불변 영역 도메인을 추가로 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 상기 추가의 불변 영역 도메인이 CH2 및 CH3로 이루어지는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 방사성 표지물, 형광단, 발색단, 영상화제 또는 금속 이온인 표지물을 추가로 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 효과기 분자에 추가로 접합되는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제8항에 있어서, 상기 효과기 분자가 이종 폴리펩타이드, 약물, 방사성 뉴클레오타이드 및 독소로 이루어진 그룹으로부터 선택되는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편을 암호화하는 단리된 핵산 분자.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 따른 핵산 분자를 포함하는 벡터.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 따른 벡터를 포함하는 단리된 숙주 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편 및 약제학적으로 허용가능한 담체를 포함하는, 포유동물에서 IL-4 및/또는 IL-13의 비정상적인 생산과 연관된 질병을 치료하기 위한 약제학적 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 질병이 알러지성 질환, 암, 천식, 자가면역 질환, 공피증 또는 특발성 폐섬유증인, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 5,
+        "receipt_date": "20150706",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 21,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편으로서, \n상기 이중특이적 항체 또는 이의 이중특이적 항체 단편이 2개의 경쇄 및 2개의 중쇄를 포함하고;\n상기 경쇄가 불변 경쇄 도메인 (CL)에 결합되어 있는 C-말단부의 내부 가변 경쇄 도메인에 결합된 N-말단부의 외부 가변 경쇄 도메인을 포함하고, 상기 중쇄가 불변 중쇄 도메인 (CH1)에 결합되어 있는 C-말단부의 내부 가변 중쇄 도메인에 결합된 N-말단부의 외부 가변 중쇄 도메인을 포함하며; \n여기서, \n(a) 상기 N-말단부의 외부 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하고, 상기 N-말단부의 외부 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 서열번호 4의 아미노산 서열을 포함하거나;\n(b) 상기 N-말단부의 외부 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하고, 상기 N-말단부의 외부 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 서열번호 5의 아미노산 서열을 포함하거나;\n(c) 상기 N-말단부의 외부 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 N-말단부의 외부 가변 중쇄 도메인이 서열번호 4의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하거나;\n(d) 상기 N-말단부의 외부 가변 경쇄 도메인이 서열번호 3의 아미노산 서열을 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 서열번호 1의 아미노산 서열을 포함하고, 상기 N-말단부의 외부 가변 중쇄 도메인이 서열번호 5의 아미노산 서열을 포함하며, 상기 C-말단부의 내부 가변 중쇄 도메인이 서열번호 2의 아미노산 서열을 포함하거나;\n(e) 상기 N-말단부의 외부 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT (CDR3: 서열번호 10)를 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하며, 상기 N-말단부의 외부 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 17), IDPSDGETR(CDR2: 서열번호 18) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 19)를 포함하거나;\n(f) 상기 N-말단부의 외부 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES (CDR2: 서열번호 9) 및 QQNAEDSRT (CDR3: 서열번호 10)를 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2; 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하며, 상기 N-말단부의 외부 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH (CDR1: 서열번호 20), IDASDGETR(CDR2: 서열번호 21) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 22)를 포함하거나;\n(g) 상기 N-말단부의 외부 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT(CDR3: 서열번호 10)를 포함하며, 상기 N-말단부의 외부 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 17), IDPSDGETR(CDR2: 서열번호 18) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 19)를 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하거나;\n(h) 상기 N-말단부의 외부 가변 경쇄 도메인이 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하고, 상기 C-말단부의 내부 가변 경쇄 도메인이 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES (CDR2: 서열번호 9) 및 QQNAEDSRT (CDR3: 서열번호 10)를 포함하며, 상기 N-말단부의 외부 가변 중쇄 도메인이 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 20), IDASDGETR(CDR2: 서열번호 21) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 22)를 포함하고, 상기 C-말단부의 내부 가변 중쇄 도메인이 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 펩타이드 링커가 상기 외부 가변 경쇄 도메인을 상기 내부 가변 경쇄 도메인에 연결하고 펩타이드 링커가 상기 외부 가변 중쇄 도메인을 상기 내부 가변 중쇄 도메인에 연결하는 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 상기 펩타이드 링커가 서열번호 6의 아미노산 서열로 이루어진 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 추가의 불변 영역 도메인을 추가로 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 상기 추가의 불변 영역 도메인이 CH2 및 CH3로 이루어진 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편으로서,\n상기 이중특이적 항체 또는 이의 이중특이적 항체 단편이 2개의 경쇄와 2개의 중쇄를 갖는 IgG 분자를 포함하고;\n여기서, 상기 각각의 경쇄는 그 N-말단에서 추가의 가변 경쇄 도메인에 의해 신장되고, 상기 각각의 중쇄는 그 N-말단에서 추가의 가변 중쇄 도메인에 의해 신장되며; 여기서,\n(a) 상기 경쇄는 서열번호 3의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 1의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 4의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 2의 아미노산 서열을 포함하거나;\n(b) 상기 경쇄는 서열번호 3의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 1의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 5의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 2의 아미노산 서열을 포함하거나;\n(c) 상기 경쇄는 서열번호 1의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 3의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 2의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 4의 아미노산 서열을 포함하거나;\n(d) 상기 경쇄는 서열번호 1의 아미노산 서열을 포함하고, 상기 추가의 가변 경쇄 도메인은 서열번호 3의 아미노산 서열을 포함하며, 상기 중쇄는 서열번호 2의 아미노산 서열을 포함하고, 상기 추가의 가변 중쇄 도메인은 서열번호 5의 아미노산 서열을 포함하거나;\n(e) 상기 경쇄는 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하고, 상기 추가의 가변 경쇄 도메인은 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT(CDR3: 서열번호 10)를 포함하며, 상기 중쇄는 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 17), IDPSDGETR(CDR2: 서열번호 18) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 19)를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하거나;\n(f) 상기 경쇄는 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하고, 상기 추가의 가변 경쇄 도메인은 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT(CDR3: 서열번호 10)를 포함하며, 상기 중쇄는 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 20), IDASDGETR(CDR2: 서열번호 21) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 22)를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하거나;\n(g) 상기 경쇄는 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT (CDR3: 서열번호 10)를 포함하고, 상기 추가의 가변 경쇄 도메인은 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하며, 상기 중쇄는 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 17), IDPSDGETR(CDR2: 서열번호 18) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 19)를 포함하거나; \n(h) 상기 경쇄는 아미노산 서열 RASESVDSYGQSYMH(CDR1: 서열번호 8), LASNLES(CDR2: 서열번호 9) 및 QQNAEDSRT(CDR3: 서열번호 10)를 포함하고, 상기 추가의 가변 경쇄 도메인은 아미노산 서열 HASQNIDVWLS(CDR1: 서열번호 14), KASNLHTG(CDR2: 서열번호 15) 및 QQAHSYPFT(CDR3: 서열번호 16)를 포함하며, 상기 중쇄는 아미노산 서열 GFSLTDSSIN(CDR1: 서열번호 11), DGRID(CDR2: 서열번호 12) 및 DGYFPYAMDF(CDR3: 서열번호 13)를 포함하고, 상기 추가의 가변 중쇄 도메인은 아미노산 서열 GYSFTSYWIH(CDR1: 서열번호 20), IDASDGETR(CDR2: 서열번호 21) 및 LKEYGNYDSFYFDV(CDR3: 서열번호 22)를 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 펩타이드 링커가 상기 추가의 가변 경쇄 도메인을 상기 내부 가변 경쇄에 연결하고 펩타이드 링커가 상기 추가의 가변 중쇄 도메인을 상기 중쇄에 연결하는 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 상기 펩타이드 링커가 서열번호 6의 아미노산 서열로 이루어진 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편으로서,\n상기 이중특이적 항체 또는 이의 이중특이적 항체 단편이 구조 VL1-L1-VL2-CL를 갖는 2개의 경쇄 및 구조 VH1-L2-VH2-CH1을 갖는 2개의 중쇄를 포함하고, 여기서, CL은 불변 경쇄 도메인이고, CH1은 불변 중쇄 도메인이고, L1 및 L2는 아미노산 링커이고,\n여기서,\n(a) VL1은 서열번호 1의 아미노산 서열을 포함하고, VL2는 서열번호 3의 아미노산 서열을 포함하고, VH1은 서열번호 2의 아미노산 서열을 포함하고, VH2는 서열번호 4의 아미노산 서열을 포함하거나;\n(b) VL1은 서열번호 1의 아미노산 서열을 포함하고, VL2는 서열번호 3의 아미노산 서열을 포함하고, VH1은 서열번호 2의 아미노산 서열을 포함하고, VH2는 서열번호 5의 아미노산 서열을 포함하거나;\n(c) VL1은 서열번호 3의 아미노산 서열을 포함하고, VL2는 서열번호 1의 아미노산 서열을 포함하고, VH1은 서열번호 4의 아미노산 서열을 포함하고, VH2는 서열번호 2의 아미노산 서열을 포함하거나;\n(d) VL1은 서열번호 3의 아미노산 서열을 포함하고, VL2는 서열번호 1의 아미노산 서열을 포함하고, VH1은 서열번호 5의 아미노산 서열을 포함하고, VH2는 서열번호 2의 아미노산 서열을 포함하거나;\n(e) VL1은 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하고, VL2는 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하며, VH1은 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하고, VH2는 아미노산 서열 GYSFTSYWIH(서열번호 17), IDPSDGETR(서열번호 18) 및 LKEYGNYDSFYFDV(서열번호 19)를 포함하거나;\n(f) VL1은 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하고, VL2는 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하며, VH1은 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하고, VH2는 아미노산 서열 GYSFTSYWIH(서열번호 20), IDASDGETR(서열번호 21) 및 LKEYGNYDSFYFDV(서열번호 22)를 포함하거나;\n(g) VL1은 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하고, VL2는 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하며, VH1은 아미노산 서열 GYSFTSYWIH(서열번호 17), IDPSDGETR(서열번호 18) 및 LKEYGNYDSFYFDV(서열번호 19)를 포함하고, VH2는 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하거나;\n(h) VL1은 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하고, VL2는 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하며, VH1은 아미노산 서열 GYSFTSYWIH(서열번호 20), IDASDGETR(서열번호 21) 및 LKEYGNYDSFYFDV(서열번호 22)를 포함하고, VH2는 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, L1 및 L2가 서열번호 6의 아미노산 서열로 이루어진 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "IL-13 및 IL-4에 특이적으로 결합하는 이중특이적 항체 또는 이의 이중특이적 항체 단편으로서,\n상기 이중특이적 항체 또는 이의 이중특이적 항체 단편이 4개의 항원 결합 부위를 형성하는 4개의 폴리펩타이드 쇄를 포함하고,\n여기서, 2개의 폴리펩타이드 쇄는 화학식 I의 VL1-L1-VL2-CL 구조를 갖고, 2개의 폴리펩타이드 쇄는 화학식 II의 VH1-L2-VH2-CH1 구조를 갖고,\n상기 화학식에서, VL1은 제1 면역글로불린 경쇄 가변 도메인이고,\nVL2는 제2 면역글로불린 경쇄 가변 도메인이고,\nVH1은 제1 면역글로불린 중쇄 가변 도메인이고,\nVH2는 제2 면역글로불린 중쇄 가변 도메인이고,\nCL은 면역글로불린 경쇄 불변 도메인이고,\nCH1은 면역글로불린 CH1 중쇄 불변 도메인이고,\nL1 및 L2는 아미노산 링커이고,\n여기서, \n(a) VL1은 서열번호 1의 아미노산 서열을 포함하고, VL2는 서열번호 3의 아미노산 서열을 포함하고, VH1은 서열번호 2의 아미노산 서열을 포함하고, VH2는 서열번호 4의 아미노산 서열을 포함하거나;\n(b) VL1은 서열번호 1의 아미노산 서열을 포함하고, VL2는 서열번호 3의 아미노산 서열을 포함하고, VH1은 서열번호 2의 아미노산 서열을 포함하고, VH2는 서열번호 5의 아미노산 서열을 포함하거나;\n(c) VL1은 서열번호 3의 아미노산 서열을 포함하고, VL2는 서열번호 1의 아미노산 서열을 포함하고, VH1은 서열번호 4의 아미노산 서열을 포함하고, VH2는 서열번호 2의 아미노산 서열을 포함하거나;\n(d) VL1은 서열번호 3의 아미노산 서열을 포함하고, VL2는 서열번호 1의 아미노산 서열을 포함하고, VH1은 서열번호 5의 아미노산 서열을 포함하고, VH2는 서열번호 2의 아미노산 서열을 포함하거나;\n(e) VL1은 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하고, VL2는 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하며, VH1은 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하고, VH2는 아미노산 서열 GYSFTSYWIH(서열번호 17), IDPSDGETR(서열번호 18) 및 LKEYGNYDSFYFDV(서열번호 19)를 포함하거나;\n(f) VL1은 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하고, VL2는 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하며, VH1은 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하고, VH2는 아미노산 서열 GYSFTSYWIH(서열번호 20), IDASDGETR(서열번호 21) 및 LKEYGNYDSFYFDV(서열번호 22)를 포함하거나;\n(g) VL1은 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하고, VL2는 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하며, VH1은 아미노산 서열 GYSFTSYWIH(서열번호 17), IDPSDGETR(서열번호 18) 및 LKEYGNYDSFYFDV(서열번호 19)를 포함하고, VH2는 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하거나;\n(h) VL1은 아미노산 서열 HASQNIDVWLS(서열번호 14), KASNLHTG(서열번호 15) 및 QQAHSYPFT(서열번호 16)를 포함하고, VL2는 아미노산 서열 RASESVDSYGQSYMH(서열번호 8), LASNLES(서열번호 9) 및 QQNAEDSRT (서열번호 10)를 포함하며, VH1은 아미노산 서열 GYSFTSYWIH(서열번호 20), IDASDGETR(서열번호 21) 및 LKEYGNYDSFYFDV(서열번호 22)를 포함하고, VH2는 아미노산 서열 GFSLTDSSIN(서열번호 11), DGRID(서열번호 12) 및 DGYFPYAMDF(서열번호 13)를 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, L1 및 L2가 서열번호 6의 아미노산 서열로 이루어진 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 효과기 분자에 추가로 접합되는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 효과기 분자가 이종 폴리펩타이드, 약물, 방사성 뉴클레오타이드 또는 독소인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제12항 중 어느 한 항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편 및 약제학적으로 허용가능한 담체를 포함하는, 알러지성 질환, 천식, 암, 자가면역 질환, 경피증(scleroderma) 및 특발성 폐섬유증으로 이루어진 그룹으로부터 선택되는 질환의 치료에 사용하기 위한 약제학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 방사성 표지물, 형광단, 발색단, 영상화제 또는 금속 이온인 표지물을 추가로 포함하는, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제12항 중 어느 한 항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편을 암호화하는 분리된 핵산 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 따른 핵산 분자를 포함하는 벡터.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 따른 벡터를 포함하는 분리된 숙주 세포.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제12항 중 어느 한 항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편을 암호화하는 핵산 분자를 적합한 숙주 세포에서 발현시킴을 포함하는, 제1항 내지 제12항 중 어느 한 항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편을 제조하기 위한 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제12항 중 어느 한 항에 따른 이중특이적 항체 또는 이의 이중특이적 항체 단편을 포함하는 키트.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "version": 6,
+        "receipt_date": "20160418",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 펩타이드 링커가 상기 추가의 가변 경쇄 도메인을 상기 경쇄에 연결하고 펩타이드 링커가 상기 추가의 가변 중쇄 도메인을 상기 중쇄에 연결하는 것인, 이중특이적 항체 또는 이의 이중특이적 항체 단편.",
+            "refers_to": [
+              6
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 47,
+      "after_claim_count": 1,
+      "total_versions": 6
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020147024155"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2009.04.23",
+      "internationOpenNumber": "WO2009052081",
+      "internationalApplicationDate": "2008.10.14",
+      "internationalApplicationNumber": "PCT/US2008/079787"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "프랑스 ***** 파리 아브뉘 드 라 그랑 아르메 **",
+      "code": "519980708674",
+      "country": "프랑스",
+      "engName": "SANOFI",
+      "name": "사노피"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "독일 ***** 프랑크푸르트 암 마인 인...",
+        "code": "",
+        "country": "독일",
+        "engName": "RAO, Ercole",
+        "name": "라오 에르콜레"
+      },
+      {
+        "address": "프랑스 에프-***** 파리 ...",
+        "code": "",
+        "country": "프랑스",
+        "engName": "MIKOL, Vincent",
+        "name": "미콜 뱅상"
+      },
+      {
+        "address": "미국 뉴저지주 ***** 브릿지워터 ...",
+        "code": "",
+        "country": "미국",
+        "engName": "LI, Danxi",
+        "name": "리 단시"
+      },
+      {
+        "address": "독일 ***** 프랑크푸르트 암 마인 인...",
+        "code": "",
+        "country": "독일",
+        "engName": "KRUIP, Jochen",
+        "name": "크루이프 요헨"
+      },
+      {
+        "address": "미국 뉴저지주 ***** 브릿지워터 ...",
+        "code": "",
+        "country": "영국",
+        "engName": "DAVISON, Matthew",
+        "name": "데이비슨 매튜"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 종로구 세종대로 ***, **층 (세종로, 광화문빌딩)(법무법인센트럴)",
+      "code": "919990006014",
+      "country": "대한민국",
+      "engName": "HOON CHANG",
+      "name": "장훈"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "유럽특허청(EPO)",
+        "priorityApplicationDate": "2007.10.15",
+        "priorityApplicationNumber": "07291259.5"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2008.03.17",
+        "priorityApplicationNumber": "61/037,128"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "US5928904 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US5705154 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2007085815 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2007107349 A1",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Translation of Amendment made during International Phase] Submission of Document",
+        "documentName": "[국제단계보정서 번역문]서류제출서",
+        "receiptDate": "2010.04.13",
+        "receiptNumber": "1-1-2010-0234691-22"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2010.04.13",
+        "receiptNumber": "1-1-2010-0234162-92"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Translation of Explanatory Statement made during International Phase] Submission of Document",
+        "documentName": "[국제단계설명서 번역문]서류제출서",
+        "receiptDate": "2010.04.13",
+        "receiptNumber": "1-1-2010-0234839-93"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2010.05.19",
+        "receiptNumber": "1-5-2010-0045047-54"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2010.05.31",
+        "receiptNumber": "1-1-2010-0347826-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2011.08.02",
+        "receiptNumber": "4-1-2011-5157917-37"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2012.04.23",
+        "receiptNumber": "4-1-2012-5087072-21"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2013.10.14",
+        "receiptNumber": "1-1-2013-0926550-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2013.10.14",
+        "receiptNumber": "1-1-2013-0926534-74"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2014.08.28",
+        "receiptNumber": "1-1-2014-0822310-83"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2015.02.05",
+        "receiptNumber": "9-5-2015-0086292-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2015.03.18",
+        "receiptNumber": "1-1-2015-0264968-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2015.06.05",
+        "receiptNumber": "1-1-2015-0545566-12"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2015.07.06",
+        "receiptNumber": "1-1-2015-0654417-52"
+      },
+      {
+        "commonCodeName": "무효 (Invalidation)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2015.07.06",
+        "receiptNumber": "1-1-2015-0654439-56"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2015.07.06",
+        "receiptNumber": "1-1-2015-0654525-85"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2015.07.20",
+        "receiptNumber": "1-5-2015-0115916-74"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice for Disposition of Invalidation",
+        "documentName": "무효처분통지서",
+        "receiptDate": "2015.08.21",
+        "receiptNumber": "1-5-2015-0132001-67"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for final refusal",
+        "documentName": "최후의견제출통지서",
+        "receiptDate": "2015.12.17",
+        "receiptNumber": "9-5-2015-0880787-66"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2016.02.16",
+        "receiptNumber": "1-1-2016-0153392-71"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2016.03.17",
+        "receiptNumber": "1-1-2016-0256865-03"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2016.04.18",
+        "receiptNumber": "1-1-2016-0368828-62"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.04.18",
+        "receiptNumber": "1-1-2016-0368807-14"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2016.08.26",
+        "receiptNumber": "9-5-2016-0615904-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.12.21",
+        "receiptNumber": "4-1-2022-5302951-28"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020107008006.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e005c3109b0032812839f4544bc78ac7c859f328a767a4b8eb59278e00d2aeeaf8271819fbc4ff7478e6952108518136fc786afbd186bbc408f",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf8fc21fda6626cf8b2c5a9f261c3e466661148958c7dd9a44f2014ecb62fe22b53802824b94d18c37764e89b1ca4dba7abfd05f13c5198410"
+  },
+  "rndInfoArray": ""
+}

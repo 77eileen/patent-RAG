@@ -1,0 +1,3027 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2009.04.10",
+      "applicationFlag": "",
+      "applicationNumber": "10-2010-7025124",
+      "claimCount": "18",
+      "examinerName": "김은영",
+      "finalDisposal": "등록결정(취소환송후)",
+      "inventionTitle": "복수 분자의 항원에 반복 결합하는 항원 결합 분자",
+      "inventionTitleEng": "Antigen-binding molecule capable of binding to two or  more antigen molecules repeatedly",
+      "openDate": "2011.01.13",
+      "openNumber": "10-2011-0004435",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2014.03.13",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2019.12.04",
+      "publicationNumber": "",
+      "registerDate": "2019.11.27",
+      "registerNumber": "10-2051275-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2010.11.09"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "G01N 33/15"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "G01N 33/53"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명자들은, 혈장 중에서의 pH에 있어서의 항원 결합활성과 비교하여 조기 엔도솜 내에서의 pH에 있어서의 항원 결합활성이 약한 항체는 1분자의 항체로 복수 분자의 항원에 결합하는 것이 가능해지고, 혈장 중 반감기가 길어, 항원에 결합 가능한 기간이 개선되는 것을 발견하였다."
+    }
+  },
+  "claims": {
+    "application_number": "1020107025124",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20101109",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 50,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 2 이상인 항원 결합 분자.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \nKD(pH 5.8)/KD(pH 7.4)의 값이 10 이상인 항원 결합 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \nKD(pH 5.8)/KD(pH 7.4)의 값이 40 이상인 항원 결합 분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, \n하나 이상의 아미노산이 히스티딘으로 치환되거나 또는 하나 이상의 히스티딘이 삽입되어 있는 것을 특징으로 하는 항원 결합 분자.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서,\n안타고니스트 활성을 갖는 것을 특징으로 하는 항원 결합 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n막 항원 또는 가용형 항원에 결합하는 것을 특징으로 하는 항원 결합 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서,\n항원 결합 분자가 항체인 것을 특징으로 하는 항원 결합 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항의 항원 결합 분자를 포함하는 의약조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 항원 결합 분자의 약물동태를 향상시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 항원 결합 분자의 항원으로의 결합 횟수를 늘리는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 항원 결합 분자가 결합 가능한 항원의 수를 늘리는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 세포외에서 항원 결합 분자에 결합한 항원을 세포내에서 항원 결합 분자로부터 해리시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 항원과 결합한 상태에서 세포내에 삽입된 항원 결합 분자를, 항원과 결합하고 있지 않은 상태에서 세포외로 방출시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 항원 결합 분자의 혈장 중 항원 소실능을 증가시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 내지 제14항 중 어느 한 항에 있어서,\n항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값을 2 이상으로 하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 내지 제14항 중 어느 한 항에 있어서, \nKD(pH 5.8)/KD(pH 7.4)의 값을 10 이상으로 하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 내지 제14항 중 어느 한 항에 있어서, \nKD(pH 5.8)/KD(pH 7.4)의 값을 40 이상으로 하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써 약물동태를 향상시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써, 항원 결합 분자의 항원으로의 결합 횟수를 늘리는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써, 항원 결합 분자가 결합 가능한 항원의 수를 늘리는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써, 세포외에서 항원 결합 분자에 결합한 항원을 세포내에서 항원 결합 분자로부터 해리시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써, 항원과 결합한 상태에서 세포내에 삽입된 항원 결합 분자를, 항원과 결합하고 있지 않은 상태에서 세포외로 방출시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써, 항원 결합 분자의 혈장 중 항원 소실능을 증가시키는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항 내지 제23항 중 어느 한 항에 있어서,\n히스티딘으로의 치환 또는 히스티딘의 삽입에 의해, pH 5.8에서의 항원 결합활성과 pH 7.4에서의 항원 결합활성의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 히스티딘 치환 또는 삽입 전과 비교하여 커지는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 내지 제24항 중 어느 한 항에 있어서,\n항원 결합 분자가 안타고니스트 활성을 갖는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 내지 제25항 중 어느 한 항에 있어서, \n항원 결합 분자가 막 항원 또는 가용형 항원에 결합하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 내지 제26항 중 어느 한 항에 있어서,\n항원 결합 분자가 항체인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 공정을 포함하는 항원 결합 분자의 스크리닝방법,\n(a) pH 6.7~pH 10.0에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(b) pH 4.0~pH 6.5에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항원 결합 분자를 선택하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항에 있어서, \npH 6.7~pH 10.0에 있어서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성의 2배 이상인 항체를 선택하는 것을 특징으로 하는 스크리닝방법.",
+          "refers_to": [
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 공정을 포함하는 항원 결합 분자의 스크리닝방법, \n(a) pH 6.7~pH 10.0의 조건하에서 항원 결합 분자를 항원에 결합시키는 공정, \n(b) (a)의 항원에 결합한 항원 결합 분자를 pH 4.0~pH 6.5의 조건하에 두는 공정, \n(c) pH 4.0~pH 6.5의 조건하에서 해리된 항원 결합 분자를 취득하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 스크리닝방법,\n(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항원 결합 분자를 결합시키는 공정, \n(b) 제1 pH 조건하에서 칼럼에 결합한 항원 결합 분자를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, \n(c) 용출된 항원 결합 분자를 취득하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 스크리닝방법, \n(a) 항원 결합 분자 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, \n(b) 칼럼으로부터 제2 pH 조건하에서 항원 결합 분자를 용출하는 공정, \n(c) 용출된 항원 결합 분자를 코드하는 유전자를 증폭하는 공정, \n(d) 용출된 항원 결합 분자를 취득하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항 또는 제32항에 있어서, \n제1 pH가 pH 6.7~pH 10.0, 제2 pH가 4.0~pH 6.5인 것을 특징으로 하는 스크리닝방법.",
+          "refers_to": [
+            31,
+            32
+          ]
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항 내지 제33항 중 어느 한 항에 있어서,\n항원 결합 분자가, 항원 결합 분자 중 하나 이상의 아미노산이 히스티딘으로 치환되었거나 또는 하나 이상의 히스티딘이 삽입된 항원 결합 분자인 스크리닝방법.",
+          "refers_to": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항 내지 제33항 중 어느 한 항에 있어서,\n혈장 중 체류성이 우수한 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항 내지 제33항 중 어느 한 항에 있어서,\n항원에 2회 이상 결합할 수 있는 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항 내지 제33항 중 어느 한 항에 있어서,\n결합 가능한 항원의 수가 항원 결합 부위보다 많은 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항 내지 제33항 중 어느 한 항에 있어서,\n세포외에서 결합한 항원을 세포내에서 해리하는 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항 내지 제33항 중 어느 한 항에 있어서, \n항원과 결합한 상태에서 세포내에 삽입되고, 항원과 결합하고 있지 않은 상태에서 세포외로 방출되는 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항 내지 제33항 중 어느 한 항에 있어서, \n혈장 중 항원 소실능이 증가한 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+          ]
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항 내지 제40항 중 어느 한 항에 있어서,\n항원 결합 분자가 의약조성물로서 사용되는 항원 결합 분자인 스크리닝방법.",
+          "refers_to": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+          ]
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제28항 내지 제41항 중 어느 한 항에 있어서,\n항원 결합 분자가 항체인 것을 특징으로 하는 스크리닝방법.",
+          "refers_to": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41
+          ]
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 공정을 포함하는 항원 결합 분자의 제조방법, \n(a) pH 6.7~pH 10.0에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(b) pH 4.0~pH 6.5에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항원 결합 분자를 선택하는 공정, \n(d) (c)에서 선택된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 공정을 포함하는 항원 결합 분자의 제조방법, \n(a) pH 6.7~pH 10.0의 조건하에서 항원 결합 분자를 항원에 결합시키는 공정, \n(b) (a)의 항원에 결합한 항원 결합 분자를 pH 4.0~pH 6.5의 조건하에 두는 공정, \n(c) pH 4.0~pH 6.5의 조건하에서 해리된 항원 결합 분자를 취득하는 공정, \n(d) (c)에서 취득된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 제조방법, \n(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항원 결합 분자를 결합시키는 공정, \n(b) 제1 pH 조건하에서 칼럼에 결합한 항원 결합 분자를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, \n(c) 용출된 항원 결합 분자를 취득하는 공정, \n(d) (c)에서 취득된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 제조방법, \n(a) 항원 결합 분자 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, \n(b) 칼럼으로부터 제2 pH 조건하에서 항원 결합 분자를 용출하는 공정, \n(c) 용출된 항원 결합 분자를 코드하는 유전자를 증폭하는 공정, \n(d) 용출된 항원 결합 분자를 취득하는 공정, \n(e) (d)에서 취득된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(f) (e)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제45항 또는 제46항에 있어서, \n제1 pH가 pH 6.7~pH 10.0, 제2 pH가 4.0~pH 6.5인 것을 특징으로 하는 제조방법.",
+          "refers_to": [
+            45,
+            46
+          ]
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제47항 중 어느 한 항에 있어서, \n항원 결합 분자 중 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입하는 공정을 추가적으로 포함하는 제조방법.",
+          "refers_to": [
+            43,
+            44,
+            45,
+            46,
+            47
+          ]
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제48항 중 어느 한 항에 있어서,\n항원 결합 분자가 항체인 것을 특징으로 하는 제조방법.",
+          "refers_to": [
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제43항 내지 제49항 중 어느 한 항의 제조방법에 의해 제조된 항원 결합 분자를 포함하는 의약조성물.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20170727",
+      "document_name": "명세서 등 보정서(심사전치)",
+      "claim_count": 50,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 공정을 포함하는 항체의 스크리닝방법:(a) pH 6.7~pH 10.0에 있어서의 항체의 항원 결합활성을 얻는 공정, (b) pH 4.0~pH 6.5에 있어서의 항체의 항원 결합활성을 얻는 공정, 및(c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항체를 선택하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, pH 6.7~pH 10.0에 있어서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성의 2배 이상인 항체를 선택하는 것을 특징으로 하는 스크리닝방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 공정을 포함하는 항체의 스크리닝방법:(a) pH 6.7~pH 10.0의 조건하에서 항체를 항원에 결합시키는 공정, (b) (a)의 항원에 결합한 항체를 pH 4.0~pH 6.5의 조건하에 두는 공정, 및(c) pH 4.0~pH 6.5의 조건하에서 해리된 항체를 취득하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 공정을 포함하는, 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 스크리닝방법으로서, 상기 제1 pH가 pH 6.7~pH 10.0에서 선택되고, 상기 제2 pH가 pH 4.0~pH 6.5에서 선택되는 스크리닝방법:(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항체를 결합시키는 공정, (b) 제1 pH 조건하에서 칼럼에 결합한 항체를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, 및(c) 용출된 항체를 취득하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 공정을 포함하는, 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 스크리닝방법으로서, 상기 제1 pH가 pH 6.7~pH 10.0에서 선택되고, 상기 제2 pH가 pH 4.0~pH 6.5에서 선택되는 스크리닝방법: (a) 항체 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, (b) 칼럼으로부터 제2 pH 조건하에서 항체를 용출하는 공정, (c) 용출된 항체를 코드하는 유전자를 증폭하는 공정, 및(d) 용출된 항체를 취득하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,항체가, 항체 중 하나 이상의 아미노산이 히스티딘으로 치환되었거나 또는 하나 이상의 히스티딘이 삽입된 항체인 스크리닝방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,혈장 중 체류성이 우수한 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,항원에 2회 이상 결합할 수 있는 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,결합 가능한 항원의 수가 항원 결합 부위보다 많은 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,세포외에서 결합한 항원을 세포내에서 해리하는 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,항원과 결합한 상태에서 세포내에 삽입되고, 항원과 결합하고 있지 않은 상태에서 세포외로 방출되는 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,혈장 중 항원 소실능이 증가한 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,항체가 의약조성물로서 사용되는 항체인 스크리닝방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 공정을 포함하는 항체의 제조방법: (a) pH 6.7~pH 10.0에 있어서의 항체의 항원 결합활성을 얻는 공정, (b) pH 4.0~pH 6.5에 있어서의 항체의 항원 결합활성을 얻는 공정, (c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항체를 선택하는 공정, (d) (c)에서 선택된 항체를 코드하는 유전자를 얻는 공정, 및(e) (d)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 공정을 포함하는 항체의 제조방법: (a) pH 6.7~pH 10.0의 조건하에서 항체를 항원에 결합시키는 공정, (b) (a)의 항원에 결합한 항체를 pH 4.0~pH 6.5의 조건하에 두는 공정, (c) pH 4.0~pH 6.5의 조건하에서 해리된 항체를 취득하는 공정, (d) (c)에서 취득된 항체를 코드하는 유전자를 얻는 공정, 및(e) (d)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 공정을 포함하는, 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 제조방법으로서, 상기 제1 pH가 pH 6.7~pH 10.0에서 선택되고, 상기 제2 pH가 pH 4.0~pH 6.5에서 선택되는 제조방법:(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항체를 결합시키는 공정, (b) 제1 pH 조건하에서 칼럼에 결합한 항체를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, (c) 용출된 항체를 취득하는 공정, (d) (c)에서 취득된 항체를 코드하는 유전자를 얻는 공정, 및(e) (d)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "이하의 공정을 포함하는, 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 제조방법으로서, 상기 제1 pH가 pH 6.7~pH 10.0에서 선택되고, 상기 제2 pH가 pH 4.0~pH 6.5에서 선택되는 제조방법:(a) 항체 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, (b) 칼럼으로부터 제2 pH 조건하에서 항체를 용출하는 공정, (c) 용출된 항체를 코드하는 유전자를 증폭하는 공정, (d) 용출된 항체를 취득하는 공정, (e) (d)에서 취득된 항체를 코드하는 유전자를 얻는 공정, 및(f) (e)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항 내지 제19항 중 어느 한 항에 있어서, 항체 중 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입하는 공정을 추가적으로 포함하는 제조방법.",
+          "refers_to": [
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 41,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 42,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 43,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 44,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 45,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 46,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 47,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 48,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 49,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 50,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20101109",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 50,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 2 이상인 항원 결합 분자.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \nKD(pH 5.8)/KD(pH 7.4)의 값이 10 이상인 항원 결합 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \nKD(pH 5.8)/KD(pH 7.4)의 값이 40 이상인 항원 결합 분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, \n하나 이상의 아미노산이 히스티딘으로 치환되거나 또는 하나 이상의 히스티딘이 삽입되어 있는 것을 특징으로 하는 항원 결합 분자.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서,\n안타고니스트 활성을 갖는 것을 특징으로 하는 항원 결합 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n막 항원 또는 가용형 항원에 결합하는 것을 특징으로 하는 항원 결합 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서,\n항원 결합 분자가 항체인 것을 특징으로 하는 항원 결합 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항의 항원 결합 분자를 포함하는 의약조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 항원 결합 분자의 약물동태를 향상시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 항원 결합 분자의 항원으로의 결합 횟수를 늘리는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 항원 결합 분자가 결합 가능한 항원의 수를 늘리는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 세포외에서 항원 결합 분자에 결합한 항원을 세포내에서 항원 결합 분자로부터 해리시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 항원과 결합한 상태에서 세포내에 삽입된 항원 결합 분자를, 항원과 결합하고 있지 않은 상태에서 세포외로 방출시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 pH 5.8에 있어서의 항원 결합활성을 pH 7.4에 있어서의 항원 결합활성보다 약하게 함으로써, 항원 결합 분자의 혈장 중 항원 소실능을 증가시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 내지 제14항 중 어느 한 항에 있어서,\n항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값을 2 이상으로 하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 내지 제14항 중 어느 한 항에 있어서, \nKD(pH 5.8)/KD(pH 7.4)의 값을 10 이상으로 하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 내지 제14항 중 어느 한 항에 있어서, \nKD(pH 5.8)/KD(pH 7.4)의 값을 40 이상으로 하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써 약물동태를 향상시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써, 항원 결합 분자의 항원으로의 결합 횟수를 늘리는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써, 항원 결합 분자가 결합 가능한 항원의 수를 늘리는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써, 세포외에서 항원 결합 분자에 결합한 항원을 세포내에서 항원 결합 분자로부터 해리시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써, 항원과 결합한 상태에서 세포내에 삽입된 항원 결합 분자를, 항원과 결합하고 있지 않은 상태에서 세포외로 방출시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "항원 결합 분자의 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입함으로써, 항원 결합 분자의 혈장 중 항원 소실능을 증가시키는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항 내지 제23항 중 어느 한 항에 있어서,\n히스티딘으로의 치환 또는 히스티딘의 삽입에 의해, pH 5.8에서의 항원 결합활성과 pH 7.4에서의 항원 결합활성의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 히스티딘 치환 또는 삽입 전과 비교하여 커지는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              18,
+              19,
+              20,
+              21,
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 내지 제24항 중 어느 한 항에 있어서,\n항원 결합 분자가 안타고니스트 활성을 갖는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 내지 제25항 중 어느 한 항에 있어서, \n항원 결합 분자가 막 항원 또는 가용형 항원에 결합하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 내지 제26항 중 어느 한 항에 있어서,\n항원 결합 분자가 항체인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 공정을 포함하는 항원 결합 분자의 스크리닝방법,\n(a) pH 6.7~pH 10.0에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(b) pH 4.0~pH 6.5에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항원 결합 분자를 선택하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항에 있어서, \npH 6.7~pH 10.0에 있어서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성의 2배 이상인 항체를 선택하는 것을 특징으로 하는 스크리닝방법.",
+            "refers_to": [
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 공정을 포함하는 항원 결합 분자의 스크리닝방법, \n(a) pH 6.7~pH 10.0의 조건하에서 항원 결합 분자를 항원에 결합시키는 공정, \n(b) (a)의 항원에 결합한 항원 결합 분자를 pH 4.0~pH 6.5의 조건하에 두는 공정, \n(c) pH 4.0~pH 6.5의 조건하에서 해리된 항원 결합 분자를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 스크리닝방법,\n(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항원 결합 분자를 결합시키는 공정, \n(b) 제1 pH 조건하에서 칼럼에 결합한 항원 결합 분자를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, \n(c) 용출된 항원 결합 분자를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 스크리닝방법, \n(a) 항원 결합 분자 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, \n(b) 칼럼으로부터 제2 pH 조건하에서 항원 결합 분자를 용출하는 공정, \n(c) 용출된 항원 결합 분자를 코드하는 유전자를 증폭하는 공정, \n(d) 용출된 항원 결합 분자를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항 또는 제32항에 있어서, \n제1 pH가 pH 6.7~pH 10.0, 제2 pH가 4.0~pH 6.5인 것을 특징으로 하는 스크리닝방법.",
+            "refers_to": [
+              31,
+              32
+            ]
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항 내지 제33항 중 어느 한 항에 있어서,\n항원 결합 분자가, 항원 결합 분자 중 하나 이상의 아미노산이 히스티딘으로 치환되었거나 또는 하나 이상의 히스티딘이 삽입된 항원 결합 분자인 스크리닝방법.",
+            "refers_to": [
+              28,
+              29,
+              30,
+              31,
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항 내지 제33항 중 어느 한 항에 있어서,\n혈장 중 체류성이 우수한 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              28,
+              29,
+              30,
+              31,
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항 내지 제33항 중 어느 한 항에 있어서,\n항원에 2회 이상 결합할 수 있는 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              28,
+              29,
+              30,
+              31,
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항 내지 제33항 중 어느 한 항에 있어서,\n결합 가능한 항원의 수가 항원 결합 부위보다 많은 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              28,
+              29,
+              30,
+              31,
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항 내지 제33항 중 어느 한 항에 있어서,\n세포외에서 결합한 항원을 세포내에서 해리하는 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              28,
+              29,
+              30,
+              31,
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항 내지 제33항 중 어느 한 항에 있어서, \n항원과 결합한 상태에서 세포내에 삽입되고, 항원과 결합하고 있지 않은 상태에서 세포외로 방출되는 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              28,
+              29,
+              30,
+              31,
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항 내지 제33항 중 어느 한 항에 있어서, \n혈장 중 항원 소실능이 증가한 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              28,
+              29,
+              30,
+              31,
+              32,
+              33
+            ]
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항 내지 제40항 중 어느 한 항에 있어서,\n항원 결합 분자가 의약조성물로서 사용되는 항원 결합 분자인 스크리닝방법.",
+            "refers_to": [
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40
+            ]
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제28항 내지 제41항 중 어느 한 항에 있어서,\n항원 결합 분자가 항체인 것을 특징으로 하는 스크리닝방법.",
+            "refers_to": [
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41
+            ]
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 공정을 포함하는 항원 결합 분자의 제조방법, \n(a) pH 6.7~pH 10.0에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(b) pH 4.0~pH 6.5에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항원 결합 분자를 선택하는 공정, \n(d) (c)에서 선택된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 공정을 포함하는 항원 결합 분자의 제조방법, \n(a) pH 6.7~pH 10.0의 조건하에서 항원 결합 분자를 항원에 결합시키는 공정, \n(b) (a)의 항원에 결합한 항원 결합 분자를 pH 4.0~pH 6.5의 조건하에 두는 공정, \n(c) pH 4.0~pH 6.5의 조건하에서 해리된 항원 결합 분자를 취득하는 공정, \n(d) (c)에서 취득된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 제조방법, \n(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항원 결합 분자를 결합시키는 공정, \n(b) 제1 pH 조건하에서 칼럼에 결합한 항원 결합 분자를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, \n(c) 용출된 항원 결합 분자를 취득하는 공정, \n(d) (c)에서 취득된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 제조방법, \n(a) 항원 결합 분자 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, \n(b) 칼럼으로부터 제2 pH 조건하에서 항원 결합 분자를 용출하는 공정, \n(c) 용출된 항원 결합 분자를 코드하는 유전자를 증폭하는 공정, \n(d) 용출된 항원 결합 분자를 취득하는 공정, \n(e) (d)에서 취득된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(f) (e)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제45항 또는 제46항에 있어서, \n제1 pH가 pH 6.7~pH 10.0, 제2 pH가 4.0~pH 6.5인 것을 특징으로 하는 제조방법.",
+            "refers_to": [
+              45,
+              46
+            ]
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제47항 중 어느 한 항에 있어서, \n항원 결합 분자 중 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입하는 공정을 추가적으로 포함하는 제조방법.",
+            "refers_to": [
+              43,
+              44,
+              45,
+              46,
+              47
+            ]
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제48항 중 어느 한 항에 있어서,\n항원 결합 분자가 항체인 것을 특징으로 하는 제조방법.",
+            "refers_to": [
+              43,
+              44,
+              45,
+              46,
+              47,
+              48
+            ]
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제43항 내지 제49항 중 어느 한 항의 제조방법에 의해 제조된 항원 결합 분자를 포함하는 의약조성물.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20151209",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 50,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항원 결합 분자의 스크리닝방법,\n(a) pH 6.7~pH 10.0에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(b) pH 4.0~pH 6.5에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항원 결합 분자를 선택하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, \npH 6.7~pH 10.0에 있어서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성의 2배 이상인 항체를 선택하는 것을 특징으로 하는 스크리닝방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항원 결합 분자의 스크리닝방법, \n(a) pH 6.7~pH 10.0의 조건하에서 항원 결합 분자를 항원에 결합시키는 공정, \n(b) (a)의 항원에 결합한 항원 결합 분자를 pH 4.0~pH 6.5의 조건하에 두는 공정, \n(c) pH 4.0~pH 6.5의 조건하에서 해리된 항원 결합 분자를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 스크리닝방법,\n(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항원 결합 분자를 결합시키는 공정, \n(b) 제1 pH 조건하에서 칼럼에 결합한 항원 결합 분자를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, \n(c) 용출된 항원 결합 분자를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 스크리닝방법, \n(a) 항원 결합 분자 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, \n(b) 칼럼으로부터 제2 pH 조건하에서 항원 결합 분자를 용출하는 공정, \n(c) 용출된 항원 결합 분자를 코드하는 유전자를 증폭하는 공정, \n(d) 용출된 항원 결합 분자를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, \n제1 pH가 pH 6.7~pH 10.0, 제2 pH가 4.0~pH 6.5인 것을 특징으로 하는 스크리닝방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, \n제1 pH가 pH 6.7~pH 10.0, 제2 pH가 4.0~pH 6.5인 것을 특징으로 하는 스크리닝방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n항원 결합 분자가, 항원 결합 분자 중 하나 이상의 아미노산이 히스티딘으로 치환되었거나 또는 하나 이상의 히스티딘이 삽입된 항원 결합 분자인 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n혈장 중 체류성이 우수한 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n항원에 2회 이상 결합할 수 있는 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n결합 가능한 항원의 수가 항원 결합 부위보다 많은 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n세포외에서 결합한 항원을 세포내에서 해리하는 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n항원과 결합한 상태에서 세포내에 삽입되고, 항원과 결합하고 있지 않은 상태에서 세포외로 방출되는 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n혈장 중 항원 소실능이 증가한 항원 결합 분자를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n항원 결합 분자가 의약조성물로서 사용되는 항원 결합 분자인 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n항원 결합 분자가 항체인 것을 특징으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항원 결합 분자의 제조방법, \n(a) pH 6.7~pH 10.0에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(b) pH 4.0~pH 6.5에 있어서의 항원 결합 분자의 항원 결합활성을 얻는 공정, \n(c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항원 결합 분자를 선택하는 공정, \n(d) (c)에서 선택된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항원 결합 분자의 제조방법, \n(a) pH 6.7~pH 10.0의 조건하에서 항원 결합 분자를 항원에 결합시키는 공정, \n(b) (a)의 항원에 결합한 항원 결합 분자를 pH 4.0~pH 6.5의 조건하에 두는 공정, \n(c) pH 4.0~pH 6.5의 조건하에서 해리된 항원 결합 분자를 취득하는 공정, \n(d) (c)에서 취득된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 제조방법, \n(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항원 결합 분자를 결합시키는 공정, \n(b) 제1 pH 조건하에서 칼럼에 결합한 항원 결합 분자를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, \n(c) 용출된 항원 결합 분자를 취득하는 공정, \n(d) (c)에서 취득된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항원 결합 분자의 제조방법, \n(a) 항원 결합 분자 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, \n(b) 칼럼으로부터 제2 pH 조건하에서 항원 결합 분자를 용출하는 공정, \n(c) 용출된 항원 결합 분자를 코드하는 유전자를 증폭하는 공정, \n(d) 용출된 항원 결합 분자를 취득하는 공정, \n(e) (d)에서 취득된 항원 결합 분자를 코드하는 유전자를 얻는 공정,\n(f) (e)에서 얻어진 유전자를 사용하여 항원 결합 분자를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서, \n제1 pH가 pH 6.7~pH 10.0, 제2 pH가 4.0~pH 6.5인 것을 특징으로 하는 제조방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제20항에 있어서, \n제1 pH가 pH 6.7~pH 10.0, 제2 pH가 4.0~pH 6.5인 것을 특징으로 하는 제조방법.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항 내지 제22항 중 어느 한 항에 있어서, \n항원 결합 분자 중 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입하는 공정을 추가적으로 포함하는 제조방법.",
+            "refers_to": [
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제17항 내지 제22항 중 어느 한 항에 있어서, \n항원 결합 분자가 항체인 것을 특징으로 하는 제조방법.",
+            "refers_to": [
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 41,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 42,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 43,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 44,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 45,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 46,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 47,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 48,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 49,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 50,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20161026",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 21,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항체의 스크리닝방법,\n(a) pH 6.7~pH 10.0에 있어서의 항체의 항원 결합활성을 얻는 공정, \n(b) pH 4.0~pH 6.5에 있어서의 항체의 항원 결합활성을 얻는 공정, \n(c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항체를 선택하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항체의 스크리닝방법, \n(a) pH 6.7~pH 10.0의 조건하에서 항체를 항원에 결합시키는 공정, \n(b) (a)의 항원에 결합한 항체를 pH 4.0~pH 6.5의 조건하에 두는 공정, \n(c) pH 4.0~pH 6.5의 조건하에서 해리된 항체를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 스크리닝방법,\n(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항체를 결합시키는 공정, \n(b) 제1 pH 조건하에서 칼럼에 결합한 항체를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, \n(c) 용출된 항체를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 스크리닝방법, \n(a) 항체 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, \n(b) 칼럼으로부터 제2 pH 조건하에서 항체를 용출하는 공정, \n(c) 용출된 항체를 코드하는 유전자를 증폭하는 공정, \n(d) 용출된 항체를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n항체가, 항체 중 하나 이상의 아미노산이 히스티딘으로 치환되었거나 또는 하나 이상의 히스티딘이 삽입된 항체인 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n혈장 중 체류성이 우수한 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n항원에 2회 이상 결합할 수 있는 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n결합 가능한 항원의 수가 항원 결합 부위보다 많은 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n세포외에서 결합한 항원을 세포내에서 해리하는 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n항원과 결합한 상태에서 세포내에 삽입되고, 항원과 결합하고 있지 않은 상태에서 세포외로 방출되는 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n혈장 중 항원 소실능이 증가한 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서,\n항체가 의약조성물로서 사용되는 항체인 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항체의 제조방법, \n(a) pH 6.7~pH 10.0에 있어서의 항체의 항원 결합활성을 얻는 공정, \n(b) pH 4.0~pH 6.5에 있어서의 항체의 항원 결합활성을 얻는 공정, \n(c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항체를 선택하는 공정, \n(d) (c)에서 선택된 항체를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항체의 제조방법, \n(a) pH 6.7~pH 10.0의 조건하에서 항체를 항원에 결합시키는 공정, \n(b) (a)의 항원에 결합한 항체를 pH 4.0~pH 6.5의 조건하에 두는 공정, \n(c) pH 4.0~pH 6.5의 조건하에서 해리된 항체를 취득하는 공정, \n(d) (c)에서 취득된 항체를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 제조방법, \n(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항체를 결합시키는 공정, \n(b) 제1 pH 조건하에서 칼럼에 결합한 항체를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, \n(c) 용출된 항체를 취득하는 공정, \n(d) (c)에서 취득된 항체를 코드하는 유전자를 얻는 공정,\n(e) (d)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 제조방법, \n(a) 항체 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, \n(b) 칼럼으로부터 제2 pH 조건하에서 항체를 용출하는 공정, \n(c) 용출된 항체를 코드하는 유전자를 증폭하는 공정, \n(d) 용출된 항체를 취득하는 공정, \n(e) (d)에서 취득된 항체를 코드하는 유전자를 얻는 공정,\n(f) (e)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제18항에 있어서, \n제1 pH가 pH 6.7~pH 10.0, 제2 pH가 4.0~pH 6.5인 것을 특징으로 하는 제조방법.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제19항에 있어서,\n제1 pH가 pH 6.7~pH 10.0, 제2 pH가 4.0~pH 6.5인 것을 특징으로 하는 제조방법.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항 내지 제21항 중 어느 한 항에 있어서, \n항체 중 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입하는 공정을 추가적으로 포함하는 제조방법.",
+            "refers_to": [
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20170727",
+        "document_name": "명세서 등 보정서(심사전치)",
+        "claim_count": 21,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항체의 스크리닝방법:\n(a) pH 6.7~pH 10.0에 있어서의 항체의 항원 결합활성을 얻는 공정, \n(b) pH 4.0~pH 6.5에 있어서의 항체의 항원 결합활성을 얻는 공정, 및\n(c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항체를 선택하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항체의 스크리닝방법:\n(a) pH 6.7~pH 10.0의 조건하에서 항체를 항원에 결합시키는 공정, \n(b) (a)의 항원에 결합한 항체를 pH 4.0~pH 6.5의 조건하에 두는 공정, 및\n(c) pH 4.0~pH 6.5의 조건하에서 해리된 항체를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는, 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 스크리닝방법으로서, 상기 제1 pH가 pH 6.7~pH 10.0에서 선택되고, 상기 제2 pH가 pH 4.0~pH 6.5에서 선택되는 스크리닝방법:\n(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항체를 결합시키는 공정, \n(b) 제1 pH 조건하에서 칼럼에 결합한 항체를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, 및\n(c) 용출된 항체를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는, 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 스크리닝방법으로서, 상기 제1 pH가 pH 6.7~pH 10.0에서 선택되고, 상기 제2 pH가 pH 4.0~pH 6.5에서 선택되는 스크리닝방법: \n(a) 항체 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, \n(b) 칼럼으로부터 제2 pH 조건하에서 항체를 용출하는 공정, \n(c) 용출된 항체를 코드하는 유전자를 증폭하는 공정, 및\n(d) 용출된 항체를 취득하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n항체가, 항체 중 하나 이상의 아미노산이 히스티딘으로 치환되었거나 또는 하나 이상의 히스티딘이 삽입된 항체인 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n혈장 중 체류성이 우수한 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n항원에 2회 이상 결합할 수 있는 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n결합 가능한 항원의 수가 항원 결합 부위보다 많은 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n세포외에서 결합한 항원을 세포내에서 해리하는 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n항원과 결합한 상태에서 세포내에 삽입되고, 항원과 결합하고 있지 않은 상태에서 세포외로 방출되는 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n혈장 중 항원 소실능이 증가한 항체를 얻는 것을 목적으로 하는 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n항체가 의약조성물로서 사용되는 항체인 스크리닝방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항체의 제조방법: \n(a) pH 6.7~pH 10.0에 있어서의 항체의 항원 결합활성을 얻는 공정, \n(b) pH 4.0~pH 6.5에 있어서의 항체의 항원 결합활성을 얻는 공정, \n(c) pH 6.7~pH 10.0에서의 항원 결합활성이 pH 4.0~pH 6.5에서의 항원 결합활성보다 높은 항체를 선택하는 공정, \n(d) (c)에서 선택된 항체를 코드하는 유전자를 얻는 공정, 및\n(e) (d)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는 항체의 제조방법: \n(a) pH 6.7~pH 10.0의 조건하에서 항체를 항원에 결합시키는 공정, \n(b) (a)의 항원에 결합한 항체를 pH 4.0~pH 6.5의 조건하에 두는 공정, \n(c) pH 4.0~pH 6.5의 조건하에서 해리된 항체를 취득하는 공정, \n(d) (c)에서 취득된 항체를 코드하는 유전자를 얻는 공정, 및\n(e) (d)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는, 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 제조방법으로서, 상기 제1 pH가 pH 6.7~pH 10.0에서 선택되고, 상기 제2 pH가 pH 4.0~pH 6.5에서 선택되는 제조방법:\n(a) 항원을 고정한 칼럼에 제1 pH 조건하에서 항체를 결합시키는 공정, \n(b) 제1 pH 조건하에서 칼럼에 결합한 항체를, 제2 pH 조건하에서 칼럼으로부터 용출하는 공정, \n(c) 용출된 항체를 취득하는 공정, \n(d) (c)에서 취득된 항체를 코드하는 유전자를 얻는 공정, 및\n(e) (d)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "이하의 공정을 포함하는, 제1 pH에서의 결합활성이 제2 pH에서의 결합활성보다도 높은 항체의 제조방법으로서, 상기 제1 pH가 pH 6.7~pH 10.0에서 선택되고, 상기 제2 pH가 pH 4.0~pH 6.5에서 선택되는 제조방법:\n(a) 항체 라이브러리를, 항원을 고정한 칼럼에 제1 pH 조건하에서 결합시키는 공정, \n(b) 칼럼으로부터 제2 pH 조건하에서 항체를 용출하는 공정, \n(c) 용출된 항체를 코드하는 유전자를 증폭하는 공정, \n(d) 용출된 항체를 취득하는 공정, \n(e) (d)에서 취득된 항체를 코드하는 유전자를 얻는 공정, 및\n(f) (e)에서 얻어진 유전자를 사용하여 항체를 제조하는 공정.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항 내지 제19항 중 어느 한 항에 있어서, \n항체 중 하나 이상의 아미노산을 히스티딘으로 치환하거나 또는 하나 이상의 히스티딘을 삽입하는 공정을 추가적으로 포함하는 제조방법.",
+            "refers_to": [
+              16,
+              17,
+              18,
+              19
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 50,
+      "after_claim_count": 21,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020177021142"
+      },
+      ""
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2009.10.15",
+      "internationOpenNumber": "WO2009125825",
+      "internationalApplicationDate": "2009.04.10",
+      "internationalApplicationNumber": "PCT/JP2009/057309"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "일본국 도쿄도 기타쿠 우키마 *쵸메 *반 *고",
+      "code": "520000045945",
+      "country": "일본",
+      "engName": "CHUGAI SEIYAKU KABUSHIKI KAISHA (Chugai Pharmaceutical Co., Ltd.)",
+      "name": "추가이 세이야쿠 가부시키가이샤"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "일본국 시즈오카 고텐바시 고마카도...",
+        "code": "",
+        "country": "일본",
+        "engName": "IGAWA, Tomoyuki",
+        "name": "이가와 도모유키"
+      },
+      {
+        "address": "일본국 시즈오카 고텐바시 고마카도...",
+        "code": "",
+        "country": "일본",
+        "engName": "ISHII, Shinya",
+        "name": "이시이 신야"
+      },
+      {
+        "address": "일본국 시즈오카 고텐바시 고마카도...",
+        "code": "",
+        "country": "일본",
+        "engName": "MAEDA, Atsuhiko",
+        "name": "마에다 아츠히코"
+      },
+      {
+        "address": "일본국 시즈오카 고텐바시 고마카도...",
+        "code": "",
+        "country": "일본",
+        "engName": "NAKAI, Takashi",
+        "name": "나카이 다카시"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 마방로 ** (양재동, 동원F&B빌딩)",
+      "code": "920101000812",
+      "country": "대한민국",
+      "engName": "FirstLaw P.C.",
+      "name": "제일특허법인(유)"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "일본",
+        "priorityApplicationDate": "2008.04.11",
+        "priorityApplicationNumber": "JP-P-2008-104147"
+      },
+      {
+        "priorityApplicationCountry": "일본",
+        "priorityApplicationDate": "2008.09.26",
+        "priorityApplicationNumber": "JP-P-2008-247713"
+      },
+      {
+        "priorityApplicationCountry": "일본",
+        "priorityApplicationDate": "2009.03.19",
+        "priorityApplicationNumber": "JP-P-2009-068744"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "FEBS Letters. Vol. 309, No. 1, pp. 85-88 (1992)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Nature Biotechnology. Vol. 20, No. 9, pp. 908-913 (2002)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "US20050026071 A1",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2010.11.09",
+        "receiptNumber": "1-1-2010-0729218-26"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2010.12.06",
+        "receiptNumber": "1-5-2010-0108366-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2014.03.13",
+        "receiptNumber": "1-1-2014-0241156-20"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2015.09.10",
+        "receiptNumber": "9-5-2015-0621588-24"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2015.11.10",
+        "receiptNumber": "1-1-2015-1091743-50"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2015.12.09",
+        "receiptNumber": "1-1-2015-1205140-25"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2015.12.09",
+        "receiptNumber": "1-1-2015-1205263-32"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2016.04.27",
+        "receiptNumber": "9-5-2016-0307710-67"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2016.06.21",
+        "receiptNumber": "1-1-2016-0598064-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2016.07.21",
+        "receiptNumber": "1-1-2016-0707424-38"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2016.08.19",
+        "receiptNumber": "1-1-2016-0808230-79"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2016.09.20",
+        "receiptNumber": "1-1-2016-0909446-14"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2016.10.26",
+        "receiptNumber": "1-1-2016-1041940-77"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2016.10.26",
+        "receiptNumber": "1-1-2016-1041908-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2016.10.31",
+        "receiptNumber": "1-1-2016-1059953-25"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2017.03.28",
+        "receiptNumber": "9-5-2017-0224345-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[법정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2017.04.21",
+        "receiptNumber": "1-1-2017-0392503-82"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "",
+        "documentName": "법정기간연장승인서",
+        "receiptDate": "2017.04.25",
+        "receiptNumber": "1-5-2017-0056295-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2017.07.27",
+        "receiptNumber": "1-1-2017-0725009-50"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "명세서 등 보정서(심사전치)",
+        "receiptDate": "2017.07.27",
+        "receiptNumber": "7-1-2017-0025558-69"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Result of Reexamination",
+        "documentName": "심사전치출원의 심사결과통지서",
+        "receiptDate": "2017.09.11",
+        "receiptNumber": "9-5-2017-0637527-48"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Opinion of Examiner",
+        "documentName": "심사관의견요청서",
+        "receiptDate": "2017.10.17",
+        "receiptNumber": "7-8-2017-0024761-61"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2019.09.24",
+        "receiptNumber": "9-5-2019-0688006-26"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.02.28",
+        "receiptNumber": "4-1-2023-5049938-55"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.03.07",
+        "receiptNumber": "4-1-2025-5062399-75"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020107025124.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e0019d2d93e6b200e65cf5586db17b10ae4e76d6ea85d990e17ea422ea9700faf5fb7db9c442b33fde76ec9c35b114520979c484c19b29a73af",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfed8e45ae56c1023281c0767753b05ac949816a682523f639a345ca984e050bfcc8e0b66f5dad19496958fc7f9f54bdfa93ba6cd0e4898065"
+  },
+  "rndInfoArray": ""
+}

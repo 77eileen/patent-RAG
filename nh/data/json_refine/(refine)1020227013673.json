@@ -1,0 +1,2163 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.10.09",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-7013673",
+      "claimCount": "30",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "세포를 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포로 재프로그래밍하기 위한 조성물, 방법 및 이의 용도",
+      "inventionTitleEng": "COMPOSITION FOR REPROGRAMMING CELLS INTO PLASMACYTOID DENDRITIC CELLS OR INTERFERON TYPE I-PRODUCING CELLS, METHODS AND USES THEREOF",
+      "openDate": "2022.06.09",
+      "openNumber": "10-2022-0077916",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.09.26",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2022.04.22"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0784"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/86"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/47"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/16"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 31/18"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/02"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/04"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 개시는 세포를 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포로 재프로그래밍하기 위한 조성물, 작제물 및 벡터, 이의 방법 및 용도에 관한 것이다. 본 개시는, 단리된/합성 전사 인자를 도입 및 발현함으로써 분화된, 다분화능 또는 다능성 줄기 세포로부터 항바이러스 및 항종양 면역 반응을 촉진하는 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포를 제조하는 방법의 개발에 관한 것이다. 보다 구체적으로, 본 개시는 놀랍게도 특정 전사 인자의 조합을 사용하여 직접적인 세포 재프로그래밍에 의해 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포를 수득하는 방법을 제공한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020227013673",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220422",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 32,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "적어도 2개의 전사 인자(transcription factor): IRF8 및 SPIB를 포함하는 조성물로서,\n줄기 세포 또는 분화된 세포(differentiated cell), 또는 이들의 혼합물을 대상체(subject)에서 형질세포양 수지상 세포(plasmacytoid dendritic cell) 또는 인터페론 유형 I-생산 세포로 재프로그래밍(reprogramming)할 때에 사용하기 위한, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 조성물이 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 기타 전사 인자를 추가로 포함하는, 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 상기 전사 인자가 개별적으로 IRF8(서열번호 49, 서열번호 50), SPIB(서열번호 51, 서열번호 52), ARID5A(서열번호 53, 서열번호 54), BCL11A(서열번호 55, 서열번호 56), CBFA2T3(서열번호 57, 서열번호 58), CREB3L2(서열번호 59, 서열번호 60), ETS1(서열번호 61, 서열번호 62), IKZF1(서열번호 71, 서열번호 72), TCF4(서열번호 89, 서열번호 90), TCF12(서열번호 91, 서열번호 92), STAT1(서열번호 93, 서열번호 94) 및 TSC22D1(서열번호 95, 서열번호 96)으로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 조성물:\nIRF8 및 SPIB;\nIRF8, SPIB 및 ARID5A;\nIRF8, SPIB 및 BCL11A;\nIRF8, SPIB 및 CBFA2T3;\nIRF8, SPIB 및 CREB3L2;\nIRF8, SPIB 및 ETS1;\nIRF8, SPIB 및 IKZF1;\nIRF8, SPIB 및 STAT1;\nIRF8, SPIB 및 TCF4;\nIRF8, SPIB 및 TCF12;\nIRF8, SPIB 및 TSC22D1 또는 이들의 혼합물.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TCF12의 조합인, 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TSC22D1의 조합인, 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 세포가 다능성(pluripotent) 줄기 세포, 다분화능(multipotent) 줄기 세포, 분화 세포, 종양 세포, 암 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택되는, 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 수의학 또는 인간 의약(human medicine), 특히 항바이러스성 면역 반응 및 면역 병리(pathology), 특히 자가면역 질환 및 면역결핍 상태(condition), 신생물, 특히 암, 즉 고형 또는 혈액 종양, 양성 종양(benign tumour), 악성 종양(malignant tumour), 초기 암(early cancer), 기저 세포 암종(basal cell carcinoma), 자궁경부 이형성증(cervical dysplasia), 연조직 육종(soft tissue sarcoma), 생식 세포 종양(germ cell tumour), 망막모세포종(retinoblastoma), 연령 관련 황반 변성(age-related macular degeneration), 호지킨 림프종(Hodgkin's lymphoma), 혈액암(blood cancer), 전립선암(prostate cancer), 난소암(ovarian cancer), 자궁경부암(cervix cancer), 자궁암(uterus cancer), 질암(vaginal cancer), 유방암(breast cancer), 비인두암(naso-pharynx cancer), 기관암(trachea cancer), 후두암(larynx cancer), 기관지암(bronchi cancer), 세기관지암(bronchioles cancer), 폐암(lung cancer), 중공 장기암(hollow organs cancer), 식도암(esophagus cancer), 위암(stomach cancer), 담관암(bile duct cancer), 장암(intestine cancer), 결장암(colon cancer), 대장암(colorectum cancer), 직장암(rectum cancer), 방광암(bladder cancer), 요관암(ureter cancer), 신장암(kidney cancer), 간암(liver cancer), 담낭암(gall bladder cancer,), 비장암(spleen cancer), 뇌암(brain cancer), 림프계암(lymphatic system cancer), 골암(bone cancer), 췌장암(pancreatic cancer), 백혈병(leukaemia), 피부암(skin cancer) 또는 골수종(myeloma), 감염성 질환(infectious disease), 바이러스성 질환(viral disease) 또는 바이러스성 유발 질환(viral induced disease), 중추 및 말초 신경계 장애(central and peripheral nervous system disorder), 진균(fungal), 세균(viral), 클라미디아(chlamydial), 박테리아(bacterial), 나노박테리아(nanobacterial) 또는 기생충(parasitic) 감염 질환 또는 바이러스성 질환, 또는 바이러스 유발 질환의 진단, 요법 또는 치료에서, 항바이러스제로서 또는 면역원성 조성물로서, 면역요법으로서, 또는 신경퇴행성 질환의 치료 또는 요법에서, 암의 치료 또는 요법에서, 또는 감염성 질환의 치료 또는 요법에서, 또는 바이러스 질환, 또는 바이러스 유도 질환, 피내 및 경피 요법, HIV, SARS 코로나바이러스에 의한 감염, 아시아 독감 바이러스(Asian flu virus), 단순 포진(herpes simplex), 인플루엔자 바이러스, 대상 포진(herpes zoster), 간염(hepatitis), 인간 유두종 바이러스(human papillomavirus), 엡스타인-바르 바이러스(Epstein-Barr virus), 인간 T-림프성 바이러스 또는 바이러스 간염, 아밀로이드 질환, 특히 아밀로이드 질환 A 아밀로이드증(amyloidosis), 알츠하이머병(Alzheimer's disease), 경쇄(AL) 아밀로이드증(Light-Chain (AL) amyloidosis), 제2형 당뇨병(Type-2 Diabetes), 갑상선 수질암(Medullary Carcinoma of the Thyroid), 파킨슨병(Parkinson's disease), 다발성 신경병증(Polyneuropathy), 또는 해면상 뇌병증(Spongiform Encephalopathy)(크로이츠펠트 야콥병(Creutzfeldt Jakob disease)) 또는 약물 스크리닝(drug screening)에 사용하기 위한 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "적어도 2개의 전사 인자 SPIB 및 IRF8을 코딩하는(encoding) 작제물(construct) 또는 벡터(vector).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 벡터가 바이러스 벡터; 특히 레트로바이러스, 아데노바이러스, 렌티바이러스, 헤르페스 바이러스, 수두 바이러스, 바이러스(paramyxoviral), 랍도바이러스, 알파바이러스, 플라바이러스 또는 아데노-연관 바이러스 벡터인, 작제물 또는 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 또는 제10항에 있어서, 상기 벡터 또는 작제물이 합성 mRNA, 네이키드(naked) 알파바이러스 RNA 레플리콘(replicon) 또는 네이키드 플라비바이러스 RNA 레플리콘인, 작제물 또는 벡터.",
+          "refers_to": [
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체에서 줄기 세포 또는 분화된 세포, 또는 이들의 혼합물을 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포로 재프로그래밍할 때에 사용하기 위한, 적어도 2개의 전사 인자 IRF8 및 SPIB를 코딩하는 적어도 2개의 폴리뉴클레오티드 서열을 포함하는 하나 이상의 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 벡터가 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 기타 전사 인자를 추가로 코딩하는, 하나 이상의 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 또는 제13항에 있어서, 상기 전사 인자가 개별적으로, IRF8(서열번호 1, 서열번호 2), SPIB(서열번호 3, 서열번호 4), ARID5A(서열번호 5, 서열번호 6), BCL11A(서열번호 7, 서열번호 8), CBFA2T3(서열번호 9, 서열번호 10), CREB3L2(서열번호 11, 서열번호 12), ETS1(서열번호 13, 서열번호 14), IKZF1(서열번호 23, 서열번호 24), TCF4(서열번호 41, 서열번호 42), TCF12(서열번호 43, 서열번호 44), STAT1(서열번호 45, 서열번호 46) 및 TSC22D1(서열번호 47, 서열번호 48)로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 내지 제14항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 하나 이상의 벡터:\nIRF8 및 SPIB;\nIRF8, SPIB 및 ARID5A;\nIRF8, SPIB 및 BCL11A;\nIRF8, SPIB 및 CBFA2T3;\nIRF8, SPIB 및 CREB3L2;\nIRF8, SPIB 및 ETS1;\nIRF8, SPIB 및 IKZF1;\nIRF8, SPIB 및 STAT1;\nIRF8, SPIB 및 TCF4;\nIRF8, SPIB 및 TCF12;\nIRF8, SPIB 및 TSC22D1, 또는 이들의 혼합물.",
+          "refers_to": [
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 내지 제15항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TCF12의 조합인, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 내지 제16항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TSC22D1의 조합인, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 내지 제17항 중 어느 한 항에 있어서, 상기 벡터가 바이러스 벡터; 특히 레트로바이러스, 아데노바이러스, 렌티바이러스, 헤르페스 바이러스, 수두 바이러스, 파라믹소바이러스, 랍도바이러스, 알파바이러스, 플라비바이러스 또는 아데노-연관 바이러스 벡터인, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 내지 제18항 중 어느 한 항에 있어서, 상기 벡터가 합성 mRNA, 네이키드 알파바이러스 RNA 레플리콘 또는 네이키드 플라비바이러스 RNA 레플리콘인, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 내지 제19항 중 어느 한 항에 있어서, 상기 세포가 다능성 줄기 세포, 다분화능 줄기 세포, 분화된 세포, 종양 세포, 암 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택되는, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항 내지 제20항 중 어느 한 항에 있어서, 수의학 또는 인간 의약, 특히 항바이러스성 면역 반응 및 면역 병리, 특히 자가면역 질환 및 면역결핍 상태, 신생물, 특히 암, 즉 고형 또는 혈액 종양, 양성 종양(benign tumour), 악성 종양(malignant tumour), 초기 암(early cancer), 기저 세포 암종(basal cell carcinoma), 자궁경부 이형성증(cervical dysplasia), 연조직 육종(soft tissue sarcoma), 생식 세포 종양(germ cell tumour), 망막모세포종(retinoblastoma), 연령 관련 황반 변성(age-related macular degeneration), 호지킨 림프종(Hodgkin's lymphoma), 혈액암(blood cancer), 전립선암(prostate cancer), 난소암(ovarian cancer), 자궁경부암(cervix cancer), 자궁암(uterus cancer), 질암(vaginal cancer), 유방암(breast cancer), 비인두암(naso-pharynx cancer), 기관암(trachea cancer), 후두암(larynx cancer), 기관지암(bronchi cancer), 세기관지암(bronchioles cancer), 폐암(lung cancer), 중공 장기암(hollow organs cancer), 식도암(esophagus cancer), 위암(stomach cancer), 담관암(bile duct cancer), 장암(intestine cancer), 결장암(colon cancer), 대장암(colorectum cancer), 직장암(rectum cancer), 방광암(bladder cancer), 요관암(ureter cancer), 신장암(kidney cancer), 간암(liver cancer), 담낭암(gall bladder cancer,), 비장암(spleen cancer), 뇌암(brain cancer), 림프계암(lymphatic system cancer), 골암(bone cancer), 췌장암(pancreatic cancer), 백혈병(leukaemia), 피부암(skin cancer) 또는 골수종(myeloma), 감염성 질환(infectious disease), 바이러스성 질환(viral disease) 또는 바이러스성 유발 질환(viral induced disease), 중추 및 말초 신경계 장애(central and peripheral nervous system disorder), 진균(fungal), 세균(viral), 클라미디아(chlamydial), 박테리아(bacterial), 나노박테리아(nanobacterial) 또는 기생충(parasitic) 감염 질환 또는 바이러스성 질환, 또는 바이러스 유발 질환의 진단, 요법 또는 치료에서, 항바이러스제로서 또는 면역원성 조성물로서, 면역요법으로서, 또는 신경퇴행성 질환의 치료 또는 요법에서, 암의 치료 또는 요법에서, 또는 감염성 질환의 치료 또는 요법에서, 또는 바이러스 질환, 또는 바이러스 유도 질환, 피내 및 경피 요법, HIV, SARS 코로나바이러스에 의한 감염, 아시아 독감 바이러스(Asian flu virus), 단순 포진(herpes simplex), 인플루엔자 바이러스, 대상 포진(herpes zoster), 간염(hepatitis), 인간 유두종 바이러스(human papillomavirus), 엡스타인-바르 바이러스(Epstein-Barr virus), 인간 T-림프성 바이러스 또는 바이러스 간염, 아밀로이드 질환, 특히 아밀로이드 질환 A 아밀로이드증(amyloidosis), 알츠하이머병(Alzheimer's disease), 경쇄(AL) 아밀로이드증(Light-Chain (AL) amyloidosis), 제2형 당뇨병(Type-2 Diabetes), 갑상선 수질암(Medullary Carcinoma of the Thyroid), 파킨슨병(Parkinson's disease), 다발성 신경병증(Polyneuropathy), 또는 해면상 뇌병증(Spongiform Encephalopathy)(크로이츠펠트 야콥병(Creutzfeldt Jakob disease)) 또는 약물 스크리닝에 사용하기 위한 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포를 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포 내로 재프로그래밍하거나 유도하기 위한 시험관내 방법으로서, \n줄기 세포, 분화 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택된 세포를 IRF8 및 SPIB로 이루어진 그룹으로부터 선택된 적어도 2개의 전사 인자를 포함하는 하나 이상의 벡터로 형질도입하는 단계를 포함하는, 시험관내 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항에 있어서, 상기 하나 이상의 벡터가 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 전사 인자를 추가로 포함하는, 시험관내 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제23항 중 어느 한 항에 있어서, 상기 전사 인자가 개별적으로 IRF8(서열번호 1, 서열번호 2), SPIB(서열번호 3, 서열번호 4), ARID5A(서열번호 5, 서열번호 6), BCL11A(서열번호 7, 서열번호 8), CBFA2T3(서열번호 9, 서열번호 10), CREB3L2(서열번호 11, 서열번호 12), ETS1(서열번호 13, 서열번호 14), IKZF1(서열번호 23, 서열번호 24), TCF4(서열번호 41, 서열번호 42), TCF12(서열번호 43, 서열번호 44), STAT1(서열번호 45, 서열번호 46) 및 TSC22D1(서열번호 47, 서열번호 48)로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 시험관내 방법.",
+          "refers_to": [
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제24항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 시험관내 방법:\nIRF8 및 SPIB;\nIRF8, SPIB 및 ARID5A;\nIRF8, SPIB 및 BCL11A;\nIRF8, SPIB 및 CBFA2T3;\nIRF8, SPIB 및 CREB3L2;\nIRF8, SPIB 및 ETS1;\nIRF8, SPIB 및 IKZF1;\nIRF8, SPIB 및 STAT1;\nIRF8, SPIB 및 TCF4;\nIRF8, SPIB 및 TCF12;\nIRF8, SPIB 및 TSC22D1, 또는 이들의 혼합물.",
+          "refers_to": [
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제25항 중 어느 한 항에 있어서, 상기 형질도입된 세포를 적어도 2일, 바람직하게는 적어도 5일, 보다 바람직하게는 적어도 8일, 보다 더 바람직하게는 적어도 9일 동안 배양하는, 시험관내 방법.",
+          "refers_to": [
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제26항 중 어느 한 항에 있어서, 상기 형질도입 단계가 IL-12를 코딩하는 핵산 서열; IL-4를 코딩하는 핵산 서열; IFN-α를 코딩하는 핵산 서열; IFN-β를 코딩하는 핵산 서열; IFN-γ를 코딩하는 핵산 서열; TNF를 코딩하는 핵산 서열; GM-CSF를 코딩하는 핵산 서열; IL-10 RNA를 표적으로 하는 siRNA를 코딩하는 핵산 서열, 및 이들의 혼합물로 이루어진 그룹으로부터 선택된 적어도 하나의 벡터를 추가로 포함하고, 바람직하게는 면역자극성 사이토카인을 코딩하는 핵산을 포함하는, 시험관내 방법.",
+          "refers_to": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제27항 중 어느 한 항에 있어서, 상기 세포가 다능성 줄기 세포, 또는 다분화능 줄기 세포, 분화 세포로 이루어진 그룹으로부터 선택된 포유동물 세포, 인간 세포, 비-인간 세포 또는 마우스 세포이고, 상기 다능성 줄기 세포, 다분화능 줄기 세포 또는 분화된 세포가 내배엽 유래 세포, 중배엽 유래 세포, 또는 외배엽 유래 세포, 중간엽 줄기 세포, 조혈 줄기 세포, 장 줄기 세포, 다능성 줄기 세포 및 세포주를 포함하는 다분화능 줄기 세포; 특히 중배엽 유래 세포, 바람직하게는 단핵구 및 이의 혼합물로 이루어진 그룹으로부터 선택되는, 시험관내 방법.",
+          "refers_to": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제22항 내지 제28항 중 어느 한 항에 기재된 방법에 의해 수득되는, 유도된 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포.",
+          "refers_to": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약제학적으로 허용되는 부형제, 진통제, 항염증제, 화학요법제, 방사선 요법제, 항생제, 이뇨제, 충전제, 결합제, 붕해제(disintegrant) 또는 윤활제, 또는 이들의 혼합물을 추가로 포함하는 치료 유효량으로 제29항에 따른 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포를 포함하는 조성물.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 및 제30항 중 어느 한 항에 따른 조성물, 및/또는 제29항에 따른 유도 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포, 또는 이의 혼합물을 포함하는, 백신 또는 주사가능한 제형, 특히 원위치 주사제(in-situ injection).",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기 성분:\n제29항에 따른 유도된 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포;\n제1항 내지 제8항 및 제30항 중 어느 한 항에 따른 조성물;\n제9항 내지 제21항 중 어느 한 항에 따른 벡터 또는 작제물; 또는 이들의 혼합물\n중의 적어도 하나를 포함하는 키트(kit).",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20230926",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 32,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "적어도 2개의 전사 인자(transcription factor): IRF8 및 SPIB를 포함하는 조성물로서,줄기 세포 또는 분화된 세포(differentiated cell), 또는 이들의 혼합물을 대상체(subject)에서 형질세포양 수지상 세포(plasmacytoid dendritic cell) 또는 인터페론 유형 I-생산 세포로 재프로그래밍(reprogramming)할 때에 사용하기 위한, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 조성물이 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 기타 전사 인자를 추가로 포함하는, 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 상기 전사 인자가 개별적으로 IRF8(서열번호 49, 서열번호 50), SPIB(서열번호 51, 서열번호 52), ARID5A(서열번호 53, 서열번호 54), BCL11A(서열번호 55, 서열번호 56), CBFA2T3(서열번호 57, 서열번호 58), CREB3L2(서열번호 59, 서열번호 60), ETS1(서열번호 61, 서열번호 62), IKZF1(서열번호 71, 서열번호 72), TCF4(서열번호 89, 서열번호 90), TCF12(서열번호 91, 서열번호 92), STAT1(서열번호 93, 서열번호 94) 및 TSC22D1(서열번호 95, 서열번호 96)으로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 조성물:IRF8 및 SPIB;IRF8, SPIB 및 ARID5A;IRF8, SPIB 및 BCL11A;IRF8, SPIB 및 CBFA2T3;IRF8, SPIB 및 CREB3L2;IRF8, SPIB 및 ETS1;IRF8, SPIB 및 IKZF1;IRF8, SPIB 및 STAT1;IRF8, SPIB 및 TCF4;IRF8, SPIB 및 TCF12;IRF8, SPIB 및 TSC22D1 또는 이들의 혼합물.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TCF12의 조합인, 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TSC22D1의 조합인, 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 세포가 다능성(pluripotent) 줄기 세포, 다분화능(multipotent) 줄기 세포, 분화 세포, 종양 세포, 암 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택되는, 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 수의학 또는 인간 의약(human medicine), 특히 항바이러스성 면역 반응 및 면역 병리(pathology), 특히 자가면역 질환 및 면역결핍 상태(condition), 신생물, 특히 암, 즉 고형 또는 혈액 종양, 양성 종양(benign tumour), 악성 종양(malignant tumour), 초기 암(early cancer), 기저 세포 암종(basal cell carcinoma), 자궁경부 이형성증(cervical dysplasia), 연조직 육종(soft tissue sarcoma), 생식 세포 종양(germ cell tumour), 망막모세포종(retinoblastoma), 연령 관련 황반 변성(age-related macular degeneration), 호지킨 림프종(Hodgkin's lymphoma), 혈액암(blood cancer), 전립선암(prostate cancer), 난소암(ovarian cancer), 자궁경부암(cervix cancer), 자궁암(uterus cancer), 질암(vaginal cancer), 유방암(breast cancer), 비인두암(naso-pharynx cancer), 기관암(trachea cancer), 후두암(larynx cancer), 기관지암(bronchi cancer), 세기관지암(bronchioles cancer), 폐암(lung cancer), 중공 장기암(hollow organs cancer), 식도암(esophagus cancer), 위암(stomach cancer), 담관암(bile duct cancer), 장암(intestine cancer), 결장암(colon cancer), 대장암(colorectum cancer), 직장암(rectum cancer), 방광암(bladder cancer), 요관암(ureter cancer), 신장암(kidney cancer), 간암(liver cancer), 담낭암(gall bladder cancer,), 비장암(spleen cancer), 뇌암(brain cancer), 림프계암(lymphatic system cancer), 골암(bone cancer), 췌장암(pancreatic cancer), 백혈병(leukaemia), 피부암(skin cancer) 또는 골수종(myeloma), 감염성 질환(infectious disease), 바이러스성 질환(viral disease) 또는 바이러스성 유발 질환(viral induced disease), 중추 및 말초 신경계 장애(central and peripheral nervous system disorder), 진균(fungal), 세균(viral), 클라미디아(chlamydial), 박테리아(bacterial), 나노박테리아(nanobacterial) 또는 기생충(parasitic) 감염 질환 또는 바이러스성 질환, 또는 바이러스 유발 질환의 진단, 요법 또는 치료에서, 항바이러스제로서 또는 면역원성 조성물로서, 면역요법으로서, 또는 신경퇴행성 질환의 치료 또는 요법에서, 암의 치료 또는 요법에서, 또는 감염성 질환의 치료 또는 요법에서, 또는 바이러스 질환, 또는 바이러스 유도 질환, 피내 및 경피 요법, HIV, SARS 코로나바이러스에 의한 감염, 아시아 독감 바이러스(Asian flu virus), 단순 포진(herpes simplex), 인플루엔자 바이러스, 대상 포진(herpes zoster), 간염(hepatitis), 인간 유두종 바이러스(human papillomavirus), 엡스타인-바르 바이러스(Epstein-Barr virus), 인간 T-림프성 바이러스 또는 바이러스 간염, 아밀로이드 질환, 특히 아밀로이드 질환 A 아밀로이드증(amyloidosis), 알츠하이머병(Alzheimer's disease), 경쇄(AL) 아밀로이드증(Light-Chain (AL) amyloidosis), 제2형 당뇨병(Type-2 Diabetes), 갑상선 수질암(Medullary Carcinoma of the Thyroid), 파킨슨병(Parkinson's disease), 다발성 신경병증(Polyneuropathy), 또는 해면상 뇌병증(Spongiform Encephalopathy)(크로이츠펠트 야콥병(Creutzfeldt Jakob disease)) 또는 약물 스크리닝(drug screening)에 사용하기 위한 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "적어도 2개의 전사 인자 SPIB 및 IRF8을 코딩하는(encoding) 작제물(construct) 또는 벡터(vector).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 벡터가 바이러스 벡터; 특히 레트로바이러스, 아데노바이러스, 렌티바이러스, 헤르페스 바이러스, 수두 바이러스, 바이러스(paramyxoviral), 랍도바이러스, 알파바이러스, 플라바이러스 또는 아데노-연관 바이러스 벡터인, 작제물 또는 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항 또는 제10항에 있어서, 상기 벡터 또는 작제물이 합성 mRNA, 네이키드(naked) 알파바이러스 RNA 레플리콘(replicon) 또는 네이키드 플라비바이러스 RNA 레플리콘인, 작제물 또는 벡터.",
+          "refers_to": [
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "대상체에서 줄기 세포 또는 분화된 세포, 또는 이들의 혼합물을 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포로 재프로그래밍할 때에 사용하기 위한, 적어도 2개의 전사 인자 IRF8 및 SPIB를 코딩하는 적어도 2개의 폴리뉴클레오티드 서열을 포함하는 하나 이상의 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 벡터가 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 기타 전사 인자를 추가로 코딩하는, 하나 이상의 벡터.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 또는 제13항에 있어서, 상기 전사 인자가 개별적으로, IRF8(서열번호 1, 서열번호 2), SPIB(서열번호 3, 서열번호 4), ARID5A(서열번호 5, 서열번호 6), BCL11A(서열번호 7, 서열번호 8), CBFA2T3(서열번호 9, 서열번호 10), CREB3L2(서열번호 11, 서열번호 12), ETS1(서열번호 13, 서열번호 14), IKZF1(서열번호 23, 서열번호 24), TCF4(서열번호 41, 서열번호 42), TCF12(서열번호 43, 서열번호 44), STAT1(서열번호 45, 서열번호 46) 및 TSC22D1(서열번호 47, 서열번호 48)로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 내지 제14항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 하나 이상의 벡터:IRF8 및 SPIB;IRF8, SPIB 및 ARID5A;IRF8, SPIB 및 BCL11A;IRF8, SPIB 및 CBFA2T3;IRF8, SPIB 및 CREB3L2;IRF8, SPIB 및 ETS1;IRF8, SPIB 및 IKZF1;IRF8, SPIB 및 STAT1;IRF8, SPIB 및 TCF4;IRF8, SPIB 및 TCF12;IRF8, SPIB 및 TSC22D1, 또는 이들의 혼합물.",
+          "refers_to": [
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 내지 제15항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TCF12의 조합인, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 내지 제16항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TSC22D1의 조합인, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 내지 제17항 중 어느 한 항에 있어서, 상기 벡터가 바이러스 벡터; 특히 레트로바이러스, 아데노바이러스, 렌티바이러스, 헤르페스 바이러스, 수두 바이러스, 파라믹소바이러스, 랍도바이러스, 알파바이러스, 플라비바이러스 또는 아데노-연관 바이러스 벡터인, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 내지 제18항 중 어느 한 항에 있어서, 상기 벡터가 합성 mRNA, 네이키드 알파바이러스 RNA 레플리콘 또는 네이키드 플라비바이러스 RNA 레플리콘인, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 내지 제19항 중 어느 한 항에 있어서, 상기 세포가 다능성 줄기 세포, 다분화능 줄기 세포, 분화된 세포, 종양 세포, 암 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택되는, 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항 내지 제20항 중 어느 한 항에 있어서, 수의학 또는 인간 의약, 특히 항바이러스성 면역 반응 및 면역 병리, 특히 자가면역 질환 및 면역결핍 상태, 신생물, 특히 암, 즉 고형 또는 혈액 종양, 양성 종양(benign tumour), 악성 종양(malignant tumour), 초기 암(early cancer), 기저 세포 암종(basal cell carcinoma), 자궁경부 이형성증(cervical dysplasia), 연조직 육종(soft tissue sarcoma), 생식 세포 종양(germ cell tumour), 망막모세포종(retinoblastoma), 연령 관련 황반 변성(age-related macular degeneration), 호지킨 림프종(Hodgkin's lymphoma), 혈액암(blood cancer), 전립선암(prostate cancer), 난소암(ovarian cancer), 자궁경부암(cervix cancer), 자궁암(uterus cancer), 질암(vaginal cancer), 유방암(breast cancer), 비인두암(naso-pharynx cancer), 기관암(trachea cancer), 후두암(larynx cancer), 기관지암(bronchi cancer), 세기관지암(bronchioles cancer), 폐암(lung cancer), 중공 장기암(hollow organs cancer), 식도암(esophagus cancer), 위암(stomach cancer), 담관암(bile duct cancer), 장암(intestine cancer), 결장암(colon cancer), 대장암(colorectum cancer), 직장암(rectum cancer), 방광암(bladder cancer), 요관암(ureter cancer), 신장암(kidney cancer), 간암(liver cancer), 담낭암(gall bladder cancer,), 비장암(spleen cancer), 뇌암(brain cancer), 림프계암(lymphatic system cancer), 골암(bone cancer), 췌장암(pancreatic cancer), 백혈병(leukaemia), 피부암(skin cancer) 또는 골수종(myeloma), 감염성 질환(infectious disease), 바이러스성 질환(viral disease) 또는 바이러스성 유발 질환(viral induced disease), 중추 및 말초 신경계 장애(central and peripheral nervous system disorder), 진균(fungal), 세균(viral), 클라미디아(chlamydial), 박테리아(bacterial), 나노박테리아(nanobacterial) 또는 기생충(parasitic) 감염 질환 또는 바이러스성 질환, 또는 바이러스 유발 질환의 진단, 요법 또는 치료에서, 항바이러스제로서 또는 면역원성 조성물로서, 면역요법으로서, 또는 신경퇴행성 질환의 치료 또는 요법에서, 암의 치료 또는 요법에서, 또는 감염성 질환의 치료 또는 요법에서, 또는 바이러스 질환, 또는 바이러스 유도 질환, 피내 및 경피 요법, HIV, SARS 코로나바이러스에 의한 감염, 아시아 독감 바이러스(Asian flu virus), 단순 포진(herpes simplex), 인플루엔자 바이러스, 대상 포진(herpes zoster), 간염(hepatitis), 인간 유두종 바이러스(human papillomavirus), 엡스타인-바르 바이러스(Epstein-Barr virus), 인간 T-림프성 바이러스 또는 바이러스 간염, 아밀로이드 질환, 특히 아밀로이드 질환 A 아밀로이드증(amyloidosis), 알츠하이머병(Alzheimer's disease), 경쇄(AL) 아밀로이드증(Light-Chain (AL) amyloidosis), 제2형 당뇨병(Type-2 Diabetes), 갑상선 수질암(Medullary Carcinoma of the Thyroid), 파킨슨병(Parkinson's disease), 다발성 신경병증(Polyneuropathy), 또는 해면상 뇌병증(Spongiform Encephalopathy)(크로이츠펠트 야콥병(Creutzfeldt Jakob disease)) 또는 약물 스크리닝에 사용하기 위한 하나 이상의 벡터.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "세포를 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포 내로 재프로그래밍하거나 유도하기 위한 시험관내 방법으로서, 줄기 세포, 분화 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택된 세포를 IRF8 및 SPIB로 이루어진 그룹으로부터 선택된 적어도 2개의 전사 인자를 포함하는 하나 이상의 벡터로 형질도입하는 단계를 포함하는, 시험관내 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항에 있어서, 상기 하나 이상의 벡터가 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 전사 인자를 추가로 포함하는, 시험관내 방법.",
+          "refers_to": [
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제23항 중 어느 한 항에 있어서, 상기 전사 인자가 개별적으로 IRF8(서열번호 1, 서열번호 2), SPIB(서열번호 3, 서열번호 4), ARID5A(서열번호 5, 서열번호 6), BCL11A(서열번호 7, 서열번호 8), CBFA2T3(서열번호 9, 서열번호 10), CREB3L2(서열번호 11, 서열번호 12), ETS1(서열번호 13, 서열번호 14), IKZF1(서열번호 23, 서열번호 24), TCF4(서열번호 41, 서열번호 42), TCF12(서열번호 43, 서열번호 44), STAT1(서열번호 45, 서열번호 46) 및 TSC22D1(서열번호 47, 서열번호 48)로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 시험관내 방법.",
+          "refers_to": [
+            22,
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제24항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 시험관내 방법:IRF8 및 SPIB;IRF8, SPIB 및 ARID5A;IRF8, SPIB 및 BCL11A;IRF8, SPIB 및 CBFA2T3;IRF8, SPIB 및 CREB3L2;IRF8, SPIB 및 ETS1;IRF8, SPIB 및 IKZF1;IRF8, SPIB 및 STAT1;IRF8, SPIB 및 TCF4;IRF8, SPIB 및 TCF12;IRF8, SPIB 및 TSC22D1, 또는 이들의 혼합물.",
+          "refers_to": [
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제25항 중 어느 한 항에 있어서, 상기 형질도입된 세포를 적어도 2일, 바람직하게는 적어도 5일, 보다 바람직하게는 적어도 8일, 보다 더 바람직하게는 적어도 9일 동안 배양하는, 시험관내 방법.",
+          "refers_to": [
+            22,
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제26항 중 어느 한 항에 있어서, 상기 형질도입 단계가 IL-12를 코딩하는 핵산 서열; IL-4를 코딩하는 핵산 서열; IFN-α를 코딩하는 핵산 서열; IFN-β를 코딩하는 핵산 서열; IFN-γ를 코딩하는 핵산 서열; TNF를 코딩하는 핵산 서열; GM-CSF를 코딩하는 핵산 서열; IL-10 RNA를 표적으로 하는 siRNA를 코딩하는 핵산 서열, 및 이들의 혼합물로 이루어진 그룹으로부터 선택된 적어도 하나의 벡터를 추가로 포함하고, 바람직하게는 면역자극성 사이토카인을 코딩하는 핵산을 포함하는, 시험관내 방법.",
+          "refers_to": [
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제27항 중 어느 한 항에 있어서, 상기 세포가 다능성 줄기 세포, 또는 다분화능 줄기 세포, 분화 세포로 이루어진 그룹으로부터 선택된 포유동물 세포, 인간 세포, 비-인간 세포 또는 마우스 세포이고, 상기 다능성 줄기 세포, 다분화능 줄기 세포 또는 분화된 세포가 내배엽 유래 세포, 중배엽 유래 세포, 또는 외배엽 유래 세포, 중간엽 줄기 세포, 조혈 줄기 세포, 장 줄기 세포, 다능성 줄기 세포 및 세포주를 포함하는 다분화능 줄기 세포; 특히 중배엽 유래 세포, 바람직하게는 단핵구 및 이의 혼합물로 이루어진 그룹으로부터 선택되는, 시험관내 방법.",
+          "refers_to": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제22항 내지 제28항 중 어느 한 항에 기재된 방법에 의해 수득되는, 유도된 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포.",
+          "refers_to": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "약제학적으로 허용되는 부형제, 진통제, 항염증제, 화학요법제, 방사선 요법제, 항생제, 이뇨제, 충전제, 결합제, 붕해제(disintegrant) 또는 윤활제, 또는 이들의 혼합물을 추가로 포함하는 치료 유효량으로 제29항에 따른 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포를 포함하는 조성물.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제8항 및 제30항 중 어느 한 항에 따른 조성물, 및/또는 제29항에 따른 유도 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포, 또는 이의 혼합물을 포함하는, 백신 또는 주사가능한 제형, 특히 원위치 주사제(in-situ injection).",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기 성분:제29항에 따른 유도된 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포;제1항 내지 제8항 및 제30항 중 어느 한 항에 따른 조성물;제9항 내지 제21항 중 어느 한 항에 따른 벡터 또는 작제물; 또는 이들의 혼합물중의 적어도 하나를 포함하는 키트(kit).",
+          "refers_to": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220422",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 32,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "적어도 2개의 전사 인자(transcription factor): IRF8 및 SPIB를 포함하는 조성물로서,\n줄기 세포 또는 분화된 세포(differentiated cell), 또는 이들의 혼합물을 대상체(subject)에서 형질세포양 수지상 세포(plasmacytoid dendritic cell) 또는 인터페론 유형 I-생산 세포로 재프로그래밍(reprogramming)할 때에 사용하기 위한, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 조성물이 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 기타 전사 인자를 추가로 포함하는, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 상기 전사 인자가 개별적으로 IRF8(서열번호 49, 서열번호 50), SPIB(서열번호 51, 서열번호 52), ARID5A(서열번호 53, 서열번호 54), BCL11A(서열번호 55, 서열번호 56), CBFA2T3(서열번호 57, 서열번호 58), CREB3L2(서열번호 59, 서열번호 60), ETS1(서열번호 61, 서열번호 62), IKZF1(서열번호 71, 서열번호 72), TCF4(서열번호 89, 서열번호 90), TCF12(서열번호 91, 서열번호 92), STAT1(서열번호 93, 서열번호 94) 및 TSC22D1(서열번호 95, 서열번호 96)으로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 조성물:\nIRF8 및 SPIB;\nIRF8, SPIB 및 ARID5A;\nIRF8, SPIB 및 BCL11A;\nIRF8, SPIB 및 CBFA2T3;\nIRF8, SPIB 및 CREB3L2;\nIRF8, SPIB 및 ETS1;\nIRF8, SPIB 및 IKZF1;\nIRF8, SPIB 및 STAT1;\nIRF8, SPIB 및 TCF4;\nIRF8, SPIB 및 TCF12;\nIRF8, SPIB 및 TSC22D1 또는 이들의 혼합물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TCF12의 조합인, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TSC22D1의 조합인, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 세포가 다능성(pluripotent) 줄기 세포, 다분화능(multipotent) 줄기 세포, 분화 세포, 종양 세포, 암 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택되는, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 수의학 또는 인간 의약(human medicine), 특히 항바이러스성 면역 반응 및 면역 병리(pathology), 특히 자가면역 질환 및 면역결핍 상태(condition), 신생물, 특히 암, 즉 고형 또는 혈액 종양, 양성 종양(benign tumour), 악성 종양(malignant tumour), 초기 암(early cancer), 기저 세포 암종(basal cell carcinoma), 자궁경부 이형성증(cervical dysplasia), 연조직 육종(soft tissue sarcoma), 생식 세포 종양(germ cell tumour), 망막모세포종(retinoblastoma), 연령 관련 황반 변성(age-related macular degeneration), 호지킨 림프종(Hodgkin's lymphoma), 혈액암(blood cancer), 전립선암(prostate cancer), 난소암(ovarian cancer), 자궁경부암(cervix cancer), 자궁암(uterus cancer), 질암(vaginal cancer), 유방암(breast cancer), 비인두암(naso-pharynx cancer), 기관암(trachea cancer), 후두암(larynx cancer), 기관지암(bronchi cancer), 세기관지암(bronchioles cancer), 폐암(lung cancer), 중공 장기암(hollow organs cancer), 식도암(esophagus cancer), 위암(stomach cancer), 담관암(bile duct cancer), 장암(intestine cancer), 결장암(colon cancer), 대장암(colorectum cancer), 직장암(rectum cancer), 방광암(bladder cancer), 요관암(ureter cancer), 신장암(kidney cancer), 간암(liver cancer), 담낭암(gall bladder cancer,), 비장암(spleen cancer), 뇌암(brain cancer), 림프계암(lymphatic system cancer), 골암(bone cancer), 췌장암(pancreatic cancer), 백혈병(leukaemia), 피부암(skin cancer) 또는 골수종(myeloma), 감염성 질환(infectious disease), 바이러스성 질환(viral disease) 또는 바이러스성 유발 질환(viral induced disease), 중추 및 말초 신경계 장애(central and peripheral nervous system disorder), 진균(fungal), 세균(viral), 클라미디아(chlamydial), 박테리아(bacterial), 나노박테리아(nanobacterial) 또는 기생충(parasitic) 감염 질환 또는 바이러스성 질환, 또는 바이러스 유발 질환의 진단, 요법 또는 치료에서, 항바이러스제로서 또는 면역원성 조성물로서, 면역요법으로서, 또는 신경퇴행성 질환의 치료 또는 요법에서, 암의 치료 또는 요법에서, 또는 감염성 질환의 치료 또는 요법에서, 또는 바이러스 질환, 또는 바이러스 유도 질환, 피내 및 경피 요법, HIV, SARS 코로나바이러스에 의한 감염, 아시아 독감 바이러스(Asian flu virus), 단순 포진(herpes simplex), 인플루엔자 바이러스, 대상 포진(herpes zoster), 간염(hepatitis), 인간 유두종 바이러스(human papillomavirus), 엡스타인-바르 바이러스(Epstein-Barr virus), 인간 T-림프성 바이러스 또는 바이러스 간염, 아밀로이드 질환, 특히 아밀로이드 질환 A 아밀로이드증(amyloidosis), 알츠하이머병(Alzheimer's disease), 경쇄(AL) 아밀로이드증(Light-Chain (AL) amyloidosis), 제2형 당뇨병(Type-2 Diabetes), 갑상선 수질암(Medullary Carcinoma of the Thyroid), 파킨슨병(Parkinson's disease), 다발성 신경병증(Polyneuropathy), 또는 해면상 뇌병증(Spongiform Encephalopathy)(크로이츠펠트 야콥병(Creutzfeldt Jakob disease)) 또는 약물 스크리닝(drug screening)에 사용하기 위한 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "적어도 2개의 전사 인자 SPIB 및 IRF8을 코딩하는(encoding) 작제물(construct) 또는 벡터(vector).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 벡터가 바이러스 벡터; 특히 레트로바이러스, 아데노바이러스, 렌티바이러스, 헤르페스 바이러스, 수두 바이러스, 바이러스(paramyxoviral), 랍도바이러스, 알파바이러스, 플라바이러스 또는 아데노-연관 바이러스 벡터인, 작제물 또는 벡터.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 또는 제10항에 있어서, 상기 벡터 또는 작제물이 합성 mRNA, 네이키드(naked) 알파바이러스 RNA 레플리콘(replicon) 또는 네이키드 플라비바이러스 RNA 레플리콘인, 작제물 또는 벡터.",
+            "refers_to": [
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체에서 줄기 세포 또는 분화된 세포, 또는 이들의 혼합물을 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포로 재프로그래밍할 때에 사용하기 위한, 적어도 2개의 전사 인자 IRF8 및 SPIB를 코딩하는 적어도 2개의 폴리뉴클레오티드 서열을 포함하는 하나 이상의 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 벡터가 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 기타 전사 인자를 추가로 코딩하는, 하나 이상의 벡터.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 또는 제13항에 있어서, 상기 전사 인자가 개별적으로, IRF8(서열번호 1, 서열번호 2), SPIB(서열번호 3, 서열번호 4), ARID5A(서열번호 5, 서열번호 6), BCL11A(서열번호 7, 서열번호 8), CBFA2T3(서열번호 9, 서열번호 10), CREB3L2(서열번호 11, 서열번호 12), ETS1(서열번호 13, 서열번호 14), IKZF1(서열번호 23, 서열번호 24), TCF4(서열번호 41, 서열번호 42), TCF12(서열번호 43, 서열번호 44), STAT1(서열번호 45, 서열번호 46) 및 TSC22D1(서열번호 47, 서열번호 48)로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 하나 이상의 벡터.",
+            "refers_to": [
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 내지 제14항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 하나 이상의 벡터:\nIRF8 및 SPIB;\nIRF8, SPIB 및 ARID5A;\nIRF8, SPIB 및 BCL11A;\nIRF8, SPIB 및 CBFA2T3;\nIRF8, SPIB 및 CREB3L2;\nIRF8, SPIB 및 ETS1;\nIRF8, SPIB 및 IKZF1;\nIRF8, SPIB 및 STAT1;\nIRF8, SPIB 및 TCF4;\nIRF8, SPIB 및 TCF12;\nIRF8, SPIB 및 TSC22D1, 또는 이들의 혼합물.",
+            "refers_to": [
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 내지 제15항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TCF12의 조합인, 하나 이상의 벡터.",
+            "refers_to": [
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 내지 제16항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TSC22D1의 조합인, 하나 이상의 벡터.",
+            "refers_to": [
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 내지 제17항 중 어느 한 항에 있어서, 상기 벡터가 바이러스 벡터; 특히 레트로바이러스, 아데노바이러스, 렌티바이러스, 헤르페스 바이러스, 수두 바이러스, 파라믹소바이러스, 랍도바이러스, 알파바이러스, 플라비바이러스 또는 아데노-연관 바이러스 벡터인, 하나 이상의 벡터.",
+            "refers_to": [
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 내지 제18항 중 어느 한 항에 있어서, 상기 벡터가 합성 mRNA, 네이키드 알파바이러스 RNA 레플리콘 또는 네이키드 플라비바이러스 RNA 레플리콘인, 하나 이상의 벡터.",
+            "refers_to": [
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 내지 제19항 중 어느 한 항에 있어서, 상기 세포가 다능성 줄기 세포, 다분화능 줄기 세포, 분화된 세포, 종양 세포, 암 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택되는, 하나 이상의 벡터.",
+            "refers_to": [
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항 내지 제20항 중 어느 한 항에 있어서, 수의학 또는 인간 의약, 특히 항바이러스성 면역 반응 및 면역 병리, 특히 자가면역 질환 및 면역결핍 상태, 신생물, 특히 암, 즉 고형 또는 혈액 종양, 양성 종양(benign tumour), 악성 종양(malignant tumour), 초기 암(early cancer), 기저 세포 암종(basal cell carcinoma), 자궁경부 이형성증(cervical dysplasia), 연조직 육종(soft tissue sarcoma), 생식 세포 종양(germ cell tumour), 망막모세포종(retinoblastoma), 연령 관련 황반 변성(age-related macular degeneration), 호지킨 림프종(Hodgkin's lymphoma), 혈액암(blood cancer), 전립선암(prostate cancer), 난소암(ovarian cancer), 자궁경부암(cervix cancer), 자궁암(uterus cancer), 질암(vaginal cancer), 유방암(breast cancer), 비인두암(naso-pharynx cancer), 기관암(trachea cancer), 후두암(larynx cancer), 기관지암(bronchi cancer), 세기관지암(bronchioles cancer), 폐암(lung cancer), 중공 장기암(hollow organs cancer), 식도암(esophagus cancer), 위암(stomach cancer), 담관암(bile duct cancer), 장암(intestine cancer), 결장암(colon cancer), 대장암(colorectum cancer), 직장암(rectum cancer), 방광암(bladder cancer), 요관암(ureter cancer), 신장암(kidney cancer), 간암(liver cancer), 담낭암(gall bladder cancer,), 비장암(spleen cancer), 뇌암(brain cancer), 림프계암(lymphatic system cancer), 골암(bone cancer), 췌장암(pancreatic cancer), 백혈병(leukaemia), 피부암(skin cancer) 또는 골수종(myeloma), 감염성 질환(infectious disease), 바이러스성 질환(viral disease) 또는 바이러스성 유발 질환(viral induced disease), 중추 및 말초 신경계 장애(central and peripheral nervous system disorder), 진균(fungal), 세균(viral), 클라미디아(chlamydial), 박테리아(bacterial), 나노박테리아(nanobacterial) 또는 기생충(parasitic) 감염 질환 또는 바이러스성 질환, 또는 바이러스 유발 질환의 진단, 요법 또는 치료에서, 항바이러스제로서 또는 면역원성 조성물로서, 면역요법으로서, 또는 신경퇴행성 질환의 치료 또는 요법에서, 암의 치료 또는 요법에서, 또는 감염성 질환의 치료 또는 요법에서, 또는 바이러스 질환, 또는 바이러스 유도 질환, 피내 및 경피 요법, HIV, SARS 코로나바이러스에 의한 감염, 아시아 독감 바이러스(Asian flu virus), 단순 포진(herpes simplex), 인플루엔자 바이러스, 대상 포진(herpes zoster), 간염(hepatitis), 인간 유두종 바이러스(human papillomavirus), 엡스타인-바르 바이러스(Epstein-Barr virus), 인간 T-림프성 바이러스 또는 바이러스 간염, 아밀로이드 질환, 특히 아밀로이드 질환 A 아밀로이드증(amyloidosis), 알츠하이머병(Alzheimer's disease), 경쇄(AL) 아밀로이드증(Light-Chain (AL) amyloidosis), 제2형 당뇨병(Type-2 Diabetes), 갑상선 수질암(Medullary Carcinoma of the Thyroid), 파킨슨병(Parkinson's disease), 다발성 신경병증(Polyneuropathy), 또는 해면상 뇌병증(Spongiform Encephalopathy)(크로이츠펠트 야콥병(Creutzfeldt Jakob disease)) 또는 약물 스크리닝에 사용하기 위한 하나 이상의 벡터.",
+            "refers_to": [
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포를 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포 내로 재프로그래밍하거나 유도하기 위한 시험관내 방법으로서, \n줄기 세포, 분화 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택된 세포를 IRF8 및 SPIB로 이루어진 그룹으로부터 선택된 적어도 2개의 전사 인자를 포함하는 하나 이상의 벡터로 형질도입하는 단계를 포함하는, 시험관내 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항에 있어서, 상기 하나 이상의 벡터가 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 전사 인자를 추가로 포함하는, 시험관내 방법.",
+            "refers_to": [
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제23항 중 어느 한 항에 있어서, 상기 전사 인자가 개별적으로 IRF8(서열번호 1, 서열번호 2), SPIB(서열번호 3, 서열번호 4), ARID5A(서열번호 5, 서열번호 6), BCL11A(서열번호 7, 서열번호 8), CBFA2T3(서열번호 9, 서열번호 10), CREB3L2(서열번호 11, 서열번호 12), ETS1(서열번호 13, 서열번호 14), IKZF1(서열번호 23, 서열번호 24), TCF4(서열번호 41, 서열번호 42), TCF12(서열번호 43, 서열번호 44), STAT1(서열번호 45, 서열번호 46) 및 TSC22D1(서열번호 47, 서열번호 48)로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 시험관내 방법.",
+            "refers_to": [
+              22,
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제24항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 시험관내 방법:\nIRF8 및 SPIB;\nIRF8, SPIB 및 ARID5A;\nIRF8, SPIB 및 BCL11A;\nIRF8, SPIB 및 CBFA2T3;\nIRF8, SPIB 및 CREB3L2;\nIRF8, SPIB 및 ETS1;\nIRF8, SPIB 및 IKZF1;\nIRF8, SPIB 및 STAT1;\nIRF8, SPIB 및 TCF4;\nIRF8, SPIB 및 TCF12;\nIRF8, SPIB 및 TSC22D1, 또는 이들의 혼합물.",
+            "refers_to": [
+              22,
+              23,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제25항 중 어느 한 항에 있어서, 상기 형질도입된 세포를 적어도 2일, 바람직하게는 적어도 5일, 보다 바람직하게는 적어도 8일, 보다 더 바람직하게는 적어도 9일 동안 배양하는, 시험관내 방법.",
+            "refers_to": [
+              22,
+              23,
+              24,
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제26항 중 어느 한 항에 있어서, 상기 형질도입 단계가 IL-12를 코딩하는 핵산 서열; IL-4를 코딩하는 핵산 서열; IFN-α를 코딩하는 핵산 서열; IFN-β를 코딩하는 핵산 서열; IFN-γ를 코딩하는 핵산 서열; TNF를 코딩하는 핵산 서열; GM-CSF를 코딩하는 핵산 서열; IL-10 RNA를 표적으로 하는 siRNA를 코딩하는 핵산 서열, 및 이들의 혼합물로 이루어진 그룹으로부터 선택된 적어도 하나의 벡터를 추가로 포함하고, 바람직하게는 면역자극성 사이토카인을 코딩하는 핵산을 포함하는, 시험관내 방법.",
+            "refers_to": [
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제27항 중 어느 한 항에 있어서, 상기 세포가 다능성 줄기 세포, 또는 다분화능 줄기 세포, 분화 세포로 이루어진 그룹으로부터 선택된 포유동물 세포, 인간 세포, 비-인간 세포 또는 마우스 세포이고, 상기 다능성 줄기 세포, 다분화능 줄기 세포 또는 분화된 세포가 내배엽 유래 세포, 중배엽 유래 세포, 또는 외배엽 유래 세포, 중간엽 줄기 세포, 조혈 줄기 세포, 장 줄기 세포, 다능성 줄기 세포 및 세포주를 포함하는 다분화능 줄기 세포; 특히 중배엽 유래 세포, 바람직하게는 단핵구 및 이의 혼합물로 이루어진 그룹으로부터 선택되는, 시험관내 방법.",
+            "refers_to": [
+              22,
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제22항 내지 제28항 중 어느 한 항에 기재된 방법에 의해 수득되는, 유도된 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포.",
+            "refers_to": [
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약제학적으로 허용되는 부형제, 진통제, 항염증제, 화학요법제, 방사선 요법제, 항생제, 이뇨제, 충전제, 결합제, 붕해제(disintegrant) 또는 윤활제, 또는 이들의 혼합물을 추가로 포함하는 치료 유효량으로 제29항에 따른 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포를 포함하는 조성물.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 및 제30항 중 어느 한 항에 따른 조성물, 및/또는 제29항에 따른 유도 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포, 또는 이의 혼합물을 포함하는, 백신 또는 주사가능한 제형, 특히 원위치 주사제(in-situ injection).",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 성분:\n제29항에 따른 유도된 형질세포양 수지상 세포 또는 인터페론 유형 I-생산 세포;\n제1항 내지 제8항 및 제30항 중 어느 한 항에 따른 조성물;\n제9항 내지 제21항 중 어느 한 항에 따른 벡터 또는 작제물; 또는 이들의 혼합물\n중의 적어도 하나를 포함하는 키트(kit).",
+            "refers_to": [
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220422",
+        "document_name": "[국제단계보정서 번역문]서류제출서",
+        "claim_count": 30,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "적어도 2개의 전사 인자(transcription factor): IRF8 및 SPIB를 포함하는 조성물로서,\n줄기 세포 또는 분화된 세포(differentiated cell), 또는 이들의 혼합물을 대상체(subject)에서 형질세포양 수지상 세포(plasmacytoid dendritic cell)로 재프로그래밍(reprogramming)할 때에 사용하기 위한, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 조성물이 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, IKZF2, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 기타 전사 인자를 추가로 포함하는, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, 상기 전사 인자가 개별적으로 IRF8(서열번호 49, 서열번호 50), SPIB(서열번호 51, 서열번호 52), ARID5A(서열번호 53, 서열번호 54), BCL11A(서열번호 55, 서열번호 56), CBFA2T3(서열번호 57, 서열번호 58), CREB3L2(서열번호 59, 서열번호 60), ETS1(서열번호 61, 서열번호 62), IKZF1(서열번호 71, 서열번호 72), IKZF2(서열번호 73, 서열번호 74), TCF4(서열번호 89, 서열번호 90), TCF12(서열번호 91, 서열번호 92), STAT1(서열번호 93, 서열번호 94) 및 TSC22D1(서열번호 95, 서열번호 96)으로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 조성물:\nIRF8 및 SPIB;\nIRF8, SPIB 및 ARID5A;\nIRF8, SPIB 및 BCL11A;\nIRF8, SPIB 및 CBFA2T3;\nIRF8, SPIB 및 CREB3L2;\nIRF8, SPIB 및 ETS1;\nIRF8, SPIB 및 IKZF1;\nIRF8, SPIB 및 IKZF2;\nIRF8, SPIB 및 STAT1;\nIRF8, SPIB 및 TCF4;\nIRF8, SPIB 및 TCF12;\nIRF8, SPIB 및 TSC22D1 또는 이들의 혼합물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 IKZF2의 조합인, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 상기 세포가 다능성(pluripotent) 줄기 세포, 다분화능(multipotent) 줄기 세포, 분화 세포, 종양 세포, 암 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택되는, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 수의학 또는 인간 의약(human medicine)에서 사용하기 위한, 예를 들면, 자가면역 질환, 암 또는 감염성 질환의 치료에서 사용하기 위한, 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "적어도 2개의 전사 인자 SPIB 및 IRF8을 코딩하는(encoding) 작제물(construct) 또는 벡터(vector).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 상기 벡터가 바이러스 벡터; 특히 레트로바이러스, 아데노바이러스, 렌티바이러스, 헤르페스 바이러스, 수두 바이러스, 파라믹소바이러스(paramyxoviral), 랍도바이러스, 알파바이러스, 플라바이러스 또는 아데노-연관 바이러스 벡터인, 작제물 또는 벡터.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항 또는 제11항에 있어서, 상기 벡터 또는 작제물이 합성 mRNA, 네이키드(naked) 알파바이러스 RNA 레플리콘(replicon) 또는 네이키드 플라비바이러스 RNA 레플리콘인, 작제물 또는 벡터.",
+            "refers_to": [
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "대상체에서 줄기 세포 또는 분화된 세포, 또는 이들의 혼합물을 형질세포양 수지상 세포로 재프로그래밍할 때에 사용하기 위한, 적어도 2개의 폴리뉴클레오티드 서열을 포함하는 하나 이상의 벡터를 포함하는 조성물로서, 상기 벡터는 조합하여 적어도 2개의 전사 인자 IRF8 및 SPIB를 코딩하는, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 벡터가 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, IKZF2, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 기타 전사 인자를 추가로 코딩하는, 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 또는 제14항에 있어서, 상기 전사 인자가 개별적으로, IRF8(서열번호 1, 서열번호 2), SPIB(서열번호 3, 서열번호 4), ARID5A(서열번호 5, 서열번호 6), BCL11A(서열번호 7, 서열번호 8), CBFA2T3(서열번호 9, 서열번호 10), CREB3L2(서열번호 11, 서열번호 12), ETS1(서열번호 13, 서열번호 14), IKZF1(서열번호 23, 서열번호 24), IKZF2(서열번호 25, 서열번호 26), TCF4(서열번호 41, 서열번호 42), TCF12(서열번호 43, 서열번호 44), STAT1(서열번호 45, 서열번호 46) 및 TSC22D1(서열번호 47, 서열번호 48)로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 조성물.",
+            "refers_to": [
+              13,
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제15항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 조성물:\nIRF8 및 SPIB;\nIRF8, SPIB 및 ARID5A;\nIRF8, SPIB 및 BCL11A;\nIRF8, SPIB 및 CBFA2T3;\nIRF8, SPIB 및 CREB3L2;\nIRF8, SPIB 및 ETS1;\nIRF8, SPIB 및 IKZF1;\nIRF8, SPIB 및 IKZF2;\nIRF8, SPIB 및 STAT1;\nIRF8, SPIB 및 TCF4;\nIRF8, SPIB 및 TCF12;\nIRF8, SPIB 및 TSC22D1, 또는 이들의 혼합물.",
+            "refers_to": [
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제16항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TCF12의 조합인, 조성물.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제17항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 TSC22D1의 조합인, 조성물.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제18항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 IRF8, SPIB 및 IKZF2의 조합인, 조성물.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제19항 중 어느 한 항에 있어서, 상기 벡터가 바이러스 벡터; 특히 레트로바이러스, 아데노바이러스, 렌티바이러스, 헤르페스 바이러스, 수두 바이러스, 파라믹소바이러스, 랍도바이러스, 알파바이러스, 플라비바이러스 또는 아데노-연관 바이러스 벡터인, 조성물.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제20항 중 어느 한 항에 있어서, 상기 벡터가 합성 mRNA, 네이키드 알파바이러스 RNA 레플리콘 또는 네이키드 플라비바이러스 RNA 레플리콘인, 조성물.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제21항 중 어느 한 항에 있어서, 상기 세포가 다능성 줄기 세포, 다분화능 줄기 세포, 분화된 세포, 종양 세포, 암 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택되는, 조성물.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제22항 중 어느 한 항에 있어서, 수의학 또는 인간 의약에서 사용하기 위한, 예를 들면, 자가면역 질환, 암 또는 감염성 질환의 치료에 사용하기 위한, 조성물.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "세포를 형질세포양 수지상 세포 내로 재프로그래밍하거나 유도하기 위한 시험관내 방법으로서, \n줄기 세포, 분화 세포 및 이들의 혼합물로 이루어진 그룹으로부터 선택된 세포를 IRF8 및 SPIB로 이루어진 그룹으로부터 선택된 적어도 2개의 전사 인자를 포함하는 하나 이상의 벡터로 형질도입하는 단계를 포함하는, 시험관내 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 상기 하나 이상의 벡터가 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, IKZF2, STAT1, TCF4, TCF12 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 전사 인자를 추가로 포함하는, 시험관내 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항 내지 제25항 중 어느 한 항에 있어서, 상기 전사 인자가 개별적으로 IRF8(서열번호 1, 서열번호 2), SPIB(서열번호 3, 서열번호 4), ARID5A(서열번호 5, 서열번호 6), BCL11A(서열번호 7, 서열번호 8), CBFA2T3(서열번호 9, 서열번호 10), CREB3L2(서열번호 11, 서열번호 12), ETS1(서열번호 13, 서열번호 14), IKZF1(서열번호 23, 서열번호 24), IKZF2(서열번호 25, 서열번호 26), TCF4(서열번호 41, 서열번호 42), TCF12(서열번호 43, 서열번호 44), STAT1(서열번호 45, 서열번호 46) 및 TSC22D1(서열번호 47, 서열번호 48)로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 시험관내 방법.",
+            "refers_to": [
+              24,
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항 내지 제26항 중 어느 한 항에 있어서, 상기 전사 인자의 조합이 하기 조합으로부터 선택되는, 방법:\nIRF8 및 SPIB;\nIRF8, SPIB 및 ARID5A;\nIRF8, SPIB 및 BCL11A;\nIRF8, SPIB 및 CBFA2T3;\nIRF8, SPIB 및 CREB3L2;\nIRF8, SPIB 및 ETS1;\nIRF8, SPIB 및 IKZF1;\nIRF8, SPIB 및 IKZF2;\nIRF8, SPIB 및 STAT1;\nIRF8, SPIB 및 TCF4;\nIRF8, SPIB 및 TCF12;\nIRF8, SPIB 및 TSC22D1, 또는 이들의 혼합물.",
+            "refers_to": [
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항 내지 제27항 중 어느 한 항에 있어서, 상기 형질도입된 세포를 적어도 2일, 바람직하게는 적어도 5일, 보다 바람직하게는 적어도 8일, 보다 더 바람직하게는 적어도 9일 동안 배양하는, 시험관내 방법.",
+            "refers_to": [
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항 내지 제28항 중 어느 한 항에 있어서, 상기 형질도입 단계가 IL-12를 코딩하는 핵산 서열; IL-4를 코딩하는 핵산 서열; IFN-α를 코딩하는 핵산 서열; IFN-β를 코딩하는 핵산 서열; IFN-γ를 코딩하는 핵산 서열; TNF를 코딩하는 핵산 서열; GM-CSF를 코딩하는 핵산 서열; IL-10 RNA를 표적으로 하는 siRNA를 코딩하는 핵산 서열, 및 이들의 혼합물로 이루어진 그룹으로부터 선택딘 적어도 하나의 벡터를 추가로 포함하고, 바람직하게는 면역자극성 사이토카인을 코딩하는 핵산을 포함하는, 시험관내 방법.",
+            "refers_to": [
+              24,
+              25,
+              26,
+              27,
+              28
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항 내지 제29항 중 어느 한 항에 있어서, 상기 세포가 다능성 줄기 세포, 또는 다분화능 줄기 세포, 분화 세포로 이루어진 그룹으로부터 선택된 포유동물 세포, 인간 세포, 비-인간 세포 또는 마우스 세포이고, 상기 다능성 줄기 세포, 다분화능 줄기 세포 또는 분화된 세포가 내배엽 유래 세포, 중배엽 유래 세포, 또는 외배엽 유래 세포, 중간엽 줄기 세포, 조혈 줄기 세포, 장 줄기 세포, 다능성 줄기 세포 및 세포주를 포함하는 다분화능 줄기 세포; 특히 중배엽 유래 세포, 바람직하게는 단핵구 및 이의 혼합물로 이루어진 그룹으로부터 선택되는, 시험관내 방법.",
+            "refers_to": [
+              24,
+              25,
+              26,
+              27,
+              28,
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20230926",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 30,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "적어도 2개의 전사 인자(transcription factor) IRF8 및 SPIB를 포함하는 조성물로서,\n줄기 세포 또는 분화된 세포(differentiated cell), 또는 이들의 혼합물을 대상체(subject)에서 형질세포양 수지상 세포(plasmacytoid dendritic cell)로 재프로그래밍(reprogramming)하는 데 사용하기 위한, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 조성물이 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, IKZF2, STAT1, TCF4, TCF12, 및 TSC22D1으로 이루어진 그룹으로부터 선택된 하나 이상의 다른(other) 전사 인자를 추가로 포함하는, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 전사 인자가 개별적으로 IRF8(서열번호 49, 서열번호 50), SPIB(서열번호 51, 서열번호 52), ARID5A(서열번호 53, 서열번호 54), BCL11A(서열번호 55, 서열번호 56), CBFA2T3(서열번호 57, 서열번호 58), CREB3L2(서열번호 59, 서열번호 60), ETS1(서열번호 61, 서열번호 62), IKZF1(서열번호 71, 서열번호 72), IKZF2(서열번호 73, 서열번호 74), TCF4(서열번호 89, 서열번호 90), TCF12(서열번호 91, 서열번호 92), STAT1(서열번호 93, 서열번호 94), 및 TSC22D1(서열번호 95, 서열번호 96)으로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 조성물이 하기의 조합으로부터 선택되는 전사 인자의 조합을 포함하는, 조성물:\nIRF8 및 SPIB;\nIRF8, SPIB, 및 ARID5A;\nIRF8, SPIB, 및 BCL11A;\nIRF8, SPIB, 및 CBFA2T3;\nIRF8, SPIB, 및 CREB3L2;\nIRF8, SPIB, 및 ETS1;\nIRF8, SPIB, 및 IKZF1;\nIRF8, SPIB, 및 IKZF2;\nIRF8, SPIB, 및 STAT1;\nIRF8, SPIB, 및 TCF4;\nIRF8, SPIB, 및 TCF12;\nIRF8, SPIB, 및 TSC22D1; 또는 \n이들의 혼합물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 전사 인자의 조합이 IRF8, SPIB, 및 TCF12의 조합인, 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 전사 인자의 조합이 IRF8, SPIB, 및 TSC22D1의 조합인, 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 전사 인자의 조합이 IRF8, SPIB, 및 IKZF2의 조합인, 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 줄기 세포 또는 분화된 세포, 또는 이들의 혼합물이 다능성(pluripotent) 줄기 세포, 다분화능(multipotent) 줄기 세포, 분화된 세포, 종양 세포, 암 세포, 및 이들의 혼합물로 이루어진 그룹으로부터 선택되는, 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 자가면역 질환, 암, 또는 감염성 질환을 치료 또는 예방하는 방법에 사용하기 위한, 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "적어도 2개의 전사 인자 SPIB 및 IRF8을 코딩하는(encoding), 하나 이상의 작제물(construct) 또는 벡터(vector).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서, 벡터가 바이러스 벡터, 레트로바이러스 벡터, 아데노바이러스 벡터, 렌티바이러스 벡터, 헤르페스 바이러스 벡터, 수두 바이러스 벡터, 파라믹소바이러스(paramyxoviral) 벡터, 랍도바이러스 벡터, 알파바이러스 벡터, 플라바이러스 벡터, 또는 아데노-연관 바이러스 벡터인, 하나 이상의 작제물 또는 벡터.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항 또는 제11항에 있어서, 벡터 또는 작제물이 합성 mRNA, 네이키드(naked) 알파바이러스 RNA 레플리콘(replicon), 또는 네이키드 플라비바이러스 RNA 레플리콘인, 하나 이상의 작제물 또는 벡터.",
+            "refers_to": [
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "대상체에서 줄기 세포 또는 분화된 세포, 또는 이들의 혼합물을 형질세포양 수지상 세포로 재프로그래밍하는 데 사용하기 위한, 적어도 2개의 폴리뉴클레오티드 서열을 포함하는 하나 이상의 벡터를 포함하는 조성물로서, 상기 벡터는 적어도 2개의 전사 인자 IRF8 및 SPIB를 조합하여 코딩하는, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 벡터가 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, IKZF2, STAT1, TCF4, TCF12, 및 TSC22D1으로 이루어진 그룹으로부터 선택된 하나 이상의 다른 전사 인자를 추가로 코딩하는, 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 전사 인자가 개별적으로, IRF8(서열번호 1, 서열번호 2), SPIB(서열번호 3, 서열번호 4), ARID5A(서열번호 5, 서열번호 6), BCL11A(서열번호 7, 서열번호 8), CBFA2T3(서열번호 9, 서열번호 10), CREB3L2(서열번호 11, 서열번호 12), ETS1(서열번호 13, 서열번호 14), IKZF1(서열번호 23, 서열번호 24), IKZF2(서열번호 25, 서열번호 26), TCF4(서열번호 41, 서열번호 42), TCF12(서열번호 43, 서열번호 44), STAT1(서열번호 45, 서열번호 46), 및 TSC22D1(서열번호 47, 서열번호 48)로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 벡터가 하기의 조합으로부터 선택되는 전사 인자의 조합을 코딩하는, 조성물:\nIRF8 및 SPIB;\nIRF8, SPIB, 및 ARID5A;\nIRF8, SPIB, 및 BCL11A;\nIRF8, SPIB, 및 CBFA2T3;\nIRF8, SPIB, 및 CREB3L2;\nIRF8, SPIB, 및 ETS1;\nIRF8, SPIB, 및 IKZF1;\nIRF8, SPIB, 및 IKZF2;\nIRF8, SPIB, 및 STAT1;\nIRF8, SPIB, 및 TCF4;\nIRF8, SPIB, 및 TCF12;\nIRF8, SPIB, 및 TSC22D1; 또는 \n이들의 혼합물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 전사 인자의 조합이 IRF8, SPIB, 및 TCF12의 조합인, 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 전사 인자의 조합이 IRF8, SPIB, 및 TSC22D1의 조합인, 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 전사 인자의 조합이 IRF8, SPIB, 및 IKZF2의 조합인, 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제19항 중 어느 한 항에 있어서, 벡터가 바이러스 벡터, 레트로바이러스 벡터, 아데노바이러스 벡터, 렌티바이러스 벡터, 헤르페스 바이러스 벡터, 수두 바이러스 벡터, 파라믹소바이러스 벡터, 랍도바이러스 벡터, 알파바이러스 벡터, 플라비바이러스 벡터, 또는 아데노-연관 바이러스 벡터인, 조성물.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제19항 중 어느 한 항에 있어서, 벡터가 합성 mRNA, 네이키드 알파바이러스 RNA 레플리콘, 또는 네이키드 플라비바이러스 RNA 레플리콘인, 조성물.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제19항 중 어느 한 항에 있어서, 줄기 세포 또는 분화된 세포, 또는 이들의 혼합물이 다능성 줄기 세포, 다분화능 줄기 세포, 분화된 세포, 종양 세포, 암 세포, 및 이들의 혼합물로 이루어진 그룹으로부터 선택되는, 조성물.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항 내지 제19항 중 어느 한 항에 있어서, 자가면역 질환, 암, 또는 감염성 질환을 치료 또는 예방하는 방법에 사용하기 위한, 조성물.",
+            "refers_to": [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "세포를 형질세포양 수지상 세포로 재프로그래밍하거나 유도하기 위한 시험관내 방법으로서, \n줄기 세포, 분화된 세포, 및 이들의 혼합물로 이루어진 그룹으로부터 선택된 세포를, IRF8 및 SPIB로 이루어진 그룹으로부터 선택된 적어도 2개의 전사 인자를 포함하는 하나 이상의 벡터로 형질도입하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 하나 이상의 벡터가 ARID5A, BCL11A, CBFA2T3, CREB3L2, ETS1, IKZF1, IKZF2, STAT1, TCF4, TCF12, 및 TSC22D1로 이루어진 그룹으로부터 선택된 하나 이상의 전사 인자를 추가로 포함하는, 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 전사 인자가 개별적으로 IRF8(서열번호 1, 서열번호 2), SPIB(서열번호 3, 서열번호 4), ARID5A(서열번호 5, 서열번호 6), BCL11A(서열번호 7, 서열번호 8), CBFA2T3(서열번호 9, 서열번호 10), CREB3L2(서열번호 11, 서열번호 12), ETS1(서열번호 13, 서열번호 14), IKZF1(서열번호 23, 서열번호 24), IKZF2(서열번호 25, 서열번호 26), TCF4(서열번호 41, 서열번호 42), TCF12(서열번호 43, 서열번호 44), STAT1(서열번호 45, 서열번호 46), 및 TSC22D1(서열번호 47, 서열번호 48)로 이루어진 그룹으로부터 선택된 서열과 적어도 90% 동일한, 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 하나 이상의 벡터가 하기의 조합으로부터 선택되는 전사 인자의 조합을 포함하는, 방법:\nIRF8 및 SPIB;\nIRF8, SPIB, 및 ARID5A;\nIRF8, SPIB, 및 BCL11A;\nIRF8, SPIB, 및 CBFA2T3;\nIRF8, SPIB, 및 CREB3L2;\nIRF8, SPIB, 및 ETS1;\nIRF8, SPIB, 및 IKZF1;\nIRF8, SPIB, 및 IKZF2;\nIRF8, SPIB, 및 STAT1;\nIRF8, SPIB, 및 TCF4;\nIRF8, SPIB, 및 TCF12;\nIRF8, SPIB, 및 TSC22D1; 또는 \n이들의 혼합물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 형질도입된 세포를 적어도 2일, 적어도 5일, 적어도 8일, 또는 적어도 9일 동안 배양하는, 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 형질도입 하는 단계가 IL-12를 코딩하는 핵산 서열; IL-4를 코딩하는 핵산 서열; IFN-α를 코딩하는 핵산 서열; IFN-β를 코딩하는 핵산 서열; IFN-γ를 코딩하는 핵산 서열; TNF를 코딩하는 핵산 서열; GM-CSF를 코딩하는 핵산 서열; IL-10 RNA를 표적으로 하는 siRNA를 코딩하는 핵산 서열; 및 이들의 혼합물로 이루어진 그룹으로부터 선택된 적어도 하나의 벡터를 추가로 포함하거나, 면역자극성 사이토카인을 코딩하는 핵산을 포함하는 적어도 하나의 벡터를 추가로 포함하는, 방법.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제24항에 있어서, 줄기 세포 또는 분화된 세포, 또는 이들의 혼합물이 다능성 줄기 세포, 다분화능 줄기 세포, 또는 분화된 세포로 이루어진 그룹으로부터 선택된 포유동물 세포, 인간 세포, 비-인간 세포, 또는 마우스 세포이고, \n여기서 다능성 줄기 세포, 다분화능 줄기 세포, 또는 분화된 세포가 내배엽 유래 세포, 중배엽 유래 세포, 외배엽 유래 세포, 다분화능 줄기 세포, 중간엽 줄기 세포, 조혈 줄기 세포, 장 줄기 세포, 다능성 줄기 세포 및 세포주, 중배엽-유래 세포, 단핵구, 및 이의 혼합물로 이루어진 그룹으로부터 선택되는, 방법.",
+            "refers_to": [
+              24
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 32,
+      "after_claim_count": 30,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2021.04.15",
+      "internationOpenNumber": "WO2021069672",
+      "internationalApplicationDate": "2020.10.09",
+      "internationalApplicationNumber": "PCT/EP2020/078429"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "스웨덴, *** ** 룬드, 메디콘 빌리지",
+      "code": "520220254915",
+      "country": "스웨덴",
+      "engName": "ASGARD THERAPEUTICS AB",
+      "name": "아스가르드 테라퓨틱스 아베"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "포르투갈, ****-*** 카민하...",
+        "code": "",
+        "country": "",
+        "engName": "RIBEIRO, LEMOS, PEREIRA, Carlos, Filipe",
+        "name": "리베이로 레모스 페레이라 카를로스 필리프"
+      },
+      {
+        "address": "포르투갈, ****-*** ...",
+        "code": "",
+        "country": "",
+        "engName": "FERREIRA, PIRES, Cristiana",
+        "name": "페레이라 피르스 크리스티아나"
+      },
+      {
+        "address": "포르투갈, ****-*** 레이리...",
+        "code": "",
+        "country": "",
+        "engName": "FIUZA, ROSA, Fabio",
+        "name": "피우자 로사 파비오"
+      },
+      {
+        "address": "스웨덴, ***** 말뫼,...",
+        "code": "",
+        "country": "",
+        "engName": "ALTMAN, Abigail",
+        "name": "알트만 아비가일"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 송파구 법원로 ***, *층(문정동)",
+      "code": "920201000613",
+      "country": "대한민국",
+      "engName": "HANOL Intellectual Property and Law",
+      "name": "특허법인한얼"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "포르투칼",
+        "priorityApplicationDate": "2019.10.10",
+        "priorityApplicationNumber": "115833"
+      },
+      {
+        "priorityApplicationCountry": "유럽특허청(EPO)",
+        "priorityApplicationDate": "2020.01.10",
+        "priorityApplicationNumber": "20151310.8"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2018185709 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "EP03385373 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Fábio F. Rosa et al., Science Immunology. vol. 3, no. 9, pp. 1-15 (2018.12.07.)",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2022.04.22",
+        "receiptNumber": "1-1-2022-0435605-45"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Translation of Amendment made during International Phase] Submission of Document",
+        "documentName": "[국제단계보정서 번역문]서류제출서",
+        "receiptDate": "2022.04.22",
+        "receiptNumber": "1-1-2022-0436605-13"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2022.05.12",
+        "receiptNumber": "1-5-2022-0072807-95"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.09.26",
+        "receiptNumber": "1-1-2023-1068366-87"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.09.26",
+        "receiptNumber": "1-1-2023-1068367-22"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.20",
+        "receiptNumber": "9-5-2025-1011737-14"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020227013673.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c930210591d0d7b93ce0c5c33dea174973231815825e89183594161bc477fb19fb679a3b9e2187110fab94e2f419fe53fbb74e5fbfed59da808",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf47d5754a25ad49c29db1df67063abb6ebe553cae36d8f03be261f34d622e5a023a455a1c8835f440eff263e1763f2c16f127a51e07073c2c"
+  },
+  "rndInfoArray": ""
+}

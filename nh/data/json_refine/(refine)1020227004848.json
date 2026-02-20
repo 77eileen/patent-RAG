@@ -1,0 +1,1109 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.07.15",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-7004848",
+      "claimCount": "26",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "면역 세포에 의해 합성되고 분비되는 기능성 결합제",
+      "inventionTitleEng": "FUNCTIONAL BINDERS SYNTHESIZED AND SECRETED BY IMMUNE CELLS",
+      "openDate": "2022.03.22",
+      "openNumber": "10-2022-0035435",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.05.18",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2022.02.14"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/62"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/85"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/725"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/705"
+      },
+      {
+        "ipcDate": "(2024.01.01)",
+        "ipcNumber": "C07K 14/54"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 35/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 단일쇄 가변 단편(scFv) 도메인, 단편 결정화 가능(Fc) 도메인 및 scFv 및 Fc 도메인을 연결하는 힌지 도메인을 포함하는 생체 내 기능성 리간드(IFL)에 관한 것이다. IFL은 표적 수용체에 특이적으로 결합하고, 항체-의존성 세포 세포독성(ADCC), 항체-의존성 세포 포식작용(ADCP) 및 보체-의존성 세포독성(CDC)뿐만 아니라 사이토카인 자극을 촉발시킬 수 있다. IFL은 자가-절단 펩티드를 통해 키메라 항원 수용체에 연결될 수 있다. IFL은 자연 살해 세포 또는 T 림프구와 같은 면역 세포에서 발현될 수 있다. 벡터, 숙주 세포, IFL을 제조하는 방법이 또한 설명된다."
+    }
+  },
+  "claims": {
+    "total_amendments": 1,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 26,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "펩티드를 발현하는 면역 세포로서, 상기 펩티드가,a) 단일쇄 가변 단편(scFv) 도메인;b) 단편 결정화 가능(Fc) 도메인; 및c) scFv 및 Fc 도메인을 연결하는 힌지 도메인을 포함하는,면역 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, scFv 도메인이 면역글로불린 가변 경쇄(VL) 도메인, 면역글로불린 가변 중쇄(VH) 도메인, 및 VL 및 VH 도메인을 연결하는 링커 도메인을 포함하는 면역 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 링커 도메인이 (G4S)x이고, 여기서 x가 1 내지 100의 정수인 면역 세포.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 링커 도메인이 (G4S)3인 면역 세포.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD19에 결합하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD20에 결합하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD22, CD38, CD7, CD2, CD3, 표피 성장 인자 수용체(EGFR), CD123, CD33, B-세포 성숙 항원(BCMA), 메소텔린, 인간 표피 성장 인자 수용체 2(Her2), 전립선-특이적 막 항원(PSMA), 디시알로강글리오시드(GD2), PD-L1(CD274), CD80 또는 CD86에 결합하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, Fc 도메인이 면역글로불린 불변 중쇄 2(CH2) 도메인 및 면역글로불린 불변 중쇄 3(CH3) 도메인을 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, Fc 도메인이 인간 IgG1 Fc 도메인인 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 scFv 도메인에 대해 N-말단에 존재하는 신호 펩티드를 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 Fc 도메인을 키메라 수용체에 연결시키는 자가-절단 펩티드를 추가로 포함하고, 상기 키메라 수용체가 수용체 도메인, 힌지 및 막횡단 도메인, 공동-자극성 신호전달 도메인, 및 세포질 신호전달 도메인을 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 자가-절단 펩티드가 2A 펩티드인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 수용체 도메인이 CD16인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 힌지 및 막횡단 도메인이 CD8α 힌지 및 막횡단 도메인인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 공동-자극성 도메인이 4-1BB 공동-자극성 도메인인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 세포질 신호전달 도메인이 CD3ζ 세포질 신호전달 도메인인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 키메라 수용체가 CD16V-4-1BB-CD3ζ인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD19 또는 CD20에 결합하고, Fc 도메인이 인간 IgG1 Fc 도메인이고, 힌지 도메인이 IgG1 힌지 도메인이고; 펩티드가 scFv 도메인에 대해 N-말단에 존재하는 CD8α 신호 펩티드를 추가로 포함하고; 펩티드가 CD16V-4-1BB-CD3ζ인 키메라 수용체를 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 S239D; S267E; H268F; 또는 I332E의 돌연변이 중 하나 이상을 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 E345K; E430G; 또는 S440Y의 돌연변이 중 하나 이상을 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 링커에 의해 Fc 도메인에 연결된 IL-15를 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, IL-15를 Fc 도메인에 연결시키는 링커가 SEQ ID NO: 51; A(EAAK)4ALEA(EAAAK)4A; (EAAAK)z; A(EAAAK)zA; 및 (XP)w로 구성된 군으로부터 선택되고, 여기서 z가 1 내지 100의 정수이고; X가 임의의 아미노산이고, w가 1 내지 100의 정수인 면역 세포.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 링커에 의해 Fc 도메인에 연결된 4-1BB(CD37), CD28 또는 OX40(CD134)에 결합하는 리간드를 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제23항에 있어서, IL-15를 Fc 도메인에 연결시키는 링커가 SEQ ID NO: 51; A(EAAK)4ALEA(EAAAK)4A; (EAAAK)z; A(EAAAK)zA; 및 (XP)w로 구성된 군으로부터 선택되고, 여기서 z가 1 내지 100의 정수이고; X가 임의의 아미노산이고, w가 1 내지 100의 정수인 면역 세포.",
+          "refers_to": [
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 면역 세포가 자연 살해 세포인 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 면역 세포가 T 림프구 세포인 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 1,
+      "receipt_date": "",
+      "document_name": "원본 (변동이력 없음)",
+      "claim_count": 26,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "펩티드를 발현하는 면역 세포로서, 상기 펩티드가,a) 단일쇄 가변 단편(scFv) 도메인;b) 단편 결정화 가능(Fc) 도메인; 및c) scFv 및 Fc 도메인을 연결하는 힌지 도메인을 포함하는,면역 세포.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, scFv 도메인이 면역글로불린 가변 경쇄(VL) 도메인, 면역글로불린 가변 중쇄(VH) 도메인, 및 VL 및 VH 도메인을 연결하는 링커 도메인을 포함하는 면역 세포.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서, 링커 도메인이 (G4S)x이고, 여기서 x가 1 내지 100의 정수인 면역 세포.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 링커 도메인이 (G4S)3인 면역 세포.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD19에 결합하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD20에 결합하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD22, CD38, CD7, CD2, CD3, 표피 성장 인자 수용체(EGFR), CD123, CD33, B-세포 성숙 항원(BCMA), 메소텔린, 인간 표피 성장 인자 수용체 2(Her2), 전립선-특이적 막 항원(PSMA), 디시알로강글리오시드(GD2), PD-L1(CD274), CD80 또는 CD86에 결합하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, Fc 도메인이 면역글로불린 불변 중쇄 2(CH2) 도메인 및 면역글로불린 불변 중쇄 3(CH3) 도메인을 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, Fc 도메인이 인간 IgG1 Fc 도메인인 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 scFv 도메인에 대해 N-말단에 존재하는 신호 펩티드를 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 Fc 도메인을 키메라 수용체에 연결시키는 자가-절단 펩티드를 추가로 포함하고, 상기 키메라 수용체가 수용체 도메인, 힌지 및 막횡단 도메인, 공동-자극성 신호전달 도메인, 및 세포질 신호전달 도메인을 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 자가-절단 펩티드가 2A 펩티드인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 수용체 도메인이 CD16인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 힌지 및 막횡단 도메인이 CD8α 힌지 및 막횡단 도메인인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 공동-자극성 도메인이 4-1BB 공동-자극성 도메인인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 세포질 신호전달 도메인이 CD3ζ 세포질 신호전달 도메인인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서, 키메라 수용체가 CD16V-4-1BB-CD3ζ인 면역 세포.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD19 또는 CD20에 결합하고, Fc 도메인이 인간 IgG1 Fc 도메인이고, 힌지 도메인이 IgG1 힌지 도메인이고; 펩티드가 scFv 도메인에 대해 N-말단에 존재하는 CD8α 신호 펩티드를 추가로 포함하고; 펩티드가 CD16V-4-1BB-CD3ζ인 키메라 수용체를 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 S239D; S267E; H268F; 또는 I332E의 돌연변이 중 하나 이상을 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 E345K; E430G; 또는 S440Y의 돌연변이 중 하나 이상을 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 링커에 의해 Fc 도메인에 연결된 IL-15를 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제21항에 있어서, IL-15를 Fc 도메인에 연결시키는 링커가 SEQ ID NO: 51; A(EAAK)4ALEA(EAAAK)4A; (EAAAK)z; A(EAAAK)zA; 및 (XP)w로 구성된 군으로부터 선택되고, 여기서 z가 1 내지 100의 정수이고; X가 임의의 아미노산이고, w가 1 내지 100의 정수인 면역 세포.",
+          "refers_to": [
+            21
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 링커에 의해 Fc 도메인에 연결된 4-1BB(CD37), CD28 또는 OX40(CD134)에 결합하는 리간드를 추가로 포함하는 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제23항에 있어서, IL-15를 Fc 도메인에 연결시키는 링커가 SEQ ID NO: 51; A(EAAK)4ALEA(EAAAK)4A; (EAAAK)z; A(EAAAK)zA; 및 (XP)w로 구성된 군으로부터 선택되고, 여기서 z가 1 내지 100의 정수이고; X가 임의의 아미노산이고, w가 1 내지 100의 정수인 면역 세포.",
+          "refers_to": [
+            23
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 면역 세포가 자연 살해 세포인 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 면역 세포가 T 림프구 세포인 면역 세포.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "",
+        "document_name": "원본 (변동이력 없음)",
+        "claim_count": 26,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "펩티드를 발현하는 면역 세포로서, 상기 펩티드가,a) 단일쇄 가변 단편(scFv) 도메인;b) 단편 결정화 가능(Fc) 도메인; 및c) scFv 및 Fc 도메인을 연결하는 힌지 도메인을 포함하는,면역 세포.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, scFv 도메인이 면역글로불린 가변 경쇄(VL) 도메인, 면역글로불린 가변 중쇄(VH) 도메인, 및 VL 및 VH 도메인을 연결하는 링커 도메인을 포함하는 면역 세포.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서, 링커 도메인이 (G4S)x이고, 여기서 x가 1 내지 100의 정수인 면역 세포.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 링커 도메인이 (G4S)3인 면역 세포.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD19에 결합하는 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD20에 결합하는 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD22, CD38, CD7, CD2, CD3, 표피 성장 인자 수용체(EGFR), CD123, CD33, B-세포 성숙 항원(BCMA), 메소텔린, 인간 표피 성장 인자 수용체 2(Her2), 전립선-특이적 막 항원(PSMA), 디시알로강글리오시드(GD2), PD-L1(CD274), CD80 또는 CD86에 결합하는 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, Fc 도메인이 면역글로불린 불변 중쇄 2(CH2) 도메인 및 면역글로불린 불변 중쇄 3(CH3) 도메인을 포함하는 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, Fc 도메인이 인간 IgG1 Fc 도메인인 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 scFv 도메인에 대해 N-말단에 존재하는 신호 펩티드를 추가로 포함하는 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 Fc 도메인을 키메라 수용체에 연결시키는 자가-절단 펩티드를 추가로 포함하고, 상기 키메라 수용체가 수용체 도메인, 힌지 및 막횡단 도메인, 공동-자극성 신호전달 도메인, 및 세포질 신호전달 도메인을 포함하는 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 자가-절단 펩티드가 2A 펩티드인 면역 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 수용체 도메인이 CD16인 면역 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 힌지 및 막횡단 도메인이 CD8α 힌지 및 막횡단 도메인인 면역 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 공동-자극성 도메인이 4-1BB 공동-자극성 도메인인 면역 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 세포질 신호전달 도메인이 CD3ζ 세포질 신호전달 도메인인 면역 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서, 키메라 수용체가 CD16V-4-1BB-CD3ζ인 면역 세포.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, scFv 도메인이 CD19 또는 CD20에 결합하고, Fc 도메인이 인간 IgG1 Fc 도메인이고, 힌지 도메인이 IgG1 힌지 도메인이고; 펩티드가 scFv 도메인에 대해 N-말단에 존재하는 CD8α 신호 펩티드를 추가로 포함하고; 펩티드가 CD16V-4-1BB-CD3ζ인 키메라 수용체를 추가로 포함하는 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 S239D; S267E; H268F; 또는 I332E의 돌연변이 중 하나 이상을 추가로 포함하는 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 E345K; E430G; 또는 S440Y의 돌연변이 중 하나 이상을 추가로 포함하는 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 링커에 의해 Fc 도메인에 연결된 IL-15를 추가로 포함하는 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제21항에 있어서, IL-15를 Fc 도메인에 연결시키는 링커가 SEQ ID NO: 51; A(EAAK)4ALEA(EAAAK)4A; (EAAAK)z; A(EAAAK)zA; 및 (XP)w로 구성된 군으로부터 선택되고, 여기서 z가 1 내지 100의 정수이고; X가 임의의 아미노산이고, w가 1 내지 100의 정수인 면역 세포.",
+            "refers_to": [
+              21
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 펩티드가 링커에 의해 Fc 도메인에 연결된 4-1BB(CD37), CD28 또는 OX40(CD134)에 결합하는 리간드를 추가로 포함하는 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제23항에 있어서, IL-15를 Fc 도메인에 연결시키는 링커가 SEQ ID NO: 51; A(EAAK)4ALEA(EAAAK)4A; (EAAAK)z; A(EAAAK)zA; 및 (XP)w로 구성된 군으로부터 선택되고, 여기서 z가 1 내지 100의 정수이고; X가 임의의 아미노산이고, w가 1 내지 100의 정수인 면역 세포.",
+            "refers_to": [
+              23
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 면역 세포가 자연 살해 세포인 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서, 면역 세포가 T 림프구 세포인 면역 세포.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 26,
+      "after_claim_count": 26,
+      "total_versions": 1
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2021.01.21",
+      "internationOpenNumber": "WO2021009694",
+      "internationalApplicationDate": "2020.07.15",
+      "internationalApplicationNumber": "PCT/IB2020/056659"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "싱가포르 ****** 로우어 켄트 리지 로드 **",
+      "code": "519990270831",
+      "country": "싱가포르",
+      "engName": "National University of Singapore",
+      "name": "내셔널 유니버시티 오브 싱가포르"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "싱가포르 싱가포르 ****** 로우어 켄트 리지 로드 ** ...",
+        "code": "",
+        "country": "",
+        "engName": "SHIMASAKI, Noriko",
+        "name": "시마사키, 노리코"
+      },
+      {
+        "address": "싱가포르 싱가포르 ****** 로우어 켄트 리지 로드 ** ...",
+        "code": "",
+        "country": "",
+        "engName": "CAMPANA, Dario",
+        "name": "캄파나, 다리오"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 중구 남대문로 **, *층(소공동, 한진빌딩 본관)",
+      "code": "920151000211",
+      "country": "대한민국",
+      "engName": "Lee & Ko IP",
+      "name": "특허법인광장리앤고"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2019.07.17",
+      "priorityApplicationNumber": "62/875,455"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "US20180371052 A1",
+      "examinerQuotationFlag": ""
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2022.02.14",
+        "receiptNumber": "1-1-2022-0160678-95"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2022.02.22",
+        "receiptNumber": "1-5-2022-0029037-47"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.05.18",
+        "receiptNumber": "1-1-2023-0552235-56"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.10.23",
+        "receiptNumber": "9-5-2025-1025926-19"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020227004848.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9323ec0db980c6cdcfed8b2bfa57bedd896a359f167c3632857b98210221724df3f98c37099e9cd8a614bc4eae110bea8f57884a48082cf540",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf21cc9d0e5a290b1d2ea10258def6aafe6b1b9f84aa2f162ecebe6c57572044cd8ac3fb68b028405216b6bd2bb56286d8a4fe5565d3f2b4fc"
+  },
+  "rndInfoArray": ""
+}

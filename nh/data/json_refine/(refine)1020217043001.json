@@ -1,0 +1,1001 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2018.03.28",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2021-7043001",
+      "claimCount": "7",
+      "examinerName": "나영국",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "키메라 폴리펩티드 및 그의 세포 막 내 국재화를 변경시키는 방법",
+      "inventionTitleEng": "CHIMERIC POLYPEPTIDES AND METHODS OF ALTERING THEIR  LOCALIZATION IN THE CELL MEMBRANE",
+      "openDate": "2022.01.06",
+      "openNumber": "10-2022-0002751",
+      "originalApplicationDate": "2018.03.28",
+      "originalApplicationKind": "국제출원/분할",
+      "originalApplicationNumber": "10-2019-7031800",
+      "originalExaminationRequestDate": "2022.01.27",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.12.09",
+      "publicationNumber": "",
+      "registerDate": "2022.12.05",
+      "registerNumber": "10-2475696-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2021.12.29"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/725"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/705"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/705"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/715"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/72"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/30"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "단백질을 세포 표면의 외부 부분에 가역적으로 국재화시키기 위한 방법 및 조성물이 제공된다. 본질적으로, 단백질은, 막횡단 도메인에 추가로, 또한 에스트로겐 수용체 알파 또는 프로게스테론 수용체와 같은 호르몬 수용체를 포함하여야 한다. 본원에 제공된 조성물은 관심 폴리펩티드 및 핵 호르몬 수용체의 리간드 결합 도메인 (LBD)을 코딩하는 핵산을 포함할 수 있다. CAR T 세포의 독성을 제어하는 것을 포함한 의학적 적용이 제공된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217043001",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20211229",
+      "document_name": "[분할출원(국제출원)]특허출원서",
+      "claim_count": 20,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "막횡단 도메인; 및\n호르몬 수용체 리간드 결합 도메인\n을 포함하는 단일쇄 키메라 폴리펩티드이며,\n여기서\n막횡단 도메인과 호르몬 수용체 리간드 결합 도메인은 서로 직접 인접해 있거나 또는 1 내지 500개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 호르몬 수용체 리간드 결합 도메인은 포유동물에서 동일한 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n단일쇄 키메라 폴리펩티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 호르몬 수용체 리간드 결합 도메인이 에스트로겐 수용체, 프로게스테론 수용체 또는 안드로겐 수용체로부터의 리간드 결합 도메인인 단일쇄 키메라 폴리펩티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 막횡단 도메인과 호르몬 수용체 리간드 결합 도메인이 서로 직접 인접해 있는 것인 단일쇄 키메라 폴리펩티드.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 막횡단 도메인과 호르몬 수용체 리간드 결합 도메인이 1 내지 500개 아미노산에 의해 분리되어 있는 것인 단일쇄 키메라 폴리펩티드.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항의 단일쇄 키메라 폴리펩티드를 코딩하는 뉴클레오티드 서열을 포함하는 핵산.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항의 단일쇄 키메라 폴리펩티드를 발현하는 포유동물 세포를, 세포 형질 막의 세포외 측으로의 단일쇄 키메라 폴리펩티드의 국재화를 유도하기에 충분한 양의 호르몬 또는 호르몬 유사체와 접촉시키는 단계\n를 포함하는, 포유동물 세포에서 단일쇄 키메라 폴리펩티드의 막 국재화를 유도하는 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포외 항원-결합 도메인;\n막횡단 도메인;\n호르몬 수용체 리간드 결합 도메인;\n공동자극 도메인; 및\n면역수용체 티로신-기반 활성화 모티프 (ITAM)\n를 포함하는 단일쇄 키메라 항원 수용체이며,\n여기서\n막횡단 도메인과 호르몬 수용체 리간드 결합 도메인은 서로 직접 인접해 있거나 또는 1 내지 500개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 호르몬 수용체 리간드 결합 도메인은 포유동물에서 동일한 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n단일쇄 키메라 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 세포외 항원-결합 도메인이 scFv, (scFv)2, VHH 도메인 및 VNAR 도메인으로 이루어진 군으로부터 선택된 것인 단일쇄 키메라 항원 수용체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항 또는 제8항에 있어서, 세포외 항원-결합 도메인이 단일 항원에 특이적으로 결합하는 것인 단일쇄 키메라 항원 수용체.",
+          "refers_to": [
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 세포외 항원-결합 도메인이 2종의 상이한 항원에 특이적으로 결합하는 것인 단일쇄 키메라 항원 수용체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 막횡단 도메인이 T 세포 수용체의 α 쇄, T 세포 수용체의 β 쇄, T 세포 수용체의 ζ 쇄, CD28, CD3ε, CD3δ, CD3γ, CD33, CD37, CD64, CD80, CD45, CD4, CD5, CD8α, CD9, CD16, CD22, CD86, CD134, CD137 또는 CD154로부터의 막횡단 도메인인 단일쇄 키메라 항원 수용체.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항, 제8항, 제10항 및 제11항 중 어느 한 항에 있어서, 공동자극 도메인이 CD27, CD28, 4-1BB, OX40, CD30, CD40L, CD40, PD-1, PD-L1, ICOS, LFA-1, CD2, CD7, CD160, LIGHT, BTLA, TIM3, CD244, CD80, LAG3, NKG2C 및 B7-H3으로부터의 세포질 공동자극 도메인인 단일쇄 키메라 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항, 제8항, 제10항 및 제11항 중 어느 한 항에 있어서, ITAM이 CD3ζ로부터의 세포질 신호전달 서열을 포함하는 것인 단일쇄 키메라 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포외 항원-결합 도메인;\n막횡단 도메인; 및\n호르몬 수용체 리간드 결합 도메인\n을 포함하는 적어도 1개의 제1 폴리펩티드를 포함하는 다중쇄 키메라 항원 수용체이며,\n여기서\n막횡단 도메인과 호르몬 수용체 리간드 결합 도메인은 서로 직접 인접해 있거나 또는 1 내지 500개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 호르몬 수용체 리간드 결합 도메인은 포유동물에서 동일한 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n다중쇄 키메라 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항의 단일쇄 키메라 항원 수용체 또는 제14항의 다중쇄 키메라 항원 수용체를 발현하는 포유동물 세포를 포함하는, 대상체에서 암을 치료하기 위한 제약 조성물이며, 여기서 조성물은 하기 방식:\n(a) 대상체에게 제7항의 단일쇄 키메라 항원 수용체 또는 제14항의 다중쇄 키메라 항원 수용체를 발현하는 포유동물 세포를 투여하는 단계이며, 여기서 항원 결합 도메인은 대상체에서 암에 의해 발현된 항원에 특이적으로 결합하는 것인 단계;\n(b) 대상체에게 세포 형질 막의 세포외 측으로의 단일쇄 또는 다중쇄 키메라 항원 수용체의 국재화를 유도하기에 충분한 양의 호르몬 또는 호르몬 유사체를 투여하는 단계;\n(c) (b) 후의 대상체에서 독성과 연관된 1종 이상의 증상의 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 수준, 또는 둘 다를 결정하는 단계;\n(d) 독성과 연관된 1종 이상의 증상의 결정된 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 결정된 수준, 또는 둘 다를 대조군(들)과 비교하는 단계; 및\n(e) 대상체에게 세포 형질 막의 세포외 측 상의 단일쇄 또는 다중쇄 키메라 항원 수용체의 수준을 감소시키기에 충분한 양의 호르몬 또는 호르몬 유사체를 투여하여, (e) 후의 대상체에서 독성과 연관된 1종 이상의 증상의 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 수준, 또는 둘 다가 감소되도록 하는 단계\n로 사용되는 것인, 대상체에서 암을 치료하기 위한 제약 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 단계 (e)에서 대상체에게 투여되는 호르몬 또는 호르몬 유사체의 양이 단계 (b)에서 대상체에게 투여되는 호르몬 또는 호르몬 유사체의 양과 비교하여 적어도 25%만큼 감소되는 것인 제약 조성물.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 시토카인 스톰과 연관된 1종 이상의 시토카인이 종양 괴사 인자-알파, IFNγ, IL-10, IL-1β, IL-2, IL-6, IL-8 및 IL-10, 과립구 대식세포-콜로니-자극 인자 (GM-CSF) 및 IL-5로 이루어진 군으로부터 선택된 것인 제약 조성물.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포외 호르몬 수용체 리간드 결합 도메인; 및\n막횡단 도메인\n을 포함하는 단일쇄 키메라 폴리펩티드이며,\n여기서\n호르몬 수용체 리간드 결합 도메인과 세포외 막횡단 도메인은 서로 직접 인접해 있거나 또는 1 내지 700개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 세포외 호르몬 수용체 리간드 결합 도메인은 포유동물에서 단일 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n단일쇄 키메라 폴리펩티드",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포외 항원-결합 도메인;\n세포외 호르몬 수용체 리간드 결합 도메인;\n막횡단 도메인;\n세포내 공동자극 도메인; 및\n세포내 면역수용체 티로신-기반 활성화 모티프 (ITAM)\n를 포함하는 단일쇄 키메라 항원 수용체이며,\n여기서\n막횡단 도메인과 세포외 호르몬 수용체 리간드 결합 도메인은 서로 직접 인접해 있거나 또는 1 내지 700개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 세포외 호르몬 수용체 리간드 결합 도메인은 포유동물에서 단일 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n단일쇄 키메라 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포외 항원-결합 도메인;\n세포외 호르몬 수용체 리간드 결합 도메인; 및\n막횡단 도메인\n을 포함하는 적어도 1개의 제1 폴리펩티드를 포함하는 다중쇄 키메라 항원 수용체이며,\n여기서\n막횡단 도메인과 세포외 호르몬 수용체 리간드 결합 도메인은 서로 직접 인접해 있거나 또는 1 내지 700개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 세포외 호르몬 수용체 리간드 결합 도메인은 포유동물에서 단일 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n다중쇄 키메라 항원 수용체.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20220708",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 20,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "서열식별번호: 31, 33, 35, 37, 39, 52 또는 98의 아미노산 서열을 포함하는 단일쇄 키메라 폴리펩티드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항의 단일쇄 키메라 폴리펩티드를 코딩하는 뉴클레오티드 서열을 포함하는 핵산이며, 핵산 서열은 서열식별번호: 30, 32, 34, 36, 38, 51 또는 97의 뉴클레오티드 서열을 포함하는 것인 핵산.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항의 단일쇄 키메라 폴리펩티드를 발현하는 포유동물 세포를, 세포 형질 막의 세포외 측으로의 단일쇄 키메라 폴리펩티드의 국재화를 유도하기에 충분한 양의 호르몬 또는 호르몬 유사체와 시험관내에서 접촉시키는 단계를 포함하는, 포유동물 세포에서 단일쇄 키메라 폴리펩티드의 막 국재화를 유도하는 시험관내 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "a. 서열식별번호: 31, 33, 35, 37, 39, 52 또는 98의 아미노산 서열을 포함하는 적어도 1개의 제1 폴리펩티드; 또는b. 서열식별번호: 30, 32, 34, 36, 38, 51 또는 97의 핵산 서열에 의해 코딩되는 적어도 1개의 제1 폴리펩티드를 포함하는 다중쇄 키메라 항원 수용체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항의 단일쇄 키메라 항원 수용체 또는 제4항의 다중쇄 키메라 항원 수용체를 발현하는 포유동물 세포를 포함하는, 대상체에서 암을 치료하기 위한 제약 조성물이며, 여기서 조성물은 하기 방식:(a) 대상체에게 제1항의 단일쇄 키메라 항원 수용체 또는 제4항의 다중쇄 키메라 항원 수용체를 발현하는 포유동물 세포를 투여하는 단계이며, 여기서 항원 결합 도메인은 대상체에서 암에 의해 발현된 항원에 특이적으로 결합하는 것인 단계;(b) 대상체에게 세포 형질 막의 세포외 측으로의 단일쇄 또는 다중쇄 키메라 항원 수용체의 국재화를 유도하기에 충분한 양의 호르몬 또는 호르몬 유사체를 투여하는 단계;(c) (b) 후의 대상체에서 독성과 연관된 1종 이상의 증상의 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 수준, 또는 둘 다를 결정하는 단계;(d) 독성과 연관된 1종 이상의 증상의 결정된 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 결정된 수준, 또는 둘 다를 대조군(들)과 비교하는 단계; 및(e) 대상체에게 세포 형질 막의 세포외 측 상의 단일쇄 또는 다중쇄 키메라 항원 수용체의 수준을 감소시키기에 충분한 양의 호르몬 또는 호르몬 유사체를 투여하여, (e) 후의 대상체에서 독성과 연관된 1종 이상의 증상의 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 수준, 또는 둘 다가 감소되도록 하는 단계로 사용되는 것인, 대상체에서 암을 치료하기 위한 제약 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, 단계 (e)에서 대상체에게 투여되는 호르몬 또는 호르몬 유사체의 양이 단계 (b)에서 대상체에게 투여되는 호르몬 또는 호르몬 유사체의 양과 비교하여 적어도 25%만큼 감소되는 것인 제약 조성물.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서, 시토카인 스톰과 연관된 1종 이상의 시토카인이 종양 괴사 인자-알파, IFNγ, IL-10, IL-1β, IL-2, IL-6, IL-8 및 IL-10, 과립구 대식세포-콜로니-자극 인자 (GM-CSF) 및 IL-5로 이루어진 군으로부터 선택된 것인 제약 조성물.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20211229",
+        "document_name": "[분할출원(국제출원)]특허출원서",
+        "claim_count": 20,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "막횡단 도메인; 및\n호르몬 수용체 리간드 결합 도메인\n을 포함하는 단일쇄 키메라 폴리펩티드이며,\n여기서\n막횡단 도메인과 호르몬 수용체 리간드 결합 도메인은 서로 직접 인접해 있거나 또는 1 내지 500개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 호르몬 수용체 리간드 결합 도메인은 포유동물에서 동일한 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n단일쇄 키메라 폴리펩티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 호르몬 수용체 리간드 결합 도메인이 에스트로겐 수용체, 프로게스테론 수용체 또는 안드로겐 수용체로부터의 리간드 결합 도메인인 단일쇄 키메라 폴리펩티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 막횡단 도메인과 호르몬 수용체 리간드 결합 도메인이 서로 직접 인접해 있는 것인 단일쇄 키메라 폴리펩티드.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 막횡단 도메인과 호르몬 수용체 리간드 결합 도메인이 1 내지 500개 아미노산에 의해 분리되어 있는 것인 단일쇄 키메라 폴리펩티드.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항의 단일쇄 키메라 폴리펩티드를 코딩하는 뉴클레오티드 서열을 포함하는 핵산.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항의 단일쇄 키메라 폴리펩티드를 발현하는 포유동물 세포를, 세포 형질 막의 세포외 측으로의 단일쇄 키메라 폴리펩티드의 국재화를 유도하기에 충분한 양의 호르몬 또는 호르몬 유사체와 접촉시키는 단계\n를 포함하는, 포유동물 세포에서 단일쇄 키메라 폴리펩티드의 막 국재화를 유도하는 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포외 항원-결합 도메인;\n막횡단 도메인;\n호르몬 수용체 리간드 결합 도메인;\n공동자극 도메인; 및\n면역수용체 티로신-기반 활성화 모티프 (ITAM)\n를 포함하는 단일쇄 키메라 항원 수용체이며,\n여기서\n막횡단 도메인과 호르몬 수용체 리간드 결합 도메인은 서로 직접 인접해 있거나 또는 1 내지 500개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 호르몬 수용체 리간드 결합 도메인은 포유동물에서 동일한 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n단일쇄 키메라 항원 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 세포외 항원-결합 도메인이 scFv, (scFv)2, VHH 도메인 및 VNAR 도메인으로 이루어진 군으로부터 선택된 것인 단일쇄 키메라 항원 수용체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항 또는 제8항에 있어서, 세포외 항원-결합 도메인이 단일 항원에 특이적으로 결합하는 것인 단일쇄 키메라 항원 수용체.",
+            "refers_to": [
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 세포외 항원-결합 도메인이 2종의 상이한 항원에 특이적으로 결합하는 것인 단일쇄 키메라 항원 수용체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 막횡단 도메인이 T 세포 수용체의 α 쇄, T 세포 수용체의 β 쇄, T 세포 수용체의 ζ 쇄, CD28, CD3ε, CD3δ, CD3γ, CD33, CD37, CD64, CD80, CD45, CD4, CD5, CD8α, CD9, CD16, CD22, CD86, CD134, CD137 또는 CD154로부터의 막횡단 도메인인 단일쇄 키메라 항원 수용체.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항, 제8항, 제10항 및 제11항 중 어느 한 항에 있어서, 공동자극 도메인이 CD27, CD28, 4-1BB, OX40, CD30, CD40L, CD40, PD-1, PD-L1, ICOS, LFA-1, CD2, CD7, CD160, LIGHT, BTLA, TIM3, CD244, CD80, LAG3, NKG2C 및 B7-H3으로부터의 세포질 공동자극 도메인인 단일쇄 키메라 항원 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항, 제8항, 제10항 및 제11항 중 어느 한 항에 있어서, ITAM이 CD3ζ로부터의 세포질 신호전달 서열을 포함하는 것인 단일쇄 키메라 항원 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포외 항원-결합 도메인;\n막횡단 도메인; 및\n호르몬 수용체 리간드 결합 도메인\n을 포함하는 적어도 1개의 제1 폴리펩티드를 포함하는 다중쇄 키메라 항원 수용체이며,\n여기서\n막횡단 도메인과 호르몬 수용체 리간드 결합 도메인은 서로 직접 인접해 있거나 또는 1 내지 500개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 호르몬 수용체 리간드 결합 도메인은 포유동물에서 동일한 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n다중쇄 키메라 항원 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항의 단일쇄 키메라 항원 수용체 또는 제14항의 다중쇄 키메라 항원 수용체를 발현하는 포유동물 세포를 포함하는, 대상체에서 암을 치료하기 위한 제약 조성물이며, 여기서 조성물은 하기 방식:\n(a) 대상체에게 제7항의 단일쇄 키메라 항원 수용체 또는 제14항의 다중쇄 키메라 항원 수용체를 발현하는 포유동물 세포를 투여하는 단계이며, 여기서 항원 결합 도메인은 대상체에서 암에 의해 발현된 항원에 특이적으로 결합하는 것인 단계;\n(b) 대상체에게 세포 형질 막의 세포외 측으로의 단일쇄 또는 다중쇄 키메라 항원 수용체의 국재화를 유도하기에 충분한 양의 호르몬 또는 호르몬 유사체를 투여하는 단계;\n(c) (b) 후의 대상체에서 독성과 연관된 1종 이상의 증상의 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 수준, 또는 둘 다를 결정하는 단계;\n(d) 독성과 연관된 1종 이상의 증상의 결정된 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 결정된 수준, 또는 둘 다를 대조군(들)과 비교하는 단계; 및\n(e) 대상체에게 세포 형질 막의 세포외 측 상의 단일쇄 또는 다중쇄 키메라 항원 수용체의 수준을 감소시키기에 충분한 양의 호르몬 또는 호르몬 유사체를 투여하여, (e) 후의 대상체에서 독성과 연관된 1종 이상의 증상의 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 수준, 또는 둘 다가 감소되도록 하는 단계\n로 사용되는 것인, 대상체에서 암을 치료하기 위한 제약 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 단계 (e)에서 대상체에게 투여되는 호르몬 또는 호르몬 유사체의 양이 단계 (b)에서 대상체에게 투여되는 호르몬 또는 호르몬 유사체의 양과 비교하여 적어도 25%만큼 감소되는 것인 제약 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 시토카인 스톰과 연관된 1종 이상의 시토카인이 종양 괴사 인자-알파, IFNγ, IL-10, IL-1β, IL-2, IL-6, IL-8 및 IL-10, 과립구 대식세포-콜로니-자극 인자 (GM-CSF) 및 IL-5로 이루어진 군으로부터 선택된 것인 제약 조성물.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포외 호르몬 수용체 리간드 결합 도메인; 및\n막횡단 도메인\n을 포함하는 단일쇄 키메라 폴리펩티드이며,\n여기서\n호르몬 수용체 리간드 결합 도메인과 세포외 막횡단 도메인은 서로 직접 인접해 있거나 또는 1 내지 700개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 세포외 호르몬 수용체 리간드 결합 도메인은 포유동물에서 단일 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n단일쇄 키메라 폴리펩티드",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포외 항원-결합 도메인;\n세포외 호르몬 수용체 리간드 결합 도메인;\n막횡단 도메인;\n세포내 공동자극 도메인; 및\n세포내 면역수용체 티로신-기반 활성화 모티프 (ITAM)\n를 포함하는 단일쇄 키메라 항원 수용체이며,\n여기서\n막횡단 도메인과 세포외 호르몬 수용체 리간드 결합 도메인은 서로 직접 인접해 있거나 또는 1 내지 700개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 세포외 호르몬 수용체 리간드 결합 도메인은 포유동물에서 단일 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n단일쇄 키메라 항원 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포외 항원-결합 도메인;\n세포외 호르몬 수용체 리간드 결합 도메인; 및\n막횡단 도메인\n을 포함하는 적어도 1개의 제1 폴리펩티드를 포함하는 다중쇄 키메라 항원 수용체이며,\n여기서\n막횡단 도메인과 세포외 호르몬 수용체 리간드 결합 도메인은 서로 직접 인접해 있거나 또는 1 내지 700개 아미노산에 의해 분리되어 있고;\n막횡단 도메인 및 세포외 호르몬 수용체 리간드 결합 도메인은 포유동물에서 단일 내인성 단일쇄 폴리펩티드에 둘 다가 존재하지는 않는 것인,\n다중쇄 키메라 항원 수용체.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20220708",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 20,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "서열식별번호: 31, 33, 35, 37, 39, 52 또는 98의 아미노산 서열을 포함하는 단일쇄 키메라 폴리펩티드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 단일쇄 키메라 폴리펩티드를 코딩하는 뉴클레오티드 서열을 포함하는 핵산이며, 핵산 서열은 서열식별번호: 30, 32, 34, 36, 38, 51 또는 97의 뉴클레오티드 서열을 포함하는 것인 핵산.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 단일쇄 키메라 폴리펩티드를 발현하는 포유동물 세포를, 세포 형질 막의 세포외 측으로의 단일쇄 키메라 폴리펩티드의 국재화를 유도하기에 충분한 양의 호르몬 또는 호르몬 유사체와 시험관내에서 접촉시키는 단계\n를 포함하는, 포유동물 세포에서 단일쇄 키메라 폴리펩티드의 막 국재화를 유도하는 시험관내 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "a. 서열식별번호: 31, 33, 35, 37, 39, 52 또는 98의 아미노산 서열을 포함하는 적어도 1개의 제1 폴리펩티드; 또는\nb. 서열식별번호: 30, 32, 34, 36, 38, 51 또는 97의 핵산 서열에 의해 코딩되는 적어도 1개의 제1 폴리펩티드\n를 포함하는 다중쇄 키메라 항원 수용체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항의 단일쇄 키메라 항원 수용체 또는 제4항의 다중쇄 키메라 항원 수용체를 발현하는 포유동물 세포를 포함하는, 대상체에서 암을 치료하기 위한 제약 조성물이며, 여기서 조성물은 하기 방식:\n(a) 대상체에게 제1항의 단일쇄 키메라 항원 수용체 또는 제4항의 다중쇄 키메라 항원 수용체를 발현하는 포유동물 세포를 투여하는 단계이며, 여기서 항원 결합 도메인은 대상체에서 암에 의해 발현된 항원에 특이적으로 결합하는 것인 단계;\n(b) 대상체에게 세포 형질 막의 세포외 측으로의 단일쇄 또는 다중쇄 키메라 항원 수용체의 국재화를 유도하기에 충분한 양의 호르몬 또는 호르몬 유사체를 투여하는 단계;\n(c) (b) 후의 대상체에서 독성과 연관된 1종 이상의 증상의 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 수준, 또는 둘 다를 결정하는 단계;\n(d) 독성과 연관된 1종 이상의 증상의 결정된 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 결정된 수준, 또는 둘 다를 대조군(들)과 비교하는 단계; 및\n(e) 대상체에게 세포 형질 막의 세포외 측 상의 단일쇄 또는 다중쇄 키메라 항원 수용체의 수준을 감소시키기에 충분한 양의 호르몬 또는 호르몬 유사체를 투여하여, (e) 후의 대상체에서 독성과 연관된 1종 이상의 증상의 존재 또는 중증도, 시토카인 스톰과 연관된 1종 이상의 시토카인의 수준, 또는 둘 다가 감소되도록 하는 단계\n로 사용되는 것인, 대상체에서 암을 치료하기 위한 제약 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 단계 (e)에서 대상체에게 투여되는 호르몬 또는 호르몬 유사체의 양이 단계 (b)에서 대상체에게 투여되는 호르몬 또는 호르몬 유사체의 양과 비교하여 적어도 25%만큼 감소되는 것인 제약 조성물.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서, 시토카인 스톰과 연관된 1종 이상의 시토카인이 종양 괴사 인자-알파, IFNγ, IL-10, IL-1β, IL-2, IL-6, IL-8 및 IL-10, 과립구 대식세포-콜로니-자극 인자 (GM-CSF) 및 IL-5로 이루어진 군으로부터 선택된 것인 제약 조성물.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 20,
+      "after_claim_count": 20,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020197031800"
+      },
+      {
+        "familyApplicationNumber": "1020227042603"
+      }
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2018.10.04",
+      "internationOpenNumber": "WO2018183551",
+      "internationalApplicationDate": "2018.03.28",
+      "internationalApplicationNumber": "PCT/US2018/024916"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국, 캘리포니아 *****, 에머리빌 스위트 ***, 호톤 스트리트 ****",
+      "code": "520160811851",
+      "country": "미국",
+      "engName": "Cell Design Labs, Inc.",
+      "name": "셀 디자인 랩스, 인크."
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국 ***** 캘리포니아...",
+        "code": "",
+        "country": "",
+        "engName": "SANTORO, Stephen",
+        "name": "산토로, 스티븐"
+      },
+      {
+        "address": "미국 ***** 캘리포니아주 샌...",
+        "code": "",
+        "country": "",
+        "engName": "COYLE, Scott",
+        "name": "코일, 스콧"
+      },
+      {
+        "address": "미국 ***** 캘리포니아...",
+        "code": "",
+        "country": "",
+        "engName": "RUPP, Levi",
+        "name": "러프, 레비"
+      },
+      {
+        "address": "미국 ***** 캘리포니...",
+        "code": "",
+        "country": "",
+        "engName": "EMTAGE, Peter",
+        "name": "엠티지, 피터"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980003619",
+        "country": "대한민국",
+        "engName": "YANG, Young June",
+        "name": "양영준"
+      },
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "920000001071",
+        "country": "대한민국",
+        "engName": "LEE, Sang Nam",
+        "name": "이상남"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2017.03.28",
+        "priorityApplicationNumber": "62/477,733"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2017.11.16",
+        "priorityApplicationNumber": "62/587,262"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "JP3700791 B2",
+      "examinerQuotationFlag": "Y"
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2021.12.29",
+        "receiptNumber": "1-1-2021-1519795-37"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.01.27",
+        "receiptNumber": "1-1-2022-0103952-20"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2022.04.21",
+        "receiptNumber": "9-5-2022-0299353-23"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2022.05.10",
+        "receiptNumber": "9-5-2022-0346080-56"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.07.08",
+        "receiptNumber": "1-1-2022-0713444-34"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.07.08",
+        "receiptNumber": "1-1-2022-0713453-45"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.09.06",
+        "receiptNumber": "9-5-2022-0677535-03"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2022.12.05",
+        "receiptNumber": "1-1-2022-1302935-45"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217043001.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93308993ca5727207ebdb2875aa794ad2f3ad8fc8c113ba538118847a51ef7e8e8ca1ca59b36c956b041b8ac73e6461fc107b4bb7006133baf",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfbb29ea0c990cde25ac15c748efd8da5d6623be70dd728aea579f69295f7763b8b3340b1dac2f813789acdb4199048c17ddde8ddf02038813"
+  },
+  "rndInfoArray": ""
+}

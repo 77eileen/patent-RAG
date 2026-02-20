@@ -1,0 +1,664 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.02.19",
+      "applicationFlag": "",
+      "applicationNumber": "10-2020-0020327",
+      "claimCount": "7",
+      "examinerName": "이민영",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "TMBIM6 프로모터와 Sp1 또는 PKC의 결합을 이용한 암 치료제 스크리닝 용도",
+      "inventionTitleEng": "Use for screening cancer therapeutic agents using  interaction TMBIM6 promoter with Sp1 or PKC",
+      "openDate": "2021.08.27",
+      "openNumber": "10-2021-0105630",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2020.02.19",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.12.01",
+      "publicationNumber": "",
+      "registerDate": "2021.11.26",
+      "registerNumber": "10-2333770-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2017.01.01)",
+        "ipcNumber": "G01N 33/50"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "G01N 33/68"
+      },
+      {
+        "ipcDate": "(2026.01.01)",
+        "ipcNumber": "C12Q 1/6886"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/713"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 TMBIM6 프로모터와 Sp1 또는 PKC의 결합을 이용한 암 치료제 스크리닝 용도에 관한 것이다. TMBIM6는 여러 형태의 암에서 상향조절되고, 전이에 관여한다. TMBIM6를 특이적으로 하향조절하면, 암세포가 사멸되는 것으로 알려졌으나, 정상 및 암세포에서의 TMBIM6 유전자 전사 조절은 거의 연구가 진행되지 않았다. 한편, 본 발명자들은 TMBIM6 유전자의 프로모터 활성에 필수적인 핵심 프로모터 영역(-133/+30 bp)을 밝혀냈고, Sp1이 TMBIM6의 기본적인 프로모터 활성에 필수적인 전사 인자라는 것을 밝혀냈다. 또한, 본 발명자들은 단백질 키나제-C(protein kinase-C; PKC) 활성화가 프로모터 활성 및 내재성 TMBIM6 mRNA를 2 내지 2.5배 촉진한다는 것을 확인하였다. 추가적으로, 인간 유방암, 전립선암 및 간암 환자 유래 샘플에서 PKCι, Sp1 및 TMBIM6의 발현 수준이 서로 연관되어 있다는 것을 확인하였다. 상기와 같은 결과를 토대로, 본 발명은 특정 암 치료에 대한 혁신적인 전략을 수립하고, 암 치료제를 스크리닝하는데 유용하게 활용될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020200020327",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20200219",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(1) 암세포에 시험물질을 접촉시키는 단계;\n(2) 상기 시험물질을 접촉한 암세포에서 Sp1 및 TMBIM6 프로모터 영역의 결합 수준을 측정하는 단계; 및 \n(3) 대조구 시료와 비교하여 상기 Sp1 및 TMBIM6 프로모터 영역의 결합 수준을 감소시키는 시험물질을 선별하는 단계를 포함하는 암 치료제 스크리닝 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 TMBIM6 프로모터 영역은 서열번호 1의 66 내지 78번째 뉴클레오티드로 표시되는 말단(distal) Sp1 결합 사이트 또는 서열번호 1의 121 내지 136번째 뉴클레오티드로 표시되는 근접(proximal) Sp1 결합 사이트를 포함하는 것을 특징으로 하는 암 치료제 스크리닝 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 Sp1 및 TMBIM6 프로모터 영역의 결합 수준이 감소되면, TMBIM6 발현이 억제되는 것을 특징으로 하는 암 치료제 스크리닝 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 암은 섬유육종, 유방암, 전립선암, 간암, 폐암, 골암, 췌장암, 피부암, 구강암, 구강인두암, 비인두암, 자궁암, 난소암, 직장암, 위암, 자궁내막암, 자궁경부암, 질암, 소장암, 갑상선암, 부갑상선암, 만성 또는 급성 백혈병, 림프구 림프종, 방광암, 신장암, 대장암 또는 뇌종양인 것을 특징으로 하는 암 치료제 스크리닝 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(1) 암세포에 시험물질을 접촉시키는 단계;\n(2) 상기 시험물질을 접촉한 암세포에서 Sp1 및 단백질 키나제-C(protein kinase-C; PKC)의 결합 수준을 측정하는 단계; 및 \n(3) 대조구 시료와 비교하여 상기 Sp1 및 PKC의 결합 수준을 감소시키는 시험물질을 선별하는 단계를 포함하는 암 치료제 스크리닝 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제5항에 있어서, 상기 Sp1 및 PKC의 결합 수준이 감소되면, TMBIM6 발현이 억제되는 것을 특징으로 하는 암 치료제 스크리닝 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "Sp1 발현 또는 활성 억제제를 유효성분으로 포함하며, 상기 Sp1 발현 또는 활성 억제제는 Sp1 및 TMBIM6 프로모터 영역의 결합을 억제하는 것을 특징으로 하는 암 예방 또는 치료용 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서, 상기 TMBIM6 프로모터 영역은 서열번호 1의 66 내지 78번째 뉴클레오티드로 표시되는 말단(distal) Sp1 결합 사이트 또는 서열번호 1의 121 내지 136번째 뉴클레오티드로 표시되는 근접(proximal) Sp1 결합 사이트를 포함하는 것을 특징으로 하는 암 예방 또는 치료용 약학 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "PKC 발현 또는 활성 억제제를 유효성분으로 포함하며, 상기 PKC 발현 또는 활성 억제제는 Sp1 및 PKC의 결합을 억제하는 것을 특징으로 하는 암 예방 또는 치료용 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 PKC는 PKCι, PKCε 또는 PKCδ인 것을 특징으로 하는 암 예방 또는 치료용 약학 조성물.",
+          "refers_to": [
+            9
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20210712",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(1) 섬유육종세포, 유방암세포, 전립선암세포, 간암세포, 폐암세포, 비소세포성 폐암세포 또는 비인두암세포에 시험물질을 접촉시키는 단계;(2) 상기 시험물질을 접촉한 암세포에서 Sp1 및 TMBIM6 프로모터 영역의 결합 수준을 측정하는 단계; 및 (3) 대조구 시료와 비교하여 상기 Sp1 및 TMBIM6 프로모터 영역의 결합 수준을 감소시키는 시험물질을 선별하는 단계를 포함하는 섬유육종, 유방암, 전립선암, 간암, 폐암, 비소세포성 폐암 또는 비인두암 치료제 스크리닝 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 TMBIM6 프로모터 영역은 서열번호 1의 66 내지 78번째 뉴클레오티드로 표시되는 말단(distal) Sp1 결합 사이트 또는 서열번호 1의 121 내지 136번째 뉴클레오티드로 표시되는 근접(proximal) Sp1 결합 사이트를 포함하는 것을 특징으로 하는 섬유육종, 유방암, 전립선암, 간암, 폐암, 비소세포성 폐암 또는 비인두암 치료제 스크리닝 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 Sp1 및 TMBIM6 프로모터 영역의 결합 수준이 감소되면, TMBIM6 발현이 억제되는 것을 특징으로 하는 섬유육종, 유방암, 전립선암, 간암, 폐암, 비소세포성 폐암 또는 비인두암 치료제 스크리닝 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Sp1 및 TMBIM6 프로모터 영역의 결합 억제제를 유효성분으로 포함하는 섬유육종, 유방암, 전립선암, 간암, 폐암, 비소세포성 폐암 또는 비인두암 예방 또는 치료용 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 상기 TMBIM6 프로모터 영역은 서열번호 1의 66 내지 78번째 뉴클레오티드로 표시되는 말단(distal) Sp1 결합 사이트 또는 서열번호 1의 121 내지 136번째 뉴클레오티드로 표시되는 근접(proximal) Sp1 결합 사이트를 포함하는 것을 특징으로 하는 섬유육종, 유방암, 전립선암, 간암, 폐암, 비소세포성 폐암 또는 비인두암 예방 또는 치료용 약학 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "Sp1 발현 또는 활성 억제제; 또는 단백질 키나제-C(protein kinase-C; PKC) 발현 또는 활성 억제제를 유효성분으로 포함하는, 시험관(in vitro) 내 섬유육종세포, 유방암세포, 전립선암세포, 간암세포, 폐암세포, 비소세포성 폐암세포 또는 비인두암세포에서의 TMBIM6 발현 억제용 시약 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "시험관 내에서(in vitro) Sp1 발현 또는 활성 억제제; 또는 PKC 발현 또는 활성 억제제를 섬유육종세포, 유방암세포, 전립선암세포, 간암세포, 폐암세포, 비소세포성 폐암세포 또는 비인두암세포에 처리하는 단계를 포함하는 TMBIM6 발현 억제 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20200219",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(1) 암세포에 시험물질을 접촉시키는 단계;\n(2) 상기 시험물질을 접촉한 암세포에서 Sp1 및 TMBIM6 프로모터 영역의 결합 수준을 측정하는 단계; 및 \n(3) 대조구 시료와 비교하여 상기 Sp1 및 TMBIM6 프로모터 영역의 결합 수준을 감소시키는 시험물질을 선별하는 단계를 포함하는 암 치료제 스크리닝 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 TMBIM6 프로모터 영역은 서열번호 1의 66 내지 78번째 뉴클레오티드로 표시되는 말단(distal) Sp1 결합 사이트 또는 서열번호 1의 121 내지 136번째 뉴클레오티드로 표시되는 근접(proximal) Sp1 결합 사이트를 포함하는 것을 특징으로 하는 암 치료제 스크리닝 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 Sp1 및 TMBIM6 프로모터 영역의 결합 수준이 감소되면, TMBIM6 발현이 억제되는 것을 특징으로 하는 암 치료제 스크리닝 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 암은 섬유육종, 유방암, 전립선암, 간암, 폐암, 골암, 췌장암, 피부암, 구강암, 구강인두암, 비인두암, 자궁암, 난소암, 직장암, 위암, 자궁내막암, 자궁경부암, 질암, 소장암, 갑상선암, 부갑상선암, 만성 또는 급성 백혈병, 림프구 림프종, 방광암, 신장암, 대장암 또는 뇌종양인 것을 특징으로 하는 암 치료제 스크리닝 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(1) 암세포에 시험물질을 접촉시키는 단계;\n(2) 상기 시험물질을 접촉한 암세포에서 Sp1 및 단백질 키나제-C(protein kinase-C; PKC)의 결합 수준을 측정하는 단계; 및 \n(3) 대조구 시료와 비교하여 상기 Sp1 및 PKC의 결합 수준을 감소시키는 시험물질을 선별하는 단계를 포함하는 암 치료제 스크리닝 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제5항에 있어서, 상기 Sp1 및 PKC의 결합 수준이 감소되면, TMBIM6 발현이 억제되는 것을 특징으로 하는 암 치료제 스크리닝 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "Sp1 발현 또는 활성 억제제를 유효성분으로 포함하며, 상기 Sp1 발현 또는 활성 억제제는 Sp1 및 TMBIM6 프로모터 영역의 결합을 억제하는 것을 특징으로 하는 암 예방 또는 치료용 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서, 상기 TMBIM6 프로모터 영역은 서열번호 1의 66 내지 78번째 뉴클레오티드로 표시되는 말단(distal) Sp1 결합 사이트 또는 서열번호 1의 121 내지 136번째 뉴클레오티드로 표시되는 근접(proximal) Sp1 결합 사이트를 포함하는 것을 특징으로 하는 암 예방 또는 치료용 약학 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "PKC 발현 또는 활성 억제제를 유효성분으로 포함하며, 상기 PKC 발현 또는 활성 억제제는 Sp1 및 PKC의 결합을 억제하는 것을 특징으로 하는 암 예방 또는 치료용 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 PKC는 PKCι, PKCε 또는 PKCδ인 것을 특징으로 하는 암 예방 또는 치료용 약학 조성물.",
+            "refers_to": [
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20210712",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(1) 섬유육종세포, 유방암세포, 전립선암세포, 간암세포, 폐암세포, 비소세포성 폐암세포 또는 비인두암세포에 시험물질을 접촉시키는 단계;\n(2) 상기 시험물질을 접촉한 암세포에서 Sp1 및 TMBIM6 프로모터 영역의 결합 수준을 측정하는 단계; 및 \n(3) 대조구 시료와 비교하여 상기 Sp1 및 TMBIM6 프로모터 영역의 결합 수준을 감소시키는 시험물질을 선별하는 단계를 포함하는 섬유육종, 유방암, 전립선암, 간암, 폐암, 비소세포성 폐암 또는 비인두암 치료제 스크리닝 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 TMBIM6 프로모터 영역은 서열번호 1의 66 내지 78번째 뉴클레오티드로 표시되는 말단(distal) Sp1 결합 사이트 또는 서열번호 1의 121 내지 136번째 뉴클레오티드로 표시되는 근접(proximal) Sp1 결합 사이트를 포함하는 것을 특징으로 하는 섬유육종, 유방암, 전립선암, 간암, 폐암, 비소세포성 폐암 또는 비인두암 치료제 스크리닝 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 Sp1 및 TMBIM6 프로모터 영역의 결합 수준이 감소되면, TMBIM6 발현이 억제되는 것을 특징으로 하는 섬유육종, 유방암, 전립선암, 간암, 폐암, 비소세포성 폐암 또는 비인두암 치료제 스크리닝 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "Sp1 및 TMBIM6 프로모터 영역의 결합 억제제를 유효성분으로 포함하는 섬유육종, 유방암, 전립선암, 간암, 폐암, 비소세포성 폐암 또는 비인두암 예방 또는 치료용 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, 상기 TMBIM6 프로모터 영역은 서열번호 1의 66 내지 78번째 뉴클레오티드로 표시되는 말단(distal) Sp1 결합 사이트 또는 서열번호 1의 121 내지 136번째 뉴클레오티드로 표시되는 근접(proximal) Sp1 결합 사이트를 포함하는 것을 특징으로 하는 섬유육종, 유방암, 전립선암, 간암, 폐암, 비소세포성 폐암 또는 비인두암 예방 또는 치료용 약학 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "Sp1 발현 또는 활성 억제제; 또는 단백질 키나제-C(protein kinase-C; PKC) 발현 또는 활성 억제제를 유효성분으로 포함하는, 시험관(in vitro) 내 섬유육종세포, 유방암세포, 전립선암세포, 간암세포, 폐암세포, 비소세포성 폐암세포 또는 비인두암세포에서의 TMBIM6 발현 억제용 시약 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "시험관 내에서(in vitro) Sp1 발현 또는 활성 억제제; 또는 PKC 발현 또는 활성 억제제를 섬유육종세포, 유방암세포, 전립선암세포, 간암세포, 폐암세포, 비소세포성 폐암세포 또는 비인두암세포에 처리하는 단계를 포함하는 TMBIM6 발현 억제 방법.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 10,
+      "after_claim_count": 10,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "충청남도 천안시 동남구...",
+        "code": "120120371721",
+        "country": "대한민국",
+        "engName": "Dankook University Cheonan Campus Industry Academic Cooperation Foundation",
+        "name": "단국대학교 천안캠퍼스 산학협력단"
+      },
+      {
+        "address": "전라북도 전주시 덕진구...",
+        "code": "220030443699",
+        "country": "대한민국",
+        "engName": "INDUSTRIAL COOPERATION FOUNDATION JEONBUK NATIONAL UNIVERSITY",
+        "name": "전북대학교산학협력단"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "전라북도 전주시 완산구...",
+        "code": "",
+        "country": "",
+        "engName": "KIM, Hyung Ryong",
+        "name": "김형룡"
+      },
+      {
+        "address": "전라북도 전주시 완산구...",
+        "code": "",
+        "country": "",
+        "engName": "CHAE, Han-Jung",
+        "name": "채한정"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 금천구 가산디지털*로 ***,  비동****호(가산동,한라원앤원타워)",
+      "code": "920081001013",
+      "country": "대한민국",
+      "engName": "TaeBaek Intellectual Property Law Firm",
+      "name": "특허법인태백"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Grzmil et al., American Journal of Pathology, Vol. 163, No. 2, 2003, pp. 543-552.",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Wang et al., The Journal of Biological Chemistry, Vol. 289, No. 28, 2014, pp. 19823-19838.",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Rajagopalan et al., PLOS Pathogens, Vol. 13, No. 10, 2017.",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Mahalaxmi et al., Journal of Oncological Sciences, Vol. 4, 2018, pp. 102-105.",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2020.02.19",
+        "receiptNumber": "1-1-2020-0176615-79"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2020.06.12",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2020.07.06",
+        "receiptNumber": "4-1-2020-5149086-79"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2020.07.13",
+        "receiptNumber": "9-6-2021-0082888-48"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.05.11",
+        "receiptNumber": "9-5-2021-0373683-65"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.07.12",
+        "receiptNumber": "1-1-2021-0799612-67"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.07.12",
+        "receiptNumber": "1-1-2021-0799613-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2021.07.22",
+        "receiptNumber": "4-1-2021-5199350-79"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.11.22",
+        "receiptNumber": "9-5-2021-0915603-92"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.02.28",
+        "receiptNumber": "4-1-2023-5049578-11"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.07.31",
+        "receiptNumber": "4-1-2023-5197067-85"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.05.09",
+        "receiptNumber": "4-1-2025-5125107-72"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020200020327.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9338c0a17b3c76f52fad11dda281d970dab184a293ba4666a792b886b1c5acbc731df87081d35ff20b5990a52016f107843016d3c816be532f",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfe37ed54fd9aa3299d181bbc3d64e3f6a4e4ddb8883c8de89e2413339bf0021880a0b85fadb1e81f87c75e9d1ab81f970cdd04a682875936a"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2017.09.01 ~ 2022.01.31",
+        "rndManagingInstituteName": "전북대학교",
+        "rndProjectName": "바이오의료기술개발사업",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "45/100",
+        "rndTaskName": "IRE-1α 신호제어를 통한 소포체 스트레스 조절 기술 플랫폼 개발",
+        "rndTaskNumber": "2017M3A9G7072719"
+      },
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2017.10.01 ~ 2020.10.30",
+        "rndManagingInstituteName": "전북대학교",
+        "rndProjectName": "개인기초연구",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "45/100",
+        "rndTaskName": "PDI 분해를 통한 스트레스 신호전달 경로 연구",
+        "rndTaskNumber": "2017R1E1A1A01073796"
+      },
+      {
+        "rndDepartmentName": "과학기술정보통신부",
+        "rndDuration": "2019.01.01 ~ 2019.12.31",
+        "rndManagingInstituteName": "단국대학교(천안캠퍼스)",
+        "rndProjectName": "바이오의료기술개발사업",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "10/100",
+        "rndTaskName": "치아줄기세포와 3D 프린팅 기반 바이오치아 생성기술 개발",
+        "rndTaskNumber": "2017M3A9E4047243"
+      }
+    ]
+  }
+}

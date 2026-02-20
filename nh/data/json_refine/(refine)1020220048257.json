@@ -1,0 +1,957 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.04.19",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0048257",
+      "claimCount": "19",
+      "examinerName": "홍성제",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "향상된 암세포 사멸효능을 갖는 비대칭 항체",
+      "inventionTitleEng": "Asymmetric antibody with enhanced target cell  clearance",
+      "openDate": "2022.10.27",
+      "openNumber": "10-2022-0144777",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.04.19",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2024.11.13",
+      "publicationNumber": "",
+      "registerDate": "2024.11.06",
+      "registerNumber": "10-2728505-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 한쪽은 scFv (Single-chain variable fragment) 및 다른 한쪽은 Fab (Fragment antigen-binding)을 포함하는 항-CD20 비대칭 항체 (asymmetric antibody)에 관한 것이다. 본 발명의 비대칭 항체는 대칭구조의 항체와 비교하여 보체를 효과적으로 활성화하여 현저히 향상된 보체 의존 세포사멸능(Complement Dependent Cytotoxicity, CDC)을 나타내는 바, 효율적인 암 치료제 또는 치료 보조제로 유용하게 이용될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220048257",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220419",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 22,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기의 구성을 포함하는, 보체 의존 세포사멸능 (Complement Dependent Cytotoxicity, CDC)이 향상된 항-CD20 비대칭 항체 (asymmetric antibody) 또는 이의 항원 결합 단편:\n(a) 서열번호 16의 LCDR1, 서열번호 18의 LCDR2, 서열번호 20의 LCDR3, 서열번호 24의 HCDR1, 서열번호 26의 HCDR2 및 서열번호 28의 HCDR3 서열을 포함하는 scFv (Single-chain variable fragment); 및\n(b) 서열번호 33의 LCDR1, 서열번호 35의 LCDR2, 서열번호 37의 LCDR3, 서열번호 42의 HCDR1, 서열번호 44의 HCDR2 및 서열번호 46의 HCDR3 서열을 포함하는 Fab (Fragment antigen-binding).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 scFv는 서열번호 51의 경쇄 가변 영역 (VL) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 scFv는 서열번호 52의 중쇄 가변 영역 (VH) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 scFv는 서열번호 15의 LFR1, 서열번호 17의 LFR2, 서열번호 19의 LFR3, 서열번호 21의 LFR4, 서열번호 23의 HFR1, 서열번호 25의 HFR2, 서열번호 27의 HFR3 및 서열번호 29의 HFR4로 구성된 군으로부터 선택되는 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 scFv는 VL-링커-VH 형태인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 5 항에 있어서, 상기 링커는 Gly 및 Ser의 조합인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 Fab은 서열번호 53의 경쇄 가변 영역 (VL) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 Fab은 서열번호 54의 중쇄 가변 영역 (VH) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 Fab은 서열번호 32의 LFR1, 서열번호 34의 LFR2, 서열번호 36의 LFR3, 서열번호 38의 LFR4, 서열번호 41의 HFR1, 서열번호 43의 HFR2, 서열번호 45의 HFR3 및 서열번호 47의 HFR4로 구성된 군으로부터 선택되는 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 Fab은 서열번호 39의 Cκ (C kappa) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 Fab은 서열번호 48의 CH1 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항에 있어서, 상기 Fab은 VL-Cκ-링커-VH-CH1 형태인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 12 항에 있어서, 상기 링커는 Gly 및 Ser의 조합인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편을 코딩하는 핵산분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 14 항의 핵산분자를 포함하는 벡터.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 15 항의 벡터로 형질전환된 단리된 숙주세포.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편, 상기 항체 또는 이의 항원 결합 단편을 코딩하는 핵산분자, 또는 상기 핵산분자를 포함하는 벡터를 유효성분으로 포함하는 암의 예방 또는 치료용 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편, 상기 항체 또는 이의 항원 결합 단편을 코딩하는 핵산분자, 또는 상기 핵산분자를 포함하는 벡터의 약제학적 유효량을 대상체에게 투여하는 단계를 포함하는 암의 예방 또는 치료방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편, 상기 항체 또는 이의 항원 결합 단편을 코딩하는 핵산분자, 또는 상기 핵산분자를 포함하는 벡터의 치료용도(for use in therapy).",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편, 상기 항체 또는 이의 항원 결합 단편을 코딩하는 핵산분자, 또는 상기 핵산분자를 포함하는 벡터를 유효성분으로 포함하는 암의 진단용 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기의 단계를 포함하는, 보체 의존 세포사멸능 (Complement Dependent Cytotoxicity, CDC)이 향상된 항-CD20 비대칭 항체 (asymmetric antibody) 또는 이의 항원 결합 단편의 제조방법:\n(a) 서열번호 16의 LCDR1, 서열번호 18의 LCDR2, 서열번호 20의 LCDR3, 서열번호 24의 HCDR1, 서열번호 26의 HCDR2 및 서열번호 28의 HCDR3 서열을 포함하는 scFv (Single-chain variable fragment)를 제조하는 단계; 및\n(b) 서열번호 33의 LCDR1, 서열번호 35의 LCDR2, 서열번호 37의 LCDR3, 서열번호 42의 HCDR1, 서열번호 44의 HCDR2 및 서열번호 46의 HCDR3 서열을 포함하는 Fab (Fragment antigen-binding)을 제조하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기의 단계를 포함하는, 보체 의존 세포사멸능 (Complement Dependent Cytotoxicity, CDC)이 향상된 항-CD20 비대칭 항체 (asymmetric antibody) 또는 이의 항원 결합 단편을 코딩하는 핵산분자의 제조방법:\n(a) 서열번호 16의 LCDR1, 서열번호 18의 LCDR2, 서열번호 20의 LCDR3, 서열번호 24의 HCDR1, 서열번호 26의 HCDR2 및 서열번호 28의 HCDR3 서열을 포함하는 scFv (Single-chain variable fragment)를 코딩하는 핵산분자를 제조하는 단계; 및\n(b) 서열번호 33의 LCDR1, 서열번호 35의 LCDR2, 서열번호 37의 LCDR3, 서열번호 42의 HCDR1, 서열번호 44의 HCDR2 및 서열번호 46의 HCDR3 서열을 포함하는 Fab (Fragment antigen-binding)을 코딩하는 핵산분자를 제조하는 단계.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20240321",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 22,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기의 구성을 포함하는, 보체 의존 세포사멸능 (Complement Dependent Cytotoxicity, CDC)이 향상된 항-CD20 비대칭 항체 (asymmetric antibody) 또는 이의 항원 결합 단편:(a)\t서열번호 16의 LCDR1, 서열번호 18의 LCDR2, 서열번호 20의 LCDR3, 서열번호 24의 HCDR1, 서열번호 26의 HCDR2 및 서열번호 28의 HCDR3 서열을 포함하는 scFv (Single-chain variable fragment); 및(b)\t서열번호 33의 LCDR1, 서열번호 35의 LCDR2, 서열번호 37의 LCDR3, 서열번호 42의 HCDR1, 서열번호 44의 HCDR2 및 서열번호 46의 HCDR3 서열을 포함하는 Fab (Fragment antigen-binding).",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 scFv는 서열번호 51의 경쇄 가변 영역 (VL) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 scFv는 서열번호 52의 중쇄 가변 영역 (VH) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 scFv는 서열번호 15의 LFR1, 서열번호 17의 LFR2, 서열번호 19의 LFR3, 서열번호 21의 LFR4, 서열번호 23의 HFR1, 서열번호 25의 HFR2, 서열번호 27의 HFR3 및 서열번호 29의 HFR4로 구성된 군으로부터 선택되는 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 scFv는 VL-링커-VH 형태인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 5 항에 있어서, 상기 링커는 Gly 및 Ser의 조합인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 Fab은 서열번호 53의 경쇄 가변 영역 (VL) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 Fab은 서열번호 54의 중쇄 가변 영역 (VH) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 Fab은 서열번호 32의 LFR1, 서열번호 34의 LFR2, 서열번호 36의 LFR3, 서열번호 38의 LFR4, 서열번호 41의 HFR1, 서열번호 43의 HFR2, 서열번호 45의 HFR3 및 서열번호 47의 HFR4로 구성된 군으로부터 선택되는 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 Fab은 서열번호 39의 Cκ (C kappa) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 Fab은 서열번호 48의 CH1 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 있어서, 상기 Fab은 VL-Cκ-링커-VH-CH1 형태인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 12 항에 있어서, 상기 링커는 Gly 및 Ser의 조합인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편을 코딩하는 핵산분자.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 14 항의 핵산분자를 포함하는 벡터.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 15 항의 벡터로 형질전환된 단리된 숙주세포.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편을 유효성분으로 포함하는 암의 예방 또는 치료용 약제학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기의 단계를 포함하는, 보체 의존 세포사멸능 (Complement Dependent Cytotoxicity, CDC)이 향상된 항-CD20 비대칭 항체 (asymmetric antibody) 또는 이의 항원 결합 단편의 제조방법:(a)\t서열번호 16의 LCDR1, 서열번호 18의 LCDR2, 서열번호 20의 LCDR3, 서열번호 24의 HCDR1, 서열번호 26의 HCDR2 및 서열번호 28의 HCDR3 서열을 포함하는 scFv (Single-chain variable fragment)를 제조하는 단계; 및(b)\t서열번호 33의 LCDR1, 서열번호 35의 LCDR2, 서열번호 37의 LCDR3, 서열번호 42의 HCDR1, 서열번호 44의 HCDR2 및 서열번호 46의 HCDR3 서열을 포함하는 Fab (Fragment antigen-binding)을 제조하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기의 단계를 포함하는, 보체 의존 세포사멸능 (Complement Dependent Cytotoxicity, CDC)이 향상된 항-CD20 비대칭 항체 (asymmetric antibody) 또는 이의 항원 결합 단편을 코딩하는 핵산분자의 제조방법:(a)\t서열번호 16의 LCDR1, 서열번호 18의 LCDR2, 서열번호 20의 LCDR3, 서열번호 24의 HCDR1, 서열번호 26의 HCDR2 및 서열번호 28의 HCDR3 서열을 포함하는 scFv (Single-chain variable fragment)를 코딩하는 핵산분자를 제조하는 단계; 및(b)\t서열번호 33의 LCDR1, 서열번호 35의 LCDR2, 서열번호 37의 LCDR3, 서열번호 42의 HCDR1, 서열번호 44의 HCDR2 및 서열번호 46의 HCDR3 서열을 포함하는 Fab (Fragment antigen-binding)을 코딩하는 핵산분자를 제조하는 단계.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220419",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 22,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기의 구성을 포함하는, 보체 의존 세포사멸능 (Complement Dependent Cytotoxicity, CDC)이 향상된 항-CD20 비대칭 항체 (asymmetric antibody) 또는 이의 항원 결합 단편:\n(a) 서열번호 16의 LCDR1, 서열번호 18의 LCDR2, 서열번호 20의 LCDR3, 서열번호 24의 HCDR1, 서열번호 26의 HCDR2 및 서열번호 28의 HCDR3 서열을 포함하는 scFv (Single-chain variable fragment); 및\n(b) 서열번호 33의 LCDR1, 서열번호 35의 LCDR2, 서열번호 37의 LCDR3, 서열번호 42의 HCDR1, 서열번호 44의 HCDR2 및 서열번호 46의 HCDR3 서열을 포함하는 Fab (Fragment antigen-binding).",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 scFv는 서열번호 51의 경쇄 가변 영역 (VL) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 scFv는 서열번호 52의 중쇄 가변 영역 (VH) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 scFv는 서열번호 15의 LFR1, 서열번호 17의 LFR2, 서열번호 19의 LFR3, 서열번호 21의 LFR4, 서열번호 23의 HFR1, 서열번호 25의 HFR2, 서열번호 27의 HFR3 및 서열번호 29의 HFR4로 구성된 군으로부터 선택되는 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 scFv는 VL-링커-VH 형태인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 5 항에 있어서, 상기 링커는 Gly 및 Ser의 조합인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 Fab은 서열번호 53의 경쇄 가변 영역 (VL) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 Fab은 서열번호 54의 중쇄 가변 영역 (VH) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 Fab은 서열번호 32의 LFR1, 서열번호 34의 LFR2, 서열번호 36의 LFR3, 서열번호 38의 LFR4, 서열번호 41의 HFR1, 서열번호 43의 HFR2, 서열번호 45의 HFR3 및 서열번호 47의 HFR4로 구성된 군으로부터 선택되는 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 Fab은 서열번호 39의 Cκ (C kappa) 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 Fab은 서열번호 48의 CH1 서열을 포함하는 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항에 있어서, 상기 Fab은 VL-Cκ-링커-VH-CH1 형태인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 12 항에 있어서, 상기 링커는 Gly 및 Ser의 조합인 것을 특징으로 하는, 항-CD20 비대칭 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편을 코딩하는 핵산분자.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 14 항의 핵산분자를 포함하는 벡터.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 15 항의 벡터로 형질전환된 단리된 숙주세포.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편, 상기 항체 또는 이의 항원 결합 단편을 코딩하는 핵산분자, 또는 상기 핵산분자를 포함하는 벡터를 유효성분으로 포함하는 암의 예방 또는 치료용 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편, 상기 항체 또는 이의 항원 결합 단편을 코딩하는 핵산분자, 또는 상기 핵산분자를 포함하는 벡터의 약제학적 유효량을 대상체에게 투여하는 단계를 포함하는 암의 예방 또는 치료방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편, 상기 항체 또는 이의 항원 결합 단편을 코딩하는 핵산분자, 또는 상기 핵산분자를 포함하는 벡터의 치료용도(for use in therapy).",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편, 상기 항체 또는 이의 항원 결합 단편을 코딩하는 핵산분자, 또는 상기 핵산분자를 포함하는 벡터를 유효성분으로 포함하는 암의 진단용 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기의 단계를 포함하는, 보체 의존 세포사멸능 (Complement Dependent Cytotoxicity, CDC)이 향상된 항-CD20 비대칭 항체 (asymmetric antibody) 또는 이의 항원 결합 단편의 제조방법:\n(a) 서열번호 16의 LCDR1, 서열번호 18의 LCDR2, 서열번호 20의 LCDR3, 서열번호 24의 HCDR1, 서열번호 26의 HCDR2 및 서열번호 28의 HCDR3 서열을 포함하는 scFv (Single-chain variable fragment)를 제조하는 단계; 및\n(b) 서열번호 33의 LCDR1, 서열번호 35의 LCDR2, 서열번호 37의 LCDR3, 서열번호 42의 HCDR1, 서열번호 44의 HCDR2 및 서열번호 46의 HCDR3 서열을 포함하는 Fab (Fragment antigen-binding)을 제조하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기의 단계를 포함하는, 보체 의존 세포사멸능 (Complement Dependent Cytotoxicity, CDC)이 향상된 항-CD20 비대칭 항체 (asymmetric antibody) 또는 이의 항원 결합 단편을 코딩하는 핵산분자의 제조방법:\n(a) 서열번호 16의 LCDR1, 서열번호 18의 LCDR2, 서열번호 20의 LCDR3, 서열번호 24의 HCDR1, 서열번호 26의 HCDR2 및 서열번호 28의 HCDR3 서열을 포함하는 scFv (Single-chain variable fragment)를 코딩하는 핵산분자를 제조하는 단계; 및\n(b) 서열번호 33의 LCDR1, 서열번호 35의 LCDR2, 서열번호 37의 LCDR3, 서열번호 42의 HCDR1, 서열번호 44의 HCDR2 및 서열번호 46의 HCDR3 서열을 포함하는 Fab (Fragment antigen-binding)을 코딩하는 핵산분자를 제조하는 단계.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20240321",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항의 항-CD20 비대칭 항체 또는 이의 항원 결합 단편을 유효성분으로 포함하는 암의 예방 또는 치료용 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 22,
+      "after_claim_count": 4,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "서울특별시 성북구...",
+        "code": "220040170680",
+        "country": "대한민국",
+        "engName": "Korea University Research and Business Foundation",
+        "name": "고려대학교 산학협력단"
+      },
+      {
+        "address": "서울특별시 송파구...",
+        "code": "120160787162",
+        "country": "대한민국",
+        "engName": "SG BioScience, Inc.",
+        "name": "에스지바이오사이언스 주식회사"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 강남구...",
+        "code": "",
+        "country": "",
+        "engName": "Sang Taek Jung",
+        "name": "정상택"
+      },
+      {
+        "address": "경기도 광명시 광덕산로 **, *...",
+        "code": "",
+        "country": "",
+        "engName": "Ji Chul Lee",
+        "name": "이지철"
+      },
+      {
+        "address": "서울특별시 성동구...",
+        "code": "",
+        "country": "",
+        "engName": "Sung-Won Min",
+        "name": "민성원"
+      },
+      {
+        "address": "서울특별시 강동구...",
+        "code": "",
+        "country": "",
+        "engName": "Bae Gong Deuk",
+        "name": "배공득"
+      },
+      {
+        "address": "서울특별시 중랑구...",
+        "code": "",
+        "country": "",
+        "engName": "Hyeong Sun Kwon",
+        "name": "권형선"
+      },
+      {
+        "address": "경기도 가평군...",
+        "code": "",
+        "country": "",
+        "engName": "Sang Min Lee",
+        "name": "이상민"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 동산로 **, *층(양재동, 베델회관)",
+      "code": "920101000219",
+      "country": "대한민국",
+      "engName": "CHUNG HYUN PATENT&LAW FIRM",
+      "name": "특허법인충현"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2021.04.20",
+      "priorityApplicationNumber": "1020210050921"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "MOORE ET AL., METHODS., 154, 38~50, 2018.10.23",
+      "examinerQuotationFlag": ""
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.04.19",
+        "receiptNumber": "1-1-2022-0418842-16"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2022.04.25",
+        "receiptNumber": "1-5-2022-0062980-96"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.05.25",
+        "receiptNumber": "1-1-2022-0552876-67"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Request for Prior Art Search",
+        "documentName": "선행기술조사의뢰서",
+        "receiptDate": "2023.02.15",
+        "receiptNumber": "9-1-9999-9999999-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Report of Prior Art Search",
+        "documentName": "선행기술조사보고서",
+        "receiptDate": "2023.04.13",
+        "receiptNumber": "9-6-2023-0070668-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.11.24",
+        "receiptNumber": "4-1-2023-5312042-65"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.01.22",
+        "receiptNumber": "9-5-2024-0068698-87"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2024.03.21",
+        "receiptNumber": "1-1-2024-0315694-86"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2024.03.21",
+        "receiptNumber": "1-1-2024-0315687-66"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2024.09.21",
+        "receiptNumber": "9-5-2024-0798813-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.10.28",
+        "receiptNumber": "4-1-2025-5301404-12"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220048257.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93a1a01821aa822f0745985f214f704c68478bf6466ec398f4698c4e93ab14a7d6e902e58260617a5005e11732e4d9cbe8784ce324563894e0",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf993a7418fa198a13570da16196804e90c26aeef760b6c3acbd6d554edcd7092e389447ba33ba4d6643c07bda7d65347881b08a5ec526fedd"
+  },
+  "rndInfoArray": {
+    "rndInfo": {
+      "rndDepartmentName": "보건복지부",
+      "rndDuration": "2021.07.01 ~ 2024.06.30",
+      "rndManagingInstituteName": "고려대학교 산학협력단",
+      "rndProjectName": "국가신약개발사업",
+      "rndSpecialInstituteName": "국가신약개발재단",
+      "rndTaskContribution": "1/1",
+      "rndTaskName": "혈중 반감기 및 치료용 작용기작 극대화 Fc 변이체가 도입된 암 치료용 유효 및 선도 비대칭 Anti-CD20xCD55 이중항체 도출",
+      "rndTaskNumber": "9991007727"
+    }
+  }
+}

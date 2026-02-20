@@ -1,0 +1,763 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.09.28",
+      "applicationFlag": "",
+      "applicationNumber": "10-2019-7003194",
+      "claimCount": "10",
+      "examinerName": "정지혜",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "항EGFR 와 항CD3 이중특이성항체 및 그 응용",
+      "inventionTitleEng": "ANTI-EGFR AND ANTI-CD3 BISPECIFIC ANTIBODY AND APPLICATIONS THEREOF",
+      "openDate": "2019.03.08",
+      "openNumber": "10-2019-0025004",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2019.01.30",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2020.11.18",
+      "publicationNumber": "",
+      "registerDate": "2020.11.11",
+      "registerNumber": "10-2179674-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2019.01.30"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/30"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/46"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 항EGFR와 항CD3의 이중특이성항체 및 그 응용에 관한 것으로, 상기 이중특이성항체는 종양세포표면 항원표피성장인자 수용체EGFR와 면역세포표면 항원분화클러스터3, 즉CD3분자와 특이성 결합하고, 그 중 항CD3항체의 단일사슬 항체ScFv는 항EGFR항체 고정부위의 C말단에 위치한다. 또한, 본 발명은 상기 이중특이성항체의 제조방법 및 그 임상용도를 제공한다. 상기 이중특이성항체는 비교적 높은 친화력을 구비하며 EGFR고발현 또는 이상발현으로 인한 종양질병의 치료 및 기타 EGFR고발현으로 인한 질병의 치료에 사용된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020197003194",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20190130",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "(a) 완전한 단일클론항체, (b)단일사슬항체ScFv 와 (c)링커를 포함하며; 상기(a)는 EGFR항원과 특이성결합하며 2개의 항체 중사슬과 2개의 항체 경사슬로 구성되고; 상기(b)는 면역세포항원 CD3과 특이성결합하며, 상기(b)는 2개의 단일사슬항체ScFv이며; 상기(b)의 2개의 단일사슬항체ScFv는 각각 상기(c) 링커linker를 통해 상기(a)의 2개의 중사슬의 C말단과 연결되는 것을 특징으로 하는 이중특이성 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1에 있어서, 상기(c)링커linker의 아미노산 시퀀스는 (GGGGX)n, 그 중X는 Gly 또는 Ser ; n은 1-4의 자연수인 것을 특징으로 하는 이중특이성 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항2에 있어서, 상기 X는 Ser; 상기 n은3인 것을 특징으로 하는 이중특이성 항체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항1에 있어서, 상기 (a)완전한 단일클론항체의 중사슬 가변부위와 경사슬가변부위의 아미노산 시퀀스는 SEQ ID NO 1와 SEQ ID NO 4, SEQ ID NO 2와 SEQ ID NO 5 또는 SEQ ID NO 3와 SEQ ID NO 6 세가지 조합중의 어느 하나인 것을 특징으로 하는 이중특이성 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항1에 있어서, 상기 (b)2개의 단일사슬항체ScFv의 아미노산 시퀀스는 모두 SEQ ID NO 7인 것을 특징으로 하는 이중특이성 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항1에 있어서, 상기 (b)단일사슬항체ScFv의 중사슬 가변부위의 아미노산 시퀀스는 SEQ ID NO 8, 상기 (b)단일사슬항체ScFv의 경사슬 가변부위의 아미노산 시퀀스는 SEQ ID NO 9인 것을 특징으로 하는 이중특이성 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항1에 있어서, 상기 (a)완전한 단일클론항체의 중사슬 고정부위는 IgG1, IgG2, IgG3또는 IgG4중의 어느 하나인 것을 특징으로 하는 이중특이성 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1 내지 7중 임의의 한 항의 이중특이성항체를 포함하는 것을 특징으로 하는 항체, 폴리펩티드 또는 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "암호가 청구항 1 내지 7중 임의의 한 항의 이중특이성항체를 포함하는 것을 특징으로 하는 폴리뉴클레오타이드 시퀀스 또는 그 조합.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항9의 폴리뉴클레오타이드 시퀀스 또는 그 조합을 포함하는 것을 특징으로 하는 재조합 DNA발현 벡터.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항10의 재조합 DNA발현 벡터의 형질주입시에 사용되며, 원핵세포, 효모 또는 포유동물세포를 포함하는 것을 특징으로 하는 숙주 세포.",
+          "refers_to": [
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "청구항 1 내지 7중 임의의 한 항의 이중특이성항체를 포함하는 것을 특징으로 하는 약물 또는 약물조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "EGFR항원 특이성발현으로 인한 종양질병 또는 기타 질병을 치료하는 약물의 제조에서의 청구항 1 내지 7중 임의의 한 항의 이중특이성항체의 용도.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20200622",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 13,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "(a) 완전한 단일클론항체, (b) 단일사슬항체 ScFv와 (c) 링커를 포함하며; 상기 (a)는 EGFR 항원과 특이성 결합하며 2개의 항체 중사슬과 2개의 항체 경사슬로 구성되고; 상기(b)는 면역세포항원 CD3와 특이성 결합하며, 상기 (b)는 2개의 단일사슬항체 ScFv이며; 상기 (b)의 2개의 단일사슬항체 ScFv는 각각 상기 (c) 링커 linker를 통해 상기 (a)의 2개의 중사슬의 C말단과 연결되고,상기 (a) 완전한 단일클론항체의 중사슬 가변부위와 경사슬 가변부위의 아미노산 시퀀스는 SEQ ID NO 1 및 SEQ ID NO 4; SEQ ID NO 2 및 SEQ ID NO 5; 또는 SEQ ID NO 3 및 SEQ ID NO 6;의 세 가지 조합 중의 어느 하나이며, 상기 (b) 2개의 단일사슬항체 ScFv의 아미노산 시퀀스는 모두 SEQ ID NO 7이거나, 또는 상기 (b) 단일사슬항체 ScFv의 중사슬 가변부위의 아미노산 시퀀스는 SEQ ID NO 8이고 상기 (b) 단일사슬항체 ScFv의 경사슬 가변부위의 아미노산 시퀀스는 SEQ ID NO 9인 것을 특징으로 하는 이중특이성 항체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 (c) 링커 linker의 아미노산 시퀀스는 (GGGGX)n, 그 중 X는 Ala 또는 Ser; n은 1-4의 자연수인 것을 특징으로 하는 이중특이성 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서, 상기 X는 Ser; 상기 n은 3인 것을 특징으로 하는 이중특이성 항체.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 (a) 완전한 단일클론항체의 중사슬 고정부위는 IgG1, IgG2, IgG3 또는 IgG4 중의 어느 하나인 것을 특징으로 하는 이중특이성 항체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 한 항의 이중특이성항체를 포함하는 것을 특징으로 하는 단백질.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 한 항의 이중특이성항체를 암호화하는 것(encoding)을 특징으로 하는 폴리뉴클레오타이드.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항의 폴리뉴클레오타이드를 포함하는 것을 특징으로 하는 재조합 DNA 발현 벡터.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항의 재조합 DNA 발현 벡터의 형질주입시에 사용되며, 원핵세포, 효모 또는 포유동물세포를 포함하는 것을 특징으로 하는 숙주 세포.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 한 항의 이중특이성항체를 포함하는 것을 특징으로 하는 종양질병을 치료하는 약물 또는 약물 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제4항 중 어느 한 항의 이중특이성항체에 의해 EGFR 항원 특이성 발현으로 인한 콜로이드 세포종, 폐암, 전립선암, 췌장암을 포함하는 종양질병을 치료하는 약물을 제조하는 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20190130",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "(a) 완전한 단일클론항체, (b)단일사슬항체ScFv 와 (c)링커를 포함하며; 상기(a)는 EGFR항원과 특이성결합하며 2개의 항체 중사슬과 2개의 항체 경사슬로 구성되고; 상기(b)는 면역세포항원 CD3과 특이성결합하며, 상기(b)는 2개의 단일사슬항체ScFv이며; 상기(b)의 2개의 단일사슬항체ScFv는 각각 상기(c) 링커linker를 통해 상기(a)의 2개의 중사슬의 C말단과 연결되는 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1에 있어서, 상기(c)링커linker의 아미노산 시퀀스는 (GGGGX)n, 그 중X는 Gly 또는 Ser ; n은 1-4의 자연수인 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항2에 있어서, 상기 X는 Ser; 상기 n은3인 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항1에 있어서, 상기 (a)완전한 단일클론항체의 중사슬 가변부위와 경사슬가변부위의 아미노산 시퀀스는 SEQ ID NO 1와 SEQ ID NO 4, SEQ ID NO 2와 SEQ ID NO 5 또는 SEQ ID NO 3와 SEQ ID NO 6 세가지 조합중의 어느 하나인 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항1에 있어서, 상기 (b)2개의 단일사슬항체ScFv의 아미노산 시퀀스는 모두 SEQ ID NO 7인 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항1에 있어서, 상기 (b)단일사슬항체ScFv의 중사슬 가변부위의 아미노산 시퀀스는 SEQ ID NO 8, 상기 (b)단일사슬항체ScFv의 경사슬 가변부위의 아미노산 시퀀스는 SEQ ID NO 9인 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항1에 있어서, 상기 (a)완전한 단일클론항체의 중사슬 고정부위는 IgG1, IgG2, IgG3또는 IgG4중의 어느 하나인 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1 내지 7중 임의의 한 항의 이중특이성항체를 포함하는 것을 특징으로 하는 항체, 폴리펩티드 또는 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "암호가 청구항 1 내지 7중 임의의 한 항의 이중특이성항체를 포함하는 것을 특징으로 하는 폴리뉴클레오타이드 시퀀스 또는 그 조합.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항9의 폴리뉴클레오타이드 시퀀스 또는 그 조합을 포함하는 것을 특징으로 하는 재조합 DNA발현 벡터.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항10의 재조합 DNA발현 벡터의 형질주입시에 사용되며, 원핵세포, 효모 또는 포유동물세포를 포함하는 것을 특징으로 하는 숙주 세포.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "청구항 1 내지 7중 임의의 한 항의 이중특이성항체를 포함하는 것을 특징으로 하는 약물 또는 약물조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "EGFR항원 특이성발현으로 인한 종양질병 또는 기타 질병을 치료하는 약물의 제조에서의 청구항 1 내지 7중 임의의 한 항의 이중특이성항체의 용도.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20190130",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 2,
+        "claims": [
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1에 있어서, 상기(c)링커linker의 아미노산 시퀀스는 (GGGGX)n, 그 중X는 Ala 또는 Ser ; n은 1-4의 자연수인 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "청구항 1 내지 7중 임의의 한 항의 이중특이성항체에 의해 EGFR항원 특이성발현으로 인한 종양질병 또는 기타 질병을 치료하는 약물을 제조하는 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20200622",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(a) 완전한 단일클론항체, (b) 단일사슬항체 ScFv와 (c) 링커를 포함하며; 상기 (a)는 EGFR 항원과 특이성 결합하며 2개의 항체 중사슬과 2개의 항체 경사슬로 구성되고; 상기(b)는 면역세포항원 CD3와 특이성 결합하며, 상기 (b)는 2개의 단일사슬항체 ScFv이며; 상기 (b)의 2개의 단일사슬항체 ScFv는 각각 상기 (c) 링커 linker를 통해 상기 (a)의 2개의 중사슬의 C말단과 연결되고,\n상기 (a) 완전한 단일클론항체의 중사슬 가변부위와 경사슬 가변부위의 아미노산 시퀀스는 SEQ ID NO 1 및 SEQ ID NO 4; SEQ ID NO 2 및 SEQ ID NO 5; 또는 SEQ ID NO 3 및 SEQ ID NO 6;의 세 가지 조합 중의 어느 하나이며, \n상기 (b) 2개의 단일사슬항체 ScFv의 아미노산 시퀀스는 모두 SEQ ID NO 7이거나, 또는 상기 (b) 단일사슬항체 ScFv의 중사슬 가변부위의 아미노산 시퀀스는 SEQ ID NO 8이고 상기 (b) 단일사슬항체 ScFv의 경사슬 가변부위의 아미노산 시퀀스는 SEQ ID NO 9인 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, \n상기 (c) 링커 linker의 아미노산 시퀀스는 (GGGGX)n, 그 중 X는 Ala 또는 Ser; n은 1-4의 자연수인 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, \n상기 X는 Ser; 상기 n은 3인 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, \n상기 (a) 완전한 단일클론항체의 중사슬 고정부위는 IgG1, IgG2, IgG3 또는 IgG4 중의 어느 하나인 것을 특징으로 하는 이중특이성 항체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항의 이중특이성항체를 포함하는 것을 특징으로 하는 단백질.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항의 이중특이성항체를 암호화하는 것(encoding)을 특징으로 하는 폴리뉴클레오타이드.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항의 폴리뉴클레오타이드를 포함하는 것을 특징으로 하는 재조합 DNA 발현 벡터.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항의 재조합 DNA 발현 벡터의 형질주입시에 사용되며, 원핵세포, 효모 또는 포유동물세포를 포함하는 것을 특징으로 하는 숙주 세포.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항의 이중특이성항체를 포함하는 것을 특징으로 하는 종양질병을 치료하는 약물 또는 약물 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제4항 중 어느 한 항의 이중특이성항체에 의해 EGFR 항원 특이성 발현으로 인한 콜로이드 세포종, 폐암, 전립선암, 췌장암을 포함하는 종양질병을 치료하는 약물을 제조하는 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 13,
+      "after_claim_count": 13,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2018.04.19",
+      "internationOpenNumber": "WO2018068652",
+      "internationalApplicationDate": "2017.09.28",
+      "internationalApplicationNumber": "PCT/CN2017/103896"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "중국, ****** 베이징, 베이징 이코노믹-테크놀로지칼 디벨롭먼트 에어리어, 롱징 이스트 로드 넘버*, 빌딩 *, 룸 ***",
+        "code": "520120431609",
+        "country": "중국",
+        "engName": "BEIJING DONGFANG BIOTECH CO., LTD",
+        "name": "베이징 동팡 바이오테크 컴퍼니 리미티드"
+      },
+      {
+        "address": "중국 ****** 베이징 베이징 이코노믹-테크놀로지칼 디벨롭먼트 에어리어 롱징 이스트 로드 넘버 * 빌딩 * 플로어 * 룸 **-***",
+        "code": "520170077272",
+        "country": "중국",
+        "engName": "BEIJING JINGYITAIXIANG TECHNOLOGY DEVELOPMENT CO., LTD.",
+        "name": "베이징 징이타이시앙 테크놀로지 디벨롭먼트 컴퍼니 리미티드"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "중국 ****** 베이징 다싱 디스트릭트 베이징 이코노...",
+        "code": "",
+        "country": "",
+        "engName": "BAI, Yi",
+        "name": "바이, 이"
+      },
+      {
+        "address": "중국 ****** 베이징 다싱 디스트릭트 베이징 이코노...",
+        "code": "",
+        "country": "",
+        "engName": "ZHANG, Wen",
+        "name": "장, 웬"
+      },
+      {
+        "address": "중국 ****** 베이징 다싱 디스트릭트 베이징 이코노...",
+        "code": "",
+        "country": "",
+        "engName": "XU, Meng",
+        "name": "쉬, 멩"
+      },
+      {
+        "address": "중국 ****** 베이징 다싱 디스트릭트 베이징 이코노...",
+        "code": "",
+        "country": "",
+        "engName": "PEI, Shuang",
+        "name": "페이, 슈앙"
+      },
+      {
+        "address": "중국 ****** 베이징 다싱 디스트릭트 베이징 이코노...",
+        "code": "",
+        "country": "",
+        "engName": "ZAN, Yanlu",
+        "name": "젠, 얀루"
+      },
+      {
+        "address": "중국 ****** 베이징 다싱 디스트릭트 베이징 이코노...",
+        "code": "",
+        "country": "",
+        "engName": "WEN, Shengmei",
+        "name": "웬, 솅메이"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 언주로 ***, *층(역삼동,화물재단빌딩)",
+      "code": "920071000614",
+      "country": "대한민국",
+      "engName": "MUHANN PATENT & LAW FIRM",
+      "name": "특허법인무한"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "중국",
+      "priorityApplicationDate": "2016.10.11",
+      "priorityApplicationNumber": "201610886938.7"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2016115274 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Cancer Immunol. Immunother., 53:497-509(2004)(2003.11.25. 온라인 게재일)",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2019.01.30",
+        "receiptNumber": "1-1-2019-0111428-67"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.01.30",
+        "receiptNumber": "1-1-2019-0111742-99"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2019.02.07",
+        "receiptNumber": "1-5-2019-0021913-59"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.04.29",
+        "receiptNumber": "9-5-2020-0302263-15"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.06.22",
+        "receiptNumber": "1-1-2020-0640005-45"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.06.22",
+        "receiptNumber": "1-1-2020-0640004-00"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2020.10.30",
+        "receiptNumber": "9-5-2020-0751875-56"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.08.26",
+        "receiptNumber": "4-1-2022-5200100-32"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020197003194.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e00344d7c81d6a622b840849fcd226603604d5911b8404a5a25b3eea21303f53b50634dfb71ba9c3b424b98cb6546cb9b5b46cac98b3481aef1",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfbc7ea151ea8c059e6b10460a331584e5bfa5b2550945d12702962b0120ca2afef65a4ac48bdb5a3d666053e9f45044b64b0293e021d69be6"
+  },
+  "rndInfoArray": ""
+}

@@ -1,0 +1,696 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2022.08.08",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-0098653",
+      "claimCount": "4",
+      "examinerName": "",
+      "finalDisposal": "거절결정 후 재심사중",
+      "inventionTitle": "PAD 저해제를 포함하는 퇴행성 판막 질환의 예방 또는 치료용 조성물",
+      "inventionTitleEng": "Composition for preventing or treating degenerative  valve diseases comprising PAD inhibitors",
+      "openDate": "2024.02.16",
+      "openNumber": "10-2024-0020754",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.08.08",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/713"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 9/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 대동맥판막 협착증을 비롯한 퇴행성 판막 질환의 예방 내지 치료를 위한 약학적 조성물에 관한 것으로서, 대동맥판막 환자 유래 판막세포에서 PAD (protein-arginine deiminase) 단백질을 억제하였을 때, 석회화 또는 골분화, 섬유화, 염증 등이 효과적으로 억제되는 것을 확인하여 완성된 것이다. 즉, 본 발명은 퇴행성 판막 질환의 주요 병리기전인 판막 조직의 석회화 또는 골분화, 섬유화, 및 염증을 동시에 억제하므로 퇴행성 판막 질환의 근본적인 치료가 가능한 바, 판막의 퇴행성 변형으로 유발되는 다양한 질환의 치료제로 활용 가능할 것으로 기대된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020220098653",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220808",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "PAD (protein-arginine deiminase) 저해제를 유효성분으로 포함하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 저해제는 PAD 단백질의 활성 억제제 또는 PAD 유전자의 발현 억제제인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\n상기 활성 억제제는 PAD 단백질에 특이적으로 결합하는 화합물 또는 이의 약학적으로 허용 가능한 염, 펩티드, 펩티드모방체, 기질유사체, 앱타머, 및 항체로 이루어진 군에서 선택된 하나 이상인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\n상기 발현 억제제는 PAD 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 안티센스 올리고뉴클레오티드, 작은 간섭 RNA (siRNA), 짧은 헤어핀 RNA (shRNA), 마이크로RNA (miRNA), 및 RNA 간섭 (RNAi) 분자로 이루어진 군에서 선택된 하나 이상인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서,\n상기 siRNA는 서열번호 1 내지 8로 이루어진 군에서 선택된 하나 이상의 염기 서열을 포함하는 것인, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 판막은 대동맥판막인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 퇴행성 판막 질환은 심장판막질환 (valvular heart disease), 대동맥판막 협착증 (aortic stenosis), 대동맥판막 폐쇄부전증 (aortic insufficiency), 승모판막 협착증 (mitral stenosis), 및 승모판 기능부전 (mitral insufficiency)으로 이루어진 군에서 선택된 하나 이상인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 조성물은 하기로 이루어진 군에서 선택된 하나 이상의 특징을 만족하는 것인, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물:\n(a) 판막 조직의 석회화 또는 골분화를 억제함;\n(b) 판막 조직의 섬유화를 억제함; 및\n(c) 판막 조직의 염증을 억제함.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 조성물은 MCP1, CTGF, COL1A1, COL3A1, α-SMA, RUNX2, 및 BMP6로 이루어진 군에서 선택된 하나 이상의 수준이 증가된 환자의 퇴행성 판막 질환을 치료하기 위한 것인, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항의 약학적 조성물을 포함하는, 퇴행성 판막 질환의 예방 또는 치료용 키트.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20251017",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 10,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "PAD (protein-arginine deiminase) 저해제를 유효성분으로 포함하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 저해제는 PAD 단백질의 활성 억제제 또는 PAD 유전자의 발현 억제제인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서,상기 활성 억제제는 PAD 단백질에 특이적으로 결합하는 화합물 또는 이의 약학적으로 허용 가능한 염, 펩티드, 펩티드모방체, 기질유사체, 앱타머, 및 항체로 이루어진 군에서 선택된 하나 이상인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서,상기 발현 억제제는 PAD 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 안티센스 올리고뉴클레오티드, 작은 간섭 RNA (siRNA), 짧은 헤어핀 RNA (shRNA), 마이크로RNA (miRNA), 및 RNA 간섭 (RNAi) 분자로 이루어진 군에서 선택된 하나 이상인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서,상기 siRNA는 서열번호 1 내지 8로 이루어진 군에서 선택된 하나 이상의 염기 서열을 포함하는 것인, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 판막은 대동맥판막인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 퇴행성 판막 질환은 심장판막질환 (valvular heart disease), 대동맥판막 협착증 (aortic stenosis), 대동맥판막 폐쇄부전증 (aortic insufficiency), 승모판막 협착증 (mitral stenosis), 및 승모판 기능부전 (mitral insufficiency)으로 이루어진 군에서 선택된 하나 이상인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 조성물은 하기로 이루어진 군에서 선택된 하나 이상의 특징을 만족하는 것인, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물:(a) 판막 조직의 석회화 또는 골분화를 억제함;(b) 판막 조직의 섬유화를 억제함; 및(c) 판막 조직의 염증을 억제함.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 조성물은 MCP1, CTGF, COL1A1, COL3A1, α-SMA, RUNX2, 및 BMP6로 이루어진 군에서 선택된 하나 이상의 수준이 증가된 환자의 퇴행성 판막 질환을 치료하기 위한 것인, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제9항 중 어느 한 항의 약학적 조성물을 포함하는, 퇴행성 판막 질환의 예방 또는 치료용 키트.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220808",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 10,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "PAD (protein-arginine deiminase) 저해제를 유효성분으로 포함하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 저해제는 PAD 단백질의 활성 억제제 또는 PAD 유전자의 발현 억제제인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\n상기 활성 억제제는 PAD 단백질에 특이적으로 결합하는 화합물 또는 이의 약학적으로 허용 가능한 염, 펩티드, 펩티드모방체, 기질유사체, 앱타머, 및 항체로 이루어진 군에서 선택된 하나 이상인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\n상기 발현 억제제는 PAD 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 안티센스 올리고뉴클레오티드, 작은 간섭 RNA (siRNA), 짧은 헤어핀 RNA (shRNA), 마이크로RNA (miRNA), 및 RNA 간섭 (RNAi) 분자로 이루어진 군에서 선택된 하나 이상인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서,\n상기 siRNA는 서열번호 1 내지 8로 이루어진 군에서 선택된 하나 이상의 염기 서열을 포함하는 것인, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 판막은 대동맥판막인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 퇴행성 판막 질환은 심장판막질환 (valvular heart disease), 대동맥판막 협착증 (aortic stenosis), 대동맥판막 폐쇄부전증 (aortic insufficiency), 승모판막 협착증 (mitral stenosis), 및 승모판 기능부전 (mitral insufficiency)으로 이루어진 군에서 선택된 하나 이상인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 조성물은 하기로 이루어진 군에서 선택된 하나 이상의 특징을 만족하는 것인, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물:\n(a) 판막 조직의 석회화 또는 골분화를 억제함;\n(b) 판막 조직의 섬유화를 억제함; 및\n(c) 판막 조직의 염증을 억제함.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 조성물은 MCP1, CTGF, COL1A1, COL3A1, α-SMA, RUNX2, 및 BMP6로 이루어진 군에서 선택된 하나 이상의 수준이 증가된 환자의 퇴행성 판막 질환을 치료하기 위한 것인, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항의 약학적 조성물을 포함하는, 퇴행성 판막 질환의 예방 또는 치료용 키트.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20250115",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 7,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "PAD (protein-arginine deiminase) 저해제를 유효성분으로 포함하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물로서,\n상기 저해제는 PAD 단백질의 활성 억제제 또는 PAD 유전자의 발현 억제제이고,\n상기 활성 억제제는 PAD 단백질에 특이적으로 결합하는 화합물 또는 이의 약학적으로 허용 가능한 염, 펩티드, 펩티드모방체, 기질유사체, 앱타머, 및 항체로 이루어진 군에서 선택된 하나 이상인 것이며,\n상기 발현 억제제는 PAD 유전자의 mRNA에 상보적으로 결합하는 안티센스 뉴클레오티드, 안티센스 올리고뉴클레오티드, 작은 간섭 RNA (siRNA), 짧은 헤어핀 RNA (shRNA), 마이크로RNA (miRNA), 및 RNA 간섭 (RNAi) 분자로 이루어진 군에서 선택된 하나 이상인 것이고,\n상기 퇴행성 판막 질환은 대동맥판막 협착증 (aortic stenosis)인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 siRNA는 서열번호 1 내지 8로 이루어진 군에서 선택된 하나 이상의 염기 서열을 포함하는 것인, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제5항, 제6항, 제8항, 및 제9항 중 어느 한 항의 약학적 조성물을 포함하는, 퇴행성 판막 질환의 예방 또는 치료용 키트로서,\n상기 퇴행성 판막 질환은 대동맥판막 협착증 (aortic stenosis)인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 키트.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20251017",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 4,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "PAD (protein-arginine deiminase) 2 저해제를 유효성분으로 포함하는, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물로서,\n상기 저해제는 PAD 2 유전자의 발현 억제제이고,\n상기 발현 억제제는 작은 간섭 RNA (siRNA)인 것이며,\n상기 siRNA는 서열번호 3 내지 6으로 이루어진 군에서 선택된 하나 이상의 염기 서열을 포함하는 것이고,\n상기 퇴행성 판막 질환은 대동맥판막 협착증 (aortic stenosis)인 것이며,\n상기 조성물은 하기로 이루어진 군에서 선택된 하나 이상의 특징을 만족하는 것인, 퇴행성 판막 질환의 예방 또는 치료용 약학적 조성물:\n(a) 판막 조직의 석회화 또는 골분화를 억제함;\n(b) 판막 조직의 섬유화를 억제함; 및\n(c) 판막 조직의 염증을 억제함.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항, 제6항, 및 제9항 중 어느 한 항의 약학적 조성물을 포함하는, 퇴행성 판막 질환의 예방 또는 치료용 키트로서,\n상기 퇴행성 판막 질환은 대동맥판막 협착증 (aortic stenosis)인 것을 특징으로 하는, 퇴행성 판막 질환의 예방 또는 치료용 키트.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 10,
+      "after_claim_count": 4,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "서울특별시 송파구...",
+        "code": "219950162419",
+        "country": "대한민국",
+        "engName": "THE ASAN FOUNDATION",
+        "name": "재단법인 아산사회복지재단"
+      },
+      {
+        "address": "울산광역시 남구...",
+        "code": "220050145092",
+        "country": "대한민국",
+        "engName": "University of Ulsan Foundation For Industry Cooperation",
+        "name": "울산대학교 산학협력단"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "서울특별시 강남구...",
+        "code": "",
+        "country": "",
+        "engName": "Lee, Sahmin",
+        "name": "이사민"
+      },
+      {
+        "address": "서울특별시 광진구...",
+        "code": "",
+        "country": "",
+        "engName": "Ji, Eunhye",
+        "name": "지은혜"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 테헤란로 ***, **층 (삼성동,본솔빌딩)(명진국제특허법률사무소)",
+      "code": "920030002203",
+      "country": "대한민국",
+      "engName": "Lee, Myoung-Jin",
+      "name": "이명진"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "US20180271953 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "JP2018503685 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20180136232 A1",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2022.08.08",
+        "receiptNumber": "1-1-2022-0827406-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.08.09",
+        "receiptNumber": "1-1-2022-0831655-06"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2022.08.19",
+        "receiptNumber": "1-5-2022-0123555-69"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2022.08.22",
+        "receiptNumber": "1-1-2022-0874442-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.04.18",
+        "receiptNumber": "4-1-2023-5095011-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.04.18",
+        "receiptNumber": "4-1-2023-5095017-43"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.10.08",
+        "receiptNumber": "4-1-2024-5294335-59"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2024.11.15",
+        "receiptNumber": "9-5-2024-0979185-90"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.01.15",
+        "receiptNumber": "1-1-2025-0057112-96"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.01.15",
+        "receiptNumber": "1-1-2025-0057143-01"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.01.20",
+        "receiptNumber": "4-1-2025-5016240-13"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.01.20",
+        "receiptNumber": "4-1-2025-5016251-15"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.06.11",
+        "receiptNumber": "4-1-2025-5157322-76"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2025.07.16",
+        "receiptNumber": "9-5-2025-0675060-85"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.10.17",
+        "receiptNumber": "1-1-2025-1164151-77"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2025.10.17",
+        "receiptNumber": "1-1-2025-1164163-14"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020220098653.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93794dc8e0954e3ccb879e1900d639dc6945b5a8b73c830d7ccb63c9691405d3cf48ed777d3079fdb81e9dbda9d0a2c673fe7788e63798d3cf",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf08a0069f2a49f82829b47361fedbcc316e54ab16967bc7e1abfa3f03a5628875d2227eec10c50382fdad36d1fbb215787c869982fc190c85"
+  },
+  "rndInfoArray": {
+    "rndInfo": [
+      {
+        "rndDepartmentName": "교육부",
+        "rndDuration": "2019.06.01 ~ 2023.05.31",
+        "rndManagingInstituteName": "울산대학교",
+        "rndProjectName": "이공학학술연구기반구축",
+        "rndSpecialInstituteName": "한국연구재단",
+        "rndTaskContribution": "2/3",
+        "rndTaskName": "세포소기관 선택적 자가포식 기능 조절을 통한 노화성 난치 심장병 극복 연구",
+        "rndTaskNumber": "1345348493"
+      },
+      {
+        "rndDepartmentName": "보건복지부",
+        "rndDuration": "2020.07.16 ~ 2028.12.31",
+        "rndManagingInstituteName": "서울아산병원",
+        "rndProjectName": "연구중심병원 육성 R＆D",
+        "rndSpecialInstituteName": "한국보건산업진흥원",
+        "rndTaskContribution": "1/3",
+        "rndTaskName": "고위험 환자 최적진료를 위한 차세대 융합 케어기술 개발 및 사업화",
+        "rndTaskNumber": "1465035636"
+      }
+    ]
+  }
+}

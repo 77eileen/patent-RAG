@@ -1,0 +1,1403 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.03.27",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7034731",
+      "claimCount": "20",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "KRAS 관련 질환 또는 장애를 치료하기 위한 조성물 및 방법",
+      "inventionTitleEng": "COMPOSITIONS AND METHODS FOR THE TREATMENT OF KRAS ASSOCIATED DISEASES OR DISORDERS",
+      "openDate": "2021.12.01",
+      "openNumber": "10-2021-0145213",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.03.23",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2021.10.26"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/713"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 31/519"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 45/06"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 15/113"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 명세서에는 치료적 유효량의 KRAS 핵산 저해제 분자 및 치료적 유효량의 MEK 저해제 또는 면역치료제를 대상체에게 투여하는 것을 포함하는, 대상체의 KRAS 관련 암을 치료하는 방법이 제공된다. 또한, 본 명세서에는 KRAS 관련 암을 갖는 대상체에게 KRAS 핵산 저해제 분자를 암에 대한 면역치료제의 치료 효과를 강화시키기에 충분한 양으로 투여하는 것을 포함하는, KRAS 관련 암에 대한 면역치료제의 치료 효과를 강화시키는 방법도 개시된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217034731",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20211026",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 27,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체의 KRAS 관련 암을 치료하는 방법으로서, 상기 대상체에게\n 치료적 유효량의 KRAS 핵산 저해제 분자; 및\n 치료적 유효량의 MEK 저해제\n를 투여하는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 MEK 저해제가 트라메티닙(trametinib)인, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, 상기 KRAS 관련 암이 KRAS 핵산 저해제 분자의 투여 전에 MEK 저해제에 의한 처리에 내성인, 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "KRAS 관련 암에 대한 면역치료제의 치료 효과를 강화시키는 방법으로서, 상기 KRAS 관련 암을 갖는 대상체에게 KRAS 핵산 저해제 분자를 상기 암에 대한 상기 면역치료제의 치료 효과를 강화시키기에 충분한 양으로 를투여하는 단계 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 KRAS 핵산 저해제 분자를 투여하기 전에, 상기 KRAS 관련 암은 면역요법에 내성인 비-T 세포 염증성 표현형과 관련이 있고, 상기 KRAS 핵산 저해제 분자의 투여는 상기 비-T 세포 염증성 표현형을 면역 치료제에 반응성인 T 세포 염증성 표현형으로 변환시키는, 방법.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 종양 미세환경에서 기질 마커를 감소시키는 작용제를 투여하는 것을 추가로 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 종양 미세환경에서 기질 마커를 감소시키는 작용제가 TGF-β 저해제 또는 CSF1 저해제인, 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "대상체의 KRAS 관련 암을 치료하는 방법으로서, 상기 대상체에게\n치료적 유효량의 KRAS 핵산 저해제 분자, 및\n치료적 유효량의 면역치료제\n를 투여하는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제8항 중 어느 한 항에 있어서, 상기 면역치료제가 저해성 면역 관문 분자의 길항제 또는 공동자극 관문 분자의 작동제(agonist)인, 방법.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서, 상기 면역치료제가 저해성 관문의 길항제이고, 상기 저해성 관문은 PD-1 또는 PD-L1인, 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 또는 제10항에 있어서, 상기 저해성 면역 관문 분자의 길항제 또는 상기 공동자극 관문 분자의 작동제가 단클론 항체인, 방법.",
+          "refers_to": [
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 상기 KRAS 관련 암이 췌장암인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 상기 KRAS 핵산 저해제 분자가 센스 가닥 및 안티센스 가닥, 및 상기 센스 가닥과 상기 안티센스 가닥 사이의 약 15-45개 염기상의 상보성 영역을 포함하는 이중 가닥 RNAi 저해제 분자인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 센스 가닥이 25 내지 40개 뉴클레오타이드이고 줄기 및 루프를 함유하고, 상기 안티센스 가닥이 18 내지 24개 뉴클레오타이드이고 선택적으로 이 가닥의 3'-말단에 1 내지 2개 뉴클레오타이드의 단일 가닥 돌출부(overhang)를 포함하며, 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 염기쌍의 이본쇄 영역을 형성하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역이 21 내지 26개의 뉴클레오타이드이고, 상기 센스 가닥은 21 내지 26개의 뉴클레오타이드 길이이고, 상기 안티센스 가닥은 23 내지 38개의 뉴클레오타이드 길이이며 이 가닥의 3'-말단에 1 내지 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제15항에 있어서, 상기 안티센스 가닥이 이의 5'-말단에 1 내지 5개 뉴클레오타이드의 단일 가닥 돌출부를 추가로 포함하는, 방법.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서,\na) 상기 센스 가닥은 26 내지 36개 뉴클레오타이드이고 줄기 및 테트라루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하고;\nb) 상기 센스 가닥은 34 내지 36개 뉴클레오타이드이고 줄기 및 테트라루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하고;\nc) 상기 센스 가닥은 34 내지 36개 뉴클레오타이드이고 줄기 및 테트라루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하고; 또는\nd) 상기 센스 가닥은 25 내지 35개 뉴클레오타이드이고 줄기 및 트라이루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역은 19개 뉴클레오타이드이고, 여기서 상기 센스 가닥은 21개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하고, 상기 안티센스 가닥은 21개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역은 21개 뉴클레오타이드이고, 여기서 상기 센스 가닥은 21개 뉴클레오타이드 길이이고 상기 안티센스 가닥은 23개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제19항 중 어느 한 항에 있어서, 상기 KRAS 핵산 저해제 분자가 지질 나노입자에 의해 제형화되는 방법 또는 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제20항에 있어서, 상기 지질 나노입자가 양이온성 지질 및 페길화된 지질을 포함하는, 방법.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 센스 가닥이 서열번호 13의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항 또는 제22항에 있어서, 상기 안티센스 가닥이 서열번호 14 또는 서열번호 18의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            13,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 상기 센스 가닥이 서열번호 15의 하나의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항 또는 제24항에 있어서, 상기 안티센스 센스 가닥이 서열번호 16 또는 19 중 하나의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            14,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서,\n(a) 상기 센스 가닥은 서열번호 3의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 4의 서열을 포함하거나 이것으로 이루어지며;\n(b) 상기 센스 가닥은 서열번호 1의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 2의 서열을 포함하거나 이것으로 이루어지며; 또는\n(c) 상기 센스 가닥은 서열번호 5의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 6의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서,\n(a) 상기 센스 가닥은 서열번호 7의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 8의 서열을 포함하거나 이것으로 이루어지며;\n(b) 상기 센스 가닥은 서열번호 9의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 10의 서열을 포함하거나 이것으로 이루어지며;\n(c) 상기 센스 가닥은 서열번호 11의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 12의 서열을 포함하거나 이것으로 이루어지며;\n(d) 상기 센스 가닥은 서열번호 7의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 17의 서열을 포함하거나 이것으로 이루어지며;\n(e) 상기 센스 가닥은 서열번호 13의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 18의 서열을 포함하거나 이것으로 이루어지며;\n(f) 상기 센스 가닥은 서열번호 15의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 19의 서열을 포함하거나 이것으로 이루어지며;\n(g) 상기 센스 가닥은 서열번호 13의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 14의 서열을 포함하거나 이것으로 이루어지며; 또는\n(h) 상기 센스 가닥은 서열번호 15의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 16의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            14
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20230323",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 27,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "대상체의 KRAS 관련 암을 치료하는 방법으로서, 상기 대상체에게 치료적 유효량의 KRAS 핵산 저해제 분자; 및 치료적 유효량의 MEK 저해제를 투여하는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 MEK 저해제가 트라메티닙(trametinib)인, 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 상기 KRAS 관련 암이 KRAS 핵산 저해제 분자의 투여 전에 MEK 저해제에 의한 처리에 내성인, 방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "KRAS 관련 암에 대한 면역치료제의 치료 효과를 강화시키는 방법으로서, 상기 KRAS 관련 암을 갖는 대상체에게 KRAS 핵산 저해제 분자를 상기 암에 대한 상기 면역치료제의 치료 효과를 강화시키기에 충분한 양으로 를투여하는 단계 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 KRAS 핵산 저해제 분자를 투여하기 전에, 상기 KRAS 관련 암은 면역요법에 내성인 비-T 세포 염증성 표현형과 관련이 있고, 상기 KRAS 핵산 저해제 분자의 투여는 상기 비-T 세포 염증성 표현형을 면역 치료제에 반응성인 T 세포 염증성 표현형으로 변환시키는, 방법.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 종양 미세환경에서 기질 마커를 감소시키는 작용제를 투여하는 것을 추가로 포함하는, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, 상기 종양 미세환경에서 기질 마커를 감소시키는 작용제가 TGF-β 저해제 또는 CSF1 저해제인, 방법.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "대상체의 KRAS 관련 암을 치료하는 방법으로서, 상기 대상체에게치료적 유효량의 KRAS 핵산 저해제 분자, 및치료적 유효량의 면역치료제를 투여하는 단계를 포함하는, 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항 내지 제8항 중 어느 한 항에 있어서, 상기 면역치료제가 저해성 면역 관문 분자의 길항제 또는 공동자극 관문 분자의 작동제(agonist)인, 방법.",
+          "refers_to": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서, 상기 면역치료제가 저해성 관문의 길항제이고, 상기 저해성 관문은 PD-1 또는 PD-L1인, 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항 또는 제10항에 있어서, 상기 저해성 면역 관문 분자의 길항제 또는 상기 공동자극 관문 분자의 작동제가 단클론 항체인, 방법.",
+          "refers_to": [
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 상기 KRAS 관련 암이 췌장암인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 상기 KRAS 핵산 저해제 분자가 센스 가닥 및 안티센스 가닥, 및 상기 센스 가닥과 상기 안티센스 가닥 사이의 약 15-45개 염기상의 상보성 영역을 포함하는 이중 가닥 RNAi 저해제 분자인, 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 센스 가닥이 25 내지 40개 뉴클레오타이드이고 줄기 및 루프를 함유하고, 상기 안티센스 가닥이 18 내지 24개 뉴클레오타이드이고 선택적으로 이 가닥의 3'-말단에 1 내지 2개 뉴클레오타이드의 단일 가닥 돌출부(overhang)를 포함하며, 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 염기쌍의 이본쇄 영역을 형성하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역이 21 내지 26개의 뉴클레오타이드이고, 상기 센스 가닥은 21 내지 26개의 뉴클레오타이드 길이이고, 상기 안티센스 가닥은 23 내지 38개의 뉴클레오타이드 길이이며 이 가닥의 3'-말단에 1 내지 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제15항에 있어서, 상기 안티센스 가닥이 이의 5'-말단에 1 내지 5개 뉴클레오타이드의 단일 가닥 돌출부를 추가로 포함하는, 방법.",
+          "refers_to": [
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서,a) 상기 센스 가닥은 26 내지 36개 뉴클레오타이드이고 줄기 및 테트라루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하고;b) 상기 센스 가닥은 34 내지 36개 뉴클레오타이드이고 줄기 및 테트라루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하고;c) 상기 센스 가닥은 34 내지 36개 뉴클레오타이드이고 줄기 및 테트라루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하고; 또는d) 상기 센스 가닥은 25 내지 35개 뉴클레오타이드이고 줄기 및 트라이루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역은 19개 뉴클레오타이드이고, 여기서 상기 센스 가닥은 21개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하고, 상기 안티센스 가닥은 21개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역은 21개 뉴클레오타이드이고, 여기서 상기 센스 가닥은 21개 뉴클레오타이드 길이이고 상기 안티센스 가닥은 23개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제19항 중 어느 한 항에 있어서, 상기 KRAS 핵산 저해제 분자가 지질 나노입자에 의해 제형화되는 방법 또는 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제20항에 있어서, 상기 지질 나노입자가 양이온성 지질 및 페길화된 지질을 포함하는, 방법.",
+          "refers_to": [
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 센스 가닥이 서열번호 13의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항 또는 제22항에 있어서, 상기 안티센스 가닥이 서열번호 14 또는 서열번호 18의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            13,
+            22
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 상기 센스 가닥이 서열번호 15의 하나의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항 또는 제24항에 있어서, 상기 안티센스 센스 가닥이 서열번호 16 또는 19 중 하나의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            14,
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서,(a) 상기 센스 가닥은 서열번호 3의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 4의 서열을 포함하거나 이것으로 이루어지며;(b) 상기 센스 가닥은 서열번호 1의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 2의 서열을 포함하거나 이것으로 이루어지며; 또는(c) 상기 센스 가닥은 서열번호 5의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 6의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서,(a) 상기 센스 가닥은 서열번호 7의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 8의 서열을 포함하거나 이것으로 이루어지며;(b) 상기 센스 가닥은 서열번호 9의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 10의 서열을 포함하거나 이것으로 이루어지며;(c) 상기 센스 가닥은 서열번호 11의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 12의 서열을 포함하거나 이것으로 이루어지며;(d) 상기 센스 가닥은 서열번호 7의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 17의 서열을 포함하거나 이것으로 이루어지며;(e) 상기 센스 가닥은 서열번호 13의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 18의 서열을 포함하거나 이것으로 이루어지며;(f) 상기 센스 가닥은 서열번호 15의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 19의 서열을 포함하거나 이것으로 이루어지며;(g) 상기 센스 가닥은 서열번호 13의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 14의 서열을 포함하거나 이것으로 이루어지며; 또는(h) 상기 센스 가닥은 서열번호 15의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 16의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+          "refers_to": [
+            14
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20211026",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 27,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체의 KRAS 관련 암을 치료하는 방법으로서, 상기 대상체에게\n 치료적 유효량의 KRAS 핵산 저해제 분자; 및\n 치료적 유효량의 MEK 저해제\n를 투여하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 MEK 저해제가 트라메티닙(trametinib)인, 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, 상기 KRAS 관련 암이 KRAS 핵산 저해제 분자의 투여 전에 MEK 저해제에 의한 처리에 내성인, 방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "KRAS 관련 암에 대한 면역치료제의 치료 효과를 강화시키는 방법으로서, 상기 KRAS 관련 암을 갖는 대상체에게 KRAS 핵산 저해제 분자를 상기 암에 대한 상기 면역치료제의 치료 효과를 강화시키기에 충분한 양으로 를투여하는 단계 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 KRAS 핵산 저해제 분자를 투여하기 전에, 상기 KRAS 관련 암은 면역요법에 내성인 비-T 세포 염증성 표현형과 관련이 있고, 상기 KRAS 핵산 저해제 분자의 투여는 상기 비-T 세포 염증성 표현형을 면역 치료제에 반응성인 T 세포 염증성 표현형으로 변환시키는, 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 종양 미세환경에서 기질 마커를 감소시키는 작용제를 투여하는 것을 추가로 포함하는, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 종양 미세환경에서 기질 마커를 감소시키는 작용제가 TGF-β 저해제 또는 CSF1 저해제인, 방법.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "대상체의 KRAS 관련 암을 치료하는 방법으로서, 상기 대상체에게\n치료적 유효량의 KRAS 핵산 저해제 분자, 및\n치료적 유효량의 면역치료제\n를 투여하는 단계를 포함하는, 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제8항 중 어느 한 항에 있어서, 상기 면역치료제가 저해성 면역 관문 분자의 길항제 또는 공동자극 관문 분자의 작동제(agonist)인, 방법.",
+            "refers_to": [
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서, 상기 면역치료제가 저해성 관문의 길항제이고, 상기 저해성 관문은 PD-1 또는 PD-L1인, 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 또는 제10항에 있어서, 상기 저해성 면역 관문 분자의 길항제 또는 상기 공동자극 관문 분자의 작동제가 단클론 항체인, 방법.",
+            "refers_to": [
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제11항 중 어느 한 항에 있어서, 상기 KRAS 관련 암이 췌장암인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제12항 중 어느 한 항에 있어서, 상기 KRAS 핵산 저해제 분자가 센스 가닥 및 안티센스 가닥, 및 상기 센스 가닥과 상기 안티센스 가닥 사이의 약 15-45개 염기상의 상보성 영역을 포함하는 이중 가닥 RNAi 저해제 분자인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 센스 가닥이 25 내지 40개 뉴클레오타이드이고 줄기 및 루프를 함유하고, 상기 안티센스 가닥이 18 내지 24개 뉴클레오타이드이고 선택적으로 이 가닥의 3'-말단에 1 내지 2개 뉴클레오타이드의 단일 가닥 돌출부(overhang)를 포함하며, 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 염기쌍의 이본쇄 영역을 형성하는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역이 21 내지 26개의 뉴클레오타이드이고, 상기 센스 가닥은 21 내지 26개의 뉴클레오타이드 길이이고, 상기 안티센스 가닥은 23 내지 38개의 뉴클레오타이드 길이이며 이 가닥의 3'-말단에 1 내지 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제15항에 있어서, 상기 안티센스 가닥이 이의 5'-말단에 1 내지 5개 뉴클레오타이드의 단일 가닥 돌출부를 추가로 포함하는, 방법.",
+            "refers_to": [
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서,\na) 상기 센스 가닥은 26 내지 36개 뉴클레오타이드이고 줄기 및 테트라루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하고;\nb) 상기 센스 가닥은 34 내지 36개 뉴클레오타이드이고 줄기 및 테트라루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하고;\nc) 상기 센스 가닥은 34 내지 36개 뉴클레오타이드이고 줄기 및 테트라루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하고; 또는\nd) 상기 센스 가닥은 25 내지 35개 뉴클레오타이드이고 줄기 및 트라이루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역은 19개 뉴클레오타이드이고, 여기서 상기 센스 가닥은 21개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하고, 상기 안티센스 가닥은 21개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역은 21개 뉴클레오타이드이고, 여기서 상기 센스 가닥은 21개 뉴클레오타이드 길이이고 상기 안티센스 가닥은 23개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제19항 중 어느 한 항에 있어서, 상기 KRAS 핵산 저해제 분자가 지질 나노입자에 의해 제형화되는 방법 또는 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제20항에 있어서, 상기 지질 나노입자가 양이온성 지질 및 페길화된 지질을 포함하는, 방법.",
+            "refers_to": [
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 센스 가닥이 서열번호 13의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항 또는 제22항에 있어서, 상기 안티센스 가닥이 서열번호 14 또는 서열번호 18의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+            "refers_to": [
+              13,
+              22
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, 상기 센스 가닥이 서열번호 15의 하나의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항 또는 제24항에 있어서, 상기 안티센스 센스 가닥이 서열번호 16 또는 19 중 하나의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+            "refers_to": [
+              14,
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서,\n(a) 상기 센스 가닥은 서열번호 3의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 4의 서열을 포함하거나 이것으로 이루어지며;\n(b) 상기 센스 가닥은 서열번호 1의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 2의 서열을 포함하거나 이것으로 이루어지며; 또는\n(c) 상기 센스 가닥은 서열번호 5의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 6의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서,\n(a) 상기 센스 가닥은 서열번호 7의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 8의 서열을 포함하거나 이것으로 이루어지며;\n(b) 상기 센스 가닥은 서열번호 9의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 10의 서열을 포함하거나 이것으로 이루어지며;\n(c) 상기 센스 가닥은 서열번호 11의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 12의 서열을 포함하거나 이것으로 이루어지며;\n(d) 상기 센스 가닥은 서열번호 7의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 17의 서열을 포함하거나 이것으로 이루어지며;\n(e) 상기 센스 가닥은 서열번호 13의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 18의 서열을 포함하거나 이것으로 이루어지며;\n(f) 상기 센스 가닥은 서열번호 15의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥은 서열번호 19의 서열을 포함하거나 이것으로 이루어지며;\n(g) 상기 센스 가닥은 서열번호 13의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 14의 서열을 포함하거나 이것으로 이루어지며; 또는\n(h) 상기 센스 가닥은 서열번호 15의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 16의 서열을 포함하거나 이것으로 이루어지는, 방법.",
+            "refers_to": [
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20230323",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 27,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "대상체의 KRAS 관련 암을 치료하기 위한 약제학적 조성물로서, \n 치료적 유효량의 KRAS 핵산 저해제 분자; 및\n 치료적 유효량의 MEK 저해제\n를 포함하는, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 MEK 저해제가 트라메티닙(trametinib)인, 약제학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서, 상기 KRAS 관련 암이 KRAS 핵산 저해제 분자의 투여 전에 MEK 저해제에 의한 처리에 내성인, 약제학적 조성물.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "KRAS 관련 암에 대한 면역치료제의 치료 효과를 강화시키기 위한 약제학적 조성물로서, KRAS 핵산 저해제 분자를 상기 암에 대한 상기 면역치료제의 치료 효과를 강화시키기에 충분한 양으로 포함하는, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 상기 KRAS 핵산 저해제 분자를 투여하기 전에, 상기 KRAS 관련 암은 면역요법에 내성인 비-T 세포 염증성 표현형과 관련이 있고, 상기 KRAS 핵산 저해제 분자의 투여는 상기 비-T 세포 염증성 표현형을 면역 치료제에 반응성인 T 세포 염증성 표현형으로 변환시키는, 약제학적 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 종양 미세환경에서 기질 마커를 감소시키는 작용제를 추가로 포함하는, 약제학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 종양 미세환경에서 기질 마커를 감소시키는 작용제가 TGF-β 저해제 또는 CSF1 저해제인, 약제학적 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "대상체의 KRAS 관련 암을 치료하기 위한 약제학적 조성물로서, \n 치료적 유효량의 KRAS 핵산 저해제 분자, 및\n 치료적 유효량의 면역치료제\n를 포함하는, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항, 제5항 및 제8항 중 어느 한 항에 있어서, 상기 면역치료제가 저해성 면역 관문 분자의 길항제 또는 공동자극 관문 분자의 작동제(agonist)인, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 면역치료제가 저해성 관문의 길항제이고, 상기 저해성 관문은 PD-1 또는 PD-L1인, 약제학적 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서, 상기 저해성 면역 관문 분자의 길항제 또는 상기 공동자극 관문 분자의 작동제가 단클론 항체인, 약제학적 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 및 제8항 중 어느 한 항에 있어서, 상기 KRAS 관련 암이 췌장암인, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 및 제8항 중 어느 한 항에 있어서, 상기 KRAS 핵산 저해제 분자가 센스 가닥 및 안티센스 가닥, 및 상기 센스 가닥과 상기 안티센스 가닥 사이의 약 15 내지 45개 염기쌍의 상보성 영역을 포함하는 이중 가닥 RNAi 저해제 분자인, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 센스 가닥이 25 내지 40개 뉴클레오타이드이고 줄기 및 루프를 함유하며, 상기 안티센스 가닥이 18 내지 24개 뉴클레오타이드이고 선택적으로 이 가닥의 3'-말단에 1 내지 2개 뉴클레오타이드의 단일 가닥 돌출부(overhang)를 포함하고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 염기쌍의 이본쇄 영역을 형성하는, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서,\na) 상기 센스 가닥은 26 내지 36개 뉴클레오타이드이고 줄기 및 테트라루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하거나;\nb) 상기 센스 가닥은 34 내지 36개 뉴클레오타이드이고 줄기 및 테트라루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하거나;\nc) 상기 센스 가닥은 25 내지 35개 뉴클레오타이드이고 줄기 및 트라이루프를 함유하며, 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드이고, 여기서 상기 센스 가닥과 상기 안티센스 가닥은 18 내지 24개 뉴클레오타이드의 이본쇄 영역을 형성하거나;\nd) 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역이 21 내지 26개의 뉴클레오타이드이고, 여기서 상기 센스 가닥은 21 내지 26개의 뉴클레오타이드 길이이고, 상기 안티센스 가닥은 23 내지 38개의 뉴클레오타이드 길이이고 이 가닥의 3'-말단에 1 내지 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하거나;\ne) 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역은 19개 뉴클레오타이드이고, 여기서 상기 센스 가닥은 21개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하고, 상기 안티센스 가닥은 21개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하거나; 또는\nf) 상기 센스 가닥과 상기 안티센스 가닥 사이의 상기 상보성 영역은 21개 뉴클레오타이드이고, 여기서 상기 센스 가닥은 21개 뉴클레오타이드 길이이고, 상기 안티센스 가닥은 23개 뉴클레오타이드 길이이고 이의 3'-말단에 2개 뉴클레오타이드의 단일 가닥 돌출부를 포함하는, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제5항 및 제8항 중 어느 한 항에 있어서, 상기 KRAS 핵산 저해제 분자가 지질 나노입자에 의해 제형화되는, 약제학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 상기 지질 나노입자가 양이온성 지질 및 페길화된 지질을 포함하는, 약제학적 조성물.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 센스 가닥이 서열번호 13의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 가닥이 서열번호 14 또는 서열번호 18의 서열을 포함하거나 이것으로 이루어지는, 약제학적 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서, 상기 센스 가닥이 서열번호 15의 하나의 서열을 포함하거나 이것으로 이루어지고, 상기 안티센스 센스 가닥이 서열번호 16 또는 19 중 하나의 서열을 포함하거나 이것으로 이루어지는, 약제학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서,\n(a) 상기 센스 가닥은 서열번호 3의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 4의 서열을 포함하거나 이것으로 이루어지거나;\n(b) 상기 센스 가닥은 서열번호 1의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 2의 서열을 포함하거나 이것으로 이루어지거나;\n(c) 상기 센스 가닥은 서열번호 5의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 6의 서열을 포함하거나 이것으로 이루어지거나;\n(d) 상기 센스 가닥은 서열번호 7의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 8의 서열을 포함하거나 이것으로 이루어지거나;\n(e) 상기 센스 가닥은 서열번호 9의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 10의 서열을 포함하거나 이것으로 이루어지거나;\n(f) 상기 센스 가닥은 서열번호 11의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 12의 서열을 포함하거나 이것으로 이루어지거나;\n(g) 상기 센스 가닥은 서열번호 7의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 17의 서열을 포함하거나 이것으로 이루어지거나;\n(h) 상기 센스 가닥은 서열번호 13의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 18의 서열을 포함하거나 이것으로 이루어지거나;\n(i) 상기 센스 가닥은 서열번호 15의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 19의 서열을 포함하거나 이것으로 이루어지거나;\n(j) 상기 센스 가닥은 서열번호 13의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 14의 서열을 포함하거나 이것으로 이루어지거나; 또는\n(k) 상기 센스 가닥은 서열번호 15의 서열을 포함하거나 이것으로 이루어지고 상기 안티센스 센스 가닥은 서열번호 16의 서열을 포함하거나 이것으로 이루어지는, 약제학적 조성물.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 27,
+      "after_claim_count": 27,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.10.08",
+      "internationOpenNumber": "WO2020205473",
+      "internationalApplicationDate": "2020.03.27",
+      "internationalApplicationNumber": "PCT/US2020/025125"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국 ***** 메사추세츠주 렉싱턴 헤이든 애비뉴 **",
+      "code": "520110323846",
+      "country": "미국",
+      "engName": "DICERNA PHARMACEUTICALS, INC.",
+      "name": "다이서나 파마수이티컬, 인크."
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "미국 ***** 메사추세츠주 렉싱턴...",
+      "code": "",
+      "country": "",
+      "engName": "GANESH, Shanthi",
+      "name": "가네쉬, 샨티"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": [
+      {
+        "address": "서울특별시 종로구 사직로*길 **, 세양빌딩 (내자동) *층(김.장법률사무소)",
+        "code": "919980003619",
+        "country": "대한민국",
+        "engName": "YANG, Young June",
+        "name": "양영준"
+      },
+      {
+        "address": "서울 중구 정동길 **-** (정동, 정동빌딩) **층(김.장법률사무소)",
+        "code": "920000001071",
+        "country": "대한민국",
+        "engName": "LEE, Sang Nam",
+        "name": "이상남"
+      }
+    ]
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "미국",
+      "priorityApplicationDate": "2019.03.29",
+      "priorityApplicationNumber": "62/826,121"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": "",
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.10.26",
+        "receiptNumber": "1-1-2021-1226467-83"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.11.04",
+        "receiptNumber": "1-5-2021-0173483-41"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.03.23",
+        "receiptNumber": "1-1-2023-0327945-32"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.03.23",
+        "receiptNumber": "1-1-2023-0327950-61"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.09.29",
+        "receiptNumber": "9-5-2025-0946529-75"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217034731.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c9338c0a17b3c76f52f9e6be6ccddd0580c98ea54386de27ba1edeac9169c2deae31b63b0638a97025963ff75164b55a02f2db878e49d6c9c4f",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfe37ed54fd9aa32995a6d9f36cc419fe800a12adcefc9d5532a725c2042ca150d6ea00a193e9f906cf7afe02c14567d1512d362f8fcbd4983"
+  },
+  "rndInfoArray": ""
+}

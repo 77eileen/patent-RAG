@@ -1,0 +1,1557 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2009.04.10",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2021-7019078",
+      "claimCount": "22",
+      "examinerName": "김정아",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "복수 분자의 항원에 반복 결합하는 항원 결합 분자",
+      "inventionTitleEng": "Antigen-binding molecule capable of binding to two or  more antigen molecules repeatedly",
+      "openDate": "2021.06.29",
+      "openNumber": "10-2021-0079408",
+      "originalApplicationDate": "2009.04.10",
+      "originalApplicationKind": "국제출원/분할",
+      "originalApplicationNumber": "10-2020-7005619",
+      "originalExaminationRequestDate": "2021.07.14",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2022.11.22",
+      "publicationNumber": "",
+      "registerDate": "2022.11.18",
+      "registerNumber": "10-2469853-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2021.06.21"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2026.01.01)",
+        "ipcNumber": "C07K 16/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/24"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명자들은, 혈장 중에서의 pH에 있어서의 항원 결합활성과 비교하여 조기 엔도솜 내에서의 pH에 있어서의 항원 결합활성이 약한 항체는 1분자의 항체로 복수 분자의 항원에 결합하는 것이 가능해지고, 혈장 중 반감기가 길어, 항원에 결합 가능한 기간이 개선되는 것을 발견하였다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217019078",
+    "total_amendments": 3,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210621",
+      "document_name": "[분할출원(국제출원)]특허출원서",
+      "claim_count": 22,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약물동태가 향상된 항체의 제조방법으로서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환함으로써 항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 히스티딘 치환 전과 비교하여 커진 항체를 선택하는 공정을 포함하는, 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "약물동태가 향상된 항체를 포함하는 의약 조성물의 제조방법으로서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환함으로써 항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 히스티딘 치환 전과 비교하여 커진 항체를 선택하는 공정을 포함하는, 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 또는 제 2 항에 있어서,\n히스티딘으로 치환되는 아미노산이 CDR 서열 또는 CDR의 구조를 결정하는 서열의 아미노산을 포함하는, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n히스티딘으로 치환되는 아미노산이 Kabat 넘버링에 따른 중쇄 가변영역의 아미노산 치환인 H27, H31, H32, H33, H35, H50, H58, H59, H61, H62, H63, H64, H65, H99, H100b 및 H102, 및 Kabat 넘버링에 따른 경쇄 가변영역의 아미노산 치환인 L24, L27, L28, L32, L53, L54, L56, L90, L92 및 L94로 이루어진 군으로부터 선택되는 아미노산을 포함하는, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 4 항 중 어느 한 항에 있어서,\n히스티딘으로 치환되는 아미노산이 Kabat 넘버링에 따른 중쇄 가변영역의 아미노산 치환인 H27, H31, H32, H33, H35, H50, H58, H59, H61, H62, H63, H64, H65, H99, H100b 및 H102로 이루어진 군으로부터 선택되는 아미노산을 포함하는, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 5 항 중 어느 한 항에 있어서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 2 이상인, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 6 항 중 어느 한 항에 있어서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 10 이상인, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 7 항 중 어느 한 항에 있어서,\n가변영역상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 40 이상인, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 8 항 중 어느 한 항에 있어서,\n상기 항체가 안타고니스트 활성을 갖는 것을 특징으로 하는, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 9 항 중 어느 한 항에 있어서,\n상기 항체가 막 항원 또는 가용형 항원에 결합하는 것을 특징으로 하는, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 10 항 중 어느 한 항에 있어서,\n상기 항체가 IgG 항체인, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 11 항 중 어느 한 항에 있어서,\n상기 항체가 인간화 항체인, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 12 항에 있어서,\n상기 인간화 항체가 인간 항체 유래의 정상영역을 갖는, 제조방법.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 12 항 또는 제 13 항에 있어서,\n상기 인간화 항체가 인간 이외의 포유동물 유래 항체의 CDR과, 인간 항체 유래의 프레임워크영역 및 정상영역으로 이루어지는, 제조방법.",
+          "refers_to": [
+            12,
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 11 항 중 어느 한 항에 있어서,\n상기 항체가 인간 항체인, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 15 항 중 어느 한 항에 있어서,\n상기 항체가 FcRn 결합 영역을 포함하는, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 16 항 중 어느 한 항에 있어서,\n정상영역에 FcRn과의 결합을 증대시키는 아미노산 변이를 도입하는 공정을 추가로 포함하는, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 17 항 중 어느 한 항에 있어서,\n상기 항체가 IL-1, IL-2, IL-3, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-11, IL-12, IL-15, IL-31, IL-23, IL-2 수용체, IL-6 수용체, OSM 수용체, gp130, IL-5 수용체, CD40, CD4, Fas, 오스테오폰틴, CRTH2, CD26, PDGF-D, CD20, 단구 주화활성 인자, CD23, TNF-α, HMGB-1, α4 인테그린, ICAM-1, CCR2, CD11a, CD3, IFNγ, BLyS, HLA-DR, TGF-β, CD52, IL-31 수용체로 이루어지는 군에서 선택되는 항원에 결합하는 항체인, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 18 항 중 어느 한 항에 있어서,\n약물동태의 향상이\n(1) 항체가 투여되고나서, 항체가 혈장 중으로부터 소실될 때까지의 시간의 연장,\n(2) 항체가 투여되고나서, 항체가 항원에 결합 가능한 상태로 혈장 중에 존재하는 시간의 연장,\n(3) 항체가 투여되고나서, 생체내의 항원이 항체와 결합하고 있지 않은 시간의 감소,\n(4) 생체내에 존재하는 항원에 대한 항체에 결합한 항원의 비율의 상승, 또는\n(5) 항체가 투여되고 나서, 가용형 항원이 혈장 중으로부터 소실되는 속도의 상승인, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 내지 제 19 항 중 어느 한 항에 있어서,\n항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 Biacore(등록상표)를 사용하여 MES 버퍼, 37℃의 조건에 있어서 측정되는, 제조방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 및 제 3 항 내지 제 20 항 중 어느 한 항에 기재된 방법에 의해 제조되는 항체를 코드하는 폴리뉴클레오티드가 도입된 벡터를 포함하는 숙주세포를 배양하고, 당해 항체를 숙주세포로부터 단리하는 공정을 포함하는, 항체의 제조방법.",
+          "refers_to": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1 항 및 제 3 항 내지 제 20 항 중 어느 한 항에 기재된 방법에 의해 제조되는 항체를 코드하는 폴리뉴클레오티드가 도입된 벡터를 포함하는 숙주세포를 배양하고, 당해 항체를 숙주세포로부터 단리하는 공정을 포함하는, 의약 조성물의 제조방법.",
+          "refers_to": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 3,
+      "receipt_date": "20220420",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 22,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "약물동태가 향상된 항체의 제조방법으로서,가변영역의 하나 이상의 아미노산을 히스티딘으로 치환함으로써 항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 히스티딘 치환 전과 비교하여 커진 항체를 선택하는 공정을 포함하는, 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "약물동태가 향상된 항체를 포함하는 의약 조성물의 제조방법으로서,가변영역의 하나 이상의 아미노산을 히스티딘으로 치환함으로써 항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 히스티딘 치환 전과 비교하여 커진 항체를 선택하는 공정을 포함하는, 제조방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,히스티딘으로 치환되는 아미노산이 CDR 서열 또는 CDR의 구조를 결정하는 서열의 아미노산을 포함하는, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,히스티딘으로 치환되는 아미노산이 Kabat 넘버링에 따른 중쇄 가변영역의 아미노산 치환인 H27, H31, H32, H33, H35, H50, H58, H59, H61, H62, H63, H64, H65, H99, H100b 및 H102, 및 Kabat 넘버링에 따른 경쇄 가변영역의 아미노산 치환인 L24, L27, L28, L32, L53, L54, L56, L90, L92 및 L94로 이루어진 군으로부터 선택되는 아미노산을 포함하는, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,히스티딘으로 치환되는 아미노산이 Kabat 넘버링에 따른 중쇄 가변영역의 아미노산 치환인 H27, H31, H32, H33, H35, H50, H58, H59, H61, H62, H63, H64, H65, H99, H100b 및 H102로 이루어진 군으로부터 선택되는 아미노산을 포함하는, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,가변영역의 하나 이상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 2 이상인, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,가변영역의 하나 이상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 10 이상인, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,가변영역의 하나 이상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 40 이상인, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,상기 항체가 안타고니스트 활성을 갖는 것을 특징으로 하는, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,상기 항체가 막 항원 또는 가용형 항원에 결합하는 것을 특징으로 하는, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,상기 항체가 IgG 항체인, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,상기 항체가 인간화 항체인, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 12 항에 있어서,상기 인간화 항체가 인간 항체 유래의 정상영역을 갖는, 제조방법.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 12 항에 있어서,상기 인간화 항체가 인간 이외의 포유동물 유래 항체의 CDR과, 인간 항체 유래의 프레임워크영역 및 정상영역으로 이루어지는, 제조방법.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,상기 항체가 인간 항체인, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,상기 항체가 FcRn 결합 영역을 포함하는, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,정상영역에 FcRn과의 결합을 증대시키는 아미노산 변이를 도입하는 공정을 추가로 포함하는, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,상기 항체가 IL-1, IL-2, IL-3, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-11, IL-12, IL-15, IL-31, IL-23, IL-2 수용체, IL-6 수용체, OSM 수용체, gp130, IL-5 수용체, CD40, CD4, Fas, 오스테오폰틴, CRTH2, CD26, PDGF-D, CD20, 단구 주화활성 인자, CD23, TNF-α, HMGB-1, α4 인테그린, ICAM-1, CCR2, CD11a, CD3, IFNγ, BLyS, HLA-DR, TGF-β, CD52, IL-31 수용체로 이루어지는 군에서 선택되는 항원에 결합하는 항체인, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,약물동태의 향상이(1) 항체가 투여되고나서, 항체가 혈장 중으로부터 소실될 때까지의 시간의 연장,(2) 항체가 투여되고나서, 항체가 항원에 결합 가능한 상태로 혈장 중에 존재하는 시간의 연장,(3) 항체가 투여되고나서, 생체내의 항원이 항체와 결합하고 있지 않은 시간의 감소,(4) 생체내에 존재하는 항원에 대한 항체에 결합한 항원의 비율의 상승, 또는(5) 항체가 투여되고 나서, 가용형 항원이 혈장 중으로부터 소실되는 속도의 상승인, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항 또는 제 2 항에 있어서,항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 Biacore(등록상표)를 사용하여 MES 버퍼, 37℃의 조건에 있어서 측정되는, 제조방법.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 기재된 방법에 의해 제조되는 항체를 코드하는 폴리뉴클레오티드가 도입된 벡터를 포함하는 숙주세포를 배양하고, 당해 항체를 숙주세포로부터 단리하는 공정을 포함하는, 항체의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 1 항에 기재된 방법에 의해 제조되는 항체를 코드하는 폴리뉴클레오티드가 도입된 벡터를 포함하는 숙주세포를 배양하고, 당해 항체를 숙주세포로부터 단리하는 공정을 포함하는, 의약 조성물의 제조방법.",
+          "refers_to": [
+            1
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210621",
+        "document_name": "[분할출원(국제출원)]특허출원서",
+        "claim_count": 22,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약물동태가 향상된 항체의 제조방법으로서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환함으로써 항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 히스티딘 치환 전과 비교하여 커진 항체를 선택하는 공정을 포함하는, 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "약물동태가 향상된 항체를 포함하는 의약 조성물의 제조방법으로서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환함으로써 항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 히스티딘 치환 전과 비교하여 커진 항체를 선택하는 공정을 포함하는, 제조방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n히스티딘으로 치환되는 아미노산이 CDR 서열 또는 CDR의 구조를 결정하는 서열의 아미노산을 포함하는, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 3 항 중 어느 한 항에 있어서,\n히스티딘으로 치환되는 아미노산이 Kabat 넘버링에 따른 중쇄 가변영역의 아미노산 치환인 H27, H31, H32, H33, H35, H50, H58, H59, H61, H62, H63, H64, H65, H99, H100b 및 H102, 및 Kabat 넘버링에 따른 경쇄 가변영역의 아미노산 치환인 L24, L27, L28, L32, L53, L54, L56, L90, L92 및 L94로 이루어진 군으로부터 선택되는 아미노산을 포함하는, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 4 항 중 어느 한 항에 있어서,\n히스티딘으로 치환되는 아미노산이 Kabat 넘버링에 따른 중쇄 가변영역의 아미노산 치환인 H27, H31, H32, H33, H35, H50, H58, H59, H61, H62, H63, H64, H65, H99, H100b 및 H102로 이루어진 군으로부터 선택되는 아미노산을 포함하는, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 5 항 중 어느 한 항에 있어서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 2 이상인, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 6 항 중 어느 한 항에 있어서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 10 이상인, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 7 항 중 어느 한 항에 있어서,\n가변영역상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 40 이상인, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 8 항 중 어느 한 항에 있어서,\n상기 항체가 안타고니스트 활성을 갖는 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 9 항 중 어느 한 항에 있어서,\n상기 항체가 막 항원 또는 가용형 항원에 결합하는 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 10 항 중 어느 한 항에 있어서,\n상기 항체가 IgG 항체인, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 11 항 중 어느 한 항에 있어서,\n상기 항체가 인간화 항체인, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 12 항에 있어서,\n상기 인간화 항체가 인간 항체 유래의 정상영역을 갖는, 제조방법.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 12 항 또는 제 13 항에 있어서,\n상기 인간화 항체가 인간 이외의 포유동물 유래 항체의 CDR과, 인간 항체 유래의 프레임워크영역 및 정상영역으로 이루어지는, 제조방법.",
+            "refers_to": [
+              12,
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 11 항 중 어느 한 항에 있어서,\n상기 항체가 인간 항체인, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 15 항 중 어느 한 항에 있어서,\n상기 항체가 FcRn 결합 영역을 포함하는, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 16 항 중 어느 한 항에 있어서,\n정상영역에 FcRn과의 결합을 증대시키는 아미노산 변이를 도입하는 공정을 추가로 포함하는, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 17 항 중 어느 한 항에 있어서,\n상기 항체가 IL-1, IL-2, IL-3, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-11, IL-12, IL-15, IL-31, IL-23, IL-2 수용체, IL-6 수용체, OSM 수용체, gp130, IL-5 수용체, CD40, CD4, Fas, 오스테오폰틴, CRTH2, CD26, PDGF-D, CD20, 단구 주화활성 인자, CD23, TNF-α, HMGB-1, α4 인테그린, ICAM-1, CCR2, CD11a, CD3, IFNγ, BLyS, HLA-DR, TGF-β, CD52, IL-31 수용체로 이루어지는 군에서 선택되는 항원에 결합하는 항체인, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 18 항 중 어느 한 항에 있어서,\n약물동태의 향상이\n(1) 항체가 투여되고나서, 항체가 혈장 중으로부터 소실될 때까지의 시간의 연장,\n(2) 항체가 투여되고나서, 항체가 항원에 결합 가능한 상태로 혈장 중에 존재하는 시간의 연장,\n(3) 항체가 투여되고나서, 생체내의 항원이 항체와 결합하고 있지 않은 시간의 감소,\n(4) 생체내에 존재하는 항원에 대한 항체에 결합한 항원의 비율의 상승, 또는\n(5) 항체가 투여되고 나서, 가용형 항원이 혈장 중으로부터 소실되는 속도의 상승인, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 내지 제 19 항 중 어느 한 항에 있어서,\n항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 Biacore(등록상표)를 사용하여 MES 버퍼, 37℃의 조건에 있어서 측정되는, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 및 제 3 항 내지 제 20 항 중 어느 한 항에 기재된 방법에 의해 제조되는 항체를 코드하는 폴리뉴클레오티드가 도입된 벡터를 포함하는 숙주세포를 배양하고, 당해 항체를 숙주세포로부터 단리하는 공정을 포함하는, 항체의 제조방법.",
+            "refers_to": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1 항 및 제 3 항 내지 제 20 항 중 어느 한 항에 기재된 방법에 의해 제조되는 항체를 코드하는 폴리뉴클레오티드가 도입된 벡터를 포함하는 숙주세포를 배양하고, 당해 항체를 숙주세포로부터 단리하는 공정을 포함하는, 의약 조성물의 제조방법.",
+            "refers_to": [
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20210714",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 내지 제 7 항 중 어느 한 항에 있어서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 40 이상인, 제조방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20220420",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 18,
+        "claims": [
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n히스티딘으로 치환되는 아미노산이 Kabat 넘버링에 따른 중쇄 가변영역의 아미노산 치환인 H27, H31, H32, H33, H35, H50, H58, H59, H61, H62, H63, H64, H65, H99, H100b 및 H102, 및 Kabat 넘버링에 따른 경쇄 가변영역의 아미노산 치환인 L24, L27, L28, L32, L53, L54, L56, L90, L92 및 L94로 이루어진 군으로부터 선택되는 아미노산을 포함하는, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n히스티딘으로 치환되는 아미노산이 Kabat 넘버링에 따른 중쇄 가변영역의 아미노산 치환인 H27, H31, H32, H33, H35, H50, H58, H59, H61, H62, H63, H64, H65, H99, H100b 및 H102로 이루어진 군으로부터 선택되는 아미노산을 포함하는, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 2 이상인, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 10 이상인, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n가변영역의 하나 이상의 아미노산을 히스티딘으로 치환한 항체의 KD(pH 5.8)/KD(pH 7.4)의 값이 40 이상인, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n상기 항체가 안타고니스트 활성을 갖는 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n상기 항체가 막 항원 또는 가용형 항원에 결합하는 것을 특징으로 하는, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n상기 항체가 IgG 항체인, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n상기 항체가 인간화 항체인, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 12 항에 있어서,\n상기 인간화 항체가 인간 이외의 포유동물 유래 항체의 CDR과, 인간 항체 유래의 프레임워크영역 및 정상영역으로 이루어지는, 제조방법.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n상기 항체가 인간 항체인, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n상기 항체가 FcRn 결합 영역을 포함하는, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n정상영역에 FcRn과의 결합을 증대시키는 아미노산 변이를 도입하는 공정을 추가로 포함하는, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n상기 항체가 IL-1, IL-2, IL-3, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-11, IL-12, IL-15, IL-31, IL-23, IL-2 수용체, IL-6 수용체, OSM 수용체, gp130, IL-5 수용체, CD40, CD4, Fas, 오스테오폰틴, CRTH2, CD26, PDGF-D, CD20, 단구 주화활성 인자, CD23, TNF-α, HMGB-1, α4 인테그린, ICAM-1, CCR2, CD11a, CD3, IFNγ, BLyS, HLA-DR, TGF-β, CD52, IL-31 수용체로 이루어지는 군에서 선택되는 항원에 결합하는 항체인, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n약물동태의 향상이\n(1) 항체가 투여되고나서, 항체가 혈장 중으로부터 소실될 때까지의 시간의 연장,\n(2) 항체가 투여되고나서, 항체가 항원에 결합 가능한 상태로 혈장 중에 존재하는 시간의 연장,\n(3) 항체가 투여되고나서, 생체내의 항원이 항체와 결합하고 있지 않은 시간의 감소,\n(4) 생체내에 존재하는 항원에 대한 항체에 결합한 항원의 비율의 상승, 또는\n(5) 항체가 투여되고 나서, 가용형 항원이 혈장 중으로부터 소실되는 속도의 상승인, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항 또는 제 2 항에 있어서,\n항원에 대한 pH 5.8에서의 KD와 pH 7.4에서의 KD의 비인 KD(pH 5.8)/KD(pH 7.4)의 값이 Biacore(등록상표)를 사용하여 MES 버퍼, 37℃의 조건에 있어서 측정되는, 제조방법.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 기재된 방법에 의해 제조되는 항체를 코드하는 폴리뉴클레오티드가 도입된 벡터를 포함하는 숙주세포를 배양하고, 당해 항체를 숙주세포로부터 단리하는 공정을 포함하는, 항체의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 1 항에 기재된 방법에 의해 제조되는 항체를 코드하는 폴리뉴클레오티드가 도입된 벡터를 포함하는 숙주세포를 배양하고, 당해 항체를 숙주세포로부터 단리하는 공정을 포함하는, 의약 조성물의 제조방법.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 22,
+      "after_claim_count": 18,
+      "total_versions": 3
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020207005619"
+      },
+      {
+        "familyApplicationNumber": "1020227040226"
+      }
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2009.10.15",
+      "internationOpenNumber": "WO2009125825",
+      "internationalApplicationDate": "2009.04.10",
+      "internationalApplicationNumber": "PCT/JP2009/057309"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "일본국 도쿄도 기타쿠 우키마 *쵸메 *반 *고",
+      "code": "520000045945",
+      "country": "일본",
+      "engName": "CHUGAI SEIYAKU KABUSHIKI KAISHA (Chugai Pharmaceutical Co., Ltd.)",
+      "name": "추가이 세이야쿠 가부시키가이샤"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "일본국 시즈오카 고텐바시 고마카도...",
+        "code": "",
+        "country": "",
+        "engName": "IGAWA, Tomoyuki",
+        "name": "이가와 도모유키"
+      },
+      {
+        "address": "일본국 시즈오카 고텐바시 고마카도...",
+        "code": "",
+        "country": "",
+        "engName": "ISHII, Shinya",
+        "name": "이시이 신야"
+      },
+      {
+        "address": "일본국 시즈오카 고텐바시 고마카도...",
+        "code": "",
+        "country": "",
+        "engName": "MAEDA, Atsuhiko",
+        "name": "마에다 아츠히코"
+      },
+      {
+        "address": "일본국 시즈오카 고텐바시 고마카도...",
+        "code": "",
+        "country": "",
+        "engName": "NAKAI, Takashi",
+        "name": "나카이 다카시"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 마방로 ** (양재동, 동원F&B빌딩)",
+      "code": "920101000812",
+      "country": "대한민국",
+      "engName": "FirstLaw P.C.",
+      "name": "제일특허법인(유)"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "일본",
+        "priorityApplicationDate": "2008.04.11",
+        "priorityApplicationNumber": "JP-P-2008-104147"
+      },
+      {
+        "priorityApplicationCountry": "일본",
+        "priorityApplicationDate": "2008.09.26",
+        "priorityApplicationNumber": "JP-P-2008-247713"
+      },
+      {
+        "priorityApplicationCountry": "일본",
+        "priorityApplicationDate": "2009.03.19",
+        "priorityApplicationNumber": "JP-P-2009-068744"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "FEBS Letters. Vol. 309, No. 1, pp. 85-88 (1992)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "Nature Biotechnology. Vol. 20, No. 9, pp. 908-913 (2002)",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "US20050026071 A1",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2021.06.21",
+        "receiptNumber": "1-1-2021-0709249-53"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.07.14",
+        "receiptNumber": "1-1-2021-0809622-04"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2021.07.14",
+        "receiptNumber": "1-1-2021-0809627-21"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.10.22",
+        "receiptNumber": "9-5-2021-0830955-21"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2021.12.16",
+        "receiptNumber": "1-1-2021-1459578-40"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.01.14",
+        "receiptNumber": "1-1-2022-0049873-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.02.15",
+        "receiptNumber": "1-1-2022-0167277-08"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2022.03.14",
+        "receiptNumber": "1-1-2022-0270705-32"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장 관련 안내서",
+        "receiptDate": "2022.03.16",
+        "receiptNumber": "1-5-2022-0040957-30"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2022.04.20",
+        "receiptNumber": "1-1-2022-0421298-48"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2022.04.20",
+        "receiptNumber": "1-1-2022-0421305-81"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2022.08.25",
+        "receiptNumber": "9-5-2022-0644416-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2022.11.17",
+        "receiptNumber": "1-1-2022-1224591-24"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.02.28",
+        "receiptNumber": "4-1-2023-5049938-55"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.03.07",
+        "receiptNumber": "4-1-2025-5062399-75"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217019078.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93039bc3a72644a08a148618e04c5fcab99b8aed93e1e2e92a7c7935755deca3adb54f689a8ecbde681033445a07acd9a9b362e92a5e930657",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfd5e2e3afc87ff874d4d0b3fb096c2694d76085b09da89b72162c59357a18dc9b70b9fd71e2e021cfeb26b1c8832a8b99c07babd52876aacb"
+  },
+  "rndInfoArray": ""
+}

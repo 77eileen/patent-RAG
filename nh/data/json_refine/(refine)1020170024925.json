@@ -1,0 +1,703 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.02.24",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2017-0024925",
+      "claimCount": "6",
+      "examinerName": "이수정",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "TCTP 이량체형 IgE-의존성 히스타민 방출인자와 이의 수용체간의 결합을 억제하는 TCTP 유래 C-말단 도메인 및 이의 용도",
+      "inventionTitleEng": "TCTP-derived C-terminus domain inhibiting the binding  of TCTP dimer type IgE-dependent histamine releasing  factor to its receptor and the use",
+      "openDate": "2017.03.08",
+      "openNumber": "10-2017-0026421",
+      "originalApplicationDate": "2015.06.16",
+      "originalApplicationKind": "국내출원/분할",
+      "originalApplicationNumber": "10-2015-0085330",
+      "originalExaminationRequestDate": "2017.02.24",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2017.12.04",
+      "publicationNumber": "",
+      "registerDate": "2017.11.28",
+      "registerNumber": "10-1804285-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/16"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 IgE-의존적 히스타민 방출인자(IgE-dependent histamine releasing factor: HRF)의 수용체 결합 도메인 및 이의 용도에 관한 것으로, 보다 상세하게는, HRF 구조 부위로서 세포막에 존재하는 HRF의 수용체에 결합하는 FL 도메인 및 H2 도메인을 확인하였고, HRF의 C-말단을 확인하였으며, 이들에 대한 결합 물질이 IL-8의 분비능을 억제시키는 것을 확인함으로써, 상기 FL, H2 도메인 및 C-말단을 이용하여 천식, 기관지염, 만성폐쇄성폐질환, 기관지확장증, 비염, 아토피 피부염, 두드러기, 건초열, 결막염, 아나필락시스의 알레르기 질환, 기관지염, 폐렴, 관절염. 신장염, 건선, 피부염, 크론병, 장염, 치은염, 동맥경화증, 관상동맥염, 간염, 베체트병, 방광암, 전립선염, 신우신염, 사구체신염, 골수염, 갑상선염, 포도막염, 복강염, 수막염, 폐섬유화증, 류마티스 관절염 등 염증성 질환 및 말라리아를 포함한 HRF 관련 질환의 치료제 개발 및 예방, HRF 관련 질환의 스크리닝 방법으로 유용하게 이용할 수 있음을 규명하였다."
+    }
+  },
+  "claims": {
+    "application_number": "1020170024925",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20170224",
+      "document_name": "[분할출원]특허출원서",
+      "claim_count": 14,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "TCTP(Translationally Controlled Tumor Protein) 이량체형(dimer) IgE-의존성 히스타민방출인자(IgE-dependent histamine releasing factor: HRF) 에 대한 수용체와의 결합에 관여하거나 HRF의 활성화에 관여하는 것을 특징으로 하는 HRF의 C-말단 도메인.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 있어서, 상기 C-말단 도메인은 서열번호 33 및 서열번호 34로 구성되는 군으로부터 선택되는 어느 하나의 아미노산 서열을 포함하는 것을 특징으로 하는 C-말단 도메인.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 따른 C-말단 도메인을 코딩하는 폴리뉴클레오티드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 3항에 따른 폴리뉴클레오티드를 포함하는 재조합 발현벡터.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 4항에 따른 발현벡터로 형질전환된 형질전환체.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 1항에 따른 C-말단 도메인에 특이적으로 결합하는 항체 또는 이의 면역학적 활성 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항의 C-말단 도메인 또는, 상기 C-말단 도메인에 특이적으로 결합하는 항체 또는 이의 면역학적 활성 단편을 유효 성분으로 함유하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 7항에 있어서, 상기 TCTP(Translationally Controlled Tumor Protein)는 동형 또는 이형의 이량체형(dimer)이 활성형이고 상기 TCTP 이량체형 HRF의 구조 중에서 유연성 루프(flexible loop) 도메인 또는 헬릭스 2(helix 2) 도메인이 HRF에 대한 수용체와 결합하는 부위이며, 상기 TCTP 이량체형 HRF는 전장 또는 N-말단 결실형 TCTP 이량체인 것으로 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 7항에 있어서, 상기 C-말단 도메인 또는, C-말단 도메인에 특이적으로 결합하는 항체 또는 이의 면역학적 활성 단편은 TCTP의 이량체형 형성을 억제하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 7항에 있어서, 상기 C-말단 도메인은 서열번호 33 및 서열번호 34로 구성되는 군으로부터 선택되는 어느 하나의 아미노산 서열을 포함하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 7항에 있어서, 상기 알레르기 질환은 비염, 천식 및 아토피로 이루어진 군으로부터 선택되는 어느 하나 또는 둘 이상을 포함하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제 7항에 있어서, 상기 염증성 질환은 류마티스 관절염을 포함하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "1) HRF의 C-말단 도메인과 HRF에 대한 수용체를 피검시료와 접촉시키는 단계;\n2) 상기 도메인과 HRF에 대한 수용체 간의 결합 수준을 측정하는 단계; 및\n3) 단계 1)의 과정을 거치지 않은 대조군에 비해 결합을 감소시키는 피검시료를 선별하는 단계;를 포함하는, 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 HRF 관련 질환의 진단, 예방 또는 치료용 후보물질의 스크리닝 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "1) HRF의 C-말단 도메인과 HRF에 대한 수용체를 발현하는 세포를 피검시료와 접촉시키는 단계;\n2) 상기 단계 1)의 세포를 배양하는 단계; 및\n3) 상기 단계 2)의 배양액에서 히스타민, IL-8 또는 GM-CSF를 포함하는 활성물질의 분비수준을 측정하여 상기 단계 1)의 과정을 거치지 않은 대조군에 비해 분비수준이 낮은 피검시료를 선별하는 단계;를 포함하는, 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 HRF 관련 질환의 진단, 예방 또는 치료용 후보물질의 스크리닝 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20170714",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 14,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "TCTP(translationally controlled tumor protein) 이량체형(dimer) IgE-의존성 히스타민 방출인자(IgE-dependent histamine releasing factor; HRF)의 C-말단 도메인 폴리펩티드에 특이적으로 결합하는 항체를 유효성분으로 함유하고,상기 C-말단 도메인 폴리펩티드는 서열번호 33 및 서열번호 34로 구성된 군으로부터 선택되는 어느 하나의 아미노산 서열로 이루어진 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 7항에 있어서, 상기 C-말단 도메인 폴리펩티드에 특이적으로 결합하는 항체는 TCTP의 이량체형 형성을 억제하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 7항에 있어서, 상기 알레르기 질환은 비염, 천식 및 아토피로 이루어진 군으로부터 선택되는 어느 하나 또는 둘 이상을 포함하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제 7항에 있어서, 상기 염증성 질환은 류마티스 관절염을 포함하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 예방 또는 치료용 약학적 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "1) HRF의 C-말단 도메인 폴리펩티드와 HRF에 대한 수용체를 피검시료와 접촉시키는 단계;2) 상기 도메인과 HRF에 대한 수용체 간의 결합 수준을 측정하는 단계; 및3) 단계 1)의 과정을 거치지 않은 대조군에 비해 결합을 감소시키는 피검시료를 선별하는 단계;를 포함하고,상기 C-말단 도메인 폴리펩티드는 서열번호 33 및 서열번호 34로 구성된 군으로부터 선택되는 어느 하나의 아미노산 서열로 이루어진 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 HRF 관련 질환의 예방 또는 치료용 후보물질의 스크리닝 방법.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "1) HRF의 C-말단 도메인 폴리펩티드와 HRF에 대한 수용체를 발현하는 세포를 피검시료와 접촉시키는 단계;2) 상기 단계 1)의 세포를 배양하는 단계; 및3) 상기 단계 2)의 배양액에서 히스타민, IL-8 또는 GM-CSF를 포함하는 활성물질의 분비수준을 측정하여 상기 단계 1)의 과정을 거치지 않은 대조군에 비해 분비수준이 낮은 피검시료를 선별하는 단계;를 포함하고,상기 C-말단 도메인 폴리펩티드는 서열번호 33 및 서열번호 34로 구성된 군으로부터 선택되는 어느 하나의 아미노산 서열로 이루어진 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 HRF 관련 질환의 예방 또는 치료용 후보물질의 스크리닝 방법.",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20170224",
+        "document_name": "[분할출원]특허출원서",
+        "claim_count": 14,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "TCTP(Translationally Controlled Tumor Protein) 이량체형(dimer) IgE-의존성 히스타민방출인자(IgE-dependent histamine releasing factor: HRF) 에 대한 수용체와의 결합에 관여하거나 HRF의 활성화에 관여하는 것을 특징으로 하는 HRF의 C-말단 도메인.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 있어서, 상기 C-말단 도메인은 서열번호 33 및 서열번호 34로 구성되는 군으로부터 선택되는 어느 하나의 아미노산 서열을 포함하는 것을 특징으로 하는 C-말단 도메인.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 따른 C-말단 도메인을 코딩하는 폴리뉴클레오티드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 3항에 따른 폴리뉴클레오티드를 포함하는 재조합 발현벡터.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 4항에 따른 발현벡터로 형질전환된 형질전환체.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 1항에 따른 C-말단 도메인에 특이적으로 결합하는 항체 또는 이의 면역학적 활성 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항의 C-말단 도메인 또는, 상기 C-말단 도메인에 특이적으로 결합하는 항체 또는 이의 면역학적 활성 단편을 유효 성분으로 함유하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7항에 있어서, 상기 TCTP(Translationally Controlled Tumor Protein)는 동형 또는 이형의 이량체형(dimer)이 활성형이고 상기 TCTP 이량체형 HRF의 구조 중에서 유연성 루프(flexible loop) 도메인 또는 헬릭스 2(helix 2) 도메인이 HRF에 대한 수용체와 결합하는 부위이며, 상기 TCTP 이량체형 HRF는 전장 또는 N-말단 결실형 TCTP 이량체인 것으로 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7항에 있어서, 상기 C-말단 도메인 또는, C-말단 도메인에 특이적으로 결합하는 항체 또는 이의 면역학적 활성 단편은 TCTP의 이량체형 형성을 억제하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7항에 있어서, 상기 C-말단 도메인은 서열번호 33 및 서열번호 34로 구성되는 군으로부터 선택되는 어느 하나의 아미노산 서열을 포함하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7항에 있어서, 상기 알레르기 질환은 비염, 천식 및 아토피로 이루어진 군으로부터 선택되는 어느 하나 또는 둘 이상을 포함하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제 7항에 있어서, 상기 염증성 질환은 류마티스 관절염을 포함하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 진단, 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "1) HRF의 C-말단 도메인과 HRF에 대한 수용체를 피검시료와 접촉시키는 단계;\n2) 상기 도메인과 HRF에 대한 수용체 간의 결합 수준을 측정하는 단계; 및\n3) 단계 1)의 과정을 거치지 않은 대조군에 비해 결합을 감소시키는 피검시료를 선별하는 단계;를 포함하는, 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 HRF 관련 질환의 진단, 예방 또는 치료용 후보물질의 스크리닝 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "1) HRF의 C-말단 도메인과 HRF에 대한 수용체를 발현하는 세포를 피검시료와 접촉시키는 단계;\n2) 상기 단계 1)의 세포를 배양하는 단계; 및\n3) 상기 단계 2)의 배양액에서 히스타민, IL-8 또는 GM-CSF를 포함하는 활성물질의 분비수준을 측정하여 상기 단계 1)의 과정을 거치지 않은 대조군에 비해 분비수준이 낮은 피검시료를 선별하는 단계;를 포함하는, 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 HRF 관련 질환의 진단, 예방 또는 치료용 후보물질의 스크리닝 방법.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20170714",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 14,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "TCTP(translationally controlled tumor protein) 이량체형(dimer) IgE-의존성 히스타민 방출인자(IgE-dependent histamine releasing factor; HRF)의 C-말단 도메인 폴리펩티드에 특이적으로 결합하는 항체를 유효성분으로 함유하고,\n상기 C-말단 도메인 폴리펩티드는 서열번호 33 및 서열번호 34로 구성된 군으로부터 선택되는 어느 하나의 아미노산 서열로 이루어진 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 7항에 있어서, 상기 C-말단 도메인 폴리펩티드에 특이적으로 결합하는 항체는 TCTP의 이량체형 형성을 억제하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 7항에 있어서, 상기 알레르기 질환은 비염, 천식 및 아토피로 이루어진 군으로부터 선택되는 어느 하나 또는 둘 이상을 포함하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제 7항에 있어서, 상기 염증성 질환은 류마티스 관절염을 포함하는 것을 특징으로 하는 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 질환의 예방 또는 치료용 약학적 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "1) HRF의 C-말단 도메인 폴리펩티드와 HRF에 대한 수용체를 피검시료와 접촉시키는 단계;\n2) 상기 도메인과 HRF에 대한 수용체 간의 결합 수준을 측정하는 단계; 및\n3) 단계 1)의 과정을 거치지 않은 대조군에 비해 결합을 감소시키는 피검시료를 선별하는 단계;를 포함하고,\n상기 C-말단 도메인 폴리펩티드는 서열번호 33 및 서열번호 34로 구성된 군으로부터 선택되는 어느 하나의 아미노산 서열로 이루어진 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 HRF 관련 질환의 예방 또는 치료용 후보물질의 스크리닝 방법.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "1) HRF의 C-말단 도메인 폴리펩티드와 HRF에 대한 수용체를 발현하는 세포를 피검시료와 접촉시키는 단계;\n2) 상기 단계 1)의 세포를 배양하는 단계; 및\n3) 상기 단계 2)의 배양액에서 히스타민, IL-8 또는 GM-CSF를 포함하는 활성물질의 분비수준을 측정하여 상기 단계 1)의 과정을 거치지 않은 대조군에 비해 분비수준이 낮은 피검시료를 선별하는 단계;를 포함하고,\n상기 C-말단 도메인 폴리펩티드는 서열번호 33 및 서열번호 34로 구성된 군으로부터 선택되는 어느 하나의 아미노산 서열로 이루어진 알레르기 질환, 염증성 질환 및 말라리아로 구성된 군으로부터 선택되는 어느 하나 또는 둘 이상의 HRF 관련 질환의 예방 또는 치료용 후보물질의 스크리닝 방법.",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 14,
+      "after_claim_count": 14,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": {
+      "familyApplicationNumber": "1020150085330"
+    }
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "서울특별시 서대문구...",
+      "code": "220040083301",
+      "country": "대한민국",
+      "engName": "Ewha University - Industry Collaboration Foundation",
+      "name": "이화여자대학교 산학협력단"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": {
+      "address": "서울특별시 종로구...",
+      "code": "",
+      "country": "대한민국",
+      "engName": "LEE, Kyunglim",
+      "name": "이경림"
+    }
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울 강남구 테헤란로 *** (역삼동) 성지하이츠 *차 *층(원국제특허법률사무소)",
+      "code": "919980003859",
+      "country": "대한민국",
+      "engName": "LEE, Won Hee",
+      "name": "이원희"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "대한민국",
+      "priorityApplicationDate": "2014.06.16",
+      "priorityApplicationNumber": "1020140072700"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "US20060165677 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2011123697 A2",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application] Patent Application",
+        "documentName": "[분할출원]특허출원서",
+        "receiptDate": "2017.02.24",
+        "receiptNumber": "1-1-2017-0194214-03"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2017.04.14",
+        "receiptNumber": "9-5-2017-0267081-53"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2017.06.14",
+        "receiptNumber": "1-1-2017-0566612-31"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2017.07.14",
+        "receiptNumber": "1-1-2017-0676730-12"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2017.07.14",
+        "receiptNumber": "1-1-2017-0676744-51"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2017.11.16",
+        "receiptNumber": "9-5-2017-0797742-66"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020170024925.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e0079ab81ec4c0a996b04b652b0f28466cdc4e30a12052a8da6574668762701c7d57caf4d8e51821793f3fdd75fe5debb6953f39297351772de",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cff69fea36f2d4e264d3e8edf11d0b21bce941a7e02f78be1032ea92d84520e385ede1198883fc1e19d6413bc6e7f5cef9e4d7d3697a88a8ea"
+  },
+  "rndInfoArray": ""
+}

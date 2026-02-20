@@ -1,0 +1,990 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2010.05.10",
+      "applicationFlag": "",
+      "applicationNumber": "10-2010-0043673",
+      "claimCount": "15",
+      "examinerName": "손영희",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "골형성 단백질의 정제 방법",
+      "inventionTitleEng": "METHOD FOR PURIFYING BONE MORPHOGENETIC PROTEIN",
+      "openDate": "",
+      "openNumber": "",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국내출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2010.05.10",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2010.11.01",
+      "publicationNumber": "",
+      "registerDate": "2010.10.26",
+      "registerNumber": "10-0991203-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": ""
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/16"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 19/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 TGF-β 상과에 속하는 단백질, 바람직하게는 BMP, 더 바람직하게는 BMP2의 정제 방법에 관한 것이다. 특히, 본 발명에 따른 BMP2의 정제 방법은 종래 BMP2의 정제 방법에 비해 단계를 축소 및 단순화한 것이며, 이에 따라 원가의 절감, 정제 소요시간의 단축을 가져올 수 있다. 또한, BMP2를 정제하는 시간이 오래 소요되고 정제단계를 많이 거칠수록 BMP2가 중간 단계에서 프로테아제에 의한 분해 및 정제공정상의 소실로 인해 BMP2의 최종 회수율이 낮아지는 문제점을 해결함으로써, 본 발명에 따른 BMP2의 정제 방법은 BMP2의 최종 회수율을 증가시킨다. 더욱이, 본 발명에 따른 BMP2의 정제 방법은 정제 단계가 축소되었음에도 불구하고, 종래 BMP2의 정제 방법과는 상이한 여과법, 크로마토그래피법, 컬럼, 완충액, 화합물의 종류 및 농도, 정용여과에 사용된 박막의 분획 크기를 최적화하여 사용함으로써, 회수된 BMP2의 순도가 매우 우수하다."
+    }
+  },
+  "claims": {
+    "application_number": "1020100043673",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20100510",
+      "document_name": "[특허출원]특허출원서",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "하기 단계를 포함하는 것을 특징으로 하는, TGF-β(Transforming growth factor-β, 형질전환성장인자-베타) 상과(superfamily)에 속하는 단백질의 정제 방법:\na) TGF-β 상과에 속하는 단백질을 함유하는 용액을 전처리하는 단계로서, 상기 용액을 분획 박막 필터(cut-off membrane filter)를 이용하여 농축하는 단계;\nb) 상기 a) 단계에서 수득된 용액에 소수성 상호작용 크로마토그래피를 적용하는 단계;\nc) 상기 b) 단계에서 수득된 용액을 정용여과하는 단계; 및\nd) 상기 c) 단계에서 수득된 용액에 크기 배제 크로마토그래피를 적용하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n상기 TGF-β 상과에 속하는 단백질이 BMP(Bone Morphogenetic Protein, 골형성 단백질)인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\n상기 BMP가 BMP2(Bone Morphogenetic Protein 2, 골형성 단백질2)인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 a) 단계에서 분획 박막 필터를 이용하여 농축된 용액에 NaCl 및 Tris를 첨가하고 pH를 5-9로 조절한 후, 여과필터를 이용하여 여과하는 것을 추가로 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서,\n상기 a) 단계에서 첨가하는 NaCl의 농도가 0.2-5M이고, Tris의 농도가 5-500mM인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서,\n상기 a) 단계에서 이용된 분획 박막 필터가 30kDa 분획 박막 필터이고, 여과필터가 0.1-1.0μm 구멍 크기인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 b) 단계의 소수성 상호작용 크로마토그래피가 부틸 세파로스 크로마토그래피인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n상기 부틸 세파로스 크로마토그래피에서 부틸 세파로스 4 패스트 플로우(butyl sepharose 4 fast flow) 수지를 사용하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 b) 단계의 크로마토그래피는 컬럼을 Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 평형화하고, a) 단계에서 수득된 용액을 상기 컬럼에 로딩하고, Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 컬럼을 세척하고, 이어서 Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 상기 용액을 용출하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서,\n상기 b) 단계에서 컬럼을 평형화하는 완충액, 컬럼을 세척하는 완충액 및 용출 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.2-5M이고, 이소프로판올의 농도가 0.1-50 중량%인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 c) 단계의 정용여과는 b) 단계에서 수득된 용액을 분획 박막 필터를 이용하여 Tris, NaCl, L-아르기닌 및 글리세롤을 함유하는 완충액으로 교환 및 농축하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서,\n상기 c) 단계에서 교환되는 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.2-5M이고, L-아르기닌의 농도가 0.2-5M이고, 글리세롤의 농도가 1-50 중량%인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서,\n상기 c) 단계에서 이용된 분획 박막 필터가 30kDa 분획 박막 필터인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 d) 단계의 크기 배제 크로마토그래피가 세파크릴(sephacryl) 크로마토그래피인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서,\n상기 세파크릴 크로마토그래피에서 세파크릴 S-100 수지를 사용하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 d) 단계의 크로마토그래피는 컬럼을 Tris 및 NaCl을 함유하는 완충액으로 평형화하고, c) 단계에서 수득된 용액을 상기 컬럼에 로딩하고, Tris 및 NaCl을 함유하는 완충액으로 상기 용액을 용출하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서,\n상기 d) 단계에서 컬럼을 평형화하는 완충액 및 용출 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.05-5M인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항의 방법에 따라 정제된 단백질.",
+          "refers_to": []
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20100823",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "하기 단계를 포함하는 것을 특징으로 하는, BMP2(Bone Morphogenetic Protein 2, 골형성 단백질2)의 정제 방법:a) BMP2를 함유하는 용액을 전처리하는 단계로서, 상기 용액을 분획 박막 필터(cut-off membrane filter)를 이용하여 농축하는 단계;b) 상기 a) 단계에서 수득된 용액에 소수성 상호작용 크로마토그래피를 적용하는 단계;c) 상기 b) 단계에서 수득된 용액을 정용여과하는 단계; 및d) 상기 c) 단계에서 수득된 용액에 크기 배제 크로마토그래피를 적용하는 단계.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 a) 단계에서 분획 박막 필터를 이용하여 농축된 용액에 NaCl 및 Tris를 첨가하고 pH를 5-9로 조절한 후, 여과필터를 이용하여 여과하는 것을 추가로 포함하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서,상기 a) 단계에서 첨가하는 NaCl의 농도가 0.2-5M이고, Tris의 농도가 5-500mM인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서,상기 a) 단계에서 이용된 분획 박막 필터가 30kDa 분획 박막 필터이고, 여과필터가 0.1-1.0μm 구멍 크기인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 b) 단계의 소수성 상호작용 크로마토그래피가 부틸 세파로스 크로마토그래피인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제5항에 있어서,상기 부틸 세파로스 크로마토그래피에서 부틸 세파로스 4 패스트 플로우(butyl sepharose 4 fast flow) 수지를 사용하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 b) 단계의 크로마토그래피는 컬럼을 Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 평형화하고, a) 단계에서 수득된 용액을 상기 컬럼에 로딩하고, Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 컬럼을 세척하고, 이어서 Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 상기 용액을 용출하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서,상기 b) 단계에서 컬럼을 평형화하는 완충액, 컬럼을 세척하는 완충액 및 용출 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.2-5M이고, 이소프로판올의 농도가 0.1-50 중량%인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 c) 단계의 정용여과는 b) 단계에서 수득된 용액을 분획 박막 필터를 이용하여 Tris, NaCl, L-아르기닌 및 글리세롤을 함유하는 완충액으로 교환 및 농축하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서,상기 c) 단계에서 교환되는 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.2-5M이고, L-아르기닌의 농도가 0.2-5M이고, 글리세롤의 농도가 1-50 중량%인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서,상기 c) 단계에서 이용된 분획 박막 필터가 30kDa 분획 박막 필터인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 d) 단계의 크기 배제 크로마토그래피가 세파크릴(sephacryl) 크로마토그래피인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서,상기 세파크릴 크로마토그래피에서 세파크릴 S-100 수지를 사용하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,상기 d) 단계의 크로마토그래피는 컬럼을 Tris 및 NaCl을 함유하는 완충액으로 평형화하고, c) 단계에서 수득된 용액을 상기 컬럼에 로딩하고, Tris 및 NaCl을 함유하는 완충액으로 상기 용액을 용출하는 것을 특징으로 하는 방법.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서,상기 d) 단계에서 컬럼을 평형화하는 완충액 및 용출 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.05-5M인 것을 특징으로 하는 방법.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20100510",
+        "document_name": "[특허출원]특허출원서",
+        "claim_count": 18,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "하기 단계를 포함하는 것을 특징으로 하는, TGF-β(Transforming growth factor-β, 형질전환성장인자-베타) 상과(superfamily)에 속하는 단백질의 정제 방법:\na) TGF-β 상과에 속하는 단백질을 함유하는 용액을 전처리하는 단계로서, 상기 용액을 분획 박막 필터(cut-off membrane filter)를 이용하여 농축하는 단계;\nb) 상기 a) 단계에서 수득된 용액에 소수성 상호작용 크로마토그래피를 적용하는 단계;\nc) 상기 b) 단계에서 수득된 용액을 정용여과하는 단계; 및\nd) 상기 c) 단계에서 수득된 용액에 크기 배제 크로마토그래피를 적용하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n상기 TGF-β 상과에 속하는 단백질이 BMP(Bone Morphogenetic Protein, 골형성 단백질)인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\n상기 BMP가 BMP2(Bone Morphogenetic Protein 2, 골형성 단백질2)인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 a) 단계에서 분획 박막 필터를 이용하여 농축된 용액에 NaCl 및 Tris를 첨가하고 pH를 5-9로 조절한 후, 여과필터를 이용하여 여과하는 것을 추가로 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서,\n상기 a) 단계에서 첨가하는 NaCl의 농도가 0.2-5M이고, Tris의 농도가 5-500mM인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서,\n상기 a) 단계에서 이용된 분획 박막 필터가 30kDa 분획 박막 필터이고, 여과필터가 0.1-1.0μm 구멍 크기인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 b) 단계의 소수성 상호작용 크로마토그래피가 부틸 세파로스 크로마토그래피인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n상기 부틸 세파로스 크로마토그래피에서 부틸 세파로스 4 패스트 플로우(butyl sepharose 4 fast flow) 수지를 사용하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 b) 단계의 크로마토그래피는 컬럼을 Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 평형화하고, a) 단계에서 수득된 용액을 상기 컬럼에 로딩하고, Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 컬럼을 세척하고, 이어서 Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 상기 용액을 용출하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서,\n상기 b) 단계에서 컬럼을 평형화하는 완충액, 컬럼을 세척하는 완충액 및 용출 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.2-5M이고, 이소프로판올의 농도가 0.1-50 중량%인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 c) 단계의 정용여과는 b) 단계에서 수득된 용액을 분획 박막 필터를 이용하여 Tris, NaCl, L-아르기닌 및 글리세롤을 함유하는 완충액으로 교환 및 농축하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서,\n상기 c) 단계에서 교환되는 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.2-5M이고, L-아르기닌의 농도가 0.2-5M이고, 글리세롤의 농도가 1-50 중량%인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서,\n상기 c) 단계에서 이용된 분획 박막 필터가 30kDa 분획 박막 필터인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 d) 단계의 크기 배제 크로마토그래피가 세파크릴(sephacryl) 크로마토그래피인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서,\n상기 세파크릴 크로마토그래피에서 세파크릴 S-100 수지를 사용하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서,\n상기 d) 단계의 크로마토그래피는 컬럼을 Tris 및 NaCl을 함유하는 완충액으로 평형화하고, c) 단계에서 수득된 용액을 상기 컬럼에 로딩하고, Tris 및 NaCl을 함유하는 완충액으로 상기 용액을 용출하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서,\n상기 d) 단계에서 컬럼을 평형화하는 완충액 및 용출 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.05-5M인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항의 방법에 따라 정제된 단백질.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20100823",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 18,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "하기 단계를 포함하는 것을 특징으로 하는, BMP2(Bone Morphogenetic Protein 2, 골형성 단백질2)의 정제 방법:\na) BMP2를 함유하는 용액을 전처리하는 단계로서, 상기 용액을 분획 박막 필터(cut-off membrane filter)를 이용하여 농축하는 단계;\nb) 상기 a) 단계에서 수득된 용액에 소수성 상호작용 크로마토그래피를 적용하는 단계;\nc) 상기 b) 단계에서 수득된 용액을 정용여과하는 단계; 및\nd) 상기 c) 단계에서 수득된 용액에 크기 배제 크로마토그래피를 적용하는 단계.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 a) 단계에서 분획 박막 필터를 이용하여 농축된 용액에 NaCl 및 Tris를 첨가하고 pH를 5-9로 조절한 후, 여과필터를 이용하여 여과하는 것을 추가로 포함하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서,\n상기 a) 단계에서 첨가하는 NaCl의 농도가 0.2-5M이고, Tris의 농도가 5-500mM인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제2항에 있어서,\n상기 a) 단계에서 이용된 분획 박막 필터가 30kDa 분획 박막 필터이고, 여과필터가 0.1-1.0μm 구멍 크기인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 b) 단계의 소수성 상호작용 크로마토그래피가 부틸 세파로스 크로마토그래피인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제5항에 있어서,\n상기 부틸 세파로스 크로마토그래피에서 부틸 세파로스 4 패스트 플로우(butyl sepharose 4 fast flow) 수지를 사용하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 b) 단계의 크로마토그래피는 컬럼을 Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 평형화하고, a) 단계에서 수득된 용액을 상기 컬럼에 로딩하고, Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 컬럼을 세척하고, 이어서 Tris, NaCl 및 이소프로판올을 함유하는 완충액으로 상기 용액을 용출하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서,\n상기 b) 단계에서 컬럼을 평형화하는 완충액, 컬럼을 세척하는 완충액 및 용출 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.2-5M이고, 이소프로판올의 농도가 0.1-50 중량%인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 c) 단계의 정용여과는 b) 단계에서 수득된 용액을 분획 박막 필터를 이용하여 Tris, NaCl, L-아르기닌 및 글리세롤을 함유하는 완충액으로 교환 및 농축하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서,\n상기 c) 단계에서 교환되는 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.2-5M이고, L-아르기닌의 농도가 0.2-5M이고, 글리세롤의 농도가 1-50 중량%인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제9항에 있어서,\n상기 c) 단계에서 이용된 분획 박막 필터가 30kDa 분획 박막 필터인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 d) 단계의 크기 배제 크로마토그래피가 세파크릴(sephacryl) 크로마토그래피인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서,\n상기 세파크릴 크로마토그래피에서 세파크릴 S-100 수지를 사용하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n상기 d) 단계의 크로마토그래피는 컬럼을 Tris 및 NaCl을 함유하는 완충액으로 평형화하고, c) 단계에서 수득된 용액을 상기 컬럼에 로딩하고, Tris 및 NaCl을 함유하는 완충액으로 상기 용액을 용출하는 것을 특징으로 하는 방법.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제14항에 있어서,\n상기 d) 단계에서 컬럼을 평형화하는 완충액 및 용출 완충액이 pH가 5-9이고, Tris의 농도가 5-500mM이고, NaCl의 농도가 0.05-5M인 것을 특징으로 하는 방법.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 18,
+      "after_claim_count": 18,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "",
+      "internationOpenNumber": "",
+      "internationalApplicationDate": "",
+      "internationalApplicationNumber": ""
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "서울특별시 금천구...",
+        "code": "119980967537",
+        "country": "대한민국",
+        "engName": "CELLUMED CO., LTD.",
+        "name": "주식회사 셀루메드"
+      },
+      {
+        "address": "서울특별시 강남구...",
+        "code": "419986142241",
+        "country": "대한민국",
+        "engName": "SHIM, YOUNG BOCK",
+        "name": "심영복"
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "경기도 수원시 팔달구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "KIM, Yeong-Schick",
+        "name": "김영식"
+      },
+      {
+        "address": "경기도 수원시 장안구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "CHOI, Yon-Rak",
+        "name": "최연락"
+      },
+      {
+        "address": "서울특별시 동작구...",
+        "code": "",
+        "country": "대한민국",
+        "engName": "JANG, Ju-Woong",
+        "name": "장주웅"
+      },
+      {
+        "address": "서울 강남구...",
+        "code": "419986142241",
+        "country": "대한민국",
+        "engName": "SHIM, YOUNG BOCK",
+        "name": "심영복"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "경기도 성남시 분당구 대왕판교로 ***, B-***(삼평동, 유스페이스*)",
+      "code": "920101000413",
+      "country": "대한민국",
+      "engName": "ORIGIN Patent & Law Firm",
+      "name": "특허법인오리진"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "US5650494 A",
+      "examinerQuotationFlag": ""
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Patent Application",
+        "documentName": "[특허출원]특허출원서",
+        "receiptDate": "2010.05.10",
+        "receiptNumber": "1-1-2010-0299974-05"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Preferential Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[우선심사신청]심사청구(우선심사신청)서",
+        "receiptDate": "2010.05.14",
+        "receiptNumber": "1-1-2010-0312214-86"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2010.05.14",
+        "receiptNumber": "1-5-2010-0043513-83"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서등 보정]보정서",
+        "receiptDate": "2010.05.20",
+        "receiptNumber": "1-1-2010-0324361-15"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2010.08.09",
+        "receiptNumber": "9-5-2010-0344675-40"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2010.08.23",
+        "receiptNumber": "1-1-2010-0542983-40"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2010.08.23",
+        "receiptNumber": "1-1-2010-0543000-74"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2010.10.25",
+        "receiptNumber": "9-5-2010-0477833-43"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2014.04.03",
+        "receiptNumber": "4-1-2014-0054282-81"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2018.06.28",
+        "receiptNumber": "1-1-2018-0634432-83"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Reason for Return of Document",
+        "documentName": "서류반려이유통지서",
+        "receiptDate": "2018.06.29",
+        "receiptNumber": "1-5-2018-0101130-36"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2019.04.11",
+        "receiptNumber": "1-1-2019-0372950-88"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.06.13",
+        "receiptNumber": "4-1-2022-5137002-09"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020100043673.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=452306798ef1fd03bf8e5ba4e1dbf726d5572cddde4ee0d6ec0590645c3c6aa89513a01f6149c6cd1a4b3633464e986db72113e24d78d5265a38adbf72520d0f24d96f5c616c8acc",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf817b59b37ae073a42538563af4e0094c012fb6361d44f15597ad471500f278c3c8ef4cd02606ab3597133e270c08513d184574be5c7f29e1"
+  },
+  "rndInfoArray": ""
+}

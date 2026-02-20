@@ -1,0 +1,1140 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2016.04.22",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2021-7002912",
+      "claimCount": "27",
+      "examinerName": "이근혜",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "암치료용 종양 용해성 단순 헤르페스 바이러스(oHSV) 절대 벡터 및 그 구조체의 구조",
+      "inventionTitleEng": "CONSTRUCTION OF ONCOLYTIC HERPES SIMPLEX VIRUSES  (oHSV) OBLIGATE VECTOR AND CONSTRUCTS FOR CANCER  THERAPY",
+      "openDate": "2021.02.03",
+      "openNumber": "10-2021-0013366",
+      "originalApplicationDate": "2016.04.22",
+      "originalApplicationKind": "국제출원/분할",
+      "originalApplicationNumber": "10-2018-7021388",
+      "originalExaminationRequestDate": "2021.01.28",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.11.08",
+      "publicationNumber": "",
+      "registerDate": "2021.11.03",
+      "registerNumber": "10-2323872-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2021.01.28"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/86"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2015.01.01)",
+        "ipcNumber": "A61K 35/76"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 48/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 변형된 바이러스성 DNA 유전체를 포함한 절대 oHSV 벡터를 제공한다. 본 발명은 절대 oHSV 벡터와 면역자극제 및/또는 면역치료제를 코딩하는 외인성 핵산서열을 포함한 재조합 oHSV-1 구조체를 더 제공한다. 본 발명의 재조합 oHSV-1 구조체를 포함한 조성물은 암 치료에 사용될 수 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217002912",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210128",
+      "document_name": "[분할출원(국제출원)]특허출원서",
+      "claim_count": 28,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "야생형 HSV-1 유전체에서 결실 변형을 포함하는, 1형 단순 헤르페스 바이러스(Herepes Simplex Virus type 1, HSV-1) 벡터로서,\n상기 벡터는 \n(i) 야생형 HSV-1 유전체의 모든 이중복제 유전자(double-copy genes) 중 하나의 복제(one-copy)만을,\n(ii) 야생형 HSV-1 유전체의 중복된 비-코딩 서열 중 하나의 복제만을, 및\n(iii) 야생형 HSV-1 유전체의 모든 단일복제(single-copy) 오픈 리딩 프레임(open reading frames, ORFs)을 발현하는데 필요한 서열로서, ORFs 및 각각의 ORF를 발현하는데 필요한 조절 서열을 포함하며, 각 조절 서열은 완전한 프로모터를 포함하는, 서열\n을 포함하는,\n1형 단순 헤르페스 바이러스 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 이중복제 유전자는 ICP0, ICP4, ICP34.5, ORF P 및 ORF O를 코딩하는 유전자를 포함하는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 HSV-1은 프로토타입(P)의 유전체의 이성질체(isomer)를 포함하는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 HSV-1은 F 균주, KOS 균주 및 17 균주로 이루어진 군에서 선택되는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 결실은 F 균주의 유전체 중 뉴클레오티드 위치 117005 내지 132096의 절제(excision)를 일으키는, HSV-1 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 결실 변형은, HSV-1 유전체의 IL 이성질체인 경우 UL 성분의 마지막 유전자의 프로모터 내지 US 성분의 첫 유전자의 프로모터 사이의 결실을 포함하는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, UL 성분의 마지막 유전자가 UL1인, HSV-1 벡터.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, US 성분의 첫 유전자가 US1인, HSV-1 벡터.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 HSV-1 벡터는 야생형 HSV-1에 감염되기 쉬운 포유동물 세포 내에서 복제될 수 없는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 HSV-1 벡터는 야생형 HSV-1에 감염되기 쉬운 포유동물 세포 내에서 복제될 수 없으나, 추가의 세포성 또는 바이러스성 DNA 서열의 삽입 후 복제가능한, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 중복된 비-코딩 서열이 LAT 도메인 및 \"a\" 서열을 포함하는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 따른 HSV-1 벡터, 및 \n면역자극제 및/또는 면역치료제를 코딩하는 외인성 핵산서열로서, 적어도 상기 제1항에 따른 HSV-1 벡터의 결실 영역에 안정적으로 결합되는 외인성 핵산서열 \n을 포함하는, 재조합 종양 용해성(oncolytic) 1형 단순 헤르페스 바이러스 (HSV-1).",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 면역자극제는 GM-CSF, IL 2, IL 12, IL 15, IL 24 및 IL 27로 이루어진 군에서 선택되는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 면역치료제는 항 PD-1제 및/또는 항 CTLA-4제인, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 외인성 핵산서열은 IL-12, 항 PD-1제, 및 항 CTLA-4제로 이루어진 군에서 선택되는 하나 이상을 코딩하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 IL-12를 코딩하는 제1 외인성 핵산서열 및 항 PD-1제 또는 항 CTLA-4제를 코딩하는 제2 외인성 핵산서열을 포함하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 항 PD-1제를 코딩하는 제1 외인성 핵산서열 및 항 CTLA-4제를 코딩하는 제2 외인성 핵산서열을 포함하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 IL-12를 코딩하는 제1 외인성 핵산서열, 항 PD-1제를 코딩하는 제2 외인성 핵산서열, 및 항 CTLA-4제를 코딩하는 제3 외인성 핵산서열을 포함하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 상기 외인성 핵산서열에 작동 가능하게 연결된(operably linked) 프로모터 서열을 더 포함하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항 또는 제17항에 있어서, 상기 제1 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 결실 영역에 삽입되고, 상기 제2 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL3과 UL4 유전자 사이에 삽입되는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 제1 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 결실 영역에 삽입되고, 상기 제2 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL3과 UL4 유전자 사이에 삽입되며, 상기 제3 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL37과 UL38 유전자 사이에 삽입되는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제18항에 있어서, 상기 제1 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 결실 영역에 삽입되고, 상기 제2 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL37과 UL38 사이에 삽입되며, 상기 제3 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL3과 UL4 유전자 사이에 삽입되는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 상기 프로모터 서열은 CMV 프로모터 또는 Egr-1 프로모터인, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제12항에 있어서, 상기 면역자극제 및/또는 면역치료제는 인간화된 것인, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제14항에 있어서, 상기 항 PD-1제 또는 항 CTLA-4제는 각각 PD-1 또는 CTLA-4의 에피토프(epitope)에 특이적 결합을 제공하는 항체를 포함하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항에 있어서, 상기 항체는 완전항체, 항체 단편, 또는 항체 또는 항체 단편의 재조합 유도체(recombinant derivative)인, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "유효량의 제12항 내지 제26항 중 어느 한 항에 따른 재조합 종양 용해성 HSV-1, 및 \n약학적으로 허용 가능한 담체\n를 포함하는, 약학 조성물.",
+          "refers_to": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제27항에 있어서, 상기 조성물은 종양 내 투여용으로 제제화된, 약학 조성물.",
+          "refers_to": [
+            27
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20210608",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 28,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "야생형 HSV-1 유전체에서 결실 변형을 포함하는, 1형 단순 헤르페스 바이러스(Herepes Simplex Virus type 1, HSV-1) 벡터로서,상기 벡터는 (i) 야생형 HSV-1 유전체의 모든 이중복제 유전자(double-copy genes) 중 하나의 복제(one-copy)만을,(ii) 야생형 HSV-1 유전체의 중복된 비-코딩 서열 중 하나의 복제만을, 및(iii) 야생형 HSV-1 유전체의 모든 단일복제(single-copy) 오픈 리딩 프레임(open reading frames, ORFs)을 발현하는데 필요한 서열로서, ORFs 및 각각의 ORF를 발현하는데 필요한 조절 서열을 포함하며, 각 조절 서열은 완전한 프로모터를 포함하는, 서열을 포함하고,상기 HSV-1 벡터는 야생형 HSV-1에 감염되기 쉬운 포유동물 세포 내에서 복제될 수 없으나, 추가의 세포성 또는 바이러스성 DNA 서열의 삽입 후 복제가능한, 1형 단순 헤르페스 바이러스 벡터.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 이중복제 유전자는 ICP0, ICP4, ICP34.5, ORF P 및 ORF O를 코딩하는 유전자를 포함하는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 HSV-1은 프로토타입(P)의 유전체의 이성질체(isomer)를 포함하는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 HSV-1은 F 균주, KOS 균주 및 17 균주로 이루어진 군에서 선택되는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 있어서, 상기 결실은 F 균주의 유전체 중 뉴클레오티드 위치 117005 내지 132096의 절제(excision)를 일으키는, HSV-1 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 결실 변형은, HSV-1 유전체의 IL 이성질체인 경우 UL 성분의 마지막 유전자의 프로모터 내지 US 성분의 첫 유전자의 프로모터 사이의 결실을 포함하는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, UL 성분의 마지막 유전자가 UL1인, HSV-1 벡터.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제6항에 있어서, US 성분의 첫 유전자가 US1인, HSV-1 벡터.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 HSV-1 벡터는 야생형 HSV-1에 감염되기 쉬운 포유동물 세포 내에서 복제될 수 없는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 중복된 비-코딩 서열이 LAT 도메인 및 \"a\" 서열을 포함하는, HSV-1 벡터.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 따른 HSV-1 벡터, 및 면역자극제, 또는 면역치료제, 또는 면역자극제 및 면역치료제를 코딩하는 외인성 핵산서열로서, 적어도 상기 제1항에 따른 HSV-1 벡터의 결실 영역에 안정적으로 결합되는 외인성 핵산서열 을 포함하는, 재조합 종양 용해성(oncolytic) 1형 단순 헤르페스 바이러스 (HSV-1).",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 면역자극제는 GM-CSF, IL 2, IL 12, IL 15, IL 24 및 IL 27로 이루어진 군에서 선택되는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 면역치료제는 항 PD-1제, 또는 항 CTLA-4제, 또는 항 PD-1제 및 항 CTLA-4제인, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 외인성 핵산서열은 IL-12, 항 PD-1제, 및 항 CTLA-4제로 이루어진 군에서 선택되는 하나 이상을 코딩하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 IL-12를 코딩하는 제1 외인성 핵산서열 및 항 PD-1제 또는 항 CTLA-4제를 코딩하는 제2 외인성 핵산서열을 포함하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 항 PD-1제를 코딩하는 제1 외인성 핵산서열 및 항 CTLA-4제를 코딩하는 제2 외인성 핵산서열을 포함하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 IL-12를 코딩하는 제1 외인성 핵산서열, 항 PD-1제를 코딩하는 제2 외인성 핵산서열, 및 항 CTLA-4제를 코딩하는 제3 외인성 핵산서열을 포함하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 상기 외인성 핵산서열에 작동 가능하게 연결된(operably linked) 프로모터 서열을 더 포함하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항 또는 제17항에 있어서, 상기 제1 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 결실 영역에 삽입되고, 상기 제2 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL3과 UL4 유전자 사이에 삽입되는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            16,
+            17
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 제1 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 결실 영역에 삽입되고, 상기 제2 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL3과 UL4 유전자 사이에 삽입되며, 상기 제3 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL37과 UL38 유전자 사이에 삽입되는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제18항에 있어서, 상기 제1 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 결실 영역에 삽입되고, 상기 제2 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL37과 UL38 사이에 삽입되며, 상기 제3 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL3과 UL4 유전자 사이에 삽입되는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            18
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, 상기 프로모터 서열은 CMV 프로모터 또는 Egr-1 프로모터인, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제12항에 있어서, 상기 면역자극제, 또는 면역치료제, 또는 면역자극제 및 면역치료제는 인간화된 것인, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제14항에 있어서, 상기 항 PD-1제 또는 항 CTLA-4제는 각각 PD-1 또는 CTLA-4의 에피토프(epitope)에 특이적 결합을 제공하는 항체를 포함하는, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            14
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제25항에 있어서, 상기 항체는 완전항체, 항체 단편, 또는 항체 또는 항체 단편의 재조합 유도체(recombinant derivative)인, 재조합 종양 용해성 HSV-1.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "유효량의 제12항에 따른 재조합 종양 용해성 HSV-1, 및 약학적으로 허용 가능한 담체를 포함하는, 약학 조성물.",
+          "refers_to": [
+            12
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제27항에 있어서, 상기 조성물은 종양 내 투여용으로 제제화된, 약학 조성물.",
+          "refers_to": [
+            27
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210128",
+        "document_name": "[분할출원(국제출원)]특허출원서",
+        "claim_count": 28,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "야생형 HSV-1 유전체에서 결실 변형을 포함하는, 1형 단순 헤르페스 바이러스(Herepes Simplex Virus type 1, HSV-1) 벡터로서,\n상기 벡터는 \n(i) 야생형 HSV-1 유전체의 모든 이중복제 유전자(double-copy genes) 중 하나의 복제(one-copy)만을,\n(ii) 야생형 HSV-1 유전체의 중복된 비-코딩 서열 중 하나의 복제만을, 및\n(iii) 야생형 HSV-1 유전체의 모든 단일복제(single-copy) 오픈 리딩 프레임(open reading frames, ORFs)을 발현하는데 필요한 서열로서, ORFs 및 각각의 ORF를 발현하는데 필요한 조절 서열을 포함하며, 각 조절 서열은 완전한 프로모터를 포함하는, 서열\n을 포함하는,\n1형 단순 헤르페스 바이러스 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 이중복제 유전자는 ICP0, ICP4, ICP34.5, ORF P 및 ORF O를 코딩하는 유전자를 포함하는, HSV-1 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 HSV-1은 프로토타입(P)의 유전체의 이성질체(isomer)를 포함하는, HSV-1 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 HSV-1은 F 균주, KOS 균주 및 17 균주로 이루어진 군에서 선택되는, HSV-1 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 결실은 F 균주의 유전체 중 뉴클레오티드 위치 117005 내지 132096의 절제(excision)를 일으키는, HSV-1 벡터.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 결실 변형은, HSV-1 유전체의 IL 이성질체인 경우 UL 성분의 마지막 유전자의 프로모터 내지 US 성분의 첫 유전자의 프로모터 사이의 결실을 포함하는, HSV-1 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, UL 성분의 마지막 유전자가 UL1인, HSV-1 벡터.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, US 성분의 첫 유전자가 US1인, HSV-1 벡터.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 HSV-1 벡터는 야생형 HSV-1에 감염되기 쉬운 포유동물 세포 내에서 복제될 수 없는, HSV-1 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 HSV-1 벡터는 야생형 HSV-1에 감염되기 쉬운 포유동물 세포 내에서 복제될 수 없으나, 추가의 세포성 또는 바이러스성 DNA 서열의 삽입 후 복제가능한, HSV-1 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 중복된 비-코딩 서열이 LAT 도메인 및 \"a\" 서열을 포함하는, HSV-1 벡터.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 따른 HSV-1 벡터, 및 \n면역자극제 및/또는 면역치료제를 코딩하는 외인성 핵산서열로서, 적어도 상기 제1항에 따른 HSV-1 벡터의 결실 영역에 안정적으로 결합되는 외인성 핵산서열 \n을 포함하는, 재조합 종양 용해성(oncolytic) 1형 단순 헤르페스 바이러스 (HSV-1).",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 면역자극제는 GM-CSF, IL 2, IL 12, IL 15, IL 24 및 IL 27로 이루어진 군에서 선택되는, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 면역치료제는 항 PD-1제 및/또는 항 CTLA-4제인, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 외인성 핵산서열은 IL-12, 항 PD-1제, 및 항 CTLA-4제로 이루어진 군에서 선택되는 하나 이상을 코딩하는, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 IL-12를 코딩하는 제1 외인성 핵산서열 및 항 PD-1제 또는 항 CTLA-4제를 코딩하는 제2 외인성 핵산서열을 포함하는, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 항 PD-1제를 코딩하는 제1 외인성 핵산서열 및 항 CTLA-4제를 코딩하는 제2 외인성 핵산서열을 포함하는, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 IL-12를 코딩하는 제1 외인성 핵산서열, 항 PD-1제를 코딩하는 제2 외인성 핵산서열, 및 항 CTLA-4제를 코딩하는 제3 외인성 핵산서열을 포함하는, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 재조합 종양 용해성 HSV-1은 상기 외인성 핵산서열에 작동 가능하게 연결된(operably linked) 프로모터 서열을 더 포함하는, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항 또는 제17항에 있어서, 상기 제1 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 결실 영역에 삽입되고, 상기 제2 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL3과 UL4 유전자 사이에 삽입되는, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              16,
+              17
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 제1 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 결실 영역에 삽입되고, 상기 제2 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL3과 UL4 유전자 사이에 삽입되며, 상기 제3 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL37과 UL38 유전자 사이에 삽입되는, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제18항에 있어서, 상기 제1 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 결실 영역에 삽입되고, 상기 제2 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL37과 UL38 사이에 삽입되며, 상기 제3 외인성 핵산서열은 상기 변형된 HSV-1 유전체의 UL 성분 중 UL3과 UL4 유전자 사이에 삽입되는, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              18
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 상기 프로모터 서열은 CMV 프로모터 또는 Egr-1 프로모터인, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제12항에 있어서, 상기 면역자극제 및/또는 면역치료제는 인간화된 것인, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제14항에 있어서, 상기 항 PD-1제 또는 항 CTLA-4제는 각각 PD-1 또는 CTLA-4의 에피토프(epitope)에 특이적 결합을 제공하는 항체를 포함하는, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              14
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제25항에 있어서, 상기 항체는 완전항체, 항체 단편, 또는 항체 또는 항체 단편의 재조합 유도체(recombinant derivative)인, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "유효량의 제12항 내지 제26항 중 어느 한 항에 따른 재조합 종양 용해성 HSV-1, 및 \n약학적으로 허용 가능한 담체\n를 포함하는, 약학 조성물.",
+            "refers_to": [
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제27항에 있어서, 상기 조성물은 종양 내 투여용으로 제제화된, 약학 조성물.",
+            "refers_to": [
+              27
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20210608",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 6,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "야생형 HSV-1 유전체에서 결실 변형을 포함하는, 1형 단순 헤르페스 바이러스(Herepes Simplex Virus type 1, HSV-1) 벡터로서,\n상기 벡터는 \n(i) 야생형 HSV-1 유전체의 모든 이중복제 유전자(double-copy genes) 중 하나의 복제(one-copy)만을,\n(ii) 야생형 HSV-1 유전체의 중복된 비-코딩 서열 중 하나의 복제만을, 및\n(iii) 야생형 HSV-1 유전체의 모든 단일복제(single-copy) 오픈 리딩 프레임(open reading frames, ORFs)을 발현하는데 필요한 서열로서, ORFs 및 각각의 ORF를 발현하는데 필요한 조절 서열을 포함하며, 각 조절 서열은 완전한 프로모터를 포함하는, 서열\n을 포함하고,\n상기 HSV-1 벡터는 야생형 HSV-1에 감염되기 쉬운 포유동물 세포 내에서 복제될 수 없으나, 추가의 세포성 또는 바이러스성 DNA 서열의 삽입 후 복제가능한, \n1형 단순 헤르페스 바이러스 벡터.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 따른 HSV-1 벡터, 및 \n면역자극제, 또는 면역치료제, 또는 면역자극제 및 면역치료제를 코딩하는 외인성 핵산서열로서, 적어도 상기 제1항에 따른 HSV-1 벡터의 결실 영역에 안정적으로 결합되는 외인성 핵산서열 \n을 포함하는, 재조합 종양 용해성(oncolytic) 1형 단순 헤르페스 바이러스 (HSV-1).",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 상기 면역치료제는 항 PD-1제, 또는 항 CTLA-4제, 또는 항 PD-1제 및 항 CTLA-4제인, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제12항에 있어서, 상기 면역자극제, 또는 면역치료제, 또는 면역자극제 및 면역치료제는 인간화된 것인, 재조합 종양 용해성 HSV-1.",
+            "refers_to": [
+              12
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "유효량의 제12항에 따른 재조합 종양 용해성 HSV-1, 및 \n약학적으로 허용 가능한 담체\n를 포함하는, 약학 조성물.",
+            "refers_to": [
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 28,
+      "after_claim_count": 6,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": {
+      "familyApplicationNumber": "1020187021388"
+    }
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2017.10.26",
+      "internationOpenNumber": "WO2017181420",
+      "internationalApplicationDate": "2016.04.22",
+      "internationalApplicationNumber": "PCT/CN2016/080025"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "중국 ****** 선전 룽화 디스트릭트 실버 스타 하이-테크 인더스트리얼 파크 플로어 ** 관광 로드 빌딩 * ****",
+      "code": "520180374099",
+      "country": "중국",
+      "engName": "IMMVIRA CO., LIMITED",
+      "name": "임비라 컴퍼니 리미티드"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "중국 ****** 광둥 광저우 샹쉐 ...",
+        "code": "",
+        "country": "",
+        "engName": "ZHOU, Grace Guoying",
+        "name": "저우 그레이스 궈잉"
+      },
+      {
+        "address": "중국 ****** 광둥 선전 다펑 뉴 디...",
+        "code": "",
+        "country": "",
+        "engName": "CHEN, Xiaoqing",
+        "name": "천 샤오칭"
+      },
+      {
+        "address": "중국 ****** 광둥 선전 다펑 뉴 디...",
+        "code": "",
+        "country": "",
+        "engName": "LIU, Xianjie",
+        "name": "류 시옌제"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 테헤란로 ***, 서림빌딩 **층 (역삼동)",
+      "code": "920011000036",
+      "country": "대한민국",
+      "engName": "YOU ME PATENT & LAW FIRM",
+      "name": "유미특허법인"
+    }
+  },
+  "priorityInfoArray": "",
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "JP2002536347 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2014047350 A1",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2015066042 A1",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2021.01.28",
+        "receiptNumber": "1-1-2021-0113679-15"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2021.04.21",
+        "receiptNumber": "9-5-2021-0316897-58"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2021.06.08",
+        "receiptNumber": "1-1-2021-0660058-57"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2021.06.08",
+        "receiptNumber": "1-1-2021-0660060-49"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.10.12",
+        "receiptNumber": "9-5-2021-0800343-52"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2021.12.07",
+        "receiptNumber": "1-1-2021-1415899-71"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217002912.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93ac22ae26402b68897db5aca17de387843f6306108a38e8527acd33d3baf392cb60ad7d3e7e80b9e19262f9d2870be6149edb609fcc9a5932",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf6129946b4a3291e27613c59962b14b9b482a1a95e43be1b8e15b4e1aeffe6030e6627991909465b09c69f180cef9960d7347fe804de2be68"
+  },
+  "rndInfoArray": ""
+}

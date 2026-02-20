@@ -1,0 +1,1573 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2020.09.25",
+      "applicationFlag": "",
+      "applicationNumber": "10-2022-7013077",
+      "claimCount": "40",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "다중-표적화 효과기 세포 및 이의 용도",
+      "inventionTitleEng": "MULTI-TARGETING EFFECTOR CELLS AND USE THEREOF",
+      "openDate": "2022.06.22",
+      "openNumber": "10-2022-0085779",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2023.09.21",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2022.04.19"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/725"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/705"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 35/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "게놈 조작된 iPSC의 유도 분화로부터 얻은 기능적으로 향상된 분화 효과기(effector) 세포를 얻기 위한 방법 및 조성물이 제공된다. 본원에 제공된 분화 세포(derivative cell)는 개선된 또는 향상된 치료 효과를 전달하는 안정하고 기능적인 게놈 편집을 갖는다. 단독으로, 또는 조합 치료에서의 항체 또는 관문 억제제와 함께 기능적으로 향상된 분화 효과기 세포를 포함하는 치료학적 조성물 및 이의 용도가 또한 제공된다."
+    }
+  },
+  "claims": {
+    "application_number": "1020227013077",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20220518",
+      "document_name": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+      "claim_count": 40,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포 또는 이의 집단으로서,\n(i) 세포는 유도 만능 세포(iPSC: induced pluripotent cell) 또는 iPSC 분화로부터 얻은 분화 세포이고;\n(ii) 세포는 적어도 BCMA-CAR(키메라 항원 수용체)을 암호화하는 폴리뉴클레오타이드를 포함하는, 세포 또는 이의 집단.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, iPSC 분화로부터 얻은 분화 세포는 조혈 세포이고, 말초혈, 제대혈 또는 임의의 다른 공여자 조직으로부터 얻은 이의 천연적 대응 세포와 비교하여 더 긴 텔로미어를 포함하고, BCMA-CAR은 하기 특징 중 적어도 하나를 갖는, 세포 또는 이의 집단:\n(i) T 세포 특이적임;\n(ii) NK 세포 특이적임;\n(iii) 표면 BCMA에 결합함;\n(iv) AAVS1, CCR5, ROSA26, 콜라겐, HTRP, H11, GAPDH 또는 RUNX1의 좌위 중 하나에서 삽입됨; 또는\n(v) B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT의 유전자 좌위 중 하나에서 삽입됨이되; 삽입은 그 좌위에서의 유전자의 발현을 선택적으로 넉아웃하는, 삽입됨.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 세포는 하기 중 하나 이상을 추가로 포함하는, 세포 또는 이의 집단:\n(i) CD38 넉아웃;\n(ii) 이의 천연적 대응 세포와 비교하여 B2M null 또는 저, 및 선택적으로 CIITA null 또는 저;\n(iii) HLA-G 또는 비절단성 HLA-G의 발현 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두에서의 넉아웃;\n(iv) 외인성 CD16 또는 이의 변이체;\n(v) BCMA 이외의 표적화 특이성을 갖는 키메라 항원 수용체(CAR);\n(vi) 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체;\n(vii) 표 1에 열거된 유전자형 중 적어도 하나;\n(viii) 이의 천연적 대응 세포와 비교하여 TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 및 TIGIT 중 적어도 하나에서의 결실 또는 발현 감소; 및\n(ix) 이의 천연적 대응 세포와 비교하여 HLA-E, 41BBL, CD3, CD4, CD8, CD16, CD47, CD113, CD131, CD137, CD80, PDL1, A2AR, 항원 특이적 TCR, Fc 수용체, 관문 억제제, 항체 또는 이의 기능적 단편 및 변이체, 및 이중특이적 인게이저 또는 다중특이적 인게이저 또는 보편적 인게이저와 커플링하기 위한 표면 트리거링 수용체 중 적어도 하나에서의 발현 도입 또는 발현 증가.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, BCMA-CAR은 적어도 하기를 포함하는, 세포 또는 이의 집단:\n(a) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역;\n(b) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역; 또는\n(c) 서열 번호 39 내지 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 세포는 분화 NK 세포 또는 분화 T 세포이고, 말초혈, 제대혈 또는 임의의 다른 공여자 조직으로부터 얻은 이의 천연적 대응 세포와 비교하여, 하기를 포함하는 특징 중 적어도 하나를 갖는, 세포 또는 이의 집단:\n(i) 지속성 및/또는 생존기간의 개선;\n(ii) 자연 면역 세포에 내성의 증가;\n(iii) 세포독성의 증가;\n(iv) 종양 침투의 개선;\n(v) ADCC의 향상 또는 획득;\n(vi) 종양 부위에 방관자 면역 세포를 이동시키고/시키거나 활성화하거나 동원하는 데 있어서의 능력의 향상;\n(vii) 종양 면역억제를 감소시키는 능력의 향상;\n(viii) 종양 항원 회피를 구제하는 능력의 개선;\n(ix) 종양 항원을 안정화시키는 능력; 및\n(x) 동족살해(fratricide)를 피하는 능력.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 외인성 CD16 또는 이의 변이체는 고친화성 비절단성 CD16(hnCD16)을 포함하는, 세포 또는 이의 집단.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 외인성 CD16 또는 이의 변이체는 하기 중 적어도 하나를 포함하는, 세포 또는 이의 집단:\n(a) CD16의 엑토도메인 도메인에서의 F176V 및 S197P;\n(b) CD64로부터 기원한 전체 또는 부분 엑토도메인;\n(c) 비(非)천연적(또는 비-CD16) 막관통 도메인;\n(d) 비천연적(또는 비-CD16) 세포내 도메인;\n(e) 비천연적(또는 비-CD16) 신호전달 도메인;\n(f) 비천연적 자극 도메인; 및\n(g) CD16으로부터 기원하지 않고, 동일한 폴리펩타이드 또는 상이한 폴리펩타이드로부터 기원한 막관통 도메인, 신호전달 도메인 및 자극 도메인.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n(a) 비천연적 막관통 도메인은 CD3D, CD3E, CD3G, CD3ζ, CD4, CD8, CD8a, CD8b, CD27, CD28, CD40, CD84, CD166, 4-1BB, OX40, ICOS, ICAM-1, CTLA-4, PD-1, LAG-3, 2B4, BTLA, CD16, IL7, IL12, IL15, KIR2DL4, KIR2DS1, NKp30, NKp44, NKp46, NKG2C, NKG2D 또는 T 세포 수용체(TCR: T cell receptor) 폴리펩타이드로부터 유래되거나;\n(b) 비천연적 자극 도메인은 CD27, CD28, 4-1BB, OX40, ICOS, PD-1, LAG-3, 2B4, BTLA, DAP10, DAP12, CTLA-4 또는 NKG2D 폴리펩타이드로부터 유래되거나;\n(c) 비천연적 신호전달 도메인은 CD3ζ, 2B4, DAP10, DAP12, DNAM1, CD137(41BB), IL21, IL7, IL12, IL15, NKp30, NKp44, NKp46, NKG2C 또는 NKG2D 폴리펩타이드로부터 유래되거나;\n(d) 비천연적 막관통 도메인은 NKG2D로부터 유래되고, 비천연적 자극 도메인은 2B4로부터 유래되고, 비천연적 신호전달 도메인은 CD3ζ로부터 유래되는, 세포 또는 이의 집단.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 세포는 BCMA 이외의 표적화 특이성을 갖는 CAR을 추가로 포함하고, CAR은\n(i) T 세포 특이적 또는 NK 세포 특이적이고/이거나;\n(ii) 이중특이적 항원 결합 CAR이고/이거나;\n(iii) 스위치 가능한 CAR이고/이거나;\n(iv) 이합체화된 CAR이고/이거나;\n(v) 분할 CAR이고/이거나;\n(vi) 다중사슬 CAR이고/이거나;\n(vii) 유도성 CAR이고/이거나;\n(viii) 선택적으로 별개의 작제물에서 또는 이중시스트론성 작제물에서 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체에 의해 동시발현되고/되거나;\n(xi) 선택적으로 별개의 작제물에서 또는 이중시스트론성 작제물에서 항체 또는 이의 기능적 단편 또는 변이체, 또는 관문 억제제에 의해 동시발현되고/되거나;\n(xii) CD19, MICA/B, CD20, CD22, CD38, CD123, HER2, CD52, EGFR, GD2, MSLN, VEGF-R2, PSMA 및 PDL1 중 적어도 하나에 특이적이고/이거나;\n(xiii) ADGRE2, 탄산무수화효소 IX(CAlX), CCRI, CCR4, 암배아 항원(CEA), CD3, CD5, CD7, CD8, CD10, CD20, CD22, CD30, CD33, CD34, CD38, CD41, CD44, CD44V6, CD49f, CD56, CD70, CD74, CD99, CD123, CD133, CD138, CDS, CLEC12A, 사이토메갈로바이러스(CMV: cytomegalovirus) 감염된 세포의 항원, 상피 당단백질2(EGP 2: epithelial glycoprotein2), 상피 당단백질-40(EGP-40), 상피 세포 부착 분자(EpCAM: epithelial cell adhesion molecule), EGFRvIII, 수용체 티로신-단백질 키나제 erb­ B2,3,4, EGFIR, EGFR-VIII, ERBB 엽산-결합 단백질(FBP: folate-binding protein), 태아 아세틸콜린 수용체(AChR: acetylcholine receptor), 엽산 수용체-a, 강글리오사이드 G2(GD2: Ganglioside G2), 강글리오사이드 G3(GD3: Ganglioside G3), 인간 표피 성장 인자 수용체 2(HER-2: human Epidermal Growth Factor Receptor 2), 인간 텔로머라제 역전사효소(hTERT: human telomerase reverse transcriptase), ICAM-1, 인테그린 B7, 인터류킨-13 수용체 아단위 알파-2(IL-13Rα2: Interleukin-13 receptor subunit alpha-2), κ-경쇄, 키나제 인서트 도메인 수용체(KDR: kinase insert domain receptor), 루이스 A(CA19.9), 루이스 Y(LeY), L1 세포 부착 분자(L1-CAM: L1 cell adhesion molecule), LILRB2, 흑색종 항원 패밀리 A1(MAGE-A1: melanoma antigen family A1), MICA/B, 뮤신 1(Muc-1), 뮤신 16(Muc-16), 메소텔린(MSLN), NKCSI, NKG2D 리간드, c-Met, 암-고환 항원 NY-ESO-1, 종양태아 항원(h5T4), PRAME, 전립선 줄기 세포 항원(PSCA: prostate stem cell antigen), PRAME 전립선 특이적 막 항원(PSMA: prostate-specific membrane antigen), 종양 연관된 당단백질 72(TAG-72: tumor­associated glycoprotein 72), TIM-3, TRBCI, TRBC2, 혈관 내피 성장 인자 R2(VEGF­ R2: vascular endothelial growth factor R2), 윌름스 종양 단백질(WT-1: Wilms tumor protein) 및 병원균 항원 중 어느 하나에 특이적인, 세포 또는 이의 집단.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 세포는 적어도 TRAC 좌위에서 삽입된 CAR을 포함하고/하거나, TCR의 내인성 프로모터에 의해 추진되고/되거나, TCR은 CAR 삽입에 의해 넉아웃되는, 세포 또는 이의 집단.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 세포 표면 발현된 단백질 복합체는\n(a) IL2, IL4, IL6, IL7, IL9, IL10, IL11, IL12, IL15, IL18, IL21, 또는 이들의 변이체; 및 이들의 수용체 또는 이들의 변이체 중 적어도 하나를 포함하거나;\n(b) 하기 중 적어도 하나를 포함하고;\n (i) 자가 절단 펩타이드를 사용한 IL15 및 IL15Rα의 동시발현;\n (ii) IL15와 IL15Rα의 융합 단백질;\n (iii) 절두된 IL15Rα의 세포내 도메인과의 IL15/IL15Rα 융합 단백질;\n (iv) IL15와 IL15Rα의 막 결합된 스시(Sushi) 도메인의 융합 단백질;\n (v) IL15와 IL15Rβ의 융합 단백질;\n (vi) IL15와 천연적 또는 변형된 공통 수용체 γC의 융합 단백질; 및\n (vii) IL15Rβ의 동종이합체;\n여기서, (i) 내지 (vii) 중 어느 하나는 별개의 작제물에서 또는 이중시스트론성 작제물에서 CAR과 동시발현될 수 있고;\n선택적으로,\n(c) 일시적으로 발현되는, 세포 또는 이의 집단.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, 세포는 분화 NK 세포 또는 분화 T 세포이고, 분화 NK 세포는 종양 부위에 T 세포를 동원하고/하거나 이동시킬 수 있고, 분화 NK 세포 또는 분화 T 세포는 하나 이상의 관문 억제제의 존재 하에 종양 면역억제를 감소시킬 수 있는, 세포 또는 이의 집단.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항 또는 제12항에 있어서, 관문 억제제는 PD-1, PDL-1, TIM-3, TIGIT, LAG-3, CTLA-4, 2B4, 4-1BB, 4-1BBL, A2aR, BATE, BTLA, CD39, CD47, CD73, CD94, CD96, CD160, CD200, CD200R, CD274, CEACAM1, CSF-1R, Foxpl, GARP, HVEM, IDO, EDO, TDO, LAIR-1, MICA/B, NR4A2, MAFB, OCT-2, Rara(레티노산 수용체 알파), TLR3, VISTA, NKG2A/HLA-E 또는 억제성 KIR을 포함하는 하나 이상의 관문 분자에 대한 길항제인, 세포 또는 이의 집단.",
+          "refers_to": [
+            3,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 관문 억제제는 하기를 포함하는, 세포 또는 이의 집단:\n(a) 아테졸리주맙, 아벨루맙, 더발루맙, 이필리무맙, IPH4102, IPH43, IPH33, 리리무맙, 모날리주맙, 니볼루맙, 펨브롤리주맙, 및 이들의 유도체 또는 기능적 균등물 중 하나 이상; 또는\n(b) 아테졸리주맙, 니볼루맙 및 펨브롤리주맙 중 적어도 하나.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 분화 세포는 분화 CD34 세포, 분화 조혈 줄기 세포 및 전구 세포, 분화 조혈 다능성 전구 세포, 분화 T 세포 전구세포, 분화 NK 세포 전구세포, 분화 T 세포, 분화 NKT 세포, 분화 NK 세포 또는 분화 B 세포를 포함하는, 세포 또는 이의 집단.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 세포는 하기를 포함하는, 세포 또는 이의 집단:\n(i) 하나의 안전 항구 좌위(safe harbor locus) 또는 선택 유전자 좌위(selected gene locus)에 통합된 하나 이상의 외인성 폴리뉴클레오타이드; 또는\n(ii) 상이한 안전 항구 좌위 또는 2개 이상의 선택 유전자 좌위에서 통합된 2개 초과의 외인성 폴리뉴클레오타이드; 또는\n(iii) 서열 번호 17, 서열 번호 19 또는 서열 번호 21과 적어도 약 75%, 80%, 85%, 90%, 95% 또는 99%의 동일성의 아미노산 서열을 포함하는 IL15Δ를 암호화하는 폴리뉴클레오타이드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제16항에 있어서, 안전 항구 좌위는 AAVS1, CCR5, ROSA26, 콜라겐, HTRP, H11, GAPDH 또는 RUNX1 중 적어도 하나를 포함하고; 선택 유전자 좌위는 B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT 중 하나이고; 외인성 폴리뉴클레오타이드의 통합은 좌위에서의 유전자의 발현을 선택적으로 넉아웃하는, 세포 또는 이의 집단.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서, TCR 좌위는 TCR 알파 또는 TCR 베타의 불변 영역인, 세포 또는 이의 집단.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포 또는 이의 집단으로서, BCMA-CAR, 및 (i) CD38 넉아웃, (ii) 외인성 CD16 또는 이의 변이체, 및 (iii) 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체 중 하나 이상을 포함하고; 세포는 면역 효과기 세포인, 세포 또는 이의 집단.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, BCMA-CAR은 적어도 하기를 포함하는, 세포 또는 이의 집단:\n(a) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역;\n(b) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역; 또는\n(c) 서열 번호 39 내지 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 하기 특징 중 적어도 하나를 포함하는, 세포 또는 이의 집단:\n(i) 지속성 및/또는 생존기간의 개선;\n(ii) 자연 면역 세포에 내성의 증가;\n(iii) 세포독성의 증가;\n(iv) 종양 침투의 개선;\n(v) ADCC의 향상 또는 획득;\n(vi) 종양 부위에 방관자 면역 세포를 이동시키고/시키거나 활성화하거나 동원하는 데 있어서의 능력의 향상;\n(vii) 종양 면역억제를 감소시키는 능력의 향상;\n(viii) 종양 항원 회피를 구제하는 능력의 개선;\n(ix) 종양 항원을 안정화시키는 능력; 및\n(x) 동족살해를 피하는 능력.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제19항에 있어서, 면역 효과기 세포는 T 계통 또는 NK 계통 세포인, 세포 또는 이의 집단.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제22항 중 어느 한 항의 세포 또는 이의 집단을 포함하는, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제22항 중 어느 한 항의 세포 및 하나 이상의 치료제를 포함하는, 치료 용도를 위한 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제24항에 있어서, 하나 이상의 치료제는 펩타이드, 사이토카인, 관문 억제제, 미토겐, 성장 인자, 소형 RNA, dsRNA(이중 가닥 RNA), 단핵 혈액 세포, 지지 세포, 지지 세포 성분 또는 이의 대체 인자, 하나 이상의 관심 다중핵산을 포함하는 벡터, 항체 또는 이의 기능적 변이체 또는 단편, 화학치료제 또는 방사성 모이어티, 또는 면역조절 약물(IMiD)을 포함하는, 조성물.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항에 있어서,\n(1) 관문 억제제는\n (a) PD-1, PDL-1, TIM-3, TIGIT, LAG-3, CTLA-4, 2B4, 4-1BB, 4-1BBL, A2aR, BATE, BTLA, CD39, CD47, CD73, CD94, CD96, CD160, CD200, CD200R, CD274, CEACAM1, CSF-1R, Foxpl, GARP, HVEM, IDO, EDO, TDO, LAIR-1, MICA/B, NR4A2, MAFB, OCT-2, Rara(레티노산 수용체 알파), TLR3, VISTA, NKG2A/HLA-E 또는 억제성 KIR을 포함하는 관문 분자에 대한 하나 이상의 길항제;\n (b) 아테졸리주맙, 아벨루맙, 더발루맙, 이필리무맙, IPH4102, IPH43, IPH33, 리리무맙, 모날리주맙, 니볼루맙, 펨브롤리주맙, 및 이들의 유도체 또는 기능적 균등물 중 하나 이상; 또는\n (c) 아테졸리주맙, 니볼루맙 및 펨브롤리주맙 중 적어도 하나를 포함하거나;\n(2) 치료제는 베네토클락스, 아자시티딘 및 포말리도마이드 중 하나 이상을 포함하거나;\n(3) 치료제는 감마 세크레타제 억제제(GSI)를 포함하는, 조성물.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제25항에 있어서, 항체는 하기를 포함하는, 조성물:\n(a) 항-CD20, 항-HER2, 항-CD52, 항-EGFR, 항-CD123, 항-GD2, 항-PDL1 및/또는 항-CD38 항체;\n(b) 리툭시맙, 벨투주맙, 오파투무맙, 우블리툭시맙, 오카라투주맙, 오비누투주맙, 트라스투주맙, 페르투주맙, 알렘투주맙, 세툭시맙, 디누툭시맙, 아벨루맙, 다라투무맙, 이사툭시맙, MOR202, 7G3, CSL362, 엘로투주맙, 및 이들의 인간화된 변이체 또는 단편 또는 Fc 변형된 변이체 또는 단편, 및 이들의 기능적 균등물 및 바이오시밀러 중 하나 이상; 또는\n(c) 다라투무맙.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "입양 세포 치료에 적합한 대상체에게 조성물을 투여하는 것에 의한, 제24항 내지 제27항 중 어느 한 항의 조성물의 치료학적 용도로서, 대상체는 (i) 자가면역 장애; 조혈 악성종양; 고형 종양; 암 또는 바이러스 감염; (ii) 염증성 자가면역 질환, 혈장 세포의 암 또는 B 림프구의 암; (iii) 자가반응성 혈장 세포 및/또는 자가반응성 기억 B 세포와 연관된 자가면역 질환; (iv) 전신 홍반 루푸스(SLE) 또는 류마티스성 관절염, 다발성 골수종, 형질세포종, 발데스트롬 거대글로불린혈증, 혈장 세포 백혈병 또는 호지킨병; 또는 (v) 다발성 골수종을 갖는, 치료학적 용도.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "iPSC를 분화시키는 단계를 포함하는, 제1항 내지 제18항 중 어느 한 항의 분화 세포를 제조하는 방법으로서, iPSC는 BCMA-CAR을 암호화하는 폴리뉴클레오타이드, 및 선택적으로 하기 중 하나 이상을 포함하는, 방법:\n(i) CD38 넉아웃;\n(ii) 이의 천연적 대응 세포와 비교하여 B2M null 또는 저, 및 선택적으로 CIITA null 또는 저;\n(iii) HLA-G 또는 비절단성 HLA-G의 발현 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두에서의 넉아웃;\n(iv) 고친화도 비절단성 CD16(hnCD16) 또는 이의 변이체;\n(v) BCMA 이외의 표적화 특이성을 갖는 키메라 항원 수용체(CAR);\n(vi) 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체;\n(vii) 표 1에 열거된 유전자형 중 적어도 하나;\n(viii) 이의 천연적 대응 세포와 비교하여 TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 및 TIGIT 중 적어도 하나에서의 결실 또는 발현 감소; 및\n(ix) 이의 천연적 대응 세포와 비교하여 HLA-E, 41BBL, CD3, CD4, CD8, CD16, CD47, CD113, CD131, CD137, CD80, PDL1, A2AR, 항원 특이적 TCR, Fc 수용체, 관문 억제제, 항체 또는 이의 기능적 단편 또는 변이체, 및 이중특이적 인게이저 또는 다중특이적 인게이저 또는 보편적 인게이저와 커플링하기 위한 표면 트리거링 수용체 중 적어도 하나에서의 발현 도입 또는 발현 증가.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제29항에 있어서, BCMA-CAR을 암호화하는 폴리뉴클레오타이드를 넉아웃하기 위해; 그리고 선택적으로 하기를 하기 위해 클론성 iPSC를 게놈 조작하는 단계를 추가로 포함하는, 분화 세포를 제조하는 방법:\n(i) CD38을 넉아웃하기 위해; 또는\n(ii) B2M 및 CIITA를 넉아웃하도록, 하나의 또는 둘 모두의 CD58 및 CD54를 넉아웃하도록, 또는 HLA-G 또는 비절단성 HLA-G, 외인성 CD16 또는 이의 변이체, 제2 CAR, 및/또는 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체의 발현을 도입하도록.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제30항에 있어서, 게놈 조작은 표적화된 편집을 포함하는, 분화 세포를 제조하는 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제31항에 있어서, 표적화된 편집은 결실, 삽입 또는 삽입/결실(in/del)을 포함하고, 표적화된 편집은 CRISPR, ZFN, TALEN, 호밍 뉴클레아제, 상동성 재조합, 또는 이들 방법의 임의의 다른 기능적 변형에 의해 수행되는, 분화 세포를 제조하는 방법.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "클론성 iPSC의 CRISPR 매개된 편집으로서, 편집은 BCMA-CAR을 암호화하는 폴리뉴클레오타이드의 넉인을 포함하고, 편집된 클론성 iPSC는 표 1에 열거된 유전자형 중 적어도 하나를 포함하는, CRISPR 매개된 편집.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "33항에 있어서, 편집은 CD38의 넉아웃을 추가로 포함하거나, BCMA-CAR은 하기 특징 중 적어도 하나를 포함하는, CRISPR 매개된 편집.\n(i) T 세포 특이적임;\n(ii) NK 세포 특이적임;\n(iii) 표면 BCMA에 결합함;\n(iv) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역을 포함함;\n(vi) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역을 포함함;\n(vii) 서열 번호 39, 서열 번호 40, 서열 번호 41, 서열 번호 42, 서열 번호 43 또는 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV를 포함함; 및\n(viii) B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT의 유전자 좌위 중 하나에서 삽입됨이되, 삽입은 그 좌위에서의 유전자의 발현을 넉아웃하는, 삽입됨.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제33항에 있어서, 편집은 BCMA-CAR 또는 TCR 좌위의 불변 영역에서의 제2 CAR의 삽입을 추가로 포함하고/하거나, CAR은 TCR의 내인성 프로모터에 의해 추진되고/되거나, TCR은 CAR 삽입에 의해 넉아웃되는, CRISPR 매개된 편집.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "다발성 골수종의 치료를 개선하는 방법으로서, 치료 중인 대상체에게 BCMA-CAR, CD38 넉아웃, 및 고친화성 비절단성 CD16 또는 이의 변이체를 포함하는 효과기 세포를 투여하는 단계를 포함하고, BCMA-CAR은 하기 특징 중 적어도 하나를 갖는, 방법:\n(i) T 세포 특이적임;\n(ii) NK 세포 특이적임;\n(iii) 세포 표면 BCMA에 결합하고 이를 안정화함;\n(iv) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역을 포함함;\n(vi) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역을 포함함;\n(vii) 서열 번호 39, 서열 번호 40, 서열 번호 41, 서열 번호 42, 서열 번호 43 또는 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV를 포함함; 및\n(viii) B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT의 유전자 좌위 중 하나에서 삽입됨이되, 삽입은 그 좌위에서의 유전자의 발현을 넉아웃하는, 삽입됨.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 효과기 세포는 분화 NK 세포 또는 분화 T 세포를 포함하는 분화 조혈 세포를 포함하고, 분화 NK 세포 또는 분화 T 세포는 하기 중 하나 이상을 추가로 포함하는, 방법:\n(i) B2M 및 CIITA 넉아웃;\n(ii) HLA-G 또는 비절단성 HLA-G의 발현 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두의 넉아웃;\n(iii) 제2 CAR, 및/또는 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체의 발현 도입; 및/또는\n(iii) 표 1에 열거된 유전자형 중 적어도 하나.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 항-CD38 항체 및/또는 GSI를 투여하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, BCMA-CAR, CD38 넉아웃 및 고친화성 비절단성 CD16 또는 이의 변이체를 포함하는 효과기 세포는 GSI와 접촉되었거나 접촉된, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제36항에 있어서, 다발성 골수종은 다발성 골수종의 재발성 또는 불응성 유형인, 방법.",
+          "refers_to": [
+            36
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20230921",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 40,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "세포 또는 이의 집단으로서,(i) 세포는 유도 만능 세포(iPSC: induced pluripotent cell) 또는 iPSC 분화로부터 얻은 분화 세포이고;(ii) 세포는 적어도 BCMA-CAR(키메라 항원 수용체)을 암호화하는 폴리뉴클레오타이드를 포함하는, 세포 또는 이의 집단.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, iPSC 분화로부터 얻은 분화 세포는 조혈 세포이고, 말초혈, 제대혈 또는 임의의 다른 공여자 조직으로부터 얻은 이의 천연적 대응 세포와 비교하여 더 긴 텔로미어를 포함하고, BCMA-CAR은 하기 특징 중 적어도 하나를 갖는, 세포 또는 이의 집단:(i) T 세포 특이적임;(ii) NK 세포 특이적임;(iii) 표면 BCMA에 결합함;(iv) AAVS1, CCR5, ROSA26, 콜라겐, HTRP, H11, GAPDH 또는 RUNX1의 좌위 중 하나에서 삽입됨; 또는(v) B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT의 유전자 좌위 중 하나에서 삽입됨이되; 삽입은 그 좌위에서의 유전자의 발현을 선택적으로 넉아웃하는, 삽입됨.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 세포는 하기 중 하나 이상을 추가로 포함하는, 세포 또는 이의 집단:(i) CD38 넉아웃;(ii) 이의 천연적 대응 세포와 비교하여 B2M null 또는 저, 및 선택적으로 CIITA null 또는 저;(iii) HLA-G 또는 비절단성 HLA-G의 발현 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두에서의 넉아웃;(iv) 외인성 CD16 또는 이의 변이체;(v) BCMA 이외의 표적화 특이성을 갖는 키메라 항원 수용체(CAR);(vi) 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체;(vii) 표 1에 열거된 유전자형 중 적어도 하나;(viii) 이의 천연적 대응 세포와 비교하여 TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 및 TIGIT 중 적어도 하나에서의 결실 또는 발현 감소; 및(ix) 이의 천연적 대응 세포와 비교하여 HLA-E, 41BBL, CD3, CD4, CD8, CD16, CD47, CD113, CD131, CD137, CD80, PDL1, A2AR, 항원 특이적 TCR, Fc 수용체, 관문 억제제, 항체 또는 이의 기능적 단편 및 변이체, 및 이중특이적 인게이저 또는 다중특이적 인게이저 또는 보편적 인게이저와 커플링하기 위한 표면 트리거링 수용체 중 적어도 하나에서의 발현 도입 또는 발현 증가.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, BCMA-CAR은 적어도 하기를 포함하는, 세포 또는 이의 집단:(a) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역;(b) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역; 또는(c) 서열 번호 39 내지 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 세포는 분화 NK 세포 또는 분화 T 세포이고, 말초혈, 제대혈 또는 임의의 다른 공여자 조직으로부터 얻은 이의 천연적 대응 세포와 비교하여, 하기를 포함하는 특징 중 적어도 하나를 갖는, 세포 또는 이의 집단:(i) 지속성 및/또는 생존기간의 개선;(ii) 자연 면역 세포에 내성의 증가;(iii) 세포독성의 증가;(iv) 종양 침투의 개선;(v) ADCC의 향상 또는 획득;(vi) 종양 부위에 방관자 면역 세포를 이동시키고/시키거나 활성화하거나 동원하는 데 있어서의 능력의 향상;(vii) 종양 면역억제를 감소시키는 능력의 향상;(viii)  종양 항원 회피를 구제하는 능력의 개선;(ix) 종양 항원을 안정화시키는 능력; 및(x) 동족살해(fratricide)를 피하는 능력.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 외인성 CD16 또는 이의 변이체는 고친화성 비절단성 CD16(hnCD16)을 포함하는, 세포 또는 이의 집단.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 외인성 CD16 또는 이의 변이체는 하기 중 적어도 하나를 포함하는, 세포 또는 이의 집단:(a) CD16의 엑토도메인 도메인에서의 F176V 및 S197P;(b) CD64로부터 기원한 전체 또는 부분 엑토도메인;(c) 비(非)천연적(또는 비-CD16) 막관통 도메인;(d) 비천연적(또는 비-CD16) 세포내 도메인;(e) 비천연적(또는 비-CD16) 신호전달 도메인;(f) 비천연적 자극 도메인; 및(g) CD16으로부터 기원하지 않고, 동일한 폴리펩타이드 또는 상이한 폴리펩타이드로부터 기원한 막관통 도메인, 신호전달 도메인 및 자극 도메인.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서,(a) 비천연적 막관통 도메인은 CD3D, CD3E, CD3G, CD3ζ, CD4, CD8, CD8a, CD8b, CD27, CD28, CD40, CD84, CD166, 4-1BB, OX40, ICOS, ICAM-1, CTLA-4, PD-1, LAG-3, 2B4, BTLA, CD16, IL7, IL12, IL15, KIR2DL4, KIR2DS1, NKp30, NKp44, NKp46, NKG2C, NKG2D 또는 T 세포 수용체(TCR: T cell receptor) 폴리펩타이드로부터 유래되거나;(b) 비천연적 자극 도메인은 CD27, CD28, 4-1BB, OX40, ICOS, PD-1, LAG-3, 2B4, BTLA, DAP10, DAP12, CTLA-4 또는 NKG2D 폴리펩타이드로부터 유래되거나;(c) 비천연적 신호전달 도메인은 CD3ζ, 2B4, DAP10, DAP12, DNAM1, CD137(41BB), IL21, IL7, IL12, IL15, NKp30, NKp44, NKp46, NKG2C 또는 NKG2D 폴리펩타이드로부터 유래되거나;(d) 비천연적 막관통 도메인은 NKG2D로부터 유래되고, 비천연적 자극 도메인은 2B4로부터 유래되고, 비천연적 신호전달 도메인은 CD3ζ로부터 유래되는, 세포 또는 이의 집단.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 세포는 BCMA 이외의 표적화 특이성을 갖는 CAR을 추가로 포함하고, CAR은(i) T 세포 특이적 또는 NK 세포 특이적이고/이거나;(ii) 이중특이적 항원 결합 CAR이고/이거나;(iii) 스위치 가능한 CAR이고/이거나;(iv) 이합체화된 CAR이고/이거나;(v) 분할 CAR이고/이거나;(vi) 다중사슬 CAR이고/이거나;(vii) 유도성 CAR이고/이거나;(viii) 선택적으로 별개의 작제물에서 또는 이중시스트론성 작제물에서 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체에 의해 동시발현되고/되거나;(xi) 선택적으로 별개의 작제물에서 또는 이중시스트론성 작제물에서 항체 또는 이의 기능적 단편 또는 변이체, 또는 관문 억제제에 의해 동시발현되고/되거나;(xii) CD19, MICA/B, CD20, CD22, CD38, CD123, HER2, CD52, EGFR, GD2, MSLN, VEGF-R2, PSMA 및 PDL1 중 적어도 하나에 특이적이고/이거나;(xiii) ADGRE2, 탄산무수화효소 IX(CAlX), CCRI, CCR4, 암배아 항원(CEA), CD3, CD5, CD7, CD8, CD10, CD20, CD22, CD30, CD33, CD34, CD38, CD41, CD44, CD44V6, CD49f, CD56, CD70, CD74, CD99, CD123, CD133, CD138, CDS, CLEC12A, 사이토메갈로바이러스(CMV: cytomegalovirus) 감염된 세포의 항원, 상피 당단백질2(EGP 2: epithelial glycoprotein2), 상피 당단백질-40(EGP-40), 상피 세포 부착 분자(EpCAM: epithelial cell adhesion molecule), EGFRvIII, 수용체 티로신-단백질 키나제 erb‐ B2,3,4, EGFIR, EGFR-VIII, ERBB 엽산-결합 단백질(FBP: folate-binding protein), 태아 아세틸콜린 수용체(AChR: acetylcholine receptor), 엽산 수용체-a, 강글리오사이드 G2(GD2: Ganglioside G2), 강글리오사이드 G3(GD3: Ganglioside G3), 인간 표피 성장 인자 수용체 2(HER-2: human Epidermal Growth Factor Receptor 2), 인간 텔로머라제 역전사효소(hTERT: human telomerase reverse transcriptase), ICAM-1, 인테그린 B7, 인터류킨-13 수용체 아단위 알파-2(IL-13Rα2: Interleukin-13 receptor subunit alpha-2), κ-경쇄, 키나제 인서트 도메인 수용체(KDR: kinase insert domain receptor), 루이스 A(CA19.9), 루이스 Y(LeY), L1 세포 부착 분자(L1-CAM: L1 cell adhesion molecule), LILRB2, 흑색종 항원 패밀리 A1(MAGE-A1: melanoma antigen family A1), MICA/B, 뮤신 1(Muc-1), 뮤신 16(Muc-16), 메소텔린(MSLN), NKCSI, NKG2D 리간드, c-Met, 암-고환 항원 NY-ESO-1, 종양태아 항원(h5T4), PRAME, 전립선 줄기 세포 항원(PSCA: prostate stem cell antigen), PRAME 전립선 특이적 막 항원(PSMA: prostate-specific membrane antigen), 종양 연관된 당단백질 72(TAG-72: tumor‐associated glycoprotein 72), TIM-3, TRBCI, TRBC2, 혈관 내피 성장 인자 R2(VEGF‐ R2: vascular endothelial growth factor R2), 윌름스 종양 단백질(WT-1: Wilms tumor protein) 및 병원균 항원 중 어느 하나에 특이적인, 세포 또는 이의 집단.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 세포는 적어도 TRAC 좌위에서 삽입된 CAR을 포함하고/하거나, TCR의 내인성 프로모터에 의해 추진되고/되거나, TCR은 CAR 삽입에 의해 넉아웃되는, 세포 또는 이의 집단.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 세포 표면 발현된 단백질 복합체는(a) IL2, IL4, IL6, IL7, IL9, IL10, IL11, IL12, IL15, IL18, IL21, 또는 이들의 변이체; 및 이들의 수용체 또는 이들의 변이체 중 적어도 하나를 포함하거나;(b) 하기 중 적어도 하나를 포함하고; (i) 자가 절단 펩타이드를 사용한 IL15 및 IL15Rα의 동시발현; (ii) IL15와 IL15Rα의 융합 단백질; (iii) 절두된 IL15Rα의 세포내 도메인과의 IL15/IL15Rα 융합 단백질; (iv) IL15와 IL15Rα의 막 결합된 스시(Sushi) 도메인의 융합 단백질; (v) IL15와 IL15Rβ의 융합 단백질; (vi) IL15와 천연적 또는 변형된 공통 수용체 γC의 융합 단백질; 및 (vii) IL15Rβ의 동종이합체;여기서, (i) 내지 (vii) 중 어느 하나는 별개의 작제물에서 또는 이중시스트론성 작제물에서 CAR과 동시발현될 수 있고;선택적으로,(c) 일시적으로 발현되는, 세포 또는 이의 집단.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항에 있어서, 세포는 분화 NK 세포 또는 분화 T 세포이고, 분화 NK 세포는 종양 부위에 T 세포를 동원하고/하거나 이동시킬 수 있고, 분화 NK 세포 또는 분화 T 세포는 하나 이상의 관문 억제제의 존재 하에 종양 면역억제를 감소시킬 수 있는, 세포 또는 이의 집단.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제3항 또는 제12항에 있어서, 관문 억제제는 PD-1, PDL-1, TIM-3, TIGIT, LAG-3, CTLA-4, 2B4, 4-1BB, 4-1BBL, A2aR, BATE, BTLA, CD39, CD47, CD73, CD94, CD96, CD160, CD200, CD200R, CD274, CEACAM1, CSF-1R, Foxpl, GARP, HVEM, IDO, EDO, TDO, LAIR-1, MICA/B, NR4A2, MAFB, OCT-2, Rara(레티노산 수용체 알파), TLR3, VISTA, NKG2A/HLA-E 또는 억제성 KIR을 포함하는 하나 이상의 관문 분자에 대한 길항제인, 세포 또는 이의 집단.",
+          "refers_to": [
+            3,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 관문 억제제는 하기를 포함하는, 세포 또는 이의 집단:(a) 아테졸리주맙, 아벨루맙, 더발루맙, 이필리무맙, IPH4102, IPH43, IPH33, 리리무맙, 모날리주맙, 니볼루맙, 펨브롤리주맙, 및 이들의 유도체 또는 기능적 균등물 중 하나 이상; 또는(b) 아테졸리주맙, 니볼루맙 및 펨브롤리주맙 중 적어도 하나.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 분화 세포는 분화 CD34 세포, 분화 조혈 줄기 세포 및 전구 세포, 분화 조혈 다능성 전구 세포, 분화 T 세포 전구세포, 분화 NK 세포 전구세포, 분화 T 세포, 분화 NKT 세포, 분화 NK 세포 또는 분화 B 세포를 포함하는, 세포 또는 이의 집단.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 세포는 하기를 포함하는, 세포 또는 이의 집단:(i) 하나의 안전 항구 좌위(safe harbor locus) 또는 선택 유전자 좌위(selected gene locus)에 통합된 하나 이상의 외인성 폴리뉴클레오타이드; 또는(ii) 상이한 안전 항구 좌위 또는 2개 이상의 선택 유전자 좌위에서 통합된 2개 초과의 외인성 폴리뉴클레오타이드; 또는(iii) 서열 번호 17, 서열 번호 19 또는 서열 번호 21과 적어도 약 75%, 80%, 85%, 90%, 95% 또는 99%의 동일성의 아미노산 서열을 포함하는 IL15Δ를 암호화하는 폴리뉴클레오타이드.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제16항에 있어서, 안전 항구 좌위는 AAVS1, CCR5, ROSA26, 콜라겐, HTRP, H11, GAPDH 또는 RUNX1 중 적어도 하나를 포함하고; 선택 유전자 좌위는 B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT 중 하나이고; 외인성 폴리뉴클레오타이드의 통합은 좌위에서의 유전자의 발현을 선택적으로 넉아웃하는, 세포 또는 이의 집단.",
+          "refers_to": [
+            16
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서, TCR 좌위는 TCR 알파 또는 TCR 베타의 불변 영역인, 세포 또는 이의 집단.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 19,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "세포 또는 이의 집단으로서, BCMA-CAR, 및 (i) CD38 넉아웃, (ii) 외인성 CD16 또는 이의 변이체, 및 (iii) 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체 중 하나 이상을 포함하고; 세포는 면역 효과기 세포인, 세포 또는 이의 집단.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 20,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, BCMA-CAR은 적어도 하기를 포함하는, 세포 또는 이의 집단:(a) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역;(b) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역; 또는(c) 서열 번호 39 내지 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 21,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, 하기 특징 중 적어도 하나를 포함하는, 세포 또는 이의 집단:(i) 지속성 및/또는 생존기간의 개선;(ii) 자연 면역 세포에 내성의 증가;(iii) 세포독성의 증가;(iv) 종양 침투의 개선;(v) ADCC의 향상 또는 획득;(vi) 종양 부위에 방관자 면역 세포를 이동시키고/시키거나 활성화하거나 동원하는 데 있어서의 능력의 향상;(vii) 종양 면역억제를 감소시키는 능력의 향상;(viii)  종양 항원 회피를 구제하는 능력의 개선;(ix) 종양 항원을 안정화시키는 능력; 및(x) 동족살해를 피하는 능력.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 22,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제19항에 있어서, 면역 효과기 세포는 T 계통 또는 NK 계통 세포인, 세포 또는 이의 집단.",
+          "refers_to": [
+            19
+          ]
+        },
+        {
+          "claim_number": 23,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제22항 중 어느 한 항의 세포 또는 이의 집단을 포함하는, 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 24,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제22항 중 어느 한 항의 세포 및 하나 이상의 치료제를 포함하는, 치료 용도를 위한 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 25,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제24항에 있어서, 하나 이상의 치료제는 펩타이드, 사이토카인, 관문 억제제, 미토겐, 성장 인자, 소형 RNA, dsRNA(이중 가닥 RNA), 단핵 혈액 세포, 지지 세포, 지지 세포 성분 또는 이의 대체 인자, 하나 이상의 관심 다중핵산을 포함하는 벡터, 항체 또는 이의 기능적 변이체 또는 단편, 화학치료제 또는 방사성 모이어티, 또는 면역조절 약물(IMiD)을 포함하는, 조성물.",
+          "refers_to": [
+            24
+          ]
+        },
+        {
+          "claim_number": 26,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제25항에 있어서,(1) 관문 억제제는 (a) PD-1, PDL-1, TIM-3, TIGIT, LAG-3, CTLA-4, 2B4, 4-1BB, 4-1BBL, A2aR, BATE, BTLA, CD39, CD47, CD73, CD94, CD96, CD160, CD200, CD200R, CD274, CEACAM1, CSF-1R, Foxpl, GARP, HVEM, IDO, EDO, TDO, LAIR-1, MICA/B, NR4A2, MAFB, OCT-2, Rara(레티노산 수용체 알파), TLR3, VISTA, NKG2A/HLA-E 또는 억제성 KIR을 포함하는 관문 분자에 대한 하나 이상의 길항제; (b) 아테졸리주맙, 아벨루맙, 더발루맙, 이필리무맙, IPH4102, IPH43, IPH33, 리리무맙, 모날리주맙, 니볼루맙, 펨브롤리주맙, 및 이들의 유도체 또는 기능적 균등물 중 하나 이상; 또는 (c) 아테졸리주맙, 니볼루맙 및 펨브롤리주맙 중 적어도 하나를 포함하거나;(2) 치료제는 베네토클락스, 아자시티딘 및 포말리도마이드 중 하나 이상을 포함하거나;(3) 치료제는 감마 세크레타제 억제제(GSI)를 포함하는, 조성물.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 27,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제25항에 있어서, 항체는 하기를 포함하는, 조성물:(a) 항-CD20, 항-HER2, 항-CD52, 항-EGFR, 항-CD123, 항-GD2, 항-PDL1 및/또는 항-CD38 항체;(b) 리툭시맙, 벨투주맙, 오파투무맙, 우블리툭시맙, 오카라투주맙, 오비누투주맙, 트라스투주맙, 페르투주맙, 알렘투주맙, 세툭시맙, 디누툭시맙, 아벨루맙, 다라투무맙, 이사툭시맙, MOR202, 7G3, CSL362, 엘로투주맙, 및 이들의 인간화된 변이체 또는 단편 또는 Fc 변형된 변이체 또는 단편, 및 이들의 기능적 균등물 및 바이오시밀러 중 하나 이상; 또는(c) 다라투무맙.",
+          "refers_to": [
+            25
+          ]
+        },
+        {
+          "claim_number": 28,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "입양 세포 치료에 적합한 대상체에게 조성물을 투여하는 것에 의한, 제24항 내지 제27항 중 어느 한 항의 조성물의 치료학적 용도로서, 대상체는 (i) 자가면역 장애; 조혈 악성종양; 고형 종양; 암 또는 바이러스 감염; (ii) 염증성 자가면역 질환, 혈장 세포의 암 또는 B 림프구의 암; (iii) 자가반응성 혈장 세포 및/또는 자가반응성 기억 B 세포와 연관된 자가면역 질환; (iv) 전신 홍반 루푸스(SLE) 또는 류마티스성 관절염, 다발성 골수종, 형질세포종, 발데스트롬 거대글로불린혈증, 혈장 세포 백혈병 또는 호지킨병; 또는 (v) 다발성 골수종을 갖는, 치료학적 용도.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 29,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "iPSC를 분화시키는 단계를 포함하는, 제1항 내지 제18항 중 어느 한 항의 분화 세포를 제조하는 방법으로서, iPSC는 BCMA-CAR을 암호화하는 폴리뉴클레오타이드, 및 선택적으로 하기 중 하나 이상을 포함하는, 방법:(i) CD38 넉아웃;(ii) 이의 천연적 대응 세포와 비교하여 B2M null 또는 저, 및 선택적으로 CIITA null 또는 저;(iii) HLA-G 또는 비절단성 HLA-G의 발현 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두에서의 넉아웃;(iv) 고친화도 비절단성 CD16(hnCD16) 또는 이의 변이체;(v) BCMA 이외의 표적화 특이성을 갖는 키메라 항원 수용체(CAR);(vi) 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체;(vii) 표 1에 열거된 유전자형 중 적어도 하나;(viii) 이의 천연적 대응 세포와 비교하여 TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 및 TIGIT 중 적어도 하나에서의 결실 또는 발현 감소; 및(ix) 이의 천연적 대응 세포와 비교하여 HLA-E, 41BBL, CD3, CD4, CD8, CD16, CD47, CD113, CD131, CD137, CD80, PDL1, A2AR, 항원 특이적 TCR, Fc 수용체, 관문 억제제, 항체 또는 이의 기능적 단편 또는 변이체, 및 이중특이적 인게이저 또는 다중특이적 인게이저 또는 보편적 인게이저와 커플링하기 위한 표면 트리거링 수용체 중 적어도 하나에서의 발현 도입 또는 발현 증가.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 30,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제29항에 있어서, BCMA-CAR을 암호화하는 폴리뉴클레오타이드를 넉아웃하기 위해; 그리고 선택적으로 하기를 하기 위해 클론성 iPSC를 게놈 조작하는 단계를 추가로 포함하는, 분화 세포를 제조하는 방법:(i) CD38을 넉아웃하기 위해; 또는(ii) B2M 및 CIITA를 넉아웃하도록, 하나의 또는 둘 모두의 CD58 및 CD54를 넉아웃하도록, 또는 HLA-G 또는 비절단성 HLA-G, 외인성 CD16 또는 이의 변이체, 제2 CAR, 및/또는 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체의 발현을 도입하도록.",
+          "refers_to": [
+            29
+          ]
+        },
+        {
+          "claim_number": 31,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제30항에 있어서, 게놈 조작은 표적화된 편집을 포함하는, 분화 세포를 제조하는 방법.",
+          "refers_to": [
+            30
+          ]
+        },
+        {
+          "claim_number": 32,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제31항에 있어서, 표적화된 편집은 결실, 삽입 또는 삽입/결실(in/del)을 포함하고, 표적화된 편집은 CRISPR, ZFN, TALEN, 호밍 뉴클레아제, 상동성 재조합, 또는 이들 방법의 임의의 다른 기능적 변형에 의해 수행되는, 분화 세포를 제조하는 방법.",
+          "refers_to": [
+            31
+          ]
+        },
+        {
+          "claim_number": 33,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "클론성 iPSC의 CRISPR 매개된 편집으로서, 편집은 BCMA-CAR을 암호화하는 폴리뉴클레오타이드의 넉인을 포함하고, 편집된 클론성 iPSC는 표 1에 열거된 유전자형 중 적어도 하나를 포함하는, CRISPR 매개된 편집.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 34,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "33항에 있어서, 편집은 CD38의 넉아웃을 추가로 포함하거나, BCMA-CAR은 하기 특징 중 적어도 하나를 포함하는, CRISPR 매개된 편집.(i) T 세포 특이적임;(ii) NK 세포 특이적임;(iii) 표면 BCMA에 결합함;(iv) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역을 포함함;(vi) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역을 포함함;(vii) 서열 번호 39, 서열 번호 40, 서열 번호 41, 서열 번호 42, 서열 번호 43 또는 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV를 포함함; 및(viii) B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT의 유전자 좌위 중 하나에서 삽입됨이되, 삽입은 그 좌위에서의 유전자의 발현을 넉아웃하는, 삽입됨.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 35,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제33항에 있어서, 편집은 BCMA-CAR 또는 TCR 좌위의 불변 영역에서의 제2 CAR의 삽입을 추가로 포함하고/하거나, CAR은 TCR의 내인성 프로모터에 의해 추진되고/되거나, TCR은 CAR 삽입에 의해 넉아웃되는, CRISPR 매개된 편집.",
+          "refers_to": [
+            33
+          ]
+        },
+        {
+          "claim_number": 36,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "다발성 골수종의 치료를 개선하는 방법으로서, 치료 중인 대상체에게 BCMA-CAR, CD38 넉아웃, 및 고친화성 비절단성 CD16 또는 이의 변이체를 포함하는 효과기 세포를 투여하는 단계를 포함하고, BCMA-CAR은 하기 특징 중 적어도 하나를 갖는, 방법:(i) T 세포 특이적임;(ii) NK 세포 특이적임;(iii) 세포 표면 BCMA에 결합하고 이를 안정화함;(iv) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역을 포함함;(vi) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역을 포함함;(vii) 서열 번호 39, 서열 번호 40, 서열 번호 41, 서열 번호 42, 서열 번호 43 또는 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV를 포함함; 및(viii) B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT의 유전자 좌위 중 하나에서 삽입됨이되, 삽입은 그 좌위에서의 유전자의 발현을 넉아웃하는, 삽입됨.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 37,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 효과기 세포는 분화 NK 세포 또는 분화 T 세포를 포함하는 분화 조혈 세포를 포함하고, 분화 NK 세포 또는 분화 T 세포는 하기 중 하나 이상을 추가로 포함하는, 방법:(i) B2M 및 CIITA 넉아웃;(ii) HLA-G 또는 비절단성 HLA-G의 발현 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두의 넉아웃;(iii) 제2 CAR, 및/또는 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체의 발현 도입; 및/또는(iii) 표 1에 열거된 유전자형 중 적어도 하나.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 38,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 항-CD38 항체 및/또는 GSI를 투여하는 단계를 추가로 포함하는, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 39,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, BCMA-CAR, CD38 넉아웃 및 고친화성 비절단성 CD16 또는 이의 변이체를 포함하는 효과기 세포는 GSI와 접촉되었거나 접촉된, 방법.",
+          "refers_to": [
+            36
+          ]
+        },
+        {
+          "claim_number": 40,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제36항에 있어서, 다발성 골수종은 다발성 골수종의 재발성 또는 불응성 유형인, 방법.",
+          "refers_to": [
+            36
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20220518",
+        "document_name": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+        "claim_count": 40,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포 또는 이의 집단으로서,\n(i) 세포는 유도 만능 세포(iPSC: induced pluripotent cell) 또는 iPSC 분화로부터 얻은 분화 세포이고;\n(ii) 세포는 적어도 BCMA-CAR(키메라 항원 수용체)을 암호화하는 폴리뉴클레오타이드를 포함하는, 세포 또는 이의 집단.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, iPSC 분화로부터 얻은 분화 세포는 조혈 세포이고, 말초혈, 제대혈 또는 임의의 다른 공여자 조직으로부터 얻은 이의 천연적 대응 세포와 비교하여 더 긴 텔로미어를 포함하고, BCMA-CAR은 하기 특징 중 적어도 하나를 갖는, 세포 또는 이의 집단:\n(i) T 세포 특이적임;\n(ii) NK 세포 특이적임;\n(iii) 표면 BCMA에 결합함;\n(iv) AAVS1, CCR5, ROSA26, 콜라겐, HTRP, H11, GAPDH 또는 RUNX1의 좌위 중 하나에서 삽입됨; 또는\n(v) B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT의 유전자 좌위 중 하나에서 삽입됨이되; 삽입은 그 좌위에서의 유전자의 발현을 선택적으로 넉아웃하는, 삽입됨.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 세포는 하기 중 하나 이상을 추가로 포함하는, 세포 또는 이의 집단:\n(i) CD38 넉아웃;\n(ii) 이의 천연적 대응 세포와 비교하여 B2M null 또는 저, 및 선택적으로 CIITA null 또는 저;\n(iii) HLA-G 또는 비절단성 HLA-G의 발현 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두에서의 넉아웃;\n(iv) 외인성 CD16 또는 이의 변이체;\n(v) BCMA 이외의 표적화 특이성을 갖는 키메라 항원 수용체(CAR);\n(vi) 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체;\n(vii) 표 1에 열거된 유전자형 중 적어도 하나;\n(viii) 이의 천연적 대응 세포와 비교하여 TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 및 TIGIT 중 적어도 하나에서의 결실 또는 발현 감소; 및\n(ix) 이의 천연적 대응 세포와 비교하여 HLA-E, 41BBL, CD3, CD4, CD8, CD16, CD47, CD113, CD131, CD137, CD80, PDL1, A2AR, 항원 특이적 TCR, Fc 수용체, 관문 억제제, 항체 또는 이의 기능적 단편 및 변이체, 및 이중특이적 인게이저 또는 다중특이적 인게이저 또는 보편적 인게이저와 커플링하기 위한 표면 트리거링 수용체 중 적어도 하나에서의 발현 도입 또는 발현 증가.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, BCMA-CAR은 적어도 하기를 포함하는, 세포 또는 이의 집단:\n(a) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역;\n(b) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역; 또는\n(c) 서열 번호 39 내지 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 세포는 분화 NK 세포 또는 분화 T 세포이고, 말초혈, 제대혈 또는 임의의 다른 공여자 조직으로부터 얻은 이의 천연적 대응 세포와 비교하여, 하기를 포함하는 특징 중 적어도 하나를 갖는, 세포 또는 이의 집단:\n(i) 지속성 및/또는 생존기간의 개선;\n(ii) 자연 면역 세포에 내성의 증가;\n(iii) 세포독성의 증가;\n(iv) 종양 침투의 개선;\n(v) ADCC의 향상 또는 획득;\n(vi) 종양 부위에 방관자 면역 세포를 이동시키고/시키거나 활성화하거나 동원하는 데 있어서의 능력의 향상;\n(vii) 종양 면역억제를 감소시키는 능력의 향상;\n(viii) 종양 항원 회피를 구제하는 능력의 개선;\n(ix) 종양 항원을 안정화시키는 능력; 및\n(x) 동족살해(fratricide)를 피하는 능력.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 외인성 CD16 또는 이의 변이체는 고친화성 비절단성 CD16(hnCD16)을 포함하는, 세포 또는 이의 집단.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 외인성 CD16 또는 이의 변이체는 하기 중 적어도 하나를 포함하는, 세포 또는 이의 집단:\n(a) CD16의 엑토도메인 도메인에서의 F176V 및 S197P;\n(b) CD64로부터 기원한 전체 또는 부분 엑토도메인;\n(c) 비(非)천연적(또는 비-CD16) 막관통 도메인;\n(d) 비천연적(또는 비-CD16) 세포내 도메인;\n(e) 비천연적(또는 비-CD16) 신호전달 도메인;\n(f) 비천연적 자극 도메인; 및\n(g) CD16으로부터 기원하지 않고, 동일한 폴리펩타이드 또는 상이한 폴리펩타이드로부터 기원한 막관통 도메인, 신호전달 도메인 및 자극 도메인.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n(a) 비천연적 막관통 도메인은 CD3D, CD3E, CD3G, CD3ζ, CD4, CD8, CD8a, CD8b, CD27, CD28, CD40, CD84, CD166, 4-1BB, OX40, ICOS, ICAM-1, CTLA-4, PD-1, LAG-3, 2B4, BTLA, CD16, IL7, IL12, IL15, KIR2DL4, KIR2DS1, NKp30, NKp44, NKp46, NKG2C, NKG2D 또는 T 세포 수용체(TCR: T cell receptor) 폴리펩타이드로부터 유래되거나;\n(b) 비천연적 자극 도메인은 CD27, CD28, 4-1BB, OX40, ICOS, PD-1, LAG-3, 2B4, BTLA, DAP10, DAP12, CTLA-4 또는 NKG2D 폴리펩타이드로부터 유래되거나;\n(c) 비천연적 신호전달 도메인은 CD3ζ, 2B4, DAP10, DAP12, DNAM1, CD137(41BB), IL21, IL7, IL12, IL15, NKp30, NKp44, NKp46, NKG2C 또는 NKG2D 폴리펩타이드로부터 유래되거나;\n(d) 비천연적 막관통 도메인은 NKG2D로부터 유래되고, 비천연적 자극 도메인은 2B4로부터 유래되고, 비천연적 신호전달 도메인은 CD3ζ로부터 유래되는, 세포 또는 이의 집단.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 세포는 BCMA 이외의 표적화 특이성을 갖는 CAR을 추가로 포함하고, CAR은\n(i) T 세포 특이적 또는 NK 세포 특이적이고/이거나;\n(ii) 이중특이적 항원 결합 CAR이고/이거나;\n(iii) 스위치 가능한 CAR이고/이거나;\n(iv) 이합체화된 CAR이고/이거나;\n(v) 분할 CAR이고/이거나;\n(vi) 다중사슬 CAR이고/이거나;\n(vii) 유도성 CAR이고/이거나;\n(viii) 선택적으로 별개의 작제물에서 또는 이중시스트론성 작제물에서 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체에 의해 동시발현되고/되거나;\n(xi) 선택적으로 별개의 작제물에서 또는 이중시스트론성 작제물에서 항체 또는 이의 기능적 단편 또는 변이체, 또는 관문 억제제에 의해 동시발현되고/되거나;\n(xii) CD19, MICA/B, CD20, CD22, CD38, CD123, HER2, CD52, EGFR, GD2, MSLN, VEGF-R2, PSMA 및 PDL1 중 적어도 하나에 특이적이고/이거나;\n(xiii) ADGRE2, 탄산무수화효소 IX(CAlX), CCRI, CCR4, 암배아 항원(CEA), CD3, CD5, CD7, CD8, CD10, CD20, CD22, CD30, CD33, CD34, CD38, CD41, CD44, CD44V6, CD49f, CD56, CD70, CD74, CD99, CD123, CD133, CD138, CDS, CLEC12A, 사이토메갈로바이러스(CMV: cytomegalovirus) 감염된 세포의 항원, 상피 당단백질2(EGP 2: epithelial glycoprotein2), 상피 당단백질-40(EGP-40), 상피 세포 부착 분자(EpCAM: epithelial cell adhesion molecule), EGFRvIII, 수용체 티로신-단백질 키나제 erb­ B2,3,4, EGFIR, EGFR-VIII, ERBB 엽산-결합 단백질(FBP: folate-binding protein), 태아 아세틸콜린 수용체(AChR: acetylcholine receptor), 엽산 수용체-a, 강글리오사이드 G2(GD2: Ganglioside G2), 강글리오사이드 G3(GD3: Ganglioside G3), 인간 표피 성장 인자 수용체 2(HER-2: human Epidermal Growth Factor Receptor 2), 인간 텔로머라제 역전사효소(hTERT: human telomerase reverse transcriptase), ICAM-1, 인테그린 B7, 인터류킨-13 수용체 아단위 알파-2(IL-13Rα2: Interleukin-13 receptor subunit alpha-2), κ-경쇄, 키나제 인서트 도메인 수용체(KDR: kinase insert domain receptor), 루이스 A(CA19.9), 루이스 Y(LeY), L1 세포 부착 분자(L1-CAM: L1 cell adhesion molecule), LILRB2, 흑색종 항원 패밀리 A1(MAGE-A1: melanoma antigen family A1), MICA/B, 뮤신 1(Muc-1), 뮤신 16(Muc-16), 메소텔린(MSLN), NKCSI, NKG2D 리간드, c-Met, 암-고환 항원 NY-ESO-1, 종양태아 항원(h5T4), PRAME, 전립선 줄기 세포 항원(PSCA: prostate stem cell antigen), PRAME 전립선 특이적 막 항원(PSMA: prostate-specific membrane antigen), 종양 연관된 당단백질 72(TAG-72: tumor­associated glycoprotein 72), TIM-3, TRBCI, TRBC2, 혈관 내피 성장 인자 R2(VEGF­ R2: vascular endothelial growth factor R2), 윌름스 종양 단백질(WT-1: Wilms tumor protein) 및 병원균 항원 중 어느 하나에 특이적인, 세포 또는 이의 집단.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 세포는 적어도 TRAC 좌위에서 삽입된 CAR을 포함하고/하거나, TCR의 내인성 프로모터에 의해 추진되고/되거나, TCR은 CAR 삽입에 의해 넉아웃되는, 세포 또는 이의 집단.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 세포 표면 발현된 단백질 복합체는\n(a) IL2, IL4, IL6, IL7, IL9, IL10, IL11, IL12, IL15, IL18, IL21, 또는 이들의 변이체; 및 이들의 수용체 또는 이들의 변이체 중 적어도 하나를 포함하거나;\n(b) 하기 중 적어도 하나를 포함하고;\n (i) 자가 절단 펩타이드를 사용한 IL15 및 IL15Rα의 동시발현;\n (ii) IL15와 IL15Rα의 융합 단백질;\n (iii) 절두된 IL15Rα의 세포내 도메인과의 IL15/IL15Rα 융합 단백질;\n (iv) IL15와 IL15Rα의 막 결합된 스시(Sushi) 도메인의 융합 단백질;\n (v) IL15와 IL15Rβ의 융합 단백질;\n (vi) IL15와 천연적 또는 변형된 공통 수용체 γC의 융합 단백질; 및\n (vii) IL15Rβ의 동종이합체;\n여기서, (i) 내지 (vii) 중 어느 하나는 별개의 작제물에서 또는 이중시스트론성 작제물에서 CAR과 동시발현될 수 있고;\n선택적으로,\n(c) 일시적으로 발현되는, 세포 또는 이의 집단.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, 세포는 분화 NK 세포 또는 분화 T 세포이고, 분화 NK 세포는 종양 부위에 T 세포를 동원하고/하거나 이동시킬 수 있고, 분화 NK 세포 또는 분화 T 세포는 하나 이상의 관문 억제제의 존재 하에 종양 면역억제를 감소시킬 수 있는, 세포 또는 이의 집단.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항 또는 제12항에 있어서, 관문 억제제는 PD-1, PDL-1, TIM-3, TIGIT, LAG-3, CTLA-4, 2B4, 4-1BB, 4-1BBL, A2aR, BATE, BTLA, CD39, CD47, CD73, CD94, CD96, CD160, CD200, CD200R, CD274, CEACAM1, CSF-1R, Foxpl, GARP, HVEM, IDO, EDO, TDO, LAIR-1, MICA/B, NR4A2, MAFB, OCT-2, Rara(레티노산 수용체 알파), TLR3, VISTA, NKG2A/HLA-E 또는 억제성 KIR을 포함하는 하나 이상의 관문 분자에 대한 길항제인, 세포 또는 이의 집단.",
+            "refers_to": [
+              3,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 관문 억제제는 하기를 포함하는, 세포 또는 이의 집단:\n(a) 아테졸리주맙, 아벨루맙, 더발루맙, 이필리무맙, IPH4102, IPH43, IPH33, 리리무맙, 모날리주맙, 니볼루맙, 펨브롤리주맙, 및 이들의 유도체 또는 기능적 균등물 중 하나 이상; 또는\n(b) 아테졸리주맙, 니볼루맙 및 펨브롤리주맙 중 적어도 하나.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 분화 세포는 분화 CD34 세포, 분화 조혈 줄기 세포 및 전구 세포, 분화 조혈 다능성 전구 세포, 분화 T 세포 전구세포, 분화 NK 세포 전구세포, 분화 T 세포, 분화 NKT 세포, 분화 NK 세포 또는 분화 B 세포를 포함하는, 세포 또는 이의 집단.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 세포는 하기를 포함하는, 세포 또는 이의 집단:\n(i) 하나의 안전 항구 좌위(safe harbor locus) 또는 선택 유전자 좌위(selected gene locus)에 통합된 하나 이상의 외인성 폴리뉴클레오타이드; 또는\n(ii) 상이한 안전 항구 좌위 또는 2개 이상의 선택 유전자 좌위에서 통합된 2개 초과의 외인성 폴리뉴클레오타이드; 또는\n(iii) 서열 번호 17, 서열 번호 19 또는 서열 번호 21과 적어도 약 75%, 80%, 85%, 90%, 95% 또는 99%의 동일성의 아미노산 서열을 포함하는 IL15Δ를 암호화하는 폴리뉴클레오타이드.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제16항에 있어서, 안전 항구 좌위는 AAVS1, CCR5, ROSA26, 콜라겐, HTRP, H11, GAPDH 또는 RUNX1 중 적어도 하나를 포함하고; 선택 유전자 좌위는 B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT 중 하나이고; 외인성 폴리뉴클레오타이드의 통합은 좌위에서의 유전자의 발현을 선택적으로 넉아웃하는, 세포 또는 이의 집단.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서, TCR 좌위는 TCR 알파 또는 TCR 베타의 불변 영역인, 세포 또는 이의 집단.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 19,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포 또는 이의 집단으로서, BCMA-CAR, 및 (i) CD38 넉아웃, (ii) 외인성 CD16 또는 이의 변이체, 및 (iii) 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체 중 하나 이상을 포함하고; 세포는 면역 효과기 세포인, 세포 또는 이의 집단.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 20,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, BCMA-CAR은 적어도 하기를 포함하는, 세포 또는 이의 집단:\n(a) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역;\n(b) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역; 또는\n(c) 서열 번호 39 내지 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 21,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 하기 특징 중 적어도 하나를 포함하는, 세포 또는 이의 집단:\n(i) 지속성 및/또는 생존기간의 개선;\n(ii) 자연 면역 세포에 내성의 증가;\n(iii) 세포독성의 증가;\n(iv) 종양 침투의 개선;\n(v) ADCC의 향상 또는 획득;\n(vi) 종양 부위에 방관자 면역 세포를 이동시키고/시키거나 활성화하거나 동원하는 데 있어서의 능력의 향상;\n(vii) 종양 면역억제를 감소시키는 능력의 향상;\n(viii) 종양 항원 회피를 구제하는 능력의 개선;\n(ix) 종양 항원을 안정화시키는 능력; 및\n(x) 동족살해를 피하는 능력.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 22,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제19항에 있어서, 면역 효과기 세포는 T 계통 또는 NK 계통 세포인, 세포 또는 이의 집단.",
+            "refers_to": [
+              19
+            ]
+          },
+          {
+            "claim_number": 23,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제22항 중 어느 한 항의 세포 또는 이의 집단을 포함하는, 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 24,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제22항 중 어느 한 항의 세포 및 하나 이상의 치료제를 포함하는, 치료 용도를 위한 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 25,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제24항에 있어서, 하나 이상의 치료제는 펩타이드, 사이토카인, 관문 억제제, 미토겐, 성장 인자, 소형 RNA, dsRNA(이중 가닥 RNA), 단핵 혈액 세포, 지지 세포, 지지 세포 성분 또는 이의 대체 인자, 하나 이상의 관심 다중핵산을 포함하는 벡터, 항체 또는 이의 기능적 변이체 또는 단편, 화학치료제 또는 방사성 모이어티, 또는 면역조절 약물(IMiD)을 포함하는, 조성물.",
+            "refers_to": [
+              24
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제25항에 있어서,\n(1) 관문 억제제는\n (a) PD-1, PDL-1, TIM-3, TIGIT, LAG-3, CTLA-4, 2B4, 4-1BB, 4-1BBL, A2aR, BATE, BTLA, CD39, CD47, CD73, CD94, CD96, CD160, CD200, CD200R, CD274, CEACAM1, CSF-1R, Foxpl, GARP, HVEM, IDO, EDO, TDO, LAIR-1, MICA/B, NR4A2, MAFB, OCT-2, Rara(레티노산 수용체 알파), TLR3, VISTA, NKG2A/HLA-E 또는 억제성 KIR을 포함하는 관문 분자에 대한 하나 이상의 길항제;\n (b) 아테졸리주맙, 아벨루맙, 더발루맙, 이필리무맙, IPH4102, IPH43, IPH33, 리리무맙, 모날리주맙, 니볼루맙, 펨브롤리주맙, 및 이들의 유도체 또는 기능적 균등물 중 하나 이상; 또는\n (c) 아테졸리주맙, 니볼루맙 및 펨브롤리주맙 중 적어도 하나를 포함하거나;\n(2) 치료제는 베네토클락스, 아자시티딘 및 포말리도마이드 중 하나 이상을 포함하거나;\n(3) 치료제는 감마 세크레타제 억제제(GSI)를 포함하는, 조성물.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 27,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제25항에 있어서, 항체는 하기를 포함하는, 조성물:\n(a) 항-CD20, 항-HER2, 항-CD52, 항-EGFR, 항-CD123, 항-GD2, 항-PDL1 및/또는 항-CD38 항체;\n(b) 리툭시맙, 벨투주맙, 오파투무맙, 우블리툭시맙, 오카라투주맙, 오비누투주맙, 트라스투주맙, 페르투주맙, 알렘투주맙, 세툭시맙, 디누툭시맙, 아벨루맙, 다라투무맙, 이사툭시맙, MOR202, 7G3, CSL362, 엘로투주맙, 및 이들의 인간화된 변이체 또는 단편 또는 Fc 변형된 변이체 또는 단편, 및 이들의 기능적 균등물 및 바이오시밀러 중 하나 이상; 또는\n(c) 다라투무맙.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "입양 세포 치료에 적합한 대상체에게 조성물을 투여하는 것에 의한, 제24항 내지 제27항 중 어느 한 항의 조성물의 치료학적 용도로서, 대상체는 (i) 자가면역 장애; 조혈 악성종양; 고형 종양; 암 또는 바이러스 감염; (ii) 염증성 자가면역 질환, 혈장 세포의 암 또는 B 림프구의 암; (iii) 자가반응성 혈장 세포 및/또는 자가반응성 기억 B 세포와 연관된 자가면역 질환; (iv) 전신 홍반 루푸스(SLE) 또는 류마티스성 관절염, 다발성 골수종, 형질세포종, 발데스트롬 거대글로불린혈증, 혈장 세포 백혈병 또는 호지킨병; 또는 (v) 다발성 골수종을 갖는, 치료학적 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "iPSC를 분화시키는 단계를 포함하는, 제1항 내지 제18항 중 어느 한 항의 분화 세포를 제조하는 방법으로서, iPSC는 BCMA-CAR을 암호화하는 폴리뉴클레오타이드, 및 선택적으로 하기 중 하나 이상을 포함하는, 방법:\n(i) CD38 넉아웃;\n(ii) 이의 천연적 대응 세포와 비교하여 B2M null 또는 저, 및 선택적으로 CIITA null 또는 저;\n(iii) HLA-G 또는 비절단성 HLA-G의 발현 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두에서의 넉아웃;\n(iv) 고친화도 비절단성 CD16(hnCD16) 또는 이의 변이체;\n(v) BCMA 이외의 표적화 특이성을 갖는 키메라 항원 수용체(CAR);\n(vi) 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체;\n(vii) 표 1에 열거된 유전자형 중 적어도 하나;\n(viii) 이의 천연적 대응 세포와 비교하여 TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 및 TIGIT 중 적어도 하나에서의 결실 또는 발현 감소; 및\n(ix) 이의 천연적 대응 세포와 비교하여 HLA-E, 41BBL, CD3, CD4, CD8, CD16, CD47, CD113, CD131, CD137, CD80, PDL1, A2AR, 항원 특이적 TCR, Fc 수용체, 관문 억제제, 항체 또는 이의 기능적 단편 또는 변이체, 및 이중특이적 인게이저 또는 다중특이적 인게이저 또는 보편적 인게이저와 커플링하기 위한 표면 트리거링 수용체 중 적어도 하나에서의 발현 도입 또는 발현 증가.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제29항에 있어서, BCMA-CAR을 암호화하는 폴리뉴클레오타이드를 넉아웃하기 위해; 그리고 선택적으로 하기를 하기 위해 클론성 iPSC를 게놈 조작하는 단계를 추가로 포함하는, 분화 세포를 제조하는 방법:\n(i) CD38을 넉아웃하기 위해; 또는\n(ii) B2M 및 CIITA를 넉아웃하도록, 하나의 또는 둘 모두의 CD58 및 CD54를 넉아웃하도록, 또는 HLA-G 또는 비절단성 HLA-G, 외인성 CD16 또는 이의 변이체, 제2 CAR, 및/또는 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체의 발현을 도입하도록.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 31,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제30항에 있어서, 게놈 조작은 표적화된 편집을 포함하는, 분화 세포를 제조하는 방법.",
+            "refers_to": [
+              30
+            ]
+          },
+          {
+            "claim_number": 32,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제31항에 있어서, 표적화된 편집은 결실, 삽입 또는 삽입/결실(in/del)을 포함하고, 표적화된 편집은 CRISPR, ZFN, TALEN, 호밍 뉴클레아제, 상동성 재조합, 또는 이들 방법의 임의의 다른 기능적 변형에 의해 수행되는, 분화 세포를 제조하는 방법.",
+            "refers_to": [
+              31
+            ]
+          },
+          {
+            "claim_number": 33,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "클론성 iPSC의 CRISPR 매개된 편집으로서, 편집은 BCMA-CAR을 암호화하는 폴리뉴클레오타이드의 넉인을 포함하고, 편집된 클론성 iPSC는 표 1에 열거된 유전자형 중 적어도 하나를 포함하는, CRISPR 매개된 편집.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 34,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "33항에 있어서, 편집은 CD38의 넉아웃을 추가로 포함하거나, BCMA-CAR은 하기 특징 중 적어도 하나를 포함하는, CRISPR 매개된 편집.\n(i) T 세포 특이적임;\n(ii) NK 세포 특이적임;\n(iii) 표면 BCMA에 결합함;\n(iv) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역을 포함함;\n(vi) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역을 포함함;\n(vii) 서열 번호 39, 서열 번호 40, 서열 번호 41, 서열 번호 42, 서열 번호 43 또는 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV를 포함함; 및\n(viii) B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT의 유전자 좌위 중 하나에서 삽입됨이되, 삽입은 그 좌위에서의 유전자의 발현을 넉아웃하는, 삽입됨.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 35,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제33항에 있어서, 편집은 BCMA-CAR 또는 TCR 좌위의 불변 영역에서의 제2 CAR의 삽입을 추가로 포함하고/하거나, CAR은 TCR의 내인성 프로모터에 의해 추진되고/되거나, TCR은 CAR 삽입에 의해 넉아웃되는, CRISPR 매개된 편집.",
+            "refers_to": [
+              33
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "다발성 골수종의 치료를 개선하는 방법으로서, 치료 중인 대상체에게 BCMA-CAR, CD38 넉아웃, 및 고친화성 비절단성 CD16 또는 이의 변이체를 포함하는 효과기 세포를 투여하는 단계를 포함하고, BCMA-CAR은 하기 특징 중 적어도 하나를 갖는, 방법:\n(i) T 세포 특이적임;\n(ii) NK 세포 특이적임;\n(iii) 세포 표면 BCMA에 결합하고 이를 안정화함;\n(iv) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역을 포함함;\n(vi) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역을 포함함;\n(vii) 서열 번호 39, 서열 번호 40, 서열 번호 41, 서열 번호 42, 서열 번호 43 또는 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV를 포함함; 및\n(viii) B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT의 유전자 좌위 중 하나에서 삽입됨이되, 삽입은 그 좌위에서의 유전자의 발현을 넉아웃하는, 삽입됨.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 효과기 세포는 분화 NK 세포 또는 분화 T 세포를 포함하는 분화 조혈 세포를 포함하고, 분화 NK 세포 또는 분화 T 세포는 하기 중 하나 이상을 추가로 포함하는, 방법:\n(i) B2M 및 CIITA 넉아웃;\n(ii) HLA-G 또는 비절단성 HLA-G의 발현 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두의 넉아웃;\n(iii) 제2 CAR, 및/또는 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체의 발현 도입; 및/또는\n(iii) 표 1에 열거된 유전자형 중 적어도 하나.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 항-CD38 항체 및/또는 GSI를 투여하는 단계를 추가로 포함하는, 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, BCMA-CAR, CD38 넉아웃 및 고친화성 비절단성 CD16 또는 이의 변이체를 포함하는 효과기 세포는 GSI와 접촉되었거나 접촉된, 방법.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제36항에 있어서, 다발성 골수종은 다발성 골수종의 재발성 또는 불응성 유형인, 방법.",
+            "refers_to": [
+              36
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20230921",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 세포는 하기 중 하나 이상을 추가로 포함하는, 세포 또는 이의 집단:\n(i) CD38 넉아웃;\n(ii) 이의 천연적 대응 세포와 비교하여 HLA-I 결핍 및 선택적으로 HLA-II 결핍;\n(iii) HLA-G 또는 비절단성 HLA-G의 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두에서의 넉아웃;\n(iv) 외인성 CD16 또는 이의 변이체;\n(v) BCMA 이외의 표적화 특이성을 갖는 키메라 항원 수용체(CAR);\n(vi) 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체;\n(vii) 표 1에 열거된 유전자형 중 적어도 하나;\n(viii) 이의 천연적 대응 세포와 비교하여 B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 및 TIGIT 중 적어도 하나에서의 결실 또는 파괴; 및\n(ix) 이의 천연적 대응 세포와 비교하여 HLA-E, 41BBL, CD3, CD4, CD8, CD16, CD47, CD113, CD131, CD137, CD80, PDL1, A2AR, 항원 특이적 TCR, Fc 수용체, 관문 억제제, 항체 또는 이의 기능적 단편 및 변이체, 및 이중특이적 인게이저 또는 다중특이적 인게이저 또는 보편적 인게이저와 커플링하기 위한 표면 트리거링 수용체 중 적어도 하나의 도입 또는 상향조절.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항에 있어서, 세포는 BCMA 이외의 표적화 특이성을 갖는 CAR을 추가로 포함하고, CAR은\n(i) T 세포 특이적 또는 NK 세포 특이적이고/이거나;\n(ii) 이중특이적 항원 결합 CAR이고/이거나;\n(iii) 스위치 가능한 CAR이고/이거나;\n(iv) 이합체화된 CAR이고/이거나;\n(v) 분할 CAR이고/이거나;\n(vi) 다중사슬 CAR이고/이거나;\n(vii) 유도성 CAR이고/이거나;\n(viii) 선택적으로 별개의 작제물에서 또는 이중시스트론성 작제물에서 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체에 의해 동시발현되고/되거나;\n(xi) 선택적으로 별개의 작제물에서 또는 이중시스트론성 작제물에서 항체 또는 이의 기능적 단편 또는 변이체, 또는 관문 억제제에 의해 동시발현되고/되거나;\n(xii) CD19, MICA/B, CD20, CD22, CD38, CD123, HER2, CD52, EGFR, GD2, MSLN, VEGF-R2, PSMA 및 PDL1 중 적어도 하나에 특이적이고/이거나;\n(xiii) ADGRE2, 탄산무수화효소 IX(CAIX), CCR1, CCR4, 암배아 항원(CEA), CD3, CD5, CD7, CD8, CD10, CD20, CD22, CD30, CD33, CD34, CD38, CD41, CD44, CD44V6, CD49f, CD56, CD70, CD74, CD99, CD123, CD133, CD138, CDS, CLEC12A, 사이토메갈로바이러스(CMV: cytomegalovirus) 감염된 세포의 항원, 상피 당단백질2(EGP-2: epithelial glycoprotein2), 상피 당단백질-40(EGP-40), 상피 세포 부착 분자(EpCAM: epithelial cell adhesion molecule), EGFRvIII, 수용체 티로신-단백질 키나제 erb­ B2,3,4, EGFIR, EGFR-VIII, ERBB 엽산-결합 단백질(FBP: folate-binding protein), 태아 아세틸콜린 수용체(AChR: acetylcholine receptor), 엽산 수용체-a, 강글리오사이드 G2(GD2: Ganglioside G2), 강글리오사이드 G3(GD3: Ganglioside G3), 인간 표피 성장 인자 수용체 2(HER2: human Epidermal Growth Factor Receptor 2), 인간 텔로머라제 역전사효소(hTERT: human telomerase reverse transcriptase), ICAM-1, 인테그린 B7, 인터류킨-13 수용체 아단위 알파-2(IL-13Rα2: Interleukin-13 receptor subunit alpha-2), κ-경쇄, 키나제 인서트 도메인 수용체(KDR: kinase insert domain receptor), 루이스 A(CA19.9), 루이스 Y(LeY), L1 세포 부착 분자(L1-CAM: L1 cell adhesion molecule), LILRB2, 흑색종 항원 패밀리 A1(MAGE-A1: melanoma antigen family A1), MICA/B, 뮤신 1(Muc-1), 뮤신 16(Muc-16), 메소텔린(MSLN), NKCSI, NKG2D 리간드, c-Met, 암-고환 항원 NY-ESO-1, 종양태아 항원(h5T4), PRAME, 전립선 줄기 세포 항원(PSCA: prostate stem cell antigen), PRAME 전립선 특이적 막 항원(PSMA: prostate-specific membrane antigen), 종양 연관된 당단백질 72(TAG-72: tumor­associated glycoprotein 72), TIM-3, TRBCI, TRBC2, 혈관 내피 성장 인자 R2(VEGF-R2: vascular endothelial growth factor R2), 윌름스 종양 단백질(WT-1: Wilms tumor protein) 및 병원균 항원 중 어느 하나에 특이적인, 세포 또는 이의 집단.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제3항 또는 제12항에 있어서, 관문 억제제는 PD-1, PDL-1, TIM-3, TIGIT, LAG-3, CTLA-4, 2B4, 4-1BB, 4-1BBL, A2AR, BATE, BTLA, CD39, CD47, CD73, CD94, CD96, CD160, CD200, CD200R, CD274, CEACAM1, CSF-1R, Foxpl, GARP, HVEM, IDO, EDO, TDO, LAIR-1, MICA/B, NR4A2, MAFB, OCT-2, Rara(레티노산 수용체 알파), TLR3, VISTA, NKG2A/HLA-E 또는 억제성 KIR을 포함하는 하나 이상의 관문 분자에 대한 길항제인, 세포 또는 이의 집단.",
+            "refers_to": [
+              3,
+              12
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제16항에 있어서, 안전 항구 좌위는 AAVS1, CCR5, ROSA26, 콜라겐, HTRP, H11, GAPDH 또는 RUNX1 중 적어도 하나를 포함하고; 선택 유전자 좌위는 B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT 중 하나이고; 선택적으로 외인성 폴리뉴클레오타이드의 통합은 좌위에서의 유전자의 발현을 넉아웃하는, 세포 또는 이의 집단.",
+            "refers_to": [
+              16
+            ]
+          },
+          {
+            "claim_number": 26,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제25항에 있어서,\n(1) 관문 억제제는\n (a) PD-1, PDL-1, TIM-3, TIGIT, LAG-3, CTLA-4, 2B4, 4-1BB, 4-1BBL, A2AR, BATE, BTLA, CD39, CD47, CD73, CD94, CD96, CD160, CD200, CD200R, CD274, CEACAM1, CSF-1R, Foxpl, GARP, HVEM, IDO, EDO, TDO, LAIR-1, MICA/B, NR4A2, MAFB, OCT-2, Rara(레티노산 수용체 알파), TLR3, VISTA, NKG2A/HLA-E 또는 억제성 KIR을 포함하는 관문 분자에 대한 하나 이상의 길항제;\n (b) 아테졸리주맙, 아벨루맙, 더발루맙, 이필리무맙, IPH4102, IPH43, IPH33, 리리무맙, 모날리주맙, 니볼루맙, 펨브롤리주맙, 및 이들의 유도체 또는 기능적 균등물 중 하나 이상; 또는\n (c) 아테졸리주맙, 니볼루맙 및 펨브롤리주맙 중 적어도 하나를 포함하거나;\n(2) 치료제는 베네토클락스, 아자시티딘 및 포말리도마이드 중 하나 이상을 포함하거나;\n(3) 치료제는 감마 세크레타제 억제제(GSI)를 포함하는, 조성물.",
+            "refers_to": [
+              25
+            ]
+          },
+          {
+            "claim_number": 28,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "(i) 자가면역 장애; 조혈 악성종양; 고형 종양; 암 또는 바이러스 감염; (ii) 염증성 자가면역 질환, 혈장 세포의 암 또는 B 림프구의 암; (iii) 자가반응성 혈장 세포 및/또는 자가반응성 기억 B 세포와 연관된 자가면역 질환; (iv) 전신 홍반 루푸스(SLE) 또는 류마티스성 관절염, 다발성 골수종, 형질세포종, 발데스트롬 거대글로불린혈증, 혈장 세포 백혈병 또는 호지킨병; 또는 (v) 다발성 골수종의 치료를 위한 약제의 제조에서의, 제24항 내지 제27항 중 어느 한 항의 조성물의 용도.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 29,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "iPSC를 분화시키는 단계를 포함하는, 제1항 내지 제18항 중 어느 한 항의 분화 세포를 제조하는 방법으로서, iPSC는 BCMA-CAR을 암호화하는 폴리뉴클레오타이드, 및 선택적으로 하기 중 하나 이상을 포함하는, 방법:\n(i) CD38 넉아웃;\n(ii) 이의 천연적 대응 세포와 비교하여 HLA-I 결핍 및 선택적으로 HLA-II 결핍;\n(iii) HLA-G 또는 비절단성 HLA-G의 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두에서의 넉아웃;\n(iv) 외인성 CD16 또는 이의 변이체;\n(v) BCMA 이외의 표적화 특이성을 갖는 키메라 항원 수용체(CAR);\n(vi) 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체;\n(vii) 표 1에 열거된 유전자형 중 적어도 하나;\n(viii) 이의 천연적 대응 세포와 비교하여 B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 및 TIGIT 중 적어도 하나에서의 결실 또는 파괴; 및\n(ix) 이의 천연적 대응 세포와 비교하여 HLA-E, 41BBL, CD3, CD4, CD8, CD16, CD47, CD113, CD131, CD137, CD80, PDL1, A2AR, 항원 특이적 TCR, Fc 수용체, 관문 억제제, 항체 또는 이의 기능적 단편 또는 변이체, 및 이중특이적 인게이저 또는 다중특이적 인게이저 또는 보편적 인게이저와 커플링하기 위한 표면 트리거링 수용체 중 적어도 하나의 도입 또는 상향조절.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 30,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제29항에 있어서, BCMA-CAR을 암호화하는 폴리뉴클레오타이드를 넉아웃하기 위해; 그리고 선택적으로 하기를 하기 위해 클론성 iPSC를 게놈 조작하는 단계를 추가로 포함하는, 분화 세포를 제조하는 방법:\n(i) CD38을 넉아웃하기 위해; 또는\n(ii) B2M 또는 CIITA를 넉아웃하도록, 하나의 또는 둘 모두의 CD58 및 CD54를 넉아웃하도록, 또는 HLA-G 또는 비절단성 HLA-G, 외인성 CD16 또는 이의 변이체, 제2 CAR, 및/또는 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체를 암호화하는 폴리뉴클레오타이드를 도입하도록.",
+            "refers_to": [
+              29
+            ]
+          },
+          {
+            "claim_number": 36,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "다발성 골수종의 치료를 위한 약제의 제조에 있어서의, BCMA-CAR, CD38 넉아웃 및 외인성 CD16 또는 이의 변이체를 포함하는 효과기 세포의 용도로서, BCMA-CAR은 하기 특징 중 적어도 하나를 갖는, 용도:\n(i) T 세포 특이적임;\n(ii) NK 세포 특이적임;\n(iii) 세포 표면 BCMA에 결합하고 이를 안정화함;\n(iv) 서열 번호 33, 서열 번호 35 또는 서열 번호 37 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 중쇄 가변 영역을 포함함;\n(vi) 서열 번호 34, 서열 번호 36 또는 서열 번호 38 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 경쇄 가변 영역을 포함함;\n(vii) 서열 번호 39, 서열 번호 40, 서열 번호 41, 서열 번호 42, 서열 번호 43 또는 서열 번호 44 중 어느 하나와 적어도 약 99%, 98%, 96%, 95%, 90%, 85% 또는 80%의 동일성을 갖는 아미노산 서열로 표현된 scFV를 포함함; 및\n(viii) B2M, TAP1, TAP2, 타파신, NLRC5, CIITA, RFXANK, RFX5, RFXAP, TCR, NKG2A, NKG2D, CD38, CD58, CD54, CD56, CIS, CBL-B, SOCS2, PD1, CTLA4, LAG3, TIM3 또는 TIGIT의 유전자 좌위 중 하나에서 삽입됨이되, 삽입은 그 좌위에서의 유전자의 발현을 넉아웃하는, 삽입됨.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 37,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제36항에 있어서, 효과기 세포는 분화 NK 세포 또는 분화 T 세포를 포함하는 분화 조혈 세포를 포함하고, 분화 NK 세포 또는 분화 T 세포는 하기 중 하나 이상을 추가로 포함하는, 용도:\n(i) B2M 또는 CIITA 넉아웃;\n(ii) HLA-G 또는 비절단성 HLA-G의 발현 도입, 또는 CD58 및 CD54의 하나 또는 둘 모두의 넉아웃;\n(iii) 제2 CAR, 및/또는 사이토카인, 사이토카인 수용체의 부분 길이 또는 전체 길이, 또는 임의의 이들의 조합을 포함하는 세포 표면 발현된 단백질 복합체의 발현 도입; 및/또는\n(iii) 표 1에 열거된 유전자형 중 적어도 하나.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 38,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제36항에 있어서, 약제가 항-CD38 항체 및/또는 GSI와 조합하여 사용하기 위한 것인, 용도.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 39,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제36항에 있어서, BCMA-CAR, CD38 넉아웃 및 외인성 CD16 또는 이의 변이체를 포함하는 효과기 세포는 GSI와 접촉되었거나 접촉된, 용도.",
+            "refers_to": [
+              36
+            ]
+          },
+          {
+            "claim_number": 40,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제36항에 있어서, 다발성 골수종은 다발성 골수종의 재발성 또는 불응성 유형인, 용도.",
+            "refers_to": [
+              36
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 40,
+      "after_claim_count": 13,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2021.04.01",
+      "internationOpenNumber": "WO2021062281",
+      "internationalApplicationDate": "2020.09.25",
+      "internationalApplicationNumber": "PCT/US2020/052890"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국, 캘리포니아 *****, 샌디에이고, ***** 스크립스 서밋 드라이브",
+      "code": "520130366419",
+      "country": "미국",
+      "engName": "FATE THERAPEUTICS, INC.",
+      "name": "페이트 세러퓨틱스, 인코포레이티드"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미국, 캘리포니아 *****, 샌디에...",
+        "code": "",
+        "country": "",
+        "engName": "VALAMEHR, Bahram",
+        "name": "발라메르 바흐람"
+      },
+      {
+        "address": "미국, 캘리포니아 *****, 샌디에...",
+        "code": "",
+        "country": "",
+        "engName": "BJORDAHL, Ryan",
+        "name": "비요르달 라이언"
+      },
+      {
+        "address": "미국, 캘리포니아 *****, 샌디에...",
+        "code": "",
+        "country": "",
+        "engName": "GOODRIDGE, Jode",
+        "name": "굿리지 조드"
+      },
+      {
+        "address": "미국, 캘리포니아 *****, 샌디에...",
+        "code": "",
+        "country": "",
+        "engName": "LEE, Tom, Tong",
+        "name": "리 톰 통"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 송파구 법원로 ***, *층(문정동)",
+      "code": "920201000613",
+      "country": "대한민국",
+      "engName": "HANOL Intellectual Property and Law",
+      "name": "특허법인한얼"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2019.09.25",
+        "priorityApplicationNumber": "62/906,046"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2019.12.05",
+        "priorityApplicationNumber": "62/944,187"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2019112899 A2",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "US20130156770 A1",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2022.04.19",
+        "receiptNumber": "1-1-2022-0418608-38"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[New Translation under Article 201 of Patent Act or Article 35 of Utility Model Act] Submission of Document",
+        "documentName": "[특허법 제201조 또는 실용신안법 제35조에 따른 새로운 번역문]서류제출서",
+        "receiptDate": "2022.05.18",
+        "receiptNumber": "1-1-2022-0526994-92"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2022.05.26",
+        "receiptNumber": "1-5-2022-0080521-75"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2023.09.21",
+        "receiptNumber": "1-1-2023-1049598-72"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2023.09.21",
+        "receiptNumber": "1-1-2023-1049600-87"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.09.30",
+        "receiptNumber": "9-5-2025-0953614-12"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020227013077.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93bf1cff51db646d1de53b2b4c8afab768283d8ea144e9385e38222adace6133963adfc023dbbca34ab9f4daf3975eae8c3e2408a1297d31bc",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf82c7bac398cb8ded059cff424e2fddc67ba38a7f47b8086c81caf158044188dd3edb3e5fb83c6b9196e424bc3d3a1d2e86de11a9c0169d70"
+  },
+  "rndInfoArray": ""
+}

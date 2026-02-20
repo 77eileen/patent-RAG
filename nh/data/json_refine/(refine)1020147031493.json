@@ -1,0 +1,939 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2013.04.23",
+      "applicationFlag": "",
+      "applicationNumber": "10-2014-7031493",
+      "claimCount": "15",
+      "examinerName": "이현지",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "락토페린 융합 단백질 및 그의 제조방법",
+      "inventionTitleEng": "Lactoferrin fusion protein and method for producing  same",
+      "openDate": "2015.01.23",
+      "openNumber": "10-2015-0008870",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2018.02.08",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2020.11.10",
+      "publicationNumber": "",
+      "registerDate": "2020.11.04",
+      "registerNumber": "10-2177252-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2014.11.10"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/79"
+      },
+      {
+        "ipcDate": "(2024.01.01)",
+        "ipcNumber": "A01K 67/027"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/40"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/62"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C12N 15/82"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 천연 락토페린의 생물활성을 유지하고, 체내 수명이 유의하게 연장되어 있으며, 임상적 유용성이 천연 락토페린 및 유전자 재조합형 락토페린보다도 우수한 락토페린 융합 단백질 및 그의 제조방법 등을 제공하는 것을 목적으로 한다. 본 발명은 FcRn 결합영역을 포함하는 단백질 또는 펩티드와 락토페린 또는 락토페린의 생물활성 단편 또는 펩티드의 융합 단백질로서, 〔식중, LF는 락토페린 또는 락토페린의 생물활성 단편 또는 펩티드, Y는 FcRn 결합영역을 포함하는 단백질 또는 펩티드, s는 0~10개의 임의의 아미노산의 서열, n은 1~10의 정수를 나타낸다〕 으로 표시되는 융합 단백질 또는 그의 개변체를 제공한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020147031493",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20141110",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "FcRn 결합영역을 포함하는 단백질 또는 펩티드와 락토페린 또는 락토페린의 생물활성 단편 또는 펩티드의 융합 단백질로서, \n[이미지]\n〔식중, LF는 락토페린 또는 락토페린의 생물활성 단편 또는 펩티드, Y는 FcRn 결합영역을 포함하는 단백질 또는 펩티드, s는 0~10개의 임의의 아미노산의 서열, n은 1~10의 정수를 나타낸다〕\n으로 표시되는 융합 단백질 또는 그의 개변체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\nFcRn 결합영역을 포함하는 단백질 또는 펩티드가 IgG, IgG의 중쇄, IgG의 중쇄 Fc영역, Fc영역의 CH2 도메인 및 CH3 도메인, Fc영역의 CH2 도메인, 알부민 또는 알부민의 FcRn 결합영역 중 어느 하나를 포함하는, 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서,\n융합 단백질이 단량체 또는 2량체(n=1 또는 2)인 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서,\n융합 단백질이 단량체인 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제4항 중 어느 한 항에 있어서,\n융합 단백질이 천연 또는 유전자 재조합형 락토페린의 50% 이상의 철킬레이트능을 유지하고 있는 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n융합 단백질은 락토페린 수용체, IgG 수용체 및 알부민 수용체로 이루어진 군으로부터 선택되는 하나 이상의 수용체를 매개로 흡수되는 것인 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제6항 중 어느 한 항에 있어서,\n융합 단백질은 천연 또는 유전자 재조합형 락토페린과 비교하여 키모트립신 내성이 향상된 것인 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체를 코드하는 핵산 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 기재된 핵산 분자를 포함하는 발현 벡터.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 기재된 발현 벡터를 포함하는 숙주세포.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 기재된 핵산 분자를 포함하는 비인간 유전자 재조합 동물.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제8항에 기재된 핵산 분자를 포함하는 유전자 재조합 식물.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체를 포함하는, 락토페린에 의해 개선되는 질환의 치료제.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체 및 담체를 포함하는 의약품 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체의 제조방법으로서, 이 융합 단백질 또는 그의 개변체를 코드하는 유전자를 포함하는 숙주세포를 배양하여 융합 단백질을 발현시키고, 이 숙주세포 또는 그의 배지로부터 융합 단백질 또는 그의 개변체를 회수하는 것을 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20200703",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "FcRn 결합영역을 포함하는 단백질 또는 펩티드와 락토페린 또는 락토페린의 생물활성 단편 또는 펩티드의 융합 단백질로서, 〔식중, LF는 락토페린 또는 락토페린의 생물활성 단편 또는 펩티드, Y는 FcRn 결합영역을 포함하는 단백질 또는 펩티드, s는 0~10개의 임의의 아미노산의 서열, n은 1~10의 정수를 나타낸다.〕으로 표시되고, Y는 힌지영역을 포함하지 않는, 융합 단백질, 또는 상기 융합 단백질에 시그널 펩티드 및 태그 서열의 하나 이상을 부가한 그의 개변체.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,FcRn 결합영역을 포함하는 단백질 또는 펩티드가 IgG, IgG의 중쇄, IgG의 중쇄 Fc영역, Fc영역의 CH2 도메인 및 CH3 도메인, Fc영역의 CH2 도메인, 알부민 또는 알부민의 FcRn 결합영역 중 어느 하나를 포함하는, 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,융합 단백질이 단량체 또는 2량체(n=1 또는 2)인 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,융합 단백질이 단량체인 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,융합 단백질이 천연 또는 유전자 재조합형 락토페린의 50% 이상의 철킬레이트능을 유지하고 있는 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,융합 단백질은 락토페린 수용체, IgG 수용체 및 알부민 수용체로 이루어진 군으로부터 선택되는 하나 이상의 수용체를 매개로 흡수되는 것인 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,융합 단백질은 천연 또는 유전자 재조합형 락토페린과 비교하여 키모트립신 내성이 향상된 것인 융합 단백질 또는 그의 개변체.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체를 코드하는 핵산 분자.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 기재된 핵산 분자를 포함하는 발현 벡터.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 기재된 발현 벡터를 포함하는 숙주세포.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 기재된 핵산 분자를 포함하는 비인간 유전자 재조합 동물.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제8항에 기재된 핵산 분자를 포함하는 유전자 재조합 식물.",
+          "refers_to": [
+            8
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체를 포함하는, 생활습관병, 암, 자기면역질환, 정신신경질환, 동통, 간염, 염증성 장질환, 과민성 장증후군, 전립선 비대, 빈뇨, 불면증, 변비, 감염증, 감염증에 기인하는 염증, 알레르기성 질환, 윌슨병, 극증간염, 가령성 황반 변성증 및 당뇨병성 망막증으로부터 선택되는 질환의 치료제.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체 및 담체를 포함하는,생활습관병, 암, 자기면역질환, 정신신경질환, 동통, 간염, 염증성 장질환, 과민성 장증후군, 전립선 비대, 빈뇨, 불면증, 변비, 감염증, 감염증에 기인하는 염증, 알레르기성 질환, 윌슨병, 극증간염, 가령성 황반 변성증 및 당뇨병성 망막증으로부터 선택되는 질환의 치료용 의약품 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체의 제조방법으로서, 이 융합 단백질 또는 그의 개변체를 코드하는 유전자를 포함하는 숙주세포를 배양하여 융합 단백질을 발현시키고, 이 숙주세포 또는 그의 배지로부터 융합 단백질 또는 그의 개변체를 회수하는 것을 포함하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20141110",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "FcRn 결합영역을 포함하는 단백질 또는 펩티드와 락토페린 또는 락토페린의 생물활성 단편 또는 펩티드의 융합 단백질로서, \n[이미지]\n〔식중, LF는 락토페린 또는 락토페린의 생물활성 단편 또는 펩티드, Y는 FcRn 결합영역을 포함하는 단백질 또는 펩티드, s는 0~10개의 임의의 아미노산의 서열, n은 1~10의 정수를 나타낸다〕\n으로 표시되는 융합 단백질 또는 그의 개변체.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\nFcRn 결합영역을 포함하는 단백질 또는 펩티드가 IgG, IgG의 중쇄, IgG의 중쇄 Fc영역, Fc영역의 CH2 도메인 및 CH3 도메인, Fc영역의 CH2 도메인, 알부민 또는 알부민의 FcRn 결합영역 중 어느 하나를 포함하는, 융합 단백질 또는 그의 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서,\n융합 단백질이 단량체 또는 2량체(n=1 또는 2)인 융합 단백질 또는 그의 개변체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서,\n융합 단백질이 단량체인 융합 단백질 또는 그의 개변체.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제4항 중 어느 한 항에 있어서,\n융합 단백질이 천연 또는 유전자 재조합형 락토페린의 50% 이상의 철킬레이트능을 유지하고 있는 융합 단백질 또는 그의 개변체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서,\n융합 단백질은 락토페린 수용체, IgG 수용체 및 알부민 수용체로 이루어진 군으로부터 선택되는 하나 이상의 수용체를 매개로 흡수되는 것인 융합 단백질 또는 그의 개변체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제6항 중 어느 한 항에 있어서,\n융합 단백질은 천연 또는 유전자 재조합형 락토페린과 비교하여 키모트립신 내성이 향상된 것인 융합 단백질 또는 그의 개변체.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체를 코드하는 핵산 분자.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 기재된 핵산 분자를 포함하는 발현 벡터.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 기재된 발현 벡터를 포함하는 숙주세포.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 기재된 핵산 분자를 포함하는 비인간 유전자 재조합 동물.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제8항에 기재된 핵산 분자를 포함하는 유전자 재조합 식물.",
+            "refers_to": [
+              8
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체를 포함하는, 락토페린에 의해 개선되는 질환의 치료제.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체 및 담체를 포함하는 의약품 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체의 제조방법으로서, 이 융합 단백질 또는 그의 개변체를 코드하는 유전자를 포함하는 숙주세포를 배양하여 융합 단백질을 발현시키고, 이 숙주세포 또는 그의 배지로부터 융합 단백질 또는 그의 개변체를 회수하는 것을 포함하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20190918",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "FcRn 결합영역을 포함하는 단백질 또는 펩티드와 락토페린 또는 락토페린의 생물활성 단편 또는 펩티드의 융합 단백질로서, \n[이미지]\n〔식중, LF는 락토페린 또는 락토페린의 생물활성 단편 또는 펩티드, Y는 FcRn 결합영역을 포함하는 단백질 또는 펩티드, s는 0~10개의 임의의 아미노산의 서열, n은 1~10의 정수를 나타낸다.〕\n으로 표시되고, Y는 힌지영역을 포함하지 않는, 융합 단백질, 또는 상기 융합 단백질에 시그널 펩티드 및 태그 서열의 하나 이상을 부가한 그의 개변체.",
+            "refers_to": []
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20200228",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 6,
+        "claims": [
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n융합 단백질이 단량체 또는 2량체(n=1 또는 2)인 융합 단백질 또는 그의 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n융합 단백질이 단량체인 융합 단백질 또는 그의 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n융합 단백질이 천연 또는 유전자 재조합형 락토페린의 50% 이상의 철킬레이트능을 유지하고 있는 융합 단백질 또는 그의 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n융합 단백질은 락토페린 수용체, IgG 수용체 및 알부민 수용체로 이루어진 군으로부터 선택되는 하나 이상의 수용체를 매개로 흡수되는 것인 융합 단백질 또는 그의 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서,\n융합 단백질은 천연 또는 유전자 재조합형 락토페린과 비교하여 키모트립신 내성이 향상된 것인 융합 단백질 또는 그의 개변체.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체를 포함하는, 생활습관병, 암, 자기면역질환, 정신신경질환, 동통, 간염, 염증성 장질환, 과민성 장증후군, 전립선 비대, 빈뇨, 불면증, 변비, 감염증, 감염증에 기인하는 염증, 알레르기성 질환, 윌슨병, 극증간염, 가령성 황반 변성증 및 당뇨병성 망막증으로부터 선택되는 질환의 치료제.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20200703",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 1,
+        "claims": [
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제7항 중 어느 한 항에 기재된 융합 단백질 또는 그의 개변체 및 담체를 포함하는,\n생활습관병, 암, 자기면역질환, 정신신경질환, 동통, 간염, 염증성 장질환, 과민성 장증후군, 전립선 비대, 빈뇨, 불면증, 변비, 감염증, 감염증에 기인하는 염증, 알레르기성 질환, 윌슨병, 극증간염, 가령성 황반 변성증 및 당뇨병성 망막증으로부터 선택되는 질환의 치료용 의약품 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 15,
+      "after_claim_count": 1,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2013.10.31",
+      "internationOpenNumber": "WO2013162050",
+      "internationalApplicationDate": "2013.04.23",
+      "internationalApplicationNumber": "PCT/JP2013/062685"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "일본국 가나가와 가와사키시 다카츠쿠 사카도 *-*-*",
+      "code": "520200702083",
+      "country": "일본",
+      "engName": "S & K Biopharma, Inc.",
+      "name": "가부시키가이샤 에스 앤드 케이 바이오파마"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "일본국 가나가와 후...",
+        "code": "",
+        "country": "일본",
+        "engName": "SATO, Atsushi",
+        "name": "사토 아츠시"
+      },
+      {
+        "address": "일본국 가나가와 가와사키시 다...",
+        "code": "",
+        "country": "일본",
+        "engName": "KAGAYA, Shinji",
+        "name": "가가야 신지"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 서초대로**길 ** (서초동, 성운빌딩) *층 세일국제특허법률사무소(세일국제특허법률사무소)",
+      "code": "919980002838",
+      "country": "대한민국",
+      "engName": "SUH, Jong Wan",
+      "name": "서종완"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "일본",
+      "priorityApplicationDate": "2012.04.23",
+      "priorityApplicationNumber": "JP-P-2012-098085"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": {
+      "documentsNumber": "EP01932855 A1",
+      "examinerQuotationFlag": "Y"
+    }
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2014.11.10",
+        "receiptNumber": "1-1-2014-1078177-22"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2014.11.24",
+        "receiptNumber": "1-5-2014-0208975-71"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2018.02.08",
+        "receiptNumber": "1-1-2018-0138549-14"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2019.06.20",
+        "receiptNumber": "9-5-2019-0444475-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.08.20",
+        "receiptNumber": "1-1-2019-0853607-36"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2019.09.18",
+        "receiptNumber": "1-1-2019-0951527-58"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2019.09.18",
+        "receiptNumber": "1-1-2019-0951592-16"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.01.02",
+        "receiptNumber": "9-5-2020-0004441-34"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2020.02.28",
+        "receiptNumber": "1-1-2020-0211662-71"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.02.28",
+        "receiptNumber": "1-1-2020-0211640-77"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.05.08",
+        "receiptNumber": "9-5-2020-0320097-54"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.07.03",
+        "receiptNumber": "1-1-2020-0693378-80"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.07.03",
+        "receiptNumber": "1-1-2020-0693345-84"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2020.08.18",
+        "receiptNumber": "9-5-2020-0562773-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2020.10.19",
+        "receiptNumber": "1-1-2020-1102414-65"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Change of Applicant] Report on Change of Proprietary Status",
+        "documentName": "[출원인변경]권리관계변경신고서",
+        "receiptDate": "2020.10.22",
+        "receiptNumber": "1-1-2020-1122062-55"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2020.11.26",
+        "receiptNumber": "1-1-2020-1275119-13"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020147031493.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e0072577cd27d593af1edf72e403373c1d52a198ade9561b9b0ec6a63af20aa741c858feb6b21519eb3a2ed06196dd5f4b34be4f2e5ac9ba6a5",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf6c44017b7be89802ec737564465deec41d44fec766408c421b239034d300997e0d587304678e86e29dfef17e9d842d3b5c7062f4e802caaa"
+  },
+  "rndInfoArray": ""
+}

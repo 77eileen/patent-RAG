@@ -1,0 +1,1072 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2019.12.24",
+      "applicationFlag": "",
+      "applicationNumber": "10-2021-7023567",
+      "claimCount": "11",
+      "examinerName": "",
+      "finalDisposal": "",
+      "inventionTitle": "인간 TRBV9에 특이적으로 결합하는 단일클론 항체",
+      "inventionTitleEng": "MONOCLONAL ANTIBODIES THAT BIND SPECIFICALLY TO HUMAN TRBV9",
+      "openDate": "2021.10.01",
+      "openNumber": "10-2021-0118843",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2022.12.15",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "",
+      "publicationNumber": "",
+      "registerDate": "",
+      "registerNumber": "",
+      "registerStatus": "공개",
+      "translationSubmitDate": "2021.07.23"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 25/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 1/14"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 TRBV9 패밀리의 인간 T 세포 수용체에 특이적으로 결합하는 단일클론 인간화 항체 또는 이의 항원 결합 단편에 관한 것이다. 또한, 본 발명은 항체 또는 이의 항원 결합 단편을 코딩하는 핵산, 발현 벡터, 항체의 제조 방법, 및 인간 T 세포 수용체의 상기 패밀리와 관련있는 질환 또는 장애의 치료에 있어 상기한 항체의 용도에 관한 것이다. 본 발명은 특히 병인이 TRBV9 패밀리의 TCR과 관련있는, 강직성 척추염 (AS 또는 베프테레프 질병), 셀리악 질환 및 혈액 암을 치료하는데 이용할 수 있는 항체 생산에 관한 것이다."
+    }
+  },
+  "claims": {
+    "application_number": "1020217023567",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20210723",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "인간 T 세포 수용체의 TRBV-9 패밀리 β-쇄 영역에 특이적으로 결합하는 단일클론 항체 또는 이의 항원 결합 단편으로서,\n아미노산 서열이 서열번호 16에 나타낸 서열인 중쇄 가변성 도메인, 및 아미노산 서열이 서열번호 18에 나타낸 서열인 경쇄 가변성 도메인을 포함하는, 단일클론 항체 또는 이의 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서,\n서열번호 20의 아미노산 서열을 가진 중쇄와 서열번호 22의 아미노산 서열을 가진 경쇄를 포함하는, 단일클론 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제2항에 있어서,\n전장 IgG 항체인, 단일클론 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 코딩하며, 상기 단일클론 항체 또는 이의 항원 결합 단편이 인간 T 수용체의 TRBV9 패밀리 β-쇄 영역에 특이적으로 결합하는, 핵산.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 따른 핵산을 포함하는 발현 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "세포를 제5항에 따른 벡터로 공동-형질전환하는 것을 포함하는, 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 생산하는 숙주 세포를 수득하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 따른 핵산을 포함하는, 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 수득하기 위한 숙주 세포.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 따른 숙주 세포를 배양 배지에서 항체를 생산할 수 있는 조건 하에 배양한 다음 수득한 항체를 분리 및 정제하는 것을 포함하는, 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 수득하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 치료학적 유효량으로, 하나 이상의 약제학적으로 허용가능한 부형제와 조합하여 포함하는, 인간 T 수용체의 TRBV9 패밀리 β-쇄 영역에 의해 매개되는 질환 또는 장애를 예방 또는 치료하기 위한 약학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항에 있어서,\n상기 질환 또는 장애가 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 치료학적 유효량으로; 및 적어도 하나의 다른 치료학적 활성 화합물을 치료학적 유효량으로 포함하는, TRBV9 패밀리 β-쇄를 가진 인간 T 세포 수용체에 의해 매개되는 질환 또는 장애를 예방 또는 치료하기 위한 약학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항에 있어서,\n상기 질환 또는 장애가 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제11항 또는 제12항에 있어서,\n상기 다른 치료학적 활성 화합물이 소분자, 항체 또는 스테로이드 호르몬으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+          "refers_to": [
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "개체에 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 유효량으로 투여하는 것을 포함하는, 저해가 필요한 개체에서 β-쇄가 TRBV9 패밀리에 속하는 T 세포 수용체의 생물학적 활성을 저해하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "치료가 필요한 개체에 제1항 내지 제3항 중 어느 한 항에 따른 항체 또는 이의 항원 결합 단편 또는 제9항 내지 제13항 중 어느 한 항에 따른 약학적 조성물을 치료학적 유효량으로 투여하는 것을 포함하는, TRBV9 패밀리의 β-쇄를 가진 인간 T 세포 수용체에 의해 매개되는 질환 또는 장애를 치료하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서,\n상기 질환 또는 장애가 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "TRBV9 패밀리의 β-쇄를 가진 인간 T 세포 수용체에 의해 매개되는 질환 또는 장애를 치료가 필요한 개체에서 치료하기 위한, 제1항 내지 제3항 중 어느 한 항에 따른 항체 또는 이의 항원 결합 단편 또는 제9항 내지 제13항 중 어느 한 항에 따른 약학적 조성물의 용도.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제17항에 있어서,\n상기 질환이 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 용도.",
+          "refers_to": [
+            17
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20250919",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 18,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "인간 T 세포 수용체의 TRBV-9 패밀리 β-쇄 영역에 특이적으로 결합하는 단일클론 항체 또는 이의 항원 결합 단편으로서,아미노산 서열이 서열번호 16에 나타낸 서열인 중쇄 가변성 도메인, 및 아미노산 서열이 서열번호 18에 나타낸 서열인 경쇄 가변성 도메인을 포함하는, 단일클론 항체 또는 이의 항원 결합 단편.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서,서열번호 20의 아미노산 서열을 가진 중쇄와 서열번호 22의 아미노산 서열을 가진 경쇄를 포함하는, 단일클론 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제2항에 있어서,전장 IgG 항체인, 단일클론 항체 또는 이의 항원 결합 단편.",
+          "refers_to": [
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 코딩하며, 상기 단일클론 항체 또는 이의 항원 결합 단편이 인간 T 수용체의 TRBV9 패밀리 β-쇄 영역에 특이적으로 결합하는, 핵산.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 따른 핵산을 포함하는 발현 벡터.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "세포를 제5항에 따른 벡터로 공동-형질전환하는 것을 포함하는, 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 생산하는 숙주 세포를 수득하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제4항에 따른 핵산을 포함하는, 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 수득하기 위한 숙주 세포.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 따른 숙주 세포를 배양 배지에서 항체를 생산할 수 있는 조건 하에 배양한 다음 수득한 항체를 분리 및 정제하는 것을 포함하는, 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 수득하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 치료학적 유효량으로, 하나 이상의 약제학적으로 허용가능한 부형제와 조합하여 포함하는, 인간 T 수용체의 TRBV9 패밀리 β-쇄 영역에 의해 매개되는 질환 또는 장애를 예방 또는 치료하기 위한 약학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제9항에 있어서,상기 질환 또는 장애가 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+          "refers_to": [
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 치료학적 유효량으로; 및 적어도 하나의 다른 치료학적 활성 화합물을 치료학적 유효량으로 포함하는, TRBV9 패밀리 β-쇄를 가진 인간 T 세포 수용체에 의해 매개되는 질환 또는 장애를 예방 또는 치료하기 위한 약학적 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서,상기 질환 또는 장애가 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항 또는 제12항에 있어서,상기 다른 치료학적 활성 화합물이 소분자, 항체 또는 스테로이드 호르몬으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+          "refers_to": [
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "개체에 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 유효량으로 투여하는 것을 포함하는, 저해가 필요한 개체에서 β-쇄가 TRBV9 패밀리에 속하는 T 세포 수용체의 생물학적 활성을 저해하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "치료가 필요한 개체에 제1항 내지 제3항 중 어느 한 항에 따른 항체 또는 이의 항원 결합 단편 또는 제9항 내지 제13항 중 어느 한 항에 따른 약학적 조성물을 치료학적 유효량으로 투여하는 것을 포함하는, TRBV9 패밀리의 β-쇄를 가진 인간 T 세포 수용체에 의해 매개되는 질환 또는 장애를 치료하는 방법.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 16,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서,상기 질환 또는 장애가 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 방법.",
+          "refers_to": [
+            17
+          ]
+        },
+        {
+          "claim_number": 17,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "TRBV9 패밀리의 β-쇄를 가진 인간 T 세포 수용체에 의해 매개되는 질환 또는 장애를 치료가 필요한 개체에서 치료하기 위한, 제1항 내지 제3항 중 어느 한 항에 따른 항체 또는 이의 항원 결합 단편 또는 제9항 내지 제13항 중 어느 한 항에 따른 약학적 조성물의 용도.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 18,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제17항에 있어서,상기 질환이 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 용도.",
+          "refers_to": [
+            17
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20210723",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 18,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "인간 T 세포 수용체의 TRBV-9 패밀리 β-쇄 영역에 특이적으로 결합하는 단일클론 항체 또는 이의 항원 결합 단편으로서,\n아미노산 서열이 서열번호 16에 나타낸 서열인 중쇄 가변성 도메인, 및 아미노산 서열이 서열번호 18에 나타낸 서열인 경쇄 가변성 도메인을 포함하는, 단일클론 항체 또는 이의 항원 결합 단편.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서,\n서열번호 20의 아미노산 서열을 가진 중쇄와 서열번호 22의 아미노산 서열을 가진 경쇄를 포함하는, 단일클론 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제2항에 있어서,\n전장 IgG 항체인, 단일클론 항체 또는 이의 항원 결합 단편.",
+            "refers_to": [
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 코딩하며, 상기 단일클론 항체 또는 이의 항원 결합 단편이 인간 T 수용체의 TRBV9 패밀리 β-쇄 영역에 특이적으로 결합하는, 핵산.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 따른 핵산을 포함하는 발현 벡터.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "세포를 제5항에 따른 벡터로 공동-형질전환하는 것을 포함하는, 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 생산하는 숙주 세포를 수득하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 따른 핵산을 포함하는, 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 수득하기 위한 숙주 세포.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 따른 숙주 세포를 배양 배지에서 항체를 생산할 수 있는 조건 하에 배양한 다음 수득한 항체를 분리 및 정제하는 것을 포함하는, 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 수득하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 치료학적 유효량으로, 하나 이상의 약제학적으로 허용가능한 부형제와 조합하여 포함하는, 인간 T 수용체의 TRBV9 패밀리 β-쇄 영역에 의해 매개되는 질환 또는 장애를 예방 또는 치료하기 위한 약학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항에 있어서,\n상기 질환 또는 장애가 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+            "refers_to": [
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 치료학적 유효량으로; 및 적어도 하나의 다른 치료학적 활성 화합물을 치료학적 유효량으로 포함하는, TRBV9 패밀리 β-쇄를 가진 인간 T 세포 수용체에 의해 매개되는 질환 또는 장애를 예방 또는 치료하기 위한 약학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항에 있어서,\n상기 질환 또는 장애가 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제11항 또는 제12항에 있어서,\n상기 다른 치료학적 활성 화합물이 소분자, 항체 또는 스테로이드 호르몬으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+            "refers_to": [
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "개체에 제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 유효량으로 투여하는 것을 포함하는, 저해가 필요한 개체에서 β-쇄가 TRBV9 패밀리에 속하는 T 세포 수용체의 생물학적 활성을 저해하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "치료가 필요한 개체에 제1항 내지 제3항 중 어느 한 항에 따른 항체 또는 이의 항원 결합 단편 또는 제9항 내지 제13항 중 어느 한 항에 따른 약학적 조성물을 치료학적 유효량으로 투여하는 것을 포함하는, TRBV9 패밀리의 β-쇄를 가진 인간 T 세포 수용체에 의해 매개되는 질환 또는 장애를 치료하는 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서,\n상기 질환 또는 장애가 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 방법.",
+            "refers_to": [
+              17
+            ]
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "TRBV9 패밀리의 β-쇄를 가진 인간 T 세포 수용체에 의해 매개되는 질환 또는 장애를 치료가 필요한 개체에서 치료하기 위한, 제1항 내지 제3항 중 어느 한 항에 따른 항체 또는 이의 항원 결합 단편 또는 제9항 내지 제13항 중 어느 한 항에 따른 약학적 조성물의 용도.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제17항에 있어서,\n상기 질환이 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 용도.",
+            "refers_to": [
+              17
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20250919",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 13,
+        "claims": [
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제3항 중 어느 한 항에 따른 항체 또는 이의 항원 결합 단편을 생산하는 단리된 숙주 세포를 수득하는 방법으로서,\n세포를, 상기 항체 또는 이의 항원 결합 단편을 코딩하는 핵산을 포함하는 발현 벡터로 형질전환하는 것을 포함하는 것인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제3항 중 어느 한 항에 따른 항체 또는 이의 항원 결합 단편을 수득하기 위한 단리된 숙주 세포로서,\n상기 항체 또는 이의 항원 결합 단편을 코딩하는 핵산을 포함하는, 단리된 숙주 세포.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제3항 중 어느 한 항에 따른 단일클론 항체 또는 이의 항원 결합 단편을 수득하는 방법으로서,\n상기 항체 또는 이의 항원 결합 단편을 코딩하는 핵산을 포함하는 단리된 숙주 세포를, 배양 배지에서 항체를 생산할 수 있는 조건 하에 배양한 다음, 수득한 항체를 분리 및 정제하는 것을 포함하는 것인, 방법.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제3항 중 어느 한 항에 따른 항체 또는 이의 항원 결합 단편을, 하나 이상의 약제학적으로 허용가능한 부형제와 조합하여 포함하는, 인간 T 수용체의 TRBV9 패밀리 β-쇄 영역에 의해 매개되는 질환 또는 장애를 예방 또는 치료하기 위한 약학적 조성물로서,\n상기 질환 또는 장애가 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제3항 중 어느 한 항에 따른 항체 또는 이의 항원 결합 단편; 및 적어도 하나의 다른 치료학적 활성 화합물을 포함하는, TRBV9 패밀리 β-쇄를 가진 인간 T 세포 수용체에 의해 매개되는 질환 또는 장애를 예방 또는 치료하기 위한 약학적 조성물로서,\n상기 질환 또는 장애가 강직성 척추염, 셀리악 질환, T 세포 백혈병, T 세포 림프종으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제10항에 있어서,\n상기 다른 치료학적 활성 화합물이 소분자, 항체 또는 스테로이드 호르몬으로 이루어진 군으로부터 선택되는, 약학적 조성물.",
+            "refers_to": [
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 16,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 17,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 18,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 18,
+      "after_claim_count": 13,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2020.07.02",
+      "internationOpenNumber": "WO2020139171",
+      "internationalApplicationDate": "2019.12.24",
+      "internationalApplicationNumber": "PCT/RU2019/050257"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "러시아 ****** 상트페테르부르크 포메슈 ** 에스티알. * 디. ** 유엘. 스비아지 브이엔. 테르. 쥐. 포셀록 스틀레나",
+      "code": "520180721171",
+      "country": "러시아",
+      "engName": "JOINT STOCK COMPANY &quot;BIOCAD&quot;",
+      "name": "조인트 스탁 컴퍼니 &quot;바이오케드&quot;"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "러시아 ****** 모스크바 ...",
+        "code": "",
+        "country": "",
+        "engName": "BRITANOVA, Оlga Vladimirovna",
+        "name": "브리타노바 올가 블라디미로브나"
+      },
+      {
+        "address": "러시아 ****** 케이브이 *** ...",
+        "code": "",
+        "country": "",
+        "engName": "STAROVEROV, Dmitry Borisovich",
+        "name": "스테라비아로프 드미트리 보리소비치"
+      },
+      {
+        "address": "러시아 ****** 지. 피트케란타 케...",
+        "code": "",
+        "country": "",
+        "engName": "EVSTRATEVA, Anna Valentinovna",
+        "name": "이스트라트바 안나 발렌티노브나"
+      },
+      {
+        "address": "러시아 ****** 상트페테르부르크 피오에스. 파르...",
+        "code": "",
+        "country": "",
+        "engName": "MISORIN, Alexey Konstantinovich",
+        "name": "미소린 알렉세이 콘스탄티노비치"
+      },
+      {
+        "address": "러시아 ****** 상트페테르부...",
+        "code": "",
+        "country": "",
+        "engName": "NEMANKIN, Timofey Aleksandrovich",
+        "name": "네만킨 티모페이 알렉산드로비치"
+      },
+      {
+        "address": "러시아 ****** 상트페테르부르크 케이...",
+        "code": "",
+        "country": "",
+        "engName": "SHCHEMELEVA, Mariia Aleksandrovna",
+        "name": "셰멜레바 마리아 알렉산드로프나"
+      },
+      {
+        "address": "러시아 ****** 상트페테르...",
+        "code": "",
+        "country": "",
+        "engName": "VLADIMIROVA, Anna Konstantinovna",
+        "name": "블라디미로바 안나 콘스탄티노브나"
+      },
+      {
+        "address": "러시아 ****** 모스크바 케이브...",
+        "code": "",
+        "country": "",
+        "engName": "ANIKINA, Arina Vitalevna",
+        "name": "애니키나 이리나 비탈레브나"
+      },
+      {
+        "address": "러시아 ****** 모스크바 케이...",
+        "code": "",
+        "country": "",
+        "engName": "IVANOV, Roman Alekseevich",
+        "name": "이바노프 로만 알렉세예비치"
+      },
+      {
+        "address": "러시아 ****** 상트페테르부르크 아드미...",
+        "code": "",
+        "country": "",
+        "engName": "MOROZOV, Dmitry Valentinovich",
+        "name": "모로조프 드미트리 발렌티노비치"
+      },
+      {
+        "address": "러시아 ****** 상트페테르부르크 케이브이...",
+        "code": "",
+        "country": "",
+        "engName": "IAKOVLEV, Pavel Andreevich",
+        "name": "야코프레브 파벨 안드리비치"
+      },
+      {
+        "address": "러시아 ****** 모스크바 케이...",
+        "code": "",
+        "country": "",
+        "engName": "LUKYANOV, Sergey Anatolievich",
+        "name": "루꺄노프 세르게이 아나톨리에비치"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 강남구 테헤란로 ***, 서림빌딩 **층 (역삼동)",
+      "code": "920011000036",
+      "country": "대한민국",
+      "engName": "YOU ME PATENT & LAW FIRM",
+      "name": "유미특허법인"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "러시아",
+      "priorityApplicationDate": "2018.12.25",
+      "priorityApplicationNumber": "2018146029"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "WO2017137453 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "RU2539032 C",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Toyabe S. et al, Clinical and Experimental Immunology, 2003, Vol.134, No.1, pp.92-97",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "BULLETIN OFRSMU, 2018.12.05., Vol.5, pp.71-79",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "J. Immunol., 2015, Vol.194, No.12, pp.6112-6122",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2012008397 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2014177771 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20030039649 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20130302301 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2018155692 A1",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2021.07.23",
+        "receiptNumber": "1-1-2021-0855256-19"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2021.08.03",
+        "receiptNumber": "1-5-2021-0123679-87"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2021.08.23",
+        "receiptNumber": "1-1-2021-0969990-98"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2021.08.25",
+        "receiptNumber": "1-5-2021-0133981-40"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.09.23",
+        "receiptNumber": "4-1-2022-5224668-04"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[심사청구]심사청구서·우선심사신청서",
+        "receiptDate": "2022.12.15",
+        "receiptNumber": "1-1-2022-1351179-72"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2024.12.13",
+        "receiptNumber": "4-1-2024-5363443-89"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2025.06.19",
+        "receiptNumber": "9-5-2025-0581499-87"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[지정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2025.08.19",
+        "receiptNumber": "1-1-2025-0945846-18"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2025.09.19",
+        "receiptNumber": "1-1-2025-1077052-36"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2025.09.19",
+        "receiptNumber": "1-1-2025-1077051-91"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020217023567.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93cb53196cbaec8cf7263a65c7588a04c88f2dd8d8f7e6b529b413473d69b4eaf11d8ded58b4e0e0fd8deae28604711ac58b14623f28b41576",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfda3e3b31a742976babecdcaaf7280c42d50f91288919b8e855b792faf1e2d4979a9b2a68da1859b3debc48758cc4370fdeabe7a904247c3f"
+  },
+  "rndInfoArray": ""
+}

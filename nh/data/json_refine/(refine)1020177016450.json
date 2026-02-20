@@ -1,0 +1,984 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2017.03.14",
+      "applicationFlag": "",
+      "applicationNumber": "10-2017-7016450",
+      "claimCount": "9",
+      "examinerName": "최승희",
+      "finalDisposal": "등록결정(일반)",
+      "inventionTitle": "PD-1 축 결합 길항제 및 항-GPC3 항체를 사용하여 암을 치료하는 방법",
+      "inventionTitleEng": "METHODS OF TREATING CANCERS USING PD-1 AXIS BINDING ANTAGONISTS AND ANTI-GPC3 ANTIBODIES",
+      "openDate": "2018.11.05",
+      "openNumber": "10-2018-0120063",
+      "originalApplicationDate": "",
+      "originalApplicationKind": "국제출원/신규",
+      "originalApplicationNumber": "",
+      "originalExaminationRequestDate": "2018.11.22",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2019.11.18",
+      "publicationNumber": "",
+      "registerDate": "2019.11.12",
+      "registerNumber": "10-2046235-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2017.06.15"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/30"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 암을 치료하는 조성물 및 방법을 제공한다. 상기 방법은 PD-1 축 결합 길항제 및 항-GPC3 항체를 투여하는 단계를 포함한다. 암을 치료하는 약학 조성물을 포함하는 조성물은 PD-1 축 결합 길항제 및 항-GPC3 항체를 포함한다. 활성 성분으로서 항-GPC3 항체를 포함하는, 암을 치료하기 위해 PD-1 축 결합 길항제와 병용되는 약학 조성물; 및 활성 성분으로서 PD-1 축 결합 길항제를 포함하는, 암을 치료하기 위해 항-GPC3 항체와 병용되는 약학 조성물도 개시되어 있다."
+    }
+  },
+  "claims": {
+    "application_number": "1020177016450",
+    "total_amendments": 2,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20170615",
+      "document_name": "[특허출원]특허법 제203조에 따른 서면",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "PD-1 축 결합 길항제와 병용되는, 개체에서 암을 치료하거나 암의 진행을 지연시키는 약학 조성물로서, 활성 성분으로서 항-GPC3 항체를 포함하는 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, \n항-GPC3 항체가 PD-1 축 결합 길항제의 투여 전에, PD-1 축 결합 길항제의 투여와 동시에, 또는 PD-1 축 결합 길항제의 투여 후에 투여되는, 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 또는 제2항에 있어서, \nPD-1 축 결합 길항제가 PD-1 결합 길항제, PD-L1 결합 길항제 및 PD-L2 결합 길항제로 구성된 군으로부터 선택되는, 약학 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, \nPD-L1 결합 길항제가 PD-L1과 PD-1의 결합을 억제하는, 약학 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, \nPD-L1 결합 길항제가 PD-L1과 B7-1의 결합을 억제하는, 약학 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, \nPD-L1 결합 길항제가 PD-L1과 PD-1 및 B7-1 둘 다의 결합을 억제하는, 약학 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항 내지 제6항 중 어느 한 항에 있어서, \nPD-L1 결합 길항제가 항-PD-L1 항체인, 약학 조성물.",
+          "refers_to": [
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제3항에 있어서, \nPD-L1 결합 길항제가 YW243.55.S70, 아테졸리주맙(Atezolizumab), MPDL3280A, MDX-1105 및 MEDI4736으로 구성된 군으로부터 선택되는, 약학 조성물.",
+          "refers_to": [
+            3
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n항-PD-L1 항체가 서열번호 19의 HVR-H1 서열, 서열번호 20의 HVR-H2 서열 및 서열번호 21의 HVR-H3 서열을 포함하는 중쇄; 및 서열번호 22의 HVR-L1 서열, 서열번호 23의 HVR-L2 서열 및 서열번호 24의 HVR-L3 서열을 포함하는 경쇄를 포함하는, 약학 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제7항에 있어서,\n항-PD-L1 항체가 서열번호 25 또는 26의 아미노산 서열을 포함하는 중쇄 가변 영역 및 서열번호 4의 아미노산 서열을 포함하는 경쇄 가변 영역을 포함하는, 약학 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 있어서,\n항-GPC3 항체가 서열번호 34의 HVR-H1 서열, 서열번호 35의 HVR-H2 서열 및 서열번호 36의 HVR-H3 서열을 포함하는 중쇄; 및 서열번호 37의 HVR-L1 서열, 서열번호 38의 HVR-L2 서열 및 서열번호 39의 HVR-L3 서열을 포함하는 경쇄를 포함하는, 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제10항 중 어느 한 항에 있어서,\n항-GPC3 항체가, 제2 항체가 결합할 수 있는 에피토프에 결합할 수 있고, 이때 상기 제2 항체가 서열번호 42의 HVR-H1 서열, 서열번호 43의 HVR-H2 서열 및 서열번호 44의 HVR-H3 서열을 포함하는 중쇄; 및 서열번호 45의 HVR-L1 서열, 서열번호 46의 HVR-L2 서열 및 서열번호 47의 HVR-L3 서열을 포함하는 경쇄를 포함하는, 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제12항 중 어느 한 항에 있어서,\n항-GPC3 항체가 인간화된 항체인, 약학 조성물",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, \n항-GPC3 항체가 서열번호 50의 아미노산 서열을 포함하는 중쇄 가변 영역 및 서열번호 52의 아미노산 서열을 포함하는 경쇄 가변 영역을 포함하는, 약학 조성물.",
+          "refers_to": [
+            13
+          ]
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제14항 중 어느 한 항에 있어서,\n암이 간암, 유방암, 폐암, 난소암, 위암, 방광암, 췌장암, 자궁내막암, 결장암, 신장암, 식도암 및 전립선암으로 구성된 군으로부터 선택되는, 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 2,
+      "receipt_date": "20181122",
+      "document_name": "[명세서등 보정]보정서",
+      "claim_count": 15,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "항-PD-L1 항체와 병용되는, 개체에서 암을 치료하거나 암의 진행을 지연시키는 약학 조성물로서, 활성 성분으로서 항-GPC3 항체를 포함하는 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 항-GPC3 항체가 항-PD-L1 항체의 투여 전에, 항-PD-L1 항체의 투여와 동시에, 또는 항-PD-L1 항체의 투여 후에 투여되는, 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 항-PD-L1 항체가 YW243.55.S70, 아테졸리주맙(Atezolizumab), MPDL3280A, MDX-1105 및 MEDI4736으로 구성된 군으로부터 선택되는, 약학 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 항-PD-L1 항체가 서열번호 19의 HVR-H1 서열, 서열번호 20의 HVR-H2 서열 및 서열번호 21의 HVR-H3 서열을 포함하는 중쇄; 및 서열번호 22의 HVR-L1 서열, 서열번호 23의 HVR-L2 서열 및 서열번호 24의 HVR-L3 서열을 포함하는 경쇄를 포함하는, 약학 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 항-PD-L1 항체가 서열번호 25 또는 26의 아미노산 서열을 포함하는 중쇄 가변 영역 및 서열번호 4의 아미노산 서열을 포함하는 경쇄 가변 영역을 포함하는, 약학 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 항-GPC3 항체가 서열번호 34의 HVR-H1 서열, 서열번호 35의 HVR-H2 서열 및 서열번호 36의 HVR-H3 서열을 포함하는 중쇄; 및 서열번호 37의 HVR-L1 서열, 서열번호 38의 HVR-L2 서열 및 서열번호 39의 HVR-L3 서열을 포함하는 경쇄를 포함하는, 약학 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서, 항-GPC3 항체가 인간화된 항체인, 약학 조성물",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제7항에 있어서, 항-GPC3 항체가 서열번호 50의 아미노산 서열을 포함하는 중쇄 가변 영역 및 서열번호 52의 아미노산 서열을 포함하는 경쇄 가변 영역을 포함하는, 약학 조성물.",
+          "refers_to": [
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항 또는 제2항에 있어서,암이 간암, 유방암, 폐암, 난소암, 위암, 방광암, 췌장암, 자궁내막암, 결장암, 신장암, 식도암 및 전립선암으로 구성된 군으로부터 선택되는, 약학 조성물.",
+          "refers_to": [
+            1,
+            2
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 15,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20170615",
+        "document_name": "[특허출원]특허법 제203조에 따른 서면",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "PD-1 축 결합 길항제와 병용되는, 개체에서 암을 치료하거나 암의 진행을 지연시키는 약학 조성물로서, 활성 성분으로서 항-GPC3 항체를 포함하는 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, \n항-GPC3 항체가 PD-1 축 결합 길항제의 투여 전에, PD-1 축 결합 길항제의 투여와 동시에, 또는 PD-1 축 결합 길항제의 투여 후에 투여되는, 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 또는 제2항에 있어서, \nPD-1 축 결합 길항제가 PD-1 결합 길항제, PD-L1 결합 길항제 및 PD-L2 결합 길항제로 구성된 군으로부터 선택되는, 약학 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, \nPD-L1 결합 길항제가 PD-L1과 PD-1의 결합을 억제하는, 약학 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, \nPD-L1 결합 길항제가 PD-L1과 B7-1의 결합을 억제하는, 약학 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, \nPD-L1 결합 길항제가 PD-L1과 PD-1 및 B7-1 둘 다의 결합을 억제하는, 약학 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항 내지 제6항 중 어느 한 항에 있어서, \nPD-L1 결합 길항제가 항-PD-L1 항체인, 약학 조성물.",
+            "refers_to": [
+              4,
+              5,
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제3항에 있어서, \nPD-L1 결합 길항제가 YW243.55.S70, 아테졸리주맙(Atezolizumab), MPDL3280A, MDX-1105 및 MEDI4736으로 구성된 군으로부터 선택되는, 약학 조성물.",
+            "refers_to": [
+              3
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n항-PD-L1 항체가 서열번호 19의 HVR-H1 서열, 서열번호 20의 HVR-H2 서열 및 서열번호 21의 HVR-H3 서열을 포함하는 중쇄; 및 서열번호 22의 HVR-L1 서열, 서열번호 23의 HVR-L2 서열 및 서열번호 24의 HVR-L3 서열을 포함하는 경쇄를 포함하는, 약학 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제7항에 있어서,\n항-PD-L1 항체가 서열번호 25 또는 26의 아미노산 서열을 포함하는 중쇄 가변 영역 및 서열번호 4의 아미노산 서열을 포함하는 경쇄 가변 영역을 포함하는, 약학 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 있어서,\n항-GPC3 항체가 서열번호 34의 HVR-H1 서열, 서열번호 35의 HVR-H2 서열 및 서열번호 36의 HVR-H3 서열을 포함하는 중쇄; 및 서열번호 37의 HVR-L1 서열, 서열번호 38의 HVR-L2 서열 및 서열번호 39의 HVR-L3 서열을 포함하는 경쇄를 포함하는, 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제10항 중 어느 한 항에 있어서,\n항-GPC3 항체가, 제2 항체가 결합할 수 있는 에피토프에 결합할 수 있고, 이때 상기 제2 항체가 서열번호 42의 HVR-H1 서열, 서열번호 43의 HVR-H2 서열 및 서열번호 44의 HVR-H3 서열을 포함하는 중쇄; 및 서열번호 45의 HVR-L1 서열, 서열번호 46의 HVR-L2 서열 및 서열번호 47의 HVR-L3 서열을 포함하는 경쇄를 포함하는, 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제12항 중 어느 한 항에 있어서,\n항-GPC3 항체가 인간화된 항체인, 약학 조성물",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, \n항-GPC3 항체가 서열번호 50의 아미노산 서열을 포함하는 중쇄 가변 영역 및 서열번호 52의 아미노산 서열을 포함하는 경쇄 가변 영역을 포함하는, 약학 조성물.",
+            "refers_to": [
+              13
+            ]
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제14항 중 어느 한 항에 있어서,\n암이 간암, 유방암, 폐암, 난소암, 위암, 방광암, 췌장암, 자궁내막암, 결장암, 신장암, 식도암 및 전립선암으로 구성된 군으로부터 선택되는, 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20181122",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 15,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "항-PD-L1 항체와 병용되는, 개체에서 암을 치료하거나 암의 진행을 지연시키는 약학 조성물로서, 활성 성분으로서 항-GPC3 항체를 포함하는 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, \n항-GPC3 항체가 항-PD-L1 항체의 투여 전에, 항-PD-L1 항체의 투여와 동시에, 또는 항-PD-L1 항체의 투여 후에 투여되는, 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, \n항-PD-L1 항체가 YW243.55.S70, 아테졸리주맙(Atezolizumab), MPDL3280A, MDX-1105 및 MEDI4736으로 구성된 군으로부터 선택되는, 약학 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, \n항-PD-L1 항체가 서열번호 19의 HVR-H1 서열, 서열번호 20의 HVR-H2 서열 및 서열번호 21의 HVR-H3 서열을 포함하는 중쇄; 및 서열번호 22의 HVR-L1 서열, 서열번호 23의 HVR-L2 서열 및 서열번호 24의 HVR-L3 서열을 포함하는 경쇄를 포함하는, 약학 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, \n항-PD-L1 항체가 서열번호 25 또는 26의 아미노산 서열을 포함하는 중쇄 가변 영역 및 서열번호 4의 아미노산 서열을 포함하는 경쇄 가변 영역을 포함하는, 약학 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, \n항-GPC3 항체가 서열번호 34의 HVR-H1 서열, 서열번호 35의 HVR-H2 서열 및 서열번호 36의 HVR-H3 서열을 포함하는 중쇄; 및 서열번호 37의 HVR-L1 서열, 서열번호 38의 HVR-L2 서열 및 서열번호 39의 HVR-L3 서열을 포함하는 경쇄를 포함하는, 약학 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서, \n항-GPC3 항체가 인간화된 항체인, 약학 조성물",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제7항에 있어서, \n항-GPC3 항체가 서열번호 50의 아미노산 서열을 포함하는 중쇄 가변 영역 및 서열번호 52의 아미노산 서열을 포함하는 경쇄 가변 영역을 포함하는, 약학 조성물.",
+            "refers_to": [
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 또는 제2항에 있어서,\n암이 간암, 유방암, 폐암, 난소암, 위암, 방광암, 췌장암, 자궁내막암, 결장암, 신장암, 식도암 및 전립선암으로 구성된 군으로부터 선택되는, 약학 조성물.",
+            "refers_to": [
+              1,
+              2
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 15,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 15,
+      "after_claim_count": 15,
+      "total_versions": 2
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": ""
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2017.09.21",
+      "internationOpenNumber": "WO2017159699",
+      "internationalApplicationDate": "2017.03.14",
+      "internationalApplicationNumber": "PCT/JP2017/010267"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": [
+      {
+        "address": "일본국 도쿄도 기타쿠 우키마 *쵸메 *반 *고",
+        "code": "520000045945",
+        "country": "일본",
+        "engName": "CHUGAI SEIYAKU KABUSHIKI KAISHA (Chugai Pharmaceutical Co., Ltd.)",
+        "name": "추가이 세이야쿠 가부시키가이샤"
+      },
+      {
+        "address": "미합중국 캘리포니아 (우편번호 *****-****) 사우쓰샌프란시스코 디엔에이 웨이 *",
+        "code": "519987054940",
+        "country": "미국",
+        "engName": "GENENTECH, INC.",
+        "name": "제넨테크, 인크."
+      }
+    ]
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "일본 가나가와켄 가마쿠라시 가지...",
+        "code": "",
+        "country": "",
+        "engName": "ENDO, Mika",
+        "name": "엔도 미카"
+      },
+      {
+        "address": "일본 시즈오카켄 고템바시 고마카도...",
+        "code": "",
+        "country": "",
+        "engName": "KATO, Atsuhiko",
+        "name": "가토 아쓰히코"
+      },
+      {
+        "address": "일본 도쿄도 주오쿠 니혼바시무로마...",
+        "code": "",
+        "country": "",
+        "engName": "OHTOMO, Toshihiko",
+        "name": "오토모 도시히코"
+      },
+      {
+        "address": "일본 시즈오카켄 고템바시 고마카도...",
+        "code": "",
+        "country": "",
+        "engName": "ADACHI, Kenji",
+        "name": "아다치 겐지"
+      },
+      {
+        "address": "일본 가나가와켄 가마쿠라시 가지...",
+        "code": "",
+        "country": "",
+        "engName": "KINOSHITA, Yasuko",
+        "name": "기노시타 야스코"
+      },
+      {
+        "address": "일본 가나가와켄 가마쿠라시 가지...",
+        "code": "",
+        "country": "",
+        "engName": "NARITA, Yoshinori",
+        "name": "나리타 요시노리"
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 마방로 ** (양재동, 동원F&B빌딩)",
+      "code": "920101000812",
+      "country": "대한민국",
+      "engName": "FirstLaw P.C.",
+      "name": "제일특허법인(유)"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": {
+      "priorityApplicationCountry": "일본",
+      "priorityApplicationDate": "2016.03.15",
+      "priorityApplicationNumber": "JP-P-2016-051424"
+    }
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "KR1020070034448 A",
+        "examinerQuotationFlag": "Y"
+      },
+      {
+        "documentsNumber": "WO2015112805 A1",
+        "examinerQuotationFlag": "Y"
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Patent Application] Document according to the Article 203 of Patent Act",
+        "documentName": "[특허출원]특허법 제203조에 따른 서면",
+        "receiptDate": "2017.06.15",
+        "receiptNumber": "1-1-2017-0572194-33"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Acceptance",
+        "documentName": "수리안내서",
+        "receiptDate": "2018.10.23",
+        "receiptNumber": "1-5-2018-0164146-76"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2018.11.22",
+        "receiptNumber": "1-1-2018-1166963-38"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2018.11.22",
+        "receiptNumber": "1-1-2018-1166977-77"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Preferential Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[우선심사신청]심사청구(우선심사신청)서",
+        "receiptDate": "2018.11.22",
+        "receiptNumber": "1-1-2018-1167020-88"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2018.12.11",
+        "receiptNumber": "9-5-2018-0849779-32"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.02.07",
+        "receiptNumber": "1-1-2019-0126352-36"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.03.07",
+        "receiptNumber": "1-1-2019-0233619-19"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.04.09",
+        "receiptNumber": "1-1-2019-0361517-74"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Designated Period Extension] Application of Period Extension(Reduction, Progress relief)",
+        "documentName": "[지정기간연장]기간연장(단축, 경과구제)신청서",
+        "receiptDate": "2019.05.08",
+        "receiptNumber": "1-1-2019-0466746-07"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification for Extension of Designated Period",
+        "documentName": "지정기간연장 관련 안내서",
+        "receiptDate": "2019.05.09",
+        "receiptNumber": "1-5-2019-0077563-17"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Opinion according to the Notification of Reasons for Refusal] Written Opinion(Written Reply, Written Substantiation)",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견(답변, 소명)서",
+        "receiptDate": "2019.06.10",
+        "receiptNumber": "1-1-2019-0586515-48"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to grant",
+        "documentName": "등록결정서",
+        "receiptDate": "2019.08.23",
+        "receiptNumber": "9-5-2019-0610334-36"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2023.02.28",
+        "receiptNumber": "4-1-2023-5049938-55"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.03.07",
+        "receiptNumber": "4-1-2025-5062399-75"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020177016450.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=2ba38663aa11ff0f6ca91af6061a2e008dc496b0c7c0245d4a155e36a91ac39408eeb19e67e25cf208f9c9c2e64ab3e5ad9bccc3aa351376ced90eac66fc038b38dfb61e2716890e",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cf98795d804108e7918ff8468ba0c83bf31bbd97c2f48c717d1b41dd5a838a2b62a138ffeca08377131bf265bd5342a455e2499d07a20a9f17"
+  },
+  "rndInfoArray": ""
+}

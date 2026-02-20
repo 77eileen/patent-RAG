@@ -1,0 +1,1233 @@
+{
+  "biblioSummaryInfoArray": {
+    "biblioSummaryInfo": {
+      "applicationDate": "2011.12.09",
+      "applicationFlag": "특허",
+      "applicationNumber": "10-2019-7038214",
+      "claimCount": "11",
+      "examinerName": "김승범",
+      "finalDisposal": "등록결정(재심사후)",
+      "inventionTitle": "암을 치료하기 위한 키메릭 항원 수용체 변형 T 세포의 용도",
+      "inventionTitleEng": "USE OF CHIMERIC ANTIGEN RECEPTOR-MODIFIED T  CELLS TO TREAT CANCER",
+      "openDate": "2020.02.10",
+      "openNumber": "10-2020-0014343",
+      "originalApplicationDate": "2011.12.09",
+      "originalApplicationKind": "국제출원/분할",
+      "originalApplicationNumber": "10-2013-7017546",
+      "originalExaminationRequestDate": "2020.01.22",
+      "originalExaminationRequestFlag": "Y",
+      "publicationDate": "2021.04.22",
+      "publicationNumber": "",
+      "registerDate": "2021.04.16",
+      "registerNumber": "10-2243575-0000",
+      "registerStatus": "등록",
+      "translationSubmitDate": "2019.12.24"
+    }
+  },
+  "ipcInfoArray": {
+    "ipcInfo": [
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61P 35/02"
+      },
+      {
+        "ipcDate": "(2025.01.01)",
+        "ipcNumber": "A61K 35/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 38/17"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/395"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 45/06"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 14/725"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "C07K 16/28"
+      },
+      {
+        "ipcDate": "(2010.01.01)",
+        "ipcNumber": "C12N 5/0783"
+      },
+      {
+        "ipcDate": "(2006.01.01)",
+        "ipcNumber": "A61K 39/00"
+      }
+    ]
+  },
+  "abstractInfoArray": {
+    "abstractInfo": {
+      "astrtCont": "본 발명은 인간에서 암을 치료하기 위한 조성물 및 방법을 제공한다. 본 발명은 CAR을 발현하기 위해 유전적으로 변형된 T 세포를 투여하는 단계를 포함하되, 상기 CAR은 항원 결합 도메인, 막통과 도메인, 공자극성 신호전달 영역 및 CD3 제타 신호전달 도메인을 포함한다."
+    }
+  },
+  "claims": {
+    "application_number": "1020197038214",
+    "total_amendments": 4,
+    "first_version": {
+      "version": 1,
+      "receipt_date": "20191224",
+      "document_name": "[분할출원(국제출원)]특허출원서",
+      "claim_count": 14,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "인간 T 세포 개체군의 항-종양 유효량을 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물로, 상기 T 세포는 키메릭 항원 수용체(CAR)를 발현하고, 상기 CAR은 서열번호 20의 아미노산 서열을 포함하는 CD19 항원 결합 도메인, 4-1BB 공동자극성 신호전달 영역, 및 CD3 제타 신호전달 도메인을 포함하며, 상기 T 세포는 인간 환자 유래이고, 상기 인간 환자는 적어도 하나의 화학 요법제에 대해 내성이 있는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 T 세포의 항-종양 유효량은 환자의 체중 kg 당 104 내지 109개의 세포인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항에 있어서, 상기 T 세포의 항-종양 유효량은 환자의 체중 kg 당 105 내지 106개의 세포인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 CAR은 CD8α 막통과 도메인을 추가로 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제4항에 있어서, 상기 CD8α 막통과 도메인은 서열번호 22의 아미노산 서열을 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            4
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 CAR은 CD8α 힌지 도메인을 추가로 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제6항에 있어서, 상기 CD8α 힌지 도메인은 서열번호 21의 아미노산 서열을 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            6
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 상기 4-1BB 공동자극성 신호전달 영역은 서열번호 23의 아미노산 서열을 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 상기 암은 백혈병 또는 림프종인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 상기 암은 난치성 CD19+ 백혈병 또는 림프종인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 또는 제10항에 있어서, 상기 백혈병은 만성 림프구성 백혈병 또는 급성 림프구성 백혈병인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 또는 제10항에 있어서, 상기 급성 림프구성 백혈병은 소아성 적응증인 전-B 급성 림프구성 백혈병, 또는 성인성 급성 림프구성 백혈병인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제9항 또는 제10항에 있어서, 상기 림프종은 비-호지킨 림프종인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            9,
+            10
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "신규",
+          "change_code": "I",
+          "text": "제13항에 있어서, 상기 비-호지킨 림프종은 미만성 거대 B-세포 림프종인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            13
+          ]
+        }
+      ]
+    },
+    "last_version": {
+      "version": 4,
+      "receipt_date": "20201215",
+      "document_name": "[명세서등 보정]보정서(재심사)",
+      "claim_count": 14,
+      "claims": [
+        {
+          "claim_number": 1,
+          "claim_type": "independent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "인간 T 세포 개체군의 항-종양 유효량을 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물로, 상기 T 세포는 키메릭 항원 수용체(CAR)를 발현하고, 상기 CAR은 서열번호 20의 아미노산 서열을 포함하는 CD19 항원 결합 도메인, CD8α 막통과 도메인, CD8α 힌지 도메인, 4-1BB 공동자극성 신호전달 영역, 및 CD3 제타 신호전달 도메인을 포함하며, 상기 T 세포는 인간 환자 유래이고, 상기 인간 환자는 적어도 하나의 화학 요법제에 대해 내성이 있는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+          "refers_to": []
+        },
+        {
+          "claim_number": 2,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 T 세포의 항-종양 유효량은 환자의 체중 kg 당 104 내지 109개의 세포인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 3,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 T 세포의 항-종양 유효량은 환자의 체중 kg 당 105 내지 106개의 세포인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 4,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 5,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 CD8α 막통과 도메인은 서열번호 22의 아미노산 서열을 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 6,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 7,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 CD8α 힌지 도메인은 서열번호 21의 아미노산 서열을 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 8,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 4-1BB 공동자극성 신호전달 영역은 서열번호 23의 아미노산 서열을 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 9,
+          "claim_type": "independent",
+          "change_type": "삭제",
+          "change_code": "D",
+          "text": "",
+          "refers_to": []
+        },
+        {
+          "claim_number": 10,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 백혈병은 난치성 CD19+ 백혈병인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 11,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 백혈병은 만성 림프구성 백혈병 또는 급성 림프구성 백혈병인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 12,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제11항에 있어서, 상기 급성 림프구성 백혈병은 소아성 적응증인 전-B 급성 림프구성 백혈병, 또는 성인성 급성 림프구성 백혈병인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            11
+          ]
+        },
+        {
+          "claim_number": 13,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제1항에 있어서, 상기 림프종은 비-호지킨 림프종인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            1
+          ]
+        },
+        {
+          "claim_number": 14,
+          "claim_type": "dependent",
+          "change_type": "수정",
+          "change_code": "A",
+          "text": "제13항에 있어서, 상기 비-호지킨 림프종은 미만성 거대 B-세포 림프종인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+          "refers_to": [
+            13
+          ]
+        }
+      ]
+    },
+    "all_versions": [
+      {
+        "version": 1,
+        "receipt_date": "20191224",
+        "document_name": "[분할출원(국제출원)]특허출원서",
+        "claim_count": 14,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "인간 T 세포 개체군의 항-종양 유효량을 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물로, 상기 T 세포는 키메릭 항원 수용체(CAR)를 발현하고, 상기 CAR은 서열번호 20의 아미노산 서열을 포함하는 CD19 항원 결합 도메인, 4-1BB 공동자극성 신호전달 영역, 및 CD3 제타 신호전달 도메인을 포함하며, 상기 T 세포는 인간 환자 유래이고, 상기 인간 환자는 적어도 하나의 화학 요법제에 대해 내성이 있는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 T 세포의 항-종양 유효량은 환자의 체중 kg 당 104 내지 109개의 세포인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항에 있어서, 상기 T 세포의 항-종양 유효량은 환자의 체중 kg 당 105 내지 106개의 세포인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 CAR은 CD8α 막통과 도메인을 추가로 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제4항에 있어서, 상기 CD8α 막통과 도메인은 서열번호 22의 아미노산 서열을 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제5항 중 어느 한 항에 있어서, 상기 CAR은 CD8α 힌지 도메인을 추가로 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제6항에 있어서, 상기 CD8α 힌지 도메인은 서열번호 21의 아미노산 서열을 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제7항 중 어느 한 항에 있어서, 상기 4-1BB 공동자극성 신호전달 영역은 서열번호 23의 아미노산 서열을 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제8항 중 어느 한 항에 있어서, 상기 암은 백혈병 또는 림프종인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제1항 내지 제9항 중 어느 한 항에 있어서, 상기 암은 난치성 CD19+ 백혈병 또는 림프종인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 또는 제10항에 있어서, 상기 백혈병은 만성 림프구성 백혈병 또는 급성 림프구성 백혈병인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 또는 제10항에 있어서, 상기 급성 림프구성 백혈병은 소아성 적응증인 전-B 급성 림프구성 백혈병, 또는 성인성 급성 림프구성 백혈병인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제9항 또는 제10항에 있어서, 상기 림프종은 비-호지킨 림프종인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              9,
+              10
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "신규",
+            "change_code": "I",
+            "text": "제13항에 있어서, 상기 비-호지킨 림프종은 미만성 거대 B-세포 림프종인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "version": 2,
+        "receipt_date": "20200122",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 3,
+        "claims": [
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 4-1BB 공동자극성 신호전달 영역은 서열번호 23의 아미노산 서열을 포함하는, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 암은 백혈병 또는 림프종인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 암은 난치성 CD19+ 백혈병 또는 림프종인, 인간 환자에서 암을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "version": 3,
+        "receipt_date": "20200601",
+        "document_name": "[명세서등 보정]보정서",
+        "claim_count": 14,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "인간 T 세포 개체군의 항-종양 유효량을 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물로, 상기 T 세포는 키메릭 항원 수용체(CAR)를 발현하고, 상기 CAR은 서열번호 20의 아미노산 서열을 포함하는 CD19 항원 결합 도메인, 4-1BB 공동자극성 신호전달 영역, 및 CD3 제타 신호전달 도메인을 포함하며, 상기 T 세포는 인간 환자 유래이고, 상기 인간 환자는 적어도 하나의 화학 요법제에 대해 내성이 있는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 2,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 T 세포의 항-종양 유효량은 환자의 체중 kg 당 104 내지 109개의 세포인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 3,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 T 세포의 항-종양 유효량은 환자의 체중 kg 당 105 내지 106개의 세포인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항 내지 제3항 중 어느 한 항에 있어서, 상기 CAR은 CD8α 막통과 도메인을 추가로 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제4항에 있어서, 상기 CD8α 막통과 도메인은 서열번호 22의 아미노산 서열을 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              4
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 CAR은 CD8α 힌지 도메인을 추가로 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제6항에 있어서, 상기 CD8α 힌지 도메인은 서열번호 21의 아미노산 서열을 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              6
+            ]
+          },
+          {
+            "claim_number": 8,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 4-1BB 공동자극성 신호전달 영역은 서열번호 23의 아미노산 서열을 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 9,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 10,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 백혈병은 난치성 CD19+ 백혈병, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 11,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 백혈병은 만성 림프구성 백혈병 또는 급성 림프구성 백혈병인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 12,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제11항에 있어서, 상기 급성 림프구성 백혈병은 소아성 적응증인 전-B 급성 림프구성 백혈병, 또는 성인성 급성 림프구성 백혈병인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              11
+            ]
+          },
+          {
+            "claim_number": 13,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 림프종은 비-호지킨 림프종인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 14,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제13항에 있어서, 상기 비-호지킨 림프종은 미만성 거대 B-세포 림프종인, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "version": 4,
+        "receipt_date": "20201215",
+        "document_name": "[명세서등 보정]보정서(재심사)",
+        "claim_count": 5,
+        "claims": [
+          {
+            "claim_number": 1,
+            "claim_type": "independent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "인간 T 세포 개체군의 항-종양 유효량을 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물로, 상기 T 세포는 키메릭 항원 수용체(CAR)를 발현하고, 상기 CAR은 서열번호 20의 아미노산 서열을 포함하는 CD19 항원 결합 도메인, CD8α 막통과 도메인, CD8α 힌지 도메인, 4-1BB 공동자극성 신호전달 영역, 및 CD3 제타 신호전달 도메인을 포함하며, 상기 T 세포는 인간 환자 유래이고, 상기 인간 환자는 적어도 하나의 화학 요법제에 대해 내성이 있는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": []
+          },
+          {
+            "claim_number": 4,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 5,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 CD8α 막통과 도메인은 서열번호 22의 아미노산 서열을 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          },
+          {
+            "claim_number": 6,
+            "claim_type": "independent",
+            "change_type": "삭제",
+            "change_code": "D",
+            "text": "",
+            "refers_to": []
+          },
+          {
+            "claim_number": 7,
+            "claim_type": "dependent",
+            "change_type": "수정",
+            "change_code": "A",
+            "text": "제1항에 있어서, 상기 CD8α 힌지 도메인은 서열번호 21의 아미노산 서열을 포함하는, 인간 환자에서 백혈병 또는 림프종을 치료하기 위한 약학 조성물.",
+            "refers_to": [
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "before_claim_count": 14,
+      "after_claim_count": 5,
+      "total_versions": 4
+    }
+  },
+  "familyInfoArray": {
+    "familyInfo": [
+      {
+        "familyApplicationNumber": "1020137017546"
+      },
+      {
+        "familyApplicationNumber": "1020217011458"
+      }
+    ]
+  },
+  "internationalInfoArray": {
+    "internationalInfo": {
+      "internationOpenDate": "2012.06.14",
+      "internationOpenNumber": "WO2012079000",
+      "internationalApplicationDate": "2011.12.09",
+      "internationalApplicationNumber": "PCT/US2011/064191"
+    }
+  },
+  "applicantInfoArray": {
+    "applicantInfo": {
+      "address": "미국, ***** 펜실바니아주, 필라델피아, *층, 씨빅 센터 불러바드 ****",
+      "code": "519980620725",
+      "country": "미국",
+      "engName": "The Trustees of the University of Pennsylvania",
+      "name": "더 트러스티스 오브 더 유니버시티 오브 펜실바니아"
+    }
+  },
+  "inventorInfoArray": {
+    "inventorInfo": [
+      {
+        "address": "미합중국, 펜실바니아 ****...",
+        "code": "",
+        "country": "",
+        "engName": "JUNE, Carl, H.",
+        "name": "준, 칼, 에이치."
+      },
+      {
+        "address": "미합중국, 뉴저지 *****...",
+        "code": "",
+        "country": "",
+        "engName": "LEVINE, Bruce, L.",
+        "name": "레빈, 브루체, 엘."
+      },
+      {
+        "address": "미합중국, 펜실바니아 ***...",
+        "code": "",
+        "country": "",
+        "engName": "PORTER, David, L.",
+        "name": "포터, 데이비드, 엘."
+      },
+      {
+        "address": "미합중국, 펜실바니아 **...",
+        "code": "",
+        "country": "",
+        "engName": "KALOS, Michael, D.",
+        "name": "카로스, 마이클, 디."
+      },
+      {
+        "address": "미합중국, 뉴저지 ***...",
+        "code": "",
+        "country": "",
+        "engName": "MILONE, Michael, C.",
+        "name": "밀온, 마이클, 씨."
+      }
+    ]
+  },
+  "agentInfoArray": {
+    "agentInfo": {
+      "address": "서울특별시 서초구 사평대로 ***, *층 (반포동)",
+      "code": "920161000615",
+      "country": "대한민국",
+      "engName": "Jipyong Intellectual Property Law Firm",
+      "name": "특허법인지평"
+    }
+  },
+  "priorityInfoArray": {
+    "priorityInfo": [
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2010.12.09",
+        "priorityApplicationNumber": "61/421,470"
+      },
+      {
+        "priorityApplicationCountry": "미국",
+        "priorityApplicationDate": "2011.06.29",
+        "priorityApplicationNumber": "61/502,649"
+      }
+    ]
+  },
+  "designatedStateInfoArray": "",
+  "priorArtDocumentsInfoArray": {
+    "priorArtDocumentsInfo": [
+      {
+        "documentsNumber": "Leukemia, Vol.18, pp.676-684 (2004)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "NCBI Reference Sequence: NM_000734.3 (2009.12.07.)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Molecular Immunology, Vol.34, No.16-17, pp.1157-1165 (1997)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "JP2003517301 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Molecular Therapy, Vol.17, No.8, pp.1453-1464 (2009.08.)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Human Gene Therapy, Vol.21, pp.75-86 (2010.01.)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "Blood, Vol.116, No.19, pp.3875-3886 (2010.11.11.)",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "US20040043401 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "JP2004052638 A",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2002077029 A2",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2010025177 A1",
+        "examinerQuotationFlag": ""
+      },
+      {
+        "documentsNumber": "WO2009091826 A2",
+        "examinerQuotationFlag": ""
+      }
+    ]
+  },
+  "legalStatusInfoArray": {
+    "legalStatusInfo": [
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2019.12.24",
+        "receiptNumber": "1-1-2019-1336346-11"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Request for Amendment",
+        "documentName": "보정요구서",
+        "receiptDate": "2019.12.27",
+        "receiptNumber": "1-5-2019-0207305-16"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.01.22",
+        "receiptNumber": "1-1-2020-0077630-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Request for Examination] Request for Examination (Request for Preferential Examination)",
+        "documentName": "[심사청구]심사청구(우선심사신청)서",
+        "receiptDate": "2020.01.22",
+        "receiptNumber": "1-1-2020-0077691-84"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2020.01.28",
+        "receiptNumber": "1-1-2020-0089303-10"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2020.03.19",
+        "receiptNumber": "4-1-2020-5065313-02"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification of reason for refusal",
+        "documentName": "의견제출통지서",
+        "receiptDate": "2020.03.23",
+        "receiptNumber": "9-5-2020-0211839-02"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "[Amendment to Description, etc.] Amendment",
+        "documentName": "[명세서등 보정]보정서",
+        "receiptDate": "2020.06.01",
+        "receiptNumber": "1-1-2020-0557912-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.06.01",
+        "receiptNumber": "1-1-2020-0557791-77"
+      },
+      {
+        "commonCodeName": "불수리 (Non-acceptance)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.06.01",
+        "receiptNumber": "1-1-2020-0557774-01"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Reason for Return of Document",
+        "documentName": "서류반려이유통지서",
+        "receiptDate": "2020.06.03",
+        "receiptNumber": "1-5-2020-0078597-51"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2020.06.05",
+        "receiptNumber": "1-1-2020-0582960-73"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[반려요청]서류 반려요청서·반환신청서",
+        "receiptDate": "2020.06.05",
+        "receiptNumber": "1-1-2020-0582940-60"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Amendment to Patent Application, etc.] Amendment",
+        "documentName": "[출원서 등 보정]보정서",
+        "receiptDate": "2020.06.05",
+        "receiptNumber": "1-1-2020-0582978-94"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice for Return of Document",
+        "documentName": "서류반려통지서",
+        "receiptDate": "2020.06.08",
+        "receiptNumber": "1-5-2020-0081635-70"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Information about Application (Patent)]Submission of Information",
+        "documentName": "[출원에 대한 정보(특허)]정보제출서",
+        "receiptDate": "2020.08.14",
+        "receiptNumber": "1-1-2020-0860048-02"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Information about Application (Patent)]Submission of Information",
+        "documentName": "[출원에 대한 정보(특허)]정보제출서",
+        "receiptDate": "2020.09.01",
+        "receiptNumber": "1-1-2020-0920924-79"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification (Written Submission of Information)",
+        "documentName": "안내문(정보제출서)",
+        "receiptDate": "2020.09.01",
+        "receiptNumber": "1-5-2020-0129854-76"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Information about Application (Patent)]Submission of Information",
+        "documentName": "[출원에 대한 정보(특허)]정보제출서",
+        "receiptDate": "2020.09.02",
+        "receiptNumber": "1-1-2020-0927911-94"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notification (Written Submission of Information)",
+        "documentName": "안내문(정보제출서)",
+        "receiptDate": "2020.09.03",
+        "receiptNumber": "1-5-2020-0131211-32"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Refuse a Patent",
+        "documentName": "거절결정서",
+        "receiptDate": "2020.09.17",
+        "receiptNumber": "9-5-2020-0642105-06"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Processing Result for Information Provision",
+        "documentName": "정보제공에대한처리결과통지서",
+        "receiptDate": "2020.09.18",
+        "receiptNumber": "9-5-2020-0645583-10"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Notice of Processing Result for Information Provision",
+        "documentName": "정보제공에대한처리결과통지서",
+        "receiptDate": "2020.09.18",
+        "receiptNumber": "9-5-2020-0645584-66"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[법정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.10.15",
+        "receiptNumber": "1-1-2020-1088113-08"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "",
+        "documentName": "법정기간연장승인서",
+        "receiptDate": "2020.10.19",
+        "receiptNumber": "1-5-2020-0154746-29"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[법정기간연장]기간 연장신청서·기간 단축신청서·기간 경과 구제신청서·절차 계속신청서",
+        "receiptDate": "2020.11.11",
+        "receiptNumber": "1-1-2020-1204502-44"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "",
+        "documentName": "법정기간연장승인서",
+        "receiptDate": "2020.11.12",
+        "receiptNumber": "1-5-2020-0169680-55"
+      },
+      {
+        "commonCodeName": "보정승인 (Acceptance of amendment)",
+        "documentEngName": "Amendment to Description, etc(Reexamination)",
+        "documentName": "[명세서등 보정]보정서(재심사)",
+        "receiptDate": "2020.12.15",
+        "receiptNumber": "1-1-2020-1362835-04"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "[거절이유 등 통지에 따른 의견]의견서·답변서·소명서",
+        "receiptDate": "2020.12.15",
+        "receiptNumber": "1-1-2020-1362892-96"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2020.12.30",
+        "receiptNumber": "4-1-2020-5299803-38"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "Notification of change of applicant's information",
+        "documentName": "출원인정보변경(경정)신고서",
+        "receiptDate": "2021.01.01",
+        "receiptNumber": "4-1-2021-5000126-48"
+      },
+      {
+        "commonCodeName": "발송처리완료 (Completion of Transmission)",
+        "documentEngName": "Decision to Grant Registration",
+        "documentName": "등록결정서",
+        "receiptDate": "2021.01.15",
+        "receiptNumber": "9-5-2021-0042139-75"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Divisional Application(International Application)] Patent Application",
+        "documentName": "[분할출원(국제출원)]특허출원서",
+        "receiptDate": "2021.04.16",
+        "receiptNumber": "1-1-2021-0449455-20"
+      },
+      {
+        "commonCodeName": "보정승인간주 (Regarded as an acceptance of amendment)",
+        "documentEngName": "",
+        "documentName": "[명세서등 보정]보정서(심사관 직권보정)",
+        "receiptDate": "2021.04.17",
+        "receiptNumber": "1-1-2021-5010598-16"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "[Appointment of Agent] Report on Agent (Representative)",
+        "documentName": "[대리인선임]대리인(대표자)에 관한 신고서",
+        "receiptDate": "2022.01.26",
+        "receiptNumber": "1-1-2022-0102349-30"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.07.19",
+        "receiptNumber": "4-1-2022-5168434-24"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2022.07.20",
+        "receiptNumber": "4-1-2022-5169769-82"
+      },
+      {
+        "commonCodeName": "수리 (Accepted)",
+        "documentEngName": "",
+        "documentName": "특허고객번호 정보변경(경정)신고서·정정신고서",
+        "receiptDate": "2025.11.03",
+        "receiptNumber": "4-1-2025-5307310-58"
+      }
+    ]
+  },
+  "imagePathInfo": {
+    "docName": "1020197038214.jpg",
+    "largePath": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=6c650beb4cee9ce4122b704b88878c93afe91e9f8970912087c07f72cb206956ea40c3c8f50b98b41bd6a010d6a8b63d4dcbfb390d082b8690539126a089e8092e5c224197d6e642",
+    "path": "http://plus.kipris.or.kr/openapi/fileToss.jsp?arg=ed43a0609e94d6e22d01c5c32ba711cfbc361e4acb32cb4b65642ddf2416f24e49b365e59a0a3bf2f034dec3db19e16a09c577858918874f061c37dd534b7cf6ece21c766965229e"
+  },
+  "rndInfoArray": ""
+}
