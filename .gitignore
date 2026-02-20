@@ -9,6 +9,12 @@ dj/data/keywords_output/
 dj/scripts/keywords_josa/output/
 dj/scripts/keywords/
 dj/scripts/morph/
+dj/scripts/**/*.csv
+
+# 대용량 파일
+*.csv
+*.pkl
+*.pickle
 
 # 로그
 dj/logs/
